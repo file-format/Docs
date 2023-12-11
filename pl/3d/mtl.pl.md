@@ -17,7 +17,7 @@
 "toc": true,
 "title":"Format pliku MTL - plik biblioteki szablonów materiałów OBJ",
    "description":"Dowiedz się więcej o formacie pliku biblioteki szablonów materiałów MTL OBJ i interfejsach API, które umożliwiają tworzenie i otwieranie plików MTL.",
-"linktitle":"MTL",
+   "linktitle":"MTL",
    "menu":{
       "docs":{
          "identifier":"3d-mtl",

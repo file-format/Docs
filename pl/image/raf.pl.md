@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Format pliku RAF - obraz RAW Fujifilm",
   "description":"Dowiedz się o formacie RAF i interfejsach API, które umożliwiają tworzenie i otwieranie plików RAF.",
-"tytuł łącza": "RAF",
+  "linktitle": "RAF",
   "menu": {
     "docs": {
       "identifier": "image-raf",

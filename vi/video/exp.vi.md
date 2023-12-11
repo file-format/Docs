@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Định dạng tệp EXP - Tệp video xuất sê-ri DX",
   "description":"Tìm hiểu về định dạng EXP và các API có thể tạo và mở tệp EXP.",
-"linktitle":"EXP",
+  "linktitle": "EXP",
   "menu": {
     "docs": {
       "identifier": "video-exp",

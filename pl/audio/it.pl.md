@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Format pliku IT - moduł śledzenia impulsów",
   "description":"Dowiedz się o formacie IT i interfejsach API, które umożliwiają tworzenie i otwieranie plików IT.",
-"tytuł linku": "IT",
+  "linktitle": "IT",
   "menu": {
     "docs": {
       "identifier": "audio-it",

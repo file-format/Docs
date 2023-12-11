@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Định dạng tệp ISS - Tập lệnh thiết lập Inno",
   "description":"Tìm hiểu về định dạng ISS và các API có thể tạo và mở tệp ISS.",
-"linktitle":"ISS",
+  "linktitle": "ISS",
   "menu": {
     "docs": {
       "identifier": "settings-iss",

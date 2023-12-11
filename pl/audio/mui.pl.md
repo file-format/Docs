@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format pliku MUI - niezliczona ilość plików instrumentów użytkownika",
   "description":"Dowiedz się więcej o formacie pliku MUI i interfejsach API, które umożliwiają tworzenie i otwieranie plików MUI.",
-"tytuł łącza": "MUI",
+  "linktitle": "MUI",
   "menu": {
     "docs": {
       "identifier": "audio-mui",

@@ -15,7 +15,7 @@
 "toc": true,
 "title": "CHIP fájlformátum - Microarray megjegyzésfájl",
   "description":"További információ a CHIP fájlformátumról és az API-król, amelyek CHIP fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "CHIP",
+  "linktitle": "CHIP",
   "menu": {
     "docs": {
       "identifier": "spreadsheet-chip",

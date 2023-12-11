@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Định dạng tệp C4D - Tệp mô hình rạp chiếu phim 4D",
   "description":"Tìm hiểu về định dạng C4D và các API có thể tạo và mở tệp C4D.",
-"tiêu đề liên kết": "C4D",
+  "linktitle": "C4D",
   "menu": {
     "docs": {
       "identifier": "3d-c4d",

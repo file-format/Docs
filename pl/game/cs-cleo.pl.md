@@ -17,7 +17,7 @@
 "toc": true,
 "title":"Format pliku CS - niestandardowy skrypt CLEO",
    "description":"Dowiedz się o formacie niestandardowego skryptu CS CLEO i interfejsach API, które umożliwiają tworzenie i otwieranie plików CS.",
-"linktitle":"CS CLEO",
+   "linktitle":"CS CLEO",
    "menu":{
       "docs":{
          "identifier":"game-cs-cleo",

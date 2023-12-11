@@ -17,7 +17,7 @@
 "toc": true,
 "title":"Format pliku UPS - plik łatki UPS",
    "description":"Dowiedz się więcej o formacie pliku łatki UPS i interfejsach API, które umożliwiają tworzenie i otwieranie plików UPS.",
-"linktitle":"UPS",
+   "linktitle":"UPS",
    "menu":{
       "docs":{
          "identifier":"game-ups",

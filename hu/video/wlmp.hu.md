@@ -15,7 +15,7 @@
 "toc": true,
 "title": "WLMP fájlformátum - Windows Live Movie Maker Project",
   "description":"További információ a WLMP fájlformátumról és az API-król, amelyek WLMP fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "WLMP",
+  "linktitle": "WLMP",
   "menu": {
     "docs": {
       "identifier": "video-wlmp",

@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Co to jest konwerter wideo? Kompletny przewodnik po konwerterach wideo",
   "description":"Dowiedz się o konwerterach wideo, formatach, często zadawanych pytaniach i najlepszych narzędziach",
-"linktitle": "KONWERTER WIDEO",
+  "linktitle": "VIDEO CONVERTER",
   "menu": {
     "docs": {
       "identifier": "misc-video-converter",

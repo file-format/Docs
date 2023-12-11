@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Định dạng tệp TTR - Phát lại TETR.IO",
   "description":"Tìm hiểu về định dạng TTR và các API có thể tạo và mở tệp TTR.",
-"linktitle":"TTR",
+  "linktitle": "TTR",
   "menu": {
     "docs": {
       "identifier": "game-ttr",

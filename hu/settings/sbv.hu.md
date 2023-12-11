@@ -15,7 +15,7 @@
 "toc": true,
 "title": "SBV fájlformátum - YouTube feliratok fájl",
   "description":"További információ az SBV formátumról és az SBV-fájlok létrehozására és megnyitására alkalmas API-król.",
-"linktitle": "SBV",
+  "linktitle": "SBV",
   "menu": {
     "docs": {
       "identifier": "settings-sbv",

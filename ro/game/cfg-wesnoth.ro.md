@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Format de fișier CFG - fișier Wesnoth Markup Language",
   "description":"Aflați despre formatul fișierului CFG Wesnoth Markup Language și despre API-urile care pot crea și deschide fișiere CFG.",
-"linktitle": "CFG Wesnoth",
+  "linktitle": "CFG Wesnoth",
   "menu": {
     "docs": {
       "identifier": "game-cfg-wesnoth",

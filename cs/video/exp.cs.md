@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Formát souboru EXP - exportovaný soubor videa řady DX",
   "description":"Další informace o formátu EXP a rozhraních API, která mohou vytvářet a otevírat soubory EXP.",
-"linktitle": "EXP",
+  "linktitle": "EXP",
   "menu": {
     "docs": {
       "identifier": "video-exp",

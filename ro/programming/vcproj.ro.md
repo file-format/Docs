@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Format fișier VCPROJ - fișier proiect Visual C++",
   "description":"Aflați despre formatul VCPROJ și despre API-urile care pot crea și deschide fișiere VCPROJ.",
-"linktitle": "VCPROJ",
+  "linktitle": "VCPROJ",
   "menu": {
     "docs": {
       "identifier": "programming-vcproj",

@@ -18,7 +18,7 @@
 "toc": true,
 "title": "Định dạng tệp FPT - Tệp ghi nhớ bảng Alpha Five",
   "description":"Tìm hiểu về định dạng và API của FPT Alpha Five có thể tạo và mở file FPT.",
-"linktitle":"FPT Alpha Five",
+  "linktitle": "FPT Alpha Five",
   "menu": {
     "docs": {
       "identifier": "database-fpt-alphafive",

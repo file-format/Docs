@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Formát souboru PMP - soubor parametrů modelu vykreslování AutoCAD",
   "description":"Další informace o formátu PMP a rozhraních API, která mohou vytvářet a otevírat soubory PMP.",
-"linktitle": "PMP",
+  "linktitle": "PMP",
   "menu": {
     "docs": {
       "identifier": "settings-pmp",

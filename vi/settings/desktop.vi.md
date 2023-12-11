@@ -18,7 +18,7 @@
 "toc": true,
 "title": "Định dạng tệp DESKTOP - Tệp mục nhập trên máy tính để bàn",
   "description":"Tìm hiểu về định dạng DESKTOP và các API có thể tạo và mở tệp DESKTOP.",
-"linktitle":"MÁY TÍNH",
+  "linktitle": "DESKTOP",
   "menu": {
     "docs": {
       "identifier": "settings-desktop",

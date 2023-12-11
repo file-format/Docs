@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Format fișier PAT - Fișier model CorelDRAW",
    "description":"Aflați despre formatul de fișier PAT CorelDRAW Pattern și despre API-urile care pot crea și deschide fișiere PAT.",
-"linktitle":"PAT CorelDRAW",
+   "linktitle":"PAT CorelDRAW",
    "menu":{
       "docs":{
          "identifier":"image-pat-coreldraw",

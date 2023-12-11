@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Formát souboru BAK - Záloha skóre finále 2012",
   "description":"Další informace o formátu BAK Finale a rozhraních API, která mohou vytvářet a otevírat soubory BAK.",
-"linktitle": "BAK Finale",
+  "linktitle": "BAK Finale",
   "menu": {
     "docs": {
       "identifier": "misc-bak-finale",

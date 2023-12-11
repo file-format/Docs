@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Định dạng tệp WPS - Tệp dự án bàn làm việc của SDL Translator",
   "description":"Tìm hiểu về định dạng WPS và các API có thể tạo và mở tệp WPS.",
-"linktitle":"WPS",
+  "linktitle": "WPS",
   "menu": {
     "docs": {
       "identifier": "settings-wps",

@@ -15,7 +15,7 @@
 "toc": true,
 "title": "OVPN fájlformátum - OpenVPN konfigurációs fájl",
   "description":"További információ az OVPN-formátumról és az API-król, amelyek OVPN-fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "OVPN",
+  "linktitle": "OVPN",
   "menu": {
     "docs": {
       "identifier": "settings-ovpn",

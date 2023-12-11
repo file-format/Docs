@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format pliku RIP - plik mashup audio Hit'n'Mix",
   "description":"Dowiedz się o formacie pliku RIP i interfejsach API, które umożliwiają tworzenie i otwieranie plików RIP.",
-"tytuł łącza": "RIP",
+  "linktitle": "RIP",
   "menu": {
     "docs": {
       "identifier": "audio-rip",

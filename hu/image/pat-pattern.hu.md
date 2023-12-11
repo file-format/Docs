@@ -17,7 +17,7 @@
 "toc":true,
 "title":"PAT fájlformátum - mintafájl",
    "description":"További információ a PAT Pattern fájlformátumról és az API-król, amelyek PAT fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle":"PAT minta",
+   "linktitle":"PAT Pattern",
    "menu":{
       "docs":{
          "identifier":"image-pat-pattern",

@@ -15,7 +15,7 @@
 "toc":true,
 "title": "PAR файлов формат - Специален Micros DVR запис",
    "description":"Научете за PAR формата и API, които могат да създават и отварят PAR файлове.",
-"linktitle": "PAR",
+   "linktitle":"PAR",
    "menu":{
       "docs":{
          "identifier":"video-par",

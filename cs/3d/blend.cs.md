@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Formát souboru BLEND - soubor Blender 3D",
   "description":"Další informace o formátu BLEND a rozhraních API, která mohou vytvářet a otevírat soubory BLEND.",
-"linktitle": "BLEND",
+  "linktitle": "BLEND",
   "menu": {
     "docs": {
       "identifier": "3d-blend",

@@ -16,7 +16,7 @@
 "toc": true,
 "title": "JSF fájlformátum - Java Script parancsfájl",
   "description":"További információ a JSF-formátumról és az API-król, amelyek JSF-fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "JSF",
+  "linktitle": "JSF",
   "menu": {
     "docs": {
       "identifier": "executable-jsf",

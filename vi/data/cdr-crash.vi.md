@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Tệp CDR - Tệp dữ liệu truy xuất dữ liệu gặp sự cố - Tệp .cdr là gì và làm cách nào để mở nó?",
    "description":"Tìm hiểu về định dạng tệp Dữ liệu truy xuất dữ liệu sự cố CDR và các API có thể tạo và mở tệp CDR.",
-"linktitle":"CDR",
+   "linktitle":"CDR",
    "menu":{
       "docs":{
          "identifier":"data-cdr-crash",

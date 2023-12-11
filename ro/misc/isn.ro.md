@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Format fișier ISN - Fișier sursă de instalare",
   "description":"Aflați despre formatul ISN și despre API-urile care pot crea și deschide fișiere ISN.",
-"linktitle": "ISN",
+  "linktitle": "ISN",
   "menu": {
     "docs": {
       "identifier": "misc-isn",

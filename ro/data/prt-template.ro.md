@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Fișier PRT - Șablon de prezentări - Ce este un fișier .prt și cum îl deschid?",
    "description":"Aflați despre formatul de fișier al șablonului de prezentare PRT și despre API-urile care pot crea și deschide fișiere PRT.",
-"linktitle":"PRT",
+   "linktitle":"PRT",
    "menu":{
       "docs":{
          "identifier":"data-prt-template",

@@ -16,7 +16,7 @@
 "toc":true,
 "title":"Formát souboru BPS - soubor opravy BPS",
    "description":"Další informace o formátu BPS a rozhraních API, která mohou vytvářet a otevírat soubory BPS.",
-"linktitle":"BPS",
+   "linktitle":"BPS",
    "menu":{
       "docs":{
          "identifier":"game-bps",

@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Soubor XCI - Co je soubor .xci a jak jej otevřít?",
    "description":"Další informace o formátu souboru XCI NX Card Image a rozhraní API, která mohou vytvářet a otevírat soubory XCI.",
-"linktitle":"XCI",
+   "linktitle":"XCI",
    "menu":{
       "docs":{
          "identifier":"game-xci",

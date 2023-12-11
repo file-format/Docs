@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Định dạng tệp DVD - Trình điều khiển thiết bị DOS",
    "description":"Tìm hiểu về định dạng tệp Trình điều khiển Thiết bị DVD MS-DOS và các API có thể tạo và mở tệp DVD.",
-"linktitle":"DVD",
+   "linktitle":"DVD",
    "menu":{
       "docs":{
          "identifier":"system-dvd-dos",

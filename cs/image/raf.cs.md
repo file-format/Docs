@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Formát souboru RAF - Fujifilm RAW Image",
   "description":"Další informace o formátu RAF a rozhraních API, která mohou vytvářet a otevírat soubory RAF.",
-"linktitle": "RAF",
+  "linktitle": "RAF",
   "menu": {
     "docs": {
       "identifier": "image-raf",

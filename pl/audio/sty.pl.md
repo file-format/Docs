@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format pliku STY - styl klawiatury Yamaha lub Korg",
   "description":"Dowiedz się o formacie STY i interfejsach API, które umożliwiają tworzenie i otwieranie plików STY.",
-"tytuł linku": "STY",
+  "linktitle": "STY",
   "menu": {
     "docs": {
       "identifier": "audio-sty",

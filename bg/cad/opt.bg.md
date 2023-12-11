@@ -15,7 +15,7 @@
 "toc": true,
 "title": "OPT файлов формат - Opterecenja файл",
   "description":"Научете за OPT файловия формат и API, които могат да създават и отварят OPT файлове.",
-"linktitle": "OPT",
+  "linktitle": "OPT",
   "menu": {
     "docs": {
       "identifier": "cad-opt",

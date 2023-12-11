@@ -18,7 +18,7 @@
 "toc": true,
 "title": "Format de fișier FPT - Fișier Memo de tabel Alpha Five",
   "description":"Aflați despre formatul FPT Alpha Five și despre API-urile care pot crea și deschide fișiere FPT.",
-"linktitle": "FPT Alpha Five",
+  "linktitle": "FPT Alpha Five",
   "menu": {
     "docs": {
       "identifier": "database-fpt-alphafive",

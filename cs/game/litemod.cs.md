@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Formát souboru LITEMOD - soubor Minecraft LiteLoader Mod",
   "description":"Další informace o formátu LITEMOD a rozhraních API, která mohou vytvářet a otevírat soubory LITEMOD.",
-"linktitle": "LIITEMOD",
+  "linktitle": "LITEMOD",
   "menu": {
     "docs": {
       "identifier": "game-litemod",

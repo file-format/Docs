@@ -14,7 +14,7 @@
 "toc": true,
 "title": "ASL файлов формат - Photoshop Layer Style",
   "description":"Научете за ASL формата и API, които могат да създават и отварят ASL файлове.",
-"linktitle": "ASL",
+  "linktitle": "ASL",
   "menu": {
     "docs": {
       "identifier": "settings-asl",

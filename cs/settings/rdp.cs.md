@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Formát souboru RDP - konfigurační soubor vzdálené plochy",
   "description":"Další informace o formátu RDP a rozhraních API, která mohou vytvářet a otevírat soubory RDP.",
-"linktitle": "RDP",
+  "linktitle": "RDP",
   "menu": {
     "docs": {
       "identifier": "settings-rdp",

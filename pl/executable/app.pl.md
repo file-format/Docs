@@ -15,7 +15,7 @@
 "toc": true,
   "description":"Dowiedz się więcej o formacie pliku aplikacji i interfejsach API, które umożliwiają tworzenie i otwieranie plików aplikacji.",
 "title": "Format pliku aplikacji - pakiet aplikacji macOS",
-"tytuł łącza": "APLIKACJA",
+  "linktitle": "APP",
   "menu": {
     "docs": {
       "identifier": "executable-app",

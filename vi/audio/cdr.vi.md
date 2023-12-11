@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Định dạng tệp CDR - Dữ liệu âm thanh CD thô",
    "description":"Tìm hiểu về định dạng tệp Dữ liệu âm thanh CD thô CDR và các API có thể tạo và mở tệp CDR.",
-"linktitle":"CDR",
+   "linktitle":"CDR",
    "menu":{
       "docs":{
          "identifier":"audio-cdr",

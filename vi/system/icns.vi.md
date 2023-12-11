@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Định dạng tệp ICNS - Tài nguyên biểu tượng macOS",
   "description":"Tìm hiểu về định dạng ICNS và các API có thể tạo và mở tệp ICNS.",
-"linktitle":"ICNS",
+  "linktitle": "ICNS",
   "menu": {
     "docs": {
       "identifier": "system-icns",

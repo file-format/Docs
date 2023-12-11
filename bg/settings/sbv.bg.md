@@ -15,7 +15,7 @@
 "toc": true,
 "title": "SBV файлов формат - YouTube файл с надписи",
   "description":"Научете за SBV формата и API, които могат да създават и отварят SBV файлове.",
-"linktitle": "SBV",
+  "linktitle": "SBV",
   "menu": {
     "docs": {
       "identifier": "settings-sbv",

@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Định dạng tệp BAK - Thế giới Terraria hoặc Sao lưu người chơi",
   "description":"Tìm hiểu về định dạng trò chơi BAK Terraria và các API có thể tạo và mở tệp BAK.",
-"linktitle":"BAK TERRARIA",
+  "linktitle": "BAK TERRARIA",
   "menu": {
     "docs": {
       "identifier": "game-bak-terraria",

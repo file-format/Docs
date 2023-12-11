@@ -15,7 +15,7 @@
 "toc": true,
 "title": "OBI файлов формат - Outlook RSS абонаментен файл",
   "description":"Научете за OBI формата и API, които могат да създават и отварят OBI файлове.",
-"linktitle": "OBI",
+  "linktitle": "OBI",
   "menu": {
     "docs": {
       "identifier": "settings-obi",

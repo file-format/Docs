@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Format pliku ARW - obraz z aparatu cyfrowego Sony Alpha Raw",
   "description":"Dowiedz się o formacie ARW i interfejsach API, które umożliwiają tworzenie i otwieranie plików ARW.",
-"tytuł łącza": "ARW",
+  "linktitle": "ARW",
   "menu": {
     "docs": {
       "identifier": "image-arw",

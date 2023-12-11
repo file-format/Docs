@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Format fișier ICNS - resursă pictogramă macOS",
   "description":"Aflați despre formatul ICNS și despre API-urile care pot crea și deschide fișiere ICNS.",
-"linktitle": "ICNS",
+  "linktitle": "ICNS",
   "menu": {
     "docs": {
       "identifier": "system-icns",

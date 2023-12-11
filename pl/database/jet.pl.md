@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Format pliku JET - plik bazy danych Microsoft JET",
   "description":"Dowiedz się o formacie JET i interfejsach API, które umożliwiają tworzenie i otwieranie plików JET.",
-"tytuł łącza": "JET",
+  "linktitle": "JET",
   "menu": {
     "docs": {
       "identifier": "database-jet",

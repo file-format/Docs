@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Format pliku BAK - Akt! Kopia zapasowa bazy danych",
   "description":"Dowiedz się o formacie BAK Act! Format kopii zapasowych i interfejsach API, które umożliwiają tworzenie i otwieranie plików BAK.",
-"linktitle": "Kopia zapasowa BAK ACT",
+  "linktitle": "BAK ACT Backup",
   "menu": {
     "docs": {
       "identifier": "database-bak-act",

@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Formát souboru BAK - Záloha databáze Microsoft SQL Server",
   "description":"Další informace o formátu BAK SQL Server Backup a rozhraních API, která mohou vytvářet a otevírat soubory BAK.",
-"linktitle": "BAK SQL Server",
+  "linktitle": "BAK SQL Server",
   "menu": {
     "docs": {
       "identifier": "database-bak-sqlserver",

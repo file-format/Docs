@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Formát souboru HPP - soubor záhlaví C++",
   "description":"Další informace o formátu HPP a rozhraních API, která mohou vytvářet a otevírat soubory HPP.",
-"linktitle": "HPP",
+  "linktitle": "HPP",
   "menu": {
     "docs": {
       "identifier": "programming-hpp",

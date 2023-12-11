@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Định dạng tệp XEM - Tệp định nghĩa mô hình PowerDesigner",
   "description":"Tìm hiểu về định dạng XEM và các API có thể tạo và mở tệp XEM.",
-"linktitle":"XEM",
+  "linktitle": "XEM",
   "menu": {
     "docs": {
       "identifier": "database-xem",

@@ -18,7 +18,7 @@
 "toc": true,
 "title": "DV fájl formátum - digitális videó fájl",
   "description":"Tudjon meg többet a DV-formátumról és az API-król, amelyekkel DV-fájlokat hozhat létre és nyithat meg.",
-"linktitle": "DV",
+  "linktitle": "DV",
   "menu": {
     "docs": {
       "identifier": "video-dv",

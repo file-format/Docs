@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Formát souboru BIN - Sega Genesis Game ROM",
   "description":"Další informace o formátu BIN a rozhraních API, která mohou vytvářet a otevírat soubory BIN.",
-"linktitle": "BIN",
+  "linktitle": "BIN",
   "menu": {
     "docs": {
       "identifier": "game-bin",

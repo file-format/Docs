@@ -7,7 +7,7 @@
 "toc": true,
 "title": "PZZ fájl - Mi az .pzz fájl, és hogyan kell megnyitni?",
   "description":"További információ a PZZ formátumról és az API-król, amelyek PZZ fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "PZZ",
+  "linktitle": "PZZ",
   "menu": {
     "docs": {
       "identifier": "compression-pzz",

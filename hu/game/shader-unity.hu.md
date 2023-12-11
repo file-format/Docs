@@ -17,7 +17,7 @@
 "toc":true,
 "title":"SHADER fájlformátum - Unity Shader Asset",
    "description":"További információ a SHADER Unity Shader Asset formátumról és az API-król, amelyek SHADER fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle":"SHADER Unity",
+   "linktitle":"SHADER Unity",
    "menu":{
       "docs":{
          "identifier":"game-shader-unity",

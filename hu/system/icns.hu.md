@@ -14,7 +14,7 @@
 "toc": true,
 "title": "ICNS fájlformátum - macOS Icon Resource",
   "description":"További információ az ICNS-formátumról és az ICNS-fájlok létrehozására és megnyitására alkalmas API-król.",
-"linktitle": "ICNS",
+  "linktitle": "ICNS",
   "menu": {
     "docs": {
       "identifier": "system-icns",

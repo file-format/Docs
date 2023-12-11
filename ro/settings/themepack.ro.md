@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format de fișier THEMEPACK - pachet de teme Windows 7",
   "description":"Aflați despre formatul THEMEPACK și despre API-urile care pot crea și deschide fișiere THEMEPACK.",
-"linktitle": "THEMEPACK",
+  "linktitle": "THEMEPACK",
   "menu": {
     "docs": {
       "identifier": "settings-themepack",

@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format pliku JWPUB - Publikacja Świadków Jehowy",
   "description":"Dowiedz się o formacie JWPUB i interfejsach API, które umożliwiają tworzenie i otwieranie plików JWPUB.",
-"tytuł linku": "JWPUB",
+  "linktitle": "JWPUB",
   "menu": {
     "docs": {
       "identifier": "ebook-jwpub",

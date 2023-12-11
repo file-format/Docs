@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Format fișier CAF - Fișier audio de bază",
    "description":"Aflați despre formatul CAF și despre API-urile care pot crea și deschide fișiere CAF.",
-"linktitle":"CAF",
+   "linktitle":"CAF",
    "menu":{
       "docs":{
          "identifier":"audio-caf",

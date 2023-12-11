@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Format fișier CHR - Fișier de caractere CryENGINE",
    "description":"Aflați despre formatul de fișier CHR CryENGINE Character și despre API-urile care pot crea și deschide fișiere CHR.",
-"linktitle":"CHR CryENGINE",
+   "linktitle":"CHR CryENGINE",
    "menu":{
       "docs":{
          "identifier":"3d-chr-cryengine",

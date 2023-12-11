@@ -12,7 +12,7 @@
 "toc": true,
 "title": "Formate de text, tipuri și întrebări frecvente",
   "description":"Aflați despre formatele de text, tipurile de formate de text, lista de formate de text și întrebările frecvente",
-"linktitle": "FORMATE DE TEXT",
+  "linktitle": "TEXT FORMATS",
   "menu": {
     "docs": {
       "identifier": "misc-text-formats",

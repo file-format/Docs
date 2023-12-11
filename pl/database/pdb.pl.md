@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Co to są pliki PDB? Zrozumienie plików PDB: kluczowe narzędzie w biologii strukturalnej",
   "description":"Dowiedz się, czym są pliki PDB? Zrozumienie plików PDB: kluczowe narzędzie dla biologii strukturalnej",
-"tytuł linku": "PDB",
+  "linktitle": "PDB",
   "menu": {
     "docs": {
       "identifier": "database-pdb",

@@ -15,7 +15,7 @@
 "toc": true,
 "title":"Format pliku BIN - plik wykonywalny Unix",
    "description":"Dowiedz się o formacie BIN i interfejsach API, które umożliwiają tworzenie i otwieranie plików BIN.",
-"linktitle":"BIN",
+   "linktitle":"BIN",
    "menu":{
       "docs":{
          "identifier":"executable-bin",

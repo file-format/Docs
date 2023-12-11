@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format fișier SBV - fișier subtitrări YouTube",
   "description":"Aflați despre formatul SBV și despre API-urile care pot crea și deschide fișiere SBV.",
-"linktitle": "SBV",
+  "linktitle": "SBV",
   "menu": {
     "docs": {
       "identifier": "settings-sbv",

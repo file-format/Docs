@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Formát souboru CNF - konfigurační soubor MySQL",
   "description":"Další informace o formátu CNF a rozhraních API, která mohou vytvářet a otevírat soubory CNF.",
-"linktitle": "CNF",
+  "linktitle": "CNF",
   "menu": {
     "docs": {
       "identifier": "settings-cnf",

@@ -18,7 +18,7 @@
 "toc": true,
 "title": "Định dạng tệp CRX - Tiện ích mở rộng của Google Chrome",
   "description":"Tìm hiểu về định dạng CRX và các API có thể tạo và mở tệp CRX.",
-"linktitle":"CRX",
+  "linktitle": "CRX",
   "menu": {
     "docs": {
       "identifier": "misc-crx",

@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Format fișier UDB - Fișier baza de date pentru utilizatori Microsoft Dynamics AX",
   "description":"Aflați despre formatul UDB și despre API-urile care pot crea și deschide fișiere UDB.",
-"linktitle": "UDB",
+  "linktitle": "UDB",
   "menu": {
     "docs": {
       "identifier": "database-udb",

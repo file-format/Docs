@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Định dạng tệp JWPUB - Ấn phẩm của Nhân chứng Giê-hô-va",
   "description":"Tìm hiểu về định dạng JWPUB và các API có thể tạo và mở tệp JWPUB.",
-"linktitle":"JWPUB",
+  "linktitle": "JWPUB",
   "menu": {
     "docs": {
       "identifier": "ebook-jwpub",

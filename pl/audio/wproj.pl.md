@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format pliku WPROJ - Plik projektu Wwise",
   "description":"Dowiedz się o formacie pliku WPROJ i interfejsach API, które umożliwiają tworzenie i otwieranie plików WPROJ.",
-"linktitle": "WPROJ",
+  "linktitle": "WPROJ",
   "menu": {
     "docs": {
       "identifier": "audio-wproj",

@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Formát souboru ECO - soubor databáze ECCO",
   "description":"Další informace o formátu ECO a rozhraních API, která mohou vytvářet a otevírat soubory ECO.",
-"linktitle": "ECO",
+  "linktitle": "ECO",
   "menu": {
     "docs": {
       "identifier": "database-eco",

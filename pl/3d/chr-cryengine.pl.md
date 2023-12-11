@@ -17,7 +17,7 @@
 "toc": true,
 "title":"Format pliku CHR - plik znakowy CryENGINE",
    "description":"Dowiedz się o formacie pliku znakowego CHR CryENGINE i interfejsach API, które umożliwiają tworzenie i otwieranie plików CHR.",
-"linktitle":"CHR CryENGINE",
+   "linktitle":"CHR CryENGINE",
    "menu":{
       "docs":{
          "identifier":"3d-chr-cryengine",

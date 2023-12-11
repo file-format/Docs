@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Định dạng tệp QPW - Bảng tính Quattro Pro",
   "description":"Tìm hiểu về định dạng tệp QPW và các API có thể tạo và mở tệp QPW.",
-"linktitle":"QPW",
+  "linktitle": "QPW",
   "menu": {
     "docs": {
       "identifier": "spreadsheet-qpw",

@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Format pliku IPSW - plik aktualizacji oprogramowania iPhone'a",
   "description":"Dowiedz się o formacie IPSW i interfejsach API, które umożliwiają tworzenie i otwieranie plików IPSW.",
-"tytuł łącza": "IPSW",
+  "linktitle": "IPSW",
   "menu": {
     "docs": {
       "identifier": "misc-ipsw",

@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Format fișier IT - Modulul Impulse Tracker",
   "description":"Aflați despre formatul IT și API-urile care pot crea și deschide fișiere IT.",
-"linktitle": "IT",
+  "linktitle": "IT",
   "menu": {
     "docs": {
       "identifier": "audio-it",

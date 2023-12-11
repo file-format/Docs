@@ -15,7 +15,7 @@
 "toc": true,
 "title": "RIP fájlformátum - Hit'n'Mix Audio Mashup fájl",
   "description":"További információ a RIP fájlformátumról és az API-król, amelyek RIP-fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "RIP",
+  "linktitle": "RIP",
   "menu": {
     "docs": {
       "identifier": "audio-rip",

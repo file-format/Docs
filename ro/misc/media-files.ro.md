@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Ce sunt fișierele media? Tipurile, formatele și impactul lor asupra comunicării digitale",
   "description":"Aflați despre fișierele media, tipurile, formatele și impactul lor asupra comunicării digitale.",
-"linktitle": "FIȘIERE MEDIA",
+  "linktitle": "MEDIA FILES",
   "menu": {
     "docs": {
       "identifier": "misc-media-files",

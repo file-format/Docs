@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Format pliku 3GPP - plik multimedialny 3GPP",
   "description":"Dowiedz się o formacie 3GPP i interfejsach API, które umożliwiają tworzenie i otwieranie plików 3GPP.",
-"tytuł łącza": "3GPP",
+  "linktitle": "3GPP",
   "menu": {
     "docs": {
       "identifier": "video-3gpp",

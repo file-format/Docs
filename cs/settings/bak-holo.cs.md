@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Formát souboru BAK - záloha Holo Launcher",
   "description":"Další informace o formátu BAK Holo Launcher Backup a rozhraních API, která mohou vytvářet a otevírat soubory BAK.",
-"linktitle": "BAK HOLO",
+  "linktitle": "BAK HOLO",
   "menu": {
     "docs": {
       "identifier": "settings-bak-holo",

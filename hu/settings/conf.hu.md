@@ -14,7 +14,7 @@
 "toc": true,
 "title": "CONF fájlformátum - Unix konfigurációs fájl",
   "description":"További információ a CONF formátumról és az API-król, amelyek CONF fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "CONF",
+  "linktitle": "CONF",
   "menu": {
     "docs": {
       "identifier": "settings-conf",

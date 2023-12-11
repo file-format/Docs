@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Định dạng tệp REGTRANS-MS - Tệp nhật ký giao dịch đăng ký",
   "description":"Tìm hiểu về định dạng REGTRANS-MS và các API có thể tạo và mở tệp REGTRANS-MS.",
-"linktitle":"REGTRANS-MS",
+  "linktitle": "REGTRANS-MS",
   "menu": {
     "docs": {
       "identifier": "system-regtrans-ms",

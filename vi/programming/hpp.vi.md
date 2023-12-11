@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Định dạng tệp HPP - Tệp tiêu đề C++",
   "description":"Tìm hiểu về định dạng HPP và các API có thể tạo và mở tệp HPP.",
-"linktitle":"HPP",
+  "linktitle": "HPP",
   "menu": {
     "docs": {
       "identifier": "programming-hpp",

@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Định dạng tệp PRC - Tệp sách điện tử Mobipocket",
   "description":"Tìm hiểu về định dạng PRC và các API có thể tạo và mở tệp PRC.",
-"linktitle":"PRC",
+  "linktitle": "PRC",
   "menu": {
     "docs": {
       "identifier": "ebook-prc",

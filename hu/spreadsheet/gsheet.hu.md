@@ -15,7 +15,7 @@
 "toc": true,
 "title": "GSHEET fájlformátum - Google Táblázatok parancsikon",
   "description":"További információ a GSHEET fájlformátumról és az API-król, amelyek GSHEET fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "GSHEET",
+  "linktitle": "GSHEET",
   "menu": {
     "docs": {
       "identifier": "spreadsheet-gsheet",

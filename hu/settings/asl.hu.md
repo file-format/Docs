@@ -14,7 +14,7 @@
 "toc": true,
 "title": "ASL fájlformátum - Photoshop rétegstílus",
   "description":"További információ az ASL-formátumról és az ASL-fájlok létrehozására és megnyitására alkalmas API-król.",
-"linktitle": "ASL",
+  "linktitle": "ASL",
   "menu": {
     "docs": {
       "identifier": "settings-asl",

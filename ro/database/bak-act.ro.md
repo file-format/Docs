@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Format de fișier BAK - Act! Backup baze de date",
   "description":"Aflați despre BAK Act! Formatul de backup și API-urile care pot crea și deschide fișiere BAK.",
-"linktitle": "Backup BAK ACT",
+  "linktitle": "BAK ACT Backup",
   "menu": {
     "docs": {
       "identifier": "database-bak-act",

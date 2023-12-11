@@ -18,7 +18,7 @@
 "toc": true,
 "title": "MLX файлов формат - MATLAB Live Code File",
   "description":"Научете за MLX формата и API, които могат да създават и отварят MLX файлове.",
-"linktitle": "MLX",
+  "linktitle": "MLX",
   "menu": {
     "docs": {
       "identifier": "executable-mlx",

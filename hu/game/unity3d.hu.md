@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Unity3D fájlformátum - Unity Web Player archívum",
   "description":"További információ a Unity3D formátumról és az API-król, amelyek Unity3D fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "Unity3D",
+  "linktitle": "Unity3D",
   "menu": {
     "docs": {
       "identifier": "game-unity3d",

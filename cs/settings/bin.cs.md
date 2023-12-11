@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Formát souboru BIN - soubor zásad BlackBerry IT",
    "description":"Další informace o formátu BIN a rozhraních API, která mohou vytvářet a otevírat soubory BIN.",
-"linktitle":"BIN",
+   "linktitle":"BIN",
    "menu":{
       "docs":{
          "identifier":"settings-bin",

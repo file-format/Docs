@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format fișier BLEND - Fișier 3D Blender",
   "description":"Aflați despre formatul BLEND și despre API-urile care pot crea și deschide fișiere BLEND.",
-"linktitle": "AMMESCA",
+  "linktitle": "BLEND",
   "menu": {
     "docs": {
       "identifier": "3d-blend",

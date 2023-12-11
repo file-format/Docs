@@ -17,7 +17,7 @@
 "toc": true,
 "title": "MSCZ fájlformátum - MuseScore tömörített pontszámfájl",
   "description":"További információ az MSCZ-formátumról és az MSCZ-fájlok létrehozására és megnyitására alkalmas API-król.",
-"linktitle": "MSCZ",
+  "linktitle": "MSCZ",
   "menu": {
     "docs": {
       "identifier": "audio-mscz",

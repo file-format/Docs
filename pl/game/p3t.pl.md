@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Format pliku P3T - plik motywu PlayStation 3",
   "description":"Dowiedz się o formacie P3T i interfejsach API, które umożliwiają tworzenie i otwieranie plików P3T.",
-"tytuł łącza": "P3T",
+  "linktitle": "P3T",
   "menu": {
     "docs": {
       "identifier": "game-p3t",

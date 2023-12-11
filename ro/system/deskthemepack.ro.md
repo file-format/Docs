@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format de fișier DESKTHEMEPACK - fișierul pachet de teme desktop Windows 10",
   "description":"Aflați despre formatul DESKTHEMEPACK și despre API-urile care pot crea și deschide fișiere DESKTHEMEPACK.",
-"linktitle": "DESKTHEMEPACK",
+  "linktitle": "DESKTHEMEPACK",
   "menu": {
     "docs": {
       "identifier": "system-deskthemepack",

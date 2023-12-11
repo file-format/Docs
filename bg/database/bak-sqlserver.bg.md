@@ -17,7 +17,7 @@
 "toc": true,
 "title": "BAK файлов формат - архивиране на база данни на Microsoft SQL Server",
   "description":"Научете за формата за архивиране на BAK SQL Server и API, които могат да създават и отварят BAK файлове.",
-"linktitle": "BAK SQL сървър",
+  "linktitle": "BAK SQL Server",
   "menu": {
     "docs": {
       "identifier": "database-bak-sqlserver",

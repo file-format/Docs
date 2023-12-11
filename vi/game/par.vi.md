@@ -15,7 +15,7 @@
 "toc":true,
 "title":"Định dạng tệp PAR - Tệp thông số máy bay FMS",
    "description":"Tìm hiểu về định dạng PAR và các API có thể tạo và mở tệp PAR.",
-"linktitle":"PAR",
+   "linktitle":"PAR",
    "menu":{
       "docs":{
          "identifier":"game-par",

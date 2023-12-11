@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Định dạng tệp NUT - Tệp video NUT",
   "description":"Tìm hiểu về định dạng NUT và các API có thể tạo và mở tệp NUT.",
-"linktitle":"NUT",
+  "linktitle": "NUT",
   "menu": {
     "docs": {
       "identifier": "video-nut",

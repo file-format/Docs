@@ -15,7 +15,7 @@
 "toc":true,
 "title": "PAR файлов формат - FMS файл с параметри на самолета",
    "description":"Научете за PAR формата и API, които могат да създават и отварят PAR файлове.",
-"linktitle": "PAR",
+   "linktitle":"PAR",
    "menu":{
       "docs":{
          "identifier":"game-par",

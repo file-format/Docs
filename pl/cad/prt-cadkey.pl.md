@@ -17,7 +17,7 @@
 "toc": true,
 "title":"Format pliku PRT - plik części CADKEY",
    "description":"Dowiedz się więcej o formacie pliku części PRT CADKEY i interfejsach API, które umożliwiają tworzenie i otwieranie plików PRT.",
-"linktitle":"PRT CADKEY",
+   "linktitle":"PRT CADKEY",
    "menu":{
       "docs":{
          "identifier":"cad-prt-cadkey",

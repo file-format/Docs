@@ -17,7 +17,7 @@
 "toc": true,
 "title": "CFG fájlformátum - Celestia konfigurációs fájl",
   "description":"További információ a CFG Celestia konfigurációs fájl formátumáról és az API-król, amelyek CFG fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "CFG Celestia",
+  "linktitle": "CFG Celestia",
   "menu": {
     "docs": {
       "identifier": "settings-cfg-celestia",

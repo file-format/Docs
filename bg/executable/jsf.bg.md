@@ -16,7 +16,7 @@
 "toc": true,
 "title": "JSF файлов формат - Java Script команден файл",
   "description":"Научете за JSF формата и API, които могат да създават и отварят JSF файлове.",
-"linktitle": "JSF",
+  "linktitle": "JSF",
   "menu": {
     "docs": {
       "identifier": "executable-jsf",

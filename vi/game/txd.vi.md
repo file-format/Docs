@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Định dạng tệp TXD - Từ điển kết cấu trò chơi",
   "description":"Tìm hiểu về định dạng TXD và các API có thể tạo và mở tệp TXD.",
-"linktitle":"TXD",
+  "linktitle": "TXD",
   "menu": {
     "docs": {
       "identifier": "game-txd",

@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Format de fișier MTL - Fișier de bibliotecă de șabloane de materiale OBJ",
    "description":"Aflați despre formatul de fișier MTL OBJ Material Template Library și despre API-urile care pot crea și deschide fișiere MTL.",
-"linktitle":"MTL",
+   "linktitle":"MTL",
    "menu":{
       "docs":{
          "identifier":"3d-mtl",

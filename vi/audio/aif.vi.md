@@ -18,7 +18,7 @@
 "toc": true,
 "title": "Định dạng tệp AIF - Định dạng tệp trao đổi âm thanh",
   "description":"Tìm hiểu về định dạng AIF và các API có thể tạo và mở tệp AIF.",
-"linktitle":"AIF",
+  "linktitle": "AIF",
   "menu": {
     "docs": {
       "identifier": "audio-aif",

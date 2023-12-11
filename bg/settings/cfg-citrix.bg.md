@@ -17,7 +17,7 @@
 "toc": true,
 "title": "CFG файлов формат - Citrix Server Connection File",
   "description":"Научете за CFG Citrix Server Connection File формат и API, които могат да създават и отварят CFG файлове.",
-"linktitle": "CFG Citrix",
+  "linktitle": "CFG Citrix",
   "menu": {
     "docs": {
       "identifier": "settings-cfg-citrix",

@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Formát souboru BAK - MobileTrans Backup",
   "description":"Další informace o formátu BAK MobileTrans a rozhraních API, která mohou vytvářet a otevírat soubory BAK.",
-"linktitle": "BAK MobileTrans",
+  "linktitle": "BAK MobileTrans",
   "menu": {
     "docs": {
       "identifier": "misc-bak-mobiletrans",

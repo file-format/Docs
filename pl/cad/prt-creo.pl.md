@@ -17,7 +17,7 @@
 "toc": true,
 "title":"Format pliku PRT - część parametryczna Creo",
    "description":"Dowiedz się więcej o formacie pliku części parametrycznej PRT Creo i interfejsach API, które umożliwiają tworzenie i otwieranie plików PRT.",
-"linktitle":"PRT",
+   "linktitle":"PRT",
    "menu":{
       "docs":{
          "identifier":"cad-prt-creo",

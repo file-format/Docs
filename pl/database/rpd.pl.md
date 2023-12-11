@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Format pliku RPD - plik bazy danych projektu RIB",
   "description":"Dowiedz się o formacie RPD i interfejsach API, które umożliwiają tworzenie i otwieranie plików RPD.",
-"tytuł łącza": "RPD",
+  "linktitle": "RPD",
   "menu": {
     "docs": {
       "identifier": "database-rpd",

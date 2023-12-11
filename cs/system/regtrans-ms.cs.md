@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Formát souboru REGTRANS-MS - soubor protokolu transakcí registru",
   "description":"Další informace o formátu REGTRANS-MS a rozhraních API, která mohou vytvářet a otevírat soubory REGTRANS-MS.",
-"linktitle": "REGTRANS-MS",
+  "linktitle": "REGTRANS-MS",
   "menu": {
     "docs": {
       "identifier": "system-regtrans-ms",

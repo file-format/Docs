@@ -17,7 +17,7 @@
 "toc":true,
 "title": "CPI файлов формат - файл с информация за кодова страница",
    "description":"Научете за файловия формат с информация за CPI Codepage и API, които могат да създават и отварят CPI файлове.",
-"linktitle": "CPI",
+   "linktitle":"CPI",
    "menu":{
       "docs":{
          "identifier":"system-cpi",

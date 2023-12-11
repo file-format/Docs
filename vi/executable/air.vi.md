@@ -14,7 +14,7 @@
 "toc": true,
   "description":"Tìm hiểu về định dạng tệp AIR và các API có thể tạo và mở tệp AIR.",
 "title": "Định dạng tệp AIR - Tệp gói cài đặt Adobe AIR",
-"linktitle":"AIR",
+  "linktitle": "AIR",
   "menu": {
     "docs": {
       "identifier": "executable-air",

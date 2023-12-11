@@ -17,7 +17,7 @@
 "toc": true,
 "title":"Plik PRT - Szablon prezentacji - Co to jest plik .prt i jak go otworzyć?",
    "description":"Dowiedz się o formacie pliku szablonu prezentacji PRT i interfejsach API, które umożliwiają tworzenie i otwieranie plików PRT.",
-"linktitle":"PRT",
+   "linktitle":"PRT",
    "menu":{
       "docs":{
          "identifier":"data-prt-template",

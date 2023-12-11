@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Formát souboru NSP - Nintendo Submission Package",
   "description":"Další informace o formátu NSP a rozhraních API, která mohou vytvářet a otevírat soubory NSP.",
-"linktitle": "NSP",
+  "linktitle": "NSP",
   "menu": {
     "docs": {
       "identifier": "game-nsp",

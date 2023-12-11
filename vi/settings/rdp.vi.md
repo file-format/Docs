@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Định dạng tệp RDP - Tệp cấu hình máy tính từ xa",
   "description":"Tìm hiểu về định dạng RDP và các API có thể tạo và mở tệp RDP.",
-"linktitle":"RDP",
+  "linktitle": "RDP",
   "menu": {
     "docs": {
       "identifier": "settings-rdp",

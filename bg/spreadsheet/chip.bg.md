@@ -15,7 +15,7 @@
 "toc": true,
 "title": "CHIP файлов формат - файл с анотация на микрочипове",
   "description":"Научете за CHIP файловия формат и API, които могат да създават и отварят CHIP файлове.",
-"linktitle": "ЧИП",
+  "linktitle": "CHIP",
   "menu": {
     "docs": {
       "identifier": "spreadsheet-chip",

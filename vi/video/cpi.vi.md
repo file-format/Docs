@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Định dạng tệp CPI - Thông tin clip video AVCHD",
    "description":"Tìm hiểu về định dạng tệp Thông tin Clip Video CPI AVCHD và các API có thể tạo và mở tệp CPI.",
-"linktitle":"CPI",
+   "linktitle":"CPI",
    "menu":{
       "docs":{
          "identifier":"video-cpi",

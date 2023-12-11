@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format pliku FLP - plik projektu FL Studio",
   "description":"Dowiedz się o formacie pliku FLP i interfejsach API, które umożliwiają tworzenie i otwieranie plików FLP.",
-"tytuł łącza": "FLP",
+  "linktitle": "FLP",
   "menu": {
     "docs": {
       "identifier": "audio-flp",

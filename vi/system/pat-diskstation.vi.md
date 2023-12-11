@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Định dạng tệp PAT - Tệp cài đặt DiskStation Manager",
    "description":"Tìm hiểu về định dạng tệp cài đặt PAT DiskStation Manager và các API có thể tạo và mở tệp PAT.",
-"linktitle":"PAT",
+   "linktitle":"PAT",
    "menu":{
       "docs":{
          "identifier":"system-pat-diskstation",

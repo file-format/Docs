@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Định dạng tệp NSP - Gói gửi Nintendo",
   "description":"Tìm hiểu về định dạng NSP và các API có thể tạo và mở tệp NSP.",
-"linktitle":"NSP",
+  "linktitle": "NSP",
   "menu": {
     "docs": {
       "identifier": "game-nsp",

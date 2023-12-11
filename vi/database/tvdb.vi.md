@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Tệp TVDB - Cơ sở dữ liệu Apple TV - Tệp .tvdb là gì và làm cách nào để mở tệp?",
    "description":"Tìm hiểu về định dạng tệp Cơ sở dữ liệu Apple TV TVDB và các API có thể tạo và mở tệp MỰC.",
-"linktitle":"TVDB",
+   "linktitle":"TVDB",
    "menu":{
       "docs":{
          "identifier":"database-tvdb",

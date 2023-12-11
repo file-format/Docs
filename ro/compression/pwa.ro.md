@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format fișier PWA - Fișier agent de parolă",
   "description":"Aflați despre formatul PWA și despre API-urile care pot crea și deschide fișiere PWA.",
-"linktitle": "PWA",
+  "linktitle": "PWA",
   "menu": {
     "docs": {
       "identifier": "compression-pwa",

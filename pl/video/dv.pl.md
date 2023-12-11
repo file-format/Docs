@@ -18,7 +18,7 @@
 "toc": true,
 "title": "Format pliku DV - cyfrowy plik wideo",
   "description":"Dowiedz się o formacie DV i interfejsach API, które umożliwiają tworzenie i otwieranie plików DV.",
-"tytuł łącza": "DV",
+  "linktitle": "DV",
   "menu": {
     "docs": {
       "identifier": "video-dv",

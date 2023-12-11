@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Định dạng tệp CFG - Tệp ngôn ngữ đánh dấu Wesnoth",
   "description":"Tìm hiểu về định dạng Tệp Ngôn ngữ Đánh dấu CFG Wesnoth và các API có thể tạo và mở tệp CFG.",
-"linktitle":"CFG Wesnoth",
+  "linktitle": "CFG Wesnoth",
   "menu": {
     "docs": {
       "identifier": "game-cfg-wesnoth",

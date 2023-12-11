@@ -18,7 +18,7 @@
 "toc": true,
 "title": "Format fișier FPT - Memo de tabel FoxPro",
   "description":"Aflați despre formatul FPT FoxPro și despre API-urile care pot crea și deschide fișiere FPT.",
-"linktitle": "FPT FoxPro",
+  "linktitle": "FPT FoxPro",
   "menu": {
     "docs": {
       "identifier": "database-fpt-foxpro",

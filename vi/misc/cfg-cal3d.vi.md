@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Định dạng tệp CFG - Tệp cấu hình mô hình Cal3D",
   "description":"Tìm hiểu về định dạng Tệp cấu hình mô hình CFG Cal3D và các API có thể tạo và mở tệp CFG.",
-"linktitle":"CFG Cal3D",
+  "linktitle": "CFG Cal3D",
   "menu": {
     "docs": {
       "identifier": "misc-cfg-cal3d",

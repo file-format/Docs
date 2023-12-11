@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Format de fișier CXARCHIVE - Arhiva de sticle CrossOver",
   "description":"Aflați despre formatul CXARCHIVE CrossOver Bottle Archive și despre API-urile care pot crea și deschide fișiere CXARCHIVE.",
-"linktitle": "CXARHIVE",
+  "linktitle": "CXARCHIVE",
   "menu": {
     "docs": {
       "identifier": "compression-cxarchive",

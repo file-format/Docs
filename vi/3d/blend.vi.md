@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Định dạng tệp BLEND - Tệp 3D Blender",
   "description":"Tìm hiểu về định dạng BLEND và các API có thể tạo và mở tệp BLEND.",
-"linktitle":"HỖN HỢP",
+  "linktitle": "BLEND",
   "menu": {
     "docs": {
       "identifier": "3d-blend",

@@ -16,7 +16,7 @@
 "toc":true,
 "title":"Format fișier PAR - Fișier index Parchive",
    "description":"Aflați despre formatul PAR și despre API-urile care pot crea și deschide fișiere PAR.",
-"linktitle":"PAR",
+   "linktitle":"PAR",
    "menu":{
       "docs":{
          "identifier":"compression-par",

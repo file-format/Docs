@@ -15,7 +15,7 @@
 "toc": true,
 "title": "ANI fájlformátum - Windows animált kurzor",
   "description":"További információ az ANI-formátumról és az API-król, amelyek ANI-fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "ANI",
+  "linktitle": "ANI",
   "menu": {
     "docs": {
       "identifier": "system-ani",

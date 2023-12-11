@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Định dạng tệp LDB - Tệp Microsoft Access Lock",
   "description":"Tìm hiểu về định dạng LDB và nó chứa thông tin gì.",
-"linktitle":"LDB",
+  "linktitle": "LDB",
   "menu": {
     "docs": {
       "identifier": "misc-ldb",

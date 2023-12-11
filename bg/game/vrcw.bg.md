@@ -16,7 +16,7 @@
 "toc": true,
 "title": "VRCW файлов формат - VRChat World",
   "description":"Научете повече за VRCW формата и API, които могат да създават и отварят VRCW файлове.",
-"linktitle": "VRCW",
+  "linktitle": "VRCW",
   "menu": {
     "docs": {
       "identifier": "game-vrcw",

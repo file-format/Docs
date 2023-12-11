@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Định dạng tệp META - Tệp siêu dữ liệu tồn tại",
   "description":"Tìm hiểu về định dạng META và các API có thể tạo và mở tệp META.",
-"linktitle":"META",
+  "linktitle": "META",
   "menu": {
     "docs": {
       "identifier": "game-meta",

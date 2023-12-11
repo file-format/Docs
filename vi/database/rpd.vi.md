@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Định dạng tệp RPD - Tệp cơ sở dữ liệu dự án RIB",
   "description":"Tìm hiểu về định dạng RPD và các API có thể tạo và mở tệp RPD.",
-"linktitle":"RPD",
+  "linktitle": "RPD",
   "menu": {
     "docs": {
       "identifier": "database-rpd",

@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Formát souboru CHEAT - Cheatsheet Navi",
   "description":"Další informace o formátu CHEAT a rozhraních API, která mohou vytvářet a otevírat soubory CHEAT.",
-"linktitle": "CHEAT",
+  "linktitle": "CHEAT",
   "menu": {
     "docs": {
       "identifier": "executable-cheat",

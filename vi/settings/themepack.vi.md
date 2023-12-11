@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Định dạng tệp THEMEPACK - Gói chủ đề Windows 7",
   "description":"Tìm hiểu về định dạng THEMEPACK và các API có thể tạo và mở tệp THEMEPACK.",
-"linktitle":"THEMEPACK",
+  "linktitle": "THEMEPACK",
   "menu": {
     "docs": {
       "identifier": "settings-themepack",

@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Định dạng tệp PDS - Tệp tập lệnh PowerDirector",
   "description":"Tìm hiểu về định dạng PDS và các API có thể tạo và mở tệp PDS.",
-"linktitle":"PDS",
+  "linktitle": "PDS",
   "menu": {
     "docs": {
       "identifier": "video-pds",

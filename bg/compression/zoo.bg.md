@@ -17,7 +17,7 @@
 "toc":true,
 "title": "ZOO файл - Какво е .zoo файл и как да го отворите?",
    "description":"Научете за ZOO компресирания файлов формат и API, които могат да създават и отварят ZOO файлове.",
-"linktitle": "ЗООПАРК",
+   "linktitle":"ZOO",
    "menu":{
       "docs":{
          "identifier":"compression-zoo",

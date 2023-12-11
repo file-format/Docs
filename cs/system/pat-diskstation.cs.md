@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Formát souboru PAT - instalační soubor DiskStation Manager",
    "description":"Další informace o formátu instalačního souboru PAT DiskStation Manager a rozhraních API, která mohou vytvářet a otevírat soubory PAT.",
-"linktitle":"PAT",
+   "linktitle":"PAT",
    "menu":{
       "docs":{
          "identifier":"system-pat-diskstation",

@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Formát souboru NOMEDIA – Android No Media File",
   "description":"Další informace o formátu NOMEDIA a rozhraních API, která mohou vytvářet a otevírat soubory NOMEDIA.",
-"linktitle": "NOMEDIA",
+  "linktitle": "NOMEDIA",
   "menu": {
     "docs": {
       "identifier": "misc-nomedia",

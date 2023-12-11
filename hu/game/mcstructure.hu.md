@@ -16,7 +16,7 @@
 "toc": true,
 "title": "MCSTRUCTURE fájlformátum - Minecraft szerkezeti fájl",
   "description":"További információ az MCSTRUCTURE formátumról és az API-król, amelyek MCSTRUCTURE fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "MCSTRUCTURE",
+  "linktitle": "MCSTRUCTURE",
   "menu": {
     "docs": {
       "identifier": "game-mcstructure",

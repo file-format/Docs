@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Formát souboru APM - Aldus Placeable Metafile Image",
   "description":"Další informace o formátu APM a rozhraních API, která mohou vytvářet a otevírat soubory APM.",
-"linktitle": "APM",
+  "linktitle": "APM",
   "menu": {
     "docs": {
       "identifier": "image-apm",

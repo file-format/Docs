@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format pliku PWA - plik agenta haseł",
   "description":"Dowiedz się o formacie PWA i interfejsach API, które umożliwiają tworzenie i otwieranie plików PWA.",
-"tytuł linku": "PWA",
+  "linktitle": "PWA",
   "menu": {
     "docs": {
       "identifier": "compression-pwa",

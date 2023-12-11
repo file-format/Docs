@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Định dạng tệp OVPN - Tệp cấu hình OpenVPN",
   "description":"Tìm hiểu về định dạng OVPN và các API có thể tạo và mở tệp OVPN.",
-"linktitle":"OVPN",
+  "linktitle": "OVPN",
   "menu": {
     "docs": {
       "identifier": "settings-ovpn",

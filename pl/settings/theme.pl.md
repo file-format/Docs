@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Format pliku TEMATU - Motyw Microsoft Plus! Desktop",
   "description":"Dowiedz się o formacie THEME i interfejsach API, które umożliwiają tworzenie i otwieranie plików THEME.",
-"linktitle": "TEMAT",
+  "linktitle": "THEME",
   "menu": {
     "docs": {
       "identifier": "settings-theme",

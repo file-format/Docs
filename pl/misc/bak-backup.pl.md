@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Format pliku BAK - plik kopii zapasowej",
   "description":"Dowiedz się o formacie kopii zapasowej BAK i interfejsach API, które umożliwiają tworzenie i otwieranie plików BAK.",
-"linktitle": "Kopia zapasowa BAK",
+  "linktitle": "BAK Backup",
   "menu": {
     "docs": {
       "identifier": "misc-bak-backup",

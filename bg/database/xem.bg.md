@@ -16,7 +16,7 @@
 "toc": true,
 "title": "XEM файлов формат - файл с дефиниция на модел на PowerDesigner",
   "description":"Научете за XEM формата и API, които могат да създават и отварят XEM файлове.",
-"linktitle": "XEM",
+  "linktitle": "XEM",
   "menu": {
     "docs": {
       "identifier": "database-xem",

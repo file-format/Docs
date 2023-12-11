@@ -16,7 +16,7 @@
 "toc": true,
 "title": "RPD fájlformátum - RIB projekt adatbázis fájl",
   "description":"További információ az RPD-formátumról és az RPD-fájlok létrehozására és megnyitására alkalmas API-król.",
-"linktitle": "RPD",
+  "linktitle": "RPD",
   "menu": {
     "docs": {
       "identifier": "database-rpd",

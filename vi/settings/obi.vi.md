@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Định dạng tệp OBI - Tệp đăng ký RSS của Outlook",
   "description":"Tìm hiểu về định dạng OBI và các API có thể tạo và mở tệp OBI.",
-"linktitle":"OBI",
+  "linktitle": "OBI",
   "menu": {
     "docs": {
       "identifier": "settings-obi",

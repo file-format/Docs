@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Format pliku BAK - Kopia zapasowa zakładek Chromium",
   "description":"Dowiedz się o formacie zakładek BAK Chromium i interfejsach API, które umożliwiają tworzenie i otwieranie plików BAK.",
-"linktitle": "Zakładki BAK Chromium",
+  "linktitle": "BAK Chromium Bookmarks",
   "menu": {
     "docs": {
       "identifier": "misc-bak-chromium",

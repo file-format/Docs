@@ -17,7 +17,7 @@
 "toc": true,
 "title": "ARW файлов формат - Sony Alpha Raw изображение от цифров фотоапарат",
   "description":"Научете за ARW формата и API, които могат да създават и отварят ARW файлове.",
-"linktitle": "ARW",
+  "linktitle": "ARW",
   "menu": {
     "docs": {
       "identifier": "image-arw",

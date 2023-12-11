@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Formát souboru EC3 – soubor vylepšeného zvukového kodeku 3",
   "description":"Další informace o formátu souborů EC3 a rozhraních API, která mohou vytvářet a otevírat soubory EC3.",
-"linktitle": "EC3",
+  "linktitle": "EC3",
   "menu": {
     "docs": {
       "identifier": "audio-ec3",

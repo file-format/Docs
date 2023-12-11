@@ -18,7 +18,7 @@
 "toc": true,
 "title": "Định dạng tệp FPT - Bản ghi nhớ bảng FoxPro",
   "description":"Tìm hiểu về định dạng FPT FoxPro và các API có thể tạo và mở file FPT.",
-"linktitle":"FPT FoxPro",
+  "linktitle": "FPT FoxPro",
   "menu": {
     "docs": {
       "identifier": "database-fpt-foxpro",

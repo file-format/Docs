@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format pliku THEMEPACK - pakiet motywów Windows 7",
   "description":"Dowiedz się o formacie THEMEPACK i interfejsach API, które umożliwiają tworzenie i otwieranie plików THEMEPACK.",
-"linktitle": "PAKIET TEMATYCZNY",
+  "linktitle": "THEMEPACK",
   "menu": {
     "docs": {
       "identifier": "settings-themepack",

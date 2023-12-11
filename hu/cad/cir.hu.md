@@ -15,7 +15,7 @@
 "toc": true,
 "title": "CIR fájlformátum - Micro-Cap sematikus fájl",
   "description":"További információ a CIR fájlformátumról és az API-król, amelyek CIR fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "CIR",
+  "linktitle": "CIR",
   "menu": {
     "docs": {
       "identifier": "cad-cir",

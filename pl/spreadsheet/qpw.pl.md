@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format pliku QPW - arkusz kalkulacyjny Quattro Pro",
   "description":"Dowiedz się o formacie pliku QPW i interfejsach API, które umożliwiają tworzenie i otwieranie plików QPW.",
-"tytuł łącza": "QPW",
+  "linktitle": "QPW",
   "menu": {
     "docs": {
       "identifier": "spreadsheet-qpw",

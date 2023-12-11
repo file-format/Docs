@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Tệp CS - Phối màu ColorSchemer Studio - Tệp .cs là gì và làm cách nào để mở nó?",
   "description":"Tìm hiểu về các API và định dạng Lược đồ màu CS ColorSchemer Studio có thể tạo và mở tệp CS.",
-"linktitle":"CS",
+  "linktitle": "CS",
   "menu": {
     "docs": {
       "identifier": "data-cs-colorschemer",

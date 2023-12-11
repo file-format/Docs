@@ -15,7 +15,7 @@
 "toc": true,
 "title": "CPA fájlformátum - CADSTAR PCB archív fájl",
   "description":"További információ a CPA-fájlformátumról és az API-król, amelyek CPA-fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "CPA",
+  "linktitle": "CPA",
   "menu": {
     "docs": {
       "identifier": "cad-cpa",

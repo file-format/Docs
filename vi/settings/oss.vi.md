@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Định dạng tệp OSS - Tệp tìm kiếm đã lưu của Microsoft Outlook",
   "description":"Tìm hiểu về định dạng OSS và các API có thể tạo và mở tệp OSS.",
-"linktitle":"OSS",
+  "linktitle": "OSS",
   "menu": {
     "docs": {
       "identifier": "settings-oss",

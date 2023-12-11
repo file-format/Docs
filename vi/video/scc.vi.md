@@ -18,7 +18,7 @@
 "toc": true,
 "title": "Định dạng tệp SCC - Ghi màn hình ScreenFlow",
   "description":"Tìm hiểu về định dạng SCC và các API có thể tạo và mở tệp SCC.",
-"linktitle":"SCC",
+  "linktitle": "SCC",
   "menu": {
     "docs": {
       "identifier": "video-scc",

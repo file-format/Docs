@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Định dạng tệp ECO - Tệp cơ sở dữ liệu ECCO",
   "description":"Tìm hiểu về định dạng ECO và các API có thể tạo và mở tệp ECO.",
-"linktitle":"ECO",
+  "linktitle": "ECO",
   "menu": {
     "docs": {
       "identifier": "database-eco",

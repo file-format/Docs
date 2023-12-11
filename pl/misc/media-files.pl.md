@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Czym są pliki multimedialne? Rodzaje, formaty i ich wpływ na komunikację cyfrową",
   "description":"Dowiedz się o plikach multimedialnych, ich typach, formatach i wpływie na komunikację cyfrową.",
-"linktitle": "PLIKI MEDIALNE",
+  "linktitle": "MEDIA FILES",
   "menu": {
     "docs": {
       "identifier": "misc-media-files",

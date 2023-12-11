@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Formát souboru SHADER - Unity Shader Asset",
    "description":"Další informace o formátu SHADER Unity Shader Asset a rozhraních API, která mohou vytvářet a otevírat soubory SHADER.",
-"linktitle":"SHADER Unity",
+   "linktitle":"SHADER Unity",
    "menu":{
       "docs":{
          "identifier":"game-shader-unity",

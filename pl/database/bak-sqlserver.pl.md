@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Format pliku BAK - Kopia zapasowa bazy danych Microsoft SQL Server",
   "description":"Dowiedz się o formacie kopii zapasowej BAK SQL Server i interfejsach API, które umożliwiają tworzenie i otwieranie plików BAK.",
-"linktitle": "BAK SQL Server",
+  "linktitle": "BAK SQL Server",
   "menu": {
     "docs": {
       "identifier": "database-bak-sqlserver",

@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Formát souboru CHR - soubor znaků 3ds Max",
    "description":"Další informace o formátu souboru CHR 3ds Max Characters a rozhraních API, která mohou vytvářet a otevírat soubory CHR.",
-"linktitle":"CHR 3ds",
+   "linktitle":"CHR 3ds",
    "menu":{
       "docs":{
          "identifier":"3d-chr-3ds",

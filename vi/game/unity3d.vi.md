@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Định dạng tệp Unity3D - Lưu trữ trình phát web Unity",
   "description":"Tìm hiểu về định dạng Unity3D và các API có thể tạo và mở tệp Unity3D.",
-"linktitle":"Unity3D",
+  "linktitle": "Unity3D",
   "menu": {
     "docs": {
       "identifier": "game-unity3d",

@@ -17,7 +17,7 @@
 "toc": true,
 "title":"Format pliku IPS - plik łatki wewnętrznego systemu krosowania",
    "description":"Dowiedz się o formacie IPS i interfejsach API, które umożliwiają tworzenie i otwieranie plików IPS.",
-"linktitle":"IPS",
+   "linktitle":"IPS",
    "menu":{
       "docs":{
          "identifier":"game-ips",

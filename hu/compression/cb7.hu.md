@@ -17,7 +17,7 @@
 "toc": true,
 "title": "CB7 fájlformátum - Képregény 7-Zip archívum",
   "description":"További információ a CB7 formátumról és az API-król, amelyek CB7 fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "CB7",
+  "linktitle": "CB7",
   "menu": {
     "docs": {
       "identifier": "compression-cb7",

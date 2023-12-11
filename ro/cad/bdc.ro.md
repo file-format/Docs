@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format de fișier BDC - Fișier de proiectare West Point Bridge Designer",
   "description":"Aflați despre formatul de fișier BDC și despre API-urile care pot crea și deschide fișiere BDC.",
-"linktitle": "BDC",
+  "linktitle": "BDC",
   "menu": {
     "docs": {
       "identifier": "cad-bdc",

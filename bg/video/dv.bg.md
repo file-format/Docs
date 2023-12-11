@@ -18,7 +18,7 @@
 "toc": true,
 "title": "DV файлов формат - цифров видео файл",
   "description":"Научете за DV формат и API, които могат да създават и отварят DV файлове.",
-"linktitle": "DV",
+  "linktitle": "DV",
   "menu": {
     "docs": {
       "identifier": "video-dv",

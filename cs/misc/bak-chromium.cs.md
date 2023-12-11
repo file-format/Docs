@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Formát souboru BAK - Záloha záložek Chromium",
   "description":"Další informace o formátu záložek BAK Chromium a rozhraních API, která mohou vytvářet a otevírat soubory BAK.",
-"linktitle": "BAK Chromium Bookmarks",
+  "linktitle": "BAK Chromium Bookmarks",
   "menu": {
     "docs": {
       "identifier": "misc-bak-chromium",

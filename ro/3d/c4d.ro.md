@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format fișier C4D - fișier model Cinema 4D",
   "description":"Aflați despre formatul C4D și despre API-urile care pot crea și deschide fișiere C4D.",
-"linktitle": "C4D",
+  "linktitle": "C4D",
   "menu": {
     "docs": {
       "identifier": "3d-c4d",

@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format de fișier OBI - fișier de abonament RSS Outlook",
   "description":"Aflați despre formatul OBI și despre API-urile care pot crea și deschide fișiere OBI.",
-"linktitle": "OBI",
+  "linktitle": "OBI",
   "menu": {
     "docs": {
       "identifier": "settings-obi",

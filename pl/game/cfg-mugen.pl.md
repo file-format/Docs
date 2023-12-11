@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Format pliku CFG - plik konfiguracyjny MUGEN",
   "description":"Dowiedz się więcej o formacie pliku konfiguracyjnego CFG MUGEN i interfejsach API, które umożliwiają tworzenie i otwieranie plików CFG.",
-"linktitle": "CFG MUGEN",
+  "linktitle": "CFG M.U.G.E.N",
   "menu": {
     "docs": {
       "identifier": "game-cfg-mugen",

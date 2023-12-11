@@ -15,7 +15,7 @@
 "toc": true,
 "title": "QPW fájlformátum - Quattro Pro táblázat",
   "description":"További információ a QPW fájlformátumról és az API-król, amelyek QPW fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "QPW",
+  "linktitle": "QPW",
   "menu": {
     "docs": {
       "identifier": "spreadsheet-qpw",

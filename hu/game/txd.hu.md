@@ -15,7 +15,7 @@
 "toc": true,
 "title": "TXD fájlformátum - játék textúra szótár",
   "description":"További információ a TXD formátumról és az API-król, amelyek TXD fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "TXD",
+  "linktitle": "TXD",
   "menu": {
     "docs": {
       "identifier": "game-txd",

@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Formát souboru DSD - Soubor popisu výkresové sady AutoCAD",
   "description":"Další informace o formátu DSD a rozhraních API, která mohou vytvářet a otevírat soubory DSD.",
-"linktitle": "DSD",
+  "linktitle": "DSD",
   "menu": {
     "docs": {
       "identifier": "settings-dsd",

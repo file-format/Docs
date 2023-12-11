@@ -17,7 +17,7 @@
 "toc": true,
 "title":"Plik ZOO - Co to jest plik .zoo i jak go otworzyć?",
    "description":"Dowiedz się o formacie pliku skompresowanego ZOO i interfejsach API, które umożliwiają tworzenie i otwieranie plików ZOO.",
-"linktitle":"ZOO",
+   "linktitle":"ZOO",
    "menu":{
       "docs":{
          "identifier":"compression-zoo",

@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Format pliku FPT - plik notatki bazy danych FileMaker Pro",
   "description":"Dowiedz się o formacie FPT i interfejsach API, które umożliwiają tworzenie i otwieranie plików FPT.",
-"tytuł linku": "FPT",
+  "linktitle": "FPT",
   "menu": {
     "docs": {
       "identifier": "database-fpt",

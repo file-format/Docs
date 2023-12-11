@@ -17,7 +17,7 @@
 "toc": true,
 "title":"Format pliku SHADER - zasób Unity Shader",
    "description":"Dowiedz się o formacie SHADER Unity Shader Asset i interfejsach API, które umożliwiają tworzenie i otwieranie plików SHADER.",
-"linktitle":"Jedność SHADER",
+   "linktitle":"SHADER Unity",
    "menu":{
       "docs":{
          "identifier":"game-shader-unity",

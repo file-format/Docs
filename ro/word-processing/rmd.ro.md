@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Format fișier RMD - fișier R Markdown",
   "description":"Aflați despre formatul RMD și despre API-urile care pot crea și deschide fișiere RMD.",
-"linktitle": "RMD",
+  "linktitle": "RMD",
   "menu": {
     "docs": {
       "identifier": "word-processing-rmd",

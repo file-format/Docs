@@ -18,7 +18,7 @@
 "toc": true,
 "title": "VMX файлов формат - VMware виртуална машина конфигурационен файл",
   "description":"Научете за VMX формата и API, които могат да създават и отварят VMX файлове.",
-"linktitle": "VMX",
+  "linktitle": "VMX",
   "menu": {
     "docs": {
       "identifier": "settings-vmx",

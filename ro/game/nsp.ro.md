@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Format fișier NSP - Pachetul de trimitere Nintendo",
   "description":"Aflați despre formatul NSP și despre API-urile care pot crea și deschide fișiere NSP.",
-"linktitle": "NSP",
+  "linktitle": "NSP",
   "menu": {
     "docs": {
       "identifier": "game-nsp",

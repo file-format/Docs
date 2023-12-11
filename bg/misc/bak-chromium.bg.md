@@ -17,7 +17,7 @@
 "toc": true,
 "title": "BAK файлов формат - архивиране на Chromium отметки",
   "description":"Научете за формата на BAK Chromium Bookmarks и API, които могат да създават и отварят BAK файлове.",
-"linktitle": "BAK Chromium отметки",
+  "linktitle": "BAK Chromium Bookmarks",
   "menu": {
     "docs": {
       "identifier": "misc-bak-chromium",

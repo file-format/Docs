@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format pliku ISS - Skrypt instalacyjny Inno",
   "description":"Dowiedz się o formacie ISS i interfejsach API, które umożliwiają tworzenie i otwieranie plików ISS.",
-"tytuł łącza": "ISS",
+  "linktitle": "ISS",
   "menu": {
     "docs": {
       "identifier": "settings-iss",

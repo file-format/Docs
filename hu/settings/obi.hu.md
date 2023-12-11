@@ -15,7 +15,7 @@
 "toc": true,
 "title": "OBI-fájlformátum - Outlook RSS-előfizetési fájl",
   "description":"További információ az OBI-formátumról és az OBI-fájlok létrehozására és megnyitására alkalmas API-król.",
-"linktitle": "OBI",
+  "linktitle": "OBI",
   "menu": {
     "docs": {
       "identifier": "settings-obi",

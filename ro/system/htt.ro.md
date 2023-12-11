@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Format fișier HTTP - șablon hipertext",
   "description":"Aflați despre formatul HTT și despre API-urile care pot crea și deschide fișiere HTT.",
-"linktitle": "HTT",
+  "linktitle": "HTT",
   "menu": {
     "docs": {
       "identifier": "system-htt",

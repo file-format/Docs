@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Định dạng tệp ANI - Con trỏ hoạt hình của Windows",
   "description":"Tìm hiểu về định dạng ANI và các API có thể tạo và mở tệp ANI.",
-"linktitle":"ANI",
+  "linktitle": "ANI",
   "menu": {
     "docs": {
       "identifier": "system-ani",

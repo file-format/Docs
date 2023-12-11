@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Formát souboru CFG - konfigurační soubor MAME",
   "description":"Další informace o formátu konfiguračního souboru CFG MAME a rozhraních API, která mohou vytvářet a otevírat soubory CFG.",
-"linktitle": "CFG MAME",
+  "linktitle": "CFG MAME",
   "menu": {
     "docs": {
       "identifier": "settings-cfg-mame",

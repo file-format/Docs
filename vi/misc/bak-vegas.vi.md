@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Định dạng tệp BAK - Sao lưu dự án video VEGAS",
   "description":"Tìm hiểu về định dạng và API sao lưu dự án video BAK VEGAS có thể tạo và mở tệp BAK.",
-"linktitle":"Video BAK VEGAS",
+  "linktitle": "BAK VEGAS Video",
   "menu": {
     "docs": {
       "identifier": "misc-bak-vegas",

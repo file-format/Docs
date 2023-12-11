@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Formát souboru M4R - soubor vyzváněcího tónu pro iPhone",
   "description":"Další informace o formátu souboru M4R a rozhraních API, která mohou vytvářet a otevírat soubory M4R.",
-"linktitle": "M4R",
+  "linktitle": "M4R",
   "menu": {
     "docs": {
       "identifier": "audio-m4r",

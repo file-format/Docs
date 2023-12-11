@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Formát souboru C4D - soubor modelu Cinema 4D",
   "description":"Další informace o formátu C4D a rozhraních API, která mohou vytvářet a otevírat soubory C4D.",
-"linktitle": "C4D",
+  "linktitle": "C4D",
   "menu": {
     "docs": {
       "identifier": "3d-c4d",

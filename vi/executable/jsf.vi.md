@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Định dạng tệp JSF - Tệp lệnh Java Script",
   "description":"Tìm hiểu về định dạng JSF và các API có thể tạo và mở tệp JSF.",
-"linktitle":"JSF",
+  "linktitle": "JSF",
   "menu": {
     "docs": {
       "identifier": "executable-jsf",

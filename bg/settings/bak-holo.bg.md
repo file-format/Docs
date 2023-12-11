@@ -17,7 +17,7 @@
 "toc": true,
 "title": "BAK файлов формат - архивиране на Holo Launcher",
   "description":"Научете за формата за архивиране на BAK Holo Launcher и API, които могат да създават и отварят BAK файлове.",
-"linktitle": "BAK HOLO",
+  "linktitle": "BAK HOLO",
   "menu": {
     "docs": {
       "identifier": "settings-bak-holo",

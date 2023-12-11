@@ -17,7 +17,7 @@
 "toc": true,
 "title": "XIP fájlformátum - MacOS aláírt archívum",
   "description":"További információ az XIP formátumról és az API-król, amelyek XIP fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "XIP",
+  "linktitle": "XIP",
   "menu": {
     "docs": {
       "identifier": "compression-xip",

@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Formát souboru CONF - konfigurační soubor Unix",
   "description":"Další informace o formátu CONF a rozhraních API, která mohou vytvářet a otevírat soubory CONF.",
-"linktitle": "CONF",
+  "linktitle": "CONF",
   "menu": {
     "docs": {
       "identifier": "settings-conf",

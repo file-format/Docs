@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Файлов формат НАСТРОЙКИ - файл с настройки на Visual Studio",
   "description":"Научете за формата SETTINGS и API, които могат да създават и отварят SETTINGS файлове.",
-"linktitle": "НАСТРОЙКИ",
+  "linktitle": "SETTINGS",
   "menu": {
     "docs": {
       "identifier": "settings-settings",

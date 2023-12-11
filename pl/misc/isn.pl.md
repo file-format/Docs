@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Format pliku ISN - plik źródłowy instalatora",
   "description":"Dowiedz się o formacie ISN i interfejsach API, które umożliwiają tworzenie i otwieranie plików ISN.",
-"linktitle": "ISN",
+  "linktitle": "ISN",
   "menu": {
     "docs": {
       "identifier": "misc-isn",

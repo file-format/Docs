@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Formát souboru PWA - soubor hesla agenta",
   "description":"Další informace o formátu PWA a rozhraních API, která mohou vytvářet a otevírat soubory PWA.",
-"linktitle": "PWA",
+  "linktitle": "PWA",
   "menu": {
     "docs": {
       "identifier": "compression-pwa",

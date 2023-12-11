@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Format de fișier CFG - Fișier de conexiune la server Citrix",
   "description":"Aflați despre formatul fișierului CFG Citrix Server Connection și despre API-urile care pot crea și deschide fișiere CFG.",
-"linktitle": "CFG Citrix",
+  "linktitle": "CFG Citrix",
   "menu": {
     "docs": {
       "identifier": "settings-cfg-citrix",

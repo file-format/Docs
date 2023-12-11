@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Định dạng tệp RB - Tệp mã nguồn Ruby",
   "description":"Tìm hiểu về định dạng RB và các API có thể tạo và mở tệp RB.",
-"linktitle":"RB",
+  "linktitle": "RB",
   "menu": {
     "docs": {
       "identifier": "programming-rb",

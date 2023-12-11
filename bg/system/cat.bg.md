@@ -16,7 +16,7 @@
 "toc":true,
 "title": "CAT файлов формат - каталожен файл на Windows",
    "description":"Научете за CAT формата и API, които могат да създават и отварят CAT файлове.",
-"linktitle": "КОТКА",
+   "linktitle":"CAT",
    "menu":{
       "docs":{
          "identifier":"system-cat",

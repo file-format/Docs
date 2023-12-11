@@ -14,7 +14,7 @@
 "toc": true,
 "title": "REG fájlformátum - Windows rendszerleíró fájl",
   "description":"További információ a REG formátumról és az API-król, amelyek REG fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "REG",
+  "linktitle": "REG",
   "menu": {
     "docs": {
       "identifier": "system-reg",

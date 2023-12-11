@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Tệp PDB là gì? Tìm hiểu về tệp PDB: Công cụ quan trọng cho sinh học cấu trúc",
   "description":"Tìm hiểu về Tệp PDB là gì? Tìm hiểu về Tệp PDB: Công cụ quan trọng cho Sinh học Cấu trúc",
-"linktitle":"PDB",
+  "linktitle": "PDB",
   "menu": {
     "docs": {
       "identifier": "database-pdb",

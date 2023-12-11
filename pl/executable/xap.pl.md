@@ -15,7 +15,7 @@
 "toc": true,
   "description":"Dowiedz się o formacie pliku XAP i interfejsach API, które umożliwiają tworzenie i otwieranie plików XAP.",
 "title": "Format pliku XAP - pakiet aplikacji Silverlight",
-"tytuł łącza": "XAP",
+  "linktitle": "XAP",
   "menu": {
     "docs": {
       "identifier": "executable-xap",

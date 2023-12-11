@@ -17,7 +17,7 @@
 "toc": true,
 "title": "CXARCHIVE файлов формат - CrossOver бутилка архив",
   "description":"Научете за CXARCHIVE CrossOver Bottle Archive формат и API, които могат да създават и отварят CXARCHIVE файлове.",
-"linktitle": "CXARCHIVE",
+  "linktitle": "CXARCHIVE",
   "menu": {
     "docs": {
       "identifier": "compression-cxarchive",

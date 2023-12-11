@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Định dạng tệp 3GPP - Tệp phương tiện 3GPP",
   "description":"Tìm hiểu về định dạng 3GPP và các API có thể tạo và mở tệp 3GPP.",
-"linktitle":"3GPP",
+  "linktitle": "3GPP",
   "menu": {
     "docs": {
       "identifier": "video-3gpp",

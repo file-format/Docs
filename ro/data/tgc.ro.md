@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Fișier TGC - Clipul nodului Terragen - Ce este un fișier .tgc și cum se deschide?",
    "description":"Aflați despre formatul de fișier TGC Terragen Node Clip și despre API-urile care pot crea și deschide fișiere INK.",
-"linktitle":"TGC",
+   "linktitle":"TGC",
    "menu":{
       "docs":{
          "identifier":"data-tgc",

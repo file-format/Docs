@@ -16,7 +16,7 @@
 "toc": true,
 "title": "APM файлов формат - Aldus поставяемо метафайлово изображение",
   "description":"Научете за APM формата и API, които могат да създават и отварят APM файлове.",
-"linktitle": "APM",
+  "linktitle": "APM",
   "menu": {
     "docs": {
       "identifier": "image-apm",

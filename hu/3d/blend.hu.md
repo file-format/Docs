@@ -15,7 +15,7 @@
 "toc": true,
 "title": "BLEND fájlformátum - Blender 3D fájl",
   "description":"További információ a BLEND formátumról és az API-król, amelyek BLEND fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "KEVERÉK",
+  "linktitle": "BLEND",
   "menu": {
     "docs": {
       "identifier": "3d-blend",

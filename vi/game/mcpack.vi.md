@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Định dạng tệp MCPACK - Tiện ích bổ sung phiên bản Minecraft Bedrock",
   "description":"Tìm hiểu về định dạng MCPACK và các API có thể tạo và mở tệp MCPACK.",
-"linktitle":"MCPACK",
+  "linktitle": "MCPACK",
   "menu": {
     "docs": {
       "identifier": "game-mcpack",

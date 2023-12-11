@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Formát souboru LANG - soubor lokalizace jazyka Minecraft",
   "description":"Další informace o formátu LANG a rozhraních API, která mohou vytvářet a otevírat soubory LANG.",
-"linktitle": "LANG",
+  "linktitle": "LANG",
   "menu": {
     "docs": {
       "identifier": "game-lang",

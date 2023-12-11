@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Formát souboru BAK - Act! Záloha databáze",
   "description":"Další informace o BAK Act! Záložní formát a rozhraní API, která mohou vytvářet a otevírat soubory BAK.",
-"linktitle": "BAK ACT Backup",
+  "linktitle": "BAK ACT Backup",
   "menu": {
     "docs": {
       "identifier": "database-bak-act",

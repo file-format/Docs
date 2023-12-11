@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Formát souboru TPF - dokument IBM SPSS Text Wizard",
   "description":"Další informace o formátu TPF a rozhraních API, která mohou vytvářet a otevírat soubory TPF.",
-"linktitle": "TPF",
+  "linktitle": "TPF",
   "menu": {
     "docs": {
       "identifier": "settings-tpf",

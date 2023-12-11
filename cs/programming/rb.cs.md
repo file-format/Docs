@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Formát souboru RB - soubor zdrojového kódu Ruby",
   "description":"Další informace o formátu RB a rozhraních API, která mohou vytvářet a otevírat soubory RB.",
-"linktitle": "RB",
+  "linktitle": "RB",
   "menu": {
     "docs": {
       "identifier": "programming-rb",

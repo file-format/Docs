@@ -18,7 +18,7 @@
 "toc": true,
 "title": "Formát souboru SCC - ScreenFlow Screen Recording",
   "description":"Další informace o formátu SCC a rozhraních API, která mohou vytvářet a otevírat soubory SCC.",
-"linktitle": "SCC",
+  "linktitle": "SCC",
   "menu": {
     "docs": {
       "identifier": "video-scc",

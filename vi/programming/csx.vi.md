@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Định dạng tệp CSX - Tập lệnh Visual C#",
   "description":"Tìm hiểu về định dạng CSX và các API có thể tạo và mở tệp CSX.",
-"linktitle":"CSX",
+  "linktitle": "CSX",
   "menu": {
     "docs": {
       "identifier": "programming-csx",

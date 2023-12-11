@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Định dạng tệp GXT - Tệp văn bản Grand Theft Auto",
   "description":"Tìm hiểu về định dạng GXT và các API có thể tạo và mở tệp GXT.",
-"linktitle":"GXT",
+  "linktitle": "GXT",
   "menu": {
     "docs": {
       "identifier": "settings-gxt",

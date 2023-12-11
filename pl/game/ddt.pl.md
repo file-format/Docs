@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Format pliku DDT - Plik danych gry Football Manager",
   "description":"Dowiedz się o formacie DDT i interfejsach API, które umożliwiają tworzenie i otwieranie plików DDT.",
-"tytuł łącza": "DDT",
+  "linktitle": "DDT",
   "menu": {
     "docs": {
       "identifier": "game-ddt",

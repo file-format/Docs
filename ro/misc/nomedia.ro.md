@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Format fișier NOMEDIA - Android fără fișier media",
   "description":"Aflați despre formatul NOMEDIA și despre API-urile care pot crea și deschide fișiere NOMEDIA.",
-"linktitle": "NOMEDIA",
+  "linktitle": "NOMEDIA",
   "menu": {
     "docs": {
       "identifier": "misc-nomedia",

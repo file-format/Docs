@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Formát souboru MUI - Myriad User Instrument File",
   "description":"Další informace o formátu souboru MUI a rozhraních API, která mohou vytvářet a otevírat soubory MUI.",
-"linktitle": "MUI",
+  "linktitle": "MUI",
   "menu": {
     "docs": {
       "identifier": "audio-mui",

@@ -14,7 +14,7 @@
 "toc": true,
 "title": "BEÁLLÍTÁSOK Fájlformátum - Visual Studio beállítási fájl",
   "description":"További információ a SETTINGS formátumról és az API-król, amelyek SETTINGS fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "BEÁLLÍTÁSOK",
+  "linktitle": "SETTINGS",
   "menu": {
     "docs": {
       "identifier": "settings-settings",

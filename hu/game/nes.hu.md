@@ -16,7 +16,7 @@
 "toc": true,
 "title": "NES fájlformátum - Nintendo Entertainment System ROM-fájl",
   "description":"További információ a NES-formátumról és az API-król, amelyek NES-fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "NES",
+  "linktitle": "NES",
   "menu": {
     "docs": {
       "identifier": "game-nes",

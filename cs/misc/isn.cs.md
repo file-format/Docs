@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Formát souboru ISN - zdrojový soubor instalačního programu",
   "description":"Další informace o formátu ISN a rozhraních API, která mohou vytvářet a otevírat soubory ISN.",
-"linktitle": "ISN",
+  "linktitle": "ISN",
   "menu": {
     "docs": {
       "identifier": "misc-isn",

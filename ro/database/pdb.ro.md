@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Ce sunt fișierele PDB? Înțelegerea fișierelor PDB: un instrument crucial pentru biologia structurală",
   "description":"Aflați despre ce sunt fișierele PDB? Înțelegerea fișierelor PDB: un instrument crucial pentru biologia structurală",
-"linktitle": "PDB",
+  "linktitle": "PDB",
   "menu": {
     "docs": {
       "identifier": "database-pdb",

@@ -18,7 +18,7 @@
 "toc": true,
 "title": "SCC fájlformátum - ScreenFlow képernyőfelvétel",
   "description":"További információ az SCC-formátumról és az SCC-fájlok létrehozására és megnyitására alkalmas API-król.",
-"linktitle": "SCC",
+  "linktitle": "SCC",
   "menu": {
     "docs": {
       "identifier": "video-scc",

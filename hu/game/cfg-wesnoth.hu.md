@@ -17,7 +17,7 @@
 "toc": true,
 "title": "CFG fájlformátum - Wesnoth jelölőnyelvi fájl",
   "description":"További információ a CFG Wesnoth Markup Language fájlformátumról és az API-król, amelyek CFG-fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "CFG Wesnoth",
+  "linktitle": "CFG Wesnoth",
   "menu": {
     "docs": {
       "identifier": "game-cfg-wesnoth",

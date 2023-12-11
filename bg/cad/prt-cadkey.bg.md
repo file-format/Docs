@@ -17,7 +17,7 @@
 "toc":true,
 "title": "PRT файлов формат - CADKEY частичен файл",
    "description":"Научете за PRT CADKEY Part файловия формат и API, които могат да създават и отварят PRT файлове.",
-"linktitle": "PRT CADKEY",
+   "linktitle":"PRT CADKEY",
    "menu":{
       "docs":{
          "identifier":"cad-prt-cadkey",

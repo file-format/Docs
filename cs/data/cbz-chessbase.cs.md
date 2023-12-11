@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Soubor CBZ - Archiv databáze ChessBase - Co je soubor .cbz a jak jej mohu otevřít?",
   "description":"Další informace o formátu CBZ ChessBase Encrypted Database Archive a rozhraních API, která mohou vytvářet a otevírat soubory CBZ.",
-"linktitle": "CBZ",
+  "linktitle": "CBZ",
   "menu": {
     "docs": {
       "identifier": "data-cbz-chessbase",

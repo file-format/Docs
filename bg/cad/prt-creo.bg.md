@@ -17,7 +17,7 @@
 "toc":true,
 "title": "PRT файлов формат - параметрична част на Creo",
    "description":"Научете за PRT Creo Parametric Part файлов формат и API, които могат да създават и отварят PRT файлове.",
-"linktitle": "PRT",
+   "linktitle":"PRT",
    "menu":{
       "docs":{
          "identifier":"cad-prt-creo",

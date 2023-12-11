@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Format pliku JSF - plik poleceń Java Script",
   "description":"Dowiedz się o formacie JSF i interfejsach API, które umożliwiają tworzenie i otwieranie plików JSF.",
-"tytuł linku": "JSF",
+  "linktitle": "JSF",
   "menu": {
     "docs": {
       "identifier": "executable-jsf",

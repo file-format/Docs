@@ -15,7 +15,7 @@
 "toc": true,
 "title": "STAHOVÁNÍ formátu souboru - Pando neúplný soubor ke stažení",
   "description":"Další informace o formátu DOWNLOADING a rozhraních API, která mohou vytvářet a otevírat soubory DOWNLOADING.",
-"linktitle": "STAHOVÁNÍ",
+  "linktitle": "DOWNLOADING",
   "menu": {
     "docs": {
       "identifier": "misc-downloading",

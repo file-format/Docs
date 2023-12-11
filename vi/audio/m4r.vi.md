@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Định dạng tệp M4R - Tệp nhạc chuông iPhone",
   "description":"Tìm hiểu về định dạng tệp M4R và các API có thể tạo và mở tệp M4R.",
-"linktitle":"M4R",
+  "linktitle": "M4R",
   "menu": {
     "docs": {
       "identifier": "audio-m4r",

@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format fișier TXD - Dicționar de texturi de joc",
   "description":"Aflați despre formatul TXD și despre API-urile care pot crea și deschide fișiere TXD.",
-"linktitle": "TXD",
+  "linktitle": "TXD",
   "menu": {
     "docs": {
       "identifier": "game-txd",

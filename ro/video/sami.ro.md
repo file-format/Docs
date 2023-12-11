@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format de fișier SAMI - fișier de schimb de subtitrări și metadate",
   "description":"Aflați despre formatul SAMI și despre API-urile care pot crea și deschide fișiere SAMI.",
-"linktitle": "SAMI",
+  "linktitle": "SAMI",
   "menu": {
     "docs": {
       "identifier": "video-sami",

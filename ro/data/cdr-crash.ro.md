@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Fișier CDR - Fișier de date de recuperare a datelor de blocare - Ce este un fișier .cdr și cum îl deschid?",
    "description":"Aflați despre formatul de fișier CDR Crash Data Retrieval Data și despre API-urile care pot crea și deschide fișiere CDR.",
-"linktitle":"CDR",
+   "linktitle":"CDR",
    "menu":{
       "docs":{
          "identifier":"data-cdr-crash",

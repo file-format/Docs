@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Format fișier RB - Fișier cod sursă Ruby",
   "description":"Aflați despre formatul RB și despre API-urile care pot crea și deschide fișiere RB.",
-"linktitle": "RB",
+  "linktitle": "RB",
   "menu": {
     "docs": {
       "identifier": "programming-rb",

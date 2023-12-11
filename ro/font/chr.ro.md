@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Format fișier CHR - Set de caractere Borland",
    "description":"Aflați despre formatul de fișier CHR Borland Character Set și despre API-urile care pot crea și deschide fișiere CHR.",
-"linktitle":"CHR",
+   "linktitle":"CHR",
    "menu":{
       "docs":{
          "identifier":"font-chr",

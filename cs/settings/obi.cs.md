@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Formát souboru OBI - soubor předplatného RSS aplikace Outlook",
   "description":"Další informace o formátu OBI a rozhraních API, která mohou vytvářet a otevírat soubory OBI.",
-"linktitle": "OBI",
+  "linktitle": "OBI",
   "menu": {
     "docs": {
       "identifier": "settings-obi",

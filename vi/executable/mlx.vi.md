@@ -18,7 +18,7 @@
 "toc": true,
 "title": "Định dạng tệp MLX - Tệp mã trực tiếp MATLAB",
   "description":"Tìm hiểu về định dạng MLX và các API có thể tạo và mở tệp MLX.",
-"linktitle":"MLX",
+  "linktitle": "MLX",
   "menu": {
     "docs": {
       "identifier": "executable-mlx",

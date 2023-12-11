@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format pliku NUT - plik wideo NUT",
   "description":"Dowiedz się o formacie NUT i interfejsach API, które umożliwiają tworzenie i otwieranie plików NUT.",
-"tytuł linku": "NUT",
+  "linktitle": "NUT",
   "menu": {
     "docs": {
       "identifier": "video-nut",

@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Định dạng tệp CFG - Tệp cấu hình LightWave",
   "description":"Tìm hiểu về định dạng tệp cấu hình CFG LightWave và các API có thể tạo và mở tệp CFG.",
-"linktitle":"CFG LightWave",
+  "linktitle": "CFG LightWave",
   "menu": {
     "docs": {
       "identifier": "settings-cfg-lightwave",

@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format pliku M4R - plik dzwonka iPhone'a",
   "description":"Dowiedz się o formacie pliku M4R i interfejsach API, które umożliwiają tworzenie i otwieranie plików M4R.",
-"tytuł łącza": "M4R",
+  "linktitle": "M4R",
   "menu": {
     "docs": {
       "identifier": "audio-m4r",

@@ -18,7 +18,7 @@
 "toc": true,
 "title": "Định dạng tệp VMX - Tệp cấu hình máy ảo VMware",
   "description":"Tìm hiểu về định dạng VMX và các API có thể tạo và mở tệp VMX.",
-"linktitle":"VMX",
+  "linktitle": "VMX",
   "menu": {
     "docs": {
       "identifier": "settings-vmx",

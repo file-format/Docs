@@ -16,7 +16,7 @@
 "toc":true,
 "title": "PAR файлов формат - Solid Edge Part File",
    "description":"Научете за PAR формата и API, които могат да създават и отварят PAR файлове.",
-"linktitle": "PAR",
+   "linktitle":"PAR",
    "menu":{
       "docs":{
          "identifier":"cad-par",

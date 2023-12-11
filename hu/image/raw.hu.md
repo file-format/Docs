@@ -17,7 +17,7 @@
 "toc": true,
 "title": "RAW fájlformátum - nyers képadatok",
   "description":"További információ a RAW-formátumról és az API-król, amelyek RAW-fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "RAW",
+  "linktitle": "RAW",
   "menu": {
     "docs": {
       "identifier": "image-raw",

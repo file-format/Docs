@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Formát souboru DXB - Drawing Exchange Binary",
   "description":"Další informace o formátu DXB a rozhraních API, která mohou vytvářet a otevírat soubory DXB.",
-"linktitle": "DXB",
+  "linktitle": "DXB",
   "menu": {
     "docs": {
       "identifier": "cad-dxb",

@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Formát souboru MCSTRUCTURE - soubor struktury Minecraft",
   "description":"Další informace o formátu MCSTRUCTURE a rozhraních API, která mohou vytvářet a otevírat soubory MCSTRUCTURE.",
-"linktitle": "MCSTRUCTURE",
+  "linktitle": "MCSTRUCTURE",
   "menu": {
     "docs": {
       "identifier": "game-mcstructure",

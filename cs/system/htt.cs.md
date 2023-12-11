@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Formát souboru HTT - hypertextová šablona",
   "description":"Další informace o formátu HTT a rozhraních API, která mohou vytvářet a otevírat soubory HTT.",
-"linktitle": "HTT",
+  "linktitle": "HTT",
   "menu": {
     "docs": {
       "identifier": "system-htt",

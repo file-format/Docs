@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Định dạng tệp PAT - Tệp mẫu CorelDRAW",
    "description":"Tìm hiểu về định dạng tệp PAT CorelDRAW Pattern và các API có thể tạo và mở tệp PAT.",
-"linktitle":"PAT CorelDRAW",
+   "linktitle":"PAT CorelDRAW",
    "menu":{
       "docs":{
          "identifier":"image-pat-coreldraw",

@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Định dạng tệp PSV - Tệp video Pluralsight",
   "description":"Tìm hiểu về định dạng PSV và các API có thể tạo và mở tệp PSV.",
-"linktitle":"PSV",
+  "linktitle": "PSV",
   "menu": {
     "docs": {
       "identifier": "video-psv",

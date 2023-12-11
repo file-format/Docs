@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Định dạng tệp BAK - Act! Sao lưu cơ sở dữ liệu",
   "description":"Tìm hiểu về Đạo luật BAK! Định dạng sao lưu và API có thể tạo và mở tệp BAK.",
-"linktitle":"Sao lưu BAK ACT",
+  "linktitle": "BAK ACT Backup",
   "menu": {
     "docs": {
       "identifier": "database-bak-act",

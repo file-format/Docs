@@ -17,7 +17,7 @@
 "toc": true,
 "title": "JET файлов формат - Microsoft JET файл с база данни",
   "description":"Научете за JET формата и API, които могат да създават и отварят JET файлове.",
-"linktitle": "JET",
+  "linktitle": "JET",
   "menu": {
     "docs": {
       "identifier": "database-jet",

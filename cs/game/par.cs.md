@@ -15,7 +15,7 @@
 "toc":true,
 "title":"Formát souboru PAR - soubor parametrů letadla FMS",
    "description":"Další informace o formátu PAR a rozhraních API, která mohou vytvářet a otevírat soubory PAR.",
-"linktitle":"PAR",
+   "linktitle":"PAR",
    "menu":{
       "docs":{
          "identifier":"game-par",

@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Formát souboru UDB - soubor databáze uživatelů Microsoft Dynamics AX",
   "description":"Další informace o formátu UDB a rozhraních API, která mohou vytvářet a otevírat soubory UDB.",
-"linktitle": "UDB",
+  "linktitle": "UDB",
   "menu": {
     "docs": {
       "identifier": "database-udb",

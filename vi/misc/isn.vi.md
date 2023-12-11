@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Định dạng tệp ISN - Tệp nguồn trình cài đặt",
   "description":"Tìm hiểu về định dạng ISN và các API có thể tạo và mở tệp ISN.",
-"linktitle":"ISN",
+  "linktitle": "ISN",
   "menu": {
     "docs": {
       "identifier": "misc-isn",

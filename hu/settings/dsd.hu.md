@@ -16,7 +16,7 @@
 "toc": true,
 "title": "DSD fájlformátum - AutoCAD rajzkészlet leírási fájl",
   "description":"További információ a DSD formátumról és az API-król, amelyek DSD-fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "DSD",
+  "linktitle": "DSD",
   "menu": {
     "docs": {
       "identifier": "settings-dsd",

@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Định dạng tệp IPS - Dữ liệu phân tích iOS",
   "description":"Tìm hiểu về định dạng IPS và API có thể tạo và mở tệp IPS.",
-"linktitle":"IPS",
+  "linktitle": "IPS",
   "menu": {
     "docs": {
       "identifier": "misc-ips",

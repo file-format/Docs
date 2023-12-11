@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Format de fișier XEM - Fișier de definire a modelului PowerDesigner",
   "description":"Aflați despre formatul XEM și despre API-urile care pot crea și deschide fișiere XEM.",
-"linktitle": "XEM",
+  "linktitle": "XEM",
   "menu": {
     "docs": {
       "identifier": "database-xem",

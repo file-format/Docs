@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Format pliku PAN - Plik bazy danych panoramy",
   "description":"Dowiedz się o formacie PAN i interfejsach API, które umożliwiają tworzenie i otwieranie plików PAN.",
-"tytuł linku": "PAN",
+  "linktitle": "PAN",
   "menu": {
     "docs": {
       "identifier": "database-pan",

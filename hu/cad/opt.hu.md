@@ -15,7 +15,7 @@
 "toc": true,
 "title": "OPT fájlformátum - Opterecenja File",
   "description":"További információ az OPT fájlformátumról és az API-król, amelyek OPT fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "OPT",
+  "linktitle": "OPT",
   "menu": {
     "docs": {
       "identifier": "cad-opt",

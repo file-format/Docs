@@ -18,7 +18,7 @@
 "toc": true,
 "title": "Định dạng tệp W3X - Tệp bản đồ mở rộng Warcraft 3",
   "description":"Tìm hiểu về định dạng W3X và các API có thể tạo và mở tệp W3X.",
-"tiêu đề liên kết": "W3X",
+  "linktitle": "W3X",
   "menu": {
     "docs": {
       "identifier": "game-w3x",

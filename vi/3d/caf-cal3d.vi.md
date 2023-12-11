@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Định dạng tệp CAF - Tệp hoạt hình nhị phân Cal3D",
    "description":"Tìm hiểu về định dạng Tệp hoạt ảnh nhị phân CAF Cal3D và các API có thể tạo và mở tệp CAF.",
-"linktitle":"CAF Cal3D",
+   "linktitle":"CAF Cal3D",
    "menu":{
       "docs":{
          "identifier":"3d-caf-cal3d",

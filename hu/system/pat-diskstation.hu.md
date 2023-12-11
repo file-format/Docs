@@ -17,7 +17,7 @@
 "toc":true,
 "title":"PAT fájlformátum - DiskStation Manager telepítőfájl",
    "description":"További információ a PAT DiskStation Manager telepítési fájlformátumáról és az API-król, amelyek PAT fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle":"PAT",
+   "linktitle":"PAT",
    "menu":{
       "docs":{
          "identifier":"system-pat-diskstation",

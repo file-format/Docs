@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Formát souboru OPT - soubor Opterecenja",
   "description":"Další informace o formátu souboru OPT a rozhraních API, která mohou vytvářet a otevírat soubory OPT.",
-"linktitle": "OPT",
+  "linktitle": "OPT",
   "menu": {
     "docs": {
       "identifier": "cad-opt",

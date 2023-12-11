@@ -16,7 +16,7 @@
 "toc": true,
 "title": "PAN файлов формат - Панорамен файл с база данни",
   "description":"Научете за PAN формата и API, които могат да създават и отварят PAN файлове.",
-"linktitle": "PAN",
+  "linktitle": "PAN",
   "menu": {
     "docs": {
       "identifier": "database-pan",

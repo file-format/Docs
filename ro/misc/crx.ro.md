@@ -18,7 +18,7 @@
 "toc": true,
 "title": "Format fișier CRX - Extensie Google Chrome",
   "description":"Aflați despre formatul CRX și despre API-urile care pot crea și deschide fișiere CRX.",
-"linktitle": "CRX",
+  "linktitle": "CRX",
   "menu": {
     "docs": {
       "identifier": "misc-crx",

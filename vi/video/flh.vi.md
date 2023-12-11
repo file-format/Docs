@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Định dạng tệp FLH - Tệp hoạt hình FLIC",
   "description":"Tìm hiểu về định dạng FLH và các API có thể tạo và mở tệp FLH.",
-"linktitle":"FLH",
+  "linktitle": "FLH",
   "menu": {
     "docs": {
       "identifier": "video-flh",

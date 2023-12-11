@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format pliku SBV - plik z napisami YouTube",
   "description":"Dowiedz się o formacie SBV i interfejsach API, które umożliwiają tworzenie i otwieranie plików SBV.",
-"tytuł łącza": "SBV",
+  "linktitle": "SBV",
   "menu": {
     "docs": {
       "identifier": "settings-sbv",

@@ -19,7 +19,7 @@
 "toc": true,
 "title": "Định dạng tệp SUB - Tệp phụ đề MicroDVD",
   "description":"Tìm hiểu về định dạng SUB và các API có thể tạo và mở tệp SUB.",
-"linktitle":"SUB",
+  "linktitle": "SUB",
   "menu": {
     "docs": {
       "identifier": "video-sub",

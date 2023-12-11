@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Format pliku BAK - kopia zapasowa MobileTrans",
   "description":"Dowiedz się o formacie BAK MobileTrans i interfejsach API, które umożliwiają tworzenie i otwieranie plików BAK.",
-"linktitle": "BAK MobileTrans",
+  "linktitle": "BAK MobileTrans",
   "menu": {
     "docs": {
       "identifier": "misc-bak-mobiletrans",

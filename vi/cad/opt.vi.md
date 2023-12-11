@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Định dạng tệp OPT - Tệp Opterecenja",
   "description":"Tìm hiểu về định dạng tệp OPT và các API có thể tạo và mở tệp OPT.",
-"linktitle":"TÙY CHỌN",
+  "linktitle": "OPT",
   "menu": {
     "docs": {
       "identifier": "cad-opt",

@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format pliku CHIP - plik adnotacji mikromacierzy",
   "description":"Dowiedz się o formacie pliku CHIP i interfejsach API, które umożliwiają tworzenie i otwieranie plików CHIP.",
-"tytuł linku": "CHIP",
+  "linktitle": "CHIP",
   "menu": {
     "docs": {
       "identifier": "spreadsheet-chip",

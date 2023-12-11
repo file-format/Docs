@@ -8,10 +8,10 @@
   "draft" : "false",
   "toc" : true,
   "title" :"AS - Định dạng tệp ActionScript",
-  "description":"Tìm hiểu về định dạng tệp AS và các API có thể tạo và mở tệp AS.",
+  "linktitle" : "AS",
   "linktitle" : "AS",
   "menu" : {
-    "docs" : {
+      "parent" : "programming"
       "parent" : "programming"
 }
 },

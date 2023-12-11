@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Formát souboru CFG - konfigurační soubor LightWave",
   "description":"Další informace o formátu konfiguračního souboru CFG LightWave a rozhraních API, která mohou vytvářet a otevírat soubory CFG.",
-"linktitle": "CFG LightWave",
+  "linktitle": "CFG LightWave",
   "menu": {
     "docs": {
       "identifier": "settings-cfg-lightwave",

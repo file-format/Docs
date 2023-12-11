@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Format de fișier OSS - fișierul de căutare salvat Microsoft Outlook",
   "description":"Aflați despre formatul OSS și despre API-urile care pot crea și deschide fișiere OSS.",
-"linktitle": "OSS",
+  "linktitle": "OSS",
   "menu": {
     "docs": {
       "identifier": "settings-oss",

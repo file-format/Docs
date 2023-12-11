@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Định dạng tệp CAF - Tệp âm thanh cốt lõi",
    "description":"Tìm hiểu về định dạng CAF và các API có thể tạo và mở tệp CAF.",
-"linktitle":"CAF",
+   "linktitle":"CAF",
    "menu":{
       "docs":{
          "identifier":"audio-caf",

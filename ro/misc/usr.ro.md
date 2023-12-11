@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Format fișier USR - Fișier personalizat SmartMusic",
   "description":"Aflați despre formatul USR și despre API-urile care pot crea și deschide fișiere USR.",
-"linktitle": "USR",
+  "linktitle": "USR",
   "menu": {
     "docs": {
       "identifier": "misc-usr",

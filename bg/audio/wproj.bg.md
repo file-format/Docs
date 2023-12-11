@@ -15,7 +15,7 @@
 "toc": true,
 "title": "WPROJ файлов формат - файл на проекта Wwise",
   "description":"Научете за WPROJ файловия формат и API, които могат да създават и отварят WPROJ файлове.",
-"linktitle": "WPROJ",
+  "linktitle": "WPROJ",
   "menu": {
     "docs": {
       "identifier": "audio-wproj",

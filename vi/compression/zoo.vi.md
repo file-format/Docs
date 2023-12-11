@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Tệp ZOO - Tệp .zoo là gì và làm cách nào để mở tệp?",
    "description":"Tìm hiểu về định dạng tệp nén ZOO và các API có thể tạo và mở tệp ZOO.",
-"linktitle":"ZOO",
+   "linktitle":"ZOO",
    "menu":{
       "docs":{
          "identifier":"compression-zoo",

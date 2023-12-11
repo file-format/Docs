@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Format pliku MPEG - Wideo MPEG",
   "description":"Dowiedz się o formacie MPEG i interfejsach API, które umożliwiają tworzenie i otwieranie plików MPEG.",
-"tytuł łącza": "MPEG",
+  "linktitle": "MPEG",
   "menu": {
     "docs": {
       "identifier": "video-mpeg",

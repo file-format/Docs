@@ -16,7 +16,7 @@
 "toc": true,
 "title": "CC fájl formátum - C++ forráskód fájl",
   "description":"További információ a CC formátumról és az API-król, amelyek CC-fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "CC",
+  "linktitle": "CC",
   "menu": {
     "docs": {
       "identifier": "programming-cc",

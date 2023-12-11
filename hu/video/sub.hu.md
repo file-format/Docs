@@ -19,7 +19,7 @@
 "toc": true,
 "title": "SUB fájl formátum - MicroDVD feliratfájl",
   "description":"További információ a SUB formátumról és az API-król, amelyek SUB fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "SUB",
+  "linktitle": "SUB",
   "menu": {
     "docs": {
       "identifier": "video-sub",

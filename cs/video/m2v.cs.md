@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Formát souboru M2V - Video MPEG-2",
    "description":"Další informace o formátu M2V MPEG-2 Video souboru a rozhraních API, která mohou vytvářet a otevírat soubory M2V.",
-"linktitle":"M2V",
+   "linktitle":"M2V",
    "menu":{
       "docs":{
          "identifier":"video-m2v",

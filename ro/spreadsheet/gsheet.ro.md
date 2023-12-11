@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format fișier GSHEET - Comandă rapidă pentru foi de calcul Google",
   "description":"Aflați despre formatul de fișier GSHEET și despre API-urile care pot crea și deschide fișiere GSHEET.",
-"linktitle": "GSHEET",
+  "linktitle": "GSHEET",
   "menu": {
     "docs": {
       "identifier": "spreadsheet-gsheet",

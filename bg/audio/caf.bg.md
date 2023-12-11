@@ -17,7 +17,7 @@
 "toc":true,
 "title": "CAF файлов формат - основен аудио файл",
    "description":"Научете за CAF формата и API, които могат да създават и отварят CAF файлове.",
-"linktitle": "CAF",
+   "linktitle":"CAF",
    "menu":{
       "docs":{
          "identifier":"audio-caf",

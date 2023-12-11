@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Định dạng tệp NHNN - Tệp phụ đề YouTube",
   "description":"Tìm hiểu về định dạng và API của NHNN có thể tạo và mở tệp NHNN.",
-"linktitle":"NHNN",
+  "linktitle": "SBV",
   "menu": {
     "docs": {
       "identifier": "settings-sbv",

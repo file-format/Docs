@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format fișier PRC - Fișier Mobipocket eBook",
   "description":"Aflați despre formatul PRC și despre API-urile care pot crea și deschide fișiere PRC.",
-"linktitle": "RPC",
+  "linktitle": "PRC",
   "menu": {
     "docs": {
       "identifier": "ebook-prc",

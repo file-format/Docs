@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Soubor INK - Mimio Notebook - Co je soubor .ink a jak jej otevřít?",
    "description":"Další informace o formátu souborů INK Mimio Notebook a rozhraních API, která mohou vytvářet a otevírat soubory INK.",
-"linktitle":"INK",
+   "linktitle":"INK",
    "menu":{
       "docs":{
          "identifier":"data-ink",

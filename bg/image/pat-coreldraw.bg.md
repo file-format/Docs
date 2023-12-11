@@ -17,7 +17,7 @@
 "toc":true,
 "title": "PAT файлов формат - CorelDRAW модел файл",
    "description":"Научете за файловия формат на PAT CorelDRAW Pattern и API, които могат да създават и отварят PAT файлове.",
-"linktitle": "PAT CorelDRAW",
+   "linktitle":"PAT CorelDRAW",
    "menu":{
       "docs":{
          "identifier":"image-pat-coreldraw",

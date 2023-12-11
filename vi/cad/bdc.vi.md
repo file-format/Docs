@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Định dạng tệp BDC - Tệp thiết kế của nhà thiết kế cầu West Point",
   "description":"Tìm hiểu về định dạng tệp BDC và các API có thể tạo và mở tệp BDC.",
-"linktitle":"BDC",
+  "linktitle": "BDC",
   "menu": {
     "docs": {
       "identifier": "cad-bdc",

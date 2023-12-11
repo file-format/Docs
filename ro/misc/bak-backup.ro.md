@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Format fișier BAK - fișier de rezervă",
   "description":"Aflați despre formatul BAK Backup și despre API-urile care pot crea și deschide fișiere BAK.",
-"linktitle": "Backup BAK",
+  "linktitle": "BAK Backup",
   "menu": {
     "docs": {
       "identifier": "misc-bak-backup",

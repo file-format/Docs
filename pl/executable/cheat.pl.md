@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Format pliku CHEAT - Ściągawka Navi",
   "description":"Dowiedz się o formacie CHEAT i interfejsach API, które umożliwiają tworzenie i otwieranie plików CHEAT.",
-"linktitle": "CHEAT",
+  "linktitle": "CHEAT",
   "menu": {
     "docs": {
       "identifier": "executable-cheat",

@@ -17,7 +17,7 @@
 "toc": true,
 "title": "META fájlformátum - meglévő metaadatfájl",
   "description":"További információ a META formátumról és az API-król, amelyek META fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "META",
+  "linktitle": "META",
   "menu": {
     "docs": {
       "identifier": "game-meta",

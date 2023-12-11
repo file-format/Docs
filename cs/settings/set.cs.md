@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Formát souboru SET - soubor sady vlastností knihovny dokumentů",
   "description":"Další informace o formátu SET a rozhraních API, která mohou vytvářet a otevírat soubory SET.",
-"linktitle": "SET",
+  "linktitle": "SET",
   "menu": {
     "docs": {
       "identifier": "settings-set",

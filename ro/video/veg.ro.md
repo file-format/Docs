@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format fișier VEG - Proiect video MAGIX VEGAS",
   "description":"Aflați despre formatul de fișier VEG și despre API-urile care pot crea și deschide fișiere VEG.",
-"linktitle": "VEG",
+  "linktitle": "VEG",
   "menu": {
     "docs": {
       "identifier": "video-veg",

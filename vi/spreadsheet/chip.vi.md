@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Định dạng tệp CHIP - Tệp chú thích microarray",
   "description":"Tìm hiểu về định dạng tệp CHIP và các API có thể tạo và mở tệp CHIP.",
-"linktitle":"CHIP",
+  "linktitle": "CHIP",
   "menu": {
     "docs": {
       "identifier": "spreadsheet-chip",

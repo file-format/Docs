@@ -16,7 +16,7 @@
 "toc": true,
 "title": "IT-fájlformátum - Impulse Tracker Module",
   "description":"További információ az IT-formátumokról és az IT-fájlok létrehozására és megnyitására alkalmas API-król.",
-"linktitle": "IT",
+  "linktitle": "IT",
   "menu": {
     "docs": {
       "identifier": "audio-it",

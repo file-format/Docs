@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Định dạng tệp KINE - Tệp dự án KineMaster",
   "description":"Tìm hiểu về định dạng tệp KINE và các API có thể tạo và mở tệp KINE.",
-"linktitle":"KINE",
+  "linktitle": "KINE",
   "menu": {
     "docs": {
       "identifier": "video-kine",

@@ -12,7 +12,7 @@
 "toc": true,
 "title": "Textové formáty, typy a často kladené dotazy",
   "description":"Další informace o textových formátech, typech textových formátů, seznamu textových formátů a často kladených dotazech",
-"linktitle": "TEXTOVÉ FORMÁTY",
+  "linktitle": "TEXT FORMATS",
   "menu": {
     "docs": {
       "identifier": "misc-text-formats",

@@ -15,7 +15,7 @@
 "toc": true,
 "title":"Format pliku PAR - plik parametrów statku powietrznego FMS",
    "description":"Dowiedz się o formacie PAR i interfejsach API, które umożliwiają tworzenie i otwieranie plików PAR.",
-"linktitle":"PAR",
+   "linktitle":"PAR",
    "menu":{
       "docs":{
          "identifier":"game-par",

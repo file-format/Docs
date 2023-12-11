@@ -17,7 +17,7 @@
 "toc": true,
 "title": "BAK fájlformátum - Holo Launcher biztonsági mentés",
   "description":"További információ a BAK Holo Launcher Backup formátumról és az API-król, amelyek BAK-fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "BAK HOLO",
+  "linktitle": "BAK HOLO",
   "menu": {
     "docs": {
       "identifier": "settings-bak-holo",

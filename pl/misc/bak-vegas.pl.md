@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Format pliku BAK - kopia zapasowa projektu wideo VEGAS",
   "description":"Dowiedz się o formacie kopii zapasowej projektu wideo BAK VEGAS i interfejsach API, które umożliwiają tworzenie i otwieranie plików BAK.",
-"linktitle": "Wideo BAK VEGAS",
+  "linktitle": "BAK VEGAS Video",
   "menu": {
     "docs": {
       "identifier": "misc-bak-vegas",

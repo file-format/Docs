@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Định dạng tệp REG - Tệp đăng ký Windows",
   "description":"Tìm hiểu về định dạng REG và các API có thể tạo và mở tệp REG.",
-"linktitle":"REG",
+  "linktitle": "REG",
   "menu": {
     "docs": {
       "identifier": "system-reg",

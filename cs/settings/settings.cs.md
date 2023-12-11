@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Formát souboru SETTINGS - soubor nastavení sady Visual Studio",
   "description":"Další informace o formátu SETTINGS a rozhraních API, která mohou vytvářet a otevírat soubory SETTINGS.",
-"linktitle": "NASTAVENÍ",
+  "linktitle": "SETTINGS",
   "menu": {
     "docs": {
       "identifier": "settings-settings",

@@ -15,7 +15,7 @@
 "toc": true,
   "description":"Další informace o formátu souboru APP a rozhraních API, která mohou vytvářet a otevírat soubory APP.",
 "title": "Formát souboru APP – balíček aplikací macOS",
-"linktitle": "APP",
+  "linktitle": "APP",
   "menu": {
     "docs": {
       "identifier": "executable-app",

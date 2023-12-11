@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Format pliku REG - plik rejestru systemu Windows",
   "description":"Dowiedz się o formacie REG i interfejsach API, które umożliwiają tworzenie i otwieranie plików REG.",
-"tytuł linku": "REG",
+  "linktitle": "REG",
   "menu": {
     "docs": {
       "identifier": "system-reg",

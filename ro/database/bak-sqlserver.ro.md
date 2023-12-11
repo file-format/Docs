@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Format de fișier BAK - Backup baze de date Microsoft SQL Server",
   "description":"Aflați despre formatul BAK SQL Server Backup și despre API-urile care pot crea și deschide fișiere BAK.",
-"linktitle": "BAK SQL Server",
+  "linktitle": "BAK SQL Server",
   "menu": {
     "docs": {
       "identifier": "database-bak-sqlserver",

@@ -18,7 +18,7 @@
 "toc": true,
 "title": "Formát souboru DESKTOP – vstupní soubor plochy",
   "description":"Další informace o formátu DESKTOP a rozhraních API, která mohou vytvářet a otevírat soubory DESKTOP.",
-"linktitle": "DESKTOP",
+  "linktitle": "DESKTOP",
   "menu": {
     "docs": {
       "identifier": "settings-desktop",

@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Tệp MỰC - Mimio Notebook - Tệp .ink là gì và làm cách nào để mở nó?",
    "description":"Tìm hiểu về định dạng tệp INK Mimio Notebook và các API có thể tạo và mở tệp INK.",
-"linktitle":"MỰC",
+   "linktitle":"INK",
    "menu":{
       "docs":{
          "identifier":"data-ink",

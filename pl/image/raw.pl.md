@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Format pliku RAW - Surowe dane obrazu",
   "description":"Dowiedz się o formacie RAW i interfejsach API, które umożliwiają tworzenie i otwieranie plików RAW.",
-"linktitle": "RAW",
+  "linktitle": "RAW",
   "menu": {
     "docs": {
       "identifier": "image-raw",

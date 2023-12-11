@@ -16,7 +16,7 @@
 "toc": true,
 "title": "EXP fájlformátum - Szimbólumok exportálása",
   "description":"További információ az EXP formátumról és az EXP-fájlok létrehozására és megnyitására alkalmas API-król.",
-"linktitle": "EXP",
+  "linktitle": "EXP",
   "menu": {
     "docs": {
       "identifier": "programming-exp",

@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Mi az a Video Converter? Az Ultimate Guide to Video Converter",
   "description":"További információ a videokonverterekről, formátumokról, GYIK-ről és a legjobb eszközökről",
-"linktitle": "VIDEO ÁTALAKÍTÓ",
+  "linktitle": "VIDEO CONVERTER",
   "menu": {
     "docs": {
       "identifier": "misc-video-converter",

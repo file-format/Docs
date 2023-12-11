@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Format fișier P3T - fișier temă PlayStation 3",
   "description":"Aflați despre formatul P3T și despre API-urile care pot crea și deschide fișiere P3T.",
-"linktitle": "P3T",
+  "linktitle": "P3T",
   "menu": {
     "docs": {
       "identifier": "game-p3t",

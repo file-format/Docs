@@ -17,7 +17,7 @@
 "toc":true,
 "title": "CAF файлов формат - Cal3D двоичен анимационен файл",
    "description":"Научете за CAF Cal3D бинарния анимационен файлов формат и API, които могат да създават и отварят CAF файлове.",
-"linktitle": "CAF Cal3D",
+   "linktitle":"CAF Cal3D",
    "menu":{
       "docs":{
          "identifier":"3d-caf-cal3d",

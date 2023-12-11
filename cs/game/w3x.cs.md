@@ -18,7 +18,7 @@
 "toc": true,
 "title": "Formát souboru W3X - soubor mapy rozšíření Warcraft 3",
   "description":"Další informace o formátu W3X a rozhraních API, která mohou vytvářet a otevírat soubory W3X.",
-"linktitle": "W3X",
+  "linktitle": "W3X",
   "menu": {
     "docs": {
       "identifier": "game-w3x",

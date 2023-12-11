@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Formát souboru AXM - FormIt Sketch File",
   "description":"Další informace o formátu souboru AXM a rozhraních API, která mohou vytvářet a otevírat soubory AXM.",
-"linktitle": "AXM",
+  "linktitle": "AXM",
   "menu": {
     "docs": {
       "identifier": "cad-axm",

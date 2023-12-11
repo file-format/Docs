@@ -15,7 +15,7 @@
 "toc": true,
 "title": "ANI файлов формат - Windows анимиран курсор",
   "description":"Научете за формата ANI и API, които могат да създават и отварят ANI файлове.",
-"linktitle": "ANI",
+  "linktitle": "ANI",
   "menu": {
     "docs": {
       "identifier": "system-ani",

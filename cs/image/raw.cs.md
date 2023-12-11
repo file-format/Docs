@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Formát souboru RAW – nezpracovaná obrazová data",
   "description":"Další informace o formátu RAW a rozhraních API, která mohou vytvářet a otevírat soubory RAW.",
-"linktitle": "RAW",
+  "linktitle": "RAW",
   "menu": {
     "docs": {
       "identifier": "image-raw",

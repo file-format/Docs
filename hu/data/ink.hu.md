@@ -17,7 +17,7 @@
 "toc":true,
 "title":"INK fájl - Mimio Notebook - Mi az .ink fájl és hogyan kell megnyitni?",
    "description":"További információ az INK Mimio Notebook fájlformátumról és az API-król, amelyek INK fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle":"INK",
+   "linktitle":"INK",
    "menu":{
       "docs":{
          "identifier":"data-ink",

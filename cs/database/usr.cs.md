@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Formát souboru USR - soubor databáze FileMaker Pro",
   "description":"Další informace o formátu USR a rozhraních API, která mohou vytvářet a otevírat soubory USR.",
-"linktitle": "USR",
+  "linktitle": "USR",
   "menu": {
     "docs": {
       "identifier": "database-usr",

@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Format pliku NES - plik ROM Nintendo Entertainment System",
   "description":"Dowiedz się o formacie NES i interfejsach API, które umożliwiają tworzenie i otwieranie plików NES.",
-"tytuł łącza": "NES",
+  "linktitle": "NES",
   "menu": {
     "docs": {
       "identifier": "game-nes",

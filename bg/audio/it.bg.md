@@ -16,7 +16,7 @@
 "toc": true,
 "title": "IT файлов формат - модул за проследяване на импулси",
   "description":"Научете за ИТ формат и API, които могат да създават и отварят ИТ файлове.",
-"linktitle": "ИТ",
+  "linktitle": "IT",
   "menu": {
     "docs": {
       "identifier": "audio-it",

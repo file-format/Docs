@@ -16,7 +16,7 @@
 "toc": true,
 "title": "P3T fájlformátum - PlayStation 3 témafájl",
   "description":"További információ a P3T formátumról és az API-król, amelyek P3T fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "P3T",
+  "linktitle": "P3T",
   "menu": {
     "docs": {
       "identifier": "game-p3t",

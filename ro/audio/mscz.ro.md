@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Format de fișier MSCZ - Fișier de partituri comprimate MuseScore",
   "description":"Aflați despre formatul MSCZ și despre API-urile care pot crea și deschide fișiere MSCZ.",
-"linktitle": "MSCZ",
+  "linktitle": "MSCZ",
   "menu": {
     "docs": {
       "identifier": "audio-mscz",

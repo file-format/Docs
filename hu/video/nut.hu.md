@@ -15,7 +15,7 @@
 "toc": true,
 "title": "NUT fájlformátum - NUT videófájl",
   "description":"További információ a NUT formátumról és az API-król, amelyek NUT fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "DIÓ",
+  "linktitle": "NUT",
   "menu": {
     "docs": {
       "identifier": "video-nut",

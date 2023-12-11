@@ -17,7 +17,7 @@
 "toc":true,
 "title":"CUE fájlformátum - CDRWIN cue lap",
    "description":"További információ a CUE CDRWIN Cue Sheet fájlformátumról és az API-król, amelyek CUE fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle":"CUE CDRWIN",
+   "linktitle":"CUE CDRWIN",
    "menu":{
       "docs":{
          "identifier":"disc-and-media-cue-cdrwin",

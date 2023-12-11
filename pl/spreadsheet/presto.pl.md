@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format pliku PRESTO - Arkusz kalkulacyjny projektu Presto",
   "description":"Dowiedz się o formacie PRESTO i interfejsach API, które umożliwiają tworzenie i otwieranie plików PRESTO.",
-"tytuł linku": "PRESTO",
+  "linktitle": "PRESTO",
   "menu": {
     "docs": {
       "identifier": "spreadsheet-presto",

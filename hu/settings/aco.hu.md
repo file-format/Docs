@@ -15,7 +15,7 @@
 "toc": true,
 "title": "ACO fájlformátum - Adobe Photoshop színmintafájl",
   "description":"További információ az ACO formátumról és az API-król, amelyek ACO fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "ACO",
+  "linktitle": "ACO",
   "menu": {
     "docs": {
       "identifier": "settings-aco",

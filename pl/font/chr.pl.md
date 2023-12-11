@@ -17,7 +17,7 @@
 "toc": true,
 "title":"Format pliku CHR - zestaw znaków Borland",
    "description":"Dowiedz się więcej o formacie pliku zestawu znaków CHR Borland i interfejsach API, które umożliwiają tworzenie i otwieranie plików CHR.",
-"linktitle":"CHR",
+   "linktitle":"CHR",
    "menu":{
       "docs":{
          "identifier":"font-chr",

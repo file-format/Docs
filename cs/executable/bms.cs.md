@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Formát souboru BMS - skript QuickBMS",
   "description":"Další informace o formátu BMS a rozhraních API, která mohou vytvářet a otevírat soubory BMS.",
-"linktitle": "BMS",
+  "linktitle": "BMS",
   "menu": {
     "docs": {
       "identifier": "executable-bms",

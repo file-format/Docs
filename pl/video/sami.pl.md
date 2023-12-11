@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format pliku SAMI - plik wymiany napisów i metadanych",
   "description":"Dowiedz się o formacie SAMI i interfejsach API, które umożliwiają tworzenie i otwieranie plików SAMI.",
-"linktitle": "SAMI",
+  "linktitle": "SAMI",
   "menu": {
     "docs": {
       "identifier": "video-sami",

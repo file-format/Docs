@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Định dạng tệp PRT - Tệp phần CADKEY",
    "description":"Tìm hiểu về định dạng tệp Phần PRT CADKEY và các API có thể tạo và mở tệp PRT.",
-"linktitle":"PRT CADKEY",
+   "linktitle":"PRT CADKEY",
    "menu":{
       "docs":{
          "identifier":"cad-prt-cadkey",

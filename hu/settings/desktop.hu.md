@@ -18,7 +18,7 @@
 "toc": true,
 "title": "ASZTAL Fájlformátum - Asztali bejegyzési fájl",
   "description":"További információ az DESKTOP formátumról és az API-król, amelyek DESKTOP fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "DESKTOP",
+  "linktitle": "DESKTOP",
   "menu": {
     "docs": {
       "identifier": "settings-desktop",

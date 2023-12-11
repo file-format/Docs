@@ -17,7 +17,7 @@
 "toc": true,
 "title": "CBA fájlformátum - képregényarchívum",
   "description":"További információ a CBA-formátumról és az API-król, amelyek CBA-fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "CBA",
+  "linktitle": "CBA",
   "menu": {
     "docs": {
       "identifier": "compression-cba",

@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Format pliku USTAWIEŃ - Plik ustawień programu Visual Studio",
   "description":"Dowiedz się więcej o formacie SETTINGS i interfejsach API, które umożliwiają tworzenie i otwieranie plików SETTINGS.",
-"linktitle": "USTAWIENIA",
+  "linktitle": "SETTINGS",
   "menu": {
     "docs": {
       "identifier": "settings-settings",

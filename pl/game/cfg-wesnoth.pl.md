@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Format pliku CFG - plik języka znaczników Wesnoth",
   "description":"Dowiedz się o formacie pliku CFG Wesnoth Markup Language File i interfejsach API, które umożliwiają tworzenie i otwieranie plików CFG.",
-"linktitle": "CFG Wesnoth",
+  "linktitle": "CFG Wesnoth",
   "menu": {
     "docs": {
       "identifier": "game-cfg-wesnoth",

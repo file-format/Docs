@@ -18,7 +18,7 @@
 "toc": true,
 "title": "Định dạng tệp DV - Tệp video kỹ thuật số",
   "description":"Tìm hiểu về định dạng DV và các API có thể tạo và mở tệp DV.",
-"linktitle":"DV",
+  "linktitle": "DV",
   "menu": {
     "docs": {
       "identifier": "video-dv",

@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Ce este un convertor video? Ghidul final pentru convertoarele video",
   "description":"Aflați despre convertoare video, formate, întrebări frecvente și cele mai bune instrumente",
-"linktitle": "CONVERTOR VIDEO",
+  "linktitle": "VIDEO CONVERTER",
   "menu": {
     "docs": {
       "identifier": "misc-video-converter",

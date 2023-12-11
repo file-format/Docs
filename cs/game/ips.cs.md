@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Formát souboru IPS - soubor oprav interního opravného systému",
    "description":"Další informace o formátu IPS a rozhraních API, která mohou vytvářet a otevírat soubory IPS.",
-"linktitle":"IPS",
+   "linktitle":"IPS",
    "menu":{
       "docs":{
          "identifier":"game-ips",

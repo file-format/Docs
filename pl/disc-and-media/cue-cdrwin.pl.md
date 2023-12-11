@@ -17,7 +17,7 @@
 "toc": true,
 "title":"Format pliku CUE - arkusz pamięci CDRWIN",
    "description":"Dowiedz się o formacie pliku CUE CDRWIN Cue Sheet i interfejsach API, które umożliwiają tworzenie i otwieranie plików CUE.",
-"linktitle":"CUE CDRWIN",
+   "linktitle":"CUE CDRWIN",
    "menu":{
       "docs":{
          "identifier":"disc-and-media-cue-cdrwin",

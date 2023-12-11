@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Formát souboru CPI - Informační soubor kódové stránky",
    "description":"Další informace o formátu souboru CPI Codepage Information a rozhraních API, která mohou vytvářet a otevírat soubory CPI.",
-"linktitle":"CPI",
+   "linktitle":"CPI",
    "menu":{
       "docs":{
          "identifier":"system-cpi",

@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Formát souboru CHR - soubor znaků CryENGINE",
    "description":"Další informace o formátu souboru CHR CryENGINE Character a rozhraních API, která mohou vytvářet a otevírat soubory CHR.",
-"linktitle":"CHR CryENGINE",
+   "linktitle":"CHR CryENGINE",
    "menu":{
       "docs":{
          "identifier":"3d-chr-cryengine",

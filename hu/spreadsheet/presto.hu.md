@@ -15,7 +15,7 @@
 "toc": true,
 "title": "PRESTO fájlformátum - Presto Project Spreadsheet",
   "description":"További információ a PRESTO formátumról és az API-król, amelyek PRESTO fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "PRESTO",
+  "linktitle": "PRESTO",
   "menu": {
     "docs": {
       "identifier": "spreadsheet-presto",

@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Mik azok az PDB-fájlok? Az PDB-fájlok megértése: A strukturális biológia kulcsfontosságú eszköze",
   "description":"További információ arról, mik azok az PDB-fájlok? Az PDB-fájlok megértése: A strukturális biológia kulcsfontosságú eszköze",
-"linktitle": "PDB",
+  "linktitle": "PDB",
   "menu": {
     "docs": {
       "identifier": "database-pdb",

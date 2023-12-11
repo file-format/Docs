@@ -16,7 +16,7 @@
 "toc": true,
 "title":"Format pliku BPS - plik łatki BPS",
    "description":"Dowiedz się o formacie BPS i interfejsach API, które umożliwiają tworzenie i otwieranie plików BPS.",
-"linktitle":"BPS",
+   "linktitle":"BPS",
    "menu":{
       "docs":{
          "identifier":"game-bps",

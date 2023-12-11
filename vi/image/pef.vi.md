@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Định dạng tệp PEF - Tệp điện tử Pentax",
   "description":"Tìm hiểu về định dạng PEF và các API có thể tạo và mở tệp PEF.",
-"linktitle":"PEF",
+  "linktitle": "PEF",
   "menu": {
     "docs": {
       "identifier": "image-pef",

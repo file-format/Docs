@@ -17,7 +17,7 @@
 "toc":true,
 "title":"CHR fájlformátum - CryENGINE karakterfájl",
    "description":"További információ a CHR CryENGINE karakterfájlformátumról és az API-król, amelyek CHR-fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle":"CHR CryENGINE",
+   "linktitle":"CHR CryENGINE",
    "menu":{
       "docs":{
          "identifier":"3d-chr-cryengine",

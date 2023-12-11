@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Formát souboru IPSW - soubor aktualizace softwaru pro iPhone",
   "description":"Další informace o formátu IPSW a rozhraních API, která mohou vytvářet a otevírat soubory IPSW.",
-"linktitle": "IPSW",
+  "linktitle": "IPSW",
   "menu": {
     "docs": {
       "identifier": "misc-ipsw",

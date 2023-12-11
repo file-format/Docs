@@ -14,7 +14,7 @@
 "toc": true,
 "title": "REGTRANS-MS fájlformátum - Registry Tranzakciós naplófájl",
   "description":"További információ a REGTRANS-MS formátumról és az API-król, amelyek REGTRANS-MS fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "REGTRANS-MS",
+  "linktitle": "REGTRANS-MS",
   "menu": {
     "docs": {
       "identifier": "system-regtrans-ms",

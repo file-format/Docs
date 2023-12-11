@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Formát souboru NUT – soubor videa NUT",
   "description":"Další informace o formátu NUT a rozhraních API, která mohou vytvářet a otevírat soubory NUT.",
-"linktitle": "NUT",
+  "linktitle": "NUT",
   "menu": {
     "docs": {
       "identifier": "video-nut",

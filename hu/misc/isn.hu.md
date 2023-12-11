@@ -14,7 +14,7 @@
 "toc": true,
 "title": "ISN fájlformátum - telepítői forrásfájl",
   "description":"További információ az ISN-formátumról és az API-król, amelyek ISN-fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "ISN",
+  "linktitle": "ISN",
   "menu": {
     "docs": {
       "identifier": "misc-isn",

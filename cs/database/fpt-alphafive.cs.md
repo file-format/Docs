@@ -18,7 +18,7 @@
 "toc": true,
 "title": "Formát souboru FPT - Alpha Five Table Memo File",
   "description":"Další informace o formátu FPT Alpha Five a rozhraních API, která mohou vytvářet a otevírat soubory FPT.",
-"linktitle": "FPT Alpha Five",
+  "linktitle": "FPT Alpha Five",
   "menu": {
     "docs": {
       "identifier": "database-fpt-alphafive",

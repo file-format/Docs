@@ -15,7 +15,7 @@
 "toc": true,
 "title": "ISS fájlformátum - Inno Setup Script",
   "description":"További információ az ISS-formátumról és az API-król, amelyek ISS-fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "ISS",
+  "linktitle": "ISS",
   "menu": {
     "docs": {
       "identifier": "settings-iss",

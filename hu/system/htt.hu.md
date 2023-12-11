@@ -14,7 +14,7 @@
 "toc": true,
 "title": "HTT fájlformátum - hiperszöveges sablon",
   "description":"További információ a HTT-formátumról és az API-król, amelyek HTT-fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "HTT",
+  "linktitle": "HTT",
   "menu": {
     "docs": {
       "identifier": "system-htt",

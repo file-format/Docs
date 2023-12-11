@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format pliku TXD - Słownik tekstur gier",
   "description":"Dowiedz się o formacie TXD i interfejsach API, które umożliwiają tworzenie i otwieranie plików TXD.",
-"tytuł łącza": "TXD",
+  "linktitle": "TXD",
   "menu": {
     "docs": {
       "identifier": "game-txd",

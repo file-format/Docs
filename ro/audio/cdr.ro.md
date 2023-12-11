@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Format fișier CDR - Date audio brute pe CD",
    "description":"Aflați despre formatul de fișier CDR Raw CD Audio Data și despre API-urile care pot crea și deschide fișiere CDR.",
-"linktitle":"CDR",
+   "linktitle":"CDR",
    "menu":{
       "docs":{
          "identifier":"audio-cdr",

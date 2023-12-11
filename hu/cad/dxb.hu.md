@@ -16,7 +16,7 @@
 "toc": true,
 "title": "DXB fájlformátum - Rajzcsere bináris",
   "description":"További információ a DXB formátumról és az API-król, amelyek DXB fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "DXB",
+  "linktitle": "DXB",
   "menu": {
     "docs": {
       "identifier": "cad-dxb",

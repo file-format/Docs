@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Định dạng tệp P3T - Tệp chủ đề PlayStation 3",
   "description":"Tìm hiểu về định dạng P3T và các API có thể tạo và mở tệp P3T.",
-"linktitle":"P3T",
+  "linktitle": "P3T",
   "menu": {
     "docs": {
       "identifier": "game-p3t",

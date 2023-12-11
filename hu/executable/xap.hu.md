@@ -15,7 +15,7 @@
 "toc": true,
   "description":"További információ az XAP fájlformátumról és az API-król, amelyek XAP-fájlokat hozhatnak létre és nyithatnak meg.",
 "title": "XAP fájlformátum - Silverlight alkalmazáscsomag",
-"linktitle": "XAP",
+  "linktitle": "XAP",
   "menu": {
     "docs": {
       "identifier": "executable-xap",

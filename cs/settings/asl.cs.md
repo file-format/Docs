@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Formát souboru ASL - styl vrstvy Photoshop",
   "description":"Další informace o formátu ASL a rozhraních API, která mohou vytvářet a otevírat soubory ASL.",
-"linktitle": "ASL",
+  "linktitle": "ASL",
   "menu": {
     "docs": {
       "identifier": "settings-asl",

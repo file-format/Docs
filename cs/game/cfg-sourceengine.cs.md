@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Formát souboru CFG - konfigurační soubor zdrojového stroje",
   "description":"Další informace o formátu konfiguračního souboru CFG Source Engine a rozhraních API, která mohou vytvářet a otevírat soubory CFG.",
-"linktitle": "CFG Source Engine",
+  "linktitle": "CFG Source Engine",
   "menu": {
     "docs": {
       "identifier": "game-cfg-sourceengine",

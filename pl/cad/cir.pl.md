@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format pliku CIR - plik schematu Micro-Cap",
   "description":"Dowiedz się o formacie pliku CIR i interfejsach API, które umożliwiają tworzenie i otwieranie plików CIR.",
-"tytuł łącza": "CIR",
+  "linktitle": "CIR",
   "menu": {
     "docs": {
       "identifier": "cad-cir",

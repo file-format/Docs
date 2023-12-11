@@ -15,7 +15,7 @@
 "toc":true,
 "title":"BIN fájlformátum - Unix végrehajtható fájl",
    "description":"További információ a BIN formátumról és az API-król, amelyek BIN fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle":"BIN",
+   "linktitle":"BIN",
    "menu":{
       "docs":{
          "identifier":"executable-bin",

@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Format pliku SMPF - projekt Sprite Monkey",
   "description":"Dowiedz się o formacie SMPF i interfejsach API, które umożliwiają tworzenie i otwieranie plików SMPF.",
-"tytuł łącza": "SMPF",
+  "linktitle": "SMPF",
   "menu": {
     "docs": {
       "identifier": "compression-smpf",

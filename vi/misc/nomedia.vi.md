@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Định dạng tệp NOMEDIA - Android Không có tệp phương tiện",
   "description":"Tìm hiểu về định dạng NOMEDIA và các API có thể tạo và mở tệp NOMEDIA.",
-"linktitle":"NOMEDIA",
+  "linktitle": "NOMEDIA",
   "menu": {
     "docs": {
       "identifier": "misc-nomedia",

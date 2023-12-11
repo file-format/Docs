@@ -17,7 +17,7 @@
 "toc": true,
 "title":"Format pliku PAT - plik instalacyjny DiskStation Manager",
    "description":"Dowiedz się więcej o formacie pliku instalacyjnego PAT DiskStation Manager i interfejsach API, które umożliwiają tworzenie i otwieranie plików PAT.",
-"linktitle":"PAT",
+   "linktitle":"PAT",
    "menu":{
       "docs":{
          "identifier":"system-pat-diskstation",

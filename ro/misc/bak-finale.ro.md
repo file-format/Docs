@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Format fișier BAK - Backup scor final 2012",
   "description":"Aflați despre formatul BAK Finale și despre API-urile care pot crea și deschide fișiere BAK.",
-"linktitle": "BAK Finale",
+  "linktitle": "BAK Finale",
   "menu": {
     "docs": {
       "identifier": "misc-bak-finale",

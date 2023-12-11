@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Format fișier CBA - Arhiva de benzi desenate",
   "description":"Aflați despre formatul CBA și despre API-urile care pot crea și deschide fișiere CBA.",
-"linktitle": "CBA",
+  "linktitle": "CBA",
   "menu": {
     "docs": {
       "identifier": "compression-cba",

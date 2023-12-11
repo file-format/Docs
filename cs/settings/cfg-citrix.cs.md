@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Formát souboru CFG - soubor připojení serveru Citrix",
   "description":"Další informace o formátu CFG Citrix Server Connection File a rozhraní API, která mohou vytvářet a otevírat soubory CFG.",
-"linktitle": "CFG Citrix",
+  "linktitle": "CFG Citrix",
   "menu": {
     "docs": {
       "identifier": "settings-cfg-citrix",

@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Định dạng tệp SCWORLD - Tệp thế giới Survivalcraft",
   "description":"Tìm hiểu về định dạng SCWORLD và các API có thể tạo và mở tệp SCWORLD.",
-"linktitle":"SCWORLD",
+  "linktitle": "SCWORLD",
   "menu": {
     "docs": {
       "identifier": "game-scworld",

@@ -14,7 +14,7 @@
 "toc": true,
 "title": "OPDOWNLOAD File Format - Opera Partially Downloaded File",
   "description":"Aflați despre formatul OPDOWNLOAD și despre API-urile care pot crea și deschide fișiere OPDOWNLOAD.",
-"linktitle": "OPDOWNLOAD",
+  "linktitle": "OPDOWNLOAD",
   "menu": {
     "docs": {
       "identifier": "web-opdownload",

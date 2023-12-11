@@ -16,7 +16,7 @@
 "toc": true,
 "title": "USR fájlformátum - Lowrance GPS adatfájl",
   "description":"További információ az USR-formátumról és az API-król, amelyek USR-fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "USR",
+  "linktitle": "USR",
   "menu": {
     "docs": {
       "identifier": "gis-usr",

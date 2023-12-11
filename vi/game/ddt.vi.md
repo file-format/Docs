@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Định dạng tệp DDT - Tệp dữ liệu trò chơi Trình quản lý bóng đá",
   "description":"Tìm hiểu về định dạng DDT và các API có thể tạo và mở tệp DDT.",
-"linktitle":"DDT",
+  "linktitle": "DDT",
   "menu": {
     "docs": {
       "identifier": "game-ddt",

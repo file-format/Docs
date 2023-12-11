@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Файлов формат NES - ROM файл на Nintendo Entertainment System",
   "description":"Научете за NES формата и API, които могат да създават и отварят NES файлове.",
-"linktitle": "NES",
+  "linktitle": "NES",
   "menu": {
     "docs": {
       "identifier": "game-nes",

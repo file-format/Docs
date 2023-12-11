@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format fișier M4R - fișier ton de apel iPhone",
   "description":"Aflați despre formatul de fișier M4R și despre API-urile care pot crea și deschide fișiere M4R.",
-"linktitle": "M4R",
+  "linktitle": "M4R",
   "menu": {
     "docs": {
       "identifier": "audio-m4r",

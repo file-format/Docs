@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Formát souboru MTM - modul MultiTracker",
   "description":"Další informace o formátu souborů MTM a rozhraních API, která mohou vytvářet a otevírat soubory MTM.",
-"linktitle": "MTM",
+  "linktitle": "MTM",
   "menu": {
     "docs": {
       "identifier": "audio-mtm",

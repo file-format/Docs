@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Formát souboru SAMI – soubor pro výměnu titulků a metadat",
   "description":"Další informace o formátu SAMI a rozhraních API, která mohou vytvářet a otevírat soubory SAMI.",
-"linktitle": "SAMI",
+  "linktitle": "SAMI",
   "menu": {
     "docs": {
       "identifier": "video-sami",

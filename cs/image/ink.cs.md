@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Soubor INK - Reference Pantone - Co je soubor .ink a jak jej otevřít?",
    "description":"Další informace o formátu souboru INK Pantone Reference a rozhraních API, která mohou vytvářet a otevírat soubory INK.",
-"linktitle":"INK",
+   "linktitle":"INK",
    "menu":{
       "docs":{
          "identifier":"image-ink",

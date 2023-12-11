@@ -16,7 +16,7 @@
 "toc":true,
 "title":"BDMV fájlformátum - Blu-ray lemezes filminformációs fájl",
    "description":"További információ a BDMV formátumról és az API-król, amelyek BDMV fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle":"BDMV",
+   "linktitle":"BDMV",
    "menu":{
       "docs":{
          "identifier":"video-bdmv",

@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Format fișier TPF - Document IBM SPSS Text Wizard",
   "description":"Aflați despre formatul TPF și despre API-urile care pot crea și deschide fișiere TPF.",
-"linktitle": "TPF",
+  "linktitle": "TPF",
   "menu": {
     "docs": {
       "identifier": "settings-tpf",

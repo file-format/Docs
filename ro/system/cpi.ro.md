@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Format fișier CPI - Fișier cu informații despre pagina de cod",
    "description":"Aflați despre formatul de fișier CPI Codepage Information și despre API-urile care pot crea și deschide fișiere CPI.",
-"linktitle":"CPI",
+   "linktitle":"CPI",
    "menu":{
       "docs":{
          "identifier":"system-cpi",

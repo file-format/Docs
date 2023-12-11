@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Файлов формат GSHEET - пряк път към Google Таблици",
   "description":"Научете за файловия формат GSHEET и API, които могат да създават и отварят GSHEET файлове.",
-"linktitle": "GSHEET",
+  "linktitle": "GSHEET",
   "menu": {
     "docs": {
       "identifier": "spreadsheet-gsheet",

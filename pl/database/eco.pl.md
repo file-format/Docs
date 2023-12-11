@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Format pliku ECO - plik bazy danych ECCO",
   "description":"Dowiedz się o formacie ECO i interfejsach API, które umożliwiają tworzenie i otwieranie plików ECO.",
-"linktitle": "EKO",
+  "linktitle": "ECO",
   "menu": {
     "docs": {
       "identifier": "database-eco",

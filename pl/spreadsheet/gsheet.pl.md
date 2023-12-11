@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format pliku GSHEET - skrót do Arkuszy Google",
   "description":"Dowiedz się o formacie pliku GSHEET i interfejsach API, które umożliwiają tworzenie i otwieranie plików GSHEET.",
-"linktitle": "GSHEET",
+  "linktitle": "GSHEET",
   "menu": {
     "docs": {
       "identifier": "spreadsheet-gsheet",

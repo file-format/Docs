@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Tệp XCI - Tệp .xci là gì và làm cách nào để mở tệp?",
    "description":"Tìm hiểu về định dạng tệp Hình ảnh Thẻ XCI NX và các API có thể tạo và mở tệp XCI.",
-"linktitle":"XCI",
+   "linktitle":"XCI",
    "menu":{
       "docs":{
          "identifier":"game-xci",

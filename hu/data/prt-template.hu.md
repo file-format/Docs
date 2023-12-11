@@ -17,7 +17,7 @@
 "toc":true,
 "title":"PRT fájl - Bemutatósablon - Mi az a .prt fájl, és hogyan nyitható meg?",
    "description":"További információ a PRT Presentations Template fájlformátumról és a PRT-fájlok létrehozására és megnyitására alkalmas API-król.",
-"linktitle":"PRT",
+   "linktitle":"PRT",
    "menu":{
       "docs":{
          "identifier":"data-prt-template",

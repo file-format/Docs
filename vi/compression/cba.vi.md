@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Định dạng tệp CBA - Lưu trữ truyện tranh",
   "description":"Tìm hiểu về định dạng CBA và các API có thể tạo và mở tệp CBA.",
-"linktitle":"CBA",
+  "linktitle": "CBA",
   "menu": {
     "docs": {
       "identifier": "compression-cba",

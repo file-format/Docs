@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format pliku TTR - powtórka TETR.IO",
   "description":"Dowiedz się o formacie TTR i interfejsach API, które umożliwiają tworzenie i otwieranie plików TTR.",
-"tytuł łącza": "TTR",
+  "linktitle": "TTR",
   "menu": {
     "docs": {
       "identifier": "game-ttr",

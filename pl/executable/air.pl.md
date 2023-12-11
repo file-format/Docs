@@ -14,7 +14,7 @@
 "toc": true,
   "description":"Dowiedz się więcej o formacie pliku AIR i interfejsach API, które umożliwiają tworzenie i otwieranie plików AIR.",
 "title": "Format pliku AIR - plik pakietu instalacyjnego Adobe AIR",
-"linktitle": "POWIETRZE",
+  "linktitle": "AIR",
   "menu": {
     "docs": {
       "identifier": "executable-air",

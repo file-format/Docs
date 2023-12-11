@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Định dạng tệp ARW - Hình ảnh máy ảnh kỹ thuật số Sony Alpha Raw",
   "description":"Tìm hiểu về định dạng ARW và các API có thể tạo và mở tệp ARW.",
-"linktitle":"ARW",
+  "linktitle": "ARW",
   "menu": {
     "docs": {
       "identifier": "image-arw",

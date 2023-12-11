@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Định dạng tệp JET - Cài đặt gói Jackbox Party",
   "description":"Tìm hiểu về định dạng JET và các API có thể tạo và mở tệp JET.",
-"linktitle":"JET",
+  "linktitle": "JET",
   "menu": {
     "docs": {
       "identifier": "settings-jet",

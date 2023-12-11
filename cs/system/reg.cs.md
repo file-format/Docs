@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Formát souboru REG - soubor registru systému Windows",
   "description":"Další informace o formátu REG a rozhraních API, která mohou vytvářet a otevírat soubory REG.",
-"linktitle": "REG",
+  "linktitle": "REG",
   "menu": {
     "docs": {
       "identifier": "system-reg",

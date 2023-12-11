@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Định dạng tệp TPF - Tài liệu thuật sĩ văn bản SPSS của IBM",
   "description":"Tìm hiểu về định dạng TPF và các API có thể tạo và mở tệp TPF.",
-"linktitle":"TPF",
+  "linktitle": "TPF",
   "menu": {
     "docs": {
       "identifier": "settings-tpf",

@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Formát souboru MPEG - Video MPEG",
   "description":"Další informace o formátu MPEG a rozhraních API, která mohou vytvářet a otevírat soubory MPEG.",
-"linktitle": "MPEG",
+  "linktitle": "MPEG",
   "menu": {
     "docs": {
       "identifier": "video-mpeg",

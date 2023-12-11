@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Format pliku CFG - plik konfiguracyjny Celestii",
   "description":"Dowiedz się o formacie pliku konfiguracyjnego CFG Celestia i interfejsach API, które umożliwiają tworzenie i otwieranie plików CFG.",
-"linktitle": "CFG Celestia",
+  "linktitle": "CFG Celestia",
   "menu": {
     "docs": {
       "identifier": "settings-cfg-celestia",

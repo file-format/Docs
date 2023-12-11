@@ -17,7 +17,7 @@
 "toc": true,
 "title": "CFG fájlformátum - Citrix szerver kapcsolati fájl",
   "description":"További információ a CFG Citrix Server Connection fájlformátumról és az API-król, amelyek CFG fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "CFG Citrix",
+  "linktitle": "CFG Citrix",
   "menu": {
     "docs": {
       "identifier": "settings-cfg-citrix",

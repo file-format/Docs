@@ -14,7 +14,7 @@
 "toc": true,
 "title": "GXT fájlformátum - Grand Theft automatikus szövegfájl",
   "description":"További információ a GXT formátumról és az API-król, amelyek GXT fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "GXT",
+  "linktitle": "GXT",
   "menu": {
     "docs": {
       "identifier": "settings-gxt",

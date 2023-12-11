@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Format pliku ICNS - zasób ikon macOS",
   "description":"Dowiedz się o formacie ICNS i interfejsach API, które umożliwiają tworzenie i otwieranie plików ICNS.",
-"tytuł łącza": "ICNS",
+  "linktitle": "ICNS",
   "menu": {
     "docs": {
       "identifier": "system-icns",

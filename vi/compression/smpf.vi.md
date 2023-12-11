@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Định dạng tệp SMPF - Dự án Khỉ Sprite",
   "description":"Tìm hiểu về định dạng SMPF và các API có thể tạo và mở tệp SMPF.",
-"linktitle":"SMPF",
+  "linktitle": "SMPF",
   "menu": {
     "docs": {
       "identifier": "compression-smpf",

@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Format fișier DSD - Fișier de descriere a setului de desene AutoCAD",
   "description":"Aflați despre formatul DSD și despre API-urile care pot crea și deschide fișiere DSD.",
-"linktitle": "DSD",
+  "linktitle": "DSD",
   "menu": {
     "docs": {
       "identifier": "settings-dsd",

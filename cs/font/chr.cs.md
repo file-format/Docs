@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Formát souboru CHR - Borland Character Set",
    "description":"Další informace o formátu souboru CHR Borland Character Set a rozhraních API, která mohou vytvářet a otevírat soubory CHR.",
-"linktitle":"CHR",
+   "linktitle":"CHR",
    "menu":{
       "docs":{
          "identifier":"font-chr",

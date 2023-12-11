@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format fișier OVPN - fișier de configurare OpenVPN",
   "description":"Aflați despre formatul OVPN și despre API-urile care pot crea și deschide fișiere OVPN.",
-"linktitle": "OVPN",
+  "linktitle": "OVPN",
   "menu": {
     "docs": {
       "identifier": "settings-ovpn",

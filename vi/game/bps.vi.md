@@ -16,7 +16,7 @@
 "toc":true,
 "title":"Định dạng tệp BPS - Tệp bản vá BPS",
    "description":"Tìm hiểu về định dạng BPS và các API có thể tạo và mở tệp BPS.",
-"linktitle":"BPS",
+   "linktitle":"BPS",
    "menu":{
       "docs":{
          "identifier":"game-bps",

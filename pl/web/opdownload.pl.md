@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Format pliku OPDOWNLOAD - plik częściowo pobrany w Operze",
   "description":"Dowiedz się o formacie OPDOWNLOAD i interfejsach API, które umożliwiają tworzenie i otwieranie plików OPDOWNLOAD.",
-"linktitle": "OPDOWNLOAD",
+  "linktitle": "OPDOWNLOAD",
   "menu": {
     "docs": {
       "identifier": "web-opdownload",

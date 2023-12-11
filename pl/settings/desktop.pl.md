@@ -18,7 +18,7 @@
 "toc": true,
 "title": "Format pliku DESKTOP - plik wejściowy pulpitu",
   "description":"Dowiedz się o formacie DESKTOP i interfejsach API, które umożliwiają tworzenie i otwieranie plików DESKTOP.",
-"linktitle": "PULpit",
+  "linktitle": "DESKTOP",
   "menu": {
     "docs": {
       "identifier": "settings-desktop",

@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Định dạng tệp SF2 - Ngân hàng âm thanh SoundFont 2",
   "description":"Tìm hiểu về định dạng tệp SF2 và các API có thể tạo và mở tệp SF2.",
-"linktitle":"SF2",
+  "linktitle": "SF2",
   "menu": {
     "docs": {
       "identifier": "audio-sf2",

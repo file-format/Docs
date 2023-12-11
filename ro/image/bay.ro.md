@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Format fișier BAY - Imagine RAW Casio",
   "description":"Aflați despre formatul BAY și despre API-urile care pot crea și deschide fișiere BAY.",
-"linktitle": "BAY",
+  "linktitle": "BAY",
   "menu": {
     "docs": {
       "identifier": "image-bay",

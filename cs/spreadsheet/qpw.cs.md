@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Formát souboru QPW - tabulka Quattro Pro",
   "description":"Další informace o formátu souboru QPW a rozhraních API, která mohou vytvářet a otevírat soubory QPW.",
-"linktitle": "QPW",
+  "linktitle": "QPW",
   "menu": {
     "docs": {
       "identifier": "spreadsheet-qpw",

@@ -15,7 +15,7 @@
 "toc": true,
 "title": "PWA файлов формат - паролен агент файл",
   "description":"Научете за PWA формата и API, които могат да създават и отварят PWA файлове.",
-"linktitle": "PWA",
+  "linktitle": "PWA",
   "menu": {
     "docs": {
       "identifier": "compression-pwa",

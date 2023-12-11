@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format pliku MTM - moduł MultiTracker",
   "description":"Dowiedz się o formacie pliku MTM i interfejsach API, które umożliwiają tworzenie i otwieranie plików MTM.",
-"tytuł linku": "MTM",
+  "linktitle": "MTM",
   "menu": {
     "docs": {
       "identifier": "audio-mtm",

@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Định dạng tệp PRESTO - Bảng tính dự án Presto",
   "description":"Tìm hiểu về định dạng PRESTO và các API có thể tạo và mở tệp PRESTO.",
-"linktitle":"PRESTO",
+  "linktitle": "PRESTO",
   "menu": {
     "docs": {
       "identifier": "spreadsheet-presto",

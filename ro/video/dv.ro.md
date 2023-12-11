@@ -18,7 +18,7 @@
 "toc": true,
 "title": "Format fișier DV - Fișier video digital",
   "description":"Aflați despre formatul DV și despre API-urile care pot crea și deschide fișiere DV.",
-"linktitle": "DV",
+  "linktitle": "DV",
   "menu": {
     "docs": {
       "identifier": "video-dv",

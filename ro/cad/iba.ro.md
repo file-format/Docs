@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Format fișier IBA - fișierul piese de design de îmbrăcăminte Lectra",
   "description":"Aflați despre formatul de fișier IBA și despre API-urile care pot crea și deschide fișiere IBA.",
-"linktitle": "IBA",
+  "linktitle": "IBA",
   "menu": {
     "docs": {
       "identifier": "cad-iba",

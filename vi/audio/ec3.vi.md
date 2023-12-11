@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Định dạng tệp EC3 - Tệp Codec âm thanh nâng cao 3",
   "description":"Tìm hiểu về định dạng tệp EC3 và các API có thể tạo và mở tệp EC3.",
-"linktitle":"EC3",
+  "linktitle": "EC3",
   "menu": {
     "docs": {
       "identifier": "audio-ec3",

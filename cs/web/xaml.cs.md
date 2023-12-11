@@ -10,7 +10,7 @@
   "toc" : true,
   "title" :"XAML - XML Based Markup Language",
   "description":"Learn about XAML file format and APIs that can create and open XAML files.",
-  "linktitle" : "XAML ",
+  "linktitle" : "XAML",
   "menu" : {
     "docs" : {
       "parent" : "web"

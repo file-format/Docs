@@ -16,7 +16,7 @@
 "toc": true,
 "title": "RPD файлов формат - файл с база данни на проекта RIB",
   "description":"Научете за RPD формата и API, които могат да създават и отварят RPD файлове.",
-"linktitle": "RPD",
+  "linktitle": "RPD",
   "menu": {
     "docs": {
       "identifier": "database-rpd",

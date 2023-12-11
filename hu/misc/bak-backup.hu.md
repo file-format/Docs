@@ -17,7 +17,7 @@
 "toc": true,
 "title": "BAK fájl formátum - biztonsági mentési fájl",
   "description":"További információ a BAK Backup formátumról és az API-król, amelyek BAK-fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "BAK biztonsági mentés",
+  "linktitle": "BAK Backup",
   "menu": {
     "docs": {
       "identifier": "misc-bak-backup",

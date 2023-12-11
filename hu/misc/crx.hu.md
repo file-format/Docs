@@ -18,7 +18,7 @@
 "toc": true,
 "title": "CRX fájlformátum - Google Chrome kiterjesztés",
   "description":"További információ a CRX formátumról és az API-król, amelyek CRX fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "CRX",
+  "linktitle": "CRX",
   "menu": {
     "docs": {
       "identifier": "misc-crx",

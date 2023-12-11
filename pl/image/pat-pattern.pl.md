@@ -17,7 +17,7 @@
 "toc": true,
 "title":"Format pliku PAT - plik wzorca",
    "description":"Dowiedz się więcej o formacie pliku wzorca PAT i interfejsach API, które umożliwiają tworzenie i otwieranie plików PAT.",
-"linktitle":"Wzór PAT",
+   "linktitle":"PAT Pattern",
    "menu":{
       "docs":{
          "identifier":"image-pat-pattern",

@@ -15,7 +15,7 @@
 "toc":true,
 "title":"Định dạng tệp BIN - Hình ảnh BIOS PSX PlayStation",
    "description":"Tìm hiểu về định dạng BIN và các API có thể tạo và mở tệp BIN.",
-"linktitle":"BIN PCSX",
+   "linktitle":"BIN PCSX",
    "menu":{
       "docs":{
          "identifier":"game-bin-pcsx",

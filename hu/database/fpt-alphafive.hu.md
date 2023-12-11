@@ -18,7 +18,7 @@
 "toc": true,
 "title": "FPT fájlformátum - Alpha Five Table Memo File",
   "description":"További információ az FPT Alpha Five formátumról és az API-król, amelyek FPT-fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "FPT Alpha Five",
+  "linktitle": "FPT Alpha Five",
   "menu": {
     "docs": {
       "identifier": "database-fpt-alphafive",

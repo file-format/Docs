@@ -19,7 +19,7 @@
 "toc": true,
 "title": "Format pliku SUB - plik napisów MicroDVD",
   "description":"Dowiedz się o formacie SUB i interfejsach API, które umożliwiają tworzenie i otwieranie plików SUB.",
-"tytuł linku": "SUB",
+  "linktitle": "SUB",
   "menu": {
     "docs": {
       "identifier": "video-sub",

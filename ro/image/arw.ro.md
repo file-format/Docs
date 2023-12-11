@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Format fișier ARW - Imaginea camerei digitale Sony Alpha Raw",
   "description":"Aflați despre formatul ARW și despre API-urile care pot crea și deschide fișiere ARW.",
-"linktitle": "ARW",
+  "linktitle": "ARW",
   "menu": {
     "docs": {
       "identifier": "image-arw",

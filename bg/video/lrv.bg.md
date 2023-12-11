@@ -17,7 +17,7 @@
 "toc": true,
 "title": "LRV файлов формат - видео файл с ниска разделителна способност от GoPro",
   "description":"Научете за формата LRV и API, които могат да създават и отварят LRV файлове.",
-"linktitle": "LRV",
+  "linktitle": "LRV",
   "menu": {
     "docs": {
       "identifier": "video-lrv",

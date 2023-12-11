@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Format fișier EXP - fișier de export simboluri",
   "description":"Aflați despre formatul EXP și despre API-urile care pot crea și deschide fișiere EXP.",
-"linktitle": "EXP",
+  "linktitle": "EXP",
   "menu": {
     "docs": {
       "identifier": "programming-exp",

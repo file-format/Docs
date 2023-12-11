@@ -18,7 +18,7 @@
 "toc": true,
 "title": "W3X fájlformátum - Warcraft 3 kiterjesztési térképfájl",
   "description":"További információ a W3X formátumról és az API-król, amelyek W3X fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "W3X",
+  "linktitle": "W3X",
   "menu": {
     "docs": {
       "identifier": "game-w3x",

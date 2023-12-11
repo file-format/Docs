@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Định dạng tệp CC - Tệp mã nguồn C++",
   "description":"Tìm hiểu về định dạng CC và API có thể tạo và mở tệp CC.",
-"linktitle":"CC",
+  "linktitle": "CC",
   "menu": {
     "docs": {
       "identifier": "programming-cc",

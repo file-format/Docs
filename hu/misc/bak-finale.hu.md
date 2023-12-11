@@ -17,7 +17,7 @@
 "toc": true,
 "title": "BAK fájlformátum - Finale 2012 Score Backup",
   "description":"További információ a BAK Finale formátumról és az API-król, amelyek BAK-fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "BAK Finale",
+  "linktitle": "BAK Finale",
   "menu": {
     "docs": {
       "identifier": "misc-bak-finale",

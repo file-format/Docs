@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Định dạng tệp CIR - Tệp sơ đồ Micro-Cap",
   "description":"Tìm hiểu về định dạng tệp CIR và các API có thể tạo và mở tệp CIR.",
-"linktitle":"CIR",
+  "linktitle": "CIR",
   "menu": {
     "docs": {
       "identifier": "cad-cir",

@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Format pliku RPD - plik danych projektanta odgrywania ról",
   "description":"Dowiedz się więcej o formacie pliku danych RPD Roleplay Designer Data File i interfejsach API, które umożliwiają tworzenie i otwieranie plików RPD.",
-"linktitle": "Odgrywanie ról RPD",
+  "linktitle": "RPD Roleplay",
   "menu": {
     "docs": {
       "identifier": "database-rpd-roleplay",

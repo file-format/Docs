@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Định dạng tệp BIN - Tệp chính sách CNTT của BlackBerry",
    "description":"Tìm hiểu về định dạng BIN và các API có thể tạo và mở tệp BIN.",
-"linktitle":"BIN",
+   "linktitle":"BIN",
    "menu":{
       "docs":{
          "identifier":"settings-bin",

@@ -14,7 +14,7 @@
 "toc": true,
 "title": "OSS fájlformátum - Microsoft Outlook mentett keresőfájl",
   "description":"További információ az OSS-formátumról és az API-król, amelyek OSS-fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "OSS",
+  "linktitle": "OSS",
   "menu": {
     "docs": {
       "identifier": "settings-oss",

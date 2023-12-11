@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Format pliku RMD - plik R Markdown",
   "description":"Dowiedz się o formacie RMD i interfejsach API, które umożliwiają tworzenie i otwieranie plików RMD.",
-"tytuł łącza": "RMD",
+  "linktitle": "RMD",
   "menu": {
     "docs": {
       "identifier": "word-processing-rmd",

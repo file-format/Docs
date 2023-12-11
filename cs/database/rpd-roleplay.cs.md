@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Formát souboru RPD – datový soubor Roleplay Designer",
   "description":"Další informace o formátu datových souborů RPD Roleplay Designer a rozhraních API, která mohou vytvářet a otevírat soubory RPD.",
-"linktitle": "RPD Roleplay",
+  "linktitle": "RPD Roleplay",
   "menu": {
     "docs": {
       "identifier": "database-rpd-roleplay",

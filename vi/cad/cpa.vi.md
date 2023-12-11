@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Định dạng tệp CPA - Tệp lưu trữ PCB CADSTAR",
   "description":"Tìm hiểu về định dạng tệp CPA và các API có thể tạo và mở tệp CPA.",
-"linktitle":"CPA",
+  "linktitle": "CPA",
   "menu": {
     "docs": {
       "identifier": "cad-cpa",

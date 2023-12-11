@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Tệp phương tiện là gì? Loại, định dạng và tác động của chúng đối với truyền thông kỹ thuật số",
   "description":"Tìm hiểu về Tệp Phương tiện, Loại, Định dạng và Tác động của chúng đối với Truyền thông Kỹ thuật số.",
-"linktitle":"TẬP TIN TRUYỀN THÔNG",
+  "linktitle": "MEDIA FILES",
   "menu": {
     "docs": {
       "identifier": "misc-media-files",

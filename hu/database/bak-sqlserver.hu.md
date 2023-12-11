@@ -17,7 +17,7 @@
 "toc": true,
 "title": "BAK fájlformátum - Microsoft SQL Server adatbázis biztonsági mentése",
   "description":"További információ a BAK SQL Server Backup formátumáról és az API-król, amelyek BAK-fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "BAK SQL Server",
+  "linktitle": "BAK SQL Server",
   "menu": {
     "docs": {
       "identifier": "database-bak-sqlserver",

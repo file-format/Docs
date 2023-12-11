@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Định dạng tệp APM - Hình ảnh siêu tệp có thể định vị của Aldus",
   "description":"Tìm hiểu về định dạng APM và các API có thể tạo và mở tệp APM.",
-"linktitle":"APM",
+  "linktitle": "APM",
   "menu": {
     "docs": {
       "identifier": "image-apm",

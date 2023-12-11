@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Định dạng tệp IPS - Video trong trò chơi PlayStation 2",
    "description":"Tìm hiểu về định dạng IPS PS2 và các API có thể tạo và mở tệp IPS.",
-"linktitle":"IPS PS2",
+   "linktitle":"IPS PS2",
    "menu":{
       "docs":{
          "identifier":"game-ips-ps2",

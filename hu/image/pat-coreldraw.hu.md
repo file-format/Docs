@@ -17,7 +17,7 @@
 "toc":true,
 "title":"PAT fájlformátum - CorelDRAW mintafájl",
    "description":"További információ a PAT CorelDRAW Pattern fájlformátumról és az API-król, amelyek PAT fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle":"PAT CorelDRAW",
+   "linktitle":"PAT CorelDRAW",
    "menu":{
       "docs":{
          "identifier":"image-pat-coreldraw",

@@ -17,7 +17,7 @@
 "toc": true,
 "title":"Format pliku CAF - podstawowy plik audio",
    "description":"Dowiedz się o formacie CAF i interfejsach API, które umożliwiają tworzenie i otwieranie plików CAF.",
-"linktitle":"CAF",
+   "linktitle":"CAF",
    "menu":{
       "docs":{
          "identifier":"audio-caf",

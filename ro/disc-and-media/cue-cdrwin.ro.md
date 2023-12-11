@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Format fișier CUE - CDRWIN Cue Sheet",
    "description":"Aflați despre formatul fișierului CUE CDRWIN Cue Sheet și despre API-urile care pot crea și deschide fișiere CUE.",
-"linktitle":"CUE CDRWIN",
+   "linktitle":"CUE CDRWIN",
    "menu":{
       "docs":{
          "identifier":"disc-and-media-cue-cdrwin",

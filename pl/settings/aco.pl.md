@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format pliku ACO - plik próbki kolorów Adobe Photoshop",
   "description":"Dowiedz się o formacie ACO i interfejsach API, które umożliwiają tworzenie i otwieranie plików ACO.",
-"tytuł linku": "ACO",
+  "linktitle": "ACO",
   "menu": {
     "docs": {
       "identifier": "settings-aco",

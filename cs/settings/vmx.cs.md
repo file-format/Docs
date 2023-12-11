@@ -18,7 +18,7 @@
 "toc": true,
 "title": "Formát souboru VMX - konfigurační soubor virtuálního stroje VMware",
   "description":"Další informace o formátu VMX a rozhraních API, která mohou vytvářet a otevírat soubory VMX.",
-"linktitle": "VMX",
+  "linktitle": "VMX",
   "menu": {
     "docs": {
       "identifier": "settings-vmx",

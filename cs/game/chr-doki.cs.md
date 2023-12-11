@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Formát souboru CHR - Klub literatury Doki Doki! Soubor znaků",
    "description":"Další informace o CHR Doki Doki Literature Club! Formát souboru znaků a rozhraní API, která mohou vytvářet a otevírat soubory CHR.",
-"linktitle":"CHR Doki",
+   "linktitle":"CHR Doki",
    "menu":{
       "docs":{
          "identifier":"game-chr-doki",

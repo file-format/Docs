@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Định dạng tệp LRV - Tệp video độ phân giải thấp của GoPro",
   "description":"Tìm hiểu về định dạng LRV và các API có thể tạo và mở tệp LRV.",
-"linktitle":"LRV",
+  "linktitle": "LRV",
   "menu": {
     "docs": {
       "identifier": "video-lrv",

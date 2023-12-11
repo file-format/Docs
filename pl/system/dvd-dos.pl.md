@@ -17,7 +17,7 @@
 "toc": true,
 "title":"Format pliku DVD - sterownik urządzenia DOS",
    "description":"Dowiedz się o formacie pliku sterownika urządzenia DVD MS-DOS i interfejsach API, które umożliwiają tworzenie i otwieranie plików DVD.",
-"linktitle":"DVD",
+   "linktitle":"DVD",
    "menu":{
       "docs":{
          "identifier":"system-dvd-dos",

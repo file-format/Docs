@@ -14,7 +14,7 @@
 "toc": true,
 "title": "CRYPT12 fájlformátum - WhatsApp titkosított adatbázisfájl",
   "description":"Tudjon meg többet a CRYPT12 formátumról és az API-król, amelyek CRYPT12 fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "CRYPT12",
+  "linktitle": "CRYPT12",
   "menu": {
     "docs": {
       "identifier": "database-crypt12",

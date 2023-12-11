@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Định dạng tệp PRPROJ - Dự án Adobe Premiere Pro",
   "description":"Tìm hiểu về định dạng tệp PRPROJ và các API có thể tạo và mở tệp PRPROJ.",
-"linktitle":"PRPROJ",
+  "linktitle": "PRPROJ",
   "menu": {
     "docs": {
       "identifier": "video-prproj",

@@ -17,7 +17,7 @@
 "toc": true,
 "title": "BPS файлов формат - Microsoft Works архивиране на документи",
   "description":"Научете за формата на BPS Works и API, които могат да създават и отварят BPS файлове.",
-"linktitle": "BPS работи",
+  "linktitle": "BPS Works",
   "menu": {
     "docs": {
       "identifier": "misc-bps-works",

@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Formát souboru MTL - soubor knihovny šablon materiálu OBJ",
    "description":"Další informace o formátu souborů knihovny MTL OBJ Material Template Library a rozhraních API, která mohou vytvářet a otevírat soubory MTL.",
-"linktitle":"MTL",
+   "linktitle":"MTL",
    "menu":{
       "docs":{
          "identifier":"3d-mtl",

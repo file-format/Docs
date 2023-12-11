@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Format pliku APM - obraz metapliku Aldus Placeable",
   "description":"Dowiedz się o formacie APM i interfejsach API, które umożliwiają tworzenie i otwieranie plików APM.",
-"tytuł łącza": "APM",
+  "linktitle": "APM",
   "menu": {
     "docs": {
       "identifier": "image-apm",

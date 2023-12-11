@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Format pliku DSD - plik opisu zestawu rysunków AutoCAD",
   "description":"Dowiedz się o formacie DSD i interfejsach API, które umożliwiają tworzenie i otwieranie plików DSD.",
-"tytuł łącza": "DSD",
+  "linktitle": "DSD",
   "menu": {
     "docs": {
       "identifier": "settings-dsd",

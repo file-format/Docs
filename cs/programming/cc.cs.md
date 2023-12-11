@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Formát souboru CC - soubor zdrojového kódu C++",
   "description":"Další informace o formátu CC a rozhraních API, která mohou vytvářet a otevírat soubory CC.",
-"linktitle": "CC",
+  "linktitle": "CC",
   "menu": {
     "docs": {
       "identifier": "programming-cc",

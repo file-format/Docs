@@ -14,7 +14,7 @@
 "toc": true,
 "title": "CRYPT14 fájlformátum - WhatsApp titkosított adatbázisfájl",
   "description":"További információ a CRYPT14 formátumról és az API-król, amelyek CRYPT14 fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "CRYPT14",
+  "linktitle": "CRYPT14",
   "menu": {
     "docs": {
       "identifier": "database-crypt14",

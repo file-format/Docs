@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Định dạng tệp WLMP - Dự án Windows Live Movie Maker",
   "description":"Tìm hiểu về định dạng tệp WLMP và các API có thể tạo và mở tệp WLMP.",
-"linktitle":"WLMP",
+  "linktitle": "WLMP",
   "menu": {
     "docs": {
       "identifier": "video-wlmp",

@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format fișier MSWMM - Proiect Windows Movie Maker",
   "description":"Aflați despre formatul de fișier MSWMM și despre API-urile care pot crea și deschide fișiere MSWMM.",
-"linktitle": "MSWMM",
+  "linktitle": "MSWMM",
   "menu": {
     "docs": {
       "identifier": "video-mswmm",

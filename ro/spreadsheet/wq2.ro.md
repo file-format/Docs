@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format de fișier WQ2 - Quattro Pro pentru fișierul de foaie de calcul DOS",
   "description":"Aflați despre formatul de fișier WQ2 și despre API-urile care pot crea și deschide fișiere WQ2.",
-"linktitle": "WQ2",
+  "linktitle": "WQ2",
   "menu": {
     "docs": {
       "identifier": "spreadsheet-wq2",

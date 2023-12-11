@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Định dạng tệp PMP - Tệp tham số mô hình sơ đồ AutoCAD",
   "description":"Tìm hiểu về định dạng PMP và các API có thể tạo và mở tệp PMP.",
-"linktitle":"PMP",
+  "linktitle": "PMP",
   "menu": {
     "docs": {
       "identifier": "settings-pmp",

@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Định dạng tệp GSHEET - Phím tắt Google Trang tính",
   "description":"Tìm hiểu về định dạng tệp GSHEET và các API có thể tạo và mở tệp GSHEET.",
-"linktitle":"GSHEET",
+  "linktitle": "GSHEET",
   "menu": {
     "docs": {
       "identifier": "spreadsheet-gsheet",

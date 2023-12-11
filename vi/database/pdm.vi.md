@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Định dạng tệp PDM - Tệp cơ sở dữ liệu PowerDesigner",
   "description":"Tìm hiểu về định dạng PDM và các API có thể tạo và mở tệp PDM.",
-"linktitle":"PDM",
+  "linktitle": "PDM",
   "menu": {
     "docs": {
       "identifier": "database-pdm",

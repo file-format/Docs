@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Định dạng tệp ASL - Kiểu lớp Photoshop",
   "description":"Tìm hiểu về định dạng ASL và các API có thể tạo và mở tệp ASL.",
-"linktitle":"ASL",
+  "linktitle": "ASL",
   "menu": {
     "docs": {
       "identifier": "settings-asl",

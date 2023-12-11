@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Format pliku CFG - plik konfiguracyjny MAME",
   "description":"Dowiedz się o formacie pliku konfiguracyjnego CFG MAME i interfejsach API, które umożliwiają tworzenie i otwieranie plików CFG.",
-"linktitle": "CFG MAME",
+  "linktitle": "CFG MAME",
   "menu": {
     "docs": {
       "identifier": "settings-cfg-mame",

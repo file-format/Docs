@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Format fișier SETĂRI - Fișier cu setări Visual Studio",
   "description":"Aflați despre formatul SETTINGS și despre API-urile care pot crea și deschide fișiere SETTINGS.",
-"linktitle": "SETĂRI",
+  "linktitle": "SETTINGS",
   "menu": {
     "docs": {
       "identifier": "settings-settings",

@@ -16,7 +16,7 @@
 "toc": true,
 "title": "ECO fájlformátum - ECCO adatbázisfájl",
   "description":"További információ az ECO-formátumról és az API-król, amelyek ECO-fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "ECO",
+  "linktitle": "ECO",
   "menu": {
     "docs": {
       "identifier": "database-eco",

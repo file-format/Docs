@@ -15,7 +15,7 @@
 "toc": true,
 "title": "PRC fájlformátum - Mobipocket eBook File",
   "description":"További információ a PRC formátumról és az API-król, amelyek PRC fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "KNK",
+  "linktitle": "PRC",
   "menu": {
     "docs": {
       "identifier": "ebook-prc",

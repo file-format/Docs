@@ -15,7 +15,7 @@
 "toc": true,
 "title": "SAMI файлов формат - файл за обмен на субтитри и метаданни",
   "description":"Научете за SAMI формата и API, които могат да създават и отварят SAMI файлове.",
-"linktitle": "САМИ",
+  "linktitle": "SAMI",
   "menu": {
     "docs": {
       "identifier": "video-sami",

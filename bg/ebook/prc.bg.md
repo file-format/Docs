@@ -15,7 +15,7 @@
 "toc": true,
 "title": "PRC файлов формат - Mobipocket eBook файл",
   "description":"Научете за PRC формата и API, които могат да създават и отварят PRC файлове.",
-"linktitle": "КНР",
+  "linktitle": "PRC",
   "menu": {
     "docs": {
       "identifier": "ebook-prc",

@@ -15,7 +15,7 @@
 "toc": true,
 "title": "PMP файлов формат - файл с параметри на AutoCAD плот модел",
   "description":"Научете за PMP формата и API, които могат да създават и отварят PMP файлове.",
-"linktitle": "PMP",
+  "linktitle": "PMP",
   "menu": {
     "docs": {
       "identifier": "settings-pmp",

@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Format fișier RPD - fișier de date Roleplay Designer",
   "description":"Aflați despre formatul fișierului de date RPD Roleplay Designer și despre API-urile care pot crea și deschide fișiere RPD.",
-"linktitle": "Joc de rol RPD",
+  "linktitle": "RPD Roleplay",
   "menu": {
     "docs": {
       "identifier": "database-rpd-roleplay",

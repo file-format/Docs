@@ -17,7 +17,7 @@
 "toc": true,
 "title": "CHEAT файлов формат - Navi Cheatsheet",
   "description":"Научете за CHEAT формата и API, които могат да създават и отварят CHEAT файлове.",
-"linktitle": "ИЗМАМА",
+  "linktitle": "CHEAT",
   "menu": {
     "docs": {
       "identifier": "executable-cheat",

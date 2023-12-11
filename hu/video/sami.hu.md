@@ -15,7 +15,7 @@
 "toc": true,
 "title": "SAMI fájlformátum - feliratok és metaadatcsere fájl",
   "description":"További információ a SAMI formátumról és az API-król, amelyek SAMI fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "SAMI",
+  "linktitle": "SAMI",
   "menu": {
     "docs": {
       "identifier": "video-sami",

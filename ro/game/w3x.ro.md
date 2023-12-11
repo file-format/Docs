@@ -18,7 +18,7 @@
 "toc": true,
 "title": "Format fișier W3X - Fișier hartă de expansiune Warcraft 3",
   "description":"Aflați despre formatul W3X și despre API-urile care pot crea și deschide fișiere W3X.",
-"linktitle": "W3X",
+  "linktitle": "W3X",
   "menu": {
     "docs": {
       "identifier": "game-w3x",

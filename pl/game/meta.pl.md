@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Format pliku META - Exient Metadata File",
   "description":"Dowiedz się więcej o formacie META i interfejsach API, które umożliwiają tworzenie i otwieranie plików META.",
-"tytuł łącza": "META",
+  "linktitle": "META",
   "menu": {
     "docs": {
       "identifier": "game-meta",

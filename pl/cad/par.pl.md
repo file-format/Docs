@@ -16,7 +16,7 @@
 "toc": true,
 "title":"Format pliku PAR - plik części Solid Edge",
    "description":"Dowiedz się o formacie PAR i interfejsach API, które umożliwiają tworzenie i otwieranie plików PAR.",
-"linktitle":"PAR",
+   "linktitle":"PAR",
    "menu":{
       "docs":{
          "identifier":"cad-par",

@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Định dạng tệp CFG - Tệp cấu hình Celestia",
   "description":"Tìm hiểu về định dạng tệp cấu hình CFG Celestia và các API có thể tạo và mở tệp CFG.",
-"linktitle":"CFG Celestia",
+  "linktitle": "CFG Celestia",
   "menu": {
     "docs": {
       "identifier": "settings-cfg-celestia",

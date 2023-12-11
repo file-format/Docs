@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format pliku C4D - plik modelu Cinema 4D",
   "description":"Dowiedz się o formacie C4D i interfejsach API, które umożliwiają tworzenie i otwieranie plików C4D.",
-"tytuł łącza": "C4D",
+  "linktitle": "C4D",
   "menu": {
     "docs": {
       "identifier": "3d-c4d",

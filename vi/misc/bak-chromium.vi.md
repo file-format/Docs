@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Định dạng tệp BAK - Sao lưu dấu trang trên Chrome",
   "description":"Tìm hiểu về định dạng Dấu trang BAK Crom và các API có thể tạo và mở tệp BAK.",
-"linktitle":"Dấu trang BAK Chrome",
+  "linktitle": "BAK Chromium Bookmarks",
   "menu": {
     "docs": {
       "identifier": "misc-bak-chromium",

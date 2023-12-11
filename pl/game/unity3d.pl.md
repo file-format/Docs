@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format pliku Unity3D - Archiwum odtwarzacza internetowego Unity",
   "description":"Dowiedz się o formacie Unity3D i interfejsach API, które mogą tworzyć i otwierać pliki Unity3D.",
-"linktitle": "Unity3D",
+  "linktitle": "Unity3D",
   "menu": {
     "docs": {
       "identifier": "game-unity3d",

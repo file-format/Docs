@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format pliku ANI - animowany kursor Windows",
   "description":"Dowiedz się o formacie ANI i interfejsach API, które umożliwiają tworzenie i otwieranie plików ANI.",
-"tytuł linku": "ANI",
+  "linktitle": "ANI",
   "menu": {
     "docs": {
       "identifier": "system-ani",

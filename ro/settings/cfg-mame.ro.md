@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Format fișier CFG - fișier de configurare MAME",
   "description":"Aflați despre formatul fișierului de configurare CFG MAME și despre API-urile care pot crea și deschide fișiere CFG.",
-"linktitle": "CFG MAME",
+  "linktitle": "CFG MAME",
   "menu": {
     "docs": {
       "identifier": "settings-cfg-mame",

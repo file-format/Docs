@@ -17,7 +17,7 @@
 "toc": true,
 "title":"Format pliku CHR - Klub Literacki Doki Doki! Plik postaci",
    "description":"Dowiedz się więcej o Klubie Literatury CHR Doki Doki! Format pliku znaków i interfejsy API, które umożliwiają tworzenie i otwieranie plików CHR.",
-"linktitle":"CHR Doki",
+   "linktitle":"CHR Doki",
    "menu":{
       "docs":{
          "identifier":"game-chr-doki",

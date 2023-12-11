@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format pliku OBI - plik subskrypcji Outlook RSS",
   "description":"Dowiedz się o formacie OBI i interfejsach API, które umożliwiają tworzenie i otwieranie plików OBI.",
-"tytuł łącza": "OBI",
+  "linktitle": "OBI",
   "menu": {
     "docs": {
       "identifier": "settings-obi",

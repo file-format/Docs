@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Formát souboru CRYPT12 - šifrovaný databázový soubor WhatsApp",
   "description":"Další informace o formátu CRYPT12 a rozhraních API, která mohou vytvářet a otevírat soubory CRYPT12.",
-"linktitle": "CRYPT12",
+  "linktitle": "CRYPT12",
   "menu": {
     "docs": {
       "identifier": "database-crypt12",

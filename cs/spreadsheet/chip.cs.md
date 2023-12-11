@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Formát souboru CHIP - soubor anotace Microarray",
   "description":"Další informace o formátu souborů CHIP a rozhraních API, která mohou vytvářet a otevírat soubory CHIP.",
-"linktitle": "CHIP",
+  "linktitle": "CHIP",
   "menu": {
     "docs": {
       "identifier": "spreadsheet-chip",

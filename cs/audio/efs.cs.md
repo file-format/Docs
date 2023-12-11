@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Formát souboru EFS - soubor Ensoniq SQ-80",
   "description":"Další informace o formátu souborů EFS a rozhraních API, která mohou vytvářet a otevírat soubory EFS.",
-"linktitle": "EFS",
+  "linktitle": "EFS",
   "menu": {
     "docs": {
       "identifier": "audio-efs",

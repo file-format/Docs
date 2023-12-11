@@ -16,7 +16,7 @@
 "toc":true,
 "title":"Định dạng tệp CAT - Tệp danh mục Windows",
    "description":"Tìm hiểu về định dạng CAT và các API có thể tạo và mở tệp CAT.",
-"linktitle":"CAT",
+   "linktitle":"CAT",
    "menu":{
       "docs":{
          "identifier":"system-cat",

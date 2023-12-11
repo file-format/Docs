@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Format fișier PAN - Fișier baza de date Panorama",
   "description":"Aflați despre formatul PAN și despre API-urile care pot crea și deschide fișiere PAN.",
-"linktitle": "PAN",
+  "linktitle": "PAN",
   "menu": {
     "docs": {
       "identifier": "database-pan",

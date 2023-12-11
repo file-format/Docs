@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Định dạng tệp MCSTRUCTURE - Tệp cấu trúc Minecraft",
   "description":"Tìm hiểu về định dạng MCSTRUCTURE và các API có thể tạo và mở tệp MCSTRUCTURE.",
-"linktitle":"CẤU TRÚC MC",
+  "linktitle": "MCSTRUCTURE",
   "menu": {
     "docs": {
       "identifier": "game-mcstructure",

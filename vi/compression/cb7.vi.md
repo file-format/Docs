@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Định dạng tệp CB7 - Lưu trữ truyện tranh 7-Zip",
   "description":"Tìm hiểu về định dạng CB7 và các API có thể tạo và mở tệp CB7.",
-"linktitle":"CB7",
+  "linktitle": "CB7",
   "menu": {
     "docs": {
       "identifier": "compression-cb7",

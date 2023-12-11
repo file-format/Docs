@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Formát souboru OVPN - konfigurační soubor OpenVPN",
   "description":"Další informace o formátu OVPN a rozhraních API, která mohou vytvářet a otevírat soubory OVPN.",
-"linktitle": "OVPN",
+  "linktitle": "OVPN",
   "menu": {
     "docs": {
       "identifier": "settings-ovpn",

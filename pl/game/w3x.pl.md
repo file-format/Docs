@@ -18,7 +18,7 @@
 "toc": true,
 "title": "Format pliku W3X - plik mapy rozszerzenia Warcraft 3",
   "description":"Dowiedz się o formacie W3X i interfejsach API, które umożliwiają tworzenie i otwieranie plików W3X.",
-"tytuł łącza": "W3X",
+  "linktitle": "W3X",
   "menu": {
     "docs": {
       "identifier": "game-w3x",

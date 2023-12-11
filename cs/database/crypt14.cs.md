@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Formát souboru CRYPT14 - šifrovaný databázový soubor WhatsApp",
   "description":"Další informace o formátu CRYPT14 a rozhraních API, která mohou vytvářet a otevírat soubory CRYPT14.",
-"linktitle": "CRYPT14",
+  "linktitle": "CRYPT14",
   "menu": {
     "docs": {
       "identifier": "database-crypt14",

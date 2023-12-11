@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Format pliku MSCZ - skompresowany plik partytury MuseScore",
   "description":"Dowiedz się o formacie MSCZ i interfejsach API, które umożliwiają tworzenie i otwieranie plików MSCZ.",
-"tytuł linku": "MSCZ",
+  "linktitle": "MSCZ",
   "menu": {
     "docs": {
       "identifier": "audio-mscz",

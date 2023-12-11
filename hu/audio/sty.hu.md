@@ -15,7 +15,7 @@
 "toc": true,
 "title": "STY fájlformátum - Yamaha vagy Korg billentyűzetstílus",
   "description":"További információ a STY-formátumról és az API-król, amelyek STY-fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "STY",
+  "linktitle": "STY",
   "menu": {
     "docs": {
       "identifier": "audio-sty",

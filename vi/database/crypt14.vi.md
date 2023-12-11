@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Định dạng tệp CRYPT14 - Tệp cơ sở dữ liệu được mã hóa WhatsApp",
   "description":"Tìm hiểu về định dạng CRYPT14 và các API có thể tạo và mở tệp CRYPT14.",
-"linktitle":"CRYPT14",
+  "linktitle": "CRYPT14",
   "menu": {
     "docs": {
       "identifier": "database-crypt14",

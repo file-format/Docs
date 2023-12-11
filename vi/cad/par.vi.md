@@ -16,7 +16,7 @@
 "toc":true,
 "title":"Định dạng tệp PAR - Tệp phần Solid Edge",
    "description":"Tìm hiểu về định dạng PAR và các API có thể tạo và mở tệp PAR.",
-"linktitle":"PAR",
+   "linktitle":"PAR",
    "menu":{
       "docs":{
          "identifier":"cad-par",

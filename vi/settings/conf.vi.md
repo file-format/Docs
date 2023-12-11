@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Định dạng tệp CONF - Tệp cấu hình Unix",
   "description":"Tìm hiểu về định dạng CONF và các API có thể tạo và mở tệp CONF.",
-"linktitle":"CONF",
+  "linktitle": "CONF",
   "menu": {
     "docs": {
       "identifier": "settings-conf",

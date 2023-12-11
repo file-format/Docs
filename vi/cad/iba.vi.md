@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Định dạng tệp IBA - Tệp thiết kế quần áo Lectra",
   "description":"Tìm hiểu về định dạng tệp IBA và các API có thể tạo và mở tệp IBA.",
-"linktitle":"IBA",
+  "linktitle": "IBA",
   "menu": {
     "docs": {
       "identifier": "cad-iba",

@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format fișier RIP - Fișier Mashup audio Hit'n'Mix",
   "description":"Aflați despre formatul de fișier RIP și despre API-urile care pot crea și deschide fișiere RIP.",
-"linktitle": "RIP",
+  "linktitle": "RIP",
   "menu": {
     "docs": {
       "identifier": "audio-rip",

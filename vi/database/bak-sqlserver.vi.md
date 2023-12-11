@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Định dạng tệp BAK - Sao lưu cơ sở dữ liệu Microsoft SQL Server",
   "description":"Tìm hiểu về định dạng BAK SQL Server Backup và các API có thể tạo và mở tệp BAK.",
-"linktitle":"Máy chủ SQL BAK",
+  "linktitle": "BAK SQL Server",
   "menu": {
     "docs": {
       "identifier": "database-bak-sqlserver",

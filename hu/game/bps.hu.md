@@ -16,7 +16,7 @@
 "toc":true,
 "title":"BPS fájlformátum - BPS javítófájl",
    "description":"További információ a BPS-formátumról és az API-król, amelyek BPS-fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle":"BPS",
+   "linktitle":"BPS",
    "menu":{
       "docs":{
          "identifier":"game-bps",

@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format pliku POBIERZ - Niekompletny plik do pobrania Pando",
   "description":"Dowiedz się o formacie POBIERZ i interfejsach API, które umożliwiają tworzenie i otwieranie plików POBIERZ.",
-"linktitle": "POBIERANIE",
+  "linktitle": "DOWNLOADING",
   "menu": {
     "docs": {
       "identifier": "misc-downloading",

@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Định dạng tệp MANIFEST - Tệp kê khai ứng dụng Windows",
   "description":"Tìm hiểu về định dạng MANIFEST và các API có thể tạo và mở tệp MANIFEST.",
-"linktitle":"TỔNG HỢP",
+  "linktitle": "MANIFEST",
   "menu": {
     "docs": {
       "identifier": "system-manifest",

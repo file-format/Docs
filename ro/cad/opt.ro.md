@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format fișier OPT - fișier Opterecenja",
   "description":"Aflați despre formatul de fișier OPT și despre API-urile care pot crea și deschide fișiere OPT.",
-"linktitle": "OPT",
+  "linktitle": "OPT",
   "menu": {
     "docs": {
       "identifier": "cad-opt",

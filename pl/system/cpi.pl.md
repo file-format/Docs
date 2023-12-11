@@ -17,7 +17,7 @@
 "toc": true,
 "title":"Format pliku CPI - plik informacyjny strony kodowej",
    "description":"Dowiedz się więcej o formacie pliku informacji kodowych CPI i interfejsach API, które umożliwiają tworzenie i otwieranie plików CPI.",
-"linktitle":"CPI",
+   "linktitle":"CPI",
    "menu":{
       "docs":{
          "identifier":"system-cpi",

@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Formát souboru SHADER - soubor Godot Engine Shader",
    "description":"Další informace o formátu souborů SHADER Godot Engine Shader a rozhraních API, která mohou vytvářet a otevírat soubory SHADER.",
-"linktitle":"SHADER Godot",
+   "linktitle":"SHADER Godot",
    "menu":{
       "docs":{
          "identifier":"game-shader-godot",

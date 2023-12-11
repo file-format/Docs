@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Format pliku CB7 - Archiwum komiksów 7-Zip",
   "description":"Dowiedz się o formacie CB7 i interfejsach API, które umożliwiają tworzenie i otwieranie plików CB7.",
-"tytuł łącza": "CB7",
+  "linktitle": "CB7",
   "menu": {
     "docs": {
       "identifier": "compression-cb7",

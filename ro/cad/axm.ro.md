@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format fișier AXM - Fișier schiță FormIt",
   "description":"Aflați despre formatul de fișier AXM și despre API-urile care pot crea și deschide fișiere AXM.",
-"linktitle": "AXM",
+  "linktitle": "AXM",
   "menu": {
     "docs": {
       "identifier": "cad-axm",

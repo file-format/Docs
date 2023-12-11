@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Formát souboru PRPROJ - Adobe Premiere Pro Project",
   "description":"Další informace o formátu souboru PRPROJ a rozhraních API, která mohou vytvářet a otevírat soubory PRPROJ.",
-"linktitle": "PRPROJ",
+  "linktitle": "PRPROJ",
   "menu": {
     "docs": {
       "identifier": "video-prproj",

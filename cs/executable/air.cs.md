@@ -14,7 +14,7 @@
 "toc": true,
   "description":"Další informace o formátu souboru AIR a rozhraních API, která mohou vytvářet a otevírat soubory AIR.",
 "title": "Formát souboru AIR – soubor instalačního balíčku Adobe AIR",
-"linktitle": "AIR",
+  "linktitle": "AIR",
   "menu": {
     "docs": {
       "identifier": "executable-air",

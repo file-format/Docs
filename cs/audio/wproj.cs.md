@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Formát souboru WPROJ - soubor projektu Wwise",
   "description":"Další informace o formátu souboru WPROJ a rozhraních API, která mohou vytvářet a otevírat soubory WPROJ.",
-"linktitle": "WPROJ",
+  "linktitle": "WPROJ",
   "menu": {
     "docs": {
       "identifier": "audio-wproj",

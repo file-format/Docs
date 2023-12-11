@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Tệp PRT - Mẫu bản trình bày - Tệp .prt là gì và làm cách nào để mở nó?",
    "description":"Tìm hiểu về định dạng tệp Mẫu bản trình bày PRT và các API có thể tạo và mở tệp PRT.",
-"linktitle":"PRT",
+   "linktitle":"PRT",
    "menu":{
       "docs":{
          "identifier":"data-prt-template",

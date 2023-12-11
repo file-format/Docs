@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Fișier TVDB - Baza de date Apple TV - Ce este un fișier .tvdb și cum se deschide?",
    "description":"Aflați despre formatul de fișier TVDB Apple TV Database și despre API-urile care pot crea și deschide fișiere INK.",
-"linktitle":"TVDB",
+   "linktitle":"TVDB",
    "menu":{
       "docs":{
          "identifier":"database-tvdb",

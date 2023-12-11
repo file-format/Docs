@@ -18,7 +18,7 @@
 "toc": true,
 "title": "Formát souboru AIF - Formát souboru pro výměnu zvuku",
   "description":"Další informace o formátu AIF a rozhraních API, která mohou vytvářet a otevírat soubory AIF.",
-"linktitle": "AIF",
+  "linktitle": "AIF",
   "menu": {
     "docs": {
       "identifier": "audio-aif",

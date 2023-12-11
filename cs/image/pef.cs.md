@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Formát souboru PEF - elektronický soubor Pentax",
   "description":"Další informace o formátu PEF a rozhraních API, která mohou vytvářet a otevírat soubory PEF.",
-"linktitle": "PEF",
+  "linktitle": "PEF",
   "menu": {
     "docs": {
       "identifier": "image-pef",

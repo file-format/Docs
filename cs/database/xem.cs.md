@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Formát souboru XEM - soubor definice modelu PowerDesigner",
   "description":"Další informace o formátu XEM a rozhraních API, která mohou vytvářet a otevírat soubory XEM.",
-"linktitle": "XEM",
+  "linktitle": "XEM",
   "menu": {
     "docs": {
       "identifier": "database-xem",

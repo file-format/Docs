@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Format pliku XIP - podpisane archiwum MacOS",
   "description":"Dowiedz się o formacie XIP i interfejsach API, które umożliwiają tworzenie i otwieranie plików XIP.",
-"tytuł łącza": "XIP",
+  "linktitle": "XIP",
   "menu": {
     "docs": {
       "identifier": "compression-xip",

@@ -17,7 +17,7 @@
 "toc": true,
 "title": "WPS fájlformátum - Kingsoft Writer Document",
   "description":"További információ a WPS Kingsoft formátumról és az API-król, amelyek WPS-fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "WPS Kingsoft",
+  "linktitle": "WPS Kingsoft",
   "menu": {
     "docs": {
       "identifier": "word-processing-wps-kingsoft",

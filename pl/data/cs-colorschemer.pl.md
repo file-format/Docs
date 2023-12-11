@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Plik CS - Schemat kolorów ColorSchemer Studio - Co to jest plik .cs i jak go otworzyć?",
   "description":"Dowiedz się o formacie schematu kolorów CS ColorSchemer Studio Color Scheme i interfejsach API, które umożliwiają tworzenie i otwieranie plików CS.",
-"tytuł linku": "CS",
+  "linktitle": "CS",
   "menu": {
     "docs": {
       "identifier": "data-cs-colorschemer",

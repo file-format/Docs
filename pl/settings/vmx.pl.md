@@ -18,7 +18,7 @@
 "toc": true,
 "title": "Format pliku VMX - plik konfiguracyjny maszyny wirtualnej VMware",
   "description":"Dowiedz się o formacie VMX i interfejsach API, które umożliwiają tworzenie i otwieranie plików VMX.",
-"tytuł łącza": "VMX",
+  "linktitle": "VMX",
   "menu": {
     "docs": {
       "identifier": "settings-vmx",

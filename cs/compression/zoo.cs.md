@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Soubor ZOO - Co je soubor .zoo a jak jej otevřít?",
    "description":"Další informace o formátu komprimovaných souborů ZOO a rozhraních API, která mohou vytvářet a otevírat soubory ZOO.",
-"linktitle":"ZOO",
+   "linktitle":"ZOO",
    "menu":{
       "docs":{
          "identifier":"compression-zoo",

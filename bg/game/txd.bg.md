@@ -15,7 +15,7 @@
 "toc": true,
 "title": "TXD файлов формат - Речник на текстурата на играта",
   "description":"Научете за TXD формата и API, които могат да създават и отварят TXD файлове.",
-"linktitle": "TXD",
+  "linktitle": "TXD",
   "menu": {
     "docs": {
       "identifier": "game-txd",

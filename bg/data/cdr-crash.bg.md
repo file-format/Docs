@@ -17,7 +17,7 @@
 "toc":true,
 "title": "CDR файл - Файл с данни за извличане на данни за срив - Какво е .cdr файл и как да го отворя?",
    "description":"Научете за файловия формат на CDR Crash Data Retrieval Data и API, които могат да създават и отварят CDR файлове.",
-"linktitle": "CDR",
+   "linktitle":"CDR",
    "menu":{
       "docs":{
          "identifier":"data-cdr-crash",

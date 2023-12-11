@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Format de fișier EPK - Pachetul de active Eaglercraft",
   "description":"Aflați despre formatul EPK și despre API-urile care pot crea și deschide fișiere EPK.",
-"linktitle": "EPK",
+  "linktitle": "EPK",
   "menu": {
     "docs": {
       "identifier": "game-epk",

@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Format de fișier WPS - fișierul de proiect SDL Translator's Workbench",
   "description":"Aflați despre formatul WPS și despre API-urile care pot crea și deschide fișiere WPS.",
-"linktitle": "WPS",
+  "linktitle": "WPS",
   "menu": {
     "docs": {
       "identifier": "settings-wps",

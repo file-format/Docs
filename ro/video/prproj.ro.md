@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Format fișier PRPROJ - Proiect Adobe Premiere Pro",
   "description":"Aflați despre formatul de fișier PRPROJ și despre API-urile care pot crea și deschide fișiere PRPROJ.",
-"linktitle": "PRPROJ",
+  "linktitle": "PRPROJ",
   "menu": {
     "docs": {
       "identifier": "video-prproj",

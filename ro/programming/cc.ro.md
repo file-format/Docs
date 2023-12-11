@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Format fișier CC - fișier cod sursă C++",
   "description":"Aflați despre formatul CC și despre API-urile care pot crea și deschide fișiere CC.",
-"linktitle": "CC",
+  "linktitle": "CC",
   "menu": {
     "docs": {
       "identifier": "programming-cc",

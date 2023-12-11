@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Định dạng tệp USR - Tệp dữ liệu GPS Lowrance",
   "description":"Tìm hiểu về định dạng USR và các API có thể tạo và mở tệp USR.",
-"linktitle":"USR",
+  "linktitle": "USR",
   "menu": {
     "docs": {
       "identifier": "gis-usr",

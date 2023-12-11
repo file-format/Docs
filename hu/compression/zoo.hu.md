@@ -17,7 +17,7 @@
 "toc":true,
 "title":"ZOO Fájl - Mi az .zoo fájl, és hogyan kell megnyitni?",
    "description":"További információ a ZOO tömörített fájlformátumról és az API-król, amelyek ZOO fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle":"ZOO",
+   "linktitle":"ZOO",
    "menu":{
       "docs":{
          "identifier":"compression-zoo",

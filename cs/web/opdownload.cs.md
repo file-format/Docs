@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Formát souboru OPDOWNLOAD - Opera částečně stažený soubor",
   "description":"Další informace o formátu OPDOWNLOAD a rozhraních API, která mohou vytvářet a otevírat soubory OPDOWNLOAD.",
-"linktitle": "OPDOWNLOAD",
+  "linktitle": "OPDOWNLOAD",
   "menu": {
     "docs": {
       "identifier": "web-opdownload",

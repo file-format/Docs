@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Định dạng tệp PK3 - Dữ liệu trò chơi Quake 3 Engine",
    "description":"Tìm hiểu về định dạng tệp Dữ liệu trò chơi PK3 Quake 3 Engine và các API có thể tạo và mở tệp PK3.",
-"linktitle":"PK3",
+   "linktitle":"PK3",
    "menu":{
       "docs":{
          "identifier":"game-pk3-quake3",

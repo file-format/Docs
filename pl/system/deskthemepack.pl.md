@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format pliku DESKTHEMEPACK - plik pakietu motywów pulpitu systemu Windows 10",
   "description":"Dowiedz się o formacie DESKTHEMEPACK i interfejsach API, które umożliwiają tworzenie i otwieranie plików DESKTHEMEPACK.",
-"linktitle": "DESKTHEMEPACK",
+  "linktitle": "DESKTHEMEPACK",
   "menu": {
     "docs": {
       "identifier": "system-deskthemepack",

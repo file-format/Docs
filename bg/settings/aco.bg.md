@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Файлов формат ACO - файл с мостри цветове на Adobe Photoshop",
   "description":"Научете за ACO формата и API, които могат да създават и отварят ACO файлове.",
-"linktitle": "ACO",
+  "linktitle": "ACO",
   "menu": {
     "docs": {
       "identifier": "settings-aco",

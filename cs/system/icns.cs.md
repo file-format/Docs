@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Formát souboru ICNS – zdroj ikon macOS",
   "description":"Další informace o formátu ICNS a rozhraních API, která mohou vytvářet a otevírat soubory ICNS.",
-"linktitle": "ICNS",
+  "linktitle": "ICNS",
   "menu": {
     "docs": {
       "identifier": "system-icns",

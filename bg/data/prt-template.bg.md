@@ -17,7 +17,7 @@
 "toc":true,
 "title": "PRT файл - Шаблон за презентации - Какво е .prt файл и как да го отворя?",
    "description":"Научете за файловия формат на шаблона за PRT презентации и API, които могат да създават и отварят PRT файлове.",
-"linktitle": "PRT",
+   "linktitle":"PRT",
    "menu":{
       "docs":{
          "identifier":"data-prt-template",

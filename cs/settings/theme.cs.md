@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Formát souboru THEME - Microsoft Plus! Motiv plochy",
   "description":"Další informace o formátu THEME a rozhraních API, která mohou vytvářet a otevírat soubory THEME.",
-"linktitle": "TÉMA",
+  "linktitle": "THEME",
   "menu": {
     "docs": {
       "identifier": "settings-theme",

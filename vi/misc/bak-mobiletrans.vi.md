@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Định dạng tệp BAK - Sao lưu MobileTrans",
   "description":"Tìm hiểu về định dạng BAK MobileTrans và các API có thể tạo và mở tệp BAK.",
-"linktitle":"BAK MobileTrans",
+  "linktitle": "BAK MobileTrans",
   "menu": {
     "docs": {
       "identifier": "misc-bak-mobiletrans",

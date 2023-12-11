@@ -17,7 +17,7 @@
 "toc": true,
 "title": "3GPP fájlformátum - 3GPP médiafájl",
   "description":"További információ a 3GPP formátumról és az API-król, amelyek 3GPP-fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "3GPP",
+  "linktitle": "3GPP",
   "menu": {
     "docs": {
       "identifier": "video-3gpp",

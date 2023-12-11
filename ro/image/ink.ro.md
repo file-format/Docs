@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Fișier INK - Referință Pantone - Ce este un fișier .ink și cum se deschide?",
    "description":"Aflați despre formatul de fișier de referință INK Pantone și despre API-urile care pot crea și deschide fișiere INK.",
-"linktitle":"INK",
+   "linktitle":"INK",
    "menu":{
       "docs":{
          "identifier":"image-ink",

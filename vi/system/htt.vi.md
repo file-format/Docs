@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Định dạng tệp HTT - Mẫu siêu văn bản",
   "description":"Tìm hiểu về định dạng HTT và các API có thể tạo và mở tệp HTT.",
-"linktitle":"HTT",
+  "linktitle": "HTT",
   "menu": {
     "docs": {
       "identifier": "system-htt",

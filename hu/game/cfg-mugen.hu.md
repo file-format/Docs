@@ -17,7 +17,7 @@
 "toc": true,
 "title": "CFG fájlformátum - MUGEN konfigurációs fájl",
   "description":"További információ a CFG MUGEN konfigurációs fájl formátumáról és az API-król, amelyek CFG fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "CFG MUGEN",
+  "linktitle": "CFG M.U.G.E.N",
   "menu": {
     "docs": {
       "identifier": "game-cfg-mugen",

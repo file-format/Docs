@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Format de fișier UPS - Fișier de corecție UPS",
    "description":"Aflați despre formatul UPS Patch File și despre API-urile care pot crea și deschide fișiere UPS.",
-"linktitle":"UPS",
+   "linktitle":"UPS",
    "menu":{
       "docs":{
          "identifier":"game-ups",

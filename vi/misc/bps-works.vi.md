@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Định dạng tệp BPS - Sao lưu tài liệu Microsoft Works",
   "description":"Tìm hiểu về định dạng và API của BPS Works có thể tạo và mở tệp BPS.",
-"linktitle":"BPS hoạt động",
+  "linktitle": "BPS Works",
   "menu": {
     "docs": {
       "identifier": "misc-bps-works",

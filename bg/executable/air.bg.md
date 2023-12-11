@@ -14,7 +14,7 @@
 "toc": true,
   "description":"Научете повече за AIR файловия формат и API, които могат да създават и отварят AIR файлове.",
 "title": "AIR файлов формат - файл с инсталационен пакет на Adobe AIR",
-"linktitle": "AIR",
+  "linktitle": "AIR",
   "menu": {
     "docs": {
       "identifier": "executable-air",

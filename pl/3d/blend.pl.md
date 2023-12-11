@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format pliku BLEND - plik 3D Blendera",
   "description":"Dowiedz się o formacie BLEND i interfejsach API, które umożliwiają tworzenie i otwieranie plików BLEND.",
-"linktitle": "MIESZANKA",
+  "linktitle": "BLEND",
   "menu": {
     "docs": {
       "identifier": "3d-blend",

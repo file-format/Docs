@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Định dạng tệp STY - Kiểu bàn phím Yamaha hoặc Korg",
   "description":"Tìm hiểu về định dạng STY và các API có thể tạo và mở tệp STY.",
-"linktitle":"STY",
+  "linktitle": "STY",
   "menu": {
     "docs": {
       "identifier": "audio-sty",

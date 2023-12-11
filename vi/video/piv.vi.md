@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Định dạng tệp PIV - Hoạt ảnh hoạt hình Pivot",
   "description":"Tìm hiểu về định dạng tệp PIV và các API có thể tạo và mở tệp PIV.",
-"linktitle":"PIV",
+  "linktitle": "PIV",
   "menu": {
     "docs": {
       "identifier": "video-piv",

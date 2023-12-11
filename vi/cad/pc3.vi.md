@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Định dạng tệp PC3 - Tệp cấu hình máy vẽ AutoCAD",
   "description":"Tìm hiểu về định dạng PC3 và các API có thể tạo và mở tệp PC3.",
-"linktitle":"PC3",
+  "linktitle": "PC3",
   "menu": {
     "docs": {
       "identifier": "cad-pc3",

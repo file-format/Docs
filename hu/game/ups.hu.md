@@ -17,7 +17,7 @@
 "toc":true,
 "title":"UPS fájlformátum - UPS javítófájl",
    "description":"További információ a UPS Patch File formátumról és az API-król, amelyek UPS fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle":"UPS",
+   "linktitle":"UPS",
    "menu":{
       "docs":{
          "identifier":"game-ups",

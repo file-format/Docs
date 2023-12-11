@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Formát souboru GSHEET – zástupce Tabulek Google",
   "description":"Další informace o formátu souboru GSHEET a rozhraních API, která mohou vytvářet a otevírat soubory GSHEET.",
-"linktitle": "GSHEET",
+  "linktitle": "GSHEET",
   "menu": {
     "docs": {
       "identifier": "spreadsheet-gsheet",

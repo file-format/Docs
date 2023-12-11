@@ -15,7 +15,7 @@
 "toc":true,
 "title":"Định dạng tệp PAR - Ghi DVR micros chuyên dụng",
    "description":"Tìm hiểu về định dạng PAR và các API có thể tạo và mở tệp PAR.",
-"linktitle":"PAR",
+   "linktitle":"PAR",
    "menu":{
       "docs":{
          "identifier":"video-par",

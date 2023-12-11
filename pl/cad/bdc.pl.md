@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format pliku BDC - plik projektu projektanta mostu West Point",
   "description":"Dowiedz się o formacie pliku BDC i interfejsach API, które umożliwiają tworzenie i otwieranie plików BDC.",
-"tytuł łącza": "BDC",
+  "linktitle": "BDC",
   "menu": {
     "docs": {
       "identifier": "cad-bdc",

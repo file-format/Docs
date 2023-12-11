@@ -19,7 +19,7 @@
 "toc": true,
 "title": "Formát souboru SUB - soubor s titulky MicroDVD",
   "description":"Další informace o formátu SUB a rozhraních API, která mohou vytvářet a otevírat soubory SUB.",
-"linktitle": "SUB",
+  "linktitle": "SUB",
   "menu": {
     "docs": {
       "identifier": "video-sub",

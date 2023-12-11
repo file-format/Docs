@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Format fișier CFG - Fișier de configurare Celestia",
   "description":"Aflați despre formatul fișierului de configurare CFG Celestia și despre API-urile care pot crea și deschide fișiere CFG.",
-"linktitle": "CFG Celestia",
+  "linktitle": "CFG Celestia",
   "menu": {
     "docs": {
       "identifier": "settings-cfg-celestia",

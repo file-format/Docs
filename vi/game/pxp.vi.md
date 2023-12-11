@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Định dạng tệp PXP - Tệp PODBot Counter-Strike",
   "description":"Tìm hiểu về định dạng PXP và các API có thể tạo và mở tệp PXP.",
-"linktitle":"PXP",
+  "linktitle": "PXP",
   "menu": {
     "docs": {
       "identifier": "game-pxp",

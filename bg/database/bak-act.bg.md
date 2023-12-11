@@ -17,7 +17,7 @@
 "toc": true,
 "title": "BAK файлов формат - Действайте! Архивиране на база данни",
   "description":"Научете за BAK Act! Формат за архивиране и API, които могат да създават и отварят BAK файлове.",
-"linktitle": "BAK ACT Backup",
+  "linktitle": "BAK ACT Backup",
   "menu": {
     "docs": {
       "identifier": "database-bak-act",

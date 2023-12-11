@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Formát souboru CIR - Schematický soubor Micro-Cap",
   "description":"Další informace o formátu souboru CIR a rozhraních API, která mohou vytvářet a otevírat soubory CIR.",
-"linktitle": "CIR",
+  "linktitle": "CIR",
   "menu": {
     "docs": {
       "identifier": "cad-cir",

@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Format fișier JET - Fișier baza de date Microsoft JET",
   "description":"Aflați despre formatul JET și despre API-urile care pot crea și deschide fișiere JET.",
-"linktitle": "JET",
+  "linktitle": "JET",
   "menu": {
     "docs": {
       "identifier": "database-jet",

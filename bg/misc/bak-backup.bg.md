@@ -17,7 +17,7 @@
 "toc": true,
 "title": "BAK файлов формат - резервен файл",
   "description":"Научете за формата за архивиране на BAK и API, които могат да създават и отварят BAK файлове.",
-"linktitle": "BAK Backup",
+  "linktitle": "BAK Backup",
   "menu": {
     "docs": {
       "identifier": "misc-bak-backup",

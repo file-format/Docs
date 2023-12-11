@@ -18,7 +18,7 @@
 "toc": true,
 "title": "Файлов формат W3X - файл с карта за разширение на Warcraft 3",
   "description":"Научете за формата W3X и API, които могат да създават и отварят W3X файлове.",
-"linktitle": "W3X",
+  "linktitle": "W3X",
   "menu": {
     "docs": {
       "identifier": "game-w3x",

@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Định dạng tệp RIP - Tệp Mashup âm thanh Hit'n'Mix",
   "description":"Tìm hiểu về định dạng tệp RIP và các API có thể tạo và mở tệp RIP.",
-"linktitle":"RIP",
+  "linktitle": "RIP",
   "menu": {
     "docs": {
       "identifier": "audio-rip",

@@ -14,7 +14,7 @@
 "toc": true,
 "title": "HTT файлов формат - Хипертекстов шаблон",
   "description":"Научете за HTT формата и API, които могат да създават и отварят HTT файлове.",
-"linktitle": "HTT",
+  "linktitle": "HTT",
   "menu": {
     "docs": {
       "identifier": "system-htt",

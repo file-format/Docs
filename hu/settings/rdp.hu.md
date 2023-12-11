@@ -16,7 +16,7 @@
 "toc": true,
 "title": "RDP fájlformátum - Távoli asztal konfigurációs fájl",
   "description":"További információ az RDP-formátumról és az API-król, amelyek RDP-fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "RDP",
+  "linktitle": "RDP",
   "menu": {
     "docs": {
       "identifier": "settings-rdp",

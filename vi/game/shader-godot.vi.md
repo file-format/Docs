@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Định dạng tệp SHADER - Tệp đổ bóng Godot Engine",
    "description":"Tìm hiểu về định dạng tệp SHADER Godot Engine Shader và các API có thể tạo và mở tệp SHADER.",
-"linktitle":"SHADER Godot",
+   "linktitle":"SHADER Godot",
    "menu":{
       "docs":{
          "identifier":"game-shader-godot",

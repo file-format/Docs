@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Định dạng tệp VEG - Dự án video MAGIX VEGAS",
   "description":"Tìm hiểu về định dạng tệp VEG và các API có thể tạo và mở tệp VEG.",
-"linktitle":"VEG",
+  "linktitle": "VEG",
   "menu": {
     "docs": {
       "identifier": "video-veg",

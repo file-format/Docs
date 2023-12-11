@@ -17,7 +17,7 @@
 "toc": true,
 "title": "RB fájlformátum - Ruby forráskód fájl",
   "description":"További információ az RB formátumról és az RB-fájlok létrehozására és megnyitására alkalmas API-król.",
-"linktitle": "RB",
+  "linktitle": "RB",
   "menu": {
     "docs": {
       "identifier": "programming-rb",

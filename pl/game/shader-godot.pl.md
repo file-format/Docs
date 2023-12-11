@@ -17,7 +17,7 @@
 "toc": true,
 "title":"Format pliku SHADER - plik modułu cieniującego silnika Godot",
    "description":"Dowiedz się o formacie pliku Shader Godot Engine Shader i interfejsach API, które umożliwiają tworzenie i otwieranie plików SHADER.",
-"linktitle":"SHADER Godot",
+   "linktitle":"SHADER Godot",
    "menu":{
       "docs":{
          "identifier":"game-shader-godot",

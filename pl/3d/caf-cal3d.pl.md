@@ -17,7 +17,7 @@
 "toc": true,
 "title":"Format pliku CAF - plik animacji binarnej Cal3D",
    "description":"Dowiedz się więcej o formacie binarnego pliku animacji CAF Cal3D i interfejsach API, które umożliwiają tworzenie i otwieranie plików CAF.",
-"linktitle":"CAF Cal3D",
+   "linktitle":"CAF Cal3D",
    "menu":{
       "docs":{
          "identifier":"3d-caf-cal3d",

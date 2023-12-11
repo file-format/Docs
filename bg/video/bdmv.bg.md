@@ -16,7 +16,7 @@
 "toc":true,
 "title": "BDMV файлов формат - файл с информация за филм на Blu-ray диск",
    "description":"Научете за BDMV формата и API, които могат да създават и отварят BDMV файлове.",
-"linktitle": "BDMV",
+   "linktitle":"BDMV",
    "menu":{
       "docs":{
          "identifier":"video-bdmv",

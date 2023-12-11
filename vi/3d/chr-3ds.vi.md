@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Định dạng tệp CHR - Tệp ký tự 3ds Max",
    "description":"Tìm hiểu về định dạng tệp CHR 3ds Max Character và các API có thể tạo và mở tệp CHR.",
-"linktitle":"CHR 3ds",
+   "linktitle":"CHR 3ds",
    "menu":{
       "docs":{
          "identifier":"3d-chr-3ds",

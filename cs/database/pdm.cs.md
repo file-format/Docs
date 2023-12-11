@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Formát souboru PDM - soubor databáze PowerDesigner",
   "description":"Další informace o formátu PDM a rozhraních API, která mohou vytvářet a otevírat soubory PDM.",
-"linktitle": "PDM",
+  "linktitle": "PDM",
   "menu": {
     "docs": {
       "identifier": "database-pdm",

@@ -18,7 +18,7 @@
 "toc": true,
 "title": "Format pliku FPT - plik notatki z tabelą Alpha Five",
   "description":"Dowiedz się o formacie FPT Alpha Five i interfejsach API, które umożliwiają tworzenie i otwieranie plików FPT.",
-"linktitle": "FPT Alpha Five",
+  "linktitle": "FPT Alpha Five",
   "menu": {
     "docs": {
       "identifier": "database-fpt-alphafive",

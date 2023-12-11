@@ -14,7 +14,7 @@
 "toc": true,
   "description":"További információ az AIR fájlformátumról és az API-król, amelyek AIR fájlokat hozhatnak létre és nyithatnak meg.",
 "title": "AIR fájlformátum - Adobe AIR telepítőcsomag fájl",
-"linktitle": "AIR",
+  "linktitle": "AIR",
   "menu": {
     "docs": {
       "identifier": "executable-air",

@@ -15,7 +15,7 @@
 "toc": true,
 "title":"Format pliku PAR - nagrywanie na dedykowanym rejestratorze Micros DVR",
    "description":"Dowiedz się o formacie PAR i interfejsach API, które umożliwiają tworzenie i otwieranie plików PAR.",
-"linktitle":"PAR",
+   "linktitle":"PAR",
    "menu":{
       "docs":{
          "identifier":"video-par",

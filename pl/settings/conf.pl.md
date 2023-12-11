@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Format pliku CONF - plik konfiguracyjny Uniksa",
   "description":"Dowiedz się o formacie CONF i interfejsach API, które umożliwiają tworzenie i otwieranie plików CONF.",
-"tytuł linku": "CONF",
+  "linktitle": "CONF",
   "menu": {
     "docs": {
       "identifier": "settings-conf",

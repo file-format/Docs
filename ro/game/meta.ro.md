@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Format fișier META - Fișier metadate existent",
   "description":"Aflați despre formatul META și despre API-urile care pot crea și deschide fișiere META.",
-"linktitle": "META",
+  "linktitle": "META",
   "menu": {
     "docs": {
       "identifier": "game-meta",

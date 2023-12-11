@@ -17,7 +17,7 @@
 "toc":true,
 "title":"PRT fájlformátum - Creo paraméteres rész",
    "description":"További információ a PRT Creo Parametric Part fájlformátumról és a PRT-fájlok létrehozására és megnyitására alkalmas API-król.",
-"linktitle":"PRT",
+   "linktitle":"PRT",
    "menu":{
       "docs":{
          "identifier":"cad-prt-creo",

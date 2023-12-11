@@ -15,7 +15,7 @@
 "toc": true,
 "title": "EC3 fájlformátum – továbbfejlesztett audiokodek 3 fájl",
   "description":"További információ az EC3 fájlformátumról és az API-król, amelyek EC3 fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "EC3",
+  "linktitle": "EC3",
   "menu": {
     "docs": {
       "identifier": "audio-ec3",

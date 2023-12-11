@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Formát souboru CB7 - Archiv komiksů 7-Zip",
   "description":"Další informace o formátu CB7 a rozhraních API, která mohou vytvářet a otevírat soubory CB7.",
-"linktitle": "CB7",
+  "linktitle": "CB7",
   "menu": {
     "docs": {
       "identifier": "compression-cb7",

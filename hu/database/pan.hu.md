@@ -16,7 +16,7 @@
 "toc": true,
 "title": "PAN fájlformátum - panoráma adatbázis fájl",
   "description":"További információ a PAN-formátumról és az API-król, amelyek PAN-fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "PAN",
+  "linktitle": "PAN",
   "menu": {
     "docs": {
       "identifier": "database-pan",

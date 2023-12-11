@@ -17,7 +17,7 @@
 "toc":true,
 "title":"CS fájlformátum - CLEO egyéni szkript",
    "description":"További információ a CS CLEO egyéni szkriptformátumról és az API-król, amelyek CS-fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle":"CS CLEO",
+   "linktitle":"CS CLEO",
    "menu":{
       "docs":{
          "identifier":"game-cs-cleo",

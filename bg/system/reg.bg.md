@@ -14,7 +14,7 @@
 "toc": true,
 "title": "REG файлов формат - файл на системния регистър на Windows",
   "description":"Научете за REG формата и API, които могат да създават и отварят REG файлове.",
-"linktitle": "REG",
+  "linktitle": "REG",
   "menu": {
     "docs": {
       "identifier": "system-reg",

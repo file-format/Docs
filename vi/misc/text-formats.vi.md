@@ -12,7 +12,7 @@
 "toc": true,
 "title": "Định dạng, loại văn bản và câu hỏi thường gặp",
   "description":"Tìm hiểu về Định dạng văn bản, Loại định dạng văn bản, Danh sách định dạng văn bản và câu hỏi thường gặp",
-"linktitle":"Định dạng văn bản",
+  "linktitle": "TEXT FORMATS",
   "menu": {
     "docs": {
       "identifier": "misc-text-formats",

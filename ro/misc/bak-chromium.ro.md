@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Format fișier BAK - Backup pentru marcaje Chromium",
   "description":"Aflați despre formatul BAK Chromium Bookmarks și despre API-urile care pot crea și deschide fișiere BAK.",
-"linktitle": "Marcaje BAK Chromium",
+  "linktitle": "BAK Chromium Bookmarks",
   "menu": {
     "docs": {
       "identifier": "misc-bak-chromium",

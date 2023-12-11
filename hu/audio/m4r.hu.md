@@ -15,7 +15,7 @@
 "toc": true,
 "title": "M4R fájlformátum - iPhone csengőhangfájl",
   "description":"További információ az M4R fájlformátumról és az API-król, amelyek M4R fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "M4R",
+  "linktitle": "M4R",
   "menu": {
     "docs": {
       "identifier": "audio-m4r",

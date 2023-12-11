@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Định dạng tệp EXP - Tệp xuất ký hiệu",
   "description":"Tìm hiểu về định dạng EXP và các API có thể tạo và mở tệp EXP.",
-"linktitle":"EXP",
+  "linktitle": "EXP",
   "menu": {
     "docs": {
       "identifier": "programming-exp",

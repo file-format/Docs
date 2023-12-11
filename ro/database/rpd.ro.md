@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Format de fișier RPD - Fișierul bazei de date de proiect RIB",
   "description":"Aflați despre formatul RPD și despre API-urile care pot crea și deschide fișiere RPD.",
-"linktitle": "RPD",
+  "linktitle": "RPD",
   "menu": {
     "docs": {
       "identifier": "database-rpd",

@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Formát souboru LRV - Video soubor s nízkým rozlišením od GoPro",
   "description":"Další informace o formátu LRV a rozhraních API, která mohou vytvářet a otevírat soubory LRV.",
-"linktitle": "LRV",
+  "linktitle": "LRV",
   "menu": {
     "docs": {
       "identifier": "video-lrv",

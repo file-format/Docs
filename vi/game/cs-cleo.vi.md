@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Định dạng tệp CS - Tập lệnh tùy chỉnh CLEO",
    "description":"Tìm hiểu về định dạng Tập lệnh tùy chỉnh CS CLEO và các API có thể tạo và mở tệp CS.",
-"linktitle":"CS CLEO",
+   "linktitle":"CS CLEO",
    "menu":{
       "docs":{
          "identifier":"game-cs-cleo",

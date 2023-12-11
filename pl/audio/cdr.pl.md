@@ -17,7 +17,7 @@
 "toc": true,
 "title":"Format pliku CDR - surowe dane audio CD",
    "description":"Dowiedz się o formacie pliku audio CDR Raw CD Audio Data i interfejsach API, które umożliwiają tworzenie i otwieranie plików CDR.",
-"linktitle":"CDR",
+   "linktitle":"CDR",
    "menu":{
       "docs":{
          "identifier":"audio-cdr",

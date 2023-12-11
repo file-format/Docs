@@ -17,7 +17,7 @@
 "toc": true,
 "title": "RPD fájlformátum - Roleplay Designer adatfájl",
   "description":"További információ az RPD Roleplay Designer Data File formátumról és az RPD-fájlok létrehozására és megnyitására alkalmas API-król.",
-"linktitle": "RPD szerepjáték",
+  "linktitle": "RPD Roleplay",
   "menu": {
     "docs": {
       "identifier": "database-rpd-roleplay",

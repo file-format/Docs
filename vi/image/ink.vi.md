@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Tệp MỰC - Tham khảo Pantone - Tệp .ink là gì và làm cách nào để mở tệp?",
    "description":"Tìm hiểu về định dạng tệp tham chiếu INK Pantone và các API có thể tạo và mở tệp INK.",
-"linktitle":"MỰC",
+   "linktitle":"INK",
    "menu":{
       "docs":{
          "identifier":"image-ink",

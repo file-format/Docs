@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Định dạng tệp WPS - Tài liệu Kingsoft Writer",
   "description":"Tìm hiểu về định dạng WPS Kingsoft và các API có thể tạo và mở tệp WPS.",
-"linktitle":"WPS Kingsoft",
+  "linktitle": "WPS Kingsoft",
   "menu": {
     "docs": {
       "identifier": "word-processing-wps-kingsoft",

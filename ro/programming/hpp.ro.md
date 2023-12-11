@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Format fișier HPP - fișier antet C++",
   "description":"Aflați despre formatul HPP și despre API-urile care pot crea și deschide fișiere HPP.",
-"linktitle": "HPP",
+  "linktitle": "HPP",
   "menu": {
     "docs": {
       "identifier": "programming-hpp",

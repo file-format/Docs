@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Định dạng tệp THEME - Chủ đề máy tính để bàn của Microsoft Plus!",
   "description":"Tìm hiểu về định dạng THEME và các API có thể tạo và mở tệp THEME.",
-"linktitle":"CHỦ ĐỀ",
+  "linktitle": "THEME",
   "menu": {
     "docs": {
       "identifier": "settings-theme",

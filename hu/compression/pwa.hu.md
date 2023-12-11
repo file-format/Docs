@@ -15,7 +15,7 @@
 "toc": true,
 "title": "PWA fájlformátum - jelszóügynök fájl",
   "description":"További információ a PWA-formátumról és az API-król, amelyek PWA-fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "PWA",
+  "linktitle": "PWA",
   "menu": {
     "docs": {
       "identifier": "compression-pwa",

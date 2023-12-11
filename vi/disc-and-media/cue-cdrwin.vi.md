@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Định dạng tệp CUE - Bảng gợi ý CDRWIN",
    "description":"Tìm hiểu về định dạng tệp CUE CDRWIN Cue Sheet và các API có thể tạo và mở tệp CUE.",
-"linktitle":"CUE CDRWIN",
+   "linktitle":"CUE CDRWIN",
    "menu":{
       "docs":{
          "identifier":"disc-and-media-cue-cdrwin",

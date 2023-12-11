@@ -14,7 +14,7 @@
 "toc": true,
 "title": "TPF fájlformátum - IBM SPSS szövegvarázsló dokumentum",
   "description":"További információ a TPF-formátumról és az API-król, amelyek TPF-fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "TPF",
+  "linktitle": "TPF",
   "menu": {
     "docs": {
       "identifier": "settings-tpf",

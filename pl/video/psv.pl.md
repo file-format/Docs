@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format pliku PSV - plik wideo Pluralsight",
   "description":"Dowiedz się o formacie PSV i interfejsach API, które umożliwiają tworzenie i otwieranie plików PSV.",
-"tytuł łącza": "PSV",
+  "linktitle": "PSV",
   "menu": {
     "docs": {
       "identifier": "video-psv",

@@ -14,7 +14,7 @@
 "toc": true,
 "title": "REGTRANS-MS файлов формат - регистрационен файл за транзакции",
   "description":"Научете за формата REGTRANS-MS и API, които могат да създават и отварят файлове REGTRANS-MS.",
-"linktitle": "REGTRANS-MS",
+  "linktitle": "REGTRANS-MS",
   "menu": {
     "docs": {
       "identifier": "system-regtrans-ms",

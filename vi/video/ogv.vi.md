@@ -18,7 +18,7 @@
 "toc": true,
 "title": "Định dạng tệp OGV - Tệp video Ogg",
   "description":"Tìm hiểu về định dạng OGV và các API có thể tạo và mở tệp OGV.",
-"linktitle":"OGV",
+  "linktitle": "OGV",
   "menu": {
     "docs": {
       "identifier": "video-ogv",

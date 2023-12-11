@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format fișier QPW - Foaia de calcul Quattro Pro",
   "description":"Aflați despre formatul de fișier QPW și despre API-urile care pot crea și deschide fișiere QPW.",
-"linktitle": "QPW",
+  "linktitle": "QPW",
   "menu": {
     "docs": {
       "identifier": "spreadsheet-qpw",

@@ -17,7 +17,7 @@
 "toc":true,
 "title": "CPI файлов формат - информация за AVCHD видео клип",
    "description":"Научете за файловия формат с информация за CPI AVCHD видео клип и API, които могат да създават и отварят CPI файлове.",
-"linktitle": "CPI",
+   "linktitle":"CPI",
    "menu":{
       "docs":{
          "identifier":"video-cpi",

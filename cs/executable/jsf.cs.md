@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Formát souboru JSF - soubor příkazů Java Script",
   "description":"Další informace o formátu JSF a rozhraních API, která mohou vytvářet a otevírat soubory JSF.",
-"linktitle": "JSF",
+  "linktitle": "JSF",
   "menu": {
     "docs": {
       "identifier": "executable-jsf",

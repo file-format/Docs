@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Định dạng tệp DESKTHEMEPACK - Tệp gói chủ đề máy tính để bàn Windows 10",
   "description":"Tìm hiểu về định dạng DESKTHEMEPACK và các API có thể tạo và mở tệp DESKTHEMEPACK.",
-"linktitle":"DESKTHEMEPACK",
+  "linktitle": "DESKTHEMEPACK",
   "menu": {
     "docs": {
       "identifier": "system-deskthemepack",

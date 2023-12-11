@@ -16,7 +16,7 @@
 "toc": true,
 "title": "MPEG fájlformátum - MPEG videó",
   "description":"További információ az MPEG formátumról és az MPEG-fájlok létrehozására és megnyitására alkalmas API-król.",
-"linktitle": "MPEG",
+  "linktitle": "MPEG",
   "menu": {
     "docs": {
       "identifier": "video-mpeg",

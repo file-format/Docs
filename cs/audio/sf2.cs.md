@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Formát souboru SF2 - SoundFont 2 Sound Bank",
   "description":"Další informace o formátu souboru SF2 a rozhraních API, která mohou vytvářet a otevírat soubory SF2.",
-"linktitle": "SF2",
+  "linktitle": "SF2",
   "menu": {
     "docs": {
       "identifier": "audio-sf2",

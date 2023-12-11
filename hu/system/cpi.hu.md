@@ -17,7 +17,7 @@
 "toc":true,
 "title":"CPI fájlformátum - kódlap információs fájl",
    "description":"További információ a CPI Codepage Information fájlformátumról és az API-król, amelyek CPI-fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle":"CPI",
+   "linktitle":"CPI",
    "menu":{
       "docs":{
          "identifier":"system-cpi",

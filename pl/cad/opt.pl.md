@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format pliku OPT - plik Opterecenja",
   "description":"Dowiedz się o formacie pliku OPT i interfejsach API, które umożliwiają tworzenie i otwieranie plików OPT.",
-"tytuł linku": "OPCJA",
+  "linktitle": "OPT",
   "menu": {
     "docs": {
       "identifier": "cad-opt",

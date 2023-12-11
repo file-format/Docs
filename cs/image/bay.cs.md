@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Formát souborů BAY - Casio RAW Image",
   "description":"Další informace o formátu BAY a rozhraních API, která mohou vytvářet a otevírat soubory BAY.",
-"linktitle": "BAY",
+  "linktitle": "BAY",
   "menu": {
     "docs": {
       "identifier": "image-bay",

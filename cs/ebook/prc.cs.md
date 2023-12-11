@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Formát souboru PRC – soubor elektronické knihy Mobipocket",
   "description":"Další informace o formátu PRC a rozhraních API, která mohou vytvářet a otevírat soubory PRC.",
-"linktitle": "PRC",
+  "linktitle": "PRC",
   "menu": {
     "docs": {
       "identifier": "ebook-prc",

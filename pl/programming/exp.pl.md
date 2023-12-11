@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Format pliku EXP - plik eksportu symboli",
   "description":"Dowiedz się o formacie EXP i interfejsach API, które umożliwiają tworzenie i otwieranie plików EXP.",
-"tytuł linku": "EXP",
+  "linktitle": "EXP",
   "menu": {
     "docs": {
       "identifier": "programming-exp",

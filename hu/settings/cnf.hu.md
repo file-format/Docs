@@ -15,7 +15,7 @@
 "toc": true,
 "title": "CNF fájlformátum - MySQL konfigurációs fájl",
   "description":"További információ a CNF formátumról és az API-król, amelyek CNF fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "CNF",
+  "linktitle": "CNF",
   "menu": {
     "docs": {
       "identifier": "settings-cnf",

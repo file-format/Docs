@@ -17,7 +17,7 @@
 "toc": true,
 "title": "RB файлов формат - файл с изходен код на Ruby",
   "description":"Научете за RB формата и API, които могат да създават и отварят RB файлове.",
-"linktitle": "RB",
+  "linktitle": "RB",
   "menu": {
     "docs": {
       "identifier": "programming-rb",

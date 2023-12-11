@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Định dạng tệp PAT - Tệp mẫu",
    "description":"Tìm hiểu về định dạng tệp Mẫu PAT và các API có thể tạo và mở tệp PAT.",
-"linktitle":"Mẫu PAT",
+   "linktitle":"PAT Pattern",
    "menu":{
       "docs":{
          "identifier":"image-pat-pattern",

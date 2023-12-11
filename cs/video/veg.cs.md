@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Formát souboru VEG - MAGIX VEGAS Video Project",
   "description":"Další informace o formátu souborů VEG a rozhraních API, která mohou vytvářet a otevírat soubory VEG.",
-"linktitle": "VEG",
+  "linktitle": "VEG",
   "menu": {
     "docs": {
       "identifier": "video-veg",

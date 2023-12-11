@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Định dạng tệp VCPROJ - Tệp dự án Visual C++",
   "description":"Tìm hiểu về định dạng VCPROJ và các API có thể tạo và mở tệp VCPROJ.",
-"linktitle":"VCPROJ",
+  "linktitle": "VCPROJ",
   "menu": {
     "docs": {
       "identifier": "programming-vcproj",

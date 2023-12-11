@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Định dạng tệp XIP - Lưu trữ có chữ ký MacOS",
   "description":"Tìm hiểu về định dạng XIP và các API có thể tạo và mở tệp XIP.",
-"linktitle":"XIP",
+  "linktitle": "XIP",
   "menu": {
     "docs": {
       "identifier": "compression-xip",

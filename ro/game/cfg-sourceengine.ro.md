@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Format fișier CFG - Fișier de configurare a motorului sursă",
   "description":"Aflați despre formatul fișierului de configurare a motorului sursă CFG și despre API-urile care pot crea și deschide fișiere CFG.",
-"linktitle": "Motorul sursă CFG",
+  "linktitle": "CFG Source Engine",
   "menu": {
     "docs": {
       "identifier": "game-cfg-sourceengine",

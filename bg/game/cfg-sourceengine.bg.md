@@ -17,7 +17,7 @@
 "toc": true,
 "title": "CFG файлов формат - конфигурационен файл на изходния двигател",
   "description":"Научете за формата на файла за конфигурация на CFG Source Engine и API, които могат да създават и отварят CFG файлове.",
-"linktitle": "CFG Source Engine",
+  "linktitle": "CFG Source Engine",
   "menu": {
     "docs": {
       "identifier": "game-cfg-sourceengine",

@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Format fișier APM - Aldus Placeable Metafile Image",
   "description":"Aflați despre formatul APM și despre API-urile care pot crea și deschide fișiere APM.",
-"linktitle": "APM",
+  "linktitle": "APM",
   "menu": {
     "docs": {
       "identifier": "image-apm",

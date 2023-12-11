@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Định dạng tệp AFS - Tệp dự án STAAD.foundation",
   "description":"Tìm hiểu về định dạng tệp AFS và các API có thể tạo và mở tệp AFS.",
-"linktitle":"AFS",
+  "linktitle": "AFS",
   "menu": {
     "docs": {
       "identifier": "cad-afs",

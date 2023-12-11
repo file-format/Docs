@@ -14,7 +14,7 @@
 "toc": true,
 "title": "PDM fájlformátum - PowerDesigner adatbázisfájl",
   "description":"További információ a PDM-formátumról és az API-król, amelyek PDM-fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "PDM",
+  "linktitle": "PDM",
   "menu": {
     "docs": {
       "identifier": "database-pdm",

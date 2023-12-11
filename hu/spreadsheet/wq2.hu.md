@@ -15,7 +15,7 @@
 "toc": true,
 "title": "WQ2 fájlformátum - Quattro Pro DOS-táblázatfájlhoz",
   "description":"További információ a WQ2 fájlformátumról és az API-król, amelyek WQ2 fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "WQ2",
+  "linktitle": "WQ2",
   "menu": {
     "docs": {
       "identifier": "spreadsheet-wq2",

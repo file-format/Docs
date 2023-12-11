@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Định dạng tệp MTM - Mô-đun MultiTracker",
   "description":"Tìm hiểu về định dạng tệp MTM và các API có thể tạo và mở tệp MTM.",
-"linktitle":"MTM",
+  "linktitle": "MTM",
   "menu": {
     "docs": {
       "identifier": "audio-mtm",

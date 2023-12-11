@@ -15,7 +15,7 @@
 "toc": true,
 "title": "AXM fájlformátum - FormIt vázlatfájl",
   "description":"További információ az AXM fájlformátumról és az AXM-fájlok létrehozására és megnyitására alkalmas API-król.",
-"linktitle": "AXM",
+  "linktitle": "AXM",
   "menu": {
     "docs": {
       "identifier": "cad-axm",

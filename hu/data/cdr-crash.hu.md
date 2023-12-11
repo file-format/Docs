@@ -17,7 +17,7 @@
 "toc":true,
 "title":"CDR fájl - Összeomlási adatlekérő adatfájl - Mi az .cdr fájl, és hogyan nyitható meg?",
    "description":"További információ a CDR összeomlási adatlekérési adatok fájlformátumáról és az API-król, amelyek CDR-fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle":"CDR",
+   "linktitle":"CDR",
    "menu":{
       "docs":{
          "identifier":"data-cdr-crash",

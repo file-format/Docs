@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Định dạng tệp TẢI XUỐNG - Tệp tải xuống chưa hoàn chỉnh của Pando",
   "description":"Tìm hiểu về định dạng TẢI XUỐNG và các API có thể tạo và mở tệp TẢI XUỐNG.",
-"linktitle":"ĐANG TẢI XUỐNG",
+  "linktitle": "DOWNLOADING",
   "menu": {
     "docs": {
       "identifier": "misc-downloading",

@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Định dạng tệp MUI - Vô số tệp công cụ người dùng",
   "description":"Tìm hiểu về định dạng tệp MUI và các API có thể tạo và mở tệp MUI.",
-"linktitle":"MUI",
+  "linktitle": "MUI",
   "menu": {
     "docs": {
       "identifier": "audio-mui",

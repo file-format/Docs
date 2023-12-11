@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Định dạng tệp UPS - Tệp bản vá UPS",
    "description":"Tìm hiểu về định dạng Tệp Bản vá UPS và các API có thể tạo và mở tệp UPS.",
-"linktitle":"UPS",
+   "linktitle":"UPS",
    "menu":{
       "docs":{
          "identifier":"game-ups",

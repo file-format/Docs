@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Format pliku REGTRANS-MS - plik dziennika transakcji rejestru",
   "description":"Dowiedz się o formacie REGTRANS-MS i interfejsach API, które umożliwiają tworzenie i otwieranie plików REGTRANS-MS.",
-"linktitle": "REGTRANS-MS",
+  "linktitle": "REGTRANS-MS",
   "menu": {
     "docs": {
       "identifier": "system-regtrans-ms",

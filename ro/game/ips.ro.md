@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Format fișier IPS - Fișier de corecție a sistemului de corecție internă",
    "description":"Aflați despre formatul IPS și despre API-urile care pot crea și deschide fișiere IPS.",
-"linktitle":"IPS",
+   "linktitle":"IPS",
    "menu":{
       "docs":{
          "identifier":"game-ips",

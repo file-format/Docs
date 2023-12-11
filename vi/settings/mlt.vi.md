@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Định dạng tệp MLT - Dự án Shotcut",
   "description":"Tìm hiểu về định dạng và API của Dự án MLT Shotcut có thể tạo và mở tệp MLT.",
-"linktitle":"MLT",
+  "linktitle": "MLT",
   "menu": {
     "docs": {
       "identifier": "settings-mlt",

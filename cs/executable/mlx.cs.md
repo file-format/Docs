@@ -18,7 +18,7 @@
 "toc": true,
 "title": "Formát souboru MLX - soubor živého kódu MATLAB",
   "description":"Další informace o formátu MLX a rozhraních API, která mohou vytvářet a otevírat soubory MLX.",
-"linktitle": "MLX",
+  "linktitle": "MLX",
   "menu": {
     "docs": {
       "identifier": "executable-mlx",

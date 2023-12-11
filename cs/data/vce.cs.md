@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Soubor VCE - Visual CertExam - Co je soubor .vce a jak jej otevřít?",
    "description":"Další informace o formátu souboru VCE Visual CertExam Exam a rozhraních API, která mohou vytvářet a otevírat soubory VCE.",
-"linktitle":"VCE",
+   "linktitle":"VCE",
    "menu":{
       "docs":{
          "identifier":"data-vce",

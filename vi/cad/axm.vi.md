@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Định dạng tệp AXM - Tệp phác thảo FormIt",
   "description":"Tìm hiểu về định dạng tệp AXM và các API có thể tạo và mở tệp AXM.",
-"linktitle":"AXM",
+  "linktitle": "AXM",
   "menu": {
     "docs": {
       "identifier": "cad-axm",

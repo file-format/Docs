@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Formát souboru RPD - soubor databáze projektu RIB",
   "description":"Další informace o formátu RPD a rozhraních API, která mohou vytvářet a otevírat soubory RPD.",
-"linktitle": "RPD",
+  "linktitle": "RPD",
   "menu": {
     "docs": {
       "identifier": "database-rpd",

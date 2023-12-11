@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format fișier ISS - Script de configurare Inno",
   "description":"Aflați despre formatul ISS și despre API-urile care pot crea și deschide fișiere ISS.",
-"linktitle": "ISS",
+  "linktitle": "ISS",
   "menu": {
     "docs": {
       "identifier": "settings-iss",

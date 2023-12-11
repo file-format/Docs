@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format pliku PIV - animacja Pivot Animator",
   "description":"Dowiedz się więcej o formacie pliku PIV i interfejsach API, które umożliwiają tworzenie i otwieranie plików PIV.",
-"tytuł łącza": "PIV",
+  "linktitle": "PIV",
   "menu": {
     "docs": {
       "identifier": "video-piv",

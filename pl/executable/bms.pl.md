@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Format pliku BMS - Skrypt QuickBMS",
   "description":"Dowiedz się o formacie BMS i interfejsach API, które umożliwiają tworzenie i otwieranie plików BMS.",
-"tytuł łącza": "BMS",
+  "linktitle": "BMS",
   "menu": {
     "docs": {
       "identifier": "executable-bms",

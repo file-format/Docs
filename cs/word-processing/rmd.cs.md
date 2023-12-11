@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Formát souboru RMD - R Markdown File",
   "description":"Další informace o formátu RMD a rozhraních API, která mohou vytvářet a otevírat soubory RMD.",
-"linktitle": "RMD",
+  "linktitle": "RMD",
   "menu": {
     "docs": {
       "identifier": "word-processing-rmd",

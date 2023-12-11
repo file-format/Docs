@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Format fișier XIP - Arhiva semnată MacOS",
   "description":"Aflați despre formatul XIP și despre API-urile care pot crea și deschide fișiere XIP.",
-"linktitle": "XIP",
+  "linktitle": "XIP",
   "menu": {
     "docs": {
       "identifier": "compression-xip",

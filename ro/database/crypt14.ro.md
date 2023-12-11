@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Format de fișier CRYPT14 - fișier de bază de date criptat WhatsApp",
   "description":"Aflați despre formatul CRYPT14 și despre API-urile care pot crea și deschide fișiere CRYPT14.",
-"linktitle": "CRYPT14",
+  "linktitle": "CRYPT14",
   "menu": {
     "docs": {
       "identifier": "database-crypt14",

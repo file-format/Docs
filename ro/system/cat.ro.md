@@ -16,7 +16,7 @@
 "toc":true,
 "title":"Format fișier CAT - Fișier catalog Windows",
    "description":"Aflați despre formatul CAT și despre API-urile care pot crea și deschide fișiere CAT.",
-"linktitle":"CAT",
+   "linktitle":"CAT",
    "menu":{
       "docs":{
          "identifier":"system-cat",

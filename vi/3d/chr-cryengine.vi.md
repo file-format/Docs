@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Định dạng tệp CHR - Tệp ký tự CryENGINE",
    "description":"Tìm hiểu về định dạng tệp CHR CryENGINE Character và API có thể tạo và mở tệp CHR.",
-"linktitle":"CHR CryENGINE",
+   "linktitle":"CHR CryENGINE",
    "menu":{
       "docs":{
          "identifier":"3d-chr-cryengine",

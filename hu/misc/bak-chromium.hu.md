@@ -17,7 +17,7 @@
 "toc": true,
 "title": "BAK fájlformátum - Chromium Bookmarks Backup",
   "description":"További információ a BAK Chromium Bookmarks formátumról és az API-król, amelyek BAK-fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "BAK Chromium könyvjelzők",
+  "linktitle": "BAK Chromium Bookmarks",
   "menu": {
     "docs": {
       "identifier": "misc-bak-chromium",

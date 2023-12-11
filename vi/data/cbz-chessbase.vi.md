@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Tệp CBZ - Lưu trữ cơ sở dữ liệu ChessBase - Tệp .cbz là gì và làm cách nào để mở nó?",
   "description":"Tìm hiểu về định dạng và API lưu trữ cơ sở dữ liệu mã hóa CBZ ChessBase có thể tạo và mở tệp CBZ.",
-"linktitle":"CBZ",
+  "linktitle": "CBZ",
   "menu": {
     "docs": {
       "identifier": "data-cbz-chessbase",

@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Formát souboru DDT - datový soubor hry Football Manager",
   "description":"Další informace o formátu DDT a rozhraních API, která mohou vytvářet a otevírat soubory DDT.",
-"linktitle": "DDT",
+  "linktitle": "DDT",
   "menu": {
     "docs": {
       "identifier": "game-ddt",

@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Formát souboru META - soubor existujících metadat",
   "description":"Další informace o formátu META a rozhraních API, která mohou vytvářet a otevírat soubory META.",
-"linktitle": "META",
+  "linktitle": "META",
   "menu": {
     "docs": {
       "identifier": "game-meta",

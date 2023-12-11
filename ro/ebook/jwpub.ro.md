@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format fișier JWPUB – Publicația Martorilor lui Iehova",
   "description":"Aflați despre formatul JWPUB și despre API-urile care pot crea și deschide fișiere JWPUB.",
-"linktitle": "JWPUB",
+  "linktitle": "JWPUB",
   "menu": {
     "docs": {
       "identifier": "ebook-jwpub",

@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format pliku SET - Plik zestawu właściwości biblioteki dokumentów",
   "description":"Dowiedz się o formacie SET i interfejsach API, które umożliwiają tworzenie i otwieranie plików SET.",
-"tytuł łącza": "SET",
+  "linktitle": "SET",
   "menu": {
     "docs": {
       "identifier": "settings-set",

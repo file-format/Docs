@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Format pliku CFG - plik konfiguracyjny LightWave",
   "description":"Dowiedz się o formacie pliku konfiguracyjnego CFG LightWave i interfejsach API, które umożliwiają tworzenie i otwieranie plików CFG.",
-"linktitle": "CFG LightWave",
+  "linktitle": "CFG LightWave",
   "menu": {
     "docs": {
       "identifier": "settings-cfg-lightwave",

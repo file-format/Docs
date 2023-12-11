@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Định dạng tệp BAY - Hình ảnh RAW của Casio",
   "description":"Tìm hiểu về định dạng BAY và các API có thể tạo và mở tệp BAY.",
-"linktitle":"BAY",
+  "linktitle": "BAY",
   "menu": {
     "docs": {
       "identifier": "image-bay",

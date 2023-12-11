@@ -12,7 +12,7 @@
 "toc": true,
 "title": "Formaty tekstu, typy i często zadawane pytania",
   "description":"Dowiedz się o formatach tekstowych, typach formatów tekstowych, liście formatów tekstowych i często zadawanych pytaniach",
-"linktitle": "FORMATY TEKSTU",
+  "linktitle": "TEXT FORMATS",
   "menu": {
     "docs": {
       "identifier": "misc-text-formats",

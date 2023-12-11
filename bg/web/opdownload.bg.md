@@ -14,7 +14,7 @@
 "toc": true,
 "title": "OPDOWNLOAD файлов формат - Opera частично изтеглен файл",
   "description":"Научете за формата OPDOWNLOAD и API, които могат да създават и отварят OPDOWNLOAD файлове.",
-"linktitle": "OPDИЗТЕГЛЯНЕ",
+  "linktitle": "OPDOWNLOAD",
   "menu": {
     "docs": {
       "identifier": "web-opdownload",

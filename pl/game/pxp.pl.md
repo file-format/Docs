@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Format pliku PXP - plik PODBota Counter-Strike",
   "description":"Dowiedz się o formacie PXP i interfejsach API, które umożliwiają tworzenie i otwieranie plików PXP.",
-"tytuł łącza": "PXP",
+  "linktitle": "PXP",
   "menu": {
     "docs": {
       "identifier": "game-pxp",

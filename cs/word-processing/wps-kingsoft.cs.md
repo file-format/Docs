@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Formát souboru WPS - Kingsoft Writer Document",
   "description":"Další informace o formátu WPS Kingsoft a rozhraních API, která mohou vytvářet a otevírat soubory WPS.",
-"linktitle": "WPS Kingsoft",
+  "linktitle": "WPS Kingsoft",
   "menu": {
     "docs": {
       "identifier": "word-processing-wps-kingsoft",

@@ -17,7 +17,7 @@
 "toc": true,
 "title":"Plik INK - Notatnik Mimio - Co to jest plik .ink i jak go otworzyć?",
    "description":"Dowiedz się o formacie pliku INK Mimio Notebook i interfejsach API, które umożliwiają tworzenie i otwieranie plików INK.",
-"linktitle":"INK",
+   "linktitle":"INK",
    "menu":{
       "docs":{
          "identifier":"data-ink",

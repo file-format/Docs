@@ -15,7 +15,7 @@
 "toc":true,
 "title":"Formát souboru BIN - spustitelný soubor Unix",
    "description":"Další informace o formátu BIN a rozhraních API, která mohou vytvářet a otevírat soubory BIN.",
-"linktitle":"BIN",
+   "linktitle":"BIN",
    "menu":{
       "docs":{
          "identifier":"executable-bin",

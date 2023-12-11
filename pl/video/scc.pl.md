@@ -18,7 +18,7 @@
 "toc": true,
 "title": "Format pliku SCC - Nagrywanie ekranu ScreenFlow",
   "description":"Dowiedz się o formacie SCC i interfejsach API, które umożliwiają tworzenie i otwieranie plików SCC.",
-"tytuł łącza": "SCC",
+  "linktitle": "SCC",
   "menu": {
     "docs": {
       "identifier": "video-scc",

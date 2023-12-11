@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Formát souboru ANI - animovaný kurzor Windows",
   "description":"Další informace o formátu ANI a rozhraních API, která mohou vytvářet a otevírat soubory ANI.",
-"linktitle": "ANI",
+  "linktitle": "ANI",
   "menu": {
     "docs": {
       "identifier": "system-ani",

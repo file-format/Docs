@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Formát souboru PAN - soubor databáze Panorama",
   "description":"Další informace o formátu PAN a rozhraních API, která mohou vytvářet a otevírat soubory PAN.",
-"linktitle": "PAN",
+  "linktitle": "PAN",
   "menu": {
     "docs": {
       "identifier": "database-pan",

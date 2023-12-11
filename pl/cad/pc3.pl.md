@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Format pliku PC3 - plik konfiguracyjny plotera AutoCAD",
   "description":"Dowiedz się o formacie PC3 i interfejsach API, które umożliwiają tworzenie i otwieranie plików PC3.",
-"tytuł łącza": "PC3",
+  "linktitle": "PC3",
   "menu": {
     "docs": {
       "identifier": "cad-pc3",

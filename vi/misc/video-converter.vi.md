@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Trình chuyển đổi video là gì? Hướng dẫn cơ bản về trình chuyển đổi video",
   "description":"Tìm hiểu về Trình chuyển đổi video, Định dạng, Câu hỏi thường gặp và Công cụ tốt nhất",
-"linktitle":"BỘ CHUYỂN ĐỔI VIDEO",
+  "linktitle": "VIDEO CONVERTER",
   "menu": {
     "docs": {
       "identifier": "misc-video-converter",

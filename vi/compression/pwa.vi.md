@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Định dạng tệp PWA - Tệp tác nhân mật khẩu",
   "description":"Tìm hiểu về định dạng PWA và các API có thể tạo và mở tệp PWA.",
-"linktitle":"PWA",
+  "linktitle": "PWA",
   "menu": {
     "docs": {
       "identifier": "compression-pwa",

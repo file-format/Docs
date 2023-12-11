@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Định dạng tệp LITEMOD - Tệp mod Minecraft LiteLoader",
   "description":"Tìm hiểu về định dạng LITEMOD và các API có thể tạo và mở tệp LITEMOD.",
-"linktitle":"LITEMOD",
+  "linktitle": "LITEMOD",
   "menu": {
     "docs": {
       "identifier": "game-litemod",

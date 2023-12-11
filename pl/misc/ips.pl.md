@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Format pliku IPS - dane analityczne iOS",
   "description":"Dowiedz się o formacie IPS i interfejsach API, które umożliwiają tworzenie i otwieranie plików IPS.",
-"tytuł łącza": "IPS",
+  "linktitle": "IPS",
   "menu": {
     "docs": {
       "identifier": "misc-ips",

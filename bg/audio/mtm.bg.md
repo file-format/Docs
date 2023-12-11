@@ -15,7 +15,7 @@
 "toc": true,
 "title": "MTM файлов формат - MultiTracker модул",
   "description":"Научете повече за MTM файловия формат и API, които могат да създават и отварят MTM файлове.",
-"linktitle": "MTM",
+  "linktitle": "MTM",
   "menu": {
     "docs": {
       "identifier": "audio-mtm",

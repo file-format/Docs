@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Format de fișier REG - fișierul de registru Windows",
   "description":"Aflați despre formatul REG și despre API-urile care pot crea și deschide fișiere REG.",
-"linktitle": "REG",
+  "linktitle": "REG",
   "menu": {
     "docs": {
       "identifier": "system-reg",

@@ -8,10 +8,10 @@
   "draft" : "false",
   "toc" : true,
   "title" :"RS - Tệp lập trình Rust",
-  "description":"Tìm hiểu về định dạng tệp RS và API có thể tạo và mở tệp RS.",
+  "linktitle" : "RS",
   "linktitle" : "RS",
   "menu" : {
-    "docs" : {
+      "parent" : "programming"
       "parent" : "programming"
 }
 },

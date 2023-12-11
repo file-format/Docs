@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Formát souboru CFG - konfigurační soubor modelu Cal3D",
   "description":"Další informace o formátu konfiguračního souboru modelu CFG Cal3D a rozhraní API, která mohou vytvářet a otevírat soubory CFG.",
-"linktitle": "CFG Cal3D",
+  "linktitle": "CFG Cal3D",
   "menu": {
     "docs": {
       "identifier": "misc-cfg-cal3d",

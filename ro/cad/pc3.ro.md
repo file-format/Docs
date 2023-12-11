@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Format fișier PC3 - Fișier de configurare a plotterului AutoCAD",
   "description":"Aflați despre formatul PC3 și despre API-urile care pot crea și deschide fișiere PC3.",
-"linktitle": "PC3",
+  "linktitle": "PC3",
   "menu": {
     "docs": {
       "identifier": "cad-pc3",

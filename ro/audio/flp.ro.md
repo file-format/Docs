@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format fișier FLP - fișier proiect FL Studio",
   "description":"Aflați despre formatul de fișier FLP și despre API-urile care pot crea și deschide fișiere FLP.",
-"linktitle": "FLP",
+  "linktitle": "FLP",
   "menu": {
     "docs": {
       "identifier": "audio-flp",

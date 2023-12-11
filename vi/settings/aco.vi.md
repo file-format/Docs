@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Định dạng tệp ACO - Tệp mẫu màu Adobe Photoshop",
   "description":"Tìm hiểu về định dạng ACO và các API có thể tạo và mở tệp ACO.",
-"linktitle":"ACO",
+  "linktitle": "ACO",
   "menu": {
     "docs": {
       "identifier": "settings-aco",

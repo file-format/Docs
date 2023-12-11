@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format de fișier TTR - Reluare TETR.IO",
   "description":"Aflați despre formatul TTR și despre API-urile care pot crea și deschide fișiere TTR.",
-"linktitle": "TTR",
+  "linktitle": "TTR",
   "menu": {
     "docs": {
       "identifier": "game-ttr",

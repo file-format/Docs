@@ -15,7 +15,7 @@
 "toc":true,
 "title":"PAR fájlformátum - FMS repülőgép-paraméterek fájl",
    "description":"További információ a PAR-formátumról és az API-król, amelyek PAR-fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle":"PAR",
+   "linktitle":"PAR",
    "menu":{
       "docs":{
          "identifier":"game-par",

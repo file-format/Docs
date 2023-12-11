@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Format pliku OSS - plik wyszukiwania zapisanego w programie Microsoft Outlook",
   "description":"Dowiedz się o formacie OSS i interfejsach API, które umożliwiają tworzenie i otwieranie plików OSS.",
-"tytuł łącza": "OSS",
+  "linktitle": "OSS",
   "menu": {
     "docs": {
       "identifier": "settings-oss",

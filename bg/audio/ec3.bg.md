@@ -15,7 +15,7 @@
 "toc": true,
 "title": "EC3 файлов формат - подобрен аудио кодек 3 файл",
   "description":"Научете за файловия формат EC3 и API, които могат да създават и отварят EC3 файлове.",
-"linktitle": "EC3",
+  "linktitle": "EC3",
   "menu": {
     "docs": {
       "identifier": "audio-ec3",

@@ -18,7 +18,7 @@
 "toc": true,
 "title": "SCC файлов формат - ScreenFlow екранен запис",
   "description":"Научете за SCC формата и API, които могат да създават и отварят SCC файлове.",
-"linktitle": "SCC",
+  "linktitle": "SCC",
   "menu": {
     "docs": {
       "identifier": "video-scc",

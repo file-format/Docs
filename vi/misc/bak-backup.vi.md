@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Định dạng tệp BAK - Tệp sao lưu",
   "description":"Tìm hiểu về định dạng BAK Backup và các API có thể tạo và mở tệp BAK.",
-"linktitle":"Sao lưu BAK",
+  "linktitle": "BAK Backup",
   "menu": {
     "docs": {
       "identifier": "misc-bak-backup",

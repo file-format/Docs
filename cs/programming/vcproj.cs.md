@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Formát souboru VCPROJ - soubor projektu Visual C++",
   "description":"Další informace o formátu VCPROJ a rozhraních API, která mohou vytvářet a otevírat soubory VCPROJ.",
-"linktitle": "VCPROJ",
+  "linktitle": "VCPROJ",
   "menu": {
     "docs": {
       "identifier": "programming-vcproj",

@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Formát souboru CDR - nezpracovaná zvuková data CD",
    "description":"Další informace o formátu souborů CDR Raw CD Audio Data a rozhraních API, která mohou vytvářet a otevírat soubory CDR.",
-"linktitle":"CDR",
+   "linktitle":"CDR",
    "menu":{
       "docs":{
          "identifier":"audio-cdr",

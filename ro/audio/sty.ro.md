@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format fișier STY - stilul tastaturii Yamaha sau Korg",
   "description":"Aflați despre formatul STY și despre API-urile care pot crea și deschide fișiere STY.",
-"linktitle": "STY",
+  "linktitle": "STY",
   "menu": {
     "docs": {
       "identifier": "audio-sty",

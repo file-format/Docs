@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Định dạng tệp MPEG - Video MPEG",
   "description":"Tìm hiểu về định dạng MPEG và các API có thể tạo và mở tệp MPEG.",
-"linktitle":"MPEG",
+  "linktitle": "MPEG",
   "menu": {
     "docs": {
       "identifier": "video-mpeg",

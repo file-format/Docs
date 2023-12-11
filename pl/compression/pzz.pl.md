@@ -7,7 +7,7 @@
 "toc": true,
 "title": "Plik PZZ - Co to jest plik .pzz i jak go otworzyć?",
   "description":"Dowiedz się o formacie PZZ i interfejsach API, które umożliwiają tworzenie i otwieranie plików PZZ.",
-"tytuł linku": "PZZ",
+  "linktitle": "PZZ",
   "menu": {
     "docs": {
       "identifier": "compression-pzz",

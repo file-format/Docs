@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Formát souboru FLP - soubor projektu FL Studio",
   "description":"Další informace o formátu souborů FLP a rozhraních API, která mohou vytvářet a otevírat soubory FLP.",
-"linktitle": "FLP",
+  "linktitle": "FLP",
   "menu": {
     "docs": {
       "identifier": "audio-flp",

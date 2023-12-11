@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Formát souboru TXD - slovník textur hry",
   "description":"Další informace o formátu TXD a rozhraních API, která mohou vytvářet a otevírat soubory TXD.",
-"linktitle": "TXD",
+  "linktitle": "TXD",
   "menu": {
     "docs": {
       "identifier": "game-txd",

@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Định dạng tệp CAF - Tệp hoạt hình nhân vật CryENGINE",
    "description":"Tìm hiểu về định dạng Tệp hoạt hình nhân vật CAF CryENGINE và các API có thể tạo và mở tệp CAF.",
-"linktitle":"CAF CryENGINE",
+   "linktitle":"CAF CryENGINE",
    "menu":{
       "docs":{
          "identifier":"programming-caf-cryengine",

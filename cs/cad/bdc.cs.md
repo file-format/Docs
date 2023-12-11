@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Formát souboru BDC - soubor návrhu West Point Bridge Designer",
   "description":"Další informace o formátu souborů BDC a rozhraních API, která mohou vytvářet a otevírat soubory BDC.",
-"linktitle": "BDC",
+  "linktitle": "BDC",
   "menu": {
     "docs": {
       "identifier": "cad-bdc",

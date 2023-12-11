@@ -17,7 +17,7 @@
 "toc": true,
 "title": "HPP fájlformátum - C++ fejlécfájl",
   "description":"További információ a HPP-formátumról és az API-król, amelyek HPP-fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "HPP",
+  "linktitle": "HPP",
   "menu": {
     "docs": {
       "identifier": "programming-hpp",

@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Format fișier FPT - Fișier cu notă de bază de date FileMaker Pro",
   "description":"Aflați despre formatul FPT și despre API-urile care pot crea și deschide fișiere FPT.",
-"linktitle": "FPT",
+  "linktitle": "FPT",
   "menu": {
     "docs": {
       "identifier": "database-fpt",

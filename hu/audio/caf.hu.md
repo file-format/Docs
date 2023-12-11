@@ -17,7 +17,7 @@
 "toc":true,
 "title":"CAF-fájlformátum - központi hangfájl",
    "description":"További információ a CAF-formátumról és az API-król, amelyek CAF-fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle":"CAF",
+   "linktitle":"CAF",
    "menu":{
       "docs":{
          "identifier":"audio-caf",

@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Định dạng tệp BMS - Tập lệnh QuickBMS",
   "description":"Tìm hiểu về định dạng BMS và các API có thể tạo và mở tệp BMS.",
-"linktitle":"BMS",
+  "linktitle": "BMS",
   "menu": {
     "docs": {
       "identifier": "executable-bms",

@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Fájlformátum LETÖLTÉSE - Pando hiányos letöltési fájl",
   "description":"További információ a DOWNLOADING formátumról és az API-król, amelyek DOWNLOADING fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "LETÖLTÉS",
+  "linktitle": "DOWNLOADING",
   "menu": {
     "docs": {
       "identifier": "misc-downloading",

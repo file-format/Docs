@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Format fișier JET - Setări Jackbox Party Pack",
   "description":"Aflați despre formatul JET și despre API-urile care pot crea și deschide fișiere JET.",
-"linktitle": "JET",
+  "linktitle": "JET",
   "menu": {
     "docs": {
       "identifier": "settings-jet",

@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Format pliku NSP - Pakiet zgłoszeniowy Nintendo",
   "description":"Dowiedz się o formacie NSP i interfejsach API, które umożliwiają tworzenie i otwieranie plików NSP.",
-"tytuł łącza": "NSP",
+  "linktitle": "NSP",
   "menu": {
     "docs": {
       "identifier": "game-nsp",

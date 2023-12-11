@@ -15,7 +15,7 @@
 "toc":true,
 "title":"Format fișier BIN - fișier executabil Unix",
    "description":"Aflați despre formatul BIN și despre API-urile care pot crea și deschide fișiere BIN.",
-"linktitle":"BIN",
+   "linktitle":"BIN",
    "menu":{
       "docs":{
          "identifier":"executable-bin",

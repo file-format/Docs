@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format de fișier LANG - Fișier de localizare a limbii Minecraft",
   "description":"Aflați despre formatul LANG și despre API-urile care pot crea și deschide fișiere LANG.",
-"linktitle": "LANG",
+  "linktitle": "LANG",
   "menu": {
     "docs": {
       "identifier": "game-lang",

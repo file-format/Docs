@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Định dạng tệp NES - Tệp ROM hệ thống giải trí Nintendo",
   "description":"Tìm hiểu về định dạng NES và các API có thể tạo và mở tệp NES.",
-"linktitle":"NES",
+  "linktitle": "NES",
   "menu": {
     "docs": {
       "identifier": "game-nes",

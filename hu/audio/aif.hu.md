@@ -18,7 +18,7 @@
 "toc": true,
 "title": "AIF fájlformátum – hangcsere fájlformátum",
   "description":"További információ az AIF-formátumról és az API-król, amelyek AIF-fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "AIF",
+  "linktitle": "AIF",
   "menu": {
     "docs": {
       "identifier": "audio-aif",

@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Định dạng tệp CFG - Tệp cấu hình MUGEN",
   "description":"Tìm hiểu về định dạng tệp cấu hình CFG MUGEN và các API có thể tạo và mở tệp CFG.",
-"linktitle":"CFG MUGEN",
+  "linktitle": "CFG M.U.G.E.N",
   "menu": {
     "docs": {
       "identifier": "game-cfg-mugen",

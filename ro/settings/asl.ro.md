@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Format fișier ASL - Stil strat Photoshop",
   "description":"Aflați despre formatul ASL și despre API-urile care pot crea și deschide fișiere ASL.",
-"linktitle": "ASL",
+  "linktitle": "ASL",
   "menu": {
     "docs": {
       "identifier": "settings-asl",

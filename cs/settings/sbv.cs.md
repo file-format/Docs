@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Formát souboru SBV – soubor titulků YouTube",
   "description":"Další informace o formátu SBV a rozhraních API, která mohou vytvářet a otevírat soubory SBV.",
-"linktitle": "SBV",
+  "linktitle": "SBV",
   "menu": {
     "docs": {
       "identifier": "settings-sbv",

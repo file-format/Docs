@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Fișier ZOO - Ce este un fișier .zoo și cum se deschide?",
    "description":"Aflați despre formatul de fișier ZOO Compressed și despre API-urile care pot crea și deschide fișiere ZOO.",
-"linktitle":"ZOO",
+   "linktitle":"ZOO",
    "menu":{
       "docs":{
          "identifier":"compression-zoo",

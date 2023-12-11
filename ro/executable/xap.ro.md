@@ -15,7 +15,7 @@
 "toc": true,
   "description":"Aflați despre formatul de fișier XAP și despre API-urile care pot crea și deschide fișiere XAP.",
 "title": "Format fișier XAP - Pachetul aplicației Silverlight",
-"linktitle": "XAP",
+  "linktitle": "XAP",
   "menu": {
     "docs": {
       "identifier": "executable-xap",

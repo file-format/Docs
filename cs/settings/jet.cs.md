@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Formát souboru JET - Nastavení Jackbox Party Pack",
   "description":"Další informace o formátu JET a rozhraních API, která mohou vytvářet a otevírat soubory JET.",
-"linktitle": "JET",
+  "linktitle": "JET",
   "menu": {
     "docs": {
       "identifier": "settings-jet",

@@ -17,7 +17,7 @@
 "toc": true,
 "title": "BAK fájlformátum - MobileTrans biztonsági mentés",
   "description":"További információ a BAK MobileTrans formátumról és az API-król, amelyek BAK-fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "BAK MobileTrans",
+  "linktitle": "BAK MobileTrans",
   "menu": {
     "docs": {
       "identifier": "misc-bak-mobiletrans",

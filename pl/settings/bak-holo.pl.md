@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Format pliku BAK - Kopia zapasowa Holo Launchera",
   "description":"Dowiedz się o formacie kopii zapasowej BAK Holo Launcher i interfejsach API, które umożliwiają tworzenie i otwieranie plików BAK.",
-"linktitle": "BAK HOLO",
+  "linktitle": "BAK HOLO",
   "menu": {
     "docs": {
       "identifier": "settings-bak-holo",

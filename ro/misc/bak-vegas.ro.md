@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Format fișier BAK - Backup proiect video VEGAS",
   "description":"Aflați despre formatul BAK VEGAS Video Project Backup și despre API-urile care pot crea și deschide fișiere BAK.",
-"linktitle": "Videoclipul BAK VEGAS",
+  "linktitle": "BAK VEGAS Video",
   "menu": {
     "docs": {
       "identifier": "misc-bak-vegas",

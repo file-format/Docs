@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Định dạng tệp CPI - Tệp thông tin trang mã",
    "description":"Tìm hiểu về định dạng tệp Thông tin trang mã CPI và các API có thể tạo và mở tệp CPI.",
-"linktitle":"CPI",
+   "linktitle":"CPI",
    "menu":{
       "docs":{
          "identifier":"system-cpi",

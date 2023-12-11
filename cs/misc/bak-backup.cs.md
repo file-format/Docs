@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Formát souboru BAK - záložní soubor",
   "description":"Další informace o formátu zálohování BAK a rozhraních API, která mohou vytvářet a otevírat soubory BAK.",
-"linktitle": "Záloha BAK",
+  "linktitle": "BAK Backup",
   "menu": {
     "docs": {
       "identifier": "misc-bak-backup",

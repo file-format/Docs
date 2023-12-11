@@ -17,7 +17,7 @@
 "toc": true,
 "title": "CFG файлов формат - Wesnoth Markup Language File",
   "description":"Научете за файловия формат на CFG Wesnoth Markup Language и API, които могат да създават и отварят CFG файлове.",
-"linktitle": "CFG Wesnoth",
+  "linktitle": "CFG Wesnoth",
   "menu": {
     "docs": {
       "identifier": "game-cfg-wesnoth",

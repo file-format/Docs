@@ -17,7 +17,7 @@
 "toc": true,
 "title":"Plik XCI - Co to jest plik .xci i jak go otworzyć?",
    "description":"Dowiedz się o formacie pliku obrazu karty XCI NX i interfejsach API, które umożliwiają tworzenie i otwieranie plików XCI.",
-"linktitle":"XCI",
+   "linktitle":"XCI",
    "menu":{
       "docs":{
          "identifier":"game-xci",

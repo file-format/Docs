@@ -17,7 +17,7 @@
 "toc":true,
 "title":"CHR fájlformátum - 3ds Max karakteres fájl",
    "description":"További információ a CHR 3ds Max Characters fájlformátumról és a CHR-fájlok létrehozására és megnyitására alkalmas API-król.",
-"linktitle":"CHR 3ds",
+   "linktitle":"CHR 3ds",
    "menu":{
       "docs":{
          "identifier":"3d-chr-3ds",

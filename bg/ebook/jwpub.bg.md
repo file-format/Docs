@@ -15,7 +15,7 @@
 "toc": true,
 "title": "JWPUB файлов формат - публикация на Свидетелите на Йехова",
   "description":"Научете за JWPUB формата и API, които могат да създават и отварят JWPUB файлове.",
-"linktitle": "JWPUB",
+  "linktitle": "JWPUB",
   "menu": {
     "docs": {
       "identifier": "ebook-jwpub",

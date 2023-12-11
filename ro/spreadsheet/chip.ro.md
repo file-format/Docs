@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format fișier CHIP - Fișier de adnotare microarray",
   "description":"Aflați despre formatul de fișier CHIP și despre API-urile care pot crea și deschide fișiere CHIP.",
-"linktitle": "CHIP",
+  "linktitle": "CHIP",
   "menu": {
     "docs": {
       "identifier": "spreadsheet-chip",

@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Conf File Format - Unix Configuration File",
   "description":"Aflați despre formatul CONF și despre API-urile care pot crea și deschide fișiere CONF.",
-"linktitle": "CONF",
+  "linktitle": "CONF",
   "menu": {
     "docs": {
       "identifier": "settings-conf",

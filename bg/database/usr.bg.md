@@ -16,7 +16,7 @@
 "toc": true,
 "title": "USR файлов формат - FileMaker Pro файл с база данни",
   "description":"Научете за USR формата и API, които могат да създават и отварят USR файлове.",
-"linktitle": "USR",
+  "linktitle": "USR",
   "menu": {
     "docs": {
       "identifier": "database-usr",

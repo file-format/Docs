@@ -17,7 +17,7 @@
 "toc":true,
 "title":"DVD fájl formátum - DOS eszközillesztő",
    "description":"Tudjon meg többet a DVD MS-DOS Device Driver fájlformátumáról és a DVD-fájlok létrehozására és megnyitására alkalmas API-król.",
-"linktitle":"DVD",
+   "linktitle":"DVD",
    "menu":{
       "docs":{
          "identifier":"system-dvd-dos",

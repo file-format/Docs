@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Định dạng tệp DSD - Tệp mô tả bộ bản vẽ AutoCAD",
   "description":"Tìm hiểu về định dạng DSD và các API có thể tạo và mở tệp DSD.",
-"linktitle":"DSD",
+  "linktitle": "DSD",
   "menu": {
     "docs": {
       "identifier": "settings-dsd",

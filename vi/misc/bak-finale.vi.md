@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Định dạng tệp BAK - Sao lưu điểm chung kết 2012",
   "description":"Tìm hiểu về định dạng BAK Finale và các API có thể tạo và mở tệp BAK.",
-"linktitle":"Phần cuối BAK",
+  "linktitle": "BAK Finale",
   "menu": {
     "docs": {
       "identifier": "misc-bak-finale",

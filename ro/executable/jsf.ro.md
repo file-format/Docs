@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Format fișier JSF - fișier de comandă Java Script",
   "description":"Aflați despre formatul JSF și despre API-urile care pot crea și deschide fișiere JSF.",
-"linktitle": "JSF",
+  "linktitle": "JSF",
   "menu": {
     "docs": {
       "identifier": "executable-jsf",

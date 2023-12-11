@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format pliku LANG - plik lokalizacji języka Minecraft",
   "description":"Dowiedz się o formacie LANG i interfejsach API, które umożliwiają tworzenie i otwieranie plików LANG.",
-"tytuł łącza": "JĘZYK",
+  "linktitle": "LANG",
   "menu": {
     "docs": {
       "identifier": "game-lang",

@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Format pliku LDB - plik blokady programu Microsoft Access",
   "description":"Dowiedz się o formacie LDB i jakie informacje zawiera.",
-"tytuł łącza": "LDB",
+  "linktitle": "LDB",
   "menu": {
     "docs": {
       "identifier": "misc-ldb",

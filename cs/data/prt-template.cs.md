@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Soubor PRT - Šablona prezentací - Co je soubor .prt a jak jej mohu otevřít?",
    "description":"Další informace o formátu souboru šablony prezentací PRT a rozhraních API, která mohou vytvářet a otevírat soubory PRT.",
-"linktitle":"PRT",
+   "linktitle":"PRT",
    "menu":{
       "docs":{
          "identifier":"data-prt-template",

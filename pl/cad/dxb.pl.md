@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Format pliku DXB - plik binarny wymiany rysunków",
   "description":"Dowiedz się o formacie DXB i interfejsach API, które umożliwiają tworzenie i otwieranie plików DXB.",
-"tytuł łącza": "DXB",
+  "linktitle": "DXB",
   "menu": {
     "docs": {
       "identifier": "cad-dxb",

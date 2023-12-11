@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format pliku AFS - plik projektu STAAD.foundation",
   "description":"Dowiedz się o formacie pliku AFS i interfejsach API, które umożliwiają tworzenie i otwieranie plików AFS.",
-"tytuł łącza": "AFS",
+  "linktitle": "AFS",
   "menu": {
     "docs": {
       "identifier": "cad-afs",

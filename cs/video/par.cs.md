@@ -15,7 +15,7 @@
 "toc":true,
 "title":"Formát souboru PAR - Dedicated Micros DVR Recording",
    "description":"Další informace o formátu PAR a rozhraních API, která mohou vytvářet a otevírat soubory PAR.",
-"linktitle":"PAR",
+   "linktitle":"PAR",
    "menu":{
       "docs":{
          "identifier":"video-par",

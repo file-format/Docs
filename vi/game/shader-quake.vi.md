@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Định dạng tệp SHADER - Tệp đổ bóng động cơ Quake 3",
    "description":"Tìm hiểu về định dạng tệp SHADER Quake 3 Engine Shader và các API có thể tạo và mở tệp SHADER.",
-"linktitle":"SHADER Quake",
+   "linktitle":"SHADER Quake",
    "menu":{
       "docs":{
          "identifier":"game-shader-quake",

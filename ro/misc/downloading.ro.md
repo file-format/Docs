@@ -15,7 +15,7 @@
 "toc": true,
 "title": "FORMAT DE FIȘIER ÎN DESCARCARE - Fișier de descărcare incomplet Pando",
   "description":"Aflați despre formatul DOWNLOADING și despre API-urile care pot crea și deschide fișiere DOWNLOADING.",
-"linktitle": "SE DESCARCARE",
+  "linktitle": "DOWNLOADING",
   "menu": {
     "docs": {
       "identifier": "misc-downloading",

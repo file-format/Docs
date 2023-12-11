@@ -15,7 +15,7 @@
 "toc": true,
 "title": "TTR fájlformátum - TETR.IO visszajátszás",
   "description":"További információ a TTR formátumról és az API-król, amelyek TTR fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "TTR",
+  "linktitle": "TTR",
   "menu": {
     "docs": {
       "identifier": "game-ttr",

@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Format fișier IPSW - fișier de actualizare software iPhone",
   "description":"Aflați despre formatul IPSW și despre API-urile care pot crea și deschide fișiere IPSW.",
-"linktitle": "IPSW",
+  "linktitle": "IPSW",
   "menu": {
     "docs": {
       "identifier": "misc-ipsw",

@@ -17,7 +17,7 @@
 "toc": true,
 "title": "МЕТА файлов формат - съществуващ файл с метаданни",
   "description":"Научете за META формат и API, които могат да създават и отварят META файлове.",
-"linktitle": "МЕТА",
+  "linktitle": "META",
   "menu": {
     "docs": {
       "identifier": "game-meta",

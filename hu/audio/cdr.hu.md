@@ -17,7 +17,7 @@
 "toc":true,
 "title":"CDR fájl formátum - nyers CD audio adatok",
    "description":"További információ a CDR Raw CD Audio Data fájlformátumról és az API-król, amelyek CDR-fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle":"CDR",
+   "linktitle":"CDR",
    "menu":{
       "docs":{
          "identifier":"audio-cdr",

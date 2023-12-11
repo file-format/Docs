@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Định dạng tệp CRYPT12 - Tệp cơ sở dữ liệu được mã hóa WhatsApp",
   "description":"Tìm hiểu về định dạng CRYPT12 và các API có thể tạo và mở tệp CRYPT12.",
-"linktitle":"CRYPT12",
+  "linktitle": "CRYPT12",
   "menu": {
     "docs": {
       "identifier": "database-crypt12",

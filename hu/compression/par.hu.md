@@ -16,7 +16,7 @@
 "toc":true,
 "title":"PAR Fájlformátum - Parchive Index File",
    "description":"További információ a PAR formátumról és az API-król, amelyek PAR fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle":"PAR",
+   "linktitle":"PAR",
    "menu":{
       "docs":{
          "identifier":"compression-par",

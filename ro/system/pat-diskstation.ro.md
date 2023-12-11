@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Format fișier PAT - Fișier de instalare DiskStation Manager",
    "description":"Aflați despre formatul fișierului de instalare PAT DiskStation Manager și despre API-urile care pot crea și deschide fișiere PAT.",
-"linktitle":"PAT",
+   "linktitle":"PAT",
    "menu":{
       "docs":{
          "identifier":"system-pat-diskstation",

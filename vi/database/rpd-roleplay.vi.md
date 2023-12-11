@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Định dạng tệp RPD - Tệp dữ liệu thiết kế nhập vai",
   "description":"Tìm hiểu về định dạng Tệp dữ liệu RPD Roleplay Designer và các API có thể tạo và mở tệp RPD.",
-"linktitle":"Nhập vai RPD",
+  "linktitle": "RPD Roleplay",
   "menu": {
     "docs": {
       "identifier": "database-rpd-roleplay",

@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Formát souboru CBA - Archiv komiksů",
   "description":"Další informace o formátu CBA a rozhraních API, která mohou vytvářet a otevírat soubory CBA.",
-"linktitle": "CBA",
+  "linktitle": "CBA",
   "menu": {
     "docs": {
       "identifier": "compression-cba",

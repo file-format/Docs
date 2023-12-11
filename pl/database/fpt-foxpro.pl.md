@@ -18,7 +18,7 @@
 "toc": true,
 "title": "Format pliku FPT - notatka stołowa FoxPro",
   "description":"Dowiedz się o formacie FPT FoxPro i interfejsach API, które umożliwiają tworzenie i otwieranie plików FPT.",
-"linktitle": "FPT FoxPro",
+  "linktitle": "FPT FoxPro",
   "menu": {
     "docs": {
       "identifier": "database-fpt-foxpro",

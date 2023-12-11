@@ -14,7 +14,7 @@
 "toc": true,
 "title": "IPSW fájlformátum - iPhone szoftverfrissítési fájl",
   "description":"További információ az IPSW-formátumról és az API-król, amelyek IPSW-fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "IPSW",
+  "linktitle": "IPSW",
   "menu": {
     "docs": {
       "identifier": "misc-ipsw",

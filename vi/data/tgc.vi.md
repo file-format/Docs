@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Tệp TGC - Clip Terragen Node - Tệp .tgc là gì và làm cách nào để mở nó?",
    "description":"Tìm hiểu về định dạng tệp TGC Terragen Node Clip và các API có thể tạo và mở tệp MỰC.",
-"linktitle":"TGC",
+   "linktitle":"TGC",
    "menu":{
       "docs":{
          "identifier":"data-tgc",

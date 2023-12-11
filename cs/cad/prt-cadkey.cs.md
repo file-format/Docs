@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Formát souboru PRT - soubor součásti CADKEY",
    "description":"Další informace o formátu souboru PRT CADKEY Part a rozhraních API, která mohou vytvářet a otevírat soubory PRT.",
-"linktitle":"PRT CADKEY",
+   "linktitle":"PRT CADKEY",
    "menu":{
       "docs":{
          "identifier":"cad-prt-cadkey",

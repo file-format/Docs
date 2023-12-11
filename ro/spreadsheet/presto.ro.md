@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format fișier PRESTO - Foaia de calcul Presto Project",
   "description":"Aflați despre formatul PRESTO și despre API-urile care pot crea și deschide fișiere PRESTO.",
-"linktitle": "PRESTO",
+  "linktitle": "PRESTO",
   "menu": {
     "docs": {
       "identifier": "spreadsheet-presto",

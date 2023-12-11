@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Định dạng tệp SQX - Lưu trữ SQX",
   "description":"Tìm hiểu về định dạng SQX và các API có thể tạo và mở tệp SQX.",
-"linktitle":"SQX",
+  "linktitle": "SQX",
   "menu": {
     "docs": {
       "identifier": "compression-sqx",

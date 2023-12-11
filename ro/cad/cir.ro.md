@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format fișier CIR - Fișier schematic Micro-Cap",
   "description":"Aflați despre formatul de fișier CIR și despre API-urile care pot crea și deschide fișiere CIR.",
-"linktitle": "CIR",
+  "linktitle": "CIR",
   "menu": {
     "docs": {
       "identifier": "cad-cir",

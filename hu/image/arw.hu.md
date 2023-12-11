@@ -17,7 +17,7 @@
 "toc": true,
 "title": "ARW fájlformátum - Sony Alpha Raw digitális fényképezőgép képe",
   "description":"További információ az ARW-formátumról és az ARW-fájlok létrehozására és megnyitására alkalmas API-król.",
-"linktitle": "ARW",
+  "linktitle": "ARW",
   "menu": {
     "docs": {
       "identifier": "image-arw",

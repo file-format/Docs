@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Formát souboru MSCZ - soubor komprimovaného skóre MuseScore",
   "description":"Další informace o formátu MSCZ a rozhraních API, která mohou vytvářet a otevírat soubory MSCZ.",
-"linktitle": "MSCZ",
+  "linktitle": "MSCZ",
   "menu": {
     "docs": {
       "identifier": "audio-mscz",

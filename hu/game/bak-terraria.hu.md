@@ -17,7 +17,7 @@
 "toc": true,
 "title": "BAK fájlformátum - Terraria World vagy Player Backup",
   "description":"További információ a BAK Terraria Game formátumról és az API-król, amelyek BAK-fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "BAK TERRARIA",
+  "linktitle": "BAK TERRARIA",
   "menu": {
     "docs": {
       "identifier": "game-bak-terraria",

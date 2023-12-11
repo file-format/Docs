@@ -15,7 +15,7 @@
 "toc": true,
 "title": "SET файлов формат - файл с набор от свойства на библиотеката с документи",
   "description":"Научете за SET формата и API, които могат да създават и отварят SET файлове.",
-"linktitle": "SET",
+  "linktitle": "SET",
   "menu": {
     "docs": {
       "identifier": "settings-set",

@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Format de fișier MANIFEST - fișierul manifest al aplicației Windows",
   "description":"Aflați despre formatul MANIFEST și despre API-urile care pot crea și deschide fișiere MANIFEST.",
-"linktitle": "MANIFEST",
+  "linktitle": "MANIFEST",
   "menu": {
     "docs": {
       "identifier": "system-manifest",

@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format fișier WPROJ - fișier proiect Wwise",
   "description":"Aflați despre formatul de fișier WPROJ și despre API-urile care pot crea și deschide fișiere WPROJ.",
-"linktitle": "WPROJ",
+  "linktitle": "WPROJ",
   "menu": {
     "docs": {
       "identifier": "audio-wproj",

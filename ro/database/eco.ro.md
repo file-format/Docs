@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Format fișier ECO - Fișier bază de date ECCO",
   "description":"Aflați despre formatul ECO și despre API-urile care pot crea și deschide fișiere ECO.",
-"linktitle": "ECO",
+  "linktitle": "ECO",
   "menu": {
     "docs": {
       "identifier": "database-eco",

@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format de fișier PMP - Fișierul de parametri ai modelului de diagramă AutoCAD",
   "description":"Aflați despre formatul PMP și despre API-urile care pot crea și deschide fișiere PMP.",
-"linktitle": "PMP",
+  "linktitle": "PMP",
   "menu": {
     "docs": {
       "identifier": "settings-pmp",

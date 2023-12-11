@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Định dạng tệp EFS - Tệp Ensoniq SQ-80",
   "description":"Tìm hiểu về định dạng tệp EFS và các API có thể tạo và mở tệp EFS.",
-"linktitle":"EFS",
+  "linktitle": "EFS",
   "menu": {
     "docs": {
       "identifier": "audio-efs",

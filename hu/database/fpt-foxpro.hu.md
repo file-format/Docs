@@ -18,7 +18,7 @@
 "toc": true,
 "title": "FPT fájlformátum - FoxPro táblázatos feljegyzés",
   "description":"További információ az FPT FoxPro formátumról és az FPT-fájlok létrehozására és megnyitására alkalmas API-król.",
-"linktitle": "FPT FoxPro",
+  "linktitle": "FPT FoxPro",
   "menu": {
     "docs": {
       "identifier": "database-fpt-foxpro",

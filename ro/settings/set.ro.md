@@ -15,7 +15,7 @@
 "toc": true,
 "title": "SET File Format - Document Library Property Set File",
   "description":"Aflați despre formatul SET și despre API-urile care pot crea și deschide fișiere SET.",
-"linktitle": "SET",
+  "linktitle": "SET",
   "menu": {
     "docs": {
       "identifier": "settings-set",

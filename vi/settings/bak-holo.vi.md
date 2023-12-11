@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Định dạng tệp BAK - Sao lưu Holo Launcher",
   "description":"Tìm hiểu về định dạng và API sao lưu BAK Holo Launcher có thể tạo và mở tệp BAK.",
-"linktitle":"BAK HOLO",
+  "linktitle": "BAK HOLO",
   "menu": {
     "docs": {
       "identifier": "settings-bak-holo",

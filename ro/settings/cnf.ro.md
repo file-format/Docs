@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format fișier CNF - Fișier de configurare MySQL",
   "description":"Aflați despre formatul CNF și despre API-urile care pot crea și deschide fișiere CNF.",
-"linktitle": "CNF",
+  "linktitle": "CNF",
   "menu": {
     "docs": {
       "identifier": "settings-cnf",

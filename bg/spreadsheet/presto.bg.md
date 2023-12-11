@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Файлов формат PRESTO - електронна таблица на проект Presto",
   "description":"Научете за формата PRESTO и API, които могат да създават и отварят файлове PRESTO.",
-"linktitle": "ПРЕСТО",
+  "linktitle": "PRESTO",
   "menu": {
     "docs": {
       "identifier": "spreadsheet-presto",

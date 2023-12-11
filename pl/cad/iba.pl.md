@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Format pliku IBA - plik elementów projektowych odzieży Lectra",
   "description":"Dowiedz się o formacie pliku IBA i interfejsach API, które umożliwiają tworzenie i otwieranie plików IBA.",
-"linktitle": "IBA",
+  "linktitle": "IBA",
   "menu": {
     "docs": {
       "identifier": "cad-iba",

@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Formát souboru UPS - soubor oprav UPS",
    "description":"Další informace o formátu UPS Patch File a API, která mohou vytvářet a otevírat soubory UPS.",
-"linktitle":"UPS",
+   "linktitle":"UPS",
    "menu":{
       "docs":{
          "identifier":"game-ups",

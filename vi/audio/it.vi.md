@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Định dạng tệp CNTT - Mô-đun theo dõi xung",
   "description":"Tìm hiểu về định dạng CNTT và API có thể tạo và mở tệp CNTT.",
-"linktitle":"NÓ",
+  "linktitle": "IT",
   "menu": {
     "docs": {
       "identifier": "audio-it",

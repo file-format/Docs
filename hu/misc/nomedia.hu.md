@@ -17,7 +17,7 @@
 "toc": true,
 "title": "NOMEDIA fájlformátum - Android, nincs médiafájl",
   "description":"További információ a NOMEDIA formátumról és az API-król, amelyek NOMEDIA fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "NOMEDIA",
+  "linktitle": "NOMEDIA",
   "menu": {
     "docs": {
       "identifier": "misc-nomedia",

@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Format de fișier TEMA - Microsoft Plus! Tema de desktop",
   "description":"Aflați despre formatul THEME și despre API-urile care pot crea și deschide fișiere THEME.",
-"linktitle": "TEMA",
+  "linktitle": "THEME",
   "menu": {
     "docs": {
       "identifier": "settings-theme",

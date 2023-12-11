@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Định dạng tệp CHEAT - Navi Cheatsheet",
   "description":"Tìm hiểu về định dạng CHEAT và các API có thể tạo và mở tệp CHEAT.",
-"linktitle":"LỪA ĐẢO",
+  "linktitle": "CHEAT",
   "menu": {
     "docs": {
       "identifier": "executable-cheat",

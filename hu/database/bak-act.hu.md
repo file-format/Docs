@@ -17,7 +17,7 @@
 "toc": true,
 "title": "BAK fájlformátum - Act! Database Backup",
   "description":"További információ a BAK Act! Backup formátumról és az API-król, amelyek BAK-fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "BAK ACT biztonsági mentés",
+  "linktitle": "BAK ACT Backup",
   "menu": {
     "docs": {
       "identifier": "database-bak-act",

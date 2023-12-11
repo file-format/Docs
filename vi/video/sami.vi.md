@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Định dạng tệp SAMI - Tệp trao đổi phụ đề và siêu dữ liệu",
   "description":"Tìm hiểu về định dạng SAMI và các API có thể tạo và mở tệp SAMI.",
-"linktitle":"SAMI",
+  "linktitle": "SAMI",
   "menu": {
     "docs": {
       "identifier": "video-sami",

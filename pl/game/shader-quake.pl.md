@@ -17,7 +17,7 @@
 "toc": true,
 "title":"Format pliku SHADER - plik modułu cieniującego silnika Quake 3",
    "description":"Dowiedz się więcej o formacie pliku modułu cieniującego silnika SHADER Quake 3 i interfejsach API, które umożliwiają tworzenie i otwieranie plików SHADER.",
-"linktitle":"Wstrząs Shadera",
+   "linktitle":"SHADER Quake",
    "menu":{
       "docs":{
          "identifier":"game-shader-quake",

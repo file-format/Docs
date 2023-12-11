@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format pliku PMP - plik parametrów modelu wydruku AutoCAD",
   "description":"Dowiedz się o formacie PMP i interfejsach API, które umożliwiają tworzenie i otwieranie plików PMP.",
-"tytuł łącza": "PMP",
+  "linktitle": "PMP",
   "menu": {
     "docs": {
       "identifier": "settings-pmp",

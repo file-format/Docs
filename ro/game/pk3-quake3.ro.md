@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Format fișier PK3 - Date de joc Quake 3 Engine",
    "description":"Aflați mai multe despre formatul de fișier cu date de joc PK3 Quake 3 Engine și despre API-urile care pot crea și deschide fișiere PK3.",
-"linktitle":"PK3",
+   "linktitle":"PK3",
    "menu":{
       "docs":{
          "identifier":"game-pk3-quake3",

@@ -14,7 +14,7 @@
 "toc": true,
 "title": "MANIFEST Fájlformátum - Windows Alkalmazás Manifest fájl",
   "description":"További információ a MANIFEST formátumról és az API-król, amelyek MANIFEST fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "MANIFEST",
+  "linktitle": "MANIFEST",
   "menu": {
     "docs": {
       "identifier": "system-manifest",

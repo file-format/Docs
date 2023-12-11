@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Định dạng tệp MSWMM - Dự án Windows Movie Maker",
   "description":"Tìm hiểu về định dạng tệp MSWMM và các API có thể tạo và mở tệp MSWMM.",
-"linktitle":"MSWMM",
+  "linktitle": "MSWMM",
   "menu": {
     "docs": {
       "identifier": "video-mswmm",

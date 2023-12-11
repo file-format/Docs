@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format fișier SQX - Arhiva SQX",
   "description":"Aflați despre formatul SQX și despre API-urile care pot crea și deschide fișiere SQX.",
-"linktitle": "SQX",
+  "linktitle": "SQX",
   "menu": {
     "docs": {
       "identifier": "compression-sqx",

@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Format fișier CHAT - Cheatsheet Navi",
   "description":"Aflați despre formatul CHEAT și despre API-urile care pot crea și deschide fișiere CHEAT.",
-"linktitle": "TRISEL",
+  "linktitle": "CHEAT",
   "menu": {
     "docs": {
       "identifier": "executable-cheat",

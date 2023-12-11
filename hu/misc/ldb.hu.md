@@ -16,7 +16,7 @@
 "toc": true,
 "title": "LDB fájlformátum - Microsoft Access Lock File",
   "description":"Ismerje meg az LDB formátumot és milyen információkat tartalmaz.",
-"linktitle": "LDB",
+  "linktitle": "LDB",
   "menu": {
     "docs": {
       "identifier": "misc-ldb",

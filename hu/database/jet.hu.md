@@ -17,7 +17,7 @@
 "toc": true,
 "title": "JET fájlformátum - Microsoft JET adatbázisfájl",
   "description":"További információ a JET formátumról és az API-król, amelyek JET fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "JET",
+  "linktitle": "JET",
   "menu": {
     "docs": {
       "identifier": "database-jet",

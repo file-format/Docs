@@ -17,7 +17,7 @@
 "toc": true,
 "title":"Plik VCE - Visual CertExam - Co to jest plik .vce i jak go otworzyć?",
    "description":"Dowiedz się więcej o formacie pliku egzaminu VCE Visual CertExam i interfejsach API, które umożliwiają tworzenie i otwieranie plików VCE.",
-"linktitle":"VCE",
+   "linktitle":"VCE",
    "menu":{
       "docs":{
          "identifier":"data-vce",

@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Format fișier PRT - Parte Creo Parametric",
    "description":"Aflați despre formatul de fișier PRT Creo Parametric Part și despre API-urile care pot crea și deschide fișiere PRT.",
-"linktitle":"PRT",
+   "linktitle":"PRT",
    "menu":{
       "docs":{
          "identifier":"cad-prt-creo",

@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Format fișier CAF - Fișier de animație binar Cal3D",
    "description":"Aflați despre formatul fișierului de animație binar CAF Cal3D și despre API-urile care pot crea și deschide fișiere CAF.",
-"linktitle":"CAF Cal3D",
+   "linktitle":"CAF Cal3D",
    "menu":{
       "docs":{
          "identifier":"3d-caf-cal3d",

@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Format pliku TPF - dokument IBM SPSS Text Wizard",
   "description":"Dowiedz się o formacie TPF i interfejsach API, które umożliwiają tworzenie i otwieranie plików TPF.",
-"tytuł łącza": "TPF",
+  "linktitle": "TPF",
   "menu": {
     "docs": {
       "identifier": "settings-tpf",

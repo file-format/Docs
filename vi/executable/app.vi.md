@@ -15,7 +15,7 @@
 "toc": true,
   "description":"Tìm hiểu về định dạng tệp APP và các API có thể tạo và mở tệp APP.",
 "title": "Định dạng tệp APP - Gói ứng dụng macOS",
-"linktitle":"ỨNG DỤNG",
+  "linktitle": "APP",
   "menu": {
     "docs": {
       "identifier": "executable-app",

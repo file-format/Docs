@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Định dạng tệp PRT - Phần tham số Creo",
    "description":"Tìm hiểu về định dạng tệp Phần tham số PRT Creo và các API có thể tạo và mở tệp PRT.",
-"linktitle":"PRT",
+   "linktitle":"PRT",
    "menu":{
       "docs":{
          "identifier":"cad-prt-creo",

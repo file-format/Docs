@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Format pliku XEM - plik definicji modelu PowerDesigner",
   "description":"Dowiedz się o formacie XEM i interfejsach API, które umożliwiają tworzenie i otwieranie plików XEM.",
-"tytuł linku": "XEM",
+  "linktitle": "XEM",
   "menu": {
     "docs": {
       "identifier": "database-xem",

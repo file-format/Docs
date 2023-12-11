@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Format fișier RAW - Date brute de imagine",
   "description":"Aflați despre formatul RAW și despre API-urile care pot crea și deschide fișiere RAW.",
-"linktitle": "RAW",
+  "linktitle": "RAW",
   "menu": {
     "docs": {
       "identifier": "image-raw",

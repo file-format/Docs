@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Formát souboru DVD - ovladač zařízení DOS",
    "description":"Další informace o formátu souboru ovladače zařízení DVD MS-DOS a rozhraních API, která mohou vytvářet a otevírat soubory DVD.",
-"linktitle":"DVD",
+   "linktitle":"DVD",
    "menu":{
       "docs":{
          "identifier":"system-dvd-dos",

@@ -15,7 +15,7 @@
 "toc": true,
 "title": "CPA файлов формат - CADSTAR PCB архивен файл",
   "description":"Научете за CPA файловия формат и API, които могат да създават и отварят CPA файлове.",
-"linktitle": "CPA",
+  "linktitle": "CPA",
   "menu": {
     "docs": {
       "identifier": "cad-cpa",

@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format pliku WQ2 - Quattro Pro dla pliku arkusza kalkulacyjnego DOS",
   "description":"Dowiedz się o formacie pliku WQ2 i interfejsach API, które umożliwiają tworzenie i otwieranie plików WQ2.",
-"tytuł łącza": "WQ2",
+  "linktitle": "WQ2",
   "menu": {
     "docs": {
       "identifier": "spreadsheet-wq2",

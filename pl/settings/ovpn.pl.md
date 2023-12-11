@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format pliku OVPN - plik konfiguracyjny OpenVPN",
   "description":"Dowiedz się o formacie OVPN i interfejsach API, które umożliwiają tworzenie i otwieranie plików OVPN.",
-"tytuł łącza": "OVPN",
+  "linktitle": "OVPN",
   "menu": {
     "docs": {
       "identifier": "settings-ovpn",

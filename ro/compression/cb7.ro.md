@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Format de fișier CB7 - Arhivă de benzi desenate 7-Zip",
   "description":"Aflați despre formatul CB7 și despre API-urile care pot crea și deschide fișiere CB7.",
-"linktitle": "CB7",
+  "linktitle": "CB7",
   "menu": {
     "docs": {
       "identifier": "compression-cb7",

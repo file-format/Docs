@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Format pliku MANIFESTU - plik manifestu aplikacji Windows",
   "description":"Dowiedz się o formacie MANIFESTU i interfejsach API, które umożliwiają tworzenie i otwieranie plików MANIFEST.",
-"linktitle": "MANIFEST",
+  "linktitle": "MANIFEST",
   "menu": {
     "docs": {
       "identifier": "system-manifest",

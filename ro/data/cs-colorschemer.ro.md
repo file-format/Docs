@@ -17,7 +17,7 @@
 "toc": true,
 "title": "CS File - ColorSchemer Studio Color Scheme - Ce este un fișier .cs și cum îl deschid?",
   "description":"Aflați despre formatul CS ColorSchemer Studio Color Scheme și despre API-urile care pot crea și deschide fișiere CS.",
-"linktitle": "CS",
+  "linktitle": "CS",
   "menu": {
     "docs": {
       "identifier": "data-cs-colorschemer",

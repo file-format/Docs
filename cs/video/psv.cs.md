@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Formát souboru PSV - soubor videa Pluralsight",
   "description":"Další informace o formátu PSV a rozhraních API, která mohou vytvářet a otevírat soubory PSV.",
-"linktitle": "PSV",
+  "linktitle": "PSV",
   "menu": {
     "docs": {
       "identifier": "video-psv",

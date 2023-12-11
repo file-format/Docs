@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Formát souboru IPS – údaje iOS Analytics",
   "description":"Další informace o formátu IPS a rozhraních API, která mohou vytvářet a otevírat soubory IPS.",
-"linktitle": "IPS",
+  "linktitle": "IPS",
   "menu": {
     "docs": {
       "identifier": "misc-ips",

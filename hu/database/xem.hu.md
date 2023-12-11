@@ -16,7 +16,7 @@
 "toc": true,
 "title": "XEM fájlformátum - PowerDesigner modelldefiníciós fájl",
   "description":"További információ a XEM formátumról és az API-król, amelyek XEM-fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "XEM",
+  "linktitle": "XEM",
   "menu": {
     "docs": {
       "identifier": "database-xem",

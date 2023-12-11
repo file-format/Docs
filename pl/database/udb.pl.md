@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Format pliku UDB - Plik bazy danych użytkownika Microsoft Dynamics AX",
   "description":"Dowiedz się o formacie UDB i interfejsach API, które umożliwiają tworzenie i otwieranie plików UDB.",
-"tytuł łącza": "UDB",
+  "linktitle": "UDB",
   "menu": {
     "docs": {
       "identifier": "database-udb",

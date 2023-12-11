@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format pliku CNF - plik konfiguracyjny MySQL",
   "description":"Dowiedz się o formacie CNF i interfejsach API, które umożliwiają tworzenie i otwieranie plików CNF.",
-"tytuł łącza": "CNF",
+  "linktitle": "CNF",
   "menu": {
     "docs": {
       "identifier": "settings-cnf",

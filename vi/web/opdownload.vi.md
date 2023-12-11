@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Định dạng tệp OPDOWNLOAD - Tệp được tải xuống một phần của Opera",
   "description":"Tìm hiểu về định dạng OPDOWNLOAD và các API có thể tạo và mở tệp OPDOWNLOAD.",
-"linktitle":"TẢI XUỐNG",
+  "linktitle": "OPDOWNLOAD",
   "menu": {
     "docs": {
       "identifier": "web-opdownload",

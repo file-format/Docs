@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Format pliku RB - plik z kodem źródłowym Ruby",
   "description":"Dowiedz się o formacie RB i interfejsach API, które umożliwiają tworzenie i otwieranie plików RB.",
-"tytuł łącza": "RB",
+  "linktitle": "RB",
   "menu": {
     "docs": {
       "identifier": "programming-rb",

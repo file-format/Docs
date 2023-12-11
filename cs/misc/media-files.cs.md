@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Co jsou mediální soubory? Typy, formáty a jejich dopad na digitální komunikaci",
   "description":"Další informace o mediálních souborech, jejich typech, formátech a dopadu na digitální komunikaci.",
-"linktitle": "MEDIÁLNÍ SOUBORY",
+  "linktitle": "MEDIA FILES",
   "menu": {
     "docs": {
       "identifier": "misc-media-files",

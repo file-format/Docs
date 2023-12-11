@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Định dạng tệp JET - Tệp cơ sở dữ liệu Microsoft JET",
   "description":"Tìm hiểu về định dạng JET và các API có thể tạo và mở tệp JET.",
-"linktitle":"JET",
+  "linktitle": "JET",
   "menu": {
     "docs": {
       "identifier": "database-jet",

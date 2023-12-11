@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Formát souboru TTR - TETR.IO Replay",
   "description":"Další informace o formátu TTR a rozhraních API, která mohou vytvářet a otevírat soubory TTR.",
-"linktitle": "TTR",
+  "linktitle": "TTR",
   "menu": {
     "docs": {
       "identifier": "game-ttr",

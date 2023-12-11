@@ -16,7 +16,7 @@
 "toc":true,
 "title":"Formát souboru CAT - soubor katalogu Windows",
    "description":"Další informace o formátu CAT a rozhraních API, která mohou vytvářet a otevírat soubory CAT.",
-"linktitle":"CAT",
+   "linktitle":"CAT",
    "menu":{
       "docs":{
          "identifier":"system-cat",

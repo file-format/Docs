@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Format pliku CC - plik z kodem źródłowym C++",
   "description":"Dowiedz się o formacie CC i interfejsach API, które umożliwiają tworzenie i otwieranie plików CC.",
-"tytuł linku": "CC",
+  "linktitle": "CC",
   "menu": {
     "docs": {
       "identifier": "programming-cc",

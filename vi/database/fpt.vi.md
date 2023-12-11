@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Định dạng tệp FPT - Tệp ghi nhớ cơ sở dữ liệu FileMaker Pro",
   "description":"Tìm hiểu về định dạng FPT và các API có thể tạo và mở file FPT.",
-"linktitle":"FPT",
+  "linktitle": "FPT",
   "menu": {
     "docs": {
       "identifier": "database-fpt",

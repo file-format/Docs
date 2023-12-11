@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Co je to Video Converter? Nejlepší průvodce Video Converter",
   "description":"Další informace o Video konvertorech, formátech, častých dotazech a nejlepších nástrojích",
-"linktitle": "VIDEO CONVERTER",
+  "linktitle": "VIDEO CONVERTER",
   "menu": {
     "docs": {
       "identifier": "misc-video-converter",

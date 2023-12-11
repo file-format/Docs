@@ -17,7 +17,7 @@
 "toc":true,
 "title": "CHR файлов формат - 3ds Max файл със знаци",
    "description":"Научете за файловия формат CHR 3ds Max Characters и API, които могат да създават и отварят CHR файлове.",
-"linktitle": "CHR 3ds",
+   "linktitle":"CHR 3ds",
    "menu":{
       "docs":{
          "identifier":"3d-chr-3ds",

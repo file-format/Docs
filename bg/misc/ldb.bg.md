@@ -16,7 +16,7 @@
 "toc": true,
 "title": "LDB файлов формат - Microsoft Access Lock файл",
   "description":"Научете за LDB формата и каква информация съдържа.",
-"linktitle": "LDB",
+  "linktitle": "LDB",
   "menu": {
     "docs": {
       "identifier": "misc-ldb",

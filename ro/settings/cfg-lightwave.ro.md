@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Format fișier CFG - Fișier de configurare LightWave",
   "description":"Aflați despre formatul fișierului de configurare CFG LightWave și despre API-urile care pot crea și deschide fișiere CFG.",
-"linktitle": "CFG LightWave",
+  "linktitle": "CFG LightWave",
   "menu": {
     "docs": {
       "identifier": "settings-cfg-lightwave",

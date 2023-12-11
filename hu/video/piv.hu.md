@@ -15,7 +15,7 @@
 "toc": true,
 "title": "PIV fájlformátum - Pivot Animator Animation",
   "description":"További információ a PIV fájlformátumról és az API-król, amelyek PIV fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "PIV",
+  "linktitle": "PIV",
   "menu": {
     "docs": {
       "identifier": "video-piv",

@@ -17,7 +17,7 @@
 "toc": true,
 "title":"Format pliku CHR - plik znaków 3ds Max",
    "description":"Dowiedz się więcej o formacie pliku CHR 3ds Max Characters i interfejsach API, które umożliwiają tworzenie i otwieranie plików CHR.",
-"linktitle":"CHR 3ds",
+   "linktitle":"CHR 3ds",
    "menu":{
       "docs":{
          "identifier":"3d-chr-3ds",

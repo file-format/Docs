@@ -15,7 +15,7 @@
 "toc": true,
   "description":"Další informace o formátu souboru XAP a rozhraních API, která mohou vytvářet a otevírat soubory XAP.",
 "title": "Formát souboru XAP - balíček aplikace Silverlight",
-"linktitle": "XAP",
+  "linktitle": "XAP",
   "menu": {
     "docs": {
       "identifier": "executable-xap",

@@ -17,7 +17,7 @@
 "toc":true,
 "title":"CAF fájlformátum - CryENGINE karakteranimációs fájl",
    "description":"További információ a CAF CryENGINE karakteranimációs fájlformátumról és az API-król, amelyek CAF-fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle":"CAF CryENGINE",
+   "linktitle":"CAF CryENGINE",
    "menu":{
       "docs":{
          "identifier":"programming-caf-cryengine",

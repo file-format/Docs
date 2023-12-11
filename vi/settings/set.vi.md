@@ -15,7 +15,7 @@
 "toc": true,
 "title": "SET File Format - Document Library Property Set File",
   "description":"Tìm hiểu về định dạng SET và các API có thể tạo và mở tệp SET.",
-"linktitle":"SET",
+  "linktitle": "SET",
   "menu": {
     "docs": {
       "identifier": "settings-set",

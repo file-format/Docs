@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Format fișier CS - Script personalizat CLEO",
    "description":"Aflați despre formatul CS CLEO Custom Script și despre API-urile care pot crea și deschide fișiere CS.",
-"linktitle":"CS CLEO",
+   "linktitle":"CS CLEO",
    "menu":{
       "docs":{
          "identifier":"game-cs-cleo",

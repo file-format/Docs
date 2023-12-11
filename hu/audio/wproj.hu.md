@@ -15,7 +15,7 @@
 "toc": true,
 "title": "WPROJ fájlformátum - Wwise projektfájl",
   "description":"További információ a WPROJ fájlformátumról és az API-król, amelyek WPROJ fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "WPROJ",
+  "linktitle": "WPROJ",
   "menu": {
     "docs": {
       "identifier": "audio-wproj",

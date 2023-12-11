@@ -17,7 +17,7 @@
 "toc": true,
 "title": "CFG fájlformátum - forrásmotor konfigurációs fájl",
   "description":"További információ a CFG Source Engine Configuration File formátumról és az API-król, amelyek CFG fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "CFG Source Engine",
+  "linktitle": "CFG Source Engine",
   "menu": {
     "docs": {
       "identifier": "game-cfg-sourceengine",

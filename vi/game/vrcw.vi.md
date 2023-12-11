@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Định dạng tệp VRCW - Thế giới VRChat",
   "description":"Tìm hiểu về định dạng VRCW và các API có thể tạo và mở tệp VRCW.",
-"linktitle":"VRCW",
+  "linktitle": "VRCW",
   "menu": {
     "docs": {
       "identifier": "game-vrcw",

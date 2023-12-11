@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Tệp VCE - Chứng chỉ trực quan - Tệp .vce là gì và làm cách nào để mở tệp?",
    "description":"Tìm hiểu về định dạng tệp Bài kiểm tra VCE Visual CertExam và các API có thể tạo và mở tệp VCE.",
-"linktitle":"VCE",
+   "linktitle":"VCE",
    "menu":{
       "docs":{
          "identifier":"data-vce",

@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Formát souboru WQ2 - Quattro Pro pro soubor tabulky DOS",
   "description":"Další informace o formátu souborů WQ2 a rozhraních API, která mohou vytvářet a otevírat soubory WQ2.",
-"linktitle": "WQ2",
+  "linktitle": "WQ2",
   "menu": {
     "docs": {
       "identifier": "spreadsheet-wq2",

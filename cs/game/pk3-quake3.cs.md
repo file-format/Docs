@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Formát souboru PK3 – data hry Quake 3 Engine",
    "description":"Další informace o formátu souboru PK3 Quake 3 Engine Game Data a rozhraních API, která mohou vytvářet a otevírat soubory PK3.",
-"linktitle":"PK3",
+   "linktitle":"PK3",
    "menu":{
       "docs":{
          "identifier":"game-pk3-quake3",

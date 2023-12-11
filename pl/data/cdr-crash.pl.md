@@ -17,7 +17,7 @@
 "toc": true,
 "title":"Plik CDR - Plik danych odzyskiwania danych o awarii - Co to jest plik .cdr i jak go otworzyć?",
    "description":"Dowiedz się o formacie pliku danych odzyskiwania danych o awarii CDR i interfejsach API, które umożliwiają tworzenie i otwieranie plików CDR.",
-"linktitle":"CDR",
+   "linktitle":"CDR",
    "menu":{
       "docs":{
          "identifier":"data-cdr-crash",

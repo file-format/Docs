@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format fișier PSV - Fișier video Pluralsight",
   "description":"Aflați despre formatul PSV și despre API-urile care pot crea și deschide fișiere PSV.",
-"linktitle": "PSV",
+  "linktitle": "PSV",
   "menu": {
     "docs": {
       "identifier": "video-psv",

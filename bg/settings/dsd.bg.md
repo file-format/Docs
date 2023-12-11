@@ -16,7 +16,7 @@
 "toc": true,
 "title": "DSD файлов формат - файл с описание на комплект чертежи на AutoCAD",
   "description":"Научете за DSD формата и API, които могат да създават и отварят DSD файлове.",
-"linktitle": "DSD",
+  "linktitle": "DSD",
   "menu": {
     "docs": {
       "identifier": "settings-dsd",

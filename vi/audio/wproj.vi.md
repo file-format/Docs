@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Định dạng tệp WPROJ - Tệp dự án Wwise",
   "description":"Tìm hiểu về định dạng tệp WPROJ và các API có thể tạo và mở tệp WPROJ.",
-"linktitle":"WPROJ",
+  "linktitle": "WPROJ",
   "menu": {
     "docs": {
       "identifier": "audio-wproj",

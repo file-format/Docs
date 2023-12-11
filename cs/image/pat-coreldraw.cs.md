@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Formát souboru PAT - soubor vzoru CorelDRAW",
    "description":"Další informace o formátu souboru PAT CorelDRAW Pattern a rozhraních API, která mohou vytvářet a otevírat soubory PAT.",
-"linktitle":"PAT CorelDRAW",
+   "linktitle":"PAT CorelDRAW",
    "menu":{
       "docs":{
          "identifier":"image-pat-coreldraw",

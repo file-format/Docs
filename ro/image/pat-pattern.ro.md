@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Format fișier PAT - Fișier model",
    "description":"Aflați despre formatul de fișier PAT Pattern și despre API-urile care pot crea și deschide fișiere PAT.",
-"linktitle":"Model PAT",
+   "linktitle":"PAT Pattern",
    "menu":{
       "docs":{
          "identifier":"image-pat-pattern",

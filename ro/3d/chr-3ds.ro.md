@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Format fișier CHR - Fișier cu caractere 3ds Max",
    "description":"Aflați despre formatul de fișier CHR 3ds Max Characters și despre API-urile care pot crea și deschide fișiere CHR.",
-"linktitle":"CHR 3ds",
+   "linktitle":"CHR 3ds",
    "menu":{
       "docs":{
          "identifier":"3d-chr-3ds",

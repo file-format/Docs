@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Định dạng tệp FLP - Tệp dự án FL Studio",
   "description":"Tìm hiểu về định dạng tệp FLP và các API có thể tạo và mở tệp FLP.",
-"linktitle":"FLP",
+  "linktitle": "FLP",
   "menu": {
     "docs": {
       "identifier": "audio-flp",

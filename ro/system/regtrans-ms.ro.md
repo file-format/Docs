@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Format fișier REGTRANS-MS - Fișier jurnal tranzacții din registru",
   "description":"Aflați despre formatul REGTRANS-MS și despre API-urile care pot crea și deschide fișiere REGTRANS-MS.",
-"linktitle": "REGTRANS-MS",
+  "linktitle": "REGTRANS-MS",
   "menu": {
     "docs": {
       "identifier": "system-regtrans-ms",

@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Formát souboru MANIFEST - soubor manifestu aplikace Windows",
   "description":"Další informace o formátu MANIFEST a rozhraních API, která mohou vytvářet a otevírat soubory MANIFEST.",
-"linktitle": "MANIFEST",
+  "linktitle": "MANIFEST",
   "menu": {
     "docs": {
       "identifier": "system-manifest",

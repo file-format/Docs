@@ -17,7 +17,7 @@
 "toc": true,
 "title": "PC3 fájlformátum - AutoCAD Plotter konfigurációs fájl",
   "description":"Tudjon meg többet a PC3 formátumról és az API-król, amelyek PC3 fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "PC3",
+  "linktitle": "PC3",
   "menu": {
     "docs": {
       "identifier": "cad-pc3",

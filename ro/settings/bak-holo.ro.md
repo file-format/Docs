@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Format fișier BAK - Backup Holo Launcher",
   "description":"Aflați despre formatul BAK Holo Launcher Backup și despre API-urile care pot crea și deschide fișiere BAK.",
-"linktitle": "BAK HOLO",
+  "linktitle": "BAK HOLO",
   "menu": {
     "docs": {
       "identifier": "settings-bak-holo",

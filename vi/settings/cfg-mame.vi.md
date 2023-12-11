@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Định dạng tệp CFG - Tệp cấu hình MAME",
   "description":"Tìm hiểu về định dạng tệp cấu hình CFG MAME và các API có thể tạo và mở tệp CFG.",
-"linktitle":"CFG MAME",
+  "linktitle": "CFG MAME",
   "menu": {
     "docs": {
       "identifier": "settings-cfg-mame",

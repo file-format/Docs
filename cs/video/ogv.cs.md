@@ -18,7 +18,7 @@
 "toc": true,
 "title": "Formát souboru OGV - Video soubor Ogg",
   "description":"Další informace o formátu OGV a rozhraních API, která mohou vytvářet a otevírat soubory OGV.",
-"linktitle": "OGV",
+  "linktitle": "OGV",
   "menu": {
     "docs": {
       "identifier": "video-ogv",

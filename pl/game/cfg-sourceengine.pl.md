@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Format pliku CFG - plik konfiguracyjny silnika źródłowego",
   "description":"Dowiedz się więcej o formacie pliku konfiguracyjnego silnika źródłowego CFG i interfejsach API, które umożliwiają tworzenie i otwieranie plików CFG.",
-"linktitle": "Silnik źródłowy CFG",
+  "linktitle": "CFG Source Engine",
   "menu": {
     "docs": {
       "identifier": "game-cfg-sourceengine",

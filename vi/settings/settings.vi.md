@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Định dạng tệp CÀI ĐẶT - Tệp cài đặt Visual Studio",
   "description":"Tìm hiểu về định dạng CÀI ĐẶT và các API có thể tạo và mở tệp CÀI ĐẶT.",
-"linktitle":"CÀI ĐẶT",
+  "linktitle": "SETTINGS",
   "menu": {
     "docs": {
       "identifier": "settings-settings",

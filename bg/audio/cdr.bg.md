@@ -17,7 +17,7 @@
 "toc":true,
 "title": "CDR файлов формат - необработени CD аудио данни",
    "description":"Научете за файловия формат на CDR Raw CD аудио данни и API, които могат да създават и отварят CDR файлове.",
-"linktitle": "CDR",
+   "linktitle":"CDR",
    "menu":{
       "docs":{
          "identifier":"audio-cdr",

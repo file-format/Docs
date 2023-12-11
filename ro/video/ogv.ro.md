@@ -18,7 +18,7 @@
 "toc": true,
 "title": "Format fișier OGV - fișier video Ogg",
   "description":"Aflați despre formatul OGV și despre API-urile care pot crea și deschide fișiere OGV.",
-"linktitle": "OGV",
+  "linktitle": "OGV",
   "menu": {
     "docs": {
       "identifier": "video-ogv",

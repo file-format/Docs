@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Format pliku RDP - plik konfiguracyjny pulpitu zdalnego",
   "description":"Dowiedz się o formacie RDP i interfejsach API, które umożliwiają tworzenie i otwieranie plików RDP.",
-"tytuł linku": "PROW",
+  "linktitle": "RDP",
   "menu": {
     "docs": {
       "identifier": "settings-rdp",

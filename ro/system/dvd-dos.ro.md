@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Format fișier DVD - Driver de dispozitiv DOS",
    "description":"Aflați despre formatul de fișier DVD MS-DOS Device Driver și despre API-urile care pot crea și deschide fișiere DVD.",
-"linktitle":"DVD",
+   "linktitle":"DVD",
    "menu":{
       "docs":{
          "identifier":"system-dvd-dos",

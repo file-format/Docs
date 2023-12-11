@@ -14,7 +14,7 @@
 "toc": true,
 "title": "GXT файлов формат - Grand Theft Auto текстов файл",
   "description":"Научете за GXT формата и API, които могат да създават и отварят GXT файлове.",
-"linktitle": "GXT",
+  "linktitle": "GXT",
   "menu": {
     "docs": {
       "identifier": "settings-gxt",

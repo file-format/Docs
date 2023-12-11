@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format de fișier Unity3D - Arhiva Unity Web Player",
   "description":"Aflați despre formatul Unity3D și despre API-urile care pot crea și deschide fișiere Unity3D.",
-"linktitle": "Unity3D",
+  "linktitle": "Unity3D",
   "menu": {
     "docs": {
       "identifier": "game-unity3d",

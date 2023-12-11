@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Formát souboru 3GPP - mediální soubor 3GPP",
   "description":"Další informace o formátu 3GPP a rozhraních API, která mohou vytvářet a otevírat soubory 3GPP.",
-"linktitle": "3GPP",
+  "linktitle": "3GPP",
   "menu": {
     "docs": {
       "identifier": "video-3gpp",

@@ -18,7 +18,7 @@
 "toc": true,
 "title": "Format de fișier VMX - Fișier de configurare a mașinii virtuale VMware",
   "description":"Aflați despre formatul VMX și despre API-urile care pot crea și deschide fișiere VMX.",
-"linktitle": "VMX",
+  "linktitle": "VMX",
   "menu": {
     "docs": {
       "identifier": "settings-vmx",

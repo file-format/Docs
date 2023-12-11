@@ -15,7 +15,7 @@
 "toc": true,
 "title": "MUI fájlformátum - számtalan felhasználói eszközfájl",
   "description":"További információ a MUI-fájlformátumról és az API-król, amelyek MUI-fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "MUI",
+  "linktitle": "MUI",
   "menu": {
     "docs": {
       "identifier": "audio-mui",

@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Formát souboru MLT - projekt Shotcut",
   "description":"Další informace o formátu projektu MLT Shotcut a rozhraních API, která mohou vytvářet a otevírat soubory MLT.",
-"linktitle": "MLT",
+  "linktitle": "MLT",
   "menu": {
     "docs": {
       "identifier": "settings-mlt",

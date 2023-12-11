@@ -16,7 +16,7 @@
 "toc": true,
 "title": "THEME fájlformátum - Microsoft Plus! asztali téma",
   "description":"További információ a THEME formátumról és az API-król, amelyek THEME fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "THEME",
+  "linktitle": "THEME",
   "menu": {
     "docs": {
       "identifier": "settings-theme",

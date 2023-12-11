@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format pliku PDS - plik skryptu PowerDirector",
   "description":"Dowiedz się o formacie PDS i interfejsach API, które umożliwiają tworzenie i otwieranie plików PDS.",
-"tytuł łącza": "PDS",
+  "linktitle": "PDS",
   "menu": {
     "docs": {
       "identifier": "video-pds",

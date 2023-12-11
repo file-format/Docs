@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Файлов формат CRYPT14 - файл с криптирана база данни на WhatsApp",
   "description":"Научете за формата CRYPT14 и API, които могат да създават и отварят CRYPT14 файлове.",
-"linktitle": "CRYPT14",
+  "linktitle": "CRYPT14",
   "menu": {
     "docs": {
       "identifier": "database-crypt14",

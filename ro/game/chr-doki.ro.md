@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Format fișier CHR - Doki Doki Literature Club! Fișier de caractere",
    "description":"Aflați despre CHR Doki Doki Literature Club! Formatul de fișier cu caractere și API-urile care pot crea și deschide fișiere CHR.",
-"linktitle":"CHR Doki",
+   "linktitle":"CHR Doki",
    "menu":{
       "docs":{
          "identifier":"game-chr-doki",

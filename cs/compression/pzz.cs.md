@@ -7,7 +7,7 @@
 "toc": true,
 "title": "Soubor PZZ - Co je soubor .pzz a jak jej otevřít?",
   "description":"Další informace o formátu PZZ a rozhraních API, která mohou vytvářet a otevírat soubory PZZ.",
-"linktitle": "PZZ",
+  "linktitle": "PZZ",
   "menu": {
     "docs": {
       "identifier": "compression-pzz",

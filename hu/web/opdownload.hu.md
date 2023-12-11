@@ -14,7 +14,7 @@
 "toc": true,
 "title": "OPDOWNLOAD fájlformátum - Opera részlegesen letöltött fájl",
   "description":"További információ az OPDOWNLOAD formátumról és az API-król, amelyek OPDOWNLOAD fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "OPDOWNLOAD",
+  "linktitle": "OPDOWNLOAD",
   "menu": {
     "docs": {
       "identifier": "web-opdownload",

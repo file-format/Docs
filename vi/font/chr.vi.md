@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Định dạng tệp CHR - Bộ ký tự Borland",
    "description":"Tìm hiểu về định dạng tệp Bộ ký tự CHR Borland và các API có thể tạo và mở tệp CHR.",
-"linktitle":"CHR",
+   "linktitle":"CHR",
    "menu":{
       "docs":{
          "identifier":"font-chr",

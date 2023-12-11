@@ -14,7 +14,7 @@
 "toc": true,
 "title": "OSS файлов формат - Microsoft Outlook запазен файл за търсене",
   "description":"Научете за OSS формата и API, които могат да създават и отварят OSS файлове.",
-"linktitle": "OSS",
+  "linktitle": "OSS",
   "menu": {
     "docs": {
       "identifier": "settings-oss",

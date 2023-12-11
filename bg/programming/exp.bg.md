@@ -16,7 +16,7 @@
 "toc": true,
 "title": "EXP файлов формат - файл за експортиране на символи",
   "description":"Научете за EXP формата и API, които могат да създават и отварят EXP файлове.",
-"linktitle": "EXP",
+  "linktitle": "EXP",
   "menu": {
     "docs": {
       "identifier": "programming-exp",

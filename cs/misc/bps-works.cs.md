@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Formát souboru BPS - Záloha dokumentu Microsoft Works",
   "description":"Další informace o formátu BPS Works a rozhraních API, která mohou vytvářet a otevírat soubory BPS.",
-"linktitle": "BPS funguje",
+  "linktitle": "BPS Works",
   "menu": {
     "docs": {
       "identifier": "misc-bps-works",

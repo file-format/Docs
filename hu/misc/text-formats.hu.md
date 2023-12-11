@@ -12,7 +12,7 @@
 "toc": true,
 "title": "Szövegformátumok, -típusok és GYIK",
   "description":"További információ a szövegformátumokról, a szövegformátumok típusairól, a szövegformátumok listájáról és a GYIK-ről",
-"linktitle": "SZÖVEGFORMÁTUMOK",
+  "linktitle": "TEXT FORMATS",
   "menu": {
     "docs": {
       "identifier": "misc-text-formats",

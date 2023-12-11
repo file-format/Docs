@@ -15,7 +15,7 @@
 "toc": true,
 "title": "DESKTHEMEPACK fájlformátum - Windows 10 asztali témacsomag fájl",
   "description":"További információ a DESKTHEMEPACK formátumról és az API-król, amelyek DESKTHEMEPACK fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "DESKTHEMEPACK",
+  "linktitle": "DESKTHEMEPACK",
   "menu": {
     "docs": {
       "identifier": "system-deskthemepack",

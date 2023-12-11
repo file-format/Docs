@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Định dạng tệp MTL - Tệp thư viện mẫu tài liệu OBJ",
    "description":"Tìm hiểu về định dạng tệp Thư viện mẫu vật liệu MTL OBJ và các API có thể tạo và mở tệp MTL.",
-"linktitle":"MTL",
+   "linktitle":"MTL",
    "menu":{
       "docs":{
          "identifier":"3d-mtl",

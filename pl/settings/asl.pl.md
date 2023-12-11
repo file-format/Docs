@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Format pliku ASL - styl warstwy programu Photoshop",
   "description":"Dowiedz się o formacie ASL i interfejsach API, które umożliwiają tworzenie i otwieranie plików ASL.",
-"tytuł linku": "ASL",
+  "linktitle": "ASL",
   "menu": {
     "docs": {
       "identifier": "settings-asl",

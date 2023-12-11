@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Co jsou soubory PDB? Pochopení souborů PDB: Klíčový nástroj pro strukturální biologii",
   "description":"Zjistěte, co jsou soubory PDB? Porozumění souborům PDB: zásadní nástroj pro strukturální biologii",
-"linktitle": "PNR",
+  "linktitle": "PDB",
   "menu": {
     "docs": {
       "identifier": "database-pdb",

@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Định dạng tệp IPSW - Tệp cập nhật phần mềm iPhone",
   "description":"Tìm hiểu về định dạng IPSW và các API có thể tạo và mở tệp IPSW.",
-"linktitle":"IPSW",
+  "linktitle": "IPSW",
   "menu": {
     "docs": {
       "identifier": "misc-ipsw",

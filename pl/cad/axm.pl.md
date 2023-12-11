@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format pliku AXM - plik szkicu FormIt",
   "description":"Dowiedz się o formacie pliku AXM i interfejsach API, które umożliwiają tworzenie i otwieranie plików AXM.",
-"tytuł łącza": "AXM",
+  "linktitle": "AXM",
   "menu": {
     "docs": {
       "identifier": "cad-axm",

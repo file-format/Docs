@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Formát souboru CFG – konfigurační soubor Celestia",
   "description":"Další informace o formátu konfiguračního souboru CFG Celestia a rozhraních API, která mohou vytvářet a otevírat soubory CFG.",
-"linktitle": "CFG Celestia",
+  "linktitle": "CFG Celestia",
   "menu": {
     "docs": {
       "identifier": "settings-cfg-celestia",

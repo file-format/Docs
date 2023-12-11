@@ -17,7 +17,7 @@
 "toc": true,
 "title":"Format pliku PAT - plik wzoru CorelDRAW",
    "description":"Dowiedz się więcej o formacie pliku PAT CorelDRAW Pattern i interfejsach API, które umożliwiają tworzenie i otwieranie plików PAT.",
-"linktitle":"PAT CorelDRAW",
+   "linktitle":"PAT CorelDRAW",
    "menu":{
       "docs":{
          "identifier":"image-pat-coreldraw",

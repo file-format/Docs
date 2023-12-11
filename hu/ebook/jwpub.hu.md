@@ -15,7 +15,7 @@
 "toc": true,
 "title": "JWPUB fájlformátum – Jehova Tanúi kiadvány",
   "description":"További információ a JWPUB formátumról és az API-król, amelyek JWPUB fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "JWPUB",
+  "linktitle": "JWPUB",
   "menu": {
     "docs": {
       "identifier": "ebook-jwpub",

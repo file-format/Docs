@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Format pliku LITEMOD - plik modyfikacji Minecraft LiteLoader",
   "description":"Dowiedz się o formacie LITEMOD i interfejsach API, które umożliwiają tworzenie i otwieranie plików LITEMOD.",
-"linktitle": "LITEMOD",
+  "linktitle": "LITEMOD",
   "menu": {
     "docs": {
       "identifier": "game-litemod",

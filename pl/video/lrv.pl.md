@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Format pliku LRV - plik wideo o niskiej rozdzielczości z GoPro",
   "description":"Dowiedz się o formacie LRV i interfejsach API, które umożliwiają tworzenie i otwieranie plików LRV.",
-"tytuł łącza": "LRV",
+  "linktitle": "LRV",
   "menu": {
     "docs": {
       "identifier": "video-lrv",

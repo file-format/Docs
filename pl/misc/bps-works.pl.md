@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Format pliku BPS - Kopia zapasowa dokumentów Microsoft Works",
   "description":"Dowiedz się o formacie BPS Works i interfejsach API, które umożliwiają tworzenie i otwieranie plików BPS.",
-"linktitle": "BPS działa",
+  "linktitle": "BPS Works",
   "menu": {
     "docs": {
       "identifier": "misc-bps-works",

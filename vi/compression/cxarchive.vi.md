@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Định dạng tệp CXARCHIVE - Lưu trữ chai CrossOver",
   "description":"Tìm hiểu về định dạng và API của CXARCHIVE CrossOver Bottle Archive có thể tạo và mở tệp CXARCHIVE.",
-"linktitle":"CXARCHIVE",
+  "linktitle": "CXARCHIVE",
   "menu": {
     "docs": {
       "identifier": "compression-cxarchive",

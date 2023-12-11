@@ -9,10 +9,10 @@
   "draft" : "false",
   "toc" : true,
   "title" :"LBR - Định dạng tệp lưu trữ thư viện LU",
-  "description":"Tìm hiểu về định dạng tệp LBR và các API có thể tạo và mở tệp LBR.",
+  "linktitle" : "LBR",
   "linktitle" : "LBR",
   "menu" : {
-    "docs" : {
+      "parent" : "compression"
       "parent" : "compression"
 }
 },

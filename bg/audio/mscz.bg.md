@@ -17,7 +17,7 @@
 "toc": true,
 "title": "MSCZ файлов формат - MuseScore компресиран партитурен файл",
   "description":"Научете за MSCZ формата и API, които могат да създават и отварят MSCZ файлове.",
-"linktitle": "MSCZ",
+  "linktitle": "MSCZ",
   "menu": {
     "docs": {
       "identifier": "audio-mscz",

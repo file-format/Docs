@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Файлов формат на МАНИФЕСТ - файл с манифест на приложение на Windows",
   "description":"Научете за формата MANIFEST и API, които могат да създават и отварят MANIFEST файлове.",
-"linktitle": "МАНИФЕСТ",
+  "linktitle": "MANIFEST",
   "menu": {
     "docs": {
       "identifier": "system-manifest",

@@ -15,7 +15,7 @@
 "toc": true,
   "description":"Научете за APP файловия формат и API, които могат да създават и отварят APP файлове.",
 "title": "APP File Format - macOS Application Bundle",
-"linktitle": "приложение",
+  "linktitle": "APP",
   "menu": {
     "docs": {
       "identifier": "executable-app",

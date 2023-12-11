@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Format pliku HPP - plik nagłówkowy C++",
   "description":"Dowiedz się o formacie HPP i interfejsach API, które umożliwiają tworzenie i otwieranie plików HPP.",
-"tytuł łącza": "HPP",
+  "linktitle": "HPP",
   "menu": {
     "docs": {
       "identifier": "programming-hpp",

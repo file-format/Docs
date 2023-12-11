@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Formát souboru ARW - snímek digitálního fotoaparátu Sony Alpha Raw",
   "description":"Další informace o formátu ARW a rozhraních API, která mohou vytvářet a otevírat soubory ARW.",
-"linktitle": "ARW",
+  "linktitle": "ARW",
   "menu": {
     "docs": {
       "identifier": "image-arw",

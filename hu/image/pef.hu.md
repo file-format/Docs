@@ -17,7 +17,7 @@
 "toc": true,
 "title": "PEF fájlformátum - Pentax elektronikus fájl",
   "description":"További információ a PEF-formátumról és az API-król, amelyek PEF-fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "PEF",
+  "linktitle": "PEF",
   "menu": {
     "docs": {
       "identifier": "image-pef",

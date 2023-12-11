@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Định dạng tệp EPK - Gói tài sản Eaglercraft",
   "description":"Tìm hiểu về định dạng EPK và các API có thể tạo và mở tệp EPK.",
-"linktitle":"EPK",
+  "linktitle": "EPK",
   "menu": {
     "docs": {
       "identifier": "game-epk",

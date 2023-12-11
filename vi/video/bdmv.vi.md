@@ -16,7 +16,7 @@
 "toc":true,
 "title":"Định dạng tệp BDMV - Tệp thông tin phim trên đĩa Blu-ray",
    "description":"Tìm hiểu về định dạng BDMV và các API có thể tạo và mở tệp BDMV.",
-"linktitle":"BDMV",
+   "linktitle":"BDMV",
    "menu":{
       "docs":{
          "identifier":"video-bdmv",

@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Format pliku CBA - Archiwum komiksów",
   "description":"Dowiedz się o formacie CBA i interfejsach API, które umożliwiają tworzenie i otwieranie plików CBA.",
-"linktitle": "CBA",
+  "linktitle": "CBA",
   "menu": {
     "docs": {
       "identifier": "compression-cba",

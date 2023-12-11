@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Soubor CDR - Soubor dat načítání dat o selhání - Co je soubor .cdr a jak jej mohu otevřít?",
    "description":"Další informace o formátu souboru CDR Crash Data Retrieval Data a rozhraních API, která mohou vytvářet a otevírat soubory CDR.",
-"linktitle":"CDR",
+   "linktitle":"CDR",
    "menu":{
       "docs":{
          "identifier":"data-cdr-crash",

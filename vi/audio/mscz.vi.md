@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Định dạng tệp MSCZ - Tệp điểm nén MuseScore",
   "description":"Tìm hiểu về định dạng MSCZ và các API có thể tạo và mở tệp MSCZ.",
-"linktitle":"MSCZ",
+  "linktitle": "MSCZ",
   "menu": {
     "docs": {
       "identifier": "audio-mscz",

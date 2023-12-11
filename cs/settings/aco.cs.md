@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Formát souboru ACO - soubor vzorníku barev Adobe Photoshop",
   "description":"Další informace o formátu ACO a rozhraních API, která mohou vytvářet a otevírat soubory ACO.",
-"linktitle": "ACO",
+  "linktitle": "ACO",
   "menu": {
     "docs": {
       "identifier": "settings-aco",

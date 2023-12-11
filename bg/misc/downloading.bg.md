@@ -15,7 +15,7 @@
 "toc": true,
 "title": "ИЗТЕГЛЯНЕ на файлов формат - Pando непълен файл за изтегляне",
   "description":"Научете за формата за ИЗТЕГЛЯНЕ и API, които могат да създават и отварят файлове за ИЗТЕГЛЯНЕ.",
-"linktitle": "ИЗТЕГЛЯНЕ",
+  "linktitle": "DOWNLOADING",
   "menu": {
     "docs": {
       "identifier": "misc-downloading",

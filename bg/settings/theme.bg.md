@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Файлов формат THEME - Microsoft Plus! Тема за работен плот",
   "description":"Научете за формата THEME и API, които могат да създават и отварят THEME файлове.",
-"linktitle": "ТЕМА",
+  "linktitle": "THEME",
   "menu": {
     "docs": {
       "identifier": "settings-theme",

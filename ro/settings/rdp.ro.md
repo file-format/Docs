@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Format fișier RDP - fișier de configurare desktop la distanță",
   "description":"Aflați despre formatul RDP și API-urile care pot crea și deschide fișiere RDP.",
-"linktitle": "RDP",
+  "linktitle": "RDP",
   "menu": {
     "docs": {
       "identifier": "settings-rdp",

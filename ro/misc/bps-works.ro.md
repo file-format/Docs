@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Format fișier BPS - Backup document Microsoft Works",
   "description":"Aflați despre formatul BPS Works și despre API-urile care pot crea și deschide fișiere BPS.",
-"linktitle": "BPS funcționează",
+  "linktitle": "BPS Works",
   "menu": {
     "docs": {
       "identifier": "misc-bps-works",

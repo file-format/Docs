@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Định dạng tệp USR - Tệp cơ sở dữ liệu FileMaker Pro",
   "description":"Tìm hiểu về định dạng USR và các API có thể tạo và mở tệp USR.",
-"linktitle":"USR",
+  "linktitle": "USR",
   "menu": {
     "docs": {
       "identifier": "database-usr",

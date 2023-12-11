@@ -15,7 +15,7 @@
 "toc": true,
 "title": "EXP fájlformátum - DX sorozatból exportált videofájl",
   "description":"További információ az EXP formátumról és az EXP-fájlok létrehozására és megnyitására alkalmas API-król.",
-"linktitle": "EXP",
+  "linktitle": "EXP",
   "menu": {
     "docs": {
       "identifier": "video-exp",

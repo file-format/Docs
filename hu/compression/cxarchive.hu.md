@@ -17,7 +17,7 @@
 "toc": true,
 "title": "CXARCHIVE fájlformátum - CrossOver Bottle Archive",
   "description":"Tudjon meg többet a CXARCHIVE CrossOver Bottle Archive formátumról és az API-król, amelyek CXARCHIVE fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "CXARCHIVE",
+  "linktitle": "CXARCHIVE",
   "menu": {
     "docs": {
       "identifier": "compression-cxarchive",

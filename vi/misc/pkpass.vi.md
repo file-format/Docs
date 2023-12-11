@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Định dạng tệp PKPASS - Apple Wallet Pass",
   "description":"Tìm hiểu về định dạng PKPASS và các API có thể tạo và mở tệp PKPASS.",
-"linktitle":"PKPASS",
+  "linktitle": "PKPASS",
   "menu": {
     "docs": {
       "identifier": "misc-pkpass",

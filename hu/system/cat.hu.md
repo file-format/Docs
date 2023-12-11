@@ -16,7 +16,7 @@
 "toc":true,
 "title":"CAT fájlformátum - Windows katalógusfájl",
    "description":"További információ a CAT formátumról és az API-król, amelyek CAT fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle":"CAT",
+   "linktitle":"CAT",
    "menu":{
       "docs":{
          "identifier":"system-cat",

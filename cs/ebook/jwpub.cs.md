@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Formát souboru JWPUB - Publikace svědků Jehovových",
   "description":"Další informace o formátu JWPUB a rozhraních API, která mohou vytvářet a otevírat soubory JWPUB.",
-"linktitle": "JWPUB",
+  "linktitle": "JWPUB",
   "menu": {
     "docs": {
       "identifier": "ebook-jwpub",

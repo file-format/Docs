@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Formát souboru PRESTO - Presto Project Spreadsheet",
   "description":"Další informace o formátu PRESTO a rozhraních API, která mohou vytvářet a otevírat soubory PRESTO.",
-"linktitle": "PRESTO",
+  "linktitle": "PRESTO",
   "menu": {
     "docs": {
       "identifier": "spreadsheet-presto",

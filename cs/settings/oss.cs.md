@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Formát souboru OSS - uložený vyhledávací soubor aplikace Microsoft Outlook",
   "description":"Další informace o formátu OSS a rozhraních API, která mohou vytvářet a otevírat soubory OSS.",
-"linktitle": "OSS",
+  "linktitle": "OSS",
   "menu": {
     "docs": {
       "identifier": "settings-oss",

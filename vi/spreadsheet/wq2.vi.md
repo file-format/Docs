@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Định dạng tệp WQ2 - Quattro Pro cho tệp bảng tính DOS",
   "description":"Tìm hiểu về định dạng tệp WQ2 và các API có thể tạo và mở tệp WQ2.",
-"linktitle":"WQ2",
+  "linktitle": "WQ2",
   "menu": {
     "docs": {
       "identifier": "spreadsheet-wq2",

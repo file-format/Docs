@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Định dạng tệp CFG - Tệp cấu hình công cụ nguồn",
   "description":"Tìm hiểu về định dạng Tệp cấu hình công cụ nguồn CFG và các API có thể tạo và mở tệp CFG.",
-"linktitle":"Công cụ nguồn CFG",
+  "linktitle": "CFG Source Engine",
   "menu": {
     "docs": {
       "identifier": "game-cfg-sourceengine",

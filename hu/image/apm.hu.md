@@ -16,7 +16,7 @@
 "toc": true,
 "title": "APM fájlformátum - Aldus elhelyezhető metafájl kép",
   "description":"További információ az APM-formátumról és az API-król, amelyek APM-fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "APM",
+  "linktitle": "APM",
   "menu": {
     "docs": {
       "identifier": "image-apm",

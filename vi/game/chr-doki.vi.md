@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Định dạng tệp CHR - Câu lạc bộ văn học Doki Doki! Tệp nhân vật",
    "description":"Tìm hiểu về Câu lạc bộ Văn học CHR Doki Doki! Định dạng tệp nhân vật và API có thể tạo và mở tệp CHR.",
-"linktitle":"CHR Doki",
+   "linktitle":"CHR Doki",
    "menu":{
       "docs":{
          "identifier":"game-chr-doki",

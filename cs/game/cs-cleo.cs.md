@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Formát souboru CS - vlastní skript CLEO",
    "description":"Další informace o formátu CS CLEO Custom Script a rozhraních API, která mohou vytvářet a otevírat soubory CS.",
-"linktitle":"CS CLEO",
+   "linktitle":"CS CLEO",
    "menu":{
       "docs":{
          "identifier":"game-cs-cleo",

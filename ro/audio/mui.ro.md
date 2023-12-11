@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format fișier MUI - nenumărate fișiere de instrument de utilizator",
   "description":"Aflați despre formatul de fișier MUI și despre API-urile care pot crea și deschide fișiere MUI.",
-"linktitle": "MUI",
+  "linktitle": "MUI",
   "menu": {
     "docs": {
       "identifier": "audio-mui",

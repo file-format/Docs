@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Format pliku NOMEDIA - Android Brak pliku multimedialnego",
   "description":"Dowiedz się o formacie NOMEDIA i interfejsach API, które umożliwiają tworzenie i otwieranie plików NOMEDIA.",
-"linktitle": "NOMEDIA",
+  "linktitle": "NOMEDIA",
   "menu": {
     "docs": {
       "identifier": "misc-nomedia",

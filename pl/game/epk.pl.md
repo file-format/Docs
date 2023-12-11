@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Format pliku EPK - pakiet zasobów Eaglecraft",
   "description":"Dowiedz się o formacie EPK i interfejsach API, które umożliwiają tworzenie i otwieranie plików EPK.",
-"linktitle": "EPK",
+  "linktitle": "EPK",
   "menu": {
     "docs": {
       "identifier": "game-epk",

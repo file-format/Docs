@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Formát souboru PAT - soubor vzoru",
    "description":"Další informace o formátu souboru PAT Pattern a rozhraních API, která mohou vytvářet a otevírat soubory PAT.",
-"linktitle":"Vzor PAT",
+   "linktitle":"PAT Pattern",
    "menu":{
       "docs":{
          "identifier":"image-pat-pattern",

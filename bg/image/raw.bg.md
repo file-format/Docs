@@ -17,7 +17,7 @@
 "toc": true,
 "title": "RAW файлов формат - необработени данни за изображение",
   "description":"Научете за RAW формата и API, които могат да създават и отварят RAW файлове.",
-"linktitle": "RAW",
+  "linktitle": "RAW",
   "menu": {
     "docs": {
       "identifier": "image-raw",

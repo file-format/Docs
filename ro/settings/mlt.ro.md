@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Format fișier MLT - Proiect Shotcut",
   "description":"Aflați despre formatul MLT Shotcut Project și despre API-urile care pot crea și deschide fișiere MLT.",
-"linktitle": "MLT",
+  "linktitle": "MLT",
   "menu": {
     "docs": {
       "identifier": "settings-mlt",

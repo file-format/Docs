@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Formát souboru BAK - Záloha video projektu VEGAS",
   "description":"Další informace o formátu BAK VEGAS Video Project Backup a rozhraních API, která mohou vytvářet a otevírat soubory BAK.",
-"linktitle": "BAK VEGAS Video",
+  "linktitle": "BAK VEGAS Video",
   "menu": {
     "docs": {
       "identifier": "misc-bak-vegas",

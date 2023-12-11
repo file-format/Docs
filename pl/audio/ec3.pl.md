@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format pliku EC3 - plik z ulepszonym kodekiem audio 3",
   "description":"Dowiedz się o formacie pliku EC3 i interfejsach API, które umożliwiają tworzenie i otwieranie plików EC3.",
-"tytuł łącza": "EC3",
+  "linktitle": "EC3",
   "menu": {
     "docs": {
       "identifier": "audio-ec3",

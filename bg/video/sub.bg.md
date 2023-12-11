@@ -19,7 +19,7 @@
 "toc": true,
 "title": "SUB файлов формат - MicroDVD файл със субтитри",
   "description":"Научете за SUB формата и API, които могат да създават и отварят SUB файлове.",
-"linktitle": "SUB",
+  "linktitle": "SUB",
   "menu": {
     "docs": {
       "identifier": "video-sub",

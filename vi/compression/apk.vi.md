@@ -7,10 +7,10 @@
   "draft" : "false",
   "toc" : true,
   "title" :"APK - Tệp APK là gì?",
-  "description":"Tìm hiểu để biết tệp APK là gì và các API có thể tạo và mở tệp APK.",
+  "linktitle" : "APK",
   "linktitle" : "APK",
   "menu" : {
-    "docs" : {
+      "parent" : "compression"
       "parent" : "compression"
 }
 },

@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Định dạng tệp UDB - Tệp cơ sở dữ liệu người dùng Microsoft Dynamics AX",
   "description":"Tìm hiểu về định dạng UDB và các API có thể tạo và mở tệp UDB.",
-"linktitle":"UDB",
+  "linktitle": "UDB",
   "menu": {
     "docs": {
       "identifier": "database-udb",

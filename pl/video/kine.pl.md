@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format pliku KINE - plik projektu KineMaster",
   "description":"Dowiedz się o formacie pliku KINE i interfejsach API, które umożliwiają tworzenie i otwieranie plików KINE.",
-"tytuł linku": "KINE",
+  "linktitle": "KINE",
   "menu": {
     "docs": {
       "identifier": "video-kine",

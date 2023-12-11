@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Format pliku USR - plik bazy danych FileMaker Pro",
   "description":"Dowiedz się o formacie USR i interfejsach API, które umożliwiają tworzenie i otwieranie plików USR.",
-"tytuł łącza": "USR",
+  "linktitle": "USR",
   "menu": {
     "docs": {
       "identifier": "database-usr",

@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Định dạng tệp RAW - Dữ liệu hình ảnh thô",
   "description":"Tìm hiểu về định dạng RAW và các API có thể tạo và mở tệp RAW.",
-"linktitle":"RAW",
+  "linktitle": "RAW",
   "menu": {
     "docs": {
       "identifier": "image-raw",

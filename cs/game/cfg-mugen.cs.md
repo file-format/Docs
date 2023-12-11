@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Formát souboru CFG - konfigurační soubor MUGEN",
   "description":"Další informace o formátu konfiguračního souboru CFG MUGEN a rozhraních API, která mohou vytvářet a otevírat soubory CFG.",
-"linktitle": "CFG MUGEN",
+  "linktitle": "CFG M.U.G.E.N",
   "menu": {
     "docs": {
       "identifier": "game-cfg-mugen",

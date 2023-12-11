@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Format pliku HTT - Szablon hipertekstu",
   "description":"Dowiedz się o formacie HTT i interfejsach API, które umożliwiają tworzenie i otwieranie plików HTT.",
-"tytuł łącza": "HTT",
+  "linktitle": "HTT",
   "menu": {
     "docs": {
       "identifier": "system-htt",

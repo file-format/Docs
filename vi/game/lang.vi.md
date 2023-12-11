@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Định dạng tệp LANG - Tệp bản địa hóa ngôn ngữ Minecraft",
   "description":"Tìm hiểu về định dạng LANG và các API có thể tạo và mở tệp LANG.",
-"linktitle":"LANG",
+  "linktitle": "LANG",
   "menu": {
     "docs": {
       "identifier": "game-lang",

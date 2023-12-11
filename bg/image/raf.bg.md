@@ -17,7 +17,7 @@
 "toc": true,
 "title": "RAF файлов формат - Fujifilm RAW изображение",
   "description":"Научете за RAF формата и API, които могат да създават и отварят RAF файлове.",
-"linktitle": "RAF",
+  "linktitle": "RAF",
   "menu": {
     "docs": {
       "identifier": "image-raf",

@@ -18,7 +18,7 @@
 "toc": true,
 "title": "DESKTOP файлов формат - настолен входен файл",
   "description":"Научете повече за DESKTOP формата и API, които могат да създават и отварят DESKTOP файлове.",
-"linktitle": "ДЕСКОП",
+  "linktitle": "DESKTOP",
   "menu": {
     "docs": {
       "identifier": "settings-desktop",

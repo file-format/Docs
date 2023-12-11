@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Formát souboru PC3 - Konfigurační soubor plotru AutoCAD",
   "description":"Další informace o formátu PC3 a rozhraních API, která mohou vytvářet a otevírat soubory PC3.",
-"linktitle": "PC3",
+  "linktitle": "PC3",
   "menu": {
     "docs": {
       "identifier": "cad-pc3",

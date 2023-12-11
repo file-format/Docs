@@ -17,7 +17,7 @@
 "toc": true,
 "title":"Plik INK - Referencja Pantone - Co to jest plik .ink i jak go otworzyć?",
    "description":"Dowiedz się o formacie pliku INK Pantone Reference i interfejsach API, które umożliwiają tworzenie i otwieranie plików INK.",
-"linktitle":"INK",
+   "linktitle":"INK",
    "menu":{
       "docs":{
          "identifier":"image-ink",

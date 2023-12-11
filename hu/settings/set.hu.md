@@ -15,7 +15,7 @@
 "toc": true,
 "title": "SET fájlformátum - dokumentumkönyvtár tulajdonságkészlet fájl",
   "description":"További információ a SET formátumról és az API-król, amelyek SET fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "SET",
+  "linktitle": "SET",
   "menu": {
     "docs": {
       "identifier": "settings-set",

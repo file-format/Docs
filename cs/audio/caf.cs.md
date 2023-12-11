@@ -17,7 +17,7 @@
 "toc":true,
 "title":"Formát souboru CAF – základní zvukový soubor",
    "description":"Další informace o formátu CAF a rozhraních API, která mohou vytvářet a otevírat soubory CAF.",
-"linktitle":"CAF",
+   "linktitle":"CAF",
    "menu":{
       "docs":{
          "identifier":"audio-caf",

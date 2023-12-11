@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Formát souboru PDS - soubor skriptu PowerDirector",
   "description":"Další informace o formátu PDS a rozhraních API, která mohou vytvářet a otevírat soubory PDS.",
-"linktitle": "PDS",
+  "linktitle": "PDS",
   "menu": {
     "docs": {
       "identifier": "video-pds",

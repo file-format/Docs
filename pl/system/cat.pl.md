@@ -16,7 +16,7 @@
 "toc": true,
 "title":"Format pliku CAT - plik katalogu Windows",
    "description":"Dowiedz się o formacie CAT i interfejsach API, które umożliwiają tworzenie i otwieranie plików CAT.",
-"linktitle":"KOT",
+   "linktitle":"CAT",
    "menu":{
       "docs":{
          "identifier":"system-cat",

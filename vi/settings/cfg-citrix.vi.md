@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Định dạng tệp CFG - Tệp kết nối máy chủ Citrix",
   "description":"Tìm hiểu về định dạng Tệp kết nối máy chủ CFG Citrix và các API có thể tạo và mở tệp CFG.",
-"linktitle":"CFG Citrix",
+  "linktitle": "CFG Citrix",
   "menu": {
     "docs": {
       "identifier": "settings-cfg-citrix",

@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Formát souboru IT - modul Impulse Tracker",
   "description":"Další informace o formátu IT a rozhraních API, která mohou vytvářet a otevírat soubory IT.",
-"linktitle": "IT",
+  "linktitle": "IT",
   "menu": {
     "docs": {
       "identifier": "audio-it",

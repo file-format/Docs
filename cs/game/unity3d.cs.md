@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Formát souboru Unity3D - Archiv webového přehrávače Unity",
   "description":"Další informace o formátu Unity3D a rozhraních API, která mohou vytvářet a otevírat soubory Unity3D.",
-"linktitle": "Unity3D",
+  "linktitle": "Unity3D",
   "menu": {
     "docs": {
       "identifier": "game-unity3d",

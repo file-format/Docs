@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Format fișier BMS - Script QuickBMS",
   "description":"Aflați despre formatul BMS și despre API-urile care pot crea și deschide fișiere BMS.",
-"linktitle": "BMS",
+  "linktitle": "BMS",
   "menu": {
     "docs": {
       "identifier": "executable-bms",

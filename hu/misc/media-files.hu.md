@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Mik azok a médiafájlok? Típusok, formátumok és hatásuk a digitális kommunikációra",
   "description":"Ismerje meg a médiafájlokat, azok típusait, formátumait és a digitális kommunikációra gyakorolt hatását.",
-"linktitle": "MEDIA FILES",
+  "linktitle": "MEDIA FILES",
   "menu": {
     "docs": {
       "identifier": "misc-media-files",

@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Định dạng tệp DXB - Bản vẽ nhị phân trao đổi",
   "description":"Tìm hiểu về định dạng DXB và các API có thể tạo và mở tệp DXB.",
-"linktitle":"DXB",
+  "linktitle": "DXB",
   "menu": {
     "docs": {
       "identifier": "cad-dxb",

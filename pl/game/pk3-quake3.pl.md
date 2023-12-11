@@ -17,7 +17,7 @@
 "toc": true,
 "title":"Format pliku PK3 - dane gry silnika Quake 3",
    "description":"Dowiedz się o formacie pliku danych gry silnika PK3 Quake 3 i interfejsach API, które umożliwiają tworzenie i otwieranie plików PK3.",
-"linktitle":"PK3",
+   "linktitle":"PK3",
    "menu":{
       "docs":{
          "identifier":"game-pk3-quake3",

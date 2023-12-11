@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Formát souboru CSX - Visual C# Script",
   "description":"Další informace o formátu CSX a rozhraních API, která mohou vytvářet a otevírat soubory CSX.",
-"linktitle": "CSX",
+  "linktitle": "CSX",
   "menu": {
     "docs": {
       "identifier": "programming-csx",

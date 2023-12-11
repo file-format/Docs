@@ -17,7 +17,7 @@
 "toc": true,
 "title":"Format pliku M2V - wideo MPEG-2",
    "description":"Dowiedz się o formacie pliku wideo M2V MPEG-2 i interfejsach API, które umożliwiają tworzenie i otwieranie plików M2V.",
-"linktitle":"M2V",
+   "linktitle":"M2V",
    "menu":{
       "docs":{
          "identifier":"video-m2v",

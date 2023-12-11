@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Định dạng tệp RMD - Tệp R Markdown",
   "description":"Tìm hiểu về định dạng RMD và các API có thể tạo và mở tệp RMD.",
-"linktitle":"RMD",
+  "linktitle": "RMD",
   "menu": {
     "docs": {
       "identifier": "word-processing-rmd",

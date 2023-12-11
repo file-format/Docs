@@ -18,7 +18,7 @@
 "toc": true,
 "title": "Format pliku OGV - plik wideo Ogg",
   "description":"Dowiedz się o formacie OGV i interfejsach API, które umożliwiają tworzenie i otwieranie plików OGV.",
-"tytuł linku": "OGV",
+  "linktitle": "OGV",
   "menu": {
     "docs": {
       "identifier": "video-ogv",

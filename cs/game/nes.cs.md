@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Formát souboru NES - soubor ROM Nintendo Entertainment System",
   "description":"Další informace o formátu NES a rozhraních API, která mohou vytvářet a otevírat soubory NES.",
-"linktitle": "NES",
+  "linktitle": "NES",
   "menu": {
     "docs": {
       "identifier": "game-nes",

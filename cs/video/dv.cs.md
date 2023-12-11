@@ -18,7 +18,7 @@
 "toc": true,
 "title": "Formát souboru DV - soubor digitálního videa",
   "description":"Další informace o formátu DV a rozhraních API, která mohou vytvářet a otevírat soubory DV.",
-"linktitle": "DV",
+  "linktitle": "DV",
   "menu": {
     "docs": {
       "identifier": "video-dv",

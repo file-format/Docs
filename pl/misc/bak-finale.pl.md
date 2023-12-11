@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Format pliku BAK - kopia zapasowa partytury finału 2012",
   "description":"Dowiedz się o formacie BAK Finale i interfejsach API, które umożliwiają tworzenie i otwieranie plików BAK.",
-"linktitle": "Finał BAK",
+  "linktitle": "BAK Finale",
   "menu": {
     "docs": {
       "identifier": "misc-bak-finale",

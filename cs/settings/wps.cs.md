@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Formát souboru WPS - soubor projektu SDL Translator's Workbench",
   "description":"Další informace o formátu WPS a rozhraních API, která mohou vytvářet a otevírat soubory WPS.",
-"linktitle": "WPS",
+  "linktitle": "WPS",
   "menu": {
     "docs": {
       "identifier": "settings-wps",

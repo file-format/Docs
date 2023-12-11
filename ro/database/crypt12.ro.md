@@ -14,7 +14,7 @@
 "toc": true,
 "title": "Format de fișier CRYPT12 - fișier de bază de date criptat WhatsApp",
   "description":"Aflați despre formatul CRYPT12 și despre API-urile care pot crea și deschide fișiere CRYPT12.",
-"linktitle": "CRYPT12",
+  "linktitle": "CRYPT12",
   "menu": {
     "docs": {
       "identifier": "database-crypt12",

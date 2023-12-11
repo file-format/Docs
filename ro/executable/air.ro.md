@@ -14,7 +14,7 @@
 "toc": true,
   "description":"Aflați despre formatul de fișier AIR și despre API-urile care pot crea și deschide fișiere AIR.",
 "title": "Format fișier AIR - fișier pachet de instalare Adobe AIR",
-"linktitle": "AIR",
+  "linktitle": "AIR",
   "menu": {
     "docs": {
       "identifier": "executable-air",

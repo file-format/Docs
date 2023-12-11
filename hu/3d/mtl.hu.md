@@ -17,7 +17,7 @@
 "toc":true,
 "title":"MTL fájl formátum - OBJ anyagsablon könyvtár fájl",
    "description":"További információ az MTL OBJ Material Template Library fájlformátumról és az API-król, amelyek MTL fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle":"MTL",
+   "linktitle":"MTL",
    "menu":{
       "docs":{
          "identifier":"3d-mtl",

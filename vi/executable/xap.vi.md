@@ -15,7 +15,7 @@
 "toc": true,
   "description":"Tìm hiểu về định dạng tệp XAP và các API có thể tạo và mở tệp XAP.",
 "title": "Định dạng tệp XAP - Gói ứng dụng Silverlight",
-"linktitle":"XAP",
+  "linktitle": "XAP",
   "menu": {
     "docs": {
       "identifier": "executable-xap",

@@ -18,7 +18,7 @@
 "toc": true,
 "title": "VMX fájlformátum - VMware virtuális gép konfigurációs fájl",
   "description":"További információ a VMX formátumról és az API-król, amelyek VMX-fájlokat hozhatnak létre és nyithatnak meg.",
-"linktitle": "VMX",
+  "linktitle": "VMX",
   "menu": {
     "docs": {
       "identifier": "settings-vmx",

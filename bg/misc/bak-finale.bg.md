@@ -17,7 +17,7 @@
 "toc": true,
 "title": "BAK файлов формат - Архивиране на резултатите от финала 2012",
   "description":"Научете за формата BAK Finale и API, които могат да създават и отварят BAK файлове.",
-"linktitle": "BAK финал",
+  "linktitle": "BAK Finale",
   "menu": {
     "docs": {
       "identifier": "misc-bak-finale",

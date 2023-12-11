@@ -18,7 +18,7 @@
 "toc": true,
 "title": "Format de fișier DESKTOP - fișier de intrare pe desktop",
   "description":"Aflați despre formatul DESKTOP și despre API-urile care pot crea și deschide fișiere DESKTOP.",
-"linktitle": "DESKTOP",
+  "linktitle": "DESKTOP",
   "menu": {
     "docs": {
       "identifier": "settings-desktop",

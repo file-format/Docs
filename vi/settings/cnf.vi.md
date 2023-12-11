@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Định dạng tệp CNF - Tệp cấu hình MySQL",
   "description":"Tìm hiểu về định dạng CNF và các API có thể tạo và mở tệp CNF.",
-"linktitle":"CNF",
+  "linktitle": "CNF",
   "menu": {
     "docs": {
       "identifier": "settings-cnf",

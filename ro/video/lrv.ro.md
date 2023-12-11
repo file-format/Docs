@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Format fișier LRV - Fișier video cu rezoluție joasă de la GoPro",
   "description":"Aflați despre formatul LRV și despre API-urile care pot crea și deschide fișiere LRV.",
-"linktitle": "LRV",
+  "linktitle": "LRV",
   "menu": {
     "docs": {
       "identifier": "video-lrv",

@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Format pliku CFG - plik połączenia z serwerem Citrix",
   "description":"Dowiedz się o formacie pliku połączenia serwera CFG Citrix i interfejsach API, które umożliwiają tworzenie i otwieranie plików CFG.",
-"linktitle": "CFG Citrix",
+  "linktitle": "CFG Citrix",
   "menu": {
     "docs": {
       "identifier": "settings-cfg-citrix",

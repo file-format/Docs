@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Format fișier DXB - Schimb binar de desene",
   "description":"Aflați despre formatul DXB și despre API-urile care pot crea și deschide fișiere DXB.",
-"linktitle": "DXB",
+  "linktitle": "DXB",
   "menu": {
     "docs": {
       "identifier": "cad-dxb",

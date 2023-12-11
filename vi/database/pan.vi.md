@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Định dạng tệp PAN - Tệp cơ sở dữ liệu toàn cảnh",
   "description":"Tìm hiểu về định dạng PAN và các API có thể tạo và mở tệp PAN.",
-"linktitle":"PAN",
+  "linktitle": "PAN",
   "menu": {
     "docs": {
       "identifier": "database-pan",

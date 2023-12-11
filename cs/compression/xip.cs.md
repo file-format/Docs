@@ -17,7 +17,7 @@
 "toc": true,
 "title": "Formát souboru XIP - Archiv podepsaný MacOS",
   "description":"Další informace o formátu XIP a rozhraních API, která mohou vytvářet a otevírat soubory XIP.",
-"linktitle": "XIP",
+  "linktitle": "XIP",
   "menu": {
     "docs": {
       "identifier": "compression-xip",

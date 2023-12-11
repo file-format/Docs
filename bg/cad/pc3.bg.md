@@ -17,7 +17,7 @@
 "toc": true,
 "title": "PC3 файлов формат - AutoCAD конфигурационен файл за плотер",
   "description":"Научете за PC3 формат и API, които могат да създават и отварят PC3 файлове.",
-"linktitle": "PC3",
+  "linktitle": "PC3",
   "menu": {
     "docs": {
       "identifier": "cad-pc3",

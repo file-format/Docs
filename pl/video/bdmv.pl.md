@@ -16,7 +16,7 @@
 "toc": true,
 "title":"Format pliku BDMV - plik informacyjny filmu na płycie Blu-ray",
    "description":"Dowiedz się o formacie BDMV i interfejsach API, które umożliwiają tworzenie i otwieranie plików BDMV.",
-"linktitle":"BDMV",
+   "linktitle":"BDMV",
    "menu":{
       "docs":{
          "identifier":"video-bdmv",

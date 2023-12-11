@@ -16,7 +16,7 @@
 "toc": true,
 "title": "Format pliku CSX - skrypt Visual C#",
   "description":"Dowiedz się o formacie CSX i interfejsach API, które umożliwiają tworzenie i otwieranie plików CSX.",
-"tytuł linku": "CSX",
+  "linktitle": "CSX",
   "menu": {
     "docs": {
       "identifier": "programming-csx",

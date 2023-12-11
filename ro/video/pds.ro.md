@@ -15,7 +15,7 @@
 "toc": true,
 "title": "Format fișier PDS - Fișier script PowerDirector",
   "description":"Aflați despre formatul PDS și despre API-urile care pot crea și deschide fișiere PDS.",
-"linktitle": "PDS",
+  "linktitle": "PDS",
   "menu": {
     "docs": {
       "identifier": "video-pds",
