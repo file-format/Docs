@@ -32,26 +32,6 @@ A Windows Catalog File, also known as .cat file, plays crucial role in Windows o
 
 The primary purpose of .cat file is to enable verification of system files, drivers or software components during installation or while system is in operation. When you install driver or software package, Windows examines digital signature of corresponding .cat file to confirm that files it references have not been tampered with or modified since they were signed. By using .cat files, Windows can verify authenticity of files and detect any unauthorized modifications. This security measure helps prevent installation or execution of potentially malicious or compromised files on Windows system.
 
-## CAT File Format - More Information
-
-Here are some important information about Windows Catalog Files:
-
-- **Verification:** Windows Catalog Files are used to verify integrity and authenticity of other files, such as system files, drivers or software components.
-- **Digital Signature:** A .cat file contains digital signature from trusted authority. This signature ensures that catalog file and files it references have not been tampered with or modified since they were signed.
-- **Cryptographic Hash:** The .cat file includes cryptographic hash values of files it catalogs. These hash values act as unique fingerprint for each file and are used to detect any modifications or tampering.
-- **Tamper Detection:** During installation or system operation, Windows checks digital signature and cryptographic hash values in .cat file to ensure associated files have not been tampered with or compromised.
-- **Malware Prevention:** The use of .cat files helps prevent installation or execution of potentially malicious or unauthorized files on Windows system. It adds layer of security by verifying integrity and authenticity of files before allowing their installation or execution.
-- **System Integrity:** Windows relies on .cat files to maintain integrity of its system files and components. If any files are found to have been modified or compromised, Windows may refuse to install or run them, protecting stability and security of operating system.
-- **Deployment and Updates:** .cat files are commonly used during deployment and update processes of drivers, software packages and Windows system updates. They ensure that only authentic and unmodified files are installed or updated on Windows system.
-
-**Note:**
-
-Windows Catalog Files (.cat) can help suppress multiple trust dialog popups for new software component downloads. When software component is accompanied by a .cat file signed by trusted authority, it establishes component as coming from trusted source.
-
-Once user has chosen to "Always trust content" from software distributor, future downloads from same distributor that utilize .cat file will be considered trusted. As a result, Windows does not display trust popup window for those files, as they have already been established as trusted based on previous user's decision.
-
-This functionality simplifies user experience by reducing number of trust dialog popups that appear for files from known and trusted source. By leveraging trust established through .cat file, Windows can streamline the process for installing or running software components from that particular distributor in the future.
-
 ## CAT in Windows
 
 **CAT command in Windows** is used to display contents of text file directly in command prompt window. However, native Windows command prompt does not include a built-in "cat" command like in Unix-based systems.
