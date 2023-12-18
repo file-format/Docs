@@ -29,7 +29,7 @@
 
 ## What is an FZZ file?
 
-The ".fzz" file extension is associated with **Fritzing**, an open-source hardware initiative that makes electronics accessible as creative material for anyone. Fritzing allows users to design and document their electronic projects. The ".fzz" file is **Fritzing Shareable Project File** which means it contains information about components, connections and layout of particular electronics project created using Fritzing.
+The **".fzz" file** extension is associated with **Fritzing**, an open-source hardware initiative that makes electronics accessible as creative material for anyone. Fritzing allows users to design and document their electronic projects. The **fzz file** is **Fritzing Shareable Project File** which means it contains information about components, connections and layout of particular electronics project created using Fritzing.
 
  ##  FZZ file - Brief Overview
 
