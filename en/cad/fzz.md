@@ -45,7 +45,7 @@ The ".fzz" file extension is associated with **Fritzing**, an open-source hardwa
 
 ## How to open an FZZ file
 
-To open an ".fzz" file, you'll need to have Fritzing installed on your computer. 
+**To open an ".fzz" file, you'll need to have Fritzing installed on your computer.** 
 
 1. Open the Fritzing application.
 2. In Fritzing, go to the "File" menu.
