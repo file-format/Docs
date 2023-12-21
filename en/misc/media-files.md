@@ -13,8 +13,8 @@
   },
   "draft": "false",
   "toc": true,
-  "title": "What are Media Files? Types, Formats, and their Impact on Digital Communication",
-  "description": "Learn about Media Files, their Types, Formats and Impact on Digital Communication.",
+  "title": "What are Media Files? Types and Formats",
+  "description": "Learn about Media Files, their Types and Formats.",
   "linktitle": "MEDIA FILES",
   "menu": {
     "docs": {
@@ -27,7 +27,40 @@
 
 ## What are Media Files? Types and Formats
 
-In the digital age, media files play an integral role in our daily lives. Whether it's a captivating image, a compelling video, or an enchanting audio clip, media files have the power to engage, inform, and entertain us. Understanding the different types and formats of media files is essential for effective communication in today's media-driven world. 
+Media files refer to digital files that store various types of multimedia content, such as audio, video, images and more. These files can be created, edited and shared using various devices and software applications. 
+
+Media files play a pivotal role in modern digital communication, entertainment and creative expression, enabling the storage, sharing and playback of diverse multimedia content across various platforms and devices.
+
+## Common Media File Types
+
+Here is a list of main and common media file types
+
+**Image Files**
+
+1. [JPEG](/image/jpeg/)
+2. [PNG](/image/png/)
+3. [GIF](/image/gif/)
+4. [TIFF](/image/tiff/)
+5. [BMP](/image/bmp/)
+6. [SVG](/page-description-language/svg/)
+
+**Audio Files**
+
+1. [MP3](/audio/mp3/)
+2. [FLAC](/audio/flac/)
+3. [WAV](/audio/wav/)
+4. [AAC](/audio/aac/)
+5. [OGG](/audio/ogg/)
+
+**Video Files**
+
+1. [MP4](/video/mp4/)
+2. [AVI](/video/avi/)
+3. [MKV](/video/mkv/)
+4. [MOV](/video/mov/)
+5. [AVCHD](/video/avchd/)
+6. [H.264](/video/h264/)
+7. [H.265](/video/h265/)
 
 ## Understanding Media File Types:
 
