@@ -46,5 +46,14 @@ To restore your WhatsApp messages from a .crypt14 backup file, you can follow th
 
 It is worth noting that if you have a backup file from an older version of WhatsApp (prior to version 2.12.556), the file may have a different file extension and may not be compatible with newer versions of the app. In that case, you may need to first update your WhatsApp app to the latest version and then create a new backup file.
 
+## How to open CRYPT14 file?
+
+Crypt14 files are a type of **encrypted container**, designed to secure and protect sensitive information. They commonly utilize **advanced encryption algorithms** to safeguard their contents from unauthorized access.
+
+**To open a Crypt14 file, you will need decryption software compatible with the encryption algorithm employed.** Various tools are available online that cater to specific encryption methods
+
+Each decryption tool comes with its set of instructions. Carefully follow the steps provided by the chosen software to decrypt the Crypt14 file. This may involve specifying the file path, **entering a decryption key** or utilizing other authentication methods.
+
+
 ## References
 * [WhatsApp](https://en.wikipedia.org/wiki/WhatsApp)
