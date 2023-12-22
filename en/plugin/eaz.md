@@ -29,5 +29,4 @@ The Addins.xml file essentially acts as a roadmap, offering insights into the sp
 
 ## References
 
- * [Sharing and installing add-ins
-](https://desktop.arcgis.com/en/arcmap/latest/analyze/python-addins/sharing-and-installing-add-ins.htm)
+ * [Sharing and installing add-ins](https://desktop.arcgis.com/en/arcmap/latest/analyze/python-addins/sharing-and-installing-add-ins.htm)
