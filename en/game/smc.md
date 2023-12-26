@@ -56,3 +56,32 @@ You have the option to launch and play Super Nintendo game stored in an SMC file
 6.  **OpenEmu**: OpenEmu is a multi-system emulator for macOS that includes SNES emulation among its supported platforms.
     
 7.  **RetroArch**: RetroArch is a versatile emulator that supports multiple systems, including Super Nintendo. It has a user-friendly interface and is available on various platforms.
+
+## About Super Nintendo Entertainment System
+
+The **Super Nintendo Entertainment System (SNES)** is 16-bit home video game console developed by Nintendo. It was first released in Japan in 1990 and later in North America, Europe and other regions. The SNES is the successor to original Nintendo Entertainment System (NES) and is part of fourth generation of video game consoles.
+
+Key features and aspects of **Super Nintendo Entertainment System** include:
+
+1.  **16-Bit Graphics and Sound:** The SNES introduced 16-bit graphics, which allowed for more detailed and colorful visuals compared to its 8-bit predecessor. It also featured improved audio capabilities, providing richer sound quality.
+    
+2.  **Controller:** The SNES controller is iconic, featuring design with four face buttons (A, B, X, and Y), directional pad, two shoulder buttons (L and R), and start and select buttons.
+    
+3.  **Games:** The SNES had a vast library of games that are highly regarded and considered classics today. Some notable titles include **Super Mario World**, **The Legend of Zelda: A Link to the Past**, **Super Metroid**, **Super Mario Kart** and many more.
+    
+4.  **Mode 7 Graphics:** The SNES introduced Mode 7 graphics, a graphical mode that allowed for rotating and scaling effect, giving pseudo-3D appearance. This feature was used in games like F-Zero and Super Mario Kart.
+    
+5.  **Peripheral Support:** The SNES supported various peripherals, including Super Scope light gun, Super Multitap for multiplayer games and Super Game Boy accessory which allowed players to play Game Boy games on SNES.
+
+## SNES ROMS vs SMC Files
+
+1.  **SNES ROMs:**
+    
+    -   "ROM" stands for "Read-Only Memory."
+    -   In context of video games, a ROM is a file that contains copy of data from game cartridge's ROM chip.
+    -   SNES ROMs refer specifically to ROM files associated with games designed for Super Nintendo Entertainment System.
+2.  **SMC Files:**
+    
+    -   "SMC" stands for "Super Nintendo Entertainment System ROM Image."
+    -   SMC files are specific type of SNES ROM file format.
+    -   SMC files contain data from Super Nintendo game cartridge and are used in the context of emulators to play SNES games on platforms like personal computers.
