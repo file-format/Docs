@@ -86,3 +86,42 @@ cd path/to/script
 ```
 bash greeting.sh
 ```
+
+## What does $@ mean in Shell Script?
+
+In shell script, `$@` represents all the command-line arguments passed to script. It is often used to reference list of arguments as separate entities. When used within double quotes, like `"$@"`, it preserves individual arguments, accounting for spaces and special characters.
+
+Here is brief explanation:
+
+-   `$@`: Represents all positional parameters (arguments) passed to script or function. Each argument is treated as separate word.
+    
+-   `"$@"`: When double-quoted, preserves separation of arguments, allowing for spaces or special characters within individual arguments.
+    
+
+Here is simple example to illustrate:
+
+```
+#!/bin/bash
+
+# Save this script as example.sh
+
+echo "The total number of arguments is: $#"
+echo "The arguments are: $@"
+echo "The arguments with double quotes are: \"$@\""
+```
+
+When you run this script with arguments, for example:
+
+```
+bash example.sh arg1 "argument 2" arg3
+```
+
+It would output:
+
+```
+The total number of arguments is: 3
+The arguments are: arg1 argument 2 arg3
+The arguments with double quotes are: "arg1" "argument 2" "arg3"
+```
+
+As you can see, `$@` represents all arguments, and `"$@"` preserves the individual arguments, even if they contain spaces.
