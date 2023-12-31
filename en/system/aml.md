@@ -23,7 +23,7 @@ An AML file is a system file created with the Advanced Configuration and Power I
 
 ## ACPI AML File Format
 
-AML files are saved as binary files to disc with contents written in byte code. The file format specifications of ACPI standard are available on [uefi](https://uefi.org/node/735). The language has been designed to offer stability and backward-compatibility, requiring less re-writes or re-builds of the application stack.
+AML files are saved as binary files to disc with contents written in byte code. The file format specifications of ACPI standard are available on [uefi](https://uefi.org/). The language has been designed to offer stability and backward-compatibility, requiring less re-writes or re-builds of the application stack.
 
 ## AML File Format Specifications
 

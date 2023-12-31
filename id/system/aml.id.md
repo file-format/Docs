@@ -23,7 +23,7 @@ File AML adalah file sistem yang dibuat dengan bahasa Advanced Configuration and
 
 ## Format File AML ACPI
 
-File AML disimpan sebagai file biner ke disk dengan konten yang ditulis dalam kode byte. Spesifikasi format file standar ACPI tersedia di [uefi](https://uefi.org/node/735). Bahasa ini telah dirancang untuk menawarkan stabilitas dan kompatibilitas mundur, membutuhkan lebih sedikit penulisan ulang atau pembuatan ulang tumpukan aplikasi.
+File AML disimpan sebagai file biner ke disk dengan konten yang ditulis dalam kode byte. Spesifikasi format file standar ACPI tersedia di [uefi](https://uefi.org/). Bahasa ini telah dirancang untuk menawarkan stabilitas dan kompatibilitas mundur, membutuhkan lebih sedikit penulisan ulang atau pembuatan ulang tumpukan aplikasi.
 
 ## Spesifikasi Format File AML
 

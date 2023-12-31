@@ -23,7 +23,7 @@ Un archivo AML es un archivo de sistema creado con el lenguaje de configuración
 
 ## Formato de archivo ACPI AML
 
-Los archivos AML se guardan como archivos binarios en el disco con contenidos escritos en código de bytes. Las especificaciones de formato de archivo del estándar ACPI están disponibles en [uefi](https://uefi.org/node/735). El lenguaje ha sido diseñado para ofrecer estabilidad y compatibilidad con versiones anteriores, lo que requiere menos reescrituras o reconstrucciones de la pila de aplicaciones.
+Los archivos AML se guardan como archivos binarios en el disco con contenidos escritos en código de bytes. Las especificaciones de formato de archivo del estándar ACPI están disponibles en [uefi](https://uefi.org/). El lenguaje ha sido diseñado para ofrecer estabilidad y compatibilidad con versiones anteriores, lo que requiere menos reescrituras o reconstrucciones de la pila de aplicaciones.
 
 ## Especificaciones del formato de archivo AML
 

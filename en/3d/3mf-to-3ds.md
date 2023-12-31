@@ -20,7 +20,7 @@
 
 FilmBox, known as 3MF, is a 3D file format initially created by Kaydara for compatibility with MotionBuilder. In 2006, Autodesk Inc. took over, making it a vital standard for smooth 3D data interchange among various software applications. A file with a .3ds extension is a format used by Autodesk's 3D Studio software, dating back to the 1990s. It contains data for 3D scenes and is widely used for importing and exporting 3D data.
 
-Transforming [3MF files](/3d/3MF/) into [3DS format](/3d/3ds/) is a frequently encountered requirement for users, and various free online tools are available for this task. If you are a software developer looking to integrate 3MF to 3DS conversion functionality into your .NET, Java, or Python application, we recommend investigating the Aspose.3D APIs as a dependable solution.
+Transforming [3MF files](/3d/3mf/) into [3DS format](/3d/3ds/) is a frequently encountered requirement for users, and various free online tools are available for this task. If you are a software developer looking to integrate 3MF to 3DS conversion functionality into your .NET, Java, or Python application, we recommend investigating the Aspose.3D APIs as a dependable solution.
 
 ## 3MF to 3DS Conversion - Free Demo
 

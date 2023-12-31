@@ -23,7 +23,7 @@ Um arquivo AML é um arquivo de sistema criado com a linguagem ACPI (Advanced Co
 
 ## Formato de arquivo ACPI AML
 
-Os arquivos AML são salvos como arquivos binários em disco com conteúdo escrito em código de byte. As especificações de formato de arquivo do padrão ACPI estão disponíveis em [uefi](https://uefi.org/node/735). A linguagem foi projetada para oferecer estabilidade e compatibilidade com versões anteriores, exigindo menos reescritas ou reconstruções da pilha de aplicativos.
+Os arquivos AML são salvos como arquivos binários em disco com conteúdo escrito em código de byte. As especificações de formato de arquivo do padrão ACPI estão disponíveis em [uefi](https://uefi.org/). A linguagem foi projetada para oferecer estabilidade e compatibilidade com versões anteriores, exigindo menos reescritas ou reconstruções da pilha de aplicativos.
 
 ## Especificações de formato de arquivo AML
 

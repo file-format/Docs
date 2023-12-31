@@ -23,7 +23,7 @@ En AML-fil är en systemfil som skapats med språket Advanced Configuration and 
 
 ## ACPI AML filformat
 
-AML-filer sparas som binära filer på skiva med innehåll skrivet i bytekod. Filformatspecifikationerna för ACPI-standarden finns på [uefi](https://uefi.org/node/735). Språket har utformats för att erbjuda stabilitet och bakåtkompatibilitet, vilket kräver mindre omskrivningar eller ombyggnader av applikationsstacken.
+AML-filer sparas som binära filer på skiva med innehåll skrivet i bytekod. Filformatspecifikationerna för ACPI-standarden finns på [uefi](https://uefi.org/). Språket har utformats för att erbjuda stabilitet och bakåtkompatibilitet, vilket kräver mindre omskrivningar eller ombyggnader av applikationsstacken.
 
 ## AML-filformatspecifikationer
 

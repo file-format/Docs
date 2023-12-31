@@ -32,10 +32,10 @@ Existují dva typy souborů FDF:
 
 ## Vytváření FDF pomocí Adobe Acrobat
 
-[Soubor nástrojů FDF](https://opensource.adobe.com/dc-acrobat-sdk-docs/) od společnosti Adobe vám umožňuje vytvářet soubory FDF z textových dat.
+[Soubor nástrojů FDF](https://www.adobe.com/) od společnosti Adobe vám umožňuje vytvářet soubory FDF z textových dat.
 
 ## Reference ##
 
 * [Podpora formátu FDF od společnosti Acrobat](https://helpx.adobe.com/coldfusion/developing-applications/working-with-documents-charts-and-reports/assembling-pdf-documents/fdf-format-support-for-acroforms.html)
-* [Adobe Developer Resources](https://opensource.adobe.com/dc-acrobat-sdk-docs/)
+* [Adobe Developer Resources](https://www.adobe.com/)
 

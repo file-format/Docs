@@ -23,7 +23,7 @@ Eine AML-Datei ist eine Systemdatei, die mit der Sprache Advanced Configuration 
 
 ## ACPI AML-Dateiformat
 
-AML-Dateien werden als Binärdateien auf Disc gespeichert, deren Inhalt in Bytecode geschrieben ist. Die Dateiformatspezifikationen des ACPI-Standards sind auf [uefi](https://uefi.org/node/735) verfügbar. Die Sprache wurde entwickelt, um Stabilität und Abwärtskompatibilität zu bieten, wodurch weniger Umschreibungen oder Neuerstellungen des Anwendungsstapels erforderlich sind.
+AML-Dateien werden als Binärdateien auf Disc gespeichert, deren Inhalt in Bytecode geschrieben ist. Die Dateiformatspezifikationen des ACPI-Standards sind auf [uefi](https://uefi.org/) verfügbar. Die Sprache wurde entwickelt, um Stabilität und Abwärtskompatibilität zu bieten, wodurch weniger Umschreibungen oder Neuerstellungen des Anwendungsstapels erforderlich sind.
 
 ## AML-Dateiformatspezifikationen
 

@@ -23,7 +23,7 @@ Tệp AML là một tệp hệ thống được tạo bằng ngôn ngữ Cấu h
 
 ## Định dạng tệp ACPI AML
 
-Các tệp AML được lưu dưới dạng tệp nhị phân vào đĩa với nội dung được ghi bằng mã byte. Thông số định dạng tệp của tiêu chuẩn ACPI hiện có trên [uefi](https://uefi.org/node/735). Ngôn ngữ đã được thiết kế để mang lại sự ổn định và khả năng tương thích ngược, yêu cầu ít phải viết lại hoặc xây dựng lại ngăn xếp ứng dụng.
+Các tệp AML được lưu dưới dạng tệp nhị phân vào đĩa với nội dung được ghi bằng mã byte. Thông số định dạng tệp của tiêu chuẩn ACPI hiện có trên [uefi](https://uefi.org/). Ngôn ngữ đã được thiết kế để mang lại sự ổn định và khả năng tương thích ngược, yêu cầu ít phải viết lại hoặc xây dựng lại ngăn xếp ứng dụng.
 
 ## Thông số kỹ thuật định dạng tệp AML
 

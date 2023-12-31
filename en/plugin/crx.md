@@ -29,7 +29,7 @@ CRX files are stored as a compressed binary file with its constituent files pack
 
 Web browsers such as Chrome has a menu option "Extensions" that lets you load CRX extension files. When an extension is loaded from online extension store, it downloads the extension file contents, decompresses them and installs the extension to load the desired functionality. This whole process doesn't require any user interaction for installing the CRX file.
 
-## How to load crx files in chrome?
+## How to load CRX files in chrome?
 
 In order to open a CRX file:
 

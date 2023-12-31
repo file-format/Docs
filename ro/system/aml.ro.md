@@ -23,7 +23,7 @@ Un fișier AML este un fișier de sistem creat cu limbajul Advanced Configuratio
 
 ## Format de fișier ACPI AML
 
-Fișierele AML sunt salvate ca fișiere binare pe disc cu conținut scris în cod octet. Specificațiile de format de fișier ale standardului ACPI sunt disponibile pe [uefi](https://uefi.org/node/735). Limbajul a fost conceput pentru a oferi stabilitate și compatibilitate inversă, necesitând mai puține rescrieri sau reconstruiri ale stivei de aplicații.
+Fișierele AML sunt salvate ca fișiere binare pe disc cu conținut scris în cod octet. Specificațiile de format de fișier ale standardului ACPI sunt disponibile pe [uefi](https://uefi.org/). Limbajul a fost conceput pentru a oferi stabilitate și compatibilitate inversă, necesitând mai puține rescrieri sau reconstruiri ale stivei de aplicații.
 
 ## Specificații privind formatul fișierului AML
 

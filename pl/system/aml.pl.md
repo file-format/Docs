@@ -23,7 +23,7 @@ Plik AML to plik systemowy utworzony za pomocą języka Advanced Configuration a
 
 ## Format pliku ACPI AML
 
-Pliki AML są zapisywane jako pliki binarne na dysku z zawartością zapisaną w kodzie bajtowym. Specyfikacje formatu plików standardu ACPI są dostępne na stronie [uefi](https://uefi.org/node/735). Język został zaprojektowany tak, aby oferować stabilność i kompatybilność wsteczną, wymagając mniej ponownego pisania lub przebudowy stosu aplikacji.
+Pliki AML są zapisywane jako pliki binarne na dysku z zawartością zapisaną w kodzie bajtowym. Specyfikacje formatu plików standardu ACPI są dostępne na stronie [uefi](https://uefi.org/). Język został zaprojektowany tak, aby oferować stabilność i kompatybilność wsteczną, wymagając mniej ponownego pisania lub przebudowy stosu aplikacji.
 
 ## Specyfikacje formatu pliku AML
 

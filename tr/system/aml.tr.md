@@ -23,7 +23,7 @@ AML dosyası, donanım özelliklerini yapılandırmak için kullanılan Gelişmi
 
 ## ACPI AML Dosya Biçimi
 
-AML dosyaları, bayt kodunda yazılmış içeriklerle diske ikili dosyalar olarak kaydedilir. ACPI standardının dosya biçimi belirtimleri [uefi](https://uefi.org/node/735) adresinde mevcuttur. Dil, uygulama yığınının daha az yeniden yazılmasını veya yeniden oluşturulmasını gerektirecek şekilde kararlılık ve geriye dönük uyumluluk sunacak şekilde tasarlanmıştır.
+AML dosyaları, bayt kodunda yazılmış içeriklerle diske ikili dosyalar olarak kaydedilir. ACPI standardının dosya biçimi belirtimleri [uefi](https://uefi.org/) adresinde mevcuttur. Dil, uygulama yığınının daha az yeniden yazılmasını veya yeniden oluşturulmasını gerektirecek şekilde kararlılık ve geriye dönük uyumluluk sunacak şekilde tasarlanmıştır.
 
 ## AML Dosya Biçimi Özellikleri
 

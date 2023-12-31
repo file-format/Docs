@@ -23,7 +23,7 @@ Een AML-bestand is een systeembestand dat is gemaakt met de Advanced Configurati
 
 ## ACPI AML-bestandsindeling
 
-AML-bestanden worden opgeslagen als binaire bestanden op schijf met inhoud geschreven in bytecode. De specificaties van het bestandsformaat van de ACPI-standaard zijn beschikbaar op [uefi](https://uefi.org/node/735). De taal is ontworpen om stabiliteit en achterwaartse compatibiliteit te bieden, waardoor minder herschrijven of herbouwen van de applicatiestack nodig is.
+AML-bestanden worden opgeslagen als binaire bestanden op schijf met inhoud geschreven in bytecode. De specificaties van het bestandsformaat van de ACPI-standaard zijn beschikbaar op [uefi](https://uefi.org/). De taal is ontworpen om stabiliteit en achterwaartse compatibiliteit te bieden, waardoor minder herschrijven of herbouwen van de applicatiestack nodig is.
 
 ## Specificaties AML-bestandsindeling
 
