@@ -25,9 +25,9 @@ Formát U3D byl vyvinut s ohledem na cíl vytvořit univerzální standard pro t
 
 ## Formát souboru U3D
 
-Soubory U3D jsou v binárním formátu souboru, který prošel čtyřmi vydáními, jak je popsáno v referenčním dokumentu [ECMA-363](https://www.ecma-international.org/publications-and-standards/standards/ecma-363/), což vede k aktualizaci specifikací s každým vydáním. Standard souboru PDF ISO-32000 přijímá U3D jako povolenou anotaci a typ multimédií.
+Soubory U3D jsou v binárním formátu souboru, který prošel čtyřmi vydáními, jak je popsáno v referenčním dokumentu ECMA-363, což vede k aktualizaci specifikací s každým vydáním. Standard souboru PDF ISO-32000 přijímá U3D jako povolenou anotaci a typ multimédií.
 
-První vydání U3D bylo zaměřeno na klíčové reprezentace vlastností 3D grafiky, jako je geometrie, barva, textury, osvětlení, kosti a animace založené na transformaci. Druhé a třetí vydání opravilo některé chyby v prvním vydání, přičemž třetí verze byla nejběžněji používaným typem průmyslového softwaru. Čtvrté vydání poskytuje definice pro primitiva vyššího řádu (zakřivené povrchy). [Specifikace U3D](https://www.ecma-international.org/publications-and-standards/standards/ecma-363/) jsou k dispozici online pro uživatele na webových stránkách ECMA.
+První vydání U3D bylo zaměřeno na klíčové reprezentace vlastností 3D grafiky, jako je geometrie, barva, textury, osvětlení, kosti a animace založené na transformaci. Druhé a třetí vydání opravilo některé chyby v prvním vydání, přičemž třetí verze byla nejběžněji používaným typem průmyslového softwaru. Čtvrté vydání poskytuje definice pro primitiva vyššího řádu (zakřivené povrchy). Specifikace U3D jsou k dispozici online pro uživatele na webových stránkách ECMA.
 
 ### Datové typy v souborech U3D
 
@@ -69,5 +69,5 @@ Další informace pro objekty deklarované v bloku Declaration jsou uvedeny v bl
 ## Reference ##
 
 * [Formát souboru U3D – Wikipedie](https://en.wikipedia.org/wiki/Universal_3D)
-* [Specifikace formátu souboru ECMA U3D](https://www.ecma-international.org/publications/standards/Ecma-363.htm)
+* [Specifikace formátu souboru ECMA U3D](https://www.ecma-international.org/publications-and-standards/standards/ecma-363/)
 

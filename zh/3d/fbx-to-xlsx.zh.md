@@ -20,7 +20,7 @@
 
 FilmBox，通常称为 FBX，是一种广泛使用的 3D 文件格式，最初由 Kaydara 创建，旨在增强与 MotionBuilder 的兼容性。 2006 年，Autodesk Inc. 接管了这种格式，巩固了其作为跨各种 3D 软件应用程序轻松交换 3D 数据的标准的地位。
 
-**XLSX** 是 Microsoft 在 Microsoft Office 2007 发布时引入的一种广泛认可的 Microsoft Excel 文档格式。它遵循基于开放打包约定的结构化组织，如[第 2 部分](https:// ECMA-376 OOXML 标准的 www.ecma-international.org/publications/standards/Ecma-376.htm）。这种新格式本质上是一个包含多个 XML 文件的 zip 包。
+**XLSX** 是 Microsoft 在 Microsoft Office 2007 发布时引入的一种广泛认可的 Microsoft Excel 文档格式。它遵循基于开放打包约定的结构化组织，如[第 2 部分](https://ecma-international.org/publications-and-standards/standards/ecma-376/) ECMA-376 OOXML 标准的。这种新格式本质上是一个包含多个 XML 文件的 zip 包。
 
 您可以使用在线提供的 FBX 到 XLSX 转换应用程序将 FBX 文件转换为 XLSX 格式。这些在线应用程序不需要您安装任何专门的软件来进行此类转换。
 

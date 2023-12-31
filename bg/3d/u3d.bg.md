@@ -70,4 +70,3 @@ U3D файл съдържа последователност от блокове
 
 * [U3D файлов формат - Wikipedia](https://en.wikipedia.org/wiki/Universal_3D)
 * [Спецификации на ECMA U3D файлов формат](https://ecma-international.org/publications-and-standards/standards/ecma-363/)
-

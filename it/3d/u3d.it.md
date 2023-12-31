@@ -69,5 +69,4 @@ Ulteriori informazioni per gli oggetti dichiarati in un blocco di dichiarazione 
 ## Riferimenti ##
 
 * [Formato file U3D - Wikipedia](https://en.wikipedia.org/wiki/Universal_3D)
-* [Specifiche del formato file ECMA U3D](https://www.ecma-international.org/publications/standards/Ecma-363.htm)
-
+* [Specifiche del formato file ECMA U3D](https://www.ecma-international.org/publications-and-standards/standards/ecma-363/)

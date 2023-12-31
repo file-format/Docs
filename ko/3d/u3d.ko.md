@@ -69,5 +69,4 @@ U3D 파일에는 일련의 블록이 포함되어 있습니다. 각 U3D 파일�
 ## 참조 ##
 
 * [U3D 파일 형식 - Wikipedia](https://en.wikipedia.org/wiki/Universal_3D)
-* [ECMA U3D 파일 형식 사양](https://www.ecma-international.org/publications/standards/Ecma-363.htm)
-
+* [ECMA U3D 파일 형식 사양](https://www.ecma-international.org/publications-and-standards/standards/ecma-363/)

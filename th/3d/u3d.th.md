@@ -69,5 +69,4 @@ U3D รุ่นแรกมุ่งเน้นไปที่การนำ�
 ## อ้างอิง ##
 
 * [รูปแบบไฟล์ U3D - Wikipedia](https://en.wikipedia.org/wiki/Universal_3D)
-* [ข้อกำหนดรูปแบบไฟล์ ECMA U3D](https://www.ecma-international.org/publications/standards/Ecma-363.htm)
-
+* [ข้อกำหนดรูปแบบไฟล์ ECMA U3D](https://www.ecma-international.org/publications-and-standards/standards/ecma-363/)

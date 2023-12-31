@@ -20,7 +20,7 @@
 
 FilmBox, fréquemment connu sous le nom de FBX, est un format de fichier 3D largement utilisé, initialement créé par Kaydara pour améliorer la compatibilité avec MotionBuilder. En 2006, Autodesk Inc. a pris les rênes de ce format, consolidant ainsi son statut de standard permettant d'échanger sans effort des données 3D entre diverses applications logicielles 3D.
 
-**XLSX** est un format largement reconnu pour les documents Microsoft Excel introduit par Microsoft parallèlement à la sortie de Microsoft Office 2007. Il adhère à une organisation structurée basée sur les conventions d'emballage ouvertes, comme détaillé dans la [Partie 2](https:// www.ecma-international.org/publications/standards/Ecma-376.htm) de la norme ECMA-376 OOXML. Ce nouveau format est essentiellement un package zip contenant plusieurs fichiers XML.
+**XLSX** est un format largement reconnu pour les documents Microsoft Excel introduit par Microsoft parallèlement à la sortie de Microsoft Office 2007. Il adhère à une organisation structurée basée sur les conventions d'emballage ouvertes, comme détaillé dans la [Partie 2](https://ecma-international.org/publications-and-standards/standards/ecma-363/) de la norme ECMA-376 OOXML. Ce nouveau format est essentiellement un package zip contenant plusieurs fichiers XML.
 
 Vous pouvez utiliser les applications de conversion FBX en XLSX disponibles en ligne pour convertir vos fichiers FBX au format XLSX. Ces applications en ligne ne nécessitent pas l'installation d'un logiciel spécialisé pour de telles conversions.
 
@@ -49,7 +49,7 @@ Les API Aspose.3D offrent une variété de fonctionnalités qui peuvent être ut
 
 * .FILET
 * Java
-*Python
+* Python
 
 Cette variété de prise en charge de différents langages de programmation vous donne la possibilité de convertir FBX en XLSX dans n'importe lequel de ces langages.
 

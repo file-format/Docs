@@ -19,7 +19,7 @@
 
 ## U3D ファイルとは?
 
-**U3D** (Universal 3D) は、3D コンピュータ グラフィックス用の圧縮ファイル形式およびデータ構造です。三角形のメッシュ、ライティング、シェーディング、モーション データ、色と構造を持つ線と点などの 3D モデル情報が含まれています。この形式は、2005 年 8 月に [ ECMA-363](https://www.ecma-international.org/publications-and-standards/standards/ecma-363/) 標準として承認されました。3D [PDF](/pdf/) ドキュメントは U3D をサポートします。オブジェクトが埋め込まれており、Adobe Reader (バージョン 7 以降) で表示できます。
+**U3D** (Universal 3D) は、3D コンピュータ グラフィックス用の圧縮ファイル形式およびデータ構造です。三角形のメッシュ、ライティング、シェーディング、モーション データ、色と構造を持つ線と点などの 3D モデル情報が含まれています。この形式は、2005 年 8 月に [ ECMA-363](https://ecma-international.org/publications-and-standards/standards/ecma-363/) 標準として承認されました。3D [PDF](/pdf/) ドキュメントは U3D をサポートします。オブジェクトが埋め込まれており、Adobe Reader (バージョン 7 以降) で表示できます。
 
 U3D 形式は、3 次元データの保存と交換のための普遍的な標準を確立するという目的を考慮して開発されました。ただし、この形式は、交換形式として使用されるのではなく、3D PDF のエンコードに主に使用されます。 Acrobat 3D は、サポートされている 3D ファイル タイプを PDF への変換時に U3D または PRC に変換します。
 
@@ -69,5 +69,5 @@ Declaration ブロックで宣言されたオブジェクトの追加情報は�
 ## 参照 ##
 
 * [U3D ファイル形式 - ウィキペディア](https://en.wikipedia.org/wiki/Universal_3D)
-※【ECMA U3Dファイルフォーマット仕様】(https://www.ecma-international.org/publications/standards/Ecma-363.htm)
+* [ECMA U3Dファイルフォーマット仕様](https://ecma-international.org/publications-and-standards/standards/ecma-363/)
 

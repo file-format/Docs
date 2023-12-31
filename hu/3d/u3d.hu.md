@@ -25,9 +25,9 @@ Az U3D formátumot azzal a céllal fejlesztették ki, hogy egy univerzális szab
 
 ## U3D fájlformátum
 
-Az U3D fájlok bináris fájlformátumúak, amelyek az [ECMA-363](https://www.ecma-international.org/publications-and-standards/standards/ecma-363/) referenciadokumentumban leírtak szerint négy kiadáson mentek keresztül, ami a specifikációk frissítését eredményezte. minden kiadással. Az ISO-32000 PDF fájlszabvány elfogadja az U3D-t engedélyezett annotációként és multimédiás típusként.
+Az U3D fájlok bináris fájlformátumúak, amelyek az ECMA-363 referenciadokumentumban leírtak szerint négy kiadáson mentek keresztül, ami a specifikációk frissítését eredményezte. minden kiadással. Az ISO-32000 PDF fájlszabvány elfogadja az U3D-t engedélyezett annotációként és multimédiás típusként.
 
-Az U3D első kiadása a 3D-s grafikai tulajdonságok kulcsfontosságú megjelenítésére összpontosított, mint például a geometria, a színek, a textúrák, a világítás, a csontok és a transzformációs alapú animáció. A második és harmadik kiadás javított néhány hibát az első kiadásban, a harmadik verzió volt a leggyakrabban használt típus az ipari szoftverekben. A negyedik kiadás definíciókat ad a magasabb rendű primitívekre (ívelt felületekre). Az [U3D specifikációk](https://www.ecma-international.org/publications-and-standards/standards/ecma-363/) online elérhetők felhasználói hivatkozásként az ECMA webhelyén.
+Az U3D első kiadása a 3D-s grafikai tulajdonságok kulcsfontosságú megjelenítésére összpontosított, mint például a geometria, a színek, a textúrák, a világítás, a csontok és a transzformációs alapú animáció. A második és harmadik kiadás javított néhány hibát az első kiadásban, a harmadik verzió volt a leggyakrabban használt típus az ipari szoftverekben. A negyedik kiadás definíciókat ad a magasabb rendű primitívekre (ívelt felületekre). Az U3D specifikációk online elérhetők felhasználói hivatkozásként az ECMA webhelyén.
 
 ### Adattípusok U3D-fájlokban
 
@@ -69,5 +69,4 @@ A Deklaráció blokkban deklarált objektumokra vonatkozó további információ
 ## Hivatkozások ##
 
 * [U3D fájlformátum – Wikipédia](https://en.wikipedia.org/wiki/Universal_3D)
-* [ECMA U3D fájlformátum specifikációi](https://www.ecma-international.org/publications/standards/Ecma-363.htm)
-
+* [ECMA U3D fájlformátum specifikációi](https://www.ecma-international.org/publications-and-standards/standards/ecma-363/)

@@ -29,8 +29,3 @@ Tệp SEC có thể được chuyển đổi sang định dạng tệp [AVI](/vi
 ```
 ffmpeg -i 0010600.sec -vcodec copy -vsync drop -fflags genpts -f avi 0010600.avi
 ```
-
-## Người giới thiệu ##
-
-- [Tệp Samsung và SEC](https://sreadys.wordpress.com/2013/07/19/samsung-and-sec-files/)
-

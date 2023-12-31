@@ -20,7 +20,7 @@
 
 FilmBox, cunoscut în mod frecvent sub numele de FBX, este un format de fișier 3D utilizat pe scară largă, care a fost creat inițial de Kaydara pentru a îmbunătăți compatibilitatea cu MotionBuilder. În 2006, Autodesk Inc. a preluat frâiele acestui format, solidificându-și statutul de standard pentru schimbul fără efort de date 3D prin diverse aplicații software 3D.
 
-**XLSX** este un format larg recunoscut pentru documentele Microsoft Excel introduse de Microsoft odată cu lansarea Microsoft Office 2007. Aderă la o organizație structurată bazată pe convențiile de ambalare deschisă, așa cum este detaliat în [Partea 2](https:// www.ecma-international.org/publications/standards/Ecma-376.htm) a standardului ECMA-376 OOXML. Acest nou format este în esență un pachet zip care conține mai multe fișiere XML.
+**XLSX** este un format larg recunoscut pentru documentele Microsoft Excel introduse de Microsoft odată cu lansarea Microsoft Office 2007. Aderă la o organizație structurată bazată pe convențiile de ambalare deschisă, așa cum este detaliat în [Partea 2](https://ecma-international.org/publications-and-standards/standards/ecma-376/) a standardului ECMA-376 OOXML. Acest nou format este în esență un pachet zip care conține mai multe fișiere XML.
 
 Puteți utiliza aplicațiile de conversie FBX în XLSX disponibile online pentru a vă converti fișierele FBX în format XLSX. Aceste aplicații online nu au nevoie să instalați niciun software specializat pentru astfel de conversii.
 

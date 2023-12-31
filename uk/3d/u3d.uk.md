@@ -69,5 +69,4 @@
 ## Посилання ##
 
 * [Формат файлу U3D – Вікіпедія](https://en.wikipedia.org/wiki/Universal_3D)
-* [Специфікації формату файлу ECMA U3D](https://www.ecma-international.org/publications/standards/Ecma-363.htm)
-
+* [Специфікації формату файлу ECMA U3D](https://www.ecma-international.org/publications-and-standards/standards/ecma-363/)

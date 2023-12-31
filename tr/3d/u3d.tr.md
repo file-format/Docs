@@ -25,9 +25,9 @@ U3D formatı, üç boyutlu veri depolama ve alışverişi için evrensel bir sta
 
 ## U3D Dosya Biçimi
 
-U3D dosyaları, [ECMA-363](https://www.ecma-international.org/publications-and-standards/standards/ecma-363/) referans belgesinde açıklandığı gibi dört sürümden geçen ikili dosya biçimindedir ve bu, teknik özelliklerin güncellenmesine neden olur her sürümde. PDF dosya standardı ISO-32000, izin verilen açıklama ve multimedya türü olarak U3D'yi kabul eder.
+U3D dosyaları, ECMA-363 referans belgesinde açıklandığı gibi dört sürümden geçen ikili dosya biçimindedir ve bu, teknik özelliklerin güncellenmesine neden olur her sürümde. PDF dosya standardı ISO-32000, izin verilen açıklama ve multimedya türü olarak U3D'yi kabul eder.
 
-U3D'nin ilk sürümü, geometri, renk, dokular, aydınlatma, eklemler ve dönüşüm tabanlı animasyon gibi 3B grafik özelliklerinin temel temsillerine odaklanmıştı. İkinci ve üçüncü baskılar, ilk baskıdaki bazı hataları düzeltti ve üçüncü versiyon, endüstri yazılımında en yaygın kullanılan türdü. Dördüncü baskı, üst düzey ilkel öğeler (eğri yüzeyler) için tanımlar sağlar. [U3D belirtimleri](https://www.ecma-international.org/publications-and-standards/standards/ecma-363/), ECMA web sitesinde kullanıcı referansı için çevrimiçi olarak mevcuttur.
+U3D'nin ilk sürümü, geometri, renk, dokular, aydınlatma, eklemler ve dönüşüm tabanlı animasyon gibi 3B grafik özelliklerinin temel temsillerine odaklanmıştı. İkinci ve üçüncü baskılar, ilk baskıdaki bazı hataları düzeltti ve üçüncü versiyon, endüstri yazılımında en yaygın kullanılan türdü. Dördüncü baskı, üst düzey ilkel öğeler (eğri yüzeyler) için tanımlar sağlar. U3D belirtimleri, ECMA web sitesinde kullanıcı referansı için çevrimiçi olarak mevcuttur.
 
 ### U3D dosyalarındaki Veri Türleri
 
@@ -65,9 +65,7 @@ Bildirim blokları, dosyadaki nesneler hakkında bilgi içerir. Bir bildirim blo
 
 Bir Bildirim bloğunda bildirilen nesneler için ek bilgiler, devam bloğunda sağlanır. Her Devam Bloğu bir Bildirim Bloğu ile ilişkilendirilmelidir.
 
-
 ## Referanslar ##
 
 * [U3D Dosya Biçimi - Wikipedia](https://en.wikipedia.org/wiki/Universal_3D)
-* [ECMA U3D Dosya Biçimi Özellikleri](https://www.ecma-international.org/publications/standards/Ecma-363.htm)
-
+* [ECMA U3D Dosya Biçimi Özellikleri](https://www.ecma-international.org/publications-and-standards/standards/ecma-363/)

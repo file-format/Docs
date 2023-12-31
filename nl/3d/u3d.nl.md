@@ -25,9 +25,9 @@ U3D-formaat is ontwikkeld met het oog op het doel om een universele standaard vo
 
 ## U3D-bestandsindeling
 
-U3D-bestanden hebben een binaire bestandsindeling die vier edities heeft ondergaan, zoals beschreven in het referentiedocument [ECMA-363](https://www.ecma-international.org/publications-and-standards/standards/ecma-363/), wat resulteerde in een update van de specificaties bij elke editie. De PDF-bestandsstandaard ISO-32000 accepteert U3D als toegestaan annotatie- en multimediatype.
+U3D-bestanden hebben een binaire bestandsindeling die vier edities heeft ondergaan, zoals beschreven in het referentiedocument ECMA-363, wat resulteerde in een update van de specificaties bij elke editie. De PDF-bestandsstandaard ISO-32000 accepteert U3D als toegestaan annotatie- en multimediatype.
 
-De eerste editie van U3D was gericht op de belangrijkste representaties van 3D-grafische eigenschappen zoals geometrie, kleur, texturen, belichting, botten en op transformatie gebaseerde animatie. De tweede en derde editie corrigeerden enkele fouten in de eerste editie, waarbij de derde versie het meest gebruikte type in industriële software was. De vierde editie geeft definities voor primitieven van hogere orde (gekromde oppervlakken). [U3D-specificaties](https://www.ecma-international.org/publications-and-standards/standards/ecma-363/) zijn online beschikbaar voor gebruikersreferentie op de ECMA-website.
+De eerste editie van U3D was gericht op de belangrijkste representaties van 3D-grafische eigenschappen zoals geometrie, kleur, texturen, belichting, botten en op transformatie gebaseerde animatie. De tweede en derde editie corrigeerden enkele fouten in de eerste editie, waarbij de derde versie het meest gebruikte type in industriële software was. De vierde editie geeft definities voor primitieven van hogere orde (gekromde oppervlakken). U3D-specificaties zijn online beschikbaar voor gebruikersreferentie op de ECMA-website.
 
 ### Gegevenstypen in U3D-bestanden
 
@@ -69,5 +69,5 @@ Aanvullende informatie voor objecten die in een aangifteblok zijn aangegeven, vi
 ## Referenties ##
 
 * [U3D-bestandsindeling - Wikipedia](https://en.wikipedia.org/wiki/Universal_3D)
-* [ECMA U3D-bestandsformaatspecificaties](https://www.ecma-international.org/publications/standards/Ecma-363.htm)
+* [ECMA U3D-bestandsformaatspecificaties](https://www.ecma-international.org/publications-and-standards/standards/ecma-363/)
 
