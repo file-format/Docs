@@ -6,7 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "Plik CRX - Co to jest plik CRX i jak go otworzyć?",
-  "description":"Dowiedz się więcej o formacie pliku CRX i interfejsach API, które umożliwiają tworzenie i otwieranie plików CRX.”,
+  "description":"Dowiedz się więcej o formacie pliku CRX i interfejsach API, które umożliwiają tworzenie i otwieranie plików CRX.",
   "linktitle" : "CRX",
   "menu" : {
     "docs" : {

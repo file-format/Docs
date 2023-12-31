@@ -5,8 +5,8 @@
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "CRX-Datei – Was ist eine CRX-Datei und wie öffnet man sie?“,
-  "description": "Erfahren Sie mehr über das CRX-Dateiformat und APIs, mit denen CRX-Dateien erstellt und geöffnet werden können.“,
+  "title" : "CRX-Datei – Was ist eine CRX-Datei und wie öffnet man sie?",
+  "description": "Erfahren Sie mehr über das CRX-Dateiformat und APIs, mit denen CRX-Dateien erstellt und geöffnet werden können.",
   "linktitle" : "CRX",
   "menu" : {
     "docs" : {

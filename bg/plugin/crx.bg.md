@@ -6,7 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "CRX File -  What is a CRX file and how to open it?",
-  "description": „Научете за CRX файловия формат и API, които могат да създават и отварят CRX файлове.“,
+  "description": "Научете за CRX файловия формат и API, които могат да създават и отварят CRX файлове.",
   "linktitle" : "CRX",
   "menu" : {
     "docs" : {

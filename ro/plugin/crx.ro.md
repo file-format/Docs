@@ -5,8 +5,8 @@
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "Fișier CRX - Ce este un fișier CRX și cum se deschide?”,
-  "description":"Aflați despre formatul de fișier CRX și despre API-urile care pot crea și deschide fișiere CRX.”,
+  "title" : "Fișier CRX - Ce este un fișier CRX și cum se deschide?",
+  "description":"Aflați despre formatul de fișier CRX și despre API-urile care pot crea și deschide fișiere CRX.",
   "linktitle" : "CRX",
   "menu" : {
     "docs" : {
