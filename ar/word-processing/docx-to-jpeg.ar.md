@@ -18,7 +18,7 @@
 
 ## حول DOCX لتحويل الصور
 
-كل واحد منا تقريبًا على دراية بالعمل مع مستندات Word. يحفظ Microsoft Office هذه المستندات بتنسيق ملف [DOCX](/ar/word-processing/docx/) الشائع, ولكن ليس لديه أي خيار لحفظ DOCX في تنسيقات ملفات الصور مثل [JPEG](/ar/image/jpeg/) أو [ PNG](/ar/صورة/png/). يمكن أن تنشأ مواقف حيث يلزم تضمين ملف DOCX في عرض تقديمي كصورة JPEG أو تحتاج إلى تحميل مستند إلى موقع ويب عبر الإنترنت يقبل ملفات الصور فقط. هذا هو المكان الذي تظهر فيه بعض الأدوات عبر الإنترنت لمساعدتك في تحويل ملفات DOCX إلى JPEG عبر الإنترنت.
+كل واحد منا تقريبًا على دراية بالعمل مع مستندات Word. يحفظ Microsoft Office هذه المستندات بتنسيق ملف [DOCX](/ar/word-processing/docx/) الشائع, ولكن ليس لديه أي خيار لحفظ DOCX في تنسيقات ملفات الصور مثل [JPEG](/ar/image/jpeg/) أو [ PNG](/ar/image/png/). يمكن أن تنشأ مواقف حيث يلزم تضمين ملف DOCX في عرض تقديمي كصورة JPEG أو تحتاج إلى تحميل مستند إلى موقع ويب عبر الإنترنت يقبل ملفات الصور فقط. هذا هو المكان الذي تظهر فيه بعض الأدوات عبر الإنترنت لمساعدتك في تحويل ملفات DOCX إلى JPEG عبر الإنترنت.
 
 
 ## تحويل DOCX إلى JPEG - عرض تجريبي مجاني
@@ -91,5 +91,4 @@ Aspose.Words for Python عبر .NET عبارة عن حزمة برامج مخصص
 
 1. حول - [Aspose.Words for Python عبر .NET](https://products.aspose.com/words/python-net/)
 1. دليل التثبيت - [Aspose.Words for Python عبر تثبيت .NET](https://releases.aspose.com/words/python/)
-1. تحويل DOCX إلى PDF في C++ - [دليل تحويل DOCX إلى JPEG في Python عبر .NET](https://docs.aspose.com/words/python-net/convert-a-document-to-an-image/ )
-
+1. تحويل DOCX إلى PDF في C++ - [دليل تحويل DOCX إلى JPEG في Python عبر .NET](https://docs.aspose.com/words/python-net/convert-a-document-to-an-image/)

@@ -28,6 +28,6 @@
 
 ## مراجع
 
-* [تنسيق Orbit Standard Product 3 (SP3-c)](http://epncb.oma.be/ftp/data/format/sp3c.txt#:~:text=The٪20SP3٪20format٪20is٪20similar ، هيكل٪ 20 المزيد٪ 20 مرن٪ 20 رأس٪ 20)
+* [تنسيق Orbit Standard Product 3 (SP3-c)](http://epncb.oma.be/ftp/data/format/sp3c.txt#:~:text=The%20SP3%20format%20is%20similar,a%20more%20flexible%20header%20structure)
 * [تمديد تنسيقات المدار GPS للمسح الجيوديسي الوطني](https://beta.ngs.noaa.gov/PUBS_LIB/Extending_the_NGS_Standard_GPS_Orbit_Formats_TR_NOS133_NGS46.pdf)
 

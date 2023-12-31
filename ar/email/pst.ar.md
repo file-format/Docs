@@ -95,5 +95,5 @@
 ## مراجع ##
 
 * [تنسيق ملف مجلدات Outlook الشخصية (.pst)](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546)
-* [مواصفات تنسيق ملف المجلد الشخصي](https://github.com/libyal/libpff/blob/main/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
+* [مواصفات تنسيق ملف المجلد الشخصي](https://github.com/libyal/libpff/tree/main/documentation)
 

@@ -33,7 +33,7 @@ TIFF (تنسيق ملف الصور ذو العلامات) هو تنسيق ملف
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-Aspose.Words عبارة عن مجموعة من واجهات برمجة التطبيقات التي تتيح لأي مطور تحويل تنسيق [DOCX](/ar/word-processing/docx/) إلى تنسيق [TIFF](/ar/image/tiff/) باستخدام أسطر بسيطة من التعليمات البرمجية. وهو متاح للعديد من لغات البرمجة بما في ذلك [C#](/ar/programming/cs/), [Java](/ar/programming/java/), [Python](/ar/programming/py/) و[C++](/ar/programming/cpp/ ). بالإضافة إلى TIFF, تتيح لك واجهات Aspose.Words API تحويل ملفات DOCX إلى العديد من تنسيقات الملفات الشائعة الأخرى.
+Aspose.Words عبارة عن مجموعة من واجهات برمجة التطبيقات التي تتيح لأي مطور تحويل تنسيق [DOCX](/ar/word-processing/docx/) إلى تنسيق [TIFF](/ar/image/tiff/) باستخدام أسطر بسيطة من التعليمات البرمجية. وهو متاح للعديد من لغات البرمجة بما في ذلك [C#](/ar/programming/cs/), [Java](/ar/programming/java/), [Python](/ar/programming/py/) و[C++](/ar/programming/cpp/). بالإضافة إلى TIFF, تتيح لك واجهات Aspose.Words API تحويل ملفات DOCX إلى العديد من تنسيقات الملفات الشائعة الأخرى.
 
 ## مراجع
 

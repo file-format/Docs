@@ -27,5 +27,5 @@
 
 ## مراجع
 
-* [قد تسمح الثغرة الأمنية في تصميم التعبير بتنفيذ التعليمات البرمجية عن بُعد (2651018)](https://learn.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-022)
+* [قد تسمح الثغرة الأمنية في تصميم التعبير بتنفيذ التعليمات البرمجية عن بُعد 2651018](https://learn.microsoft.com/en-us/security-updates/securitybulletins/2012/ms12-022)
 

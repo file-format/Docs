@@ -38,6 +38,6 @@
 
 ## Aspose.Words APIs لـ DOCX إلى Powerpoint PPT
 
-Aspose.Words عبارة عن مجموعة من واجهات برمجة التطبيقات التي تتيح لأي مطور تحويل تنسيق [DOCX](/ar/word-processing/docx/) إلى تنسيق [PPT](/ar/presentation/ppt/) باستخدام أسطر بسيطة من التعليمات البرمجية. وهو متاح للعديد من لغات البرمجة بما في ذلك [C#](/ar/programming/cs/), [Java](/ar/programming/java/), [Python](/ar/programming/py/) و[C++](/ar/programming/cpp/ ). بالإضافة إلى PPT, تتيح لك Aspose.Words APIs تحويل ملفات DOCX إلى العديد من تنسيقات الملفات الشائعة الأخرى.
+Aspose.Words عبارة عن مجموعة من واجهات برمجة التطبيقات التي تتيح لأي مطور تحويل تنسيق [DOCX](/ar/word-processing/docx/) إلى تنسيق [PPT](/ar/presentation/ppt/) باستخدام أسطر بسيطة من التعليمات البرمجية. وهو متاح للعديد من لغات البرمجة بما في ذلك [C#](/ar/programming/cs/), [Java](/ar/programming/java/), [Python](/ar/programming/py/) و[C++](/ar/programming/cpp/). بالإضافة إلى PPT, تتيح لك Aspose.Words APIs تحويل ملفات DOCX إلى العديد من تنسيقات الملفات الشائعة الأخرى.
 
 
