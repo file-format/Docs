@@ -6,7 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "CRX File - Mi az CRX fájl és hogyan lehet megnyitni?",
-  "description":"További információ a CRX fájlformátumról és az API-król, amelyek CRX fájlokat hozhatnak létre és nyithatnak meg."
+  "description":"További információ a CRX fájlformátumról és az API-król, amelyek CRX fájlokat hozhatnak létre és nyithatnak meg.",
   "linktitle" : "CRX",
   "menu" : {
     "docs" : {

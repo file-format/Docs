@@ -6,7 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "ECF fájl - Mi az ECF fájl és hogyan lehet megnyitni?",
-  "description":"További információ az ECF fájlformátumról és az API-król, amelyek ECF-fájlokat hozhatnak létre és nyithatnak meg."
+  "description":"További információ az ECF fájlformátumról és az API-król, amelyek ECF-fájlokat hozhatnak létre és nyithatnak meg.",
   "linktitle" : "ECF",
   "menu" : {
     "docs" : {
