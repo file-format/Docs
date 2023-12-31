@@ -5,7 +5,7 @@
   },
   "draft" : "false",
   "toc" : true,
-  "title" : "ECF 파일 - ECF 파일이란 무엇이며 어떻게 여나요?,"
+  "title" : "ECF 파일 - ECF 파일이란 무엇이며 어떻게 여나요?",
   "description":"ECF 파일 형식과 ECF 파일을 생성하고 열 수 있는 API에 대해 알아보세요.",
   "linktitle" : "ECF",
   "menu" : {
