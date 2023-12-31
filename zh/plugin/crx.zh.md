@@ -5,8 +5,8 @@
   },
   "draft" : "false",
   "toc" : true,
-  "title" : “CRX 文件 - 什么是 CRX 文件以及如何打开它？”,
-  "description":“了解 CRX 文件格式以及可以创建和打开 CRX 文件的 API。”,
+  "title" : "CRX 文件 - 什么是 CRX 文件以及如何打开它？",
+  "description":"了解 CRX 文件格式以及可以创建和打开 CRX 文件的 API。",
   "linktitle" : "CRX",
   "menu" : {
     "docs" : {
