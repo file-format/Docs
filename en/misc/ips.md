@@ -16,7 +16,7 @@
   "draft": "false",
   "toc": true,
   "title": "IPS File Format - iOS Analytics Data",
-  "description": "Learn about IPS format and APIs that can create and open IPS files.",
+  "description": "Learn about IPS iOS Analytics Data format and APIs that can create and open IPS files.",
   "linktitle": "IPS",
   "menu": {
     "docs": {

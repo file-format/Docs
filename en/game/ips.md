@@ -16,7 +16,7 @@
    "draft":"false",
    "toc":true,
    "title":"IPS File Format - Internal Patching System Patch File",
-   "description":"Learn about IPS format and APIs that can create and open IPS files.",
+   "description":"Learn about IPS Internal Patching System Patch File format and APIs that can create and open IPS files.",
    "linktitle":"IPS",
    "menu":{
       "docs":{
