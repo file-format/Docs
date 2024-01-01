@@ -29,7 +29,7 @@
 
 ## What is an MP5 file?
 
-A file with ".MP5" extension typically refers to video file specifically designed for playback on **Chinese MP5 portable media players**. These MP5 files are essentially similar to standard .MP4 files as they use MPEG-4 or MPEG-H codecs for encoding. The primary distinction lies in optimization of MP5 files ensuring they are well-suited for playback on Chinese MP5 media players. Essentially, it is a specialized video format tailored for compatibility and optimal performance on these particular portable media devices.
+**MP5 file format** is a file with ".MP5" extension and refers to video file specifically designed for playback on **Chinese MP5 portable media players**. These MP5 files are essentially similar to standard .MP4 files as they use MPEG-4 or MPEG-H codecs for encoding. The primary distinction lies in optimization of MP5 files ensuring they are well-suited for playback on Chinese MP5 media players. Essentially, it is a specialized video format tailored for compatibility and optimal performance on these particular portable media devices.
 
 ## Difference between MP4 and MP5
 
