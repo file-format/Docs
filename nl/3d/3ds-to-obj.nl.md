@@ -28,13 +28,13 @@ Het is een algemene vereiste om [3DS](/nl/3d/3ds/) naar OBJ-bestandsformaat te c
 
 Als u op zoek bent naar een gratis oplossing voor het online converteren van 3DS-bestanden naar het OBJ-formaat, kunt u de Aspose.3D-conversie-app gebruiken. Klik eenvoudig op de onderstaande knop om aan de slag te gaan.
 
-[![3DS naar OBJ](../3ds-to-obj.png)](https://products.aspose.app/3d/conversion/3ds-to-obj)
+[![3DS naar OBJ](../3ds-to-obj.png)](https://products.aspose.app/3d/conversion/)
 
 ### Stappen om 3DS naar OBJ te converteren
 
 Hier zijn de stappen die u moet volgen om uw 3DS-bestanden naar OBJ te converteren.
 
-1. Ga naar [Aspose.3D-conversie-app](https://products.aspose.app/3d/conversion/3DS-to-obj)
+1. Ga naar [Aspose.3D-conversie-app](https://products.aspose.app/3d/conversion/)
 1. Upload uw 3DS-bestand naar de browser
 1. Selecteer OBJ als uitvoerbestandsformaat
 1. Druk op de knop Converteren
