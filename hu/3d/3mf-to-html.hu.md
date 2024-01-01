@@ -26,13 +26,13 @@ A **3MF**-ot, amely a 3D gyártási formátum rövidítése, különféle alkalm
 
 Ha ingyenes online módszert keres a 3MF fájlok HTML formátumba konvertálására, az Aspose.3D konvertáló alkalmazás az Ön szolgálatában áll. Egyszerűen kattintson az alábbi gombra az átalakítási folyamat elindításához.
 
-[![3MF to HTML](../3mf-to-html.png)](https://products.aspose.app/3d/conversion/3mf-to-html)
+[![3MF to HTML](../3mf-to-html.png)](https://products.aspose.app/3d/conversion/)
 
 ### A 3MF HTML formátumba konvertálásának lépései
 
 Kövesse ezeket a lépéseket, hogy sikeresen konvertálja 3MF fájljait HTML formátumba.
 
-1. Nyissa meg az [Aspose.3D konverziós alkalmazást](https://products.aspose.app/3d/conversion/3MF-to-html)
+1. Nyissa meg az [Aspose.3D konverziós alkalmazást](https://products.aspose.app/3d/conversion/)
 1. Töltse fel a 3MF fájlt a böngészőbe
 1. Válassza ki a HTML-t kimeneti fájlformátumként
 1. Nyomja meg a Konvertálás gombot
