@@ -31,6 +31,35 @@
 
 MTL file, short for **Material Template Library**, is companion file format used in 3D computer graphics and modeling. It is often associated with **Wavefront OBJ file format**, which is common format for storing 3D models and their associated materials and textures.
 
+## MTL File Format
+
+The **MTL file format** is associated with 3D computer graphics and is often used in conjunction with the OBJ (Wavefront .obj) file format. OBJ files define 3D geometry, and MTL files define material properties for the associated OBJ files.
+
+Here is a simple example of an MTL file:
+
+```
+newmtl MaterialName
+Ka 0.6 0.6 0.6    # Ambient color
+Kd 0.8 0.8 0.8    # Diffuse color
+Ks 1.0 1.0 1.0    # Specular color
+Ns 100            # Shininess
+d  1.0            # Dissolve (transparency)
+map_Kd texture.jpg  # Diffuse texture map
+```
+
+In this example:
+
+-   `Ka` represents ambient color.
+-   `Kd` represents diffuse color.
+-   `Ks` represents specular color.
+-   `Ns` represents shininess.
+-   `d` represents dissolve (transparency).
+-   `map_Kd` specifies the diffuse texture map.
+
+These material properties can be applied to different parts of the 3D model defined in the corresponding OBJ file.
+
+**MTL file is optional and OBJ files can be used without associated MTL files**. However, using MTL files allows for more detailed and realistic rendering of 3D models by specifying surface properties and textures.
+
 ## Material Template Library
 
 Here is important information about MTL files:
