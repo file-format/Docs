@@ -59,5 +59,5 @@ Om een zoekmap in de Outlook-applicatie te maken, kunt u deze stappen volgen:
 Nadat u de zoekmap heeft aangemaakt, geeft Outlook automatisch de items weer die voldoen aan de zoekcriteria in de map. U kunt ook de weergave van de zoekmap aanpassen, kolommen toevoegen of verwijderen en de items sorteren op basis van verschillende criteria. Hierdoor kunt u snel de artikelen vinden die voor u het meest relevant zijn, zonder dat u er handmatig naar hoeft te zoeken.
 
 ## Referenties
-* [Gebruik zoekmappen om berichten of andere Outlook-items te vinden](https://support.microsoft.com/en-us/office/use-search-folders-to-find-messages-or-other-outlook-items- c1807038-01e4-475e-8869-0ccab0a56dc5)
+* [Gebruik zoekmappen om berichten of andere Outlook-items te vinden](https://support.microsoft.com/en-us/office/use-search-folders-to-find-messages-or-other-outlook-items-c1807038-01e4-475e-8869-0ccab0a56dc5)
 

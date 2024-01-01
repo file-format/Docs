@@ -59,5 +59,5 @@ Trong Microsoft Outlook, thư mục tìm kiếm là một thư mục ảo hiển
 Khi bạn đã tạo thư mục tìm kiếm, Outlook sẽ tự động hiển thị các mục phù hợp với tiêu chí tìm kiếm trong thư mục. Bạn cũng có thể tùy chỉnh chế độ xem thư mục tìm kiếm, thêm hoặc xóa cột và sắp xếp các mục dựa trên các tiêu chí khác nhau. Điều này cho phép bạn nhanh chóng tìm thấy các mục phù hợp nhất với mình mà không cần phải tìm kiếm chúng theo cách thủ công.
 
 ## Người giới thiệu
-* [Sử dụng Thư mục tìm kiếm để tìm thư hoặc các mục Outlook khác](https://support.microsoft.com/en-us/office/use-search-folders-to-find-messages-or-other-outlook-items- c1807038-01e4-475e-8869-0ccab0a56dc5)
+* [Sử dụng Thư mục tìm kiếm để tìm thư hoặc các mục Outlook khác](https://support.microsoft.com/en-us/office/use-search-folders-to-find-messages-or-other-outlook-items-c1807038-01e4-475e-8869-0ccab0a56dc5)
 

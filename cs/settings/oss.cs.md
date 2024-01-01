@@ -59,5 +59,5 @@ Chcete-li vytvořit složku hledání v aplikaci Outlook, postupujte takto:
 Jakmile vytvoříte složku hledání, Outlook automaticky zobrazí položky, které odpovídají kritériím hledání ve složce. Můžete také přizpůsobit zobrazení složky hledání, přidat nebo odebrat sloupce a seřadit položky na základě různých kritérií. To vám umožní rychle najít položky, které jsou pro vás nejrelevantnější, aniž byste je museli ručně hledat.
 
 ## Reference
-* [Používejte složky vyhledávání k nalezení zpráv nebo jiných položek aplikace Outlook](https://support.microsoft.com/en-us/office/use-search-folders-to-find-messages-or-other-outlook-items- c1807038-01e4-475e-8869-0ccab0a56dc5)
+* [Používejte složky vyhledávání k nalezení zpráv nebo jiných položek aplikace Outlook](https://support.microsoft.com/en-us/office/use-search-folders-to-find-messages-or-other-outlook-items-c1807038-01e4-475e-8869-0ccab0a56dc5)
 

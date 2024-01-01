@@ -59,5 +59,5 @@ Para crear una carpeta de búsqueda en la aplicación Outlook, puede seguir esto
 Una vez que haya creado la carpeta de búsqueda, Outlook mostrará automáticamente los elementos que coincidan con los criterios de búsqueda en la carpeta. También puede personalizar la vista de la carpeta de búsqueda, agregar o eliminar columnas y ordenar los elementos según diferentes criterios. Esto le permite encontrar rápidamente los elementos que sean más relevantes para usted sin tener que buscarlos manualmente.
 
 ## Referencias
-* [Usar carpetas de búsqueda para buscar mensajes u otros elementos de Outlook](https://support.microsoft.com/en-us/office/use-search-folders-to-find-messages-or-other-outlook-items- c1807038-01e4-475e-8869-0ccab0a56dc5)
+* [Usar carpetas de búsqueda para buscar mensajes u otros elementos de Outlook](https://support.microsoft.com/en-us/office/use-search-folders-to-find-messages-or-other-outlook-items-c1807038-01e4-475e-8869-0ccab0a56dc5)
 

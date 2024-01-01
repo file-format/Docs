@@ -59,5 +59,5 @@
 לאחר שיצרת את תיקיית החיפוש, Outlook יציג אוטומטית את הפריטים התואמים את קריטריוני החיפוש בתיקייה. ניתן גם להתאים אישית את התצוגה של תיקיית החיפוש, להוסיף או להסיר עמודות ולמיין את הפריטים על סמך קריטריונים שונים. זה מאפשר לך למצוא במהירות את הפריטים הרלוונטיים ביותר עבורך מבלי שתצטרך לחפש אותם באופן ידני.
 
 ## הפניות
-* [השתמש בתיקיות חיפוש כדי למצוא הודעות או פריטים אחרים של Outlook](https://support.microsoft.com/en-us/office/use-search-folders-to-find-messages-or-other-outlook-items- c1807038-01e4-475e-8869-0ccab0a56dc5)
+* [השתמש בתיקיות חיפוש כדי למצוא הודעות או פריטים אחרים של Outlook](https://support.microsoft.com/en-us/office/use-search-folders-to-find-messages-or-other-outlook-items-c1807038-01e4-475e-8869-0ccab0a56dc5)
 

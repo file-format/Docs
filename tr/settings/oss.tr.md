@@ -59,5 +59,5 @@ Outlook uygulamasında arama klasörü oluşturmak için şu adımları takip ed
 Arama klasörünü oluşturduktan sonra Outlook, klasördeki arama kriterleriyle eşleşen öğeleri otomatik olarak görüntüler. Ayrıca arama klasörünün görünümünü özelleştirebilir, sütun ekleyebilir veya kaldırabilir ve öğeleri farklı ölçütlere göre sıralayabilirsiniz. Bu, sizinle en alakalı öğeleri manuel olarak aramanıza gerek kalmadan hızlı bir şekilde bulmanızı sağlar.
 
 ## Referanslar
-* [Mesajları veya diğer Outlook öğelerini bulmak için Arama Klasörlerini kullanın](https://support.microsoft.com/en-us/office/use-search-folders-to-find-messages-or-other-outlook-items- c1807038-01e4-475e-8869-0ccab0a56dc5)
+* [Mesajları veya diğer Outlook öğelerini bulmak için Arama Klasörlerini kullanın](https://support.microsoft.com/en-us/office/use-search-folders-to-find-messages-or-other-outlook-items-c1807038-01e4-475e-8869-0ccab0a56dc5)
 

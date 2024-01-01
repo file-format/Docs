@@ -59,5 +59,5 @@ Untuk membuat folder pencarian di aplikasi Outlook, Anda dapat mengikuti langkah
 Setelah Anda membuat folder pencarian, Outlook akan secara otomatis menampilkan item yang sesuai dengan kriteria pencarian di folder tersebut. Anda juga dapat menyesuaikan tampilan folder pencarian, menambah atau menghapus kolom, dan mengurutkan item berdasarkan kriteria yang berbeda. Hal ini memungkinkan Anda dengan cepat menemukan item yang paling relevan bagi Anda tanpa harus mencarinya secara manual.
 
 ## Referensi
-* [Gunakan Folder Pencarian untuk menemukan pesan atau item Outlook lainnya](https://support.microsoft.com/en-us/office/use-search-folders-to-find-messages-or-other-outlook-items- c1807038-01e4-475e-8869-0ccab0a56dc5)
+* [Gunakan Folder Pencarian untuk menemukan pesan atau item Outlook lainnya](https://support.microsoft.com/en-us/office/use-search-folders-to-find-messages-or-other-outlook-items-c1807038-01e4-475e-8869-0ccab0a56dc5)
 

@@ -59,5 +59,5 @@ OSS 文件扩展名与 Microsoft Outlook 保存的搜索文件相关联。当您
 创建搜索文件夹后,Outlook 将自动显示与文件夹中的搜索条件匹配的项目。您还可以自定义搜索文件夹的视图,添加或删除列以及根据不同条件对项目进行排序。这使您可以快速找到与您最相关的项目,而无需手动搜索。
 
 ## 参考
-* [使用搜索文件夹查找邮件或其他 Outlook 项目](https://support.microsoft.com/en-us/office/use-search-folders-to-find-messages-or-other-outlook-items- c1807038-01e4-475e-8869-0ccab0a56dc5)
+* [使用搜索文件夹查找邮件或其他 Outlook 项目](https://support.microsoft.com/en-us/office/use-search-folders-to-find-messages-or-other-outlook-items-c1807038-01e4-475e-8869-0ccab0a56dc5)
 

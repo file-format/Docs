@@ -59,5 +59,5 @@ Aby utworzyć folder wyszukiwania w aplikacji Outlook, możesz wykonać następu
 Po utworzeniu folderu wyszukiwania Outlook automatycznie wyświetli elementy spełniające kryteria wyszukiwania w folderze. Możesz także dostosować widok folderu wyszukiwania, dodawać lub usuwać kolumny oraz sortować elementy na podstawie różnych kryteriów. Dzięki temu możesz szybko znaleźć najważniejsze dla Ciebie elementy, bez konieczności ręcznego ich wyszukiwania.
 
 ## Bibliografia
-* [Użyj folderów wyszukiwania, aby znaleźć wiadomości lub inne elementy programu Outlook](https://support.microsoft.com/en-us/office/use-search-folders-to-find-messages-or-other-outlook-items- c1807038-01e4-475e-8869-0ccab0a56dc5)
+* [Użyj folderów wyszukiwania, aby znaleźć wiadomości lub inne elementy programu Outlook](https://support.microsoft.com/en-us/office/use-search-folders-to-find-messages-or-other-outlook-items-c1807038-01e4-475e-8869-0ccab0a56dc5)
 

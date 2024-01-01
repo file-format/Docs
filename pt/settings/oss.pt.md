@@ -59,5 +59,5 @@ Para criar uma pasta de pesquisa no aplicativo Outlook, você pode seguir estas 
 Depois de criar a pasta de pesquisa, o Outlook exibirá automaticamente os itens que correspondem aos critérios de pesquisa na pasta. Você também pode personalizar a visualização da pasta de pesquisa, adicionar ou remover colunas e classificar os itens com base em diferentes critérios. Isso permite que você encontre rapidamente os itens mais relevantes para você, sem precisar procurá-los manualmente.
 
 ## Referências
-* [Use Pastas de Pesquisa para localizar mensagens ou outros itens do Outlook](https://support.microsoft.com/en-us/office/use-search-folders-to-find-messages-or-other-outlook-items- c1807038-01e4-475e-8869-0ccab0a56dc5)
+* [Use Pastas de Pesquisa para localizar mensagens ou outros itens do Outlook](https://support.microsoft.com/en-us/office/use-search-folders-to-find-messages-or-other-outlook-items-c1807038-01e4-475e-8869-0ccab0a56dc5)
 

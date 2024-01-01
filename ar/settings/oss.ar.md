@@ -59,5 +59,5 @@
 بمجرد إنشاء مجلد البحث, سيعرض Outlook تلقائيًا العناصر التي تطابق معايير البحث في المجلد. يمكنك أيضًا تخصيص عرض مجلد البحث, وإضافة أعمدة أو إزالتها, وفرز العناصر بناءً على معايير مختلفة. يتيح لك ذلك العثور بسرعة على العناصر الأكثر صلة بك دون الحاجة إلى البحث عنها يدويًا.
 
 ## مراجع
-* [استخدم مجلدات البحث للعثور على الرسائل أو عناصر Outlook الأخرى](https://support.microsoft.com/en-us/office/use-search-folders-to-find-messages-or-other-outlook-items- c1807038-01e4-475e-8869-0ccab0a56dc5)
+* [استخدم مجلدات البحث للعثور على الرسائل أو عناصر Outlook الأخرى](https://support.microsoft.com/en-us/office/use-search-folders-to-find-messages-or-other-outlook-items-c1807038-01e4-475e-8869-0ccab0a56dc5)
 
