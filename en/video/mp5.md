@@ -42,3 +42,12 @@ MP5 files can directly be played on Chinese portable media players like Baidu Pl
 ## How to convert MP5 to MP4
 
 MP5 is already an MP4 file, just change the extension of MP5 to MP4 and play it in your MP4 media player.
+
+## what is MP5 player?
+
+An MP5 player is a device that plays digital audio and video files. It is like an upgraded version of MP3 and MP4 players. The cool thing about MP5 players is that they can play files without needing to change them into a specific format. So, you can download and play stuff without worrying if it will work on the device. Also, MP5 players usually have bigger screens compared to MP3 and MP4 players, giving you better video quality.
+
+## MP3 vs MP4 vs MP5
+
+They are all MPEG files, MP3 has only audio, MP4 has audio as well as video, MP5 also has audio and video and essentially an MP4 file format.
+
