@@ -37,5 +37,5 @@ Hello World from Java to the console.
 
 ## सन्दर्भ ##
 
-* [जावा (प्रोग्रामिंग भाषा) - विकिपीडिया](https://en.wikipedia.org/wiki/Java_(प्रोग्रामिंग_भाषा))
+* [जावा (प्रोग्रामिंग भाषा) - विकिपीडिया](https://en.wikipedia.org/wiki/Java_(programming_language))
 

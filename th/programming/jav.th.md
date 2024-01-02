@@ -37,5 +37,5 @@ Hello World from Java to the console.
 
 ## ข้อมูลอ้างอิง ##
 
-* [Java (ภาษาการเขียนโปรแกรม) - Wikipedia](https://en.wikipedia.org/wiki/Java_(programming_ language))
+* [Java (ภาษาการเขียนโปรแกรม) - Wikipedia](https://en.wikipedia.org/wiki/Java_(programming_language))
 

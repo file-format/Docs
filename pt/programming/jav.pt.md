@@ -37,5 +37,5 @@ Hello World from Java to the console.
 
 ## Referências ##
 
-* [Java (linguagem de programação) - Wikipédia](https://en.wikipedia.org/wiki/Java_(linguagem_de_programação))
+* [Java (linguagem de programação) - Wikipédia](https://en.wikipedia.org/wiki/Java_(programming_language))
 
