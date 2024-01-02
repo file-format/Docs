@@ -30,7 +30,7 @@ Az Aspose.3D konvertáló alkalmazást INGYENESEN használhatja a GLB HTML-re ko
 
 Íme a lépések, amelyeket követnie kell a GLB-fájlok HTML formátumba konvertálásához.
 
-1. Nyissa meg az [Aspose.3D konverziós alkalmazást](https://products.aspose.app/3d/conversion/glb-to-HTML)
+1. Nyissa meg az [Aspose.3D konverziós alkalmazást](https://products.aspose.app/3d/conversion/glb-to-html)
 1. Töltse fel GLB-fájlját a böngészőbe
 1. Válassza ki a HTML-t kimeneti képfájl-formátumként
 1. Nyomja meg a Konvertálás gombot

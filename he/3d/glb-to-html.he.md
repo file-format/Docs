@@ -30,7 +30,7 @@
 
 להלן השלבים שעליך לבצע כדי להמיר את קבצי ה-GLB שלך ל-HTML.
 
-1. עבור אל [אפליקציית המרה Aspose.3D](https://products.aspose.app/3d/conversion/glb-to-HTML)
+1. עבור אל [אפליקציית המרה Aspose.3D](https://products.aspose.app/3d/conversion/glb-to-html)
 1. העלה את קובץ ה-GLB שלך לדפדפן
 1. בחר HTML כפורמט קובץ תמונת פלט
 1. לחץ על כפתור המר

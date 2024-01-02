@@ -30,7 +30,7 @@
 
 以下是将 GLB 文件转换为 HTML 需要遵循的步骤。
 
-1.进入[Aspose.3D转换应用程序](https://products.aspose.app/3d/conversion/glb-to-HTML)
+1.进入[Aspose.3D转换应用程序](https://products.aspose.app/3d/conversion/glb-to-html)
 1.将GLB文件上传到浏览器
 1. 选择 HTML 作为输出图像文件格式
 1. 按转换按钮

@@ -30,7 +30,7 @@ Anda dapat menggunakan aplikasi konversi Aspose.3D GRATIS untuk mengonversi GLB 
 
 Berikut adalah langkah-langkah yang perlu Anda ikuti untuk mengonversi file GLB Anda ke HTML.
 
-1. Buka [aplikasi konversi Aspose.3D](https://products.aspose.app/3d/conversion/glb-to-HTML)
+1. Buka [aplikasi konversi Aspose.3D](https://products.aspose.app/3d/conversion/glb-to-html)
 1. Unggah file GLB Anda ke browser
 1. Pilih HTML sebagai format file gambar keluaran
 1. Tekan tombol Konversi

@@ -30,7 +30,7 @@ K převodu GLB do HTML můžete ZDARMA použít konverzní aplikaci Aspose.3D. K
 
 Zde jsou kroky, které musíte provést, abyste převedli soubory GLB do HTML.
 
-1. Přejděte do [Aplikace pro převod Aspose.3D](https://products.aspose.app/3d/conversion/glb-to-HTML)
+1. Přejděte do [Aplikace pro převod Aspose.3D](https://products.aspose.app/3d/conversion/glb-to-html)
 1. Nahrajte svůj soubor GLB do prohlížeče
 1. Vyberte HTML jako výstupní formát souboru obrázku
 1. Stiskněte tlačítko Převést
