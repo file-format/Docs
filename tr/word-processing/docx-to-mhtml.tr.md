@@ -89,5 +89,5 @@ Aspose.Words for Python via .NET, Microsoft Word (DOC, DOCX, ODT), PDF ve Web (H
 
 1. [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/)
 1. Yükleyin - [Aspose.Words for Python via .NET](https://releases.aspose.com/words/python/)
-1. .NET aracılığıyla Python kullanarak DOCX'i MHTML'ye dönüştürün - [.NET aracılığıyla Python'da DOCX'ten MHTML'ye dönüştürme kılavuzu](https://docs.aspose.com/words/python-net/convert-a-document-to-html -mhtml-veya-epub/)
+1. .NET aracılığıyla Python kullanarak DOCX'i MHTML'ye dönüştürün - [.NET aracılığıyla Python'da DOCX'ten MHTML'ye dönüştürme kılavuzu](https://docs.aspose.com/words/python-net/convert-a-document-to-html-mhtml-or-epub/)
 

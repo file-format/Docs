@@ -89,5 +89,5 @@ Aspose.Words for Python via .NET は、さまざまな種類のドキュメン�
 
 1. [Aspose.Words for Python (.NET 経由)](https://products.aspose.com/words/python-net/)
 1. インストール - [Aspose.Words for Python via .NET](https://releases.aspose.com/words/python/)
-1. .NET 経由で Python を使用して DOCX を MHTML に変換する - [.NET 経由で Python で DOCX から MHTML に変換するガイド](https://docs.aspose.com/words/python-net/convert-a-document-to-html) -mhtml-or-epub/)
+1. .NET 経由で Python を使用して DOCX を MHTML に変換する - [.NET 経由で Python で DOCX から MHTML に変換するガイド](https://docs.aspose.com/words/python-net/convert-a-document-to-html-mhtml-or-epub/)
 

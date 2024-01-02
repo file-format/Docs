@@ -89,5 +89,5 @@ Aspose.Words pentru Python prin .NET este un pachet software destinat citirii ș
 
 1. [Aspose.Words pentru Python prin .NET](https://products.aspose.com/words/python-net/)
 1. Instalați - [Aspose.Words pentru Python prin .NET](https://releases.aspose.com/words/python/)
-1. Convertiți DOCX în MHTML utilizând Python prin .NET - [Ghid de conversie DOCX în MHTML în Python prin .NET](https://docs.aspose.com/words/python-net/convert-a-document-to-html -mhtml-sau-epub/)
+1. Convertiți DOCX în MHTML utilizând Python prin .NET - [Ghid de conversie DOCX în MHTML în Python prin .NET](https://docs.aspose.com/words/python-net/convert-a-document-to-html-mhtml-or-epub/)
 
