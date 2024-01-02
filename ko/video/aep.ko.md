@@ -53,5 +53,5 @@ AEP 파일은 다음과 같은 다른 널리 사용되는 파일 형식으로 �
 
 ## 참고자료
 
-- [After Effects 프로젝트 유형](https://helpx.adobe.com/after- Effects/using/projects.html)
+- [After Effects 프로젝트 유형](https://helpx.adobe.com/after-effects/using/projects.html)
 
