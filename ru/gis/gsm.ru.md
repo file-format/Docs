@@ -29,9 +29,4 @@
 
 MapViewer позволяет вам работать с файлами карт, накладывая ваши данные на географические области. Это помогает визуализировать пространственные данные, такие как карты плотности населения, климатические карты и некоторые другие типы данных.
 
-## Использованная литература ##
-
-* [Где скачать файлы границ для использования в MapViewer](https://support.goldensoftware.com/hc/en-us/articles/226664588-Where-to-download-boundary-files-for-use-in-MapViewer )
-* [Справка MapViewer](https://mapviewerhelp.goldensoftware.com/)
-* [База знаний MapViewer](https://support.goldensoftware.com/hc/en-us/categories/115000653887-MapViewer)
 

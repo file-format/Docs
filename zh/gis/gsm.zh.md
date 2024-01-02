@@ -29,9 +29,4 @@ GSM 文件以二进制文件格式保存，其内部文件结构细节不公开�
 
 MapViewer 允许您通过在地理区域上叠加数据来处理地图文件。这有助于可视化空间数据，例如人口密度图、气候图和其他几种类型的数据。
 
-## 参考 ＃＃
-
-* [在哪里下载用于 MapViewer 的边界文件](https://support.goldensoftware.com/hc/en-us/articles/226664588-Where-to-download-boundary-files-for-use-in-MapViewer )
-* [MapViewer 帮助](https://mapviewerhelp.goldensoftware.com/)
-* [MapViewer 知识库](https://support.goldensoftware.com/hc/zh-cn/categories/115000653887-MapViewer)
 

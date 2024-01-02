@@ -29,9 +29,4 @@ Los archivos GSM se guardan en formato de archivo binario y los detalles de su e
 
 MapViewer le permite trabajar con archivos de mapas al superponer sus datos en áreas geográficas. Esto ayuda a visualizar datos espaciales, como mapas de densidad de población, mapas climáticos y varios otros tipos de datos.
 
-## Referencias ##
-
-* [Dónde descargar archivos de límites para usar en MapViewer](https://support.goldensoftware.com/hc/en-us/articles/226664588-where-to-download-boundary-files-for-use-in-MapViewer )
-* [Ayuda de MapViewer](https://mapviewerhelp.goldensoftware.com/)
-* [Base de conocimientos de MapViewer](https://support.goldensoftware.com/hc/en-us/categories/115000653887-MapViewer)
 
