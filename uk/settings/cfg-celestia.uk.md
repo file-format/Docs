@@ -197,5 +197,5 @@ Spacecraft "Voyager 1"
 - [CFG - Файл конфігурації моделі Cal3D](/uk/misc/cfg-cal3d/)
 
 ## Список літератури
-* [Селестія](https://en.wikipedia.org/wiki/Селестія)
+* [Селестія](https://en.wikipedia.org/wiki/Celestia)
 

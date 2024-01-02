@@ -197,5 +197,5 @@ Spacecraft "Voyager 1"
 - [CFG - Файл за конфигурация на Cal3D модел](/bg/misc/cfg-cal3d/)
 
 ## Препратки
-* [Селестия](https://en.wikipedia.org/wiki/Селестия)
+* [Селестия](https://en.wikipedia.org/wiki/Celestia)
 

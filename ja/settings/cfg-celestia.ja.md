@@ -197,5 +197,5 @@ CFG ファイルを開いたり参照したりするプログラム
 - [CFG - Cal3D モデル設定ファイル](/ja/misc/cfg-cal3d/)
 
 ## 参考文献
-※【セレスティア】(https://ja.wikipedia.org/wiki/セレスティア)
+* [セレスティア](https://en.wikipedia.org/wiki/Celestia)
 
