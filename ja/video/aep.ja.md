@@ -53,5 +53,5 @@ AEP ファイルは、次のような他の一般的なファイル形式に変�
 
 ## 参考文献
 
-- [After Effects プロジェクトの種類](https://helpx.adobe.com/after-Effects/using/projects.html)
+- [After Effects プロジェクトの種類](https://helpx.adobe.com/after-effects/using/projects.html)
 

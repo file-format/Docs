@@ -110,5 +110,5 @@ end
 - `แอปพลิเคชัน/x-ruby`
 
 ## อ้างอิง
-* [Ruby (ภาษาการเขียนโปรแกรม)](https://en.wikipedia.org/wiki/Ruby_(programming_ language))
+* [Ruby (ภาษาการเขียนโปรแกรม)](https://en.wikipedia.org/wiki/Ruby_(programming_language))
 

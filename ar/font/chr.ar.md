@@ -91,5 +91,5 @@
 - [مركز حقوق الإنسان - نادي دوكي دوكي الأدبي! ملف الشخصية](/ar/game/chr-doki/)
 
 ## مراجع
-- [الحرف (الحوسبة)](https://en.wikipedia.org/wiki/Character_(الحوسبة))
+- [الحرف (الحوسبة)](https://en.wikipedia.org/wiki/Character_(computing))
 

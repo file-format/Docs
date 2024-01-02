@@ -34,7 +34,7 @@ FilmBox, जिसे अक्सर [FBX](/hi/3d/fbx/) के नाम से
 
 अपनी 3DS फ़ाइलों को FBX में परिवर्तित करने के लिए आपको निम्नलिखित चरणों का पालन करना होगा।
 
-1. [Aspose.3D रूपांतरण ऐप](https://products.aspose.app/3d/conversion/3DS-to-fbx) पर जाएं
+1. [Aspose.3D रूपांतरण ऐप](https://products.aspose.app/3d/conversion/3ds-to-fbx) पर जाएं
 1. अपनी 3DS फ़ाइल को ब्राउज़र पर अपलोड करें
 1. आउटपुट फ़ाइल स्वरूप के रूप में FBX का चयन करें
 1. कन्वर्ट बटन दबाएँ

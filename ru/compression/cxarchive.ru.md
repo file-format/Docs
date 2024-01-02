@@ -117,5 +117,5 @@ CrossOver — коммерческое программное обеспечен
 **Подтип:** Сжатые файлы
 
 ## Рекомендации
-* [CrossOver (программное обеспечение)](https://en.wikipedia.org/wiki/CrossOver_(программное обеспечение))
+* [CrossOver (программное обеспечение)](https://en.wikipedia.org/wiki/CrossOver_(software))
 

@@ -90,5 +90,5 @@ Az Aspose.Words for Python via .NET egy szoftvercsomag, amely különféle dokum
 
 1. [Aspose.Words for Python a .NET-en keresztül](https://products.aspose.com/words/python-net/)
 1. Telepítse – [Aspose.Words for Python .NET-en keresztül](https://releases.aspose.com/words/python/)
-1. Konvertálja a DOCX-et HTML-be Python használatával .NET-en keresztül – [DOCX-HTML-konverziós útmutató Pythonban .NET-en keresztül](https://docs.aspose.com/words/python-net/convert-a-document-to-html -mhtml-or-epub/)
+1. Konvertálja a DOCX-et HTML-be Python használatával .NET-en keresztül – [DOCX-HTML-konverziós útmutató Pythonban .NET-en keresztül](https://docs.aspose.com/words/python-net/convert-a-document-to-html-mhtml-or-epub/)
 

@@ -89,5 +89,5 @@ Aspose.Words for Python via .NET은 Microsoft Word(DOC, DOCX, ODT), PDF 및 웹(
 
 1. [.NET을 통한 Python용 Aspose.Words](https://products.aspose.com/words/python-net/)
 1. 설치 - [.NET을 통한 Python용 Aspose.Words](https://releases.aspose.com/words/python/)
-1. .NET을 통해 Python을 사용하여 DOCX를 MHTML로 변환 - [.NET을 통해 Python에서 DOCX를 MHTML로 변환 가이드](https://docs.aspose.com/words/python-net/convert-a-document-to-html) -mhtml-또는-epub/)
+1. .NET을 통해 Python을 사용하여 DOCX를 MHTML로 변환 - [.NET을 통해 Python에서 DOCX를 MHTML로 변환 가이드](https://docs.aspose.com/words/python-net/convert-a-document-to-html-mhtml-or-epub/)
 

@@ -18,7 +18,7 @@
 
 ## .SSF ファイルとは何ですか?
 
-.ssf ファイルを含むファイルは、[Trimble](https://www.trimble.com) Navigation GIS ソフトウェア アプリケーションで使用される地理空間データ ストレージ ファイル形式です。 Trimble デバイスを使用してフィールドから記録された GPS データを保存します。 GPS ログは、Trimble アプリケーション スイートのアプリケーションの 1 つにインポートされます。 SSF に含まれる GPS ログは、カスタム座標系を作成するために使用されます。 SSF ファイルは、[Trimble Navigation GPS Pathfinder Office](https://geospatial.trimble.com/products-and-solutions/ssf-and-ddf-data-format-extensions-fme)、Trimble Navigation GPS Pathfinder Tools SDK、ESRI ArcGIS for Desktop で開くことができます。 Trimble GPS Analyst プラグイン。
+.ssf ファイルを含むファイルは、[Trimble](https://www.trimble.com) Navigation GIS ソフトウェア アプリケーションで使用される地理空間データ ストレージ ファイル形式です。 Trimble デバイスを使用してフィールドから記録された GPS データを保存します。 GPS ログは、Trimble アプリケーション スイートのアプリケーションの 1 つにインポートされます。 SSF に含まれる GPS ログは、カスタム座標系を作成するために使用されます。 SSF ファイルは、[Trimble Navigation GPS Pathfinder Office](https://geospatial.trimble.com/en/products/software/office-software)、Trimble Navigation GPS Pathfinder Tools SDK、ESRI ArcGIS for Desktop で開くことができます。 Trimble GPS Analyst プラグイン。
 
 ## SSF ファイル形式 - 詳細情報
 

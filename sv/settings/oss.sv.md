@@ -59,5 +59,5 @@ För att skapa en sökmapp i Outlook-applikationen kan du följa dessa steg:
 När du har skapat sökmappen kommer Outlook automatiskt att visa de objekt som matchar sökkriterierna i mappen. Du kan också anpassa vyn av sökmappen, lägga till eller ta bort kolumner och sortera objekten baserat på olika kriterier. Detta gör att du snabbt kan hitta de objekt som är mest relevanta för dig utan att behöva söka efter dem manuellt.
 
 ## Referenser
-* [Använd sökmappar för att hitta meddelanden eller andra Outlook-objekt](https://support.microsoft.com/en-us/office/use-search-folders-to-find-messages-or-other-outlook-items- c1807038-01e4-475e-8869-0ccab0a56dc5)
+* [Använd sökmappar för att hitta meddelanden eller andra Outlook-objekt](https://support.microsoft.com/en-us/office/use-search-folders-to-find-messages-or-other-outlook-items-c1807038-01e4-475e-8869-0ccab0a56dc5)
 

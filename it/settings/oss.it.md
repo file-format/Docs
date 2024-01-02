@@ -59,5 +59,5 @@ Per creare una cartella di ricerca nell'applicazione Outlook, puoi seguire quest
 Una volta creata la cartella di ricerca, Outlook visualizzerà automaticamente gli elementi che corrispondono ai criteri di ricerca nella cartella. Puoi anche personalizzare la visualizzazione della cartella di ricerca, aggiungere o rimuovere colonne e ordinare gli elementi in base a criteri diversi. Ciò ti consente di trovare rapidamente gli articoli che ti interessano di più senza doverli cercare manualmente.
 
 ## Riferimenti
-* [Utilizza le cartelle di ricerca per trovare messaggi o altri elementi di Outlook](https://support.microsoft.com/en-us/office/use-search-folders-to-find-messages-or-other-outlook-items- c1807038-01e4-475e-8869-0ccab0a56dc5)
+* [Utilizza le cartelle di ricerca per trovare messaggi o altri elementi di Outlook](https://support.microsoft.com/en-us/office/use-search-folders-to-find-messages-or-other-outlook-items-c1807038-01e4-475e-8869-0ccab0a56dc5)
 

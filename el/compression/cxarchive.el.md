@@ -117,5 +117,5 @@
 **SubType:** Συμπιεσμένα αρχεία
 
 ## βιβλιογραφικές αναφορές
-* [CrossOver (λογισμικό)](https://en.wikipedia.org/wiki/CrossOver_(λογισμικό))
+* [CrossOver (λογισμικό)](https://en.wikipedia.org/wiki/CrossOver_(software))
 

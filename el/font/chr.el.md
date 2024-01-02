@@ -91,5 +91,5 @@
 - [CHR - Doki Doki Literature Club! Αρχείο χαρακτήρων](/el/game/chr-doki/)
 
 ## βιβλιογραφικές αναφορές
-- [Χαρακτήρας (υπολογισμός)](https://en.wikipedia.org/wiki/Character_(υπολογιστική))
+- [Χαρακτήρας (υπολογισμός)](https://en.wikipedia.org/wiki/Character_(computing))
 

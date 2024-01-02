@@ -37,5 +37,5 @@ Hello World from Java to the console.
 
 ## Referenties ##
 
-* [Java (programmeertaal) - Wikipedia](https://en.wikipedia.org/wiki/Java_(programmeertaal))
+* [Java (programmeertaal) - Wikipedia](https://en.wikipedia.org/wiki/Java_(programming_language))
 

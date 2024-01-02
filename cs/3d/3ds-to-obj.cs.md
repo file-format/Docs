@@ -34,7 +34,7 @@ Pokud hledáte bezplatné řešení pro převod souborů 3DS do formátu OBJ onl
 
 Zde jsou kroky, které musíte provést, abyste převedli soubory 3DS na OBJ.
 
-1. Přejděte do [Aplikace pro převod Aspose.3D](https://products.aspose.app/3d/conversion/3DS-to-obj)
+1. Přejděte do [Aplikace pro převod Aspose.3D](https://products.aspose.app/3d/conversion/3ds-to-obj)
 1. Nahrajte svůj soubor 3DS do prohlížeče
 1. Jako výstupní formát souboru vyberte OBJ
 1. Stiskněte tlačítko Převést

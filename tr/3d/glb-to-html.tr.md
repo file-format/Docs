@@ -30,7 +30,7 @@ GLB'yi HTML'ye dönüştürmek için Aspose.3D dönüştürme uygulamasını ÜC
 
 GLB dosyalarınızı HTML'ye dönüştürmek için izlemeniz gereken adımlar şunlardır.
 
-1. [Aspose.3D dönüştürme uygulamasına](https://products.aspose.app/3d/conversion/glb-to-HTML) gidin
+1. [Aspose.3D dönüştürme uygulamasına](https://products.aspose.app/3d/conversion/glb-to-html) gidin
 1. GLB dosyanızı tarayıcıya yükleyin
 1. Çıktı görüntü dosyası formatı olarak HTML'yi seçin
 1. Dönüştür düğmesine basın

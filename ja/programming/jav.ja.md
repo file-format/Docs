@@ -37,5 +37,5 @@ Hello World from Java to the console.
 
 ## 参考文献 ##
 
-* [Java (プログラミング言語) - Wikipedia](https://en.wikipedia.org/wiki/Java_(プログラミング言語))
+* [Java (プログラミング言語) - Wikipedia](https://en.wikipedia.org/wiki/Java_(programming_language))
 

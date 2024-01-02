@@ -89,5 +89,5 @@ Aspose.Words สำหรับ Python ผ่าน .NET เป็นชุด�
 
 1. [Aspose.Words สำหรับ Python ผ่าน .NET](https://products.aspose.com/words/python-net/)
 1. ติดตั้ง - [Aspose.Words สำหรับ Python ผ่าน .NET](https://releases.aspose.com/words/python/)
-1. แปลง DOCX เป็น MHTML โดยใช้ Python ผ่าน .NET - [คำแนะนำการแปลง DOCX เป็น MHTML ใน Python ผ่าน .NET](https://docs.aspose.com/words/python-net/convert-a-document-to-html -mhtml-หรือ-epub/)
+1. แปลง DOCX เป็น MHTML โดยใช้ Python ผ่าน .NET - [คำแนะนำการแปลง DOCX เป็น MHTML ใน Python ผ่าน .NET](https://docs.aspose.com/words/python-net/convert-a-document-to-html-mhtml-or-epub/)
 

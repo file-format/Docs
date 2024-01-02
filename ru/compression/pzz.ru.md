@@ -27,7 +27,7 @@
 
 ## Как открыть файл PZZ?
 
-Вы можете открыть файлы PZZ с помощью [Bondware Poser] (https://www.posersoftware.com/).
+Вы можете открыть файлы PZZ с помощью [Bondware Poser](https://www.posersoftware.com/).
 
 ## Рекомендации
 

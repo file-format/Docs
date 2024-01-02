@@ -53,5 +53,5 @@
 
 ## مراجع
 
-- [أنواع مشاريع After Effects](https://helpx.adobe.com/after-effacts/using/projects.html)
+- [أنواع مشاريع After Effects](https://helpx.adobe.com/after-effects/using/projects.html)
 

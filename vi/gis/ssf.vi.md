@@ -18,7 +18,7 @@
 
 ## Tệp SSF là gì?
 
-Tệp có đuôi .ssf là định dạng tệp lưu trữ dữ liệu Địa không gian được các ứng dụng phần mềm GIS Điều hướng [Trimble](https://www.trimble.com) sử dụng. Nó lưu trữ dữ liệu GPS được ghi từ trường bằng thiết bị Trimble. Nhật ký GPS sau đó được nhập vào một trong các ứng dụng của bộ ứng dụng Trimble. Nhật ký GPS có trong SSF được sử dụng để tạo các hệ tọa độ tùy chỉnh. Có thể mở các tệp SSF bằng [Trimble Navigation GPS Pathfinder Office](https://geospatial.trimble.com/products-and-solutions/ssf-and-ddf-data-format-extensions-fme), Trimble Navigation GPS Pathfinder Tools SDK và ESRI ArcGIS cho Máy tính để bàn với Plug-in Trimble GPS Analyst.
+Tệp có đuôi .ssf là định dạng tệp lưu trữ dữ liệu Địa không gian được các ứng dụng phần mềm GIS Điều hướng [Trimble](https://www.trimble.com) sử dụng. Nó lưu trữ dữ liệu GPS được ghi từ trường bằng thiết bị Trimble. Nhật ký GPS sau đó được nhập vào một trong các ứng dụng của bộ ứng dụng Trimble. Nhật ký GPS có trong SSF được sử dụng để tạo các hệ tọa độ tùy chỉnh. Có thể mở các tệp SSF bằng [Trimble Navigation GPS Pathfinder Office](https://geospatial.trimble.com/en/products/software/office-software), Trimble Navigation GPS Pathfinder Tools SDK và ESRI ArcGIS cho Máy tính để bàn với Plug-in Trimble GPS Analyst.
 
 ## Định dạng tệp SSF - Thông tin khác
 

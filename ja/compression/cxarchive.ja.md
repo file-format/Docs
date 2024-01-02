@@ -117,5 +117,5 @@ CXARCHIVEファイルを開くプログラムには次のものが含まれま�
 **サブタイプ:** 圧縮ファイル
 
 ## 参考文献
-* [CrossOver (ソフトウェア)](https://ja.wikipedia.org/wiki/CrossOver_(ソフトウェア))
+* [CrossOver (ソフトウェア)](https://en.wikipedia.org/wiki/CrossOver_(software))
 

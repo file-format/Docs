@@ -60,5 +60,5 @@ Chcete-li otevřít soubor ANI, můžete postupovat takto:
 5. Alternativně můžete soubor ANI převést na běžnější formát souboru, jako je GIF, pomocí online nástroje pro převod. Jakmile je soubor převeden na GIF, můžete jej otevřít pomocí libovolného prohlížeče obrázků nebo přehrávače médií, který podporuje tento formát souboru.
 
 ## Reference
-* [ANI (formát souboru)](https://en.wikipedia.org/wiki/ANI_(formát_souboru))
+* [ANI (formát souboru)](https://en.wikipedia.org/wiki/ANI_(file_format))
 

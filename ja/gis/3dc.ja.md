@@ -27,5 +27,5 @@ iGO ソフトウェアはナビゲーションの目的で使用されます。 
 
 ## 参考文献
 
-* [iGO ナビゲーション ソフトウェア](https://en.wikipedia.org/wiki/IGO_(ソフトウェア))
+* [iGO ナビゲーション ソフトウェア](https://en.wikipedia.org/wiki/IGO_(software))
 

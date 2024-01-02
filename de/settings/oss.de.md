@@ -59,5 +59,5 @@ Um einen Suchordner in der Outlook-Anwendung zu erstellen, können Sie die folge
 Sobald Sie den Suchordner erstellt haben, zeigt Outlook automatisch die Elemente an, die den Suchkriterien im Ordner entsprechen. Sie können auch die Ansicht des Suchordners anpassen, Spalten hinzufügen oder entfernen und die Elemente nach verschiedenen Kriterien sortieren. Dadurch können Sie schnell die für Sie relevantesten Elemente finden, ohne manuell danach suchen zu müssen.
 
 ## Verweise
-* [Verwenden Sie Suchordner, um Nachrichten oder andere Outlook-Elemente zu finden](https://support.microsoft.com/en-us/office/use-search-folders-to-find-messages-or-other-outlook-items- c1807038-01e4-475e-8869-0ccab0a56dc5)
+* [Verwenden Sie Suchordner, um Nachrichten oder andere Outlook-Elemente zu finden](https://support.microsoft.com/en-us/office/use-search-folders-to-find-messages-or-other-outlook-items-c1807038-01e4-475e-8869-0ccab0a56dc5)
 

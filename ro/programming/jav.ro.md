@@ -37,5 +37,5 @@ Hello World from Java to the console.
 
 ## Referințe ##
 
-* [Java (limbaj de programare) - Wikipedia](https://en.wikipedia.org/wiki/Java_(limbaj_de_programare))
+* [Java (limbaj de programare) - Wikipedia](https://en.wikipedia.org/wiki/Java_(programming_language))
 

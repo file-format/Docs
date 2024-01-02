@@ -35,4 +35,4 @@ OpenIV biedt een gebruiksvriendelijke interface voor het beheren van gamebestand
 
   * [OpenIV](https://openiv.org/)
   * [Hoe OpenIV voor GTA V op pc installeren en gebruiken?](https://openiv.org/openiv-for-gta-v/)
-  * [https://openiv.org/hoe-openiv-te-gebruiken/](https://openiv.org/hoe-te-openiv-te-gebruiken/)
+  * [https://openiv.org/hoe-openiv-te-gebruiken/](https://openiv.org/how-to-use-openiv/)

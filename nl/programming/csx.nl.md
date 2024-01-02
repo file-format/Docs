@@ -67,5 +67,5 @@ Het CSX-formaat (C# Script) volgt het eenvoudige, op tekst gebaseerde formaat. H
 CSX-bestanden kunnen worden bewerkt met elke teksteditor of geïntegreerde ontwikkelomgeving (IDE) die C#-syntaxisaccentuering ondersteunt. Zodra het CSX-bestand gereed is, kan het worden uitgevoerd met behulp van tools zoals .NET Interactive Notebooks, de .NET Core opdrachtregelinterface (CLI) of een IDE met ondersteuning voor C#-scripts.
 
 ## Referenties
-* [C# programmeren met Visual Studio Code](https://code.visualstudio.com/docs/linguals/csharp)
+* [C# programmeren met Visual Studio Code](https://code.visualstudio.com/docs/languages/csharp)
 

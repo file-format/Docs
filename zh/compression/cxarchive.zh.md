@@ -117,5 +117,5 @@ CrossOver 是 CodeWeavers 开发的商业软件应用程序。它旨在允许 Ma
 **子类型：** 压缩文件
 
 ## 参考
-* [CrossOver（软件）](https://en.wikipedia.org/wiki/CrossOver_(软件))
+* [CrossOver（软件）](https://en.wikipedia.org/wiki/CrossOver_(software))
 

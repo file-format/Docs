@@ -110,5 +110,5 @@ end
 - `एप्लिकेशन/एक्स-रूबी`
 
 ## संदर्भ
-* [रूबी (प्रोग्रामिंग भाषा)](https://en.wikipedia.org/wiki/Ruby_(प्रोग्रामिंग_भाषा))
+* [रूबी (प्रोग्रामिंग भाषा)](https://en.wikipedia.org/wiki/Ruby_(programming_language))
 

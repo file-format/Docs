@@ -37,5 +37,5 @@ Hello World from Java to the console.
 
 ## Người giới thiệu ##
 
-* [Java (ngôn ngữ lập trình) - Wikipedia](https://en.wikipedia.org/wiki/Java_(programming_lingu))
+* [Java (ngôn ngữ lập trình) - Wikipedia](https://en.wikipedia.org/wiki/Java_(programming_language))
 

@@ -63,5 +63,5 @@ Trong ví dụ này, từ giai thừa nhận một đối số duy nhất n và 
 
 ## Người giới thiệu
 
-* [Ngôn ngữ lập trình Forth](https://en.wikipedia.org/wiki/Forth_(programming_lingu))
+* [Ngôn ngữ lập trình Forth](https://en.wikipedia.org/wiki/Forth_(programming_language))
 

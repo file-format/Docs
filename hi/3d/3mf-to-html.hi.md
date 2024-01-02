@@ -32,7 +32,7 @@
 
 अपनी 3MF फ़ाइलों को HTML में सफलतापूर्वक परिवर्तित करने के लिए इन चरणों का पालन करें।
 
-1. [Aspose.3D रूपांतरण ऐप](https://products.aspose.app/3d/conversion/3MF-to-html) पर जाएं
+1. [Aspose.3D रूपांतरण ऐप](https://products.aspose.app/3d/conversion/3mf-to-html) पर जाएं
 1. अपनी 3MF फ़ाइल ब्राउज़र पर अपलोड करें
 1. आउटपुट फ़ाइल स्वरूप के रूप में HTML का चयन करें
 1. कन्वर्ट बटन दबाएँ

@@ -27,7 +27,7 @@ Soubor PZZ generovaný Poserem je komprimovaný formát souboru, který má malo
 
 ## Jak otevřít soubor PZZ?
 
-Soubory PZZ můžete otevřít pomocí [Bondware Poser] (https://www.posersoftware.com/).
+Soubory PZZ můžete otevřít pomocí [Bondware Poser](https://www.posersoftware.com/).
 
 ## Reference
 

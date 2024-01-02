@@ -91,5 +91,5 @@ Zde jsou další typy souborů, které používají příponu souboru **.chr**.
 - [CHR - Klub literatury Doki Doki! Soubor postavy](/cs/hra/chr-doki/)
 
 ## Reference
-- [Postava (počítačování)](https://en.wikipedia.org/wiki/Character_(počítačování))
+- [Postava (počítačování)](https://en.wikipedia.org/wiki/Character_(computing))
 

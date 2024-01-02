@@ -197,5 +197,5 @@ Spacecraft "Voyager 1"
 - [CFG - ไฟล์การกำหนดค่าโมเดล Cal3D](/th/misc/cfg-cal3d/)
 
 ## อ้างอิง
-* [เซเลสเทีย](https://en.wikipedia.org/wiki/เซเลสเทีย)
+* [เซเลสเทีย](https://en.wikipedia.org/wiki/Celestia)
 

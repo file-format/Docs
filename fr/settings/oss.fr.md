@@ -59,5 +59,5 @@ Pour créer un dossier de recherche dans l'application Outlook, vous pouvez suiv
 Une fois que vous avez créé le dossier de recherche, Outlook affichera automatiquement les éléments correspondant aux critères de recherche dans le dossier. Vous pouvez également personnaliser l'affichage du dossier de recherche, ajouter ou supprimer des colonnes et trier les éléments en fonction de différents critères. Cela vous permet de trouver rapidement les éléments qui vous intéressent le plus sans avoir à les rechercher manuellement.
 
 ## Les références
-* [Utilisez les dossiers de recherche pour rechercher des messages ou d'autres éléments Outlook](https://support.microsoft.com/en-us/office/use-search-folders-to-find-messages-or-other-outlook-items- c1807038-01e4-475e-8869-0ccab0a56dc5)
+* [Utilisez les dossiers de recherche pour rechercher des messages ou d'autres éléments Outlook](https://support.microsoft.com/en-us/office/use-search-folders-to-find-messages-or-other-outlook-items-c1807038-01e4-475e-8869-0ccab0a56dc5)
 

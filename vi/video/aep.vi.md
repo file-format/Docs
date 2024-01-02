@@ -53,5 +53,5 @@ Các tệp AEP có thể được chuyển đổi sang các định dạng tệp
 
 ## Người giới thiệu
 
-- [Các loại dự án After Effects](https://helpx.adobe.com/after-effect/USE/projects.html)
+- [Các loại dự án After Effects](https://helpx.adobe.com/after-effects/using/projects.html)
 

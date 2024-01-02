@@ -43,5 +43,5 @@ Fișierele OPDOWNLOAD seamănă mult cu fișierele .CRDOWNLOAD utilizate de Goog
 Un fișier OPDOWNLOAD este de obicei un fișier de descărcare incomplet creat de browserul web Opera. Când descărcați un fișier în Opera, acesta creează un fișier OPDOWNLOAD și, odată ce descărcarea este finalizată, redenumește fișierul în formatul original. Prin urmare, nu este posibil să convertiți un fișier OPDOWNLOAD în MP4 sau ZIP, deoarece nu este un format de fișier valid. Trebuie să așteptați până când descărcarea este completă și fișierul este redenumit în formatul original înainte de a-l putea converti în MP4 sau ZIP. Dacă nu puteți finaliza descărcarea sau dacă fișierul este corupt, poate fi necesar să reporniți descărcarea sau să încercați să descărcați fișierul dintr-o altă sursă.
 
 ## Referințe
-* [Opera (browser web)](https://en.wikipedia.org/wiki/Opera_(browser_web))
+* [Opera (browser web)](https://en.wikipedia.org/wiki/Opera_(web_browser))
 

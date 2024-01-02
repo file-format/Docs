@@ -89,5 +89,5 @@ Aspose.Words for Python via .NET 是一个软件包，旨在读取和操作各�
 
 1. [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/)
 1. 安装 - [Aspose.Words for Python via .NET](https://releases.aspose.com/words/python/)
-1. 使用 Python via .NET 将 DOCX 转换为 MHTML - [Python via .NET 中的 DOCX 到 MHTML 转换指南](https://docs.aspose.com/words/python-net/convert-a-document-to-html -mhtml-或-epub/)
+1. 使用 Python via .NET 将 DOCX 转换为 MHTML - [Python via .NET 中的 DOCX 到 MHTML 转换指南](https://docs.aspose.com/words/python-net/convert-a-document-to-html-mhtml-or-epub/)
 

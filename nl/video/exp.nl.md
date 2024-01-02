@@ -55,7 +55,7 @@ De DX4100 DVR en de bijbehorende software zijn ontworpen om naadloos samen te we
 EXP is een eigen bestandsformaat afkomstig van bewakingscamera's. Vanwege het gepatenteerde karakter zijn er geen toepassingen beschikbaar die specifiek zijn ontworpen voor het converteren van EXP-bestanden. De aanbevolen aanpak is om de ingebouwde speler van het bewakingscamerasysteem te gebruiken om EXP-bestanden af te spelen. Het is belangrijk op te merken dat het EXP-bestandsformaat geen compatibele codecs, spelers of converters bevat. Daarom is het noodzakelijk om te vertrouwen op de speciale speler die door het beveiligingscamerasysteem wordt geleverd om deze bestanden te openen en te bekijken.
 
 ## Referenties
-* [Hoe u geëxporteerde video (.exp) kunt bekijken met de DX Series Export Viewer.](https://support.pelco.com/s/article/How-to-review-exported-video-exp-using-the- DX-Series-Export-Viewer-1538586687024?taal=en_US)
+* [Hoe u geëxporteerde video (.exp) kunt bekijken met de DX Series Export Viewer.](https://support.pelco.com/s/article/How-to-review-exported-video-exp-using-the-DX-Series-Export-Viewer-1538586687024?language=en_US)
 
 
 

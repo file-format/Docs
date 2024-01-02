@@ -37,5 +37,5 @@ Hello World from Java to the console.
 
 ## 참고자료 ##
 
-* [Java(프로그래밍 언어) - Wikipedia](https://en.wikipedia.org/wiki/Java_(programming_언어))
+* [Java(프로그래밍 언어) - Wikipedia](https://en.wikipedia.org/wiki/Java_(programming_language))
 

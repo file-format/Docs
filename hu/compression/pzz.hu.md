@@ -27,7 +27,7 @@ A Poser által generált PZZ fájl egy tömörített fájlformátum, amely kicsi
 
 ## PZZ fájl - Mivel nyitható meg egy PZZ fájl?
 
-A PZZ-fájlokat megnyithatja a [Bondware Poser] segítségével (https://www.posersoftware.com/).
+A PZZ-fájlokat megnyithatja a [Bondware Poser](https://www.posersoftware.com/) segítségével.
 
 ## Hivatkozások
 

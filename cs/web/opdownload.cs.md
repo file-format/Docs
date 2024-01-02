@@ -43,5 +43,5 @@ Soubory OPDOWNLOAD jsou velmi podobné souborům .CRDOWNLOAD používaným prohl
 Soubor OPDOWNLOAD je obvykle neúplný soubor ke stažení vytvořený webovým prohlížečem Opera. Když stáhnete soubor v Opeře, vytvoří soubor OPDOWNLOAD a jakmile je stahování dokončeno, přejmenuje soubor na původní formát. Proto není možné převést soubor OPDOWNLOAD na MP4 nebo ZIP, protože to není platný formát souboru. Než budete moci převést na MP4 nebo ZIP, musíte počkat, až bude stahování dokončeno a soubor bude přejmenován do původního formátu. Pokud se vám nedaří dokončit stahování nebo je soubor poškozen, možná budete muset restartovat stahování nebo zkusit stáhnout soubor z jiného zdroje.
 
 ## Reference
-* [Opera (webový prohlížeč)](https://en.wikipedia.org/wiki/Opera_(webový_prohlížeč))
+* [Opera (webový prohlížeč)](https://en.wikipedia.org/wiki/Opera_(web_browser))
 

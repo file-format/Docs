@@ -34,7 +34,7 @@ Ha költségmentes megoldást keres a 3DS fájlok OBJ formátumba konvertálás�
 
 Íme a lépések, amelyeket követnie kell a 3DS-fájlok OBJ-vé konvertálásához.
 
-1. Nyissa meg az [Aspose.3D konverziós alkalmazást](https://products.aspose.app/3d/conversion/3DS-to-obj)
+1. Nyissa meg az [Aspose.3D konverziós alkalmazást](https://products.aspose.app/3d/conversion/3ds-to-obj)
 1. Töltse fel 3DS fájlját a böngészőbe
 1. Válassza ki az OBJ-t kimeneti fájlformátumként
 1. Nyomja meg a Konvertálás gombot

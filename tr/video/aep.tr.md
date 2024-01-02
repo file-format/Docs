@@ -53,5 +53,5 @@ AEP dosyaları aşağıdakiler gibi diğer popüler dosya formatlarına dönüş
 
 ## Referanslar
 
-- [After Effects Proje Türleri](https://helpx.adobe.com/after-fects/using/projects.html)
+- [After Effects Proje Türleri](https://helpx.adobe.com/after-effects/using/projects.html)
 

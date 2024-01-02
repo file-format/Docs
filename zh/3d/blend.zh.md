@@ -54,5 +54,5 @@ Blender 提供了多个用于管理和保存混合文件的选项。用户可以
 您可以通过启动 Blender,然后单击"文件"菜单并从下拉菜单中选择"打开"来打开 BLEND 文件。或者,您可以简单地将混合文件拖放到 Blender 软件中,它将打开混合文件。
 
 ## 参考
-* [Blender（软件）](https://en.wikipedia.org/wiki/Blender_(软件))
+* [Blender（软件）](https://en.wikipedia.org/wiki/Blender_(software))
 

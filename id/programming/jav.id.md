@@ -37,5 +37,5 @@ Hello World from Java to the console.
 
 ## Referensi ##
 
-* [Java (bahasa pemrograman) - Wikipedia](https://en.wikipedia.org/wiki/Java_(bahasa_pemrograman))
+* [Java (bahasa pemrograman) - Wikipedia](https://en.wikipedia.org/wiki/Java_(programming_language))
 

@@ -63,5 +63,5 @@ Ciò comporterebbe l'output 3628800, che è il fattoriale di 10.
 
 ## Riferimenti
 
-* [Linguaggio di programmazione Forth](https://en.wikipedia.org/wiki/Forth_(programming_lingual))
+* [Linguaggio di programmazione Forth](https://en.wikipedia.org/wiki/Forth_(programming_language))
 

@@ -91,5 +91,5 @@ Di seguito sono riportati altri tipi di file che utilizzano l'estensione file **
 - [CHR - Club di letteratura Doki Doki! File personaggio](/it/game/chr-doki/)
 
 ## Riferimenti
-- [Carattere (informatica)](https://en.wikipedia.org/wiki/Carattere_(informatica))
+- [Carattere (informatica)](https://en.wikipedia.org/wiki/Character_(computing))
 

@@ -86,5 +86,5 @@ Aspose.Words за Python чрез .NET е софтуерен пакет, пре�
 
 1. [Aspose.Words за Python чрез .NET](https://products.aspose.com/words/python-net/)
 1. Инсталирайте - [Aspose.Words за Python чрез .NET](https://releases.aspose.com/words/python/)
-1. Конвертирайте DOCX в ODT с помощта на Python чрез .NET - [Ръководство за конвертиране на DOCX в ODT в Python чрез .NET](https://docs.aspose.com/words/python-net/convert-a-document-to-html -mhtml-или-epub/)
+1. Конвертирайте DOCX в ODT с помощта на Python чрез .NET - [Ръководство за конвертиране на DOCX в ODT в Python чрез .NET](https://docs.aspose.com/words/python-net/convert-a-document-to-html-mhtml-or-epub/)
 

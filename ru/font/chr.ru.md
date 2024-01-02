@@ -91,5 +91,5 @@
 - [CHR - Литературный клуб Доки Доки! Файл персонажа](/ru/game/chr-doki/)
 
 ## Рекомендации
-- [Персонаж (вычисление)](https://en.wikipedia.org/wiki/Character_(вычисление))
+- [Персонаж (вычисление)](https://en.wikipedia.org/wiki/Character_(computing))
 

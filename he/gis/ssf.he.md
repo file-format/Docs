@@ -18,7 +18,7 @@
 
 ## מהו קובץ SSF?
 
-קובץ עם קובץ ssf הוא פורמט קובץ אחסון נתונים Geospatial המשמש את יישומי תוכנת ה-GIS Navigation [Trimble](https://www.trimble.com). הוא מאחסן נתוני GPS שנרשמו מהשדה באמצעות התקני Trimble. יומן ה-GPS מיובא לאחר מכן באחד מהיישומים של חבילת היישומים של Trimble. יומן ה-GPS הכלול ב-SSF משמש ליצירת מערכות קואורדינטות מותאמות אישית. ניתן לפתוח קובצי SSF עם [Trimble Navigation GPS Pathfinder Office](https://geospatial.trimble.com/products-and-solutions/ssf-and-ddf-data-format-extensions-fme), Trimble Navigation GPS Pathfinder Tools SDK ו-ESRI ArcGIS למחשב שולחני עם תוסף Trimble GPS Analyst.
+קובץ עם קובץ ssf הוא פורמט קובץ אחסון נתונים Geospatial המשמש את יישומי תוכנת ה-GIS Navigation [Trimble](https://www.trimble.com). הוא מאחסן נתוני GPS שנרשמו מהשדה באמצעות התקני Trimble. יומן ה-GPS מיובא לאחר מכן באחד מהיישומים של חבילת היישומים של Trimble. יומן ה-GPS הכלול ב-SSF משמש ליצירת מערכות קואורדינטות מותאמות אישית. ניתן לפתוח קובצי SSF עם [Trimble Navigation GPS Pathfinder Office](https://geospatial.trimble.com/en/products/software/office-software), Trimble Navigation GPS Pathfinder Tools SDK ו-ESRI ArcGIS למחשב שולחני עם תוסף Trimble GPS Analyst.
 
 ## פורמט קובץ SSF - מידע נוסף
 

@@ -117,5 +117,5 @@ Program yang membuka file CXARCHIVE termasuk
 **SubJenis:** File Terkompresi
 
 ## Referensi
-* [CrossOver (perangkat lunak)](https://en.wikipedia.org/wiki/CrossOver_(perangkat lunak))
+* [CrossOver (perangkat lunak)](https://en.wikipedia.org/wiki/CrossOver_(software))
 

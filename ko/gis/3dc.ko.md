@@ -19,7 +19,7 @@
 
 ## .3DC 파일이란?
 
-3DC 파일은 GPS 내비게이션 소프트웨어 애플리케이션인 [iGO](https://en.wikipedia.org/wiki/IGO_(소프트웨어))에서 사용하는 GPS 데이터 파일입니다. 여기에는 애플리케이션 표시를 위한 메타데이터와 함께 3D 건물 데이터 정보가 포함되어 있습니다. 3DC 파일은 내비게이션 장치의 메모리 카드에 저장되며 대부분 \​iGO\​content\​building\​ 디렉터리에 저장됩니다.
+3DC 파일은 GPS 내비게이션 소프트웨어 애플리케이션인 [iGO](https://en.wikipedia.org/wiki/IGO_(software))에서 사용하는 GPS 데이터 파일입니다. 여기에는 애플리케이션 표시를 위한 메타데이터와 함께 3D 건물 데이터 정보가 포함되어 있습니다. 3DC 파일은 내비게이션 장치의 메모리 카드에 저장되며 대부분 \​iGO\​content\​building\​ 디렉터리에 저장됩니다.
 
 ## iGO 내비게이션 소개
 
@@ -27,5 +27,5 @@ iGO 소프트웨어는 탐색 목적으로 사용됩니다. GPS 장치를 이용
 
 ## 참고자료
 
-* [iGO 내비게이션 소프트웨어](https://en.wikipedia.org/wiki/IGO_(소프트웨어))
+* [iGO 내비게이션 소프트웨어](https://en.wikipedia.org/wiki/IGO_(software))
 

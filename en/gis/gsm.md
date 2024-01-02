@@ -29,8 +29,3 @@ GSM files are saved in binary file format and its internal file structure detail
 
 MapViewer lets you work with map files by overlaying your data on geographic areas. This helps in visualizing spatial data such as population density maps, climate maps, and several other types of data.
 
-## References ##
-
-* [Where to download boundary files for use in MapViewer](https://support.goldensoftware.com/hc/en-us/articles/226664588-Where-to-download-boundary-files-for-use-in-MapViewer)
-* [MapViewer Help](https://mapviewerhelp.goldensoftware.com/)
-* [MapViewer Knowledge Base](https://support.goldensoftware.com/hc/en-us/categories/115000653887-MapViewer)

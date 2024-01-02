@@ -18,7 +18,7 @@
 
 ## Mi az SSF fájl?
 
-Az .ssf fájl egy térinformatikai adattároló fájlformátum, amelyet a [Trimble](https://www.trimble.com) Navigation GIS szoftveralkalmazások használnak. A Trimble eszközökkel a szántóföldről rögzített GPS-adatokat tárolja. A GPS-napló ezután importálva lesz a Trimble Application Suite valamelyik alkalmazásába. Az SSF-ben található GPS-napló egyéni koordinátarendszerek létrehozására szolgál. Az SSF-fájlok a [Trimble Navigation GPS Pathfinder Office](https://geospatial.trimble.com/products-and-solutions/ssf-and-ddf-data-format-extensions-fme), a Trimble Navigation GPS Pathfinder Tools SDK és az ESRI ArcGIS for Desktop szoftverrel nyithatók meg. Trimble GPS Analyst beépülő modul.
+Az .ssf fájl egy térinformatikai adattároló fájlformátum, amelyet a [Trimble](https://www.trimble.com) Navigation GIS szoftveralkalmazások használnak. A Trimble eszközökkel a szántóföldről rögzített GPS-adatokat tárolja. A GPS-napló ezután importálva lesz a Trimble Application Suite valamelyik alkalmazásába. Az SSF-ben található GPS-napló egyéni koordinátarendszerek létrehozására szolgál. Az SSF-fájlok a [Trimble Navigation GPS Pathfinder Office](https://geospatial.trimble.com/en/products/software/office-software), a Trimble Navigation GPS Pathfinder Tools SDK és az ESRI ArcGIS for Desktop szoftverrel nyithatók meg. Trimble GPS Analyst beépülő modul.
 
 ## SSF fájlformátum – További információ
 

@@ -63,5 +63,5 @@ Isso resultaria na saída 3628800, que é o fatorial de 10.
 
 ## Referências
 
-* [Quarta Linguagem de Programação](https://en.wikipedia.org/wiki/Forth_(linguagem_de_programação))
+* [Quarta Linguagem de Programação](https://en.wikipedia.org/wiki/Forth_(programming_language))
 

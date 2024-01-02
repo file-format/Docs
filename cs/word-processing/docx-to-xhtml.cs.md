@@ -93,5 +93,5 @@ Aspose.Words for Python via .NET je softwarový balík určený pro čtení a ma
 
 1. [Aspose.Words pro Python přes .NET](https://products.aspose.com/words/python-net/)
 1. Instalace – [Aspose.Words pro Python přes .NET](https://releases.aspose.com/words/python/)
-1. Převeďte DOCX do XHTML pomocí Pythonu přes .NET – [Průvodce převodem DOCX na XHTML v Pythonu přes .NET](https://docs.aspose.com/words/python-net/convert-a-document-to-html -mhtml-or-epub/)
+1. Převeďte DOCX do XHTML pomocí Pythonu přes .NET – [Průvodce převodem DOCX na XHTML v Pythonu přes .NET](https://docs.aspose.com/words/python-net/convert-a-document-to-html-mhtml-or-epub/)
 

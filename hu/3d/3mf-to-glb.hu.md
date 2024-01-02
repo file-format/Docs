@@ -26,13 +26,13 @@ Sok embernek gyakran szüksége van [3MF-fájlok](/hu/3d/3mf/) GLB formátumba k
 
 Ha ingyenes online megoldást keres a 3MF fájlok GLB formátumba konvertálására, akkor használja az Aspose.3D konvertáló alkalmazást. Csak kattintson az alábbi gombra a folyamat elindításához.
 
-[![3MF–GLB](../3mf-to-glb.png)](https://products.aspose.app/3d/conversion/3mf-to-glb)
+[![3MF–GLB](../3mf-to-glb.png)](https://products.aspose.app/3d/conversion/3mf-to-glb/)
 
 ### A 3MF glb-vé konvertálásának lépései
 
 Íme a lépések, amelyeket követnie kell a 3MF-fájlok GLB-re konvertálásához.
 
-1. Nyissa meg az [Aspose.3D konverziós alkalmazást](https://products.aspose.app/3d/conversion/3MF-to-glb)
+1. Nyissa meg az [Aspose.3D konverziós alkalmazást](https://products.aspose.app/3d/conversion/3mf-to-glb/)
 1. Töltse fel a 3MF fájlt a böngészőbe
 1. Válassza ki a GLB-t kimeneti fájlformátumként
 1. Nyomja meg a Konvertálás gombot

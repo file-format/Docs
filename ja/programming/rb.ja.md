@@ -110,5 +110,5 @@ end
 - `application/x-ruby`
 
 ## 参考文献
-* [Ruby (プログラミング言語)](https://en.wikipedia.org/wiki/Ruby_(プログラミング言語))
+* [Ruby (プログラミング言語)](https://en.wikipedia.org/wiki/Ruby_(programming_language))
 

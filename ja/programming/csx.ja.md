@@ -67,5 +67,5 @@ CSX (C# スクリプト) 形式は、単純なテキストベースの形式に�
 CSX ファイルは、C# 構文の強調表示をサポートするテキスト エディターまたは統合開発環境 (IDE) を使用して編集できます。 CSX ファイルの準備ができたら、.NET Interactive Notebooks、.NET Core コマンド ライン インターフェイス (CLI)、または C# スクリプト サポートを備えた IDE などのツールを使用して実行できます。
 
 ## 参考文献
-* [Visual Studio Code を使用した C# プログラミング](https://code.visualstudio.com/docs/langages/csharp)
+* [Visual Studio Code を使用した C# プログラミング](https://code.visualstudio.com/docs/languages/csharp)
 

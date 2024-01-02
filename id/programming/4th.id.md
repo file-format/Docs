@@ -63,5 +63,5 @@ Ini akan menghasilkan keluaran 3628800, yang merupakan faktorial dari 10.
 
 ## Referensi
 
-* [Bahasa Pemrograman Keempat](https://en.wikipedia.org/wiki/Forth_(bahasa_pemrograman))
+* [Bahasa Pemrograman Keempat](https://en.wikipedia.org/wiki/Forth_(programming_language))
 

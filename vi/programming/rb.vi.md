@@ -110,5 +110,5 @@ end
 - `ứng dụng/x-Ruby`
 
 ## Người giới thiệu
-* [Ruby (ngôn ngữ lập trình)](https://en.wikipedia.org/wiki/Ruby_(programming_lingu))
+* [Ruby (ngôn ngữ lập trình)](https://en.wikipedia.org/wiki/Ruby_(programming_language))
 

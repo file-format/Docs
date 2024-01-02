@@ -34,7 +34,7 @@ Dacă sunteți în căutarea unei soluții fără costuri pentru conversia fiși
 
 Iată pașii pe care trebuie să îi urmați pentru a vă converti fișierele 3DS în OBJ.
 
-1. Accesați [Aplicația de conversie Aspose.3D](https://products.aspose.app/3d/conversion/3DS-to-obj)
+1. Accesați [Aplicația de conversie Aspose.3D](https://products.aspose.app/3d/conversion/3ds-to-obj)
 1. Încărcați fișierul 3DS în browser
 1. Selectați OBJ ca format de fișier de ieșire
 1. Apăsați butonul Convert

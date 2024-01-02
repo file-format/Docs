@@ -91,5 +91,5 @@ Berikut jenis file lain yang menggunakan ekstensi file **.chr**.
 - [CHR - Klub Sastra Doki Doki! File Karakter](/id/game/chr-doki/)
 
 ## Referensi
-- [Karakter (komputasi)](https://en.wikipedia.org/wiki/Character_(komputasi))
+- [Karakter (komputasi)](https://en.wikipedia.org/wiki/Character_(computing))
 

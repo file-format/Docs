@@ -32,7 +32,7 @@
 
 3MF dosyalarınızı başarıyla HTML'ye dönüştürmek için bu adımları izleyin.
 
-1. [Aspose.3D dönüştürme uygulamasına](https://products.aspose.app/3d/conversion/3MF-to-html) gidin
+1. [Aspose.3D dönüştürme uygulamasına](https://products.aspose.app/3d/conversion/3mf-to-html) gidin
 1. 3MF dosyanızı tarayıcıya yükleyin
 1. Çıktı dosyası formatı olarak HTML'yi seçin
 1. Dönüştür düğmesine basın

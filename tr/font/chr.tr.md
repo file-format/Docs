@@ -91,5 +91,5 @@ CHR dosyalarının kullanıcılar tarafından manuel olarak açılması veya dü
 - [CHR - Doki Doki Edebiyat Kulübü! Karakter Dosyası](/tr/game/chr-doki/)
 
 ## Referanslar
-- [Karakter (bilgi işlem)](https://en.wikipedia.org/wiki/Character_(bilgi işlem))
+- [Karakter (bilgi işlem)](https://en.wikipedia.org/wiki/Character_(computing))
 

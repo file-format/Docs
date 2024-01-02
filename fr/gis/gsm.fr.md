@@ -29,9 +29,4 @@ Les fichiers GSM sont enregistrés au format de fichier binaire et les détails 
 
 MapViewer vous permet de travailler avec des fichiers cartographiques en superposant vos données sur des zones géographiques. Cela aide à visualiser les données spatiales telles que les cartes de densité de population, les cartes climatiques et plusieurs autres types de données.
 
-## Références ##
-
-* [Où télécharger les fichiers de limites à utiliser dans MapViewer](https://support.goldensoftware.com/hc/en-us/articles/226664588-Where-to-download-boundary-files-for-use-in-MapViewer )
-* [Aide MapViewer](https://mapviewerhelp.goldensoftware.com/)
-* [Base de connaissances MapViewer](https://support.goldensoftware.com/hc/en-us/categories/115000653887-MapViewer)
 

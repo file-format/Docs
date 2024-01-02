@@ -44,5 +44,5 @@ För att öppna en .xap-fil måste du använda en webbläsare med Silverlight-st
 Alternativt kan du extrahera innehållet i .xap-filen genom att döpa om den till .zip och dekomprimera den med ett filkomprimeringsverktyg som WinZip eller 7-Zip. Detta ger dig tillgång till de enskilda filerna som finns i .xap-arkivet.
 
 ## Referenser
-* [XAP - filformat](https://en.wikipedia.org/wiki/XAP_(filformat))
+* [XAP - filformat](https://en.wikipedia.org/wiki/XAP_(file_format))
 

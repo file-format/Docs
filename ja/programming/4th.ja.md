@@ -63,5 +63,5 @@
 
 ## 参考文献
 
-* [Forth プログラミング言語](https://en.wikipedia.org/wiki/Forth_(プログラミング_言語))
+* [Forth プログラミング言語](https://en.wikipedia.org/wiki/Forth_(programming_language))
 

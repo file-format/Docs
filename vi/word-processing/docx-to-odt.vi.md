@@ -86,5 +86,5 @@ Aspose.Words for Python via .NET là gói phần mềm dành cho việc đọc v
 
 1. [Aspose.Words cho Python qua .NET](https://products.aspose.com/words/python-net/)
 1. Cài đặt - [Aspose.Words cho Python qua .NET](https://releases.aspose.com/words/python/)
-1. Chuyển đổi DOCX sang ODT bằng Python qua .NET - [Hướng dẫn chuyển đổi DOCX sang ODT bằng Python qua .NET](https://docs.aspose.com/words/python-net/convert-a-document-to-html -mhtml-hoặc-epub/)
+1. Chuyển đổi DOCX sang ODT bằng Python qua .NET - [Hướng dẫn chuyển đổi DOCX sang ODT bằng Python qua .NET](https://docs.aspose.com/words/python-net/convert-a-document-to-html-mhtml-or-epub/)
 

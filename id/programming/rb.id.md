@@ -110,5 +110,5 @@ Format file ".rb" adalah teks biasa, biasanya dikodekan menggunakan pengkodean U
 - `aplikasi/x-ruby`
 
 ## Referensi
-* [Ruby (bahasa pemrograman)](https://en.wikipedia.org/wiki/Ruby_(bahasa_pemrograman))
+* [Ruby (bahasa pemrograman)](https://en.wikipedia.org/wiki/Ruby_(programming_language))
 

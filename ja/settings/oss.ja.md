@@ -59,5 +59,5 @@ Outlook アプリケーションで検索フォルダーを作成するには、
 検索フォルダーを作成すると、Outlook はフォルダー内の検索条件に一致するアイテムを自動的に表示します。検索フォルダーのビューをカスタマイズしたり、列を追加または削除したり、さまざまな基準に基づいてアイテムを並べ替えたりすることもできます。これにより、手動で検索しなくても、最も関連性の高いアイテムをすばやく見つけることができます。
 
 ## 参考文献
-* [検索フォルダーを使用してメッセージやその他の Outlook アイテムを検索する](https://support.microsoft.com/en-us/office/use-search-folders-to-find-messages-or-other-outlook-items- c1807038-01e4-475e-8869-0ccab0a56dc5)
+* [検索フォルダーを使用してメッセージやその他の Outlook アイテムを検索する](https://support.microsoft.com/en-us/office/use-search-folders-to-find-messages-or-other-outlook-items-c1807038-01e4-475e-8869-0ccab0a56dc5)
 

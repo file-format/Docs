@@ -34,7 +34,7 @@ FilmBox, הידוע לעתים קרובות כ-[FBX](/he/3d/fbx/), הוא פור
 
 להלן השלבים שעליך לבצע כדי להמיר את קבצי ה-3DS שלך ל-FBX.
 
-1. עבור אל [אפליקציית המרה של Aspose.3D](https://products.aspose.app/3d/conversion/3DS-to-fbx)
+1. עבור אל [אפליקציית המרה של Aspose.3D](https://products.aspose.app/3d/conversion/3ds-to-fbx)
 1. העלה את קובץ ה-3DS שלך לדפדפן
 1. בחר FBX כפורמט קובץ פלט
 1. לחץ על כפתור המר

@@ -55,7 +55,7 @@ DVR DX4100 dan perangkat lunak terkait dirancang untuk bekerja sama secara lanca
 EXP adalah format file berpemilik yang berasal dari kamera pengintai. Karena sifat kepemilikannya, tidak ada aplikasi yang dirancang khusus untuk mengonversi file EXP. Pendekatan yang disarankan adalah dengan memanfaatkan pemutar internal yang disediakan oleh sistem kamera pengintai untuk memutar file EXP. Penting untuk dicatat bahwa format file EXP tidak memiliki codec, pemutar, atau konverter yang kompatibel. Oleh karena itu, pemutar khusus yang disediakan oleh sistem kamera keamanan perlu diandalkan untuk mengakses dan melihat file-file ini.
 
 ## Referensi
-* [Cara meninjau video yang diekspor (.exp) menggunakan DX Series Ekspor Viewer.](https://support.pelco.com/s/article/How-to-review-exported-video-exp-using-the- DX-Series-Export-Viewer-1538586687024?bahasa=en_US)
+* [Cara meninjau video yang diekspor (.exp) menggunakan DX Series Ekspor Viewer.](https://support.pelco.com/s/article/How-to-review-exported-video-exp-using-the-DX-Series-Export-Viewer-1538586687024?language=en_US)
 
 
 

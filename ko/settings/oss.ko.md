@@ -59,5 +59,5 @@ Outlook 응용 프로그램에서 검색 폴더를 만들려면 다음 단계를
 검색 폴더를 만들고 나면 Outlook에서는 폴더의 검색 기준과 일치하는 항목을 자동으로 표시합니다. 검색 폴더 보기를 사용자 정의하고, 열을 추가 또는 제거하고, 다양한 기준에 따라 항목을 정렬할 수도 있습니다. 이를 통해 수동으로 검색할 필요 없이 가장 관련성이 높은 항목을 빠르게 찾을 수 있습니다.
 
 ## 참고자료
-* [검색 폴더를 사용하여 메시지 또는 기타 Outlook 항목 찾기](https://support.microsoft.com/en-us/office/use-search-folders-to-find-messages-or-other-outlook-items- c1807038-01e4-475e-8869-0ccab0a56dc5)
+* [검색 폴더를 사용하여 메시지 또는 기타 Outlook 항목 찾기](https://support.microsoft.com/en-us/office/use-search-folders-to-find-messages-or-other-outlook-items-c1807038-01e4-475e-8869-0ccab0a56dc5)
 

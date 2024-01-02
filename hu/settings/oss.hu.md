@@ -59,5 +59,5 @@ Ha keresési mappát szeretne létrehozni az Outlook alkalmazásban, kövesse az
 Miután létrehozta a keresési mappát, az Outlook automatikusan megjeleníti a keresési feltételeknek megfelelő elemeket a mappában. Ezenkívül személyre szabhatja a keresési mappa nézetét, hozzáadhat vagy eltávolíthat oszlopokat, és különböző kritériumok alapján rendezheti az elemeket. Ez lehetővé teszi, hogy gyorsan megtalálja az Ön számára legrelevánsabb elemeket anélkül, hogy manuálisan kellene keresnie őket.
 
 ## Hivatkozások
-* [Használja a Keresési mappákat üzenetek vagy egyéb Outlook-elemek kereséséhez](https://support.microsoft.com/en-us/office/use-search-folders-to-find-messages-or-other-outlook-items- c1807038-01e4-475e-8869-0ccab0a56dc5)
+* [Használja a Keresési mappákat üzenetek vagy egyéb Outlook-elemek kereséséhez](https://support.microsoft.com/en-us/office/use-search-folders-to-find-messages-or-other-outlook-items-c1807038-01e4-475e-8869-0ccab0a56dc5)
 

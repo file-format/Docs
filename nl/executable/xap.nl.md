@@ -44,5 +44,5 @@ Om een .xap-bestand te openen, moet u een webbrowser gebruiken met Silverlight-o
 Als alternatief kunt u de inhoud van het .xap-bestand extraheren door het te hernoemen naar .zip en het te decomprimeren met behulp van een bestandscompressietool zoals WinZip of 7-Zip. Hierdoor krijgt u toegang tot de afzonderlijke bestanden in het .xap-archief.
 
 ## Referenties
-* [XAP - bestandsformaat](https://en.wikipedia.org/wiki/XAP_(bestandsformaat))
+* [XAP - bestandsformaat](https://en.wikipedia.org/wiki/XAP_(file_format))
 

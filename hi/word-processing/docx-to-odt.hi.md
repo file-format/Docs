@@ -86,5 +86,5 @@ Aspose.Words for Python via .NET एक सॉफ्टवेयर पैके
 
 1. [.NET के माध्यम से पायथन के लिए Aspose.Words](https://products.aspose.com/words/python-net/)
 1. इंस्टॉल करें - [.NET के माध्यम से पायथन के लिए Aspose.Words](https://releases.aspose.com/words/python/)
-1. .NET के माध्यम से Python का उपयोग करके DOCX को ODT में कनवर्ट करें - [.NET के माध्यम से Python में DOCX से ODT रूपांतरण गाइड](https://docs.aspose.com/words/python-net/convert-a-document-to-html -mhtml-या-epub/)
+1. .NET के माध्यम से Python का उपयोग करके DOCX को ODT में कनवर्ट करें - [.NET के माध्यम से Python में DOCX से ODT रूपांतरण गाइड](https://docs.aspose.com/words/python-net/convert-a-document-to-html-mhtml-or-epub/)
 

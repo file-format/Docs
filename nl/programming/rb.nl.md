@@ -110,5 +110,5 @@ Het formaat van het ".rb"-bestand is platte tekst, meestal gecodeerd met UTF-8- 
 - `applicatie/x-ruby`
 
 ## Referenties
-* [Ruby (programmeertaal)](https://en.wikipedia.org/wiki/Ruby_(programmeertaal))
+* [Ruby (programmeertaal)](https://en.wikipedia.org/wiki/Ruby_(programming_language))
 

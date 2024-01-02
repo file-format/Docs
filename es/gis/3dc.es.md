@@ -19,7 +19,7 @@
 
 ## ¿Qué es un archivo 3DC?
 
-Un archivo 3DC es un archivo de datos GPS utilizado por la aplicación de software de navegación GPS, [iGO] (https://en.wikipedia.org/wiki/IGO_(software)). Contiene información de datos de construcción en 3D junto con metadatos para la visualización de aplicaciones. Los archivos 3DC se guardan en la tarjeta de memoria de la unidad de navegación y, en su mayoría, se almacenan en el directorio \​iGO\​content\​building\​.
+Un archivo 3DC es un archivo de datos GPS utilizado por la aplicación de software de navegación GPS, [iGO](https://en.wikipedia.org/wiki/IGO_(software)). Contiene información de datos de construcción en 3D junto con metadatos para la visualización de aplicaciones. Los archivos 3DC se guardan en la tarjeta de memoria de la unidad de navegación y, en su mayoría, se almacenan en el directorio \​iGO\​content\​building\​.
 
 ## Acerca de la navegación iGO
 

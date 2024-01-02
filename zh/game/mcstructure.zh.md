@@ -53,5 +53,5 @@ MCStructure Editor 是一个第三方工具,用于在 Minecraft 中创建和编�
 5. 文件加载后,选择"导入"将结构放入游戏世界中。
 
 ## 参考
-* [Mcstruct 文件](https://wiki.bedrock.dev/nbt/mcstruct.html)
+* [Mcstruct 文件](https://wiki.bedrock.dev/nbt/mcstructure.html)
 

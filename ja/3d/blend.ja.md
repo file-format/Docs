@@ -54,5 +54,5 @@ Blender で Blend ファイルを操作する場合、ユーザーはファイ�
 Blenderを起動し、「ファイル」メニューをクリックし、ドロップダウンメニューから「開く」を選択すると、BLENDファイルを開くことができます。あるいは、ブレンド ファイルを Blender ソフトウェアにドラッグ アンド ドロップするだけで、ブレンド ファイルが開きます。
 
 ## 参考文献
-* [Blender (ソフトウェア)](https://en.wikipedia.org/wiki/Blender_(ソフトウェア))
+* [Blender (ソフトウェア)](https://en.wikipedia.org/wiki/Blender_(software))
 

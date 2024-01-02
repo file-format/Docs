@@ -59,5 +59,5 @@ Pentru a crea un folder de căutare în aplicația Outlook, puteți urma acești
 Odată ce ați creat folderul de căutare, Outlook va afișa automat elementele care corespund criteriilor de căutare din folder. De asemenea, puteți personaliza vizualizarea dosarului de căutare, puteți adăuga sau elimina coloane și puteți sorta articolele în funcție de diferite criterii. Acest lucru vă permite să găsiți rapid elementele care sunt cele mai relevante pentru dvs. fără a fi nevoie să le căutați manual.
 
 ## Referințe
-* [Utilizați foldere de căutare pentru a găsi mesaje sau alte elemente Outlook](https://support.microsoft.com/en-us/office/use-search-folders-to-find-messages-or-other-outlook-items- c1807038-01e4-475e-8869-0ccab0a56dc5)
+* [Utilizați foldere de căutare pentru a găsi mesaje sau alte elemente Outlook](https://support.microsoft.com/en-us/office/use-search-folders-to-find-messages-or-other-outlook-items-c1807038-01e4-475e-8869-0ccab0a56dc5)
 

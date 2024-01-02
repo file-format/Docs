@@ -202,5 +202,5 @@ Iată și alte tipuri de fișiere care folosesc extensia de fișier **.shader**.
 - [SHADER - Unity Shader Asset](/ro/game/shader-unity/)
 
 ## Referințe
-* [Godot (motor de joc)](https://en.wikipedia.org/wiki/Godot_(motor_de_joc))
+* [Godot (motor de joc)](https://en.wikipedia.org/wiki/Godot_(game_engine))
 
