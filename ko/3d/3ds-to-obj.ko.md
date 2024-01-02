@@ -34,7 +34,7 @@
 
 3DS 파일을 OBJ로 변환하기 위해 따라야 할 단계는 다음과 같습니다.
 
-1. [Aspose.3D 변환 앱](https://products.aspose.app/3d/conversion/3DS-to-obj)으로 이동합니다.
+1. [Aspose.3D 변환 앱](https://products.aspose.app/3d/conversion/3ds-to-obj)으로 이동합니다.
 1. 3DS 파일을 브라우저에 업로드
 1. 출력 파일 형식으로 OBJ를 선택합니다.
 1. 변환 버튼을 누르세요

@@ -34,7 +34,7 @@ Jika Anda mencari solusi gratis untuk mengonversi file 3DS ke format OBJ secara 
 
 Berikut adalah langkah-langkah yang perlu Anda ikuti untuk mengonversi file 3DS Anda ke OBJ.
 
-1. Buka [aplikasi konversi Aspose.3D](https://products.aspose.app/3d/conversion/3DS-to-obj)
+1. Buka [aplikasi konversi Aspose.3D](https://products.aspose.app/3d/conversion/3ds-to-obj)
 1. Unggah file 3DS Anda ke browser
 1. Pilih OBJ sebagai format file keluaran
 1. Tekan tombol Konversi
