@@ -27,7 +27,7 @@ Plik PZZ wygenerowany przez Poser to skompresowany format pliku o niewielkich ro
 
 ## Jak otworzyć plik PZZ?
 
-Pliki PZZ można otwierać za pomocą [Bondware Poser] (https://www.posersoftware.com/).
+Pliki PZZ można otwierać za pomocą [Bondware Poser](https://www.posersoftware.com/).
 
 ## Bibliografia
 
