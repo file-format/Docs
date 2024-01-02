@@ -34,7 +34,7 @@ Genellikle [FBX](/tr/3d/fbx/) olarak bilinen FilmBox, MotionBuilder ile uyumlulu
 
 3DS dosyalarınızı FBX'e dönüştürmek için izlemeniz gereken adımlar şunlardır.
 
-1. [Aspose.3D dönüştürme uygulamasına](https://products.aspose.app/3d/conversion/3DS-to-fbx) gidin
+1. [Aspose.3D dönüştürme uygulamasına](https://products.aspose.app/3d/conversion/3ds-to-fbx) gidin
 1. 3DS dosyanızı tarayıcıya yükleyin
 1. Çıkış dosyası formatı olarak FBX'i seçin
 1. Dönüştür düğmesine basın

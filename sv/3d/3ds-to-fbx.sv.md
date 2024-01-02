@@ -34,7 +34,7 @@ Om du letar efter en kostnadsfri lösning för att konvertera 3DS-filer till FBX
 
 Här är stegen du behöver följa för att konvertera dina 3DS-filer till FBX.
 
-1. Gå till [Aspose.3D-konverteringsapp](https://products.aspose.app/3d/conversion/3DS-to-fbx)
+1. Gå till [Aspose.3D-konverteringsapp](https://products.aspose.app/3d/conversion/3ds-to-fbx)
 1. Ladda upp din 3DS-fil till webbläsaren
 1. Välj FBX som utdatafilformat
 1. Tryck på knappen Konvertera
