@@ -26,13 +26,13 @@
 
 Se stai cercando un metodo online gratuito per convertire file 3MF in formato HTML, l'applicazione di conversione Aspose.3D è al tuo servizio. Basta fare clic sul pulsante in basso per avviare il processo di conversione.
 
-[![Da 3MF a HTML](../3mf-to-html.png)](https://products.aspose.app/3d/conversion/)
+[![Da 3MF a HTML](../3mf-to-html.png)](https://products.aspose.app/3d/conversion/3mf-to-html)
 
 ### Passaggi per convertire 3MF in HTML
 
 Segui questi passaggi per convertire con successo i tuoi file 3MF in HTML.
 
-1. Vai a [App di conversione Aspose.3D](https://products.aspose.app/3d/conversion/)
+1. Vai a [App di conversione Aspose.3D](https://products.aspose.app/3d/conversion/3MF-to-html)
 1. Carica il tuo file 3MF nel browser
 1. Seleziona HTML come formato del file di output
 1. Premi il pulsante Converti
