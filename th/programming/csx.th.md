@@ -67,5 +67,5 @@ myObject.Greet("John");
 ไฟล์ CSX สามารถแก้ไขได้โดยใช้โปรแกรมแก้ไขข้อความหรือสภาพแวดล้อมการพัฒนาแบบรวม (IDE) ที่รองรับการเน้นไวยากรณ์ C# เมื่อไฟล์ CSX พร้อมแล้ว ก็สามารถดำเนินการโดยใช้เครื่องมือต่างๆ เช่น .NET Interactive Notebooks, อินเทอร์เฟซบรรทัดคำสั่ง .NET Core (CLI) หรือ IDE ที่รองรับการเขียนสคริปต์ C#
 
 ## อ้างอิง
-* [การเขียนโปรแกรม C# ด้วย Visual Studio Code](https://code.visualstudio.com/docs/ languages/csharp)
+* [การเขียนโปรแกรม C# ด้วย Visual Studio Code](https://code.visualstudio.com/docs/languages/csharp)
 

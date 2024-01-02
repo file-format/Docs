@@ -67,5 +67,5 @@ Format CSX (C# Script) mengikuti format berbasis teks sederhana. Biasanya memili
 File CSX dapat diedit menggunakan editor teks atau lingkungan pengembangan terintegrasi (IDE) apa pun yang mendukung penyorotan sintaksis C#. Setelah file CSX siap, file tersebut dapat dijalankan menggunakan alat seperti .NET Interactive Notebooks, antarmuka baris perintah (CLI) .NET Core, atau IDE dengan dukungan skrip C#.
 
 ## Referensi
-* [Pemrograman C# dengan Visual Studio Code](https://code.visualstudio.com/docs/linguals/csharp)
+* [Pemrograman C# dengan Visual Studio Code](https://code.visualstudio.com/docs/languages/csharp)
 

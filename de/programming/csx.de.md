@@ -67,5 +67,5 @@ Das CSX-Format (C#-Skript) folgt einem einfachen textbasierten Format. Normalerw
 CSX-Dateien können mit jedem Texteditor oder jeder integrierten Entwicklungsumgebung (IDE) bearbeitet werden, die C#-Syntaxhervorhebung unterstützt. Sobald die CSX-Datei fertig ist, kann sie mit Tools wie .NET Interactive Notebooks, der .NET Core-Befehlszeilenschnittstelle (CLI) oder einer IDE mit C#-Skriptunterstützung ausgeführt werden.
 
 ## Verweise
-* [C#-Programmierung mit Visual Studio Code](https://code.visualstudio.com/docs/linguals/csharp)
+* [C#-Programmierung mit Visual Studio Code](https://code.visualstudio.com/docs/languages/csharp)
 

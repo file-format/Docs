@@ -67,5 +67,5 @@ Il formato CSX (C# Script) segue un formato semplice basato su testo. In genere 
 I file CSX possono essere modificati utilizzando qualsiasi editor di testo o ambiente di sviluppo integrato (IDE) che supporti l'evidenziazione della sintassi C#. Una volta che il file CSX è pronto, può essere eseguito utilizzando strumenti come .NET Interactive Notebooks, l'interfaccia della riga di comando (CLI) di .NET Core o un IDE con supporto per script C#.
 
 ## Riferimenti
-* [Programmazione C# con Visual Studio Code](https://code.visualstudio.com/docs/linguals/csharp)
+* [Programmazione C# con Visual Studio Code](https://code.visualstudio.com/docs/languages/csharp)
 

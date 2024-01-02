@@ -67,5 +67,5 @@ Các tệp CSX cũng có thể bao gồm các câu lệnh nhập, tham chiếu t
 Các tệp CSX có thể được chỉnh sửa bằng bất kỳ trình soạn thảo văn bản hoặc môi trường phát triển tích hợp (IDE) nào hỗ trợ tô sáng cú pháp C#. Khi tệp CSX đã sẵn sàng, nó có thể được thực thi bằng các công cụ như .NET Interactive Notebooks, giao diện dòng lệnh .NET Core (CLI) hoặc IDE có hỗ trợ tập lệnh C#.
 
 ## Người giới thiệu
-* [Lập trình C# với Visual Studio Code](https://code.visualstudio.com/docs/lacular/csharp)
+* [Lập trình C# với Visual Studio Code](https://code.visualstudio.com/docs/languages/csharp)
 
