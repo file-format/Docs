@@ -26,13 +26,13 @@
 
 إذا كنت تبحث عن حل مجاني عبر الإنترنت لتحويل ملفات 3MF إلى تنسيق GLB, فيمكنك الاستفادة من تطبيق التحويل Aspose.3D. فقط انقر على الزر أدناه لبدء العملية.
 
-[![3MF إلى GLB](../3mf-to-glb.png)](https://products.aspose.app/3d/conversion/)
+[![3MF إلى GLB](../3mf-to-glb.png)](https://products.aspose.app/3d/conversion/3mf-to-glb/)
 
 ### خطوات تحويل 3MF إلى glb
 
 فيما يلي الخطوات التي يتعين عليك اتباعها لتحويل ملفات 3MF إلى GLB.
 
-1. انتقل إلى [تطبيق التحويل Aspose.3D](https://products.aspose.app/3d/conversion/)
+1. انتقل إلى [تطبيق التحويل Aspose.3D](https://products.aspose.app/3d/conversion/3mf-to-glb/)
 1. قم بتحميل ملف 3MF الخاص بك إلى المتصفح
 1. حدد GLB كتنسيق ملف الإخراج
 1. اضغط على زر التحويل

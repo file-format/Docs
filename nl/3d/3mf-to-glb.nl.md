@@ -26,13 +26,13 @@ Veel mensen hebben vaak behoefte aan het converteren van [3MF-bestanden](/nl/3d/
 
 Als u op zoek bent naar een gratis online oplossing om 3MF-bestanden naar GLB-formaat te converteren, kunt u gebruik maken van de Aspose.3D-conversie-app. Klik gewoon op de onderstaande knop om het proces te starten.
 
-[![3MF naar GLB](../3mf-to-glb.png)](https://products.aspose.app/3d/conversion/)
+[![3MF naar GLB](../3mf-to-glb.png)](https://products.aspose.app/3d/conversion/3mf-to-glb/)
 
 ### Stappen om 3MF naar glb te converteren
 
 Hier zijn de stappen die u moet volgen om uw 3MF-bestanden naar GLB te converteren.
 
-1. Ga naar [Aspose.3D-conversie-app](https://products.aspose.app/3d/conversion/)
+1. Ga naar [Aspose.3D-conversie-app](https://products.aspose.app/3d/conversion/3mf-to-glb/)
 1. Upload uw 3MF-bestand naar de browser
 1. Selecteer GLB als uitvoerbestandsformaat
 1. Druk op de knop Converteren

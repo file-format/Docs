@@ -26,13 +26,13 @@
 
 Якщо ви шукаєте безкоштовне онлайн-рішення для перетворення файлів 3MF у формат GLB, ви можете скористатися програмою перетворення Aspose.3D. Просто натисніть кнопку нижче, щоб почати процес.
 
-[![3MF to GLB](../3mf-to-glb.png)](https://products.aspose.app/3d/conversion/)
+[![3MF to GLB](../3mf-to-glb.png)](https://products.aspose.app/3d/conversion/3mf-to-glb/)
 
 ### Кроки для перетворення 3MF на glb
 
 Ось кроки, які потрібно виконати, щоб конвертувати файли 3MF у GLB.
 
-1. Перейдіть до [програми для перетворення Aspose.3D](https://products.aspose.app/3d/conversion/)
+1. Перейдіть до [програми для перетворення Aspose.3D](https://products.aspose.app/3d/conversion/3mf-to-glb/)
 1. Завантажте файл 3MF у браузер
 1. Виберіть GLB як вихідний формат файлу
 1. Натисніть кнопку "Перетворити".
