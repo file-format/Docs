@@ -63,5 +63,5 @@
 
 ## संदर्भ
 
-* [फोर्थ प्रोग्रामिंग लैंग्वेज] (https://en.wikipedia.org/wiki/Forth_(प्रोग्रामिंग_लैंग्वेज))
+* [फोर्थ प्रोग्रामिंग लैंग्वेज](https://en.wikipedia.org/wiki/Forth_(programming_language))
 

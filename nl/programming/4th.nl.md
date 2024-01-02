@@ -63,5 +63,5 @@ Dit zou resulteren in de uitvoer 3628800, wat de faculteit van 10 is.
 
 ## Referenties
 
-* [Forth programmeertaal](https://en.wikipedia.org/wiki/Forth_(programmeertaal))
+* [Forth programmeertaal](https://en.wikipedia.org/wiki/Forth_(programming_language))
 

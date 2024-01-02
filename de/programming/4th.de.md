@@ -63,5 +63,5 @@ Dies würde zur Ausgabe 3628800 führen, was der Fakultät von 10 entspricht.
 
 ## Verweise
 
-* [Programmiersprache Forth](https://en.wikipedia.org/wiki/Forth_(programming_sprache))
+* [Programmiersprache Forth](https://en.wikipedia.org/wiki/Forth_(programming_language))
 

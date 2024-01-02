@@ -63,5 +63,5 @@
 
 ## 참고자료
 
-* [제4 프로그래밍 언어](https://en.wikipedia.org/wiki/Forth_(programming_언어))
+* [제4 프로그래밍 언어](https://en.wikipedia.org/wiki/Forth_(programming_language))
 

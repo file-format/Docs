@@ -63,5 +63,5 @@
 
 ## อ้างอิง
 
-* [ภาษาการเขียนโปรแกรม Forth](https://en.wikipedia.org/wiki/Forth_(programming_ language))
+* [ภาษาการเขียนโปรแกรม Forth](https://en.wikipedia.org/wiki/Forth_(programming_language))
 

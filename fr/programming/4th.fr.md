@@ -63,5 +63,5 @@ Cela donnerait la sortie 3628800, qui est le factoriel de 10.
 
 ## Les références
 
-* [Forth Langage de programmation](https://en.wikipedia.org/wiki/Forth_(programming_langage))
+* [Forth Langage de programmation](https://en.wikipedia.org/wiki/Forth_(programming_language))
 

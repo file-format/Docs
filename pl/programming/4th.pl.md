@@ -63,5 +63,5 @@ Dałoby to wynik 3628800, który jest silnią liczby 10.
 
 ## Bibliografia
 
-* [Czwarty język programowania](https://en.wikipedia.org/wiki/Forth_(język_programowania))
+* [Czwarty język programowania](https://en.wikipedia.org/wiki/Forth_(programming_language))
 
