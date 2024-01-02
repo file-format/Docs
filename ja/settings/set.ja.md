@@ -58,5 +58,5 @@ Xerox デバイスの「.set」ファイルを開くには、デバイスの Web
 7. 「.set」ファイルをメモ帳などのテキスト エディタで開くと、人間が読める形式で設定を表示できます。
 
 ## 参考文献
-* [ゼロックス](https://en.wikipedia.org/wiki/ゼロックス)
+* [ゼロックス](https://en.wikipedia.org/wiki/Xerox)
 
