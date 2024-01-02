@@ -53,5 +53,5 @@ Minecraft に MCSTRUCTURE ファイルをインポートするには、次の手
 5. ファイルがロードされたら、[インポート] を選択して構造をゲーム世界に配置します。
 
 ## 参考文献
-* [Mc Structure ファイル](https://wiki.bedrock.dev/nbt/mcstructural.html)
+* [Mc Structure ファイル](https://wiki.bedrock.dev/nbt/mcstructure.html)
 
