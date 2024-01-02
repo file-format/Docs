@@ -19,7 +19,7 @@
 
 ## Mi az a 3DC fájl?
 
-A 3DC fájl egy GPS-adatfájl, amelyet az [iGO] GPS-navigációs szoftveralkalmazás (https://en.wikipedia.org/wiki/IGO_(software)) használ. 3D épületadatokat és metaadatokat tartalmaz az alkalmazások megjelenítéséhez. A 3DC fájlok a navigációs egység memóriakártyájára kerülnek, és többnyire az \​iGO\​content\​building\​ könyvtárba kerülnek.
+A 3DC fájl egy GPS-adatfájl, amelyet az [iGO](https://en.wikipedia.org/wiki/IGO_(software)) GPS-navigációs szoftveralkalmazás használ. 3D épületadatokat és metaadatokat tartalmaz az alkalmazások megjelenítéséhez. A 3DC fájlok a navigációs egység memóriakártyájára kerülnek, és többnyire az \​iGO\​content\​building\​ könyvtárba kerülnek.
 
 ## Az iGO Navigációról
 

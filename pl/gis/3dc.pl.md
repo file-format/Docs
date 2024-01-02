@@ -27,5 +27,5 @@ Oprogramowanie iGO służy do celów nawigacji. Pobiera informacje o lokalizacji
 
 ## Bibliografia
 
-* [Oprogramowanie do nawigacji iGO](https://en.wikipedia.org/wiki/IGO_(oprogramowanie))
+* [Oprogramowanie do nawigacji iGO](https://en.wikipedia.org/wiki/IGO_(software))
 
