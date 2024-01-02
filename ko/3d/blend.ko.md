@@ -54,5 +54,5 @@ Blender에서 블렌드 파일을 작업할 때 사용자는 해당 파일을 �
 블렌더를 시작한 다음 "파일" 메뉴를 클릭하고 드롭다운 메뉴에서 "열기"를 선택하여 BLEND 파일을 열 수 있습니다. 또는 블렌드 파일을 Blender 소프트웨어로 끌어다 놓으면 블렌드 파일이 열립니다.
 
 ## 참고자료
-* [블렌더(소프트웨어)](https://en.wikipedia.org/wiki/Blender_(소프트웨어))
+* [블렌더(소프트웨어)](https://en.wikipedia.org/wiki/Blender_(software))
 

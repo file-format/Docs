@@ -54,5 +54,5 @@ File campuran menyimpan semua informasi yang berkaitan dengan adegan 3D, meliput
 Anda dapat membuka file BLEND dengan meluncurkan Blender lalu mengklik menu "File" dan memilih "Open" dari menu dropdown. Alternatifnya, Anda cukup menarik dan melepas file campuran ke perangkat lunak Blender dan file campuran akan terbuka.
 
 ## Referensi
-* [Blender (perangkat lunak)](https://en.wikipedia.org/wiki/Blender_(perangkat lunak))
+* [Blender (perangkat lunak)](https://en.wikipedia.org/wiki/Blender_(software))
 

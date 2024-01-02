@@ -54,5 +54,5 @@ Plik mieszania przechowuje wszystkie informacje dotyczące sceny 3D, obejmujące
 Możesz otworzyć plik BLEND, uruchamiając Blendera, a następnie klikając menu "Plik" i wybierając "Otwórz" z menu rozwijanego. Alternatywnie możesz po prostu przeciągnąć i upuścić plik mieszania do oprogramowania Blendera, co spowoduje otwarcie pliku mieszania.
 
 ## Bibliografia
-* [Blender (oprogramowanie)](https://en.wikipedia.org/wiki/Blender_(oprogramowanie))
+* [Blender (oprogramowanie)](https://en.wikipedia.org/wiki/Blender_(software))
 
