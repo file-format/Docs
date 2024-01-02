@@ -28,13 +28,13 @@
 
 3DS dosyalarını çevrimiçi olarak OBJ formatına dönüştürmek için ücretsiz bir çözüm arıyorsanız Aspose.3D dönüştürme uygulamasını kullanabilirsiniz. Başlamak için aşağıdaki düğmeye tıklamanız yeterlidir.
 
-[![3DS'den OBJ'ye](../3ds-to-obj.png)](https://products.aspose.app/3d/conversion/)
+[![3DS'den OBJ'ye](../3ds-to-obj.png)](https://products.aspose.app/3d/conversion/3ds-to-obj)
 
 ### 3DS'yi OBJ'ye Dönüştürme Adımları
 
 3DS dosyalarınızı OBJ'ye dönüştürmek için izlemeniz gereken adımlar şunlardır.
 
-1. [Aspose.3D dönüştürme uygulamasına](https://products.aspose.app/3d/conversion/) gidin
+1. [Aspose.3D dönüştürme uygulamasına](https://products.aspose.app/3d/conversion/3DS-to-obj) gidin
 1. 3DS dosyanızı tarayıcıya yükleyin
 1. Çıkış dosyası formatı olarak OBJ'yi seçin
 1. Dönüştür düğmesine basın

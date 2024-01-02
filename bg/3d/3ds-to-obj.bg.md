@@ -28,13 +28,13 @@
 
 Ако търсите безплатно решение за конвертиране на 3DS файлове в OBJ формат онлайн, можете да използвате приложението за преобразуване Aspose.3D. Просто щракнете върху бутона по-долу, за да започнете.
 
-[![3DS към OBJ](../3ds-to-obj.png)](https://products.aspose.app/3d/conversion/)
+[![3DS към OBJ](../3ds-to-obj.png)](https://products.aspose.app/3d/conversion/3ds-to-obj)
 
 ### Стъпки за конвертиране на 3DS в OBJ
 
 Ето стъпките, които трябва да следвате, за да конвертирате вашите 3DS файлове в OBJ.
 
-1. Отидете на [приложение за преобразуване на Aspose.3D](https://products.aspose.app/3d/conversion/)
+1. Отидете на [приложение за преобразуване на Aspose.3D](https://products.aspose.app/3d/conversion/3DS-to-obj)
 1. Качете вашия 3DS файл в браузъра
 1. Изберете OBJ като изходен файлов формат
 1. Натиснете бутона Convert

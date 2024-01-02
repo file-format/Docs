@@ -28,13 +28,13 @@ Wavefront 的 Advanced Visualizer 应用程序使用 [OBJ](/zh/3d/obj/) 文件�
 
 如果您正在寻找在线将 3DS 文件转换为 OBJ 格式的免费解决方案，您可以使用 Aspose.3D 转换应用程序。只需单击下面的按钮即可开始。
 
-[![3DS 转 OBJ](../3ds-to-obj.png)](https://products.aspose.app/3d/conversion/)
+[![3DS 转 OBJ](../3ds-to-obj.png)](https://products.aspose.app/3d/conversion/3ds-to-obj)
 
 ### 将 3DS 转换为 OBJ 的步骤
 
 以下是将 3DS 文件转换为 OBJ 需要遵循的步骤。
 
-1.进入[Aspose.3D转换应用程序](https://products.aspose.app/3d/conversion/)
+1.进入[Aspose.3D转换应用程序](https://products.aspose.app/3d/conversion/3DS-to-obj)
 1. 将 3DS 文件上传到浏览器
 1.选择OBJ作为输出文件格式
 1. 按转换按钮

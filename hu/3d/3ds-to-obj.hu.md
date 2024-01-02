@@ -28,13 +28,13 @@ Az [OBJ](/hu/3d/obj/) fájlokat a Wavefront Advanced Visualizer alkalmazása has
 
 Ha költségmentes megoldást keres a 3DS fájlok OBJ formátumba konvertálásához online, használhatja az Aspose.3D konvertáló alkalmazást. A kezdéshez egyszerűen kattintson az alábbi gombra.
 
-[![3DS to OBJ](../3ds-to-obj.png)](https://products.aspose.app/3d/conversion/)
+[![3DS to OBJ](../3ds-to-obj.png)](https://products.aspose.app/3d/conversion/3ds-to-obj)
 
 ### A 3DS OBJ-vé konvertálásának lépései
 
 Íme a lépések, amelyeket követnie kell a 3DS-fájlok OBJ-vé konvertálásához.
 
-1. Nyissa meg az [Aspose.3D konverziós alkalmazást](https://products.aspose.app/3d/conversion/)
+1. Nyissa meg az [Aspose.3D konverziós alkalmazást](https://products.aspose.app/3d/conversion/3DS-to-obj)
 1. Töltse fel 3DS fájlját a böngészőbe
 1. Válassza ki az OBJ-t kimeneti fájlformátumként
 1. Nyomja meg a Konvertálás gombot

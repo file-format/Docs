@@ -28,13 +28,13 @@
 
 אם אתה מחפש פתרון ללא עלות להמרת קבצי 3DS לפורמט OBJ באינטרנט, אתה יכול להשתמש באפליקציית ההמרה Aspose.3D. פשוט לחץ על הכפתור למטה כדי להתחיל.
 
-[![3DS ל-OBJ](../3ds-to-obj.png)](https://products.aspose.app/3d/conversion/)
+[![3DS ל-OBJ](../3ds-to-obj.png)](https://products.aspose.app/3d/conversion/3ds-to-obj)
 
 ### שלבים להמרת 3DS ל-OBJ
 
 להלן השלבים שעליך לבצע כדי להמיר את קבצי ה-3DS שלך ל-OBJ.
 
-1. עבור אל [אפליקציית המרות Aspose.3D](https://products.aspose.app/3d/conversion/)
+1. עבור אל [אפליקציית המרות Aspose.3D](https://products.aspose.app/3d/conversion/3DS-to-obj)
 1. העלה את קובץ ה-3DS שלך לדפדפן
 1. בחר OBJ כפורמט קובץ פלט
 1. לחץ על כפתור המר
