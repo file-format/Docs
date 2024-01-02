@@ -93,5 +93,5 @@ Aspose.Words dla Pythona za pośrednictwem .NET to pakiet oprogramowania przezna
 
 1. [Aspose.Words dla Pythona przez .NET](https://products.aspose.com/words/python-net/)
 1. Zainstaluj — [Aspose.Words dla Pythona przez .NET](https://releases.aspose.com/words/python/)
-1. Konwertuj DOCX na XHTML przy użyciu Pythona przez .NET - [Przewodnik po konwersji DOCX na XHTML w Pythonie przez .NET](https://docs.aspose.com/words/python-net/convert-a-document-to-html -mhtml-lub-epub/)
+1. Konwertuj DOCX na XHTML przy użyciu Pythona przez .NET - [Przewodnik po konwersji DOCX na XHTML w Pythonie przez .NET](https://docs.aspose.com/words/python-net/convert-a-document-to-html-mhtml-or-epub/)
 
