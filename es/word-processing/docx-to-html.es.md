@@ -90,5 +90,5 @@ Aspose.Words para Python vía .NET es un paquete de software destinado a leer y 
 
 1. [Aspose.Words para Python a través de .NET](https://products.aspose.com/words/python-net/)
 1. Instalar - [Aspose.Words para Python a través de .NET](https://releases.aspose.com/words/python/)
-1. Convierta DOCX a HTML usando Python a través de .NET - [Guía de conversión de DOCX a HTML en Python a través de .NET](https://docs.aspose.com/words/python-net/convert-a-document-to-html -mhtml-o-epub/)
+1. Convierta DOCX a HTML usando Python a través de .NET - [Guía de conversión de DOCX a HTML en Python a través de .NET](https://docs.aspose.com/words/python-net/convert-a-document-to-html-mhtml-or-epub/)
 

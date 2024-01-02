@@ -90,5 +90,5 @@ Aspose.Words för Python via .NET är ett mjukvarupaket avsett för att läsa oc
 
 1. [Aspose.Words for Python via .NET](https://products.aspose.com/words/python-net/)
 1. Installera - [Aspose.Words for Python via .NET](https://releases.aspose.com/words/python/)
-1. Konvertera DOCX till HTML med Python via .NET - [DOCX till HTML-konverteringsguide i Python via .NET](https://docs.aspose.com/words/python-net/convert-a-document-to-html -mhtml-eller-epub/)
+1. Konvertera DOCX till HTML med Python via .NET - [DOCX till HTML-konverteringsguide i Python via .NET](https://docs.aspose.com/words/python-net/convert-a-document-to-html-mhtml-or-epub/)
 

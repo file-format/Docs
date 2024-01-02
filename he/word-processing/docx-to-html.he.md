@@ -90,5 +90,5 @@ Aspose.Words עבור Python דרך .NET היא חבילת תוכנה המיוע
 
 1. [Aspose.Words for Python דרך .NET](https://products.aspose.com/words/python-net/)
 1. התקן - [Aspose.Words for Python דרך .NET](https://releases.aspose.com/words/python/)
-1. המר DOCX ל-HTML באמצעות Python באמצעות .NET - [מדריך המרת DOCX ל-HTML ב-Python באמצעות .NET](https://docs.aspose.com/words/python-net/convert-a-document-to-html -mhtml-or-epub/)
+1. המר DOCX ל-HTML באמצעות Python באמצעות .NET - [מדריך המרת DOCX ל-HTML ב-Python באמצעות .NET](https://docs.aspose.com/words/python-net/convert-a-document-to-html-mhtml-or-epub/)
 
