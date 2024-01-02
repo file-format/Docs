@@ -110,5 +110,5 @@ Il formato del file ".rb" è testo semplice, generalmente codificato utilizzando
 - "applicazione/x-ruby".
 
 ## Riferimenti
-* [Ruby (linguaggio di programmazione)](https://en.wikipedia.org/wiki/Ruby_(linguaggio_di_programmazione))
+* [Ruby (linguaggio di programmazione)](https://en.wikipedia.org/wiki/Ruby_(programming_language))
 

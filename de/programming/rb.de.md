@@ -110,5 +110,5 @@ Das Format der ".rb"-Datei ist reiner Text, der normalerweise mit UTF-8- oder AS
 - "application/x-ruby".
 
 ## Verweise
-* [Ruby (Programmiersprache)](https://en.wikipedia.org/wiki/Ruby_(programmiersprache))
+* [Ruby (Programmiersprache)](https://en.wikipedia.org/wiki/Ruby_(programming_language))
 

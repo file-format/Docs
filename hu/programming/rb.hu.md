@@ -110,5 +110,5 @@ Az „.rb” fájl formátuma egyszerű szöveg, jellemzően UTF-8 vagy ASCII k�
 - "alkalmazás/x-ruby".
 
 ## Hivatkozások
-* [Ruby (programozási nyelv)](https://en.wikipedia.org/wiki/Ruby_(programozási_nyelv))
+* [Ruby (programozási nyelv)](https://en.wikipedia.org/wiki/Ruby_(programming_language))
 

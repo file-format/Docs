@@ -110,5 +110,5 @@ end
 - `application/x-ruby`
 
 ## 참고자료
-* [Ruby(프로그래밍 언어)](https://en.wikipedia.org/wiki/Ruby_(programming_언어))
+* [Ruby(프로그래밍 언어)](https://en.wikipedia.org/wiki/Ruby_(programming_language))
 

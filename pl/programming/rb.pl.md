@@ -110,5 +110,5 @@ Format pliku ".rb" to zwykły tekst, zwykle zakodowany przy użyciu kodowania UT
 - `aplikacja/x-rubin`
 
 ## Bibliografia
-* [Ruby (język programowania)](https://en.wikipedia.org/wiki/Ruby_(język_programowania))
+* [Ruby (język programowania)](https://en.wikipedia.org/wiki/Ruby_(programming_language))
 

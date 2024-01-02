@@ -110,5 +110,5 @@ end
 - `приложение/x-ruby`
 
 ## Препратки
-* [Ruby (език за програмиране)](https://en.wikipedia.org/wiki/Ruby_(език за програмиране))
+* [Ruby (език за програмиране)](https://en.wikipedia.org/wiki/Ruby_(programming_language))
 

@@ -110,5 +110,5 @@ Formatul fișierului ".rb" este text simplu, de obicei codificat utilizând codi
 - `application/x-ruby`
 
 ## Referințe
-* [Ruby (limbaj de programare)](https://en.wikipedia.org/wiki/Ruby_(limbaj_de_programare))
+* [Ruby (limbaj de programare)](https://en.wikipedia.org/wiki/Ruby_(programming_language))
 
