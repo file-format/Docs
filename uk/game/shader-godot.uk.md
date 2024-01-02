@@ -202,5 +202,5 @@ Godot — чудовий вибір для незалежних розробни
 - [ШЕЙДЕР - ресурс шейдера Unity](/uk/game/shader-unity/)
 
 ## Список літератури
-* [Godot (ігровий движок)](https://en.wikipedia.org/wiki/Godot_(ігровий движок))
+* [Godot (ігровий движок)](https://en.wikipedia.org/wiki/Godot_(game_engine))
 

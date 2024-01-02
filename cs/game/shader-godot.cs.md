@@ -202,5 +202,5 @@ Zde jsou další typy souborů, které používají příponu souboru **.shader*
 - [SHADER - Unity Shader Asset](/cs/hra/shader-unity/)
 
 ## Reference
-* [Godot (herní engine)](https://en.wikipedia.org/wiki/Godot_(herní_engine))
+* [Godot (herní engine)](https://en.wikipedia.org/wiki/Godot_(game_engine))
 
