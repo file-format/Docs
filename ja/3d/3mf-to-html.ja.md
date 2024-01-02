@@ -32,7 +32,7 @@
 
 3MF ファイルを HTML に正常に変換するには、次の手順に従ってください。
 
-1. [Aspose.3D変換アプリ](https://products.aspose.app/3d/conversion/3MF-to-html)にアクセスします。
+1. [Aspose.3D変換アプリ](https://products.aspose.app/3d/conversion/3mf-to-html)にアクセスします。
 1. 3MF ファイルをブラウザにアップロードします
 1. 出力ファイル形式として HTML を選択します
 1.「変換」ボタンを押します。
