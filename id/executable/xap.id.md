@@ -44,5 +44,5 @@ Untuk membuka file .xap, Anda perlu menggunakan browser web dengan dukungan Silv
 Alternatifnya, Anda dapat mengekstrak konten file .xap dengan mengganti namanya menjadi .zip dan mendekompresinya menggunakan alat kompresi file seperti WinZip atau 7-Zip. Ini akan memungkinkan Anda untuk mengakses file individual yang terdapat dalam arsip .xap.
 
 ## Referensi
-* [XAP - format berkas](https://en.wikipedia.org/wiki/XAP_(format_file))
+* [XAP - format berkas](https://en.wikipedia.org/wiki/XAP_(file_format))
 

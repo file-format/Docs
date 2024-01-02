@@ -44,5 +44,5 @@ Chcete-li otevřít soubor .xap, budete muset použít webový prohlížeč s po
 Případně můžete obsah souboru .xap extrahovat tak, že jej přejmenujete na .zip a dekomprimujete pomocí nástroje pro kompresi souborů, jako je WinZip nebo 7-Zip. To vám umožní přístup k jednotlivým souborům obsaženým v archivu .xap.
 
 ## Reference
-* [XAP – formát souboru](https://en.wikipedia.org/wiki/XAP_(formát_souboru))
+* [XAP – formát souboru](https://en.wikipedia.org/wiki/XAP_(file_format))
 

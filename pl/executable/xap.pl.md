@@ -44,5 +44,5 @@ Aby otworzyć plik .xap, musisz użyć przeglądarki internetowej obsługującej
 Alternatywnie możesz wyodrębnić zawartość pliku .xap, zmieniając jego nazwę na .zip i dekompresując go za pomocą narzędzia do kompresji plików, takiego jak WinZip lub 7-Zip. Umożliwi to dostęp do poszczególnych plików zawartych w archiwum .xap.
 
 ## Bibliografia
-* [XAP – format pliku](https://en.wikipedia.org/wiki/XAP_(format_pliku))
+* [XAP – format pliku](https://en.wikipedia.org/wiki/XAP_(file_format))
 

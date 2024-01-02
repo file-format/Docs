@@ -44,5 +44,5 @@ Pentru a deschide un fișier .xap, va trebui să utilizați un browser web cu su
 Alternativ, puteți extrage conținutul fișierului .xap prin redenumirea acestuia în .zip și decomprimarea acestuia folosind un instrument de compresie a fișierelor, cum ar fi WinZip sau 7-Zip. Acest lucru vă va permite să accesați fișierele individuale conținute în arhiva .xap.
 
 ## Referințe
-* [XAP - format de fișier](https://en.wikipedia.org/wiki/XAP_(format_fișier))
+* [XAP - format de fișier](https://en.wikipedia.org/wiki/XAP_(file_format))
 
