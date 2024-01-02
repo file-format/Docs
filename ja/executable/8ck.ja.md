@@ -53,5 +53,5 @@ TI Connect CE を使用して 8CK ファイルを開く手順は次のとおり�
 8CK ファイルを開いて内容を表示するプロセスは、使用しているソフトウェアやファイル自体の内容によって異なる場合があります。ファイルの内容を変更または編集する必要がある場合は、TI-84 Plus C Silver Edition 電卓と互換性のあるプログラミング ソフトウェアを使用する必要があります。
 
 ## 参考文献
-※【TI-84 Plusシリーズ】(https://ja.wikipedia.org/wiki/TI-84_Plus_series)
+* [TI-84 Plusシリーズ](https://en.wikipedia.org/wiki/TI-84_Plus_series)
 
