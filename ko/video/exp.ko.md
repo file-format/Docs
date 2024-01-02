@@ -55,7 +55,7 @@ DX4100 DVR 및 관련 소프트웨어는 원활하게 함께 작동하도록 설
 EXP는 감시 카메라에서 생성된 독점 파일 형식입니다. 독점 특성으로 인해 EXP 파일 변환을 위해 특별히 설계된 사용 가능한 응용 프로그램이 없습니다. 권장되는 접근 방식은 감시 카메라 시스템에서 제공하는 내장 플레이어를 활용하여 EXP 파일을 재생하는 것입니다. EXP 파일 형식에는 호환되는 코덱, 플레이어 또는 변환기가 없다는 점에 유의하는 것이 중요합니다. 따라서 이러한 파일에 액세스하고 보려면 보안 카메라 시스템에서 제공하는 전용 플레이어를 사용해야 합니다.
 
 ## 참고자료
-* [DX 시리즈 내보내기 뷰어를 사용하여 내보낸 비디오(.exp)를 검토하는 방법.](https://support.pelco.com/s/article/How-to-review-exported-video-exp-using-the- DX-시리즈-Export-Viewer-1538586687024?언어=en_US)
+* [DX 시리즈 내보내기 뷰어를 사용하여 내보낸 비디오(.exp)를 검토하는 방법.](https://support.pelco.com/s/article/How-to-review-exported-video-exp-using-the-DX-Series-Export-Viewer-1538586687024?language=en_US)
 
 
 

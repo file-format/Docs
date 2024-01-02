@@ -55,7 +55,7 @@ DX4100 DVR 及其相关软件旨在无缝协作,确保 EXP 文件的兼容性和
 EXP 是一种源自监控摄像机的专有文件格式。由于其专有性质,没有专门为转换 EXP 文件而设计的可用应用程序。推荐的方法是利用监控摄像头系统提供的内置播放器来播放EXP文件。请务必注意,EXP 文件格式缺乏兼容的编解码器,播放器或转换器。因此,需要依靠安防摄像系统提供的专用播放器来访问和查看这些文件。
 
 ## 参考
-* [如何使用 DX 系列导出查看器查看导出的视频 (.exp)。](https://support.pelco.com/s/article/How-to-review-exported-video-exp-using-the- DX-Series-Export-Viewer-1538586687024？语言=en_US)
+* [如何使用 DX 系列导出查看器查看导出的视频 (.exp)。](https://support.pelco.com/s/article/How-to-review-exported-video-exp-using-the-DX-Series-Export-Viewer-1538586687024?language=en_US)
 
 
 

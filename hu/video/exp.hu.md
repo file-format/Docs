@@ -55,7 +55,7 @@ A DX4100 DVR-t és a hozzá tartozó szoftvert úgy tervezték, hogy zökkenőme
 Az EXP egy szabadalmaztatott fájlformátum, amely a térfigyelő kamerákból származik. A védett természete miatt nem állnak rendelkezésre olyan alkalmazások, amelyeket kifejezetten az EXP fájlok konvertálására terveztek. Az ajánlott megközelítés a térfigyelő kamerarendszer által biztosított beépített lejátszó használata az EXP fájlok lejátszásához. Fontos megjegyezni, hogy az EXP fájlformátumból hiányoznak a kompatibilis kodekek, lejátszók vagy konverterek. Ezért a biztonsági kamerarendszer által biztosított dedikált lejátszóra kell hagyatkozni a fájlok eléréséhez és megtekintéséhez.
 
 ## Hivatkozások
-* [Az exportált videók (.exp) áttekintése a DX Series Export Viewer segítségével.](https://support.pelco.com/s/article/How-to-review-exported-video-exp-using-the- DX-Series-Export-Viewer-1538586687024?language=en_US)
+* [Az exportált videók (.exp) áttekintése a DX Series Export Viewer segítségével.](https://support.pelco.com/s/article/How-to-review-exported-video-exp-using-the-DX-Series-Export-Viewer-1538586687024?language=en_US)
 
 
 

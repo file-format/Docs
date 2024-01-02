@@ -55,7 +55,7 @@ Rejestrator DX4100 i powiązane z nim oprogramowanie zostały zaprojektowane tak
 EXP to zastrzeżony format pliku pochodzący z kamer monitorujących. Ze względu na jego zastrzeżony charakter nie są dostępne żadne aplikacje przeznaczone specjalnie do konwersji plików EXP. Zalecanym podejściem jest wykorzystanie wbudowanego odtwarzacza zapewnianego przez system kamer monitorujących do odtwarzania plików EXP. Należy pamiętać, że w formacie pliku EXP brakuje kompatybilnych kodeków, odtwarzaczy i konwerterów. Dlatego w celu uzyskania dostępu i przeglądania tych plików należy polegać na dedykowanym odtwarzaczu dostarczanym przez system kamer bezpieczeństwa.
 
 ## Bibliografia
-* [Jak przeglądać wyeksportowane wideo (.exp) za pomocą przeglądarki eksportu serii DX.](https://support.pelco.com/s/article/How-to-review-exported-video-exp-using-the- Przeglądarka eksportu-serii DX-1538586687024?language=en_US)
+* [Jak przeglądać wyeksportowane wideo (.exp) za pomocą przeglądarki eksportu serii DX.](https://support.pelco.com/s/article/How-to-review-exported-video-exp-using-the-DX-Series-Export-Viewer-1538586687024?language=en_US)
 
 
 

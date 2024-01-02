@@ -55,7 +55,7 @@
 EXP הוא פורמט קובץ קנייני שמקורו במצלמות מעקב. בשל אופיו הקנייני, אין יישומים זמינים שתוכננו במיוחד להמרת קבצי EXP. הגישה המומלצת היא להשתמש בנגן המובנה שמספק מערכת מצלמות המעקב כדי לנגן קבצי EXP. חשוב לציין שבפורמט הקובץ EXP חסרים קודקים, נגנים או ממירים תואמים. לכן, יש צורך להסתמך על הנגן הייעודי שמספק מערכת מצלמות האבטחה כדי לגשת ולצפות בקבצים הללו.
 
 ## הפניות
-* [כיצד לסקור סרטון מיוצא (.exp) באמצעות מציג DX Series Export.](https://support.pelco.com/s/article/How-to-review-exported-video-exp-using-the- DX-Series-Export-Viewer-1538586687024?language=en_US)
+* [כיצד לסקור סרטון מיוצא (.exp) באמצעות מציג DX Series Export.](https://support.pelco.com/s/article/How-to-review-exported-video-exp-using-the-DX-Series-Export-Viewer-1538586687024?language=en_US)
 
 
 

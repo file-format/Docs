@@ -55,7 +55,7 @@ DX4100 DVR ve ilgili yazılımı, birlikte sorunsuz çalışacak şekilde tasarl
 EXP, güvenlik kameralarından kaynaklanan özel bir dosya formatıdır. Tescilli yapısı nedeniyle, EXP dosyalarını dönüştürmek için özel olarak tasarlanmış herhangi bir uygulama bulunmamaktadır. Önerilen yaklaşım, EXP dosyalarını oynatmak için güvenlik kamerası sistemi tarafından sağlanan yerleşik oynatıcıyı kullanmaktır. EXP dosya formatında uyumlu codec'lerin, oynatıcıların veya dönüştürücülerin bulunmadığını unutmamak önemlidir. Bu nedenle bu dosyalara erişmek ve görüntülemek için güvenlik kamera sistemi tarafından sağlanan özel oynatıcıya güvenmek gerekir.
 
 ## Referanslar
-* [DX Serisi Dışa Aktarma Görüntüleyicisi kullanılarak dışa aktarılan video (.exp) nasıl incelenir.](https://support.pelco.com/s/article/How-to-review-exported-video-exp-using-the- DX-Serisi-Export-Viewer-1538586687024?language=en_US)
+* [DX Serisi Dışa Aktarma Görüntüleyicisi kullanılarak dışa aktarılan video (.exp) nasıl incelenir.](https://support.pelco.com/s/article/How-to-review-exported-video-exp-using-the-DX-Series-Export-Viewer-1538586687024?language=en_US)
 
 
 

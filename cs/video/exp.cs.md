@@ -55,7 +55,7 @@ DVR DX4100 a související software jsou navrženy tak, aby bezproblémově spol
 EXP je proprietární formát souborů pocházející z monitorovacích kamer. Vzhledem k jeho proprietární povaze nejsou k dispozici žádné aplikace navržené speciálně pro převod souborů EXP. Doporučený přístup je použít k přehrávání souborů EXP vestavěný přehrávač poskytovaný kamerovým systémem. Je důležité si uvědomit, že souborový formát EXP postrádá kompatibilní kodeky, přehrávače nebo konvertory. Pro přístup a prohlížení těchto souborů je proto nutné se spolehnout na vyhrazený přehrávač poskytovaný bezpečnostním kamerovým systémem.
 
 ## Reference
-* [Jak zkontrolovat exportované video (.exp) pomocí prohlížeče DX Series Export Viewer.](https://support.pelco.com/s/article/How-to-review-exported-video-exp-using-the- DX-Series-Export-Viewer-1538586687024?language=en_US)
+* [Jak zkontrolovat exportované video (.exp) pomocí prohlížeče DX Series Export Viewer.](https://support.pelco.com/s/article/How-to-review-exported-video-exp-using-the-DX-Series-Export-Viewer-1538586687024?language=en_US)
 
 
 

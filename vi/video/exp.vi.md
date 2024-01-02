@@ -55,7 +55,7 @@ DVR DX4100 và phần mềm liên quan của nó được thiết kế để ho�
 EXP là định dạng tệp độc quyền có nguồn gốc từ camera giám sát. Do tính chất độc quyền của nó, không có ứng dụng nào được thiết kế đặc biệt để chuyển đổi tệp EXP. Phương pháp được khuyến nghị là sử dụng trình phát tích hợp do hệ thống camera giám sát cung cấp để phát các tệp EXP. Điều quan trọng cần lưu ý là định dạng tệp EXP thiếu codec, trình phát hoặc bộ chuyển đổi tương thích. Vì vậy, cần phải dựa vào đầu phát chuyên dụng do hệ thống camera an ninh cung cấp để truy cập và xem các tập tin này.
 
 ## Người giới thiệu
-* [Cách xem lại video đã xuất (.exp) bằng Trình xem xuất dòng DX.](https://support.pelco.com/s/article/How-to-review-exported-video-exp-using-the- DX-Series-Export-Viewer-1538586687024?lingu=en_US)
+* [Cách xem lại video đã xuất (.exp) bằng Trình xem xuất dòng DX.](https://support.pelco.com/s/article/How-to-review-exported-video-exp-using-the-DX-Series-Export-Viewer-1538586687024?language=en_US)
 
 
 
