@@ -91,5 +91,5 @@ CHR файловете не са предназначени за ръчно от
 - [CHR - Литературен клуб Doki Doki! Файл със знаци](/bg/game/chr-doki/)
 
 ## Препратки
-- [Знак (компютър)](https://en.wikipedia.org/wiki/Character_(компютър))
+- [Знак (компютър)](https://en.wikipedia.org/wiki/Character_(computing))
 

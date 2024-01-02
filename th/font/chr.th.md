@@ -91,5 +91,5 @@
 - [CHR - ชมรมวรรณกรรมโดกิ โดกิ! ไฟล์ตัวละคร](/th/game/chr-doki/)
 
 ## อ้างอิง
-- [ตัวละคร (คอมพิวเตอร์)](https://en.wikipedia.org/wiki/Character_(คอมพิวเตอร์))
+- [ตัวละคร (คอมพิวเตอร์)](https://en.wikipedia.org/wiki/Character_(computing))
 

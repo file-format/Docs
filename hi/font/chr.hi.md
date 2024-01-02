@@ -91,5 +91,5 @@
 - [सीएचआर - डोकी डोकी लिटरेचर क्लब! कैरेक्टर फ़ाइल](/hi/गेम/chr-doki/)
 
 ## संदर्भ
-- [कैरेक्टर (कंप्यूटिंग)](https://en.wikipedia.org/wiki/Character_(कंप्यूटिंग))
+- [कैरेक्टर (कंप्यूटिंग)](https://en.wikipedia.org/wiki/Character_(computing))
 

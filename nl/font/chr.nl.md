@@ -91,5 +91,5 @@ Hier volgen andere bestandstypen die de bestandsextensie **.chr** gebruiken.
 - [CHR - Doki Doki Literatuurclub! Karakterbestand](/nl/game/chr-doki/)
 
 ## Referenties
-- [Karakter (computergebruik)](https://en.wikipedia.org/wiki/Character_(computergebruik))
+- [Karakter (computergebruik)](https://en.wikipedia.org/wiki/Character_(computing))
 

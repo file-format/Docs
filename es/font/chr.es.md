@@ -91,5 +91,5 @@ Aquí hay otros tipos de archivos que usan la extensión de archivo **.chr**.
 - [CHR - ¡Club de literatura Doki Doki! Archivo de personaje](/es/game/chr-doki/)
 
 ## Referencias
-- [Personaje (informática)](https://en.wikipedia.org/wiki/Character_(informática))
+- [Personaje (informática)](https://en.wikipedia.org/wiki/Character_(computing))
 

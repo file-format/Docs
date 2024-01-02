@@ -91,5 +91,5 @@
 - [CHR - Doki Doki Literature Club! Файл персонажів](/uk/game/chr-doki/)
 
 ## Список літератури
-- [Персонаж (обчислення)](https://en.wikipedia.org/wiki/Character_(обчислення))
+- [Персонаж (обчислення)](https://en.wikipedia.org/wiki/Character_(computing))
 

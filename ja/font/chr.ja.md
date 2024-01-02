@@ -91,5 +91,5 @@ CHR ファイルは、ユーザーが手動で開いたり編集したりする�
 - [CHR - ドキドキ文芸部!キャラクターファイル](/ja/game/chr-doki/)
 
 ## 参考文献
-- [キャラクター (コンピューティング)](https://en.wikipedia.org/wiki/Character_(コンピューティング))
+- [キャラクター (コンピューティング)](https://en.wikipedia.org/wiki/Character_(computing))
 
