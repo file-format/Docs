@@ -18,7 +18,7 @@
 
 ## Τι είναι ένα αρχείο SSF;
 
-Ένα αρχείο με αρχείο .ssf είναι μια μορφή αρχείου αποθήκευσης γεωχωρικών δεδομένων που χρησιμοποιείται από τις εφαρμογές λογισμικού [Trimble](https://www.trimble.com) Navigation GIS. Αποθηκεύει δεδομένα GPS που έχουν καταγραφεί από πεδίο χρησιμοποιώντας συσκευές Trimble. Στη συνέχεια, το αρχείο καταγραφής GPS εισάγεται σε μία από τις εφαρμογές της σουίτας εφαρμογών Trimble. Το αρχείο καταγραφής GPS που περιέχεται σε ένα SSF χρησιμοποιείται για τη δημιουργία προσαρμοσμένων συστημάτων συντεταγμένων. Τα αρχεία SSF μπορούν να ανοίξουν με το [Trimble Navigation GPS Pathfinder Office](https://geospatial.trimble.com/products-and-solutions/ssf-and-ddf-data-format-extensions-fme), το Trimble Navigation GPS Pathfinder Tools SDK και το ESRI ArcGIS για επιτραπέζιους υπολογιστές με Πρόσθετο Trimble GPS Analyst.
+Ένα αρχείο με αρχείο .ssf είναι μια μορφή αρχείου αποθήκευσης γεωχωρικών δεδομένων που χρησιμοποιείται από τις εφαρμογές λογισμικού [Trimble](https://www.trimble.com) Navigation GIS. Αποθηκεύει δεδομένα GPS που έχουν καταγραφεί από πεδίο χρησιμοποιώντας συσκευές Trimble. Στη συνέχεια, το αρχείο καταγραφής GPS εισάγεται σε μία από τις εφαρμογές της σουίτας εφαρμογών Trimble. Το αρχείο καταγραφής GPS που περιέχεται σε ένα SSF χρησιμοποιείται για τη δημιουργία προσαρμοσμένων συστημάτων συντεταγμένων. Τα αρχεία SSF μπορούν να ανοίξουν με το [Trimble Navigation GPS Pathfinder Office](https://geospatial.trimble.com/en/products/software/office-software), το Trimble Navigation GPS Pathfinder Tools SDK και το ESRI ArcGIS για επιτραπέζιους υπολογιστές με Πρόσθετο Trimble GPS Analyst.
 
 ## Μορφή αρχείου SSF - Περισσότερες πληροφορίες
 

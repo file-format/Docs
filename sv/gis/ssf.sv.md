@@ -18,7 +18,7 @@
 
 ## Vad är en SSF fil?
 
-En fil med .ssf-fil är ett filformat för geospatial datalagring som används av programvaran [Trimble](https://www.trimble.com) Navigation GIS. Den lagrar GPS-data inspelad från fält med hjälp av Trimble-enheter. GPS-loggen importeras sedan till en av applikationerna i Trimble Applications Suite. GPS-loggen som finns i en SSF används för att skapa anpassade koordinatsystem. SSF-filer kan öppnas med [Trimble Navigation GPS Pathfinder Office](https://geospatial.trimble.com/products-and-solutions/ssf-and-ddf-data-format-extensions-fme), Trimble Navigation GPS Pathfinder Tools SDK och ESRI ArcGIS for Desktop med Trimble GPS Analyst plug-in.
+En fil med .ssf-fil är ett filformat för geospatial datalagring som används av programvaran [Trimble](https://www.trimble.com) Navigation GIS. Den lagrar GPS-data inspelad från fält med hjälp av Trimble-enheter. GPS-loggen importeras sedan till en av applikationerna i Trimble Applications Suite. GPS-loggen som finns i en SSF används för att skapa anpassade koordinatsystem. SSF-filer kan öppnas med [Trimble Navigation GPS Pathfinder Office](https://geospatial.trimble.com/en/products/software/office-software), Trimble Navigation GPS Pathfinder Tools SDK och ESRI ArcGIS for Desktop med Trimble GPS Analyst plug-in.
 
 ## SSF-filformat - Mer information
 
