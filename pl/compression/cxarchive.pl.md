@@ -117,5 +117,5 @@ Programy otwierające pliki CXARCHIVE obejmują
 **Podtyp:** Pliki skompresowane
 
 ## Bibliografia
-* [CrossOver (oprogramowanie)](https://en.wikipedia.org/wiki/CrossOver_(oprogramowanie))
+* [CrossOver (oprogramowanie)](https://en.wikipedia.org/wiki/CrossOver_(software))
 

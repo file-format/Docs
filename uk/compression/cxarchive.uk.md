@@ -117,5 +117,5 @@ CrossOver — комерційна програмна програма, розр
 **Підтип:** стиснуті файли
 
 ## Список літератури
-* [CrossOver (програмне забезпечення)](https://en.wikipedia.org/wiki/CrossOver_(програмне забезпечення))
+* [CrossOver (програмне забезпечення)](https://en.wikipedia.org/wiki/CrossOver_(software))
 

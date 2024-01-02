@@ -117,5 +117,5 @@ CXARCHIVE 파일을 여는 프로그램은 다음과 같습니다
 **하위 유형:** 압축 파일
 
 ## 참고자료
-* [크로스오버(소프트웨어)](https://en.wikipedia.org/wiki/CrossOver_(소프트웨어))
+* [크로스오버(소프트웨어)](https://en.wikipedia.org/wiki/CrossOver_(software))
 
