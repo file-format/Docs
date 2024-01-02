@@ -86,5 +86,5 @@
 
 1. [Aspose.Words for Python μέσω .NET](https://products.aspose.com/words/python-net/)
 1. Εγκατάσταση - [Aspose.Words for Python μέσω .NET](https://releases.aspose.com/words/python/)
-1. Μετατροπή DOCX σε ODT χρησιμοποιώντας Python μέσω .NET - [Οδηγός μετατροπής DOCX σε ODT στην Python μέσω .NET](https://docs.aspose.com/words/python-net/convert-a-document-to-html -mhtml-or-epub/)
+1. Μετατροπή DOCX σε ODT χρησιμοποιώντας Python μέσω .NET - [Οδηγός μετατροπής DOCX σε ODT στην Python μέσω .NET](https://docs.aspose.com/words/python-net/convert-a-document-to-html-mhtml-or-epub/)
 
