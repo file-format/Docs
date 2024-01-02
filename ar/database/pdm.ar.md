@@ -17,7 +17,7 @@
 "linktitle": "PDM",
   "menu": {
     "docs": {
-      "identifier": "database-pdm",
+      "identifier": "database-ar-pdm",
 "parent" : "database"
 }
 },
