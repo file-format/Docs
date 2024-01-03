@@ -45,5 +45,5 @@ Obrázky sprite se běžně používají v různých aplikacích včetně videoh
 Sprites jsou obvykle uloženy jako samostatné obrazové soubory, jako jsou PNG, JPEG nebo GIF, a jsou často organizovány v listech sprite, což jsou jednotlivé obrázky, které obsahují více snímků sprite uspořádaných do mřížky. Tyto listy sprite pomáhají optimalizovat využití paměti a usnadňují efektivní vykreslování více sprite současně.
 
 ## Reference
-* [Sprite (počítačová grafika)](https://en.wikipedia.org/wiki/Sprite_(počítačová_grafika))
+* [Sprite (počítačová grafika)](https://en.wikipedia.org/wiki/Sprite_(computer_graphics))
 
