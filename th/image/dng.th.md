@@ -88,7 +88,7 @@ DNG เวอร์ชัน 1.4 ตุลาคม 2012 มีคุณสม�
 
 ## อ้างอิง ##
 
-* [ข้อกำหนด DNG - โดย Adobe](https://www.kronometric.org/phot/processing/DNG/dng_spec_1.4.0.0.pdf)
+* [ข้อกำหนด DNG - โดย Adobe](https://web.archive.org/web/20170829200857/http://wwwimages.adobe.com/content/dam/Adobe/en/products/photoshop/pdfs/dng_spec_1.4.0.0.pdf)
 * [ดิจิทัลเนกาทีฟ - Wikipedia](https://en.wikipedia.org/wiki/Digital_Negative)
 * [DNG - รูปแบบการเก็บถาวรสาธารณะสำหรับข้อมูลดิบของกล้องดิจิทัล](https://helpx.adobe.com/photoshop/digital-negative.html)
 

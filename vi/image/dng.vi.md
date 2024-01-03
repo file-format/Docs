@@ -88,7 +88,7 @@ Phiên bản DNG 1.4 tháng 10 năm 2012 có các tính năng nâng cao sau.
 
 ## Người giới thiệu ##
 
-* [Thông số kỹ thuật DNG - Bởi Adobe](https://www.kronometric.org/phot/processing/DNG/dng_spec_1.4.0.0.pdf)
+* [Thông số kỹ thuật DNG - Bởi Adobe](https://web.archive.org/web/20170829200857/http://wwwimages.adobe.com/content/dam/Adobe/en/products/photoshop/pdfs/dng_spec_1.4.0.0.pdf)
 * [Phủ định kỹ thuật số - Wikipedia](https://en.wikipedia.org/wiki/Digital_Negative)
 * [DNG - Định dạng lưu trữ công khai cho dữ liệu thô của máy ảnh kỹ thuật số](https://helpx.adobe.com/photoshop/digital-negative.html)
 

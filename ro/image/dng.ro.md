@@ -88,7 +88,7 @@ Versiunea DNG 1.4 octombrie 2012 are următoarele caracteristici avansate.
 
 ## Referințe ##
 
-* [Specificații DNG - de Adobe](https://www.kronometric.org/phot/processing/DNG/dng_spec_1.4.0.0.pdf)
+* [Specificații DNG - de Adobe](https://web.archive.org/web/20170829200857/http://wwwimages.adobe.com/content/dam/Adobe/en/products/photoshop/pdfs/dng_spec_1.4.0.0.pdf)
 * [Digital Negative - Wikipedia](https://en.wikipedia.org/wiki/Digital_Negative)
 * [DNG - Formatul public de arhivă pentru datele brute ale camerei digitale](https://helpx.adobe.com/photoshop/digital-negative.html)
 

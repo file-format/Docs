@@ -88,7 +88,7 @@ DNG — это формат изображения цифровой камеры
 
 ## Использованная литература ##
 
-* [Спецификации DNG — Adobe](https://www.kronometric.org/phot/processing/DNG/dng_spec_1.4.0.0.pdf)
+* [Спецификации DNG — Adobe](https://web.archive.org/web/20170829200857/http://wwwimages.adobe.com/content/dam/Adobe/en/products/photoshop/pdfs/dng_spec_1.4.0.0.pdf)
 * [Цифровой негатив — Википедия](https://en.wikipedia.org/wiki/Digital_Negative)
 * [DNG — общедоступный архивный формат необработанных данных цифровых камер](https://helpx.adobe.com/photoshop/digital-negative.html)
 

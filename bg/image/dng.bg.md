@@ -88,7 +88,7 @@ DNG версия 1.4 октомври 2012 г. има следните разш�
 
 ## Препратки ##
 
-* [DNG спецификации – от Adobe](https://www.kronometric.org/phot/processing/DNG/dng_spec_1.4.0.0.pdf)
+* [DNG спецификации – от Adobe](https://web.archive.org/web/20170829200857/http://wwwimages.adobe.com/content/dam/Adobe/en/products/photoshop/pdfs/dng_spec_1.4.0.0.pdf)
 * [Цифров негатив - Уикипедия](https://en.wikipedia.org/wiki/Digital_Negative)
 * [DNG – публичният архивен формат за необработени данни от цифрова камера](https://helpx.adobe.com/photoshop/digital-negative.html)
 

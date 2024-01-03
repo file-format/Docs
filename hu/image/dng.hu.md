@@ -88,7 +88,7 @@ A DNG 2012. október 1.4-es verziója a következő speciális funkciókkal rend
 
 ## Referenciák ##
 
-* [DNG-specifikációk – Adobe](https://www.kronometric.org/phot/processing/DNG/dng_spec_1.4.0.0.pdf)
+* [DNG-specifikációk – Adobe](https://web.archive.org/web/20170829200857/http://wwwimages.adobe.com/content/dam/Adobe/en/products/photoshop/pdfs/dng_spec_1.4.0.0.pdf)
 * [Digitális negatív – Wikipédia](https://en.wikipedia.org/wiki/Digital_Negative)
 * [DNG – A digitális fényképezőgépek nyers adatainak nyilvános archív formátuma](https://helpx.adobe.com/photoshop/digital-negative.html)
 

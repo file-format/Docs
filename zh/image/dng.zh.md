@@ -88,7 +88,7 @@ DNG 版本 1.4 2012 年 10 月具有以下高级功能。
 
 ## 参考 ＃＃
 
-* [DNG 规范 - Adobe 提供](https://www.kronometric.org/phot/processing/DNG/dng_spec_1.4.0.0.pdf)
+* [DNG 规范 - Adobe 提供](https://web.archive.org/web/20170829200857/http://wwwimages.adobe.com/content/dam/Adobe/en/products/photoshop/pdfs/dng_spec_1.4.0.0.pdf)
 * [数字负片 - 维基百科](https://en.wikipedia.org/wiki/Digital_Negative)
 * [DNG - 数码相机原始数据的公共存档格式](https://helpx.adobe.com/photoshop/digital-negative.html)
 

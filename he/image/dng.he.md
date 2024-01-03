@@ -88,7 +88,7 @@ DNG גרסה 1.4 אוקטובר 2012 כוללת את התכונות המתקדמ
 
 ## הפניות ##
 
-* [מפרט DNG - מאת Adobe](https://www.kronometric.org/phot/processing/DNG/dng_spec_1.4.0.0.pdf)
+* [מפרט DNG - מאת Adobe](https://web.archive.org/web/20170829200857/http://wwwimages.adobe.com/content/dam/Adobe/en/products/photoshop/pdfs/dng_spec_1.4.0.0.pdf)
 * [שלילי דיגיטלי - ויקיפדיה](https://en.wikipedia.org/wiki/Digital_Negative)
 * [DNG - פורמט הארכיון הציבורי לנתונים גולמיים של מצלמה דיגיטלית](https://helpx.adobe.com/photoshop/digital-negative.html)
 

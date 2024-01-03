@@ -88,7 +88,7 @@ Wersja DNG 1.4 z października 2012 r. zawiera następujące zaawansowane funkcj
 
 ## Bibliografia ##
 
-* [Specyfikacje DNG — firma Adobe](https://www.kronometric.org/phot/processing/DNG/dng_spec_1.4.0.0.pdf)
+* [Specyfikacje DNG — firma Adobe](https://web.archive.org/web/20170829200857/http://wwwimages.adobe.com/content/dam/Adobe/en/products/photoshop/pdfs/dng_spec_1.4.0.0.pdf)
 * [Cyfrowy negatyw – Wikipedia](https://en.wikipedia.org/wiki/Digital_Negative)
 * [DNG — publiczny format archiwalny nieprzetworzonych danych z aparatu cyfrowego](https://helpx.adobe.com/photoshop/digital-negative.html)
 

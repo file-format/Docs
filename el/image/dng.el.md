@@ -88,7 +88,7 @@ DNG Έκδοση 1.4 Οκτωβρίου 2012 έχει τις ακόλουθες 
 
 ## Βιβλιογραφικές αναφορές ##
 
-* [Προδιαγραφές DNG - By Adobe](https://www.kronometric.org/phot/processing/DNG/dng_spec_1.4.0.0.pdf)
+* [Προδιαγραφές DNG - By Adobe](https://web.archive.org/web/20170829200857/http://wwwimages.adobe.com/content/dam/Adobe/en/products/photoshop/pdfs/dng_spec_1.4.0.0.pdf)
 * [Digital Negative - Wikipedia](https://en.wikipedia.org/wiki/Digital_Negative)
 * [DNG - Η δημόσια μορφή αρχείου για ακατέργαστα δεδομένα ψηφιακής φωτογραφικής μηχανής](https://helpx.adobe.com/photoshop/digital-negative.html)
 

@@ -88,7 +88,7 @@ Verze DNG 1.4 Říjen 2012 má následující pokročilé funkce.
 
 ## Reference ##
 
-* [Specifikace DNG – od společnosti Adobe](https://www.kronometric.org/phot/processing/DNG/dng_spec_1.4.0.0.pdf)
+* [Specifikace DNG – od společnosti Adobe](https://web.archive.org/web/20170829200857/http://wwwimages.adobe.com/content/dam/Adobe/en/products/photoshop/pdfs/dng_spec_1.4.0.0.pdf)
 * [Digital Negative – Wikipedia](https://en.wikipedia.org/wiki/Digital_Negative)
 * [DNG – Veřejný archivní formát pro nezpracovaná data z digitálního fotoaparátu](https://helpx.adobe.com/photoshop/digital-negative.html)
 
