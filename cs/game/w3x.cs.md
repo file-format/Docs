@@ -44,10 +44,10 @@ Jakmile dokončíte vytváření nebo úpravu souboru W3X, můžete jej uložit 
 
 ## Specifikace formátu souboru W3X
 
-Formát souboru W3X je proprietární binární formát a jeho podrobnosti nejsou veřejně dostupné. Některé specifikace týkající se jeho vnitřního formátu však můžete najít na [tento odkaz] (http://www.wc3-project.ag.vu/w3m-specs.html).
+Formát souboru W3X je proprietární binární formát a jeho podrobnosti nejsou veřejně dostupné. Některé specifikace týkající se jeho vnitřního formátu však můžete najít na [tento odkaz](http://www.wc3-project.ag.vu/w3m-specs.html).
 
 
 ## Reference
-* [Specifikace W3X souborů map Warcraft III] (http://www.wc3-project.ag.vu/w3m-specs.html)
+* [Specifikace W3X souborů map Warcraft III](http://www.wc3-project.ag.vu/w3m-specs.html)
 
 

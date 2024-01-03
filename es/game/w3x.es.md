@@ -44,7 +44,7 @@ Una vez que haya terminado de crear o editar un archivo W3X, puede guardarlo y c
 
 ## Especificación del formato de archivo W3X
 
-El formato de archivo W3X es un formato binario propietario y sus detalles no están disponibles públicamente. Sin embargo, puede encontrar algunas especificaciones relacionadas con su formato interno en [este enlace] (http://www.wc3-project.ag.vu/w3m-specs.html).
+El formato de archivo W3X es un formato binario propietario y sus detalles no están disponibles públicamente. Sin embargo, puede encontrar algunas especificaciones relacionadas con su formato interno en [este enlace](http://www.wc3-project.ag.vu/w3m-specs.html).
 
 
 ## Referencias
