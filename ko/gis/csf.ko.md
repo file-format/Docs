@@ -27,6 +27,5 @@ CSF 파일은 지리 좌표계의 세부 정보가 포함된 텍스트 파일로
 
 ## 참고자료
 
-* [Shapefile 데이터를 GeoMedia에 올바르게 표시하거나 제공하려면 어떻게 해야 합니까?
-](https://supportsi.hexagon.com/help/s/article/How-do-you-corrightly-display-or-serve-shapefile-data-into?언어=en_US)
+* [Shapefile 데이터를 GeoMedia에 올바르게 표시하거나 제공하려면 어떻게 해야 합니까?](https://supportsi.hexagon.com/help/s/article/How-do-you-correctly-display-or-serve-shapefile-data-into?language=en_US)
 

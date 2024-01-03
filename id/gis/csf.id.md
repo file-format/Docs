@@ -29,6 +29,5 @@ File CSF disimpan sebagai file teks dengan rincian sistem koordinat geografis. G
 
 ## Referensi
 
-* [Bagaimana cara menampilkan atau menyajikan data shapefile ke GeoMedia dengan benar?
-](https://supportsi.hexagon.com/help/s/article/Bagaimana-Anda-dengan benar-menampilkan-atau-melayani-shapefile-data-into?bahasa=en_US)
+* [Bagaimana cara menampilkan atau menyajikan data shapefile ke GeoMedia dengan benar?](https://supportsi.hexagon.com/help/s/article/How-do-you-correctly-display-or-serve-shapefile-data-into?language=en_US)
 

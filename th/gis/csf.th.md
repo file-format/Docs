@@ -27,6 +27,5 @@
 
 ## อ้างอิง
 
-* [คุณแสดงหรือให้บริการข้อมูลเชปไฟล์ใน GeoMedia อย่างถูกต้องได้อย่างไร?
-](https://supportsi.hexagon.com/help/s/article/How-do-you-correctly-display-or-serve-shapefile-data-into? language=en_US)
+* [คุณแสดงหรือให้บริการข้อมูลเชปไฟล์ใน GeoMedia อย่างถูกต้องได้อย่างไร?](https://supportsi.hexagon.com/help/s/article/How-do-you-correctly-display-or-serve-shapefile-data-into?language=en_US)
 

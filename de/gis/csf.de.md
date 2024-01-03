@@ -27,6 +27,5 @@ CSF-Dateien werden als Textdatei mit Angaben zum geografischen Koordinatensystem
 
 ## Verweise
 
-* [Wie werden Shapefile-Daten korrekt in GeoMedia angezeigt oder bereitgestellt?
-](https://supportsi.hexagon.com/help/s/article/How-do-you-correctly-display-or-serve-shapefile-data-into? language=en_US)
+* [Wie werden Shapefile-Daten korrekt in GeoMedia angezeigt oder bereitgestellt?](https://supportsi.hexagon.com/help/s/article/How-do-you-correctly-display-or-serve-shapefile-data-into?language=en_US)
 

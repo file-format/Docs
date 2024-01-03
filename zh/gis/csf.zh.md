@@ -27,6 +27,5 @@ CSF 文件存储为文本文件，其中包含地理坐标系的详细信息。 
 
 ## 参考
 
-* [如何正确地将 shapefile 数据显示或提供到 GeoMedia 中？
-](https://supportsi.hexagon.com/help/s/article/How-do-you- Correctly-display-or-serve-shapefile-data-into?language=en_US)
+* [如何正确地将 shapefile 数据显示或提供到 GeoMedia 中？](https://supportsi.hexagon.com/help/s/article/How-do-you-correctly-display-or-serve-shapefile-data-into?language=en_US)
 

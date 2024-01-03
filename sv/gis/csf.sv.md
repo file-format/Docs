@@ -27,6 +27,5 @@ CSF-filer lagras som textfiler med detaljer om det geografiska koordinatsystemet
 
 ## Referenser
 
-* [Hur visar eller serverar du shapefile-data korrekt i GeoMedia?
-](https://supportsi.hexagon.com/help/s/article/How-do-you-correctly-display-or-serve-shapefile-data-into?language=en_US)
+* [Hur visar eller serverar du shapefile-data korrekt i GeoMedia?](https://supportsi.hexagon.com/help/s/article/How-do-you-correctly-display-or-serve-shapefile-data-into?language=en_US)
 

@@ -27,6 +27,5 @@ CSF файловете се съхраняват като текстов фай�
 
 ## Препратки
 
-* [Как правилно показвате или подавате данни от шейпфайл в GeoMedia?
-](https://supportsi.hexagon.com/help/s/article/How-do-you-correctly-display-or-serve-shapefile-data-into?language=en_US)
+* [Как правилно показвате или подавате данни от шейпфайл в GeoMedia?](https://supportsi.hexagon.com/help/s/article/How-do-you-correctly-display-or-serve-shapefile-data-into?language=en_US)
 

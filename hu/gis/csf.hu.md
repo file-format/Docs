@@ -27,6 +27,5 @@ A CSF-fájlok szöveges fájlként kerülnek tárolásra a földrajzi koordinát
 
 ## Hivatkozások
 
-* [Hogyan jeleníti meg vagy szolgálja ki helyesen a shapefile adatokat a GeoMediában?
-](https://supportsi.hexagon.com/help/s/article/How-do-you-correctly-display-or-serve-shapefile-data-into?language=en_US)
+* [Hogyan jeleníti meg vagy szolgálja ki helyesen a shapefile adatokat a GeoMediában?](https://supportsi.hexagon.com/help/s/article/How-do-you-correctly-display-or-serve-shapefile-data-into?language=en_US)
 

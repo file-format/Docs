@@ -27,5 +27,4 @@ CSF files are stored as text file with details of the geographic coordinate syst
 
 ## References
 
-* [How do you correctly display or serve shapefile data into GeoMedia?
-](https://supportsi.hexagon.com/help/s/article/How-do-you-correctly-display-or-serve-shapefile-data-into?language=en_US)
+* [How do you correctly display or serve shapefile data into GeoMedia?](https://supportsi.hexagon.com/help/s/article/How-do-you-correctly-display-or-serve-shapefile-data-into?language=en_US)

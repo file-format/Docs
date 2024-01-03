@@ -27,6 +27,5 @@
 
 ## βιβλιογραφικές αναφορές
 
-* [Πώς εμφανίζετε ή προβάλλετε σωστά δεδομένα αρχείου σχήματος στο GeoMedia;
-](https://supportsi.hexagon.com/help/s/article/How-do-you-correctly-display-or-serve-shapefile-data-into?language=en_US)
+* [Πώς εμφανίζετε ή προβάλλετε σωστά δεδομένα αρχείου σχήματος στο GeoMedia;](https://supportsi.hexagon.com/help/s/article/How-do-you-correctly-display-or-serve-shapefile-data-into?language=en_US)
 

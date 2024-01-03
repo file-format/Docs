@@ -27,6 +27,5 @@
 
 ## مراجع
 
-* [كيف يمكنك عرض أو تقديم بيانات ملف الشكل بشكل صحيح في GeoMedia؟
-](https://supportsi.hexagon.com/help/s/article/How-do-you-correctly-display-or-serve-shapefile-data-into?language=en_US)
+* [كيف يمكنك عرض أو تقديم بيانات ملف الشكل بشكل صحيح في GeoMedia؟](https://supportsi.hexagon.com/help/s/article/How-do-you-correctly-display-or-serve-shapefile-data-into?language=en_US)
 

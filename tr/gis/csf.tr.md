@@ -27,6 +27,5 @@ CSF dosyaları, coğrafi koordinat sisteminin ayrıntılarını içeren metin do
 
 ## Referanslar
 
-* [Şekil dosyası verilerini GeoMedia'da doğru şekilde nasıl görüntülersiniz veya sunarsınız?
-](https://supportsi.hexagon.com/help/s/article/How-do-you-correctly-display-or-serve-shapefile-data-into?language=en_US)
+* [Şekil dosyası verilerini GeoMedia'da doğru şekilde nasıl görüntülersiniz veya sunarsınız?](https://supportsi.hexagon.com/help/s/article/How-do-you-correctly-display-or-serve-shapefile-data-into?language=en_US)
 
