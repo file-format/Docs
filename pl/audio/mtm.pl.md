@@ -53,5 +53,5 @@ Aby otworzyć plik MTM (moduł MultiTracker), potrzebny będzie odtwarzacz multi
 2. Winamp: Winamp to kolejny odtwarzacz multimedialny obsługujący pliki MTM, a także wiele innych formatów plików audio. Możesz pobrać i zainstalować odtwarzacz na swoim komputerze, a następnie skorzystać z opcji "Otwórz", aby wyszukać i otworzyć plik MTM.
 
 ## Bibliografia
-* [Plik modułu](https://en.wikipedia.org/wiki/plik_modułu)
+* [Plik modułu](https://en.wikipedia.org/wiki/Module_file)
 

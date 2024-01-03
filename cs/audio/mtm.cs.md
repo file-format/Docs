@@ -53,5 +53,5 @@ K otevření souboru MTM (MultiTracker Module) budete potřebovat přehrávač m
 2. Winamp: Winamp je další přehrávač médií, který podporuje soubory MTM a mnoho dalších formátů zvukových souborů. Přehrávač si můžete stáhnout a nainstalovat do počítače a poté použít možnost „Otevřít“ k procházení a otevření souboru MTM.
 
 ## Reference
-* [Soubor modulu](https://en.wikipedia.org/wiki/Soubor_modulu)
+* [Soubor modulu](https://en.wikipedia.org/wiki/Module_file)
 
