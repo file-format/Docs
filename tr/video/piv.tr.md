@@ -57,5 +57,5 @@ Pivot Animator'da bir .piv dosyasını açmak için şu adımları izleyin:
 7. Artık animasyonu düzenleyebilir veya "Oynat" > "Animasyonu Oynat"ı seçerek oynatabilirsiniz.
 
 ## Referanslar
-* [PIV - Animasyonları Kaydetme ve Açma](https://pivotanimator.net/help4-2/tained___opening_animations.htm)
+* [PIV - Animasyonları Kaydetme ve Açma](https://pivotanimator.net/help4-2/saving___opening_animations.htm)
 

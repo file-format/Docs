@@ -57,5 +57,5 @@ Pour ouvrir un fichier .piv dans Pivot Animator, procédez comme suit :
 7. Vous pouvez maintenant modifier l'animation ou la lire en sélectionnant « Lecture » > « Lire l'animation ».
 
 ## Les références
-* [PIV - Sauvegarde et ouverture des animations](https://pivotanimator.net/help4-2/ saving___opening_animations.htm)
+* [PIV - Sauvegarde et ouverture des animations](https://pivotanimator.net/help4-2/saving___opening_animations.htm)
 

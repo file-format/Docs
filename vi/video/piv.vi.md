@@ -57,5 +57,5 @@ Pivot Animator là một ứng dụng phần mềm miễn phí cho phép ngườ
 7. Bây giờ bạn có thể chỉnh sửa hoạt ảnh hoặc phát hoạt ảnh đó bằng cách chọn "Play"> "Play Animation".
 
 ## Người giới thiệu
-* [PIV - Lưu và mở ảnh động](https://pivotanimator.net/help4-2/ Saving___opening_animations.htm)
+* [PIV - Lưu và mở ảnh động](https://pivotanimator.net/help4-2/saving___opening_animations.htm)
 

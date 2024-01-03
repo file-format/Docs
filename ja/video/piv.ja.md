@@ -57,5 +57,5 @@ Pivot Animator で .piv ファイルを開くには、次の手順に従いま�
 7. [再生] > [アニメーションの再生] を選択すると、アニメーションを編集したり、再生したりできるようになります。
 
 ## 参考文献
-* [PIV - アニメーションの保存と開く](https://pivotanimator.net/help4-2/ Saving___opening_animations.htm)
+* [PIV - アニメーションの保存と開く](https://pivotanimator.net/help4-2/saving___opening_animations.htm)
 

@@ -57,5 +57,5 @@ Untuk membuka file .piv di Pivot Animator, ikuti langkah-langkah berikut:
 7. Kini Anda dapat mengedit animasi atau memutarnya dengan memilih "Mainkan" > "Mainkan Animasi".
 
 ## Referensi
-* [PIV - Menyimpan & Membuka Animasi](https://pivotanimator.net/help4-2/ saving___opening_animations.htm)
+* [PIV - Menyimpan & Membuka Animasi](https://pivotanimator.net/help4-2/saving___opening_animations.htm)
 

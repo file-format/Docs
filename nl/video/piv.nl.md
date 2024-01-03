@@ -57,5 +57,5 @@ Volg deze stappen om een .piv-bestand in Pivot Animator te openen:
 7. U kunt de animatie nu bewerken of afspelen door 'Afspelen' > 'Animatie afspelen' te selecteren.
 
 ## Referenties
-* [PIV - Animaties opslaan en openen](https://pivotanimator.net/help4-2/ saving___opening_animations.htm)
+* [PIV - Animaties opslaan en openen](https://pivotanimator.net/help4-2/saving___opening_animations.htm)
 
