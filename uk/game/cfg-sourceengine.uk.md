@@ -116,5 +116,5 @@ Valve Source Engine, який часто називають просто **Sourc
 - [CFG - Файл конфігурації моделі Cal3D](/uk/misc/cfg-cal3d/)
 
 ## Список літератури
-* [Джерело (ігровий движок)](https://en.wikipedia.org/wiki/Source_(ігровий движок))
+* [Джерело (ігровий движок)](https://en.wikipedia.org/wiki/Source_(game_engine))
 
