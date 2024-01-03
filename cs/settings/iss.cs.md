@@ -41,7 +41,7 @@ Soubory ISS lze použít k určení umístění instalace programu, souborů k i
 
 Chcete-li otevřít soubor ISS (Inno Setup Script), budete muset mít na svém počítači nainstalovaný Inno Setup Compiler. Zde jsou kroky k otevření souboru ISS:
 
-1. Stáhněte a nainstalujte Inno Setup Compiler z [oficiální webové stránky] (https://jrsoftware.org/isdl.php).
+1. Stáhněte a nainstalujte Inno Setup Compiler z [oficiální webové stránky](https://jrsoftware.org/isdl.php).
 2. Jakmile nainstalujete kompilátor, přejděte do adresáře, kde je umístěn váš soubor ISS.
 3. Klikněte pravým tlačítkem na soubor ISS a z kontextové nabídky vyberte „Upravit“. Případně můžete dvakrát kliknout na soubor ISS a otevřít jej ve výchozím textovém editoru.
 4. Soubor ISS se otevře v textovém editoru, jako je Notepad nebo Notepad++. Nyní můžete skript zobrazit a upravit podle potřeby.
@@ -56,5 +56,5 @@ Chcete-li zkompilovat soubor ISS
 3. Kliknutím na tlačítko "Compile" vygenerujete spustitelný instalační soubor.
 
 ## Reference
-* [Inno Setup Software] (https://jrsoftware.org/isdl.php)
+* [Inno Setup Software](https://jrsoftware.org/isdl.php)
 

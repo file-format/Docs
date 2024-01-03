@@ -41,7 +41,7 @@ ISS 文件可用于指定程序的安装位置,要安装的文件,要创建的�
 
 要打开 ISS（Inno Setup 脚本）文件,您需要在计算机上安装 Inno Setup 编译器。以下是打开 ISS 文件的步骤：
 
-1. 从【官方网站】(https://jrsoftware.org/isdl.php)下载并安装Inno Setup Compiler。
+1. 从[官方网站](https://jrsoftware.org/isdl.php)下载并安装Inno Setup Compiler。
 2. 安装编译器后,导航到 ISS 文件所在的目录。
 3. 右键单击 ISS 文件,然后从上下文菜单中选择"编辑"。或者,您可以双击 ISS 文件以在默认文本编辑器中打开它。
 4. ISS 文件将在文本编辑器（例如 Notepad 或 Notepad++）中打开。您现在可以根据需要查看和编辑脚本。
