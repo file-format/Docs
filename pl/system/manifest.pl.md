@@ -43,5 +43,5 @@ Plik manifestu XML może być zawarty w pakiecie aplikacji lub jako oddzielny pl
 Na przykład w Microsoft .NET Framework plik manifestu XML jest używany do opisu zależności i informacji o wersji aplikacji i zwykle jest dołączany jako część zestawu aplikacji. Plik jest używany przez środowisko uruchomieniowe języka wspólnego (CLR) w celu określenia prawidłowych wersji zestawów do załadowania i zapewnienia prawidłowego działania aplikacji.
 
 ## Bibliografia
-* [Plik manifestu](https://en.wikipedia.org/wiki/plik_manifestu)
+* [Plik manifestu](https://en.wikipedia.org/wiki/Manifest_file)
 
