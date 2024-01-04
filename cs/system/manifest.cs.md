@@ -43,5 +43,5 @@ Soubor XML manifestu může být součástí balíčku aplikace nebo jako samost
 Například v Microsoft .NET Framework se soubor XML manifestu používá k popisu závislostí a informací o verzi aplikace a obvykle je součástí sestavení aplikace. Soubor používá modul Common Language Runtime (CLR) k určení správných verzí sestavení k načtení a k zajištění správného běhu aplikace.
 
 ## Reference
-* [soubor manifestu](https://en.wikipedia.org/wiki/soubor_manifestu)
+* [soubor manifestu](https://en.wikipedia.org/wiki/Manifest_file)
 

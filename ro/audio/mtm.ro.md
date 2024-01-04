@@ -53,5 +53,5 @@ Pentru a deschide un fișier MTM (MultiTracker Module), veți avea nevoie de un 
 2. Winamp: Winamp este un alt media player care acceptă fișiere MTM, precum și multe alte formate de fișiere audio. Puteți descărca și instala playerul pe computer și apoi utilizați opțiunea "Deschidere" pentru a căuta și a deschide fișierul MTM.
 
 ## Referințe
-* [Fișier modul](https://en.wikipedia.org/wiki/Fișier_modul)
+* [Fișier modul](https://en.wikipedia.org/wiki/Module_file)
 

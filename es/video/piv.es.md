@@ -57,5 +57,5 @@ Para abrir un archivo .piv en Pivot Animator, siga estos pasos:
 7. Ahora puedes editar la animación o reproducirla seleccionando "Reproducir" > "Reproducir animación".
 
 ## Referencias
-* [PIV - Guardar y abrir animaciones](https://pivotanimator.net/help4-2/served___opening_animations.htm)
+* [PIV - Guardar y abrir animaciones](https://pivotanimator.net/help4-2/saving___opening_animations.htm)
 

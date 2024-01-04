@@ -27,6 +27,5 @@
 
 ## Список літератури
 
-* [Як правильно відобразити або надати дані шейп-файлу в GeoMedia?
-](https://supportsi.hexagon.com/help/s/article/How-do-you-correctly-display-or-serve-shapefile-data-into?language=en_US)
+* [Як правильно відобразити або надати дані шейп-файлу в GeoMedia?](https://supportsi.hexagon.com/help/s/article/How-do-you-correctly-display-or-serve-shapefile-data-into?language=en_US)
 

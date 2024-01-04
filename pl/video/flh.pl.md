@@ -42,5 +42,5 @@ Programy otwierające pliki FLH obejmują
 -IrfanView
 
 ## Bibliografia
-* [FLIC (format pliku)](https://en.wikipedia.org/wiki/FLIC_(format_pliku))
+* [FLIC (format pliku)](https://en.wikipedia.org/wiki/FLIC_(file_format))
 

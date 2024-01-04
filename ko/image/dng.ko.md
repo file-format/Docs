@@ -88,7 +88,7 @@ DNG 버전 1.4 2012년 10월에는 다음과 같은 고급 기능이 있습니�
 
 ## 참조 ##
 
-* [DNG 사양 - Adobe 제공](https://www.kronometric.org/phot/processing/DNG/dng_spec_1.4.0.0.pdf)
+* [DNG 사양 - Adobe 제공](https://web.archive.org/web/20170829200857/http://wwwimages.adobe.com/content/dam/Adobe/en/products/photoshop/pdfs/dng_spec_1.4.0.0.pdf)
 * [디지털 네거티브 - 위키피디아](https://en.wikipedia.org/wiki/Digital_Negative)
 * [DNG - 디지털 카메라 원시 데이터의 공개 보관 형식](https://helpx.adobe.com/photoshop/digital-negative.html)
 

@@ -44,7 +44,7 @@ Po zakończeniu tworzenia lub edytowania pliku W3X możesz go zapisać i udostę
 
 ## Specyfikacja formatu pliku W3X
 
-Format pliku W3X jest zastrzeżonym formatem binarnym i jego szczegóły nie są publicznie dostępne. Jednakże specyfikację dotyczącą jego wewnętrznego formatu można znaleźć pod [tym linkiem] (http://www.wc3-project.ag.vu/w3m-specs.html).
+Format pliku W3X jest zastrzeżonym formatem binarnym i jego szczegóły nie są publicznie dostępne. Jednakże specyfikację dotyczącą jego wewnętrznego formatu można znaleźć pod [tym linkiem](http://www.wc3-project.ag.vu/w3m-specs.html).
 
 
 ## Bibliografia

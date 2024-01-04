@@ -88,7 +88,7 @@ O DNG Versão 1.4 de outubro de 2012 possui os seguintes recursos avançados.
 
 ## Referências ##
 
-* [Especificações DNG - Por Adobe](https://www.kronometric.org/phot/processing/DNG/dng_spec_1.4.0.0.pdf)
+* [Especificações DNG - Por Adobe](https://web.archive.org/web/20170829200857/http://wwwimages.adobe.com/content/dam/Adobe/en/products/photoshop/pdfs/dng_spec_1.4.0.0.pdf)
 * [Digital Negative - Wikipedia](https://en.wikipedia.org/wiki/Digital_Negative)
 * [DNG - O formato de arquivo público para dados brutos de câmeras digitais](https://helpx.adobe.com/photoshop/digital-negative.html)
 

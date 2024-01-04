@@ -41,7 +41,7 @@ Los archivos ISS se pueden utilizar para especificar la ubicación de instalaci�
 
 Para abrir un archivo ISS (Inno Setup Script), necesitará tener instalado el compilador Inno Setup en su computadora. Estos son los pasos para abrir un archivo ISS:
 
-1. Descargue e instale el compilador Inno Setup desde el [sitio web oficial] (https://jrsoftware.org/isdl.php).
+1. Descargue e instale el compilador Inno Setup desde el [sitio web oficial](https://jrsoftware.org/isdl.php).
 2. Una vez que haya instalado el compilador, navegue hasta el directorio donde se encuentra su archivo ISS.
 3. Haga clic derecho en el archivo ISS y seleccione "Editar" en el menú contextual. Alternativamente, puede hacer doble clic en el archivo ISS para abrirlo en su editor de texto predeterminado.
 4. El archivo ISS se abrirá en un editor de texto, como Notepad o Notepad++. Ahora puede ver y editar el script según sea necesario.

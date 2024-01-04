@@ -88,7 +88,7 @@ DNG バージョン 1.4 2012 年 10 月には、次の高度な機能が含ま�
 
 ## 参照 ##
 
-* [DNG 仕様 - Adobe による](https://www.kronometric.org/phot/processing/DNG/dng_spec_1.4.0.0.pdf)
+* [DNG 仕様 - Adobe による](https://web.archive.org/web/20170829200857/http://wwwimages.adobe.com/content/dam/Adobe/en/products/photoshop/pdfs/dng_spec_1.4.0.0.pdf)
 * [デジタル ネガティブ - ウィキペディア](https://en.wikipedia.org/wiki/Digital_Negative)
 * [DNG - デジタル カメラの RAW データのパブリック アーカイブ形式](https://helpx.adobe.com/photoshop/digital-negative.html)
 

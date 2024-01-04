@@ -27,6 +27,5 @@ Les fichiers CSF sont stockés sous forme de fichier texte avec les détails du 
 
 ## Les références
 
-* [Comment afficher ou diffuser correctement les données de fichiers de formes dans GeoMedia ?
-](https://supportsi.hexagon.com/help/s/article/How-do-you-correctly-display-or-serve-shapefile-data-into?lingual=en_US)
+* [Comment afficher ou diffuser correctement les données de fichiers de formes dans GeoMedia ?](https://supportsi.hexagon.com/help/s/article/How-do-you-correctly-display-or-serve-shapefile-data-into?language=en_US)
 

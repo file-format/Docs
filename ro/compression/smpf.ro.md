@@ -45,5 +45,5 @@ Imaginile sprite sunt utilizate în mod obișnuit în diverse aplicații, inclus
 Sprite-urile sunt de obicei stocate ca fișiere imagine separate, cum ar fi PNG, JPEG sau GIF și sunt adesea organizate în foi de sprite, care sunt imagini unice care conțin mai multe cadre de sprite aranjate într-o grilă. Aceste foi de sprite ajută la optimizarea utilizării memoriei și facilitează redarea eficientă a mai multor sprite simultan.
 
 ## Referințe
-* [Sprite (grafică pe computer)](https://en.wikipedia.org/wiki/Sprite_(grafică_computer))
+* [Sprite (grafică pe computer)](https://en.wikipedia.org/wiki/Sprite_(computer_graphics))
 

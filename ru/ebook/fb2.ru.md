@@ -28,5 +28,5 @@
 ## Использованная литература ##
 
 * [FB2 — Википедия](https://en.wikipedia.org/wiki/FictionBook)
-* [Технические характеристики FictionBook](http://gribuser.ru/xml/fictionbook/index.html.ru)
+* [Технические характеристики FictionBook](http://gribuser.ru/xml/fictionbook/index.html.en)
 

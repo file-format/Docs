@@ -27,6 +27,5 @@ CSF ファイルは、地理座標系の詳細を含むテキスト ファイル
 
 ## 参考文献
 
-* [シェープファイル データを GeoMedia に正しく表示または提供するにはどうすればよいですか?
-](https://supportsi.hexagon.com/help/s/article/How-do-you-correctly-display-or-serve-shapefile-data-into? language=en_US)
+* [シェープファイル データを GeoMedia に正しく表示または提供するにはどうすればよいですか?](https://supportsi.hexagon.com/help/s/article/How-do-you-correctly-display-or-serve-shapefile-data-into?language=en_US)
 

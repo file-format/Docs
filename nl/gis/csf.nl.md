@@ -27,6 +27,5 @@ CSF-bestanden worden opgeslagen als tekstbestand met details van het geografisch
 
 ## Referenties
 
-* [Hoe geeft u shapefile-gegevens correct weer in GeoMedia?
-](https://supportsi.hexagon.com/help/s/article/How-do-you-correctly-display-or-serve-shapefile-data-into?lingual=en_US)
+* [Hoe geeft u shapefile-gegevens correct weer in GeoMedia?](https://supportsi.hexagon.com/help/s/article/How-do-you-correctly-display-or-serve-shapefile-data-into?language=en_US)
 

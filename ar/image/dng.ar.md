@@ -88,7 +88,7 @@ DNG هو تنسيق صورة كاميرا رقمية يستخدم لتخزين �
 
 ## مراجع ##
 
-* [مواصفات DNG - بواسطة Adobe](https://www.kronometric.org/phot/processing/DNG/dng_spec_1.4.0.0.pdf)
+* [مواصفات DNG - بواسطة Adobe](https://web.archive.org/web/20170829200857/http://wwwimages.adobe.com/content/dam/Adobe/en/products/photoshop/pdfs/dng_spec_1.4.0.0.pdf)
 * [Digital Negative - Wikipedia](https://en.wikipedia.org/wiki/Digital_Negative)
 * [DNG - تنسيق الأرشيف العام للبيانات الأولية للكاميرا الرقمية](https://helpx.adobe.com/camera-raw/digital-negative.html)
 

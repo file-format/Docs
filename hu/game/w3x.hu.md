@@ -44,7 +44,7 @@ Miután befejezte a W3X fájl létrehozását vagy szerkesztését, elmentheti �
 
 ## W3X Fájlformátum specifikáció
 
-A W3X fájlformátum egy szabadalmaztatott bináris formátum, és részletei nem nyilvánosak. A belső formátumra vonatkozó specifikációkat azonban [erről a linkről] (http://www.wc3-project.ag.vu/w3m-specs.html) találhat.
+A W3X fájlformátum egy szabadalmaztatott bináris formátum, és részletei nem nyilvánosak. A belső formátumra vonatkozó specifikációkat azonban [erről a linkről](http://www.wc3-project.ag.vu/w3m-specs.html) találhat.
 
 
 ## Hivatkozások

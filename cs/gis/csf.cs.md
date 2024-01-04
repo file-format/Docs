@@ -27,6 +27,5 @@ Soubory CSF jsou uloženy jako textový soubor s podrobnostmi o geografickém so
 
 ## Reference
 
-* [Jak správně zobrazujete nebo poskytujete data shapefile do GeoMedia?
-](https://supportsi.hexagon.com/help/s/article/How-do-you-correctly-display-or-serve-shapefile-data-into?language=en_US)
+* [Jak správně zobrazujete nebo poskytujete data shapefile do GeoMedia?](https://supportsi.hexagon.com/help/s/article/How-do-you-correctly-display-or-serve-shapefile-data-into?language=en_US)
 

@@ -57,5 +57,5 @@ Pivot Animator هو تطبيق مجاني يسمح للمستخدمين بإنش
 7. يمكنك الآن تعديل الرسوم المتحركة أو تشغيلها عن طريق تحديد "تشغيل" > "تشغيل الرسوم المتحركة".
 
 ## مراجع
-* [PIV - حفظ الرسوم المتحركة وفتحها](https://pivotanimator.net/help4-2/ Saving___opening_animations.htm)
+* [PIV - حفظ الرسوم المتحركة وفتحها](https://pivotanimator.net/help4-2/saving___opening_animations.htm)
 

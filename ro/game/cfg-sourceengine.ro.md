@@ -116,5 +116,5 @@ Iată și alte tipuri de fișiere care folosesc extensia de fișier **.cfg**.
 - [CFG - Fișier de configurare a modelului Cal3D](/ro/misc/cfg-cal3d/)
 
 ## Referințe
-* [Sursa (motor de joc)](https://en.wikipedia.org/wiki/Source_(motor_de_game))
+* [Sursa (motor de joc)](https://en.wikipedia.org/wiki/Source_(game_engine))
 

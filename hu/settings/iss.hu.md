@@ -41,7 +41,7 @@ Az ISS fájlok segítségével megadható a program telepítési helye, a telep�
 
 ISS (Inno Setup Script) fájl megnyitásához telepítenie kell az Inno Setup Compiler programot a számítógépére. Íme az ISS fájl megnyitásának lépései:
 
-1. Töltse le és telepítse az Inno Setup Compiler programot a [hivatalos webhelyről] (https://jrsoftware.org/isdl.php).
+1. Töltse le és telepítse az Inno Setup Compiler programot a [hivatalos webhelyről](https://jrsoftware.org/isdl.php).
 2. Miután telepítette a fordítót, navigáljon abba a könyvtárba, ahol az ISS-fájlja található.
 3. Kattintson a jobb gombbal az ISS fájlra, és válassza a "Szerkesztés" menüpontot a helyi menüből. Alternatív megoldásként kattintson duplán az ISS fájlra, hogy megnyissa az alapértelmezett szövegszerkesztőben.
 4. Az ISS-fájl megnyílik egy szövegszerkesztőben, például a Jegyzettömbben vagy a Notepad++-ban. Mostantól szükség szerint megtekintheti és szerkesztheti a szkriptet.

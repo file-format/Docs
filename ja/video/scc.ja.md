@@ -51,5 +51,5 @@ SCCファイルを開いたり参照したりするプログラムは次のと�
 - テレストリーム スクリーンフロー
 
 ## 参考文献
-* [ScreenFlow](https://ja.wikipedia.org/wiki/ScreenFlow)
+* [ScreenFlow](https://en.wikipedia.org/wiki/ScreenFlow)
 

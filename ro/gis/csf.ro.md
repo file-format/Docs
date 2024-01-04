@@ -27,6 +27,5 @@ Fișierele CSF sunt stocate ca fișier text cu detalii ale sistemului de coordon
 
 ## Referințe
 
-* [Cum afișați sau serviți corect datele shapefile în GeoMedia?
-](https://supportsi.hexagon.com/help/s/article/How-do-you-correctly-display-or-serve-shapefile-data-into?language=en_US)
+* [Cum afișați sau serviți corect datele shapefile în GeoMedia?](https://supportsi.hexagon.com/help/s/article/How-do-you-correctly-display-or-serve-shapefile-data-into?language=en_US)
 

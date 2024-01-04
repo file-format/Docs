@@ -27,6 +27,5 @@ Các tệp CSF được lưu trữ dưới dạng tệp văn bản với các ch
 
 ## Người giới thiệu
 
-* [Làm cách nào để bạn hiển thị hoặc cung cấp chính xác dữ liệu shapefile vào GeoMedia?
-](https://supportsi.hexagon.com/help/s/article/How-do-you-c chính xác-display-or-serve-shapefile-data-into?lingu=en_US)
+* [Làm cách nào để bạn hiển thị hoặc cung cấp chính xác dữ liệu shapefile vào GeoMedia?](https://supportsi.hexagon.com/help/s/article/How-do-you-correctly-display-or-serve-shapefile-data-into?language=en_US)
 

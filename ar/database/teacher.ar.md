@@ -27,5 +27,5 @@
 ## مراجع
 
 * [تعليم التكنولوجيا الذكية](https://www.smarttech.com/en/education)
-* [نظام الاستجابة الذكية - مركز التدريب](https://downloads.smarttech.com/media/trainingcenter/qrsresspsettingup.pdf)
+* [نظام الاستجابة الذكية - مركز التدريب](https://downloads.smarttech.com/media/trainingcenter/qrsrespsettingup.pdf)
 

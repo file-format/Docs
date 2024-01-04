@@ -88,7 +88,7 @@ DNG Sürüm 1.4 Ekim 2012, aşağıdaki gelişmiş özelliklere sahiptir.
 
 ## Referanslar ##
 
-* [DNG Spesifikasyonları - Adobe Tarafından](https://www.kronometric.org/phot/processing/DNG/dng_spec_1.4.0.0.pdf)
+* [DNG Spesifikasyonları - Adobe Tarafından](https://web.archive.org/web/20170829200857/http://wwwimages.adobe.com/content/dam/Adobe/en/products/photoshop/pdfs/dng_spec_1.4.0.0.pdf)
 * [Dijital Negatif - Wikipedia](https://en.wikipedia.org/wiki/Digital_Negative)
 * [DNG - Dijital kamera ham verileri için genel arşiv formatı](https://helpx.adobe.com/photoshop/digital-negative.html)
 

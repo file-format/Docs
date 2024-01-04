@@ -45,5 +45,5 @@ Obrazy Sprite są powszechnie używane w różnych aplikacjach, w tym w grach wi
 Duszki są zwykle przechowywane jako osobne pliki obrazów, takie jak PNG, JPEG lub GIF i często są zorganizowane w arkusze spriteów, które są pojedynczymi obrazami zawierającymi wiele ramek duszków ułożonych w siatkę. Te arkusze ikonek pomagają zoptymalizować wykorzystanie pamięci i ułatwiają wydajne renderowanie wielu ikonek jednocześnie.
 
 ## Bibliografia
-* [Sprite (grafika komputerowa)](https://en.wikipedia.org/wiki/Sprite_(grafika_komputerowa))
+* [Sprite (grafika komputerowa)](https://en.wikipedia.org/wiki/Sprite_(computer_graphics))
 

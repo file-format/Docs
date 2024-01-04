@@ -42,5 +42,5 @@ Programele care deschid fișiere FLH includ
 - IrfanView
 
 ## Referințe
-* [FLIC (format fișier)](https://en.wikipedia.org/wiki/FLIC_(format_fișier))
+* [FLIC (format fișier)](https://en.wikipedia.org/wiki/FLIC_(file_format))
 

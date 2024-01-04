@@ -41,7 +41,7 @@ ISS-bestanden kunnen worden gebruikt om de installatielocatie van het programma 
 
 Om een ISS-bestand (Inno Setup Script) te openen, moet de Inno Setup Compiler op uw computer zijn geïnstalleerd. Hier zijn de stappen om een ISS-bestand te openen:
 
-1. Download en installeer de Inno Setup Compiler van de [officiële website] (https://jrsoftware.org/isdl.php).
+1. Download en installeer de Inno Setup Compiler van de [officiële website](https://jrsoftware.org/isdl.php).
 2. Nadat u de compiler heeft geïnstalleerd, navigeert u naar de map waar uw ISS-bestand zich bevindt.
 3. Klik met de rechtermuisknop op het ISS-bestand en selecteer "Bewerken" in het contextmenu. U kunt ook dubbelklikken op het ISS-bestand om het in uw standaardteksteditor te openen.
 4. Het ISS-bestand wordt geopend in een teksteditor, zoals Kladblok of Notepad++. U kunt het script nu bekijken en indien nodig bewerken.

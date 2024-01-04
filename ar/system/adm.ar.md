@@ -37,7 +37,7 @@
 
 ## مراجع
 
-* [ملفات النماذج الإدارية - ADMX](https://learn.microsoft.com/en-us/mem/intune/configuration/administative-templates-windows)
+* [ملفات النماذج الإدارية - ADMX](https://learn.microsoft.com/en-us/mem/intune/configuration/administrative-templates-windows)
 * [NetIQ - إدارة ملفات القوالب الإدارية](https://www.netiq.com/documentation/group-policy-administrator-69/grouppolicyadministratoruserguide/data/administativetemplatefiles.html)
 * [SSDT](https://wiki.osdev.org/SSDT)
 

@@ -41,7 +41,7 @@ Plików ISS można użyć do określenia lokalizacji instalacji programu, plikó
 
 Aby otworzyć plik ISS (Inno Setup Script), musisz mieć zainstalowany na swoim komputerze kompilator Inno Setup. Oto kroki, aby otworzyć plik ISS:
 
-1. Pobierz i zainstaluj kompilator Inno Setup z [oficjalnej strony internetowej] (https://jrsoftware.org/isdl.php).
+1. Pobierz i zainstaluj kompilator Inno Setup z [oficjalnej strony internetowej](https://jrsoftware.org/isdl.php).
 2. Po zainstalowaniu kompilatora przejdź do katalogu, w którym znajduje się plik ISS.
 3. Kliknij prawym przyciskiem myszy plik ISS i wybierz "Edytuj" z menu kontekstowego. Alternatywnie możesz dwukrotnie kliknąć plik ISS, aby otworzyć go w domyślnym edytorze tekstu.
 4. Plik ISS otworzy się w edytorze tekstu, takim jak Notatnik lub Notepad++. Możesz teraz przeglądać i edytować skrypt według potrzeb.

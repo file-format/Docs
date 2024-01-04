@@ -88,7 +88,7 @@ DNG Versi 1.4 Oktober 2012 memiliki fitur lanjutan berikut.
 
 ## Referensi ##
 
-* [Spesifikasi DNG - Oleh Adobe](https://www.kronometric.org/phot/processing/DNG/dng_spec_1.4.0.0.pdf)
+* [Spesifikasi DNG - Oleh Adobe](https://web.archive.org/web/20170829200857/http://wwwimages.adobe.com/content/dam/Adobe/en/products/photoshop/pdfs/dng_spec_1.4.0.0.pdf)
 * [Negatif Digital - Wikipedia](https://en.wikipedia.org/wiki/Digital_Negative)
 * [DNG - Format arsip publik untuk data mentah kamera digital](https://helpx.adobe.com/photoshop/digital-negative.html)
 

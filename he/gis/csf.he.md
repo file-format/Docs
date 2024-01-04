@@ -27,6 +27,5 @@
 
 ## הפניות
 
-* [כיצד אתה מציג או מגיש בצורה נכונה נתוני shapefile לתוך GeoMedia?
-](https://supportsi.hexagon.com/help/s/article/How-do-you-correctly-display-or-serve-shapefile-data-into?language=en_US)
+* [כיצד אתה מציג או מגיש בצורה נכונה נתוני shapefile לתוך GeoMedia?](https://supportsi.hexagon.com/help/s/article/How-do-you-correctly-display-or-serve-shapefile-data-into?language=en_US)
 

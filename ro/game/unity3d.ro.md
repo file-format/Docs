@@ -67,5 +67,5 @@ Unity3D este disponibil atât în versiunea gratuită, cât și în versiunea pl
 Unity3D este, de asemenea, utilizat într-o varietate de industrii dincolo de jocurile de noroc, cum ar fi auto, film și publicitate, pentru a crea experiențe interactive și simulări.
 
 ## Referințe
-* [Unity (motor de joc)](https://en.wikipedia.org/wiki/Unity_(motor_de_game))
+* [Unity (motor de joc)](https://en.wikipedia.org/wiki/Unity_(game_engine))
 

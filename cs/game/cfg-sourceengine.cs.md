@@ -116,5 +116,5 @@ Zde jsou další typy souborů, které používají příponu **.cfg**.
 – [CFG – konfigurační soubor modelu Cal3D](/cs/misc/cfg-cal3d/)
 
 ## Reference
-* [Zdroj (herní engine)](https://en.wikipedia.org/wiki/Source_(herní_engine))
+* [Zdroj (herní engine)](https://en.wikipedia.org/wiki/Source_(game_engine))
 

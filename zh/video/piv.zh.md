@@ -57,5 +57,5 @@ Pivot Animator 是一款免费软件应用程序,允许用户创建 2D 简笔画
 7. 现在,您可以编辑动画或通过选择"播放">"播放动画"来播放动画。
 
 ## 参考
-* [PIV - 保存和打开动画](https://pivotanimator.net/help4-2/ saving___opening_animations.htm)
+* [PIV - 保存和打开动画](https://pivotanimator.net/help4-2/saving___opening_animations.htm)
 

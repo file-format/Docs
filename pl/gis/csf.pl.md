@@ -27,6 +27,5 @@ Pliki CSF są przechowywane jako plik tekstowy ze szczegółami układu współr
 
 ## Bibliografia
 
-* [Jak poprawnie wyświetlać lub udostępniać dane pliku kształtu w GeoMedia?
-](https://supportsi.hexagon.com/help/s/article/How-do-you-correctly-display-or-serve-shapefile-data-into?language=en_US)
+* [Jak poprawnie wyświetlać lub udostępniać dane pliku kształtu w GeoMedia?](https://supportsi.hexagon.com/help/s/article/How-do-you-correctly-display-or-serve-shapefile-data-into?language=en_US)
 
