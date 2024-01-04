@@ -27,5 +27,5 @@ GMD ファイルはバイナリ ファイル形式で保存され、その内部
 
 ## 参考文献
 
-※【ゲームメーカー】(https://gamemaker.io/ja)
+* [ゲームメーカー](https://gamemaker.io/en)
 
