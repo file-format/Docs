@@ -67,5 +67,5 @@ Unity3D je k dispozici v bezplatné i placené verzi. Bezplatná verze s názvem
 Unity3D se také používá v různých odvětvích kromě her, jako je automobilový průmysl, film a reklama, pro vytváření interaktivních zážitků a simulací.
 
 ## Reference
-* [Unity (herní engine)](https://en.wikipedia.org/wiki/Unity_(herní_engine))
+* [Unity (herní engine)](https://en.wikipedia.org/wiki/Unity_(game_engine))
 
