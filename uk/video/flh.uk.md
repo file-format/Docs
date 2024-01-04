@@ -42,5 +42,5 @@ Lego Rock Raiders — популярна комп’ютерна гра, вип�
 - IrfanView
 
 ## Список літератури
-* [FLIC (формат файлу)](https://en.wikipedia.org/wiki/FLIC_(формат_файлу))
+* [FLIC (формат файлу)](https://en.wikipedia.org/wiki/FLIC_(file_format))
 

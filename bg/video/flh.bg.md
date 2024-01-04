@@ -42,5 +42,5 @@ Lego Rock Raiders е популярна компютърна игра, изда�
 - IrfanView
 
 ## Препратки
-* [FLIC (файлов формат)](https://en.wikipedia.org/wiki/FLIC_(файлов_формат))
+* [FLIC (файлов формат)](https://en.wikipedia.org/wiki/FLIC_(file_format))
 
