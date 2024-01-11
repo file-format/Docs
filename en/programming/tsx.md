@@ -19,7 +19,7 @@
 
 ## What is a TSX file?
 
-The ".tsx" file extension is commonly associated with TypeScript files that contain **React** code. **TypeScript is a superset of JavaScript** that adds static typing to the language, and **React is a JavaScript library for building user interfaces**. When working with React and TypeScript together, developers often use the ".tsx" extension for their files to indicate that they contain both TypeScript and JSX (React's syntax extension for JavaScript).
+TSX file is commonly associated with TypeScript files that contain **React** code. **TypeScript is a superset of JavaScript** that adds static typing to the language, and **React is a JavaScript library for building user interfaces**. When working with React and TypeScript together, developers often use the ".tsx" extension for their files to indicate that they contain both TypeScript and JSX (React's syntax extension for JavaScript).
 
 ## TSX File Example
 
