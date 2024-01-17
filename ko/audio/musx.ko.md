@@ -38,4 +38,4 @@ Finale를 사용하면 완전한 음악 작품을 만드는 데 필요한 모든
 MakeMusic Finale 프로그램을 엽니다. 그런 다음 화면 상단의 메뉴로 이동하여 "파일"을 클릭하세요. 그런 다음 옵션에서 "열기..."를 선택합니다. 컴퓨터에서 MUSX 파일을 찾아 클릭하여 엽니다.
 
 ## 참고자료
-* [피날레(스코어라이터)](https://en.wikipedia.org/wiki/Finale_(스코어라이터))
+* [피날레(스코어라이터)](https://en.wikipedia.org/wiki/Finale_(scorewriter))

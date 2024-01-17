@@ -38,4 +38,4 @@ Als je je muziek met anderen wilt delen, helpt Finale daar ook bij. U kunt uw bl
 Open het MakeMusic Finale-programma. Ga vervolgens naar het menu bovenaan het scherm en klik op 'Bestand'. Kies daarna "Open..." uit de opties. Zoek uw MUSX-bestand op uw computer en klik erop om het te openen.
 
 ## Referenties
-* [Finale (partituurschrijver)](https://en.wikipedia.org/wiki/Finale_(partituurschrijver))
+* [Finale (partituurschrijver)](https://en.wikipedia.org/wiki/Finale_(scorewriter))

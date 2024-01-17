@@ -38,4 +38,4 @@ Finaleを使用すると、完全な音楽を作成するために必要な音�
 MakeMusic Finaleプログラムを開きます。 次に、画面上部のメニューに移動し、「ファイル」をクリックします。 その後、オプションから「開く...」を選択します。 コンピュータ上で MUSX ファイルを見つけてクリックして開きます。
 
 ## 参考文献
-* [フィナーレ (スコアライター)](https://en.wikipedia.org/wiki/Finale_(スコアライター))
+* [フィナーレ (スコアライター)](https://en.wikipedia.org/wiki/Finale_(scorewriter))

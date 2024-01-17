@@ -38,4 +38,4 @@ Jika Anda ingin berbagi musik dengan orang lain, Finale juga membantu. Anda dapa
 Buka program MakeMusic Finale. Lalu, buka menu di bagian atas layar dan klik "File". Setelah itu, pilih "Buka..." dari opsi. Temukan file MUSX di komputer Anda dan klik untuk membukanya.
 
 ## Referensi
-* [Finale (penulis skor)](https://en.wikipedia.org/wiki/Finale_(penulis skor))
+* [Finale (penulis skor)](https://en.wikipedia.org/wiki/Finale_(scorewriter))

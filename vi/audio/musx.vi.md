@@ -38,4 +38,4 @@ Nếu bạn muốn chia sẻ âm nhạc của mình với người khác, Finale
 Mở chương trình MakeMusic Finale. Sau đó, đi tới menu ở đầu màn hình và nhấp vào "Tệp". Sau đó, chọn "Mở..." từ các tùy chọn. Tìm tệp MUSX của bạn trên máy tính và nhấp vào tệp đó để mở.
 
 ## Người giới thiệu
-* [Phần cuối (người ghi điểm)](https://en.wikipedia.org/wiki/Finale_(người ghi điểm))
+* [Phần cuối (người ghi điểm)](https://en.wikipedia.org/wiki/Finale_(scorewriter))

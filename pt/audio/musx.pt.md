@@ -38,4 +38,4 @@ Se você deseja compartilhar suas músicas com outras pessoas, o Finale também 
 Abra o programa MakeMusic Finale. Em seguida, vá ao menu na parte superior da tela e clique em “Arquivo”. Depois disso, escolha "Abrir..." nas opções. Encontre o arquivo MUSX no seu computador e clique nele para abri-lo.
 
 ## Referências
-* [Finale (escritor de partituras)](https://en.wikipedia.org/wiki/Finale_(escritor de partituras))
+* [Finale (escritor de partituras)](https://en.wikipedia.org/wiki/Finale_(scorewriter))

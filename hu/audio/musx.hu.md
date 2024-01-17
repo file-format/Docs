@@ -38,4 +38,4 @@ Ha szeretné megosztani zenéit másokkal, a Finale ebben is segít. A kottákat
 Nyissa meg a MakeMusic Finale programot. Ezután lépjen a képernyő tetején lévő menübe, és kattintson a "Fájl" elemre. Ezután válassza a „Megnyitás...” lehetőséget a lehetőségek közül. Keresse meg a MUSX fájlt a számítógépén, és kattintson rá a megnyitáshoz.
 
 ## Referenciák
-* [Finálé (jegyzőkönyvíró)](https://en.wikipedia.org/wiki/Finale_(jegyzőíró))
+* [Finálé (jegyzőkönyvíró)](https://en.wikipedia.org/wiki/Finale_(scorewriter))

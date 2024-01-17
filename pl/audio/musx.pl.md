@@ -38,4 +38,4 @@ Jeśli chcesz podzielić się swoją muzyką z innymi, Finale również w tym po
 Otwórz program finałowy MakeMusic. Następnie przejdź do menu u góry ekranu i kliknij „Plik”. Następnie wybierz z opcji „Otwórz…”. Znajdź plik MSX na swoim komputerze i kliknij go, aby go otworzyć.
 
 ## Bibliografia
-* [Finale (autor muzyki)](https://en.wikipedia.org/wiki/Finale_(autor muzyki))
+* [Finale (autor muzyki)](https://en.wikipedia.org/wiki/Finale_(scorewriter))
