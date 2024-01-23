@@ -47,4 +47,4 @@ Oto inne typy plików, które mają rozszerzenie **.cdx**.
 - [CDX - Plik indeksu tabeli Alpha Five](/programming/cdx/)
 
 ## Bibliografia
-* [Oprogramowanie Alpha] (https://www.alphasoftware.com/)
+* [Oprogramowanie Alpha](https://www.alphasoftware.com/)

@@ -47,4 +47,4 @@ CDX ファイルを開くプログラムには次のものが含まれます
 - [CDX - アルファ 5 テーブル インデックス ファイル](/programming/cdx/)
 
 ## 参考文献
-※【アルファソフトウェア】(https://www.alphasoftware.com/)
+* [アルファソフトウェア](https://www.alphasoftware.com/)
