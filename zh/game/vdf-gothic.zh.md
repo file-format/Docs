@@ -48,4 +48,5 @@ VDF 文件是 Gothic 视频游戏系列使用的一种文件类型。 它代表�
 - [VDF - Gothic 游戏数据文件](/game/vdf-gothic/)
 - [VDF - VirtualDub 视频过滤器文件](/plugin/vdf/)
 
-＃＃ 参考
+## 参考
+* [Gothic (series)](https://en.wikipedia.org/wiki/Gothic_(series))

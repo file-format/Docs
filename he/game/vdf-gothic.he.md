@@ -49,3 +49,4 @@
 - [VDF - VirtualDub Video Filter File](/plugin/vdf/)
 
 ## הפניות
+* [Gothic (series)](https://en.wikipedia.org/wiki/Gothic_(series))

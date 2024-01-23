@@ -49,3 +49,4 @@
 - [VDF - ไฟล์ตัวกรองวิดีโอ VirtualDub](/plugin/vdf/)
 
 ## อ้างอิง
+* [Gothic (series)](https://en.wikipedia.org/wiki/Gothic_(series))

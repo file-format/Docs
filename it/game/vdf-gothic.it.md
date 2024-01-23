@@ -49,3 +49,4 @@ Di seguito sono riportati altri tipi di file che utilizzano l'estensione file **
 - [VDF - File filtro video VirtualDub](/plugin/vdf/)
 
 ## Riferimenti
+* [Gothic (series)](https://en.wikipedia.org/wiki/Gothic_(series))

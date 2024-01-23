@@ -49,3 +49,4 @@ VDF ファイルは、次のプログラムを使用して開かれ、参照さ�
 - [VDF - VirtualDub ビデオ フィルター ファイル](/plugin/vdf/)
 
 ## 参考文献
+* [Gothic (series)](https://en.wikipedia.org/wiki/Gothic_(series))

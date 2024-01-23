@@ -49,3 +49,4 @@
 - [VDF - ملف مرشح فيديو VirtualDub](/plugin/vdf/)
 
 ## مراجع
+* [Gothic (series)](https://en.wikipedia.org/wiki/Gothic_(series))

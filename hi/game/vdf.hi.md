@@ -54,10 +54,10 @@ VDF फ़ाइलें वाल्व के KeyValues प्रारूप
 
 यहां अन्य फ़ाइल प्रकार हैं जो **.vdf** फ़ाइल एक्सटेंशन का उपयोग करते हैं।
 
-- [वीडीएफ - एंटीवायर वायरस परिभाषा फ़ाइल](/डेटा/वीडीएफ/)
-- [वीडीएफ - वाल्व डेटा फ़ाइल](/गेम/वीडीएफ/)
-- [वीडीएफ - गॉथिक गेम डेटा फ़ाइल](/गेम/वीडीएफ-गॉथिक/)
-- [वीडीएफ - वर्चुअलडब वीडियो फ़िल्टर फ़ाइल](/प्लगइन/वीडीएफ/)
+- [VDF - AntiVir Virus Definitions File](/data/vdf/)
+- [VDF - Valve Data File](/game/vdf/)
+- [VDF - Gothic Game Data File](/game/vdf-gothic/)
+- [VDF - VirtualDub Video Filter File](/plugin/vdf/)
 
 ## सन्दर्भ
 * [स्रोत (गेम इंजन)](https://en.wikipedia.org/wiki/Source_(game_engine))

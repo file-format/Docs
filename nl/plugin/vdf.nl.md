@@ -51,10 +51,10 @@ Om een VDF-bestand te gebruiken met VirtualDub op Windows, kunt u een van de vol
 
 Hier volgen andere bestandstypen die de bestandsextensie **.vdf** gebruiken.
 
-- [VDF - AntiVir-virusdefinitiebestand] (/data/vdf/)
+- [VDF - AntiVir-virusdefinitiebestand](/data/vdf/)
 - [VDF - Klepgegevensbestand](/game/vdf/)
 - [VDF - Gothic-spelgegevensbestand](/game/vdf-gothic/)
-- [VDF - VirtualDub-videofilterbestand] (/plugin/vdf/)
+- [VDF - VirtualDub-videofilterbestand](/plugin/vdf/)
 
 ## Referenties
 * [VirtualDub](https://en.wikipedia.org/wiki/VirtualDub)

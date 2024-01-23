@@ -49,3 +49,4 @@ A VDF fájlok megnyitása és hivatkozása a következő programok segítségév
 - [VDF - VirtualDub Video Filter File](/plugin/vdf/)
 
 ## Referenciák
+* [Gothic (series)](https://en.wikipedia.org/wiki/Gothic_(series))

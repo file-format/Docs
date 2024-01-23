@@ -49,3 +49,4 @@ VDF файловете се отварят и препращат с помощт
 - [VDF - VirtualDub Video Filter File](/plugin/vdf/)
 
 ## Препратки
+* [Gothic (series)](https://en.wikipedia.org/wiki/Gothic_(series))

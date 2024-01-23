@@ -52,7 +52,7 @@ Chcete-li použít soubor VDF s VirtualDub v systému Windows, můžete provést
 Zde jsou další typy souborů, které používají příponu **.vdf**.
 
 - [VDF - AntiVir Virus Definitions File](/data/vdf/)
-- [VDF - Valve Data File](/hra/vdf/)
+- [VDF - Valve Data File](/game/vdf/)
 - [VDF - Gothic Game Data File](/game/vdf-gothic/)
 - [VDF - Soubor videofiltru VirtualDub](/plugin/vdf/)
 

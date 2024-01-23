@@ -49,3 +49,4 @@ Hier sind andere Dateitypen, die die Dateierweiterung **.vdf** verwenden.
 - [VDF – VirtualDub-Videofilterdatei](/plugin/vdf/)
 
 ## Verweise
+* [Gothic (series)](https://en.wikipedia.org/wiki/Gothic_(series))

@@ -54,10 +54,10 @@ VDF-bestanden kunnen worden geopend of er kan naar worden verwezen met de volgen
 
 Hier volgen andere bestandstypen die de bestandsextensie **.vdf** gebruiken.
 
-- [VDF - AntiVir-virusdefinitiebestand] (/data/vdf/)
+- [VDF - AntiVir-virusdefinitiebestand](/data/vdf/)
 - [VDF - Klepgegevensbestand](/game/vdf/)
 - [VDF - Gothic-spelgegevensbestand](/game/vdf-gothic/)
-- [VDF - VirtualDub-videofilterbestand] (/plugin/vdf/)
+- [VDF - VirtualDub-videofilterbestand](/plugin/vdf/)
 
 ## Referenties
 * [Bron (game-engine)](https://en.wikipedia.org/wiki/Source_(game_engine))

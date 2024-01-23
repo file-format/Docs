@@ -49,3 +49,4 @@
 - [VDF - файл відеофільтра VirtualDub](/plugin/vdf/)
 
 ## Посилання
+* [Gothic (series)](https://en.wikipedia.org/wiki/Gothic_(series))

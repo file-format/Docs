@@ -60,4 +60,4 @@ Iată și alte tipuri de fișiere care folosesc extensia de fișier **.vdf**.
 - [VDF - VirtualDub Video Filter File](/plugin/vdf/)
 
 ## Referințe
-* [Sursa (motor de joc)](https://en.wikipedia.org/wiki/Source_(motor_de_game))
+* [Sursa (motor de joc)](https://en.wikipedia.org/wiki/Source_(game_engine))

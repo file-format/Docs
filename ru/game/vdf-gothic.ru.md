@@ -49,3 +49,4 @@
 - [VDF — файл видеофильтра VirtualDub](/plugin/vdf/)
 
 ## Использованная литература
+* [Gothic (series)](https://en.wikipedia.org/wiki/Gothic_(series))

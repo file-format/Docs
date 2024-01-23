@@ -49,3 +49,4 @@ VDF dosyaları aşağıdaki programlar kullanılarak açılır ve bunlara başvu
 - [VDF - VirtualDub Video Filtre Dosyası](/plugin/vdf/)
 
 ## Referanslar
+* [Gothic (series)](https://en.wikipedia.org/wiki/Gothic_(series))

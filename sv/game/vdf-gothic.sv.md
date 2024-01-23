@@ -49,3 +49,4 @@ Här är andra filtyper som använder filtillägget **.vdf**.
 - [VDF - VirtualDub Video Filter File](/plugin/vdf/)
 
 ## Referenser
+* [Gothic (series)](https://en.wikipedia.org/wiki/Gothic_(series))

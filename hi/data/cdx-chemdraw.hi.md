@@ -39,10 +39,10 @@
 
 यहां अन्य फ़ाइल प्रकार हैं जो **.cdx** फ़ाइल एक्सटेंशन का उपयोग करते हैं।
 
-- [सीडीएक्स - कंपाउंड इंडेक्स फ़ाइल](/डेटा/सीडीएक्स/)
-- [सीडीएक्स - केमड्रॉ एक्सचेंज फ़ाइल](/डेटा/सीडीएक्स-केमड्रॉ/)
-- [CDX - CorelDRAW संपीड़ित फ़ाइल](/image/cdx/)
-- [सीडीएक्स - अल्फा फाइव टेबल इंडेक्स फ़ाइल](/प्रोग्रामिंग/सीडीएक्स/)
+- [CDX - Compound Index File](/data/cdx/)
+- [CDX - ChemDraw Exchange File](/data/cdx-chemdraw/)
+- [CDX - CorelDRAW Compressed File](/image/cdx/)
+- [CDX - Alpha Five Table Index File](/programming/cdx/)
 
 ## सन्दर्भ
 - [केमड्रॉ](https://en.wikipedia.org/wiki/ChemDraw)

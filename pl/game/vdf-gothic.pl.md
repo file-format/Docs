@@ -49,3 +49,4 @@ Oto inne typy plików, które mają rozszerzenie **.vdf**.
 - [VDF - plik filtra wideo VirtualDub](/plugin/vdf/)
 
 ## Bibliografia
+* [Gothic (series)](https://en.wikipedia.org/wiki/Gothic_(series))

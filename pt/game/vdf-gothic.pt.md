@@ -49,3 +49,4 @@ Aqui estão outros tipos de arquivo que usam a extensão de arquivo **.vdf**.
 - [VDF - Arquivo de filtro de vídeo VirtualDub](/plugin/vdf/)
 
 ## Referências
+* [Gothic (series)](https://en.wikipedia.org/wiki/Gothic_(series))

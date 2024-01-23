@@ -49,3 +49,4 @@
 - [VDF - Αρχείο φίλτρου βίντεο VirtualDub](/plugin/vdf/)
 
 ## Βιβλιογραφικές αναφορές
+* [Gothic (series)](https://en.wikipedia.org/wiki/Gothic_(series))

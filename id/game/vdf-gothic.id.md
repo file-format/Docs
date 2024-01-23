@@ -49,3 +49,4 @@ Berikut jenis file lain yang menggunakan ekstensi file **.vdf**.
 - [VDF - File Filter Video VirtualDub](/plugin/vdf/)
 
 ## Referensi
+* [Gothic (series)](https://en.wikipedia.org/wiki/Gothic_(series))

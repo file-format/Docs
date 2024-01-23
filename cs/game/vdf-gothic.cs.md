@@ -44,8 +44,9 @@ Soubory VDF se otevírají a odkazují se na ně pomocí následujících progra
 Zde jsou další typy souborů, které používají příponu **.vdf**.
 
 - [VDF - AntiVir Virus Definitions File](/data/vdf/)
-- [VDF - Valve Data File](/hra/vdf/)
+- [VDF - Valve Data File](/game/vdf/)
 - [VDF - Gothic Game Data File](/game/vdf-gothic/)
 - [VDF - Soubor videofiltru VirtualDub](/plugin/vdf/)
 
 ## Reference
+* [Gothic (series)](https://en.wikipedia.org/wiki/Gothic_(series))

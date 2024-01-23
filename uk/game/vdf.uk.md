@@ -60,4 +60,4 @@
 - [VDF - файл відеофільтра VirtualDub](/plugin/vdf/)
 
 ## Посилання
-* [Джерело (ігровий движок)](https://en.wikipedia.org/wiki/Source_(ігровий движок))
+* [Джерело (ігровий движок)](https://en.wikipedia.org/wiki/Source_(game_engine))

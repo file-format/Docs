@@ -43,9 +43,10 @@ VDF-bestanden worden geopend en er wordt naar verwezen met de volgende programma
 
 Hier volgen andere bestandstypen die de bestandsextensie **.vdf** gebruiken.
 
-- [VDF - AntiVir-virusdefinitiebestand] (/data/vdf/)
+- [VDF - AntiVir-virusdefinitiebestand](/data/vdf/)
 - [VDF - Klepgegevensbestand](/game/vdf/)
 - [VDF - Gothic-spelgegevensbestand](/game/vdf-gothic/)
-- [VDF - VirtualDub-videofilterbestand] (/plugin/vdf/)
+- [VDF - VirtualDub-videofilterbestand](/plugin/vdf/)
 
 ## Referenties
+* [Gothic (series)](https://en.wikipedia.org/wiki/Gothic_(series))

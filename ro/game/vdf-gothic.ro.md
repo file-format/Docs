@@ -49,3 +49,4 @@ Iată și alte tipuri de fișiere care folosesc extensia de fișier **.vdf**.
 - [VDF - VirtualDub Video Filter File](/plugin/vdf/)
 
 ## Referințe
+* [Gothic (series)](https://en.wikipedia.org/wiki/Gothic_(series))

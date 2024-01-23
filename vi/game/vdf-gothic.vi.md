@@ -49,3 +49,4 @@ Dưới đây là các loại tệp khác sử dụng phần mở rộng tệp *
 - [VDF - Tệp bộ lọc video VirtualDub](/plugin/vdf/)
 
 ## Người giới thiệu
+* [Gothic (series)](https://en.wikipedia.org/wiki/Gothic_(series))
