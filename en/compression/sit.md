@@ -25,7 +25,18 @@ A SIT file is a compressed archive file created with Micro StuffIt software. Thi
 
 SIT files are saved in binary file format and their internal file format details are not available publicly. It was introduced by the Aladdin Systems and was introduced to compress files to archives.
 
-## References
+## How to open SIT file?
 
- * [StuffIt - By Wikipedia](https://en.wikipedia.org/wiki/StuffIt)
- * [StuffIt](https://stuffit.com/)
+Here are the list of SIT File Oppeners.
+
+- **Smith Micro StuffIt Expander** (Free) for (Windows, Mac, iOS)
+- **ExtractNow** (Free) for Windows
+- **The Unarchiver** (Free) for (Mac)
+
+## How to open SIT files on MAC?
+
+MAC OS includes built-in support for extracting SIT files, and you don't necessarily need additional software. Find the .sit file that you want to extract on your Mac. In most cases, you can simply double-click on the .sit file. macOS should recognize the StuffIt format and automatically use the built-in Archive Utility to extract the contents. The extracted files and folders will be placed in the same directory as the original .sit file.
+
+## References
+* [StuffIt - By Wikipedia](https://en.wikipedia.org/wiki/StuffIt)
+* [StuffIt](https://stuffit.com/)
