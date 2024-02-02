@@ -19,7 +19,7 @@
 
 ## What is a PVT file?
 
-A PVT file is a type of picture and video combo called a Live Photo, made by an iPhone. Usually, Live Photos have a different name like .HEIC, but sometimes when you share them using services like AirDrop, they might end up with a .pvt extension by mistake. Normally, when you send a Live Photo, it should be in .HEIC format (or changed to .JPG in some cases). For instance, if you AirDrop it to a Mac, it should show up as an HEIC file. But occasionally, it might turn into a PVT file.
+A PVT file is a type of Live Photo, a combination of pictures and videos created by an iPhone. Usually, Live Photos have a different name like .HEIC, but sometimes when you share them using services like AirDrop, they might end up with a .pvt extension by mistake. Normally, when you send a Live Photo, it should be in .HEIC format (or changed to .JPG in some cases). For instance, if you AirDrop it to a Mac, it should show up as an HEIC file. But occasionally, it might turn into a PVT file.
 
 ## About Live Photos
 
@@ -33,4 +33,4 @@ Live Photos can be seamlessly enjoyed across various Apple devices, including Ma
 
 ## How to open a PVT file?
 
-Rename your .pvt file to have .heic file extension and open it HEIC image viewer.
+Rename your .pvt file to have .heic file extension and open it with HEIC image viewer.
