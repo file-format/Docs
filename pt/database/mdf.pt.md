@@ -59,6 +59,6 @@ O PFS identifica o status de alocação e determina a quantidade de espaço livr
 ## Referências
 
 * [Arquivos de banco de dados e grupos de arquivos](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?view=sql-server-ver15)
-* [Anexar e desanexar banco de dados - SQL Server](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-detach-and-attach-sql-server?view=sql-server -ver15)
+* [Anexar e desanexar banco de dados - SQL Server](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-detach-and-attach-sql-server?view=sql-server-ver15)
 * [Analisando a anatomia do arquivo de dados do SQL Server](https://blog.pythian.com/analyzing-sql-server-data-file-anatomy/)
 

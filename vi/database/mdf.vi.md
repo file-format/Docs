@@ -59,6 +59,6 @@ PFS xác định trạng thái phân bổ và xác định dung lượng trống
 ## Người giới thiệu
 
 * [Tệp cơ sở dữ liệu và nhóm tệp](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?view=sql-server-ver15)
-* [Tách và đính kèm cơ sở dữ liệu - SQL Server](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-detach-and-attach-sql-server?view=sql-server -ver15)
+* [Tách và đính kèm cơ sở dữ liệu - SQL Server](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-detach-and-attach-sql-server?view=sql-server-ver15)
 * [Phân tích giải phẫu tệp dữ liệu máy chủ SQL](https://blog.pythian.com/analyzing-sql-server-data-file-anatomy/)
 

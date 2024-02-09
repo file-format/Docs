@@ -59,6 +59,6 @@ PFS identifie le statut d'allocation et détermine la quantité d'espace libre.
 ## Références
 
 * [Fichiers de base de données et groupes de fichiers](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?view=sql-server-ver15)
-* [Détacher et attacher la base de données - SQL Server](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-detach-and-attach-sql-server?view=sql-server -ver15)
+* [Détacher et attacher la base de données - SQL Server](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-detach-and-attach-sql-server?view=sql-server-ver15)
 * [Analyse de l'anatomie du fichier de données SQL Server](https://blog.pythian.com/analyzing-sql-server-data-file-anatomy/)
 

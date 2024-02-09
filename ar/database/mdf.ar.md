@@ -59,6 +59,6 @@
 ## مراجع
 
 * [ملفات قاعدة البيانات ومجموعات الملفات](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?view=sql-server-ver15)
-* [فصل وإرفاق قاعدة البيانات - SQL Server](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-detach-and-attach-sql-server?view=sql-server - أكثر من 15)
+* [فصل وإرفاق قاعدة البيانات - SQL Server](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-detach-and-attach-sql-server?view=sql-server-ver15)
 * [تحليل تشريح ملف بيانات خادم SQL](https://blog.pythian.com/analyzing-sql-server-data-file-anatomy/)
 

@@ -59,6 +59,6 @@ PFS, ayırma durumunu tanımlar ve boş alan miktarını belirler.
 ## Referanslar
 
 * [Veritabanı Dosyaları ve Dosya Grupları](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?view=sql-server-ver15)
-* [Veritabanı Ayır ve Ekle - SQL Server](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-detach-and-attach-sql-server?view=sql-server) -ver15)
+* [Veritabanı Ayır ve Ekle - SQL Server](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-detach-and-attach-sql-server?view=sql-server-ver15)
 * [SQL Server Veri Dosyası Anatomisini Analiz Etme](https://blog.pythian.com/analyzing-sql-server-data-file-anatomy/)
 
