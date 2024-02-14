@@ -55,14 +55,14 @@ Oto lista niektórych popularnych formatów plików obsługiwanych przez Shotcut
 
 
 
-- [MP4](/pl/wideo/mp4/)
-- [MOV](/pl/wideo/mov/)
-- [AVI](/pl/wideo/avi/)
-- [MKV](/pl/wideo/mkv/)
-- [WebM](/pl/wideo/webm/)
-- [MPEG](/pl/wideo/mpeg/)
-- [FLV](/pl/wideo/flv/)
-- [WMV](/pl/wideo/wmv/)
+- [MP4](/pl/video/mp4/)
+- [MOV](/pl/video/mov/)
+- [AVI](/pl/video/avi/)
+- [MKV](/pl/video/mkv/)
+- [WebM](/pl/video/webm/)
+- [MPEG](/pl/video/mpeg/)
+- [FLV](/pl/video/flv/)
+- [WMV](/pl/video/wmv/)
 - i więcej...
 2. **Formaty audio:**
     
@@ -94,7 +94,7 @@ Oto lista niektórych popularnych formatów plików obsługiwanych przez Shotcut
 - [JPEG (JPG)](/pl/image/jpeg/)
 - [PNG](/pl/image/png/)
 - [BMP](/pl/image/bmp/)
-- [TIFF](/pl/obraz/tiff/)
+- [TIFF](/pl/image/tiff/)
 - [GIF](/pl/image/gif/)
 - i więcej...
 4. **Dodatkowe formaty:**
@@ -121,11 +121,11 @@ Oto lista niektórych popularnych formatów plików obsługiwanych przez Shotcut
 
 
 
-- [MP4 (kodek H.264)](/pl/wideo/mp4/)
-- [WebM (kodek VP9)](/pl/wideo/webm/)
-- [AVI](/pl/wideo/avi/)
-- [MOV](/pl/wideo/mov/)
-- [MKV](/pl/wideo/mkv/)
+- [MP4 (kodek H.264)](/pl/video/mp4/)
+- [WebM (kodek VP9)](/pl/video/webm/)
+- [AVI](/pl/video/avi/)
+- [MOV](/pl/video/mov/)
+- [MKV](/pl/video/mkv/)
 - i więcej...
 2. **Formaty audio:**
     
@@ -157,7 +157,7 @@ Oto lista niektórych popularnych formatów plików obsługiwanych przez Shotcut
 - [JPEG (JPG)](/pl/image/jpeg/)
 - [PNG](/pl/image/png/)
 - [BMP](/pl/image/bmp/)
-- [TIFF](/pl/obraz/tiff/)
+- [TIFF](/pl/image/tiff/)
 - [GIF](/pl/image/gif/)
 - i więcej...
 4. **Niestandardowe ustawienia eksportu:**
