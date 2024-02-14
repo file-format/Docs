@@ -16,7 +16,7 @@
    "draft":"false",
    "toc":true,
    "title":"ESX-Datei – Xactimate Insurance Claims Estimate – Was ist eine .esx-Datei und wie öffnet man sie?",
-   "description":"ESX-Datei – Xactimate Insurance Claims Estimate – Was ist eine .esx-Datei und wie öffnet man sie?",
+   "description":"Erfahren Sie mehr über das ESX Xactimate Insurance Claims Estimate-Dateiformat und die APIs, mit denen ESX-Dateien erstellt und geöffnet werden können.",
    "linktitle":"ESX",
    "menu":{
       "docs":{

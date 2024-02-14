@@ -6,7 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "RPLN-Datei – Was ist eine RPLN-Datei und wie öffnet man sie?",
-  "description":"RPLN-Datei – Was ist eine RPLN-Datei und wie öffnet man sie?",
+  "description":"Erfahren Sie mehr über das RPLN-Dateiformat und APIs, mit denen RPLN-Dateien erstellt und geöffnet werden können.",
   "linktitle" : "RPLN",
   "menu" : {
     "docs" : {

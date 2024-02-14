@@ -16,7 +16,7 @@
    "draft" : "false",
    "toc" : true,
    "title" : "GED-Datei – GEDCOM-Genealogie-Datendatei – Was ist eine .ged-Datei und wie öffnet man sie?",
-   "description" : "GED-Datei – GEDCOM-Genealogie-Datendatei – Was ist eine .ged-Datei und wie öffnet man sie?",
+   "description" : "Erfahren Sie mehr über das GED GEDCOM Genealogy Data-Dateiformat und die APIs, mit denen GED-Dateien erstellt und geöffnet werden können.",
    "linktitle" : "GED",
    "menu" : {
       "docs" : {

@@ -6,7 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "RDF-Datei – Resource Description Framework-Datei – Was ist eine .rdf-Datei und wie öffnet man sie?",
-  "description":"RDF-Datei – Resource Description Framework-Datei – Was ist eine .rdf-Datei und wie öffnet man sie?",
+  "description":"Erfahren Sie mehr über die RDF Resource Description Framework-Datei und wie Sie sie öffnen.",
   "linktitle" : "RDF",
   "menu" : {
     "docs" : {

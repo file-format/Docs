@@ -6,7 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "XCODE-Datei – Xcode-Projekt – Was ist eine .xcode-Datei und wie öffnet man sie?",
-  "description" : "XCODE-Datei – Xcode-Projekt – Was ist eine .xcode-Datei und wie öffnet man sie?",
+  "description" : "Erfahren Sie mehr über die Xcode-Projektdatei und wie Sie sie öffnen.",
   "linktitle" : "XCODE",
   "menu" : {
     "docs" : {

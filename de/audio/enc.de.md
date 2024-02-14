@@ -16,7 +16,7 @@
    "draft" : "false",
    "toc" : true,
    "title" : "ENC-Datei – Encore Musical Notation – Was ist eine .enc-Datei und wie öffnet man sie?",
-   "description" : "ENC-Datei – Encore Musical Notation – Was ist eine .enc-Datei und wie öffnet man sie?",
+   "description" : "Erfahren Sie mehr über das ENC Encore Musical Notation-Dateiformat und APIs, mit denen ENC-Dateien erstellt und geöffnet werden können.",
    "linktitle" : "ENC",
    "menu" : {
       "docs" : {
@@ -29,7 +29,7 @@
 
 ## Was ist eine ENC-Datei?
 
-Eine **ENC-Datei** könnte auch eine Musikkomposition darstellen, die mit **Encore von Passport Music Software** erstellt wurde, einer Partituranwendung, die sowohl mit Windows- als auch mit macOS-Plattformen kompatibel ist; In dieser Datei entdecken Sie ein reichhaltiges Repertoire musikalischer Notation, das Elemente wie Noten, Takte, Taktarten und Tonarten umfasst. Darüber hinaus enthält die Datei wichtige Details wie den Titel der Partitur und Informationen über den Komponisten, der das Musikstück zum Leben erweckt hat.
+Eine **ENC-Datei** könnte auch eine Musikkomposition darstellen, die mit **Encore von Passport Music Software** erstellt wurde, einer Partituranwendung, die sowohl mit Windows- als auch mit macOS-Plattformen kompatibel ist; In dieser Datei entdecken Sie ein umfangreiches Repertoire musikalischer Notation, das Elemente wie Noten, Takte, Taktarten und Tonarten umfasst. Darüber hinaus enthält die Datei wichtige Details wie den Titel der Partitur und Informationen über den Komponisten, der das Musikstück zum Leben erweckt hat.
 
 ## Über Encore Software
 

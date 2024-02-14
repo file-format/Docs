@@ -6,7 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "DSV-Datei – DeSmuME gespeicherte Spieldatei – Was ist eine .dsv-Datei und wie öffnet man sie?",
-  "description" : "DSV-Datei – DeSmuME gespeicherte Spieldatei – Was ist eine .dsv-Datei und wie öffnet man sie?",
+  "description" : "Erfahren Sie mehr über die gespeicherte Spieldatei von DSV DeSmuME und wie Sie sie öffnen.",
   "linktitle" : "DSV",
   "menu" : {
     "docs" : {
@@ -21,7 +21,7 @@
 
 Eine DSV-Datei ist eine gespeicherte Spieldatei, die von DeSmuME, einem Nintendo DS-Emulator, erstellt wurde. Es speichert im Wesentlichen den Fortschritt eines Spielers bis zur letzten Nutzung der spielinternen Speicherfunktion. DeSmuMe ist ein Open-Source-Nintendo DS-Emulator, der für Windows, macOS und Linux verfügbar ist. Es ermöglicht Spielern, Nintendo DS-Spiele auf ihren PCs zu spielen.
 
-DeSmuME-Spieler speichern ihren Spielfortschritt normalerweise in .DST-Dateien. Diese Speicherstatusdateien können jederzeit während des Spiels bequem über das Menü von DeSmuME erstellt werden. Diese Flexibilität ermöglicht es Spielern, ihren Fortschritt jederzeit zu speichern, nicht nur an Speicherpunkten im Spiel.
+DeSmuME-Spieler speichern ihren Spielfortschritt normalerweise in .DST-Dateien. Diese Speicherstatusdateien können jederzeit während des Spiels bequem über das DeSmuME-Menü erstellt werden. Diese Flexibilität ermöglicht es Spielern, ihren Fortschritt jederzeit zu speichern, nicht nur an Speicherpunkten im Spiel.
 
 ## DSV-Dateien vs. DST-Dateien:
 

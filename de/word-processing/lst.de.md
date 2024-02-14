@@ -16,7 +16,7 @@
    "draft":"false",
    "toc":true,
    "title":"LST-Datei – Datenliste – Was ist eine .lst-Datei und wie öffnet man sie?",
-   "description":"LST-Datei – Datenliste – Was ist eine .lst-Datei und wie öffnet man sie?",
+   "description":"Erfahren Sie mehr über das Dateiformat der LST-Datenliste und APIs, mit denen LST-Dateien erstellt und geöffnet werden können.",
    "linktitle":"LST",
    "menu":{
       "docs":{

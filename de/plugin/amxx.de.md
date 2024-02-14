@@ -6,7 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "AMXX-Datei – Was ist eine AMXX-Datei und wie öffnet man sie?",
-  "description":"AMXX-Datei – Was ist eine AMXX-Datei und wie öffnet man sie?",
+  "description":"Erfahren Sie mehr über das AMXX-Dateiformat und APIs, mit denen AMXX-Dateien erstellt und geöffnet werden können.",
   "linktitle" : "AMXX",
   "menu" : {
     "docs" : {

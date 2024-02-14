@@ -6,7 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "MPJ-Datei – Minitab-Projektdatei – Was ist eine MPJ-Datei und wie öffnet man sie?",
-  "description" : "MPJ-Datei – Minitab-Projektdatei – Was ist eine MPJ-Datei und wie öffnet man sie?",
+  "description" : "Erfahren Sie mehr über die MPJ Minitab-Projektdatei und wie Sie sie öffnen.",
   "linktitle" : "MPJ",
   "menu" : {
     "docs" : {
@@ -25,7 +25,7 @@ Wenn Sie Ihre Arbeit in Minitab speichern, wird sie normalerweise im MPJ-Format 
 
 ## Wie öffne ich eine MPJ-Datei?
 
-Wenn Sie über eine MPJ-Datei verfügen, können Sie diese in Minitab öffnen, indem Sie einfach auf die Datei doppelklicken oder die Option Datei > Öffnen in der Minitab-Software verwenden.
+Wenn Sie eine MPJ-Datei haben, können Sie diese in Minitab öffnen, indem Sie einfach auf die Datei doppelklicken oder die Option Datei > Öffnen in der Minitab-Software verwenden.
 
 ## Über Minitab
 

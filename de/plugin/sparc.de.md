@@ -6,7 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "SPARC-Datei – Was ist eine SPARC-Datei und wie öffnet man sie?",
-  "description":"SPARC-Datei – Was ist eine SPARC-Datei und wie öffnet man sie?",
+  "description":"Erfahren Sie mehr über das SPARC-Dateiformat und APIs, mit denen SPARC-Dateien erstellt und geöffnet werden können.",
   "linktitle" : "SPARC",
   "menu" : {
     "docs" : {

@@ -6,7 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "TIME-Datei – Was ist eine .time-Datei? Zeitpunkt, zu dem die Datei unter Linux erstellt wurde",
-  "description" : "TIME-Datei – Was ist eine .time-Datei? Zeitpunkt, zu dem die Datei unter Linux erstellt wurde",
+  "description" : "Erfahren Sie mehr über die TIME-Datei und erfahren Sie, wann die Datei unter Linux erstellt wurde",
   "linktitle" : "TIME",
   "menu" : {
     "docs" : {

@@ -6,7 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "EAZ-Datei – Was ist eine EAZ-Datei und wie öffnet man sie?",
-  "description":"EAZ-Datei – Was ist eine EAZ-Datei und wie öffnet man sie?",
+  "description":"Erfahren Sie mehr über das EAZ-Dateiformat und APIs, mit denen EAZ-Dateien erstellt und geöffnet werden können.",
   "linktitle" : "EAZ",
   "menu" : {
     "docs" : {
@@ -19,7 +19,7 @@
 
 ## Was ist eine EAZ-Datei?
 
-Die EAZ-Datei ist eine Add-In-Datei, die von ArcGIS Explorer verwendet wird, einer kostenlosen Anwendung, die von ESRI zur Kartenerkundung, Visualisierung und Freigabe entwickelt wurde. Es enthält ein komprimiertes Dateiarchiv, das einen [XML file](/web/xml/), kompilierten Code und unterstützende Dateien enthält, die für das Add-In erforderlich sind. Diese Dateien werden verwendet, um die Basisfunktionalität der Software durch die Integration neuer Schaltflächen, andockbarer Fenster und anderer Erweiterungen zu erweitern.
+Die EAZ-Datei ist eine Add-in-Datei, die von ArcGIS Explorer verwendet wird, einer kostenlosen Anwendung, die von ESRI zur Kartenerkundung, Visualisierung und Freigabe entwickelt wurde. Es enthält ein komprimiertes Dateiarchiv, das einen [XML file](/web/xml/), kompilierten Code und unterstützende Dateien enthält, die für das Add-In erforderlich sind. Diese Dateien werden verwendet, um die Basisfunktionalität der Software durch die Integration neuer Schaltflächen, andockbarer Fenster und anderer Erweiterungen zu erweitern.
 
 ## EAZ-Dateiformat – Weitere Informationen
 

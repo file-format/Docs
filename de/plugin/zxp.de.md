@@ -6,7 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "ZXP-Datei – Was ist eine ZXP-Datei und wie öffnet man sie?",
-  "description":"ZXP-Datei – Was ist eine ZXP-Datei und wie öffnet man sie?",
+  "description":"Erfahren Sie mehr über das ZXP-Dateiformat und APIs, mit denen ZXP-Dateien erstellt und geöffnet werden können.",
   "linktitle" : "ZXP",
   "menu" : {
     "docs" : {
@@ -31,7 +31,7 @@ In einer ZXP-Datei finden Sie normalerweise die für die Erweiterung erforderlic
 
 ZXP-Dateien werden mit dem Adobe Extension Manager oder der Creative Cloud Desktop-Anwendung installiert. Benutzer können einfach auf eine ZXP-Datei doppelklicken und der Erweiterungsmanager übernimmt den Installationsprozess.
 
-ZXP-Dateien sind so konzipiert, dass sie auf verschiedenen Betriebssystemen, einschließlich Windows und macOS, funktionieren, sodass Entwickler bequem Erweiterungen erstellen können, die von einem breiten Publikum verwendet werden können.
+ZXP-Dateien sind so konzipiert, dass sie auf verschiedenen Betriebssystemen, einschließlich Windows und macOS, funktionieren, sodass Entwickler problemlos Erweiterungen erstellen können, die von einem breiten Publikum verwendet werden können.
 
 ### Sicherheit des ZXP-Dateiformats
 

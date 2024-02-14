@@ -16,7 +16,7 @@
    "draft" : "false",
    "toc" : true,
    "title" : "FS-Datei – Visual F#-Quelldatei – Was ist eine .fs-Datei und wie öffnet man sie?",
-   "description" : "FS-Datei – Visual F#-Quelldatei – Was ist eine .fs-Datei und wie öffnet man sie?",
+   "description" : "Erfahren Sie mehr über das FS Visual F#-Quelldateiformat und die APIs, mit denen FS-Dateien erstellt und geöffnet werden können.",
    "linktitle" : "FS",
    "menu" : {
       "docs" : {

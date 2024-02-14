@@ -6,7 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "RWPLUGIN-Datei – Was ist eine RWPLUGIN-Datei und wie öffnet man sie?",
-  "description":"RWPLUGIN-Datei – Was ist eine RWPLUGIN-Datei und wie öffnet man sie?",
+  "description":"Erfahren Sie mehr über das RWPLUGIN-Dateiformat und APIs, mit denen RWPLUGIN-Dateien erstellt und geöffnet werden können.",
   "linktitle" : "RWPLUGIN",
   "menu" : {
     "docs" : {
@@ -23,7 +23,7 @@ Eine .RWPLUGIN-Datei ist ein Plugin, das von **RapidWeaver**, einer für macOS e
 
 ## Über RapidWeaver-Software
 
-RapidWeaver ist eine Webdesign- und Entwicklungsanwendung, die für macOS entwickelt wurde. Es ermöglicht Benutzern, Websites zu erstellen und zu veröffentlichen, ohne Code schreiben zu müssen. Die Software bietet eine benutzerfreundliche Oberfläche und eine Vielzahl von Themen und Plugins, um Benutzern bei der individuellen Gestaltung ihrer Websites zu helfen.
+RapidWeaver ist eine Webdesign- und Entwicklungsanwendung, die für macOS entwickelt wurde. Es ermöglicht Benutzern, Websites zu erstellen und zu veröffentlichen, ohne Code schreiben zu müssen. Die Software bietet eine benutzerfreundliche Oberfläche sowie eine Vielzahl von Themen und Plugins, um Benutzern bei der individuellen Anpassung ihrer Websites zu helfen.
 
 ### Hauptfunktionen von RapidWeaver
 

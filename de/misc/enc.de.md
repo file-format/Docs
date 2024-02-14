@@ -16,7 +16,7 @@
    "draft" : "false",
    "toc" : true,
    "title" : "ENC-Datei – Verschlüsselte Datei – Was ist eine .enc-Datei und wie öffnet man sie?",
-   "description" : "ENC-Datei – Verschlüsselte Datei – Was ist eine .enc-Datei und wie öffnet man sie?",
+   "description" : "Erfahren Sie mehr über ENC-codierte Dateiformate und APIs, mit denen ENC-Dateien erstellt und geöffnet werden können.",
    "linktitle" : "ENC",
    "menu" : {
       "docs" : {
@@ -29,11 +29,11 @@
 
 ## Was ist eine ENC-Datei?
 
-Eine **ENC-Datei** ist eine Art Datendatei, die kodierte Informationen enthält, oft unter Verwendung eines proprietären oder standardmäßigen Kodierungsformats; Der Zweck der Kodierung besteht darin, Daten in unterschiedliche Darstellungen umzuwandeln, und dies kann verschiedenen Zwecken dienen. In vielen Fällen sind ENC-Dateien zum Schutz der enthaltenen Daten verschlüsselt, was es für Benutzer schwierig macht, Informationen zu ändern oder auf unbefugte Weise zu verwenden. Es fügt den Daten eine Schutzschicht hinzu.
+Eine **ENC-Datei** ist eine Art Datendatei, die kodierte Informationen enthält, oft unter Verwendung eines proprietären oder standardmäßigen Kodierungsformats; Der Zweck der Kodierung besteht darin, Daten in unterschiedliche Darstellungen umzuwandeln, und dies kann verschiedenen Zwecken dienen. In vielen Fällen werden ENC-Dateien zum Schutz der enthaltenen Daten verschlüsselt, was es für Benutzer schwierig macht, Informationen zu ändern oder sie auf unbefugte Weise zu verwenden. Es fügt den Daten eine Schutzschicht hinzu.
 
 Es gibt verschiedene Kodierungsmethoden und die für eine bestimmte ENC-Datei verwendete spezifische Methode kann variieren. Ein gängiges Beispiel ist die **Base64**-Kodierung, die Binärdaten in ASCII-Text umwandelt; Diese Art der Kodierung wird häufig verwendet, um die Kompatibilität mit textbasierten Übertragungsprotokollen sicherzustellen.
 
-Während die Kodierung in ENC-Dateien in erster Linie dem Datenschutz dient, könnten einige ENC-Dateien zu Optimierungszwecken kodiert werden, insbesondere wenn es um eine effiziente Datenübertragung über das Internet geht.
+Während die Codierung in ENC-Dateien in erster Linie dem Datenschutz dient, können einige ENC-Dateien zu Optimierungszwecken codiert werden, insbesondere wenn es um eine effiziente Datenübertragung über das Internet geht.
 
 ## ENC-Dateiformat – Weitere Informationen
 
@@ -53,7 +53,7 @@ Hier sind einige Möglichkeiten, was die Datei .enc darstellen könnte:
 
 Wenn Ihre ENC-Datei im Standardformat kodiert wurde, können Sie ein kompatibles Programm verwenden, das dieses spezielle Format dekodieren kann.
 
-Bei ENC-Dateien, die mit einem proprietären Format codiert sind, ist es möglicherweise möglich, sie mit dem ursprünglichen Programm zu öffnen, das die Datei erstellt hat. Viele ENC-Dateien sind nicht für die direkte Benutzerinteraktion konzipiert. Stattdessen dienen sie als Container für verschlüsselte Daten, die ein Programm bei Bedarf während seines Betriebs lädt. Das Öffnen solcher Dateien ohne zugehöriges Programm liefert möglicherweise keine aussagekräftigen Informationen, da ihr Hauptzweck darin besteht, verschlüsselte Daten für die internen Abläufe einer bestimmten Anwendung oder eines bestimmten Systems zu speichern.
+Bei ENC-Dateien, die mit einem proprietären Format codiert sind, ist es möglicherweise möglich, sie mit dem ursprünglichen Programm zu öffnen, das die Datei erstellt hat. Viele ENC-Dateien sind nicht für die direkte Benutzerinteraktion konzipiert. Stattdessen dienen sie als Container für verschlüsselte Daten, die ein Programm während seines Betriebs nach Bedarf lädt. Das Öffnen solcher Dateien ohne zugehöriges Programm liefert möglicherweise keine aussagekräftigen Informationen, da ihr Hauptzweck darin besteht, verschlüsselte Daten für interne Abläufe einer bestimmten Anwendung oder eines bestimmten Systems zu speichern.
 
 ## Verweise
 * [Zeichenkodierung](https://en.wikipedia.org/wiki/Character_encoding)

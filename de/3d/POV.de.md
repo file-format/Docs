@@ -7,7 +7,7 @@
 },
   "draft" : "false",
   "toc" : true,
-  "description":"POV – Persistence of Vision-Datei",
+  "description":"Erfahren Sie mehr über das POV-Dateiformat und APIs, mit denen POV-Dateien geöffnet und erstellt werden können.",
   "title" : "POV – Persistence of Vision-Datei",
   "linktitle" : "POV",
   "menu" : {

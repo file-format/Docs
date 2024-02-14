@@ -6,7 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "TPI-Datei – Was ist eine TPI-Datei und wie öffnet man sie?",
-  "description":"TPI-Datei – Was ist eine TPI-Datei und wie öffnet man sie?",
+  "description":"Erfahren Sie mehr über das TPI-Dateiformat und APIs, mit denen TPI-Dateien erstellt und geöffnet werden können.",
   "linktitle" : "TPI",
   "menu" : {
     "docs" : {

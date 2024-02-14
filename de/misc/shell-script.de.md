@@ -6,7 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "Shell-Skript – So führen Sie es unter Ubuntu und Linux aus",
-  "description":"Shell-Skript – So führen Sie es unter Ubuntu und Linux aus",
+  "description":"Erfahren Sie, was Shell Script ist und wie es unter Ubuntu und Linux ausgeführt wird",
   "linktitle" : "SHELL SCRIPT",
   "menu" : {
     "docs" : {

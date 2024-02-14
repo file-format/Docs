@@ -16,7 +16,7 @@
    "draft" : "false",
    "toc" : true,
    "title" : "ENC-Datei – Cabal Online Data File – Was ist eine .enc-Datei und wie öffnet man sie?",
-   "description" : "ENC-Datei – Cabal Online Data File – Was ist eine .enc-Datei und wie öffnet man sie?",
+   "description" : "Erfahren Sie mehr über das ENC Cabal Online Data-Dateiformat und APIs, mit denen ENC-Dateien erstellt und geöffnet werden können.",
    "linktitle" : "ENC",
    "menu" : {
       "docs" : {
@@ -39,7 +39,7 @@ ESTsoft Cabal Online ist ein Massively Multiplayer Online Role-Playing Game (MMO
 
 ENC-Dateien werden wahrscheinlich aus Sicherheitsgründen komprimiert und codiert, und ihre Änderung könnte zu unbeabsichtigten Folgen oder Problemen mit dem Spielclient führen.
 
-Das **Cabal ENC Tool für Windows** erleichtert die Dekomprimierung von ENC-Dateien und ermöglicht Benutzern das Erkunden ihrer Inhalte. Darüber hinaus bietet das Tool die Möglichkeit, Dateien in ein ENC-Format zu packen. Diese Funktionalität ermöglicht es Benutzern, möglicherweise auch Moddern, den Inhalt von ENC-Dateien zu entpacken und zu überprüfen sowie neue ENC-Dateien zu erstellen, indem sie bestimmte Dateien zusammenpacken.
+Das **Cabal ENC Tool für Windows** erleichtert die Dekomprimierung von ENC-Dateien und ermöglicht Benutzern das Erkunden ihrer Inhalte. Darüber hinaus bietet das Tool die Möglichkeit, Dateien in ein ENC-Format zu packen. Mit dieser Funktionalität können Benutzer, möglicherweise auch Modder, den Inhalt von ENC-Dateien entpacken und überprüfen sowie neue ENC-Dateien erstellen, indem sie bestimmte Dateien zusammenpacken.
 
 ## Verweise
 * [Cabal Online](https://en.wikipedia.org/wiki/Cabal_Online)

@@ -6,7 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "DLR-Datei – Was ist eine DLR-Datei und wie öffnet man sie?",
-  "description":"DLR-Datei – Was ist eine DLR-Datei und wie öffnet man sie?",
+  "description":"Erfahren Sie mehr über das DLR-Dateiformat und APIs, mit denen DLR-Dateien erstellt und geöffnet werden können.",
   "linktitle" : "DLR",
   "menu" : {
     "docs" : {

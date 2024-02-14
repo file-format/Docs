@@ -6,7 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "AVX-Datei – Was ist eine AVX-Datei und wie öffnet man sie?",
-  "description":"AVX-Datei – Was ist eine AVX-Datei und wie öffnet man sie?",
+  "description":"Erfahren Sie mehr über das AVX-Dateiformat und APIs, mit denen AVX-Dateien erstellt und geöffnet werden können.",
   "linktitle" : "AVX",
   "menu" : {
     "docs" : {

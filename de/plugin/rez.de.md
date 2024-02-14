@@ -6,7 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "REZ-Datei – Was ist eine REZ-Datei und wie öffnet man sie?",
-  "description":"REZ-Datei – Was ist eine REZ-Datei und wie öffnet man sie?",
+  "description":"Erfahren Sie mehr über das REZ-Dateiformat und APIs, mit denen REZ-Dateien erstellt und geöffnet werden können.",
   "linktitle" : "REZ",
   "menu" : {
     "docs" : {

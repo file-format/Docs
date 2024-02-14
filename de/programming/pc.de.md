@@ -6,7 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "PC-Datei – Pro*C-Quellcodedatei – Was ist eine .pc-Datei und wie öffnet man sie?",
-  "description" : "PC-Datei – Pro*C-Quellcodedatei – Was ist eine .pc-Datei und wie öffnet man sie?",
+  "description" : "Erfahren Sie mehr über die PC Pro*C-Quellcodedatei und wie Sie sie öffnen.",
   "linktitle" : "PC",
   "menu" : {
     "docs" : {

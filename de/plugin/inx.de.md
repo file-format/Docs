@@ -6,7 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "INX-Datei – Was ist eine INX-Datei und wie öffnet man sie?",
-  "description":"INX-Datei – Was ist eine INX-Datei und wie öffnet man sie?",
+  "description":"Erfahren Sie mehr über das INX-Dateiformat und APIs, mit denen INX-Dateien erstellt und geöffnet werden können.",
   "linktitle" : "INX",
   "menu" : {
     "docs" : {

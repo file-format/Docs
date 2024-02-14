@@ -6,7 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "MILK-Datei – Was ist eine MILK-Datei und wie öffnet man sie?",
-  "description":"MILK-Datei – Was ist eine MILK-Datei und wie öffnet man sie?",
+  "description":"Erfahren Sie mehr über das MILK-Dateiformat und APIs, mit denen MILK-Dateien erstellt und geöffnet werden können.",
   "linktitle" : "MILK",
   "menu" : {
     "docs" : {

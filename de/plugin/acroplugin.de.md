@@ -6,7 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "ACROPLUGIN-Datei – Was ist eine ACROPLUGIN-Datei und wie öffnet man sie?",
-  "description":"ACROPLUGIN-Datei – Was ist eine ACROPLUGIN-Datei und wie öffnet man sie?",
+  "description":"Erfahren Sie mehr über das ACROPLUGIN-Dateiformat und APIs, mit denen ACROPLUGIN-Dateien erstellt und geöffnet werden können.",
   "linktitle" : "ACROPLUGIN",
   "menu" : {
     "docs" : {

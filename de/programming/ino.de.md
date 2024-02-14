@@ -16,7 +16,7 @@
    "draft" : "false",
    "toc" : true,
    "title" : "INO-Datei – Arduino Sketch – Was ist eine .ino-Datei und wie öffnet man sie?",
-   "description" : "INO-Datei – Arduino Sketch – Was ist eine .ino-Datei und wie öffnet man sie?",
+   "description" : "Erfahren Sie mehr über das INO Arduino Sketch-Dateiformat und die APIs, mit denen INO-Dateien erstellt und geöffnet werden können.",
    "linktitle" : "INO",
    "menu" : {
       "docs" : {
@@ -43,7 +43,7 @@ Arduino ist eine Open-Source-Elektronikplattform, die das Prototyping und die En
 
 Die Arduino IDE dient als benutzerfreundliche Schnittstelle zum Codieren, Kompilieren und Hochladen von Programmen (Skizzen) auf die Boards; Die C/C++-ähnliche Programmiersprache ist auf Zugänglichkeit ausgelegt und abstrahiert Komplexitäten für Anfänger. Arduino-Bibliotheken bieten vorgefertigte Codeausschnitte für Aufgaben, die von der Sensorintegration bis hin zu Kommunikationsprotokollen reichen, und erleichtern so eine effiziente Entwicklung.
 
-Arduino-Shields und zusätzliche Platinen erweitern die Funktionalität und bieten Funktionen wie Ethernet-Konnektivität oder Motorsteuerung. Die lebendige Arduino-Community trägt durch Foren, Tutorials und Gemeinschaftsprojekte zu einer umfangreichen Wissensbasis bei; Mit Anwendungen in den Bereichen Robotik, Hausautomation, Kunstinstallationen und sensorbasierten Systemen ist Arduino aufgrund seiner Vielseitigkeit und Einfachheit die bevorzugte Wahl für verschiedene elektronische Projekte.
+Arduino-Shields und zusätzliche Platinen erweitern die Funktionalität und bieten Funktionen wie Ethernet-Konnektivität oder Motorsteuerung. Die lebendige Arduino-Community trägt durch Foren, Tutorials und Gemeinschaftsprojekte zu einer umfangreichen Wissensbasis bei; Mit Anwendungen in den Bereichen Robotik, Heimautomation, Kunstinstallationen und sensorbasierten Systemen ist Arduino aufgrund seiner Vielseitigkeit und Einfachheit die bevorzugte Wahl für verschiedene elektronische Projekte.
 
 ## Wie öffne ich eine INO-Datei?
 

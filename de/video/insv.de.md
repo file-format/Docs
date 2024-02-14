@@ -6,7 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "INSV-Datei – Insta360-Panorama-Videodatei – Was ist eine .insv-Datei und wie öffnet man sie?",
-  "description" : "INSV-Datei – Insta360-Panorama-Videodatei – Was ist eine .insv-Datei und wie öffnet man sie?",
+  "description" : "Erfahren Sie mehr über die INSV Insta360-Panoramavideodatei und wie Sie sie öffnen.",
   "linktitle" : "INSV",
   "menu" : {
     "docs" : {

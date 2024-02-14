@@ -6,7 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "PS2-BIOS – Playstation 2-BIOS",
-  "description":"PS2-BIOS – Playstation 2-BIOS",
+  "description":"Erfahren Sie mehr über das PS2-Playstation-2-BIOS und die zugehörigen Informationen",
   "linktitle" : "PS2 BIOS",
   "menu" : {
     "docs" : {

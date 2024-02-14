@@ -16,7 +16,7 @@
    "draft" : "false",
    "toc" : true,
    "title" : "MAX-Datei – 3ds Max-Szenendatei – Was ist eine .max-Datei und wie öffnet man sie?",
-   "description" : "MAX-Datei – 3ds Max-Szenendatei – Was ist eine .max-Datei und wie öffnet man sie?",
+   "description" : "Erfahren Sie mehr über das 3ds Max Scene-Dateiformat und die APIs, mit denen MAX-Dateien erstellt und geöffnet werden können.",
    "linktitle" : "MAX",
    "menu" : {
       "docs" : {
@@ -37,7 +37,7 @@ Wenn Sie ein Projekt oder eine Szene in Autodesk 3ds Max speichern, wird es norm
 
 Profis in Branchen wie Videospielproduktion, Filmemachen, Fernsehen und Architektur verlassen sich auf Autodesk 3ds Max, um komplexe 3D-Modelle und Grafiken zu erstellen. Die Software verwendet eine proprietäre Datei namens 3ds Max-Szenendatei mit der Erweiterung .max, um alle Projektdetails zu speichern. Sobald das Projekt gespeichert ist, wird es zu einer eigenständigen MAX-Datei, die Konfigurationsinformationen wie Szenengeometrie, Beleuchtung, Objekte, Kamera, Animation usw. enthält. Diese MAX-Datei ist eine detaillierte Momentaufnahme des Projekts.
 
-Beim Arbeiten in 3ds Max haben Benutzer die Flexibilität, ihre laufende Arbeit als MAX-Datei zu speichern; Dadurch können sie die Anwendung schließen und später die MAX-Datei erneut öffnen, um nahtlos dort fortzufahren, wo sie aufgehört haben, was einen flüssigen und iterativen Arbeitsablauf erleichtert. Dieser Ansatz ist besonders vorteilhaft für Projekte, die eine Zusammenarbeit oder längere Entwicklungszeiten erfordern, sodass Profis ihre 3D-Kreationen nach Bedarf noch einmal überprüfen, überarbeiten und verfeinern können.
+Beim Arbeiten in 3ds Max haben Benutzer die Flexibilität, ihre laufende Arbeit als MAX-Datei zu speichern; Dadurch können sie die Anwendung schließen und später die MAX-Datei erneut öffnen, um nahtlos dort weiterzumachen, wo sie aufgehört haben, was einen flüssigen und iterativen Arbeitsablauf erleichtert. Dieser Ansatz ist besonders vorteilhaft für Projekte, die eine Zusammenarbeit oder längere Entwicklungszeiten erfordern, sodass Profis ihre 3D-Kreationen nach Bedarf noch einmal überprüfen, überarbeiten und verfeinern können.
 
 ## Wie öffne ich eine MAX-Datei?
 

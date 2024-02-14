@@ -6,7 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "NSZ-Datei – Komprimiertes Nintendo Switch-Spielpaket – Was ist eine NSZ-Datei und wie öffnet man sie?",
-  "description" : "NSZ-Datei – Komprimiertes Nintendo Switch-Spielpaket – Was ist eine NSZ-Datei und wie öffnet man sie?",
+  "description" : "Erfahren Sie mehr über das NSZ Compressed Nintendo Switch Game Package und wie Sie es öffnen.",
   "linktitle" : "NSZ",
   "menu" : {
     "docs" : {

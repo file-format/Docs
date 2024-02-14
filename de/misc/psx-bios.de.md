@@ -6,7 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "PSX-BIOS – Playstation-BIOS",
-  "description":"PSX-BIOS – Playstation-BIOS",
+  "description":"Erfahren Sie mehr über das PSX Playstation BIOS und die zugehörigen Informationen",
   "linktitle" : "PSX BIOS",
   "menu" : {
     "docs" : {

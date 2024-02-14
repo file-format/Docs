@@ -6,7 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "DLO-Datei – Was ist eine DLO-Datei und wie öffnet man sie?",
-  "description":"DLO-Datei – Was ist eine DLO-Datei und wie öffnet man sie?",
+  "description":"Erfahren Sie mehr über das DLO-Dateiformat und APIs, mit denen DLO-Dateien erstellt und geöffnet werden können.",
   "linktitle" : "DLO",
   "menu" : {
     "docs" : {

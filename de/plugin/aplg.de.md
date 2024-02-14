@@ -6,7 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "APLG-Datei – Was ist eine APLG-Datei und wie öffnet man sie?",
-  "description":"APLG-Datei – Was ist eine APLG-Datei und wie öffnet man sie?",
+  "description":"Erfahren Sie mehr über das APLG-Dateiformat und APIs, mit denen APLG-Dateien erstellt und geöffnet werden können.",
   "linktitle" : "APLG",
   "menu" : {
     "docs" : {

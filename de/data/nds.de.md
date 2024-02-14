@@ -16,7 +16,7 @@
    "draft":"false",
    "toc":true,
    "title":"NDS-Datei – Nero DiscSpan-Zusammenstellungsdatei – Was ist eine .nds-Datei und wie öffnet man sie?",
-   "description":"NDS-Datei – Nero DiscSpan-Zusammenstellungsdatei – Was ist eine .nds-Datei und wie öffnet man sie?",
+   "description":"Erfahren Sie mehr über das NDS Nero DiscSpan Compilation-Dateiformat und APIs, mit denen NDS-Dateien erstellt und geöffnet werden können.",
    "linktitle":"NDS",
    "menu":{
       "docs":{

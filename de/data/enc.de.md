@@ -16,7 +16,7 @@
    "draft" : "false",
    "toc" : true,
    "title" : "ENC-Datei – Elektronische Navigationskarte – Was ist eine .enc-Datei und wie öffnet man sie?",
-   "description" : "ENC-Datei – Elektronische Navigationskarte – Was ist eine .enc-Datei und wie öffnet man sie?",
+   "description" : "Erfahren Sie mehr über das ENC Electronic Navigation Chart-Dateiformat und APIs, mit denen ENC-Dateien erstellt und geöffnet werden können.",
    "linktitle" : "ENC",
    "menu" : {
       "docs" : {

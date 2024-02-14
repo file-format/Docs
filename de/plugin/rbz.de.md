@@ -6,7 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "RBZ-Datei – Was ist eine RBZ-Datei und wie öffnet man sie?",
-  "description":"RBZ-Datei – Was ist eine RBZ-Datei und wie öffnet man sie?",
+  "description":"Erfahren Sie mehr über das RBZ-Dateiformat und APIs, mit denen RBZ-Dateien erstellt und geöffnet werden können.",
   "linktitle" : "RBZ",
   "menu" : {
     "docs" : {

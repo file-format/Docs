@@ -16,7 +16,7 @@
    "draft" : "false",
    "toc" : true,
    "title" : "WS-Datei – Windows-Skript – Was ist eine .ws-Datei und wie öffnet man sie?",
-   "description" : "WS-Datei – Windows-Skript – Was ist eine .ws-Datei und wie öffnet man sie?",
+   "description" : "Erfahren Sie mehr über das WS-Windows-Script-Dateiformat und die APIs, mit denen WS-Dateien erstellt und geöffnet werden können.",
    "linktitle" : "WS",
    "menu" : {
       "docs" : {

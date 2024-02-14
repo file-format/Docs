@@ -6,7 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "CLEO-Datei – Was ist eine CLEO-Datei und wie öffnet man sie?",
-  "description":"CLEO-Datei – Was ist eine CLEO-Datei und wie öffnet man sie?",
+  "description":"Erfahren Sie mehr über das CLEO-Dateiformat und APIs, mit denen CLEO-Dateien erstellt und geöffnet werden können.",
   "linktitle" : "CLEO",
   "menu" : {
     "docs" : {

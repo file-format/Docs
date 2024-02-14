@@ -6,7 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "FST-Datei – FL Studio-Datei – Was ist eine .fst-Datei und wie öffnet man sie?",
-  "description" : "FST-Datei – FL Studio-Datei – Was ist eine .fst-Datei und wie öffnet man sie?",
+  "description" : "Erfahren Sie mehr über die FST FL Studio-Datei und wie Sie sie öffnen.",
   "linktitle" : "FST",
   "menu" : {
     "docs" : {

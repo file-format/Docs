@@ -16,7 +16,7 @@
    "draft":"false",
    "toc":true,
    "title":"MP5-Datei – Chinesisches tragbares Mediaplayer-Video – Was ist eine .mp5-Datei und wie öffnet man sie?",
-   "description":"MP5-Datei – Chinesisches tragbares Mediaplayer-Video – Was ist eine .mp5-Datei und wie öffnet man sie?",
+   "description":"Erfahren Sie mehr über das Videodateiformat MP5 Chinese Portable Media Player und APIs, mit denen MP5-Dateien erstellt und geöffnet werden können.",
    "linktitle":"MP5",
    "menu":{
       "docs":{

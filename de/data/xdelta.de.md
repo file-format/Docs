@@ -6,7 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "XDELTA-Datei – xdelta-Differenzdatei – Was ist eine .xdelta-Datei und wie öffnet man sie?",
-  "description" : "XDELTA-Datei – xdelta-Differenzdatei – Was ist eine .xdelta-Datei und wie öffnet man sie?",
+  "description" : "Erfahren Sie mehr über xdelta Differential File und wie Sie es öffnen.",
   "linktitle" : "XDELTA",
   "menu" : {
     "docs" : {

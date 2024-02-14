@@ -6,7 +6,7 @@
    "draft":"false",
    "toc":true,
    "title":"RVZ-Datei – GameCube ROM – Was ist eine .rvz-Datei und wie öffnet man sie?",
-   "description":"RVZ-Datei – GameCube ROM – Was ist eine .rvz-Datei und wie öffnet man sie?",
+   "description":"Erfahren Sie mehr über das RVZ-Dateiformat und APIs, mit denen RVZ-Dateien erstellt und geöffnet werden können.",
    "linktitle":"RVZ",
    "menu":{
       "docs":{
@@ -21,7 +21,7 @@
 
 Eine RVZ-Datei ist eine spezielle Art von ROM-Datei, die mit einem Programm namens Dolphin-Emulator funktioniert. Mit dem Dolphin-Emulator können Benutzer Nintendo Wii- und GameCube-Spiele auf ihren normalen Computern spielen. Die RVZ-Datei ist wie eine komprimierte Version eines Nintendo-Spiels. damit Sie es auf Ihrem Computer abspielen können. Es unterscheidet sich von anderen Spieledateien, da es ausschließlich für den Betrieb mit dem Dolphin-Emulator konzipiert ist und dafür sorgt, dass Spiele reibungslos laufen.
 
-Wenn Sie den Dolphin-Emulator zum Spielen von Nintendo-Spielen auf Ihrem Computer verwenden möchten, stoßen Sie möglicherweise auf RVZ-Dateien. Diese Dateien wurden 2020 vom Dolphin-Team erstellt, um die Spiele auf dem Emulator besser laufen zu lassen. Wenn Sie bereits Spiele in einem anderen Format wie ISO-Dateien haben; Mit Dolphin können Sie sie in RVZ-Dateien umwandeln. Dies kann Platz auf Ihrem Computer sparen und Ihnen dennoch ein gutes Spielerlebnis bieten.
+Wenn Sie den Dolphin-Emulator zum Spielen von Nintendo-Spielen auf Ihrem Computer verwenden möchten, stoßen Sie möglicherweise auf RVZ-Dateien. Diese Dateien wurden 2020 vom Dolphin-Team erstellt, um die Spiele auf dem Emulator besser laufen zu lassen. Wenn Sie bereits Spiele in einem anderen Format wie ISO-Dateien haben; Mit Dolphin können Sie sie in RVZ-Dateien umwandeln; Dies kann Platz auf Ihrem Computer sparen und Ihnen dennoch ein gutes Spielerlebnis bieten.
 
 ## Über Dolphin Emulator
 

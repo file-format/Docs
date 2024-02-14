@@ -6,7 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "BAV-Datei – Was ist eine BAV-Datei und wie öffnet man sie?",
-  "description":"BAV-Datei – Was ist eine BAV-Datei und wie öffnet man sie?",
+  "description":"Erfahren Sie mehr über das BAV-Dateiformat und APIs, mit denen BAV-Dateien erstellt und geöffnet werden können.",
   "linktitle" : "BAV",
   "menu" : {
     "docs" : {

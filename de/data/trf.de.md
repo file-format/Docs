@@ -16,7 +16,7 @@
    "draft" : "false",
    "toc" : true,
    "title" : "TRF-Datei – TorrentRover-Datei – Was ist eine .trf-Datei und wie öffnet man sie?",
-   "description" : "TRF-Datei – TorrentRover-Datei – Was ist eine .trf-Datei und wie öffnet man sie?",
+   "description" : "Erfahren Sie mehr über das TRF-TorrentRover-Dateiformat und APIs, mit denen TRF-Dateien erstellt und geöffnet werden können.",
    "linktitle" : "TRF",
    "menu" : {
       "docs" : {

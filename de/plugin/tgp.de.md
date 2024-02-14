@@ -6,7 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "TGP-Datei – Was ist eine TGP-Datei und wie öffnet man sie?",
-  "description":"TGP-Datei – Was ist eine TGP-Datei und wie öffnet man sie?",
+  "description":"Erfahren Sie mehr über das TGP-Dateiformat und APIs, mit denen TGP-Dateien erstellt und geöffnet werden können.",
   "linktitle" : "TGP",
   "menu" : {
     "docs" : {

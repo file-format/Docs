@@ -6,7 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "DCE-Datei – DriveCam-Ereignisdatei – Was ist eine .dce-Datei und wie öffnet man sie?",
-  "description" : "DCE-Datei – DriveCam-Ereignisdatei – Was ist eine .dce-Datei und wie öffnet man sie?",
+  "description" : "Erfahren Sie mehr über die DCE DriveCam-Ereignisdatei und wie Sie sie öffnen.",
   "linktitle" : "DCE",
   "menu" : {
     "docs" : {
@@ -25,7 +25,7 @@ Wenn ein DriveCam-Ereignis (DCE) auftritt, zeichnet das System Videomaterial vor
 
 ## Wie öffne ich eine DCE-Datei?
 
-Wenn Sie über eine DCE-Datei von einem DriveCam-System verfügen, benötigen Sie möglicherweise spezielle Software oder Tools des Herstellers, um den Videoinhalt anzuzeigen und zu analysieren. Die spezifischen Details zum DCE-Dateiformat und zur Kompatibilität können je nach Hersteller und Modell des DriveCam-Systems variieren.
+Wenn Sie eine DCE-Datei von einem DriveCam-System haben, benötigen Sie möglicherweise spezielle Software oder Tools des Herstellers, um den Videoinhalt anzuzeigen und zu analysieren. Die spezifischen Details zum DCE-Dateiformat und zur Kompatibilität können je nach Hersteller und Modell des DriveCam-Systems variieren.
 
 Sie können die DCE-Datei auch in das AVI-Format konvertieren und dann den AVI-Player zum Abspielen des Videos verwenden.
 

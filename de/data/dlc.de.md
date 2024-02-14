@@ -6,7 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "DLC-Datei – Link-Container-Datei herunterladen – Was ist eine .dlc-Datei und wie öffnet man sie?",
-  "description" : "DLC-Datei – Link-Container-Datei herunterladen – Was ist eine .dlc-Datei und wie öffnet man sie?",
+  "description" : "Erfahren Sie mehr über die DLC-Download-Link-Containerdatei und wie Sie sie öffnen.",
   "linktitle" : "DLC",
   "menu" : {
     "docs" : {

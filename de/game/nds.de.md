@@ -16,7 +16,7 @@
    "draft":"false",
    "toc":true,
    "title":"NDS-Datei – Nintendo DS-Spiel-ROM – Was ist eine .nds-Datei und wie öffnet man sie?",
-   "description":"NDS-Datei – Nintendo DS-Spiel-ROM – Was ist eine .nds-Datei und wie öffnet man sie?",
+   "description":"Erfahren Sie mehr über das NDS Nintendo DS Game ROM-Dateiformat und APIs, mit denen NDS-Dateien erstellt und geöffnet werden können.",
    "linktitle":"NDS",
    "menu":{
       "docs":{
@@ -31,11 +31,11 @@
 
 Die Dateierweiterung .nds wird häufig mit **Nintendo DS (Dual Screen)** Spiel-ROMs (Read-Only Memory) in Verbindung gebracht. Der Nintendo DS ist eine Handheld-Spielekonsole, die 2004 von Nintendo herausgebracht wurde. Während ROMs digitale Kopien von Spielekassetten oder -discs sind, die es Benutzern ermöglichen, Spiele auf Emulatoren oder Flashcarts zu spielen.
 
-Wenn Sie über eine .NDS-Datei verfügen, enthält diese wahrscheinlich die Spieldaten für ein Nintendo DS-Spiel. Um das Spiel zu spielen, verwenden Sie normalerweise einen Nintendo DS-Emulator auf Ihrem Computer oder eine Flashcart auf einer echten Nintendo DS-Konsole. Emulatoren simulieren die Hardware der Originalkonsole, sodass Sie Spiele auf verschiedenen Plattformen spielen können, während Flashcarts physische Geräte sind, mit denen Sie ROMs auf der Originalkonsole laden und abspielen können.
+Wenn Sie über eine .NDS-Datei verfügen, enthält diese wahrscheinlich die Spieldaten für ein Nintendo DS-Spiel. Um das Spiel zu spielen, verwenden Sie normalerweise einen Nintendo DS-Emulator auf Ihrem Computer oder eine Flashcart auf einer echten Nintendo DS-Konsole. Emulatoren simulieren die Hardware der Originalkonsole, sodass Sie Spiele auf verschiedenen Plattformen spielen können, während Flashcarts physische Geräte sind, mit denen Sie ROMs auf die Originalkonsole laden und spielen können.
 
 ## NDS-Datei – Weitere Informationen
 
-Spieler, die gerne klassische Nintendo DS-Spiele spielen, die nicht mehr produziert werden, greifen häufig auf die Verwendung von NDS-Dateien zurück. Diese Dateien stammen typischerweise aus zwei Quellen: Benutzer, die sie erstellen, indem sie Spieldaten aus ihren Original-Kassetten extrahieren und als NDS-Datei packen, oder vorgefertigte NDS-Dateien von Online-Quellen herunterladen, wo Enthusiasten sie nach dem Extrahieren aus ihren eigenen Kassetten weitergeben.
+Spieler, die gerne klassische Nintendo DS-Spiele spielen, die nicht mehr produziert werden, greifen häufig auf die Verwendung von NDS-Dateien zurück. Diese Dateien stammen typischerweise aus zwei Quellen: von Benutzern, die sie erstellen, indem sie Spieldaten aus ihren Original-Kassetten extrahieren und als NDS-Datei verpacken, oder indem sie vorgefertigte NDS-Dateien von Online-Quellen herunterladen, wo Enthusiasten sie teilen, nachdem sie sie von ihren eigenen Kassetten extrahiert haben.
 
 Um diese NDS-Dateien auf ihren Computern abzuspielen, greifen Gamer auf verschiedene Emulatoren zurück, die für die Nintendo DS-Plattform entwickelt wurden. Emulatoren wie DeSmuME, NO$GBA, iDeaS Emulator, OpenEmu und Exophase DraStic DS Emulator reproduzieren die Funktionalität des Nintendo DS auf einem Computer, sodass Benutzer diese Spiele genießen können, ohne die Originalkonsole zu benötigen. Diese Emulatoren verfügen häufig über zusätzliche Funktionen wie verbesserte Grafikeinstellungen, anpassbare Spieloptionen und sogar Cheat-Funktionen, die das Spielerlebnis für Benutzer verbessern.
 

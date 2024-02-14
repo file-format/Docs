@@ -6,7 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "IO-Datei – BrickLink Studio LEGO-Modell – Was ist eine .io-Datei und wie öffnet man sie?",
-  "description" : "IO-Datei – BrickLink Studio LEGO-Modell – Was ist eine .io-Datei und wie öffnet man sie?",
+  "description" : "Erfahren Sie mehr über die LEGO-Modelldatei von IO BrickLink Studio und wie Sie sie öffnen.",
   "linktitle" : "IO",
   "menu" : {
     "docs" : {
@@ -25,7 +25,7 @@ BrickLink Studio verwendet die Dateierweiterung IO, um alle Informationen über 
 
 ## Über BrickLink Studio
 
-BrickLink Studio ist ein Softwaretool für LEGO-Enthusiasten, die es lieben, ihre eigenen Kreationen digital zu bauen und zu entwerfen. Es bietet Benutzern eine virtuelle Umgebung, in der sie LEGO-Modelle aus einer Vielzahl digitaler LEGO-Elemente zusammenbauen können, darunter Steine, Platten, Minifiguren und mehr.
+BrickLink Studio ist ein Softwaretool für LEGO-Enthusiasten, die es lieben, ihre eigenen Kreationen digital zu bauen und zu entwerfen; Es bietet Benutzern eine virtuelle Umgebung, in der sie LEGO-Modelle aus einer Vielzahl digitaler LEGO-Elemente zusammenbauen können, darunter Steine, Platten, Minifiguren und mehr.
 
 Zu den Hauptfunktionen von BrickLink Studio gehören:
 

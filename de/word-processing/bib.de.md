@@ -16,7 +16,7 @@
    "draft" : "false",
    "toc" : true,
    "title" : "BIB-Datei – BibTeX-Bibliographie – Was ist eine .bib-Datei und wie öffnet man sie?",
-   "description" : "BIB-Datei – BibTeX-Bibliographie – Was ist eine .bib-Datei und wie öffnet man sie?",
+   "description" : "Erfahren Sie mehr über das BIB BibTeX Bibliography-Dateiformat und APIs, mit denen BIB-Dateien erstellt und geöffnet werden können.",
    "linktitle" : "BIB",
    "menu" : {
       "docs" : {
@@ -70,7 +70,7 @@ Here is a citation to a book: \cite{knuth1984}.
 \end{document}
 ``` 
 
-Wenn Sie Ihr LaTeX-Dokument mit einem Tool wie BibTeX und dann erneut mit LaTeX kompilieren, wird ein Bibliografieabschnitt mit dem formatierten Zitat zu The TeXbook von Donald E. Knuth generiert.
+Wenn Sie Ihr LaTeX-Dokument mit einem Tool wie BibTeX und dann erneut mit LaTeX kompilieren, wird ein Bibliographieabschnitt mit dem formatierten Zitat zu The TeXbook von Donald E. Knuth generiert.
 
 ## Wie öffne ich eine BIB-Datei?
 

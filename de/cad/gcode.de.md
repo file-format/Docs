@@ -6,7 +6,7 @@
    "draft":"false",
    "toc":true,
    "title":"GCODE-Datei – Was ist eine .gcode-Datei und wie öffnet man sie?",
-   "description":"GCODE-Datei – Was ist eine .gcode-Datei und wie öffnet man sie?",
+   "description":"Erfahren Sie mehr über das GCODE-Dateiformat und APIs, mit denen GCODE-Dateien erstellt und geöffnet werden können.",
    "linktitle":"GCODE",
    "menu":{
       "docs":{
@@ -23,7 +23,7 @@ Eine **GCODE-Datei** ist eine reine Textdatei, die Anweisungen zur Steuerung com
 
 G-Code-Befehle werden in einer bestimmten Syntax geschrieben, die typischerweise aus Buchstaben und Zahlen besteht; Jeder Befehl weist die Maschine an, eine bestimmte Aktion auszuführen, z. B. das Werkzeug in eine bestimmte Position zu bewegen, das Werkzeug zu wechseln oder die Geschwindigkeit anzupassen.
 
-G-Code wird oft mit **CAM-Software (Computer-Aided Manufacturing)** generiert. CAM-Software nimmt 3D-Modelle oder 2D-Entwürfe und generiert entsprechende Werkzeugwege und G-Code-Anweisungen; Die G-Code-Datei wird dann zur Ausführung in eine CNC-Maschine oder einen 3D-Drucker geladen.
+G-Code wird oft mit **CAM-Software (Computer-Aided Manufacturing)** generiert; CAM-Software nimmt 3D-Modelle oder 2D-Entwürfe und generiert entsprechende Werkzeugwege und G-Code-Anweisungen; Die G-Code-Datei wird dann zur Ausführung in eine CNC-Maschine oder einen 3D-Drucker geladen.
 
 G-Code-Dateien haben normalerweise die Dateierweiterung .nc oder .gcode, zum Beispiel program.nc oder print.gcode.
 
@@ -54,7 +54,7 @@ M5             ; Stop spindle
 
 Zum Öffnen einer G-Code-Datei können Sie je nach Bedarf verschiedene Arten von Software verwenden.
 
-Wenn Sie einen G-Code für den 3D-Drucker generiert haben; Sie können es mit der Software öffnen, die mit Ihrem 3D-Drucker geliefert wurde, oder mit einer speziellen Schneidesoftware. Beispiele hierfür sind **PrusaSlicer**, **Cura**, **Simplify3D**, **MatterControl** oder **Repetier-Host**; Diese Programme verfügen häufig über eine benutzerfreundliche Oberfläche, mit der Sie G-Code laden und visualisieren können.
+Wenn Sie einen G-Code für den 3D-Drucker generiert haben; Sie können es mit der Software öffnen, die mit Ihrem 3D-Drucker geliefert wurde, oder mit einer speziellen Schneidesoftware. Beispiele sind **PrusaSlicer**, **Cura**, **Simplify3D**, **MatterControl** oder **Repetier-Host**; Diese Programme verfügen häufig über eine benutzerfreundliche Oberfläche, mit der Sie G-Code laden und visualisieren können.
 
 GCODE-Dateien sind reine Textdateien, sodass Sie sie mit jedem Texteditor öffnen können. Zu den gängigen Texteditoren gehören **Notepad (unter Windows)**, **TextEdit (unter macOS)** oder **Gedit (unter Linux)**; Klicken Sie einfach mit der rechten Maustaste auf die G-Code-Datei, wählen Sie Öffnen mit und wählen Sie einen Texteditor aus.
 

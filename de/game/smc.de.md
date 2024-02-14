@@ -16,7 +16,7 @@
    "draft" : "false",
    "toc" : true,
    "title" : "SMC-Datei – Super Nintendo Game ROM – Was ist eine .smc-Datei und wie öffnet man sie?",
-   "description" : "SMC-Datei – Super Nintendo Game ROM – Was ist eine .smc-Datei und wie öffnet man sie?",
+   "description" : "Erfahren Sie mehr über das SMC Super Nintendo Game ROM-Dateiformat und APIs, mit denen SMC-Dateien erstellt und geöffnet werden können.",
    "linktitle" : "SMC",
    "menu" : {
       "docs" : {
@@ -35,7 +35,7 @@ Um ein Super Nintendo-Spiel mit einer .smc-Datei zu spielen, verwenden Sie norma
 
 ## SMC-Dateiformat – Weitere Informationen
 
-SMC-Dateien wurden ursprünglich von Super Magicom generiert und verwendet, einem Tool, das von SNES-Enthusiasten zum Erstellen und Speichern von Backups von Super Nintendo-Videospielen verwendet wird. Diese Funktion ermöglichte es Spielern, auch dann weiterhin auf ihre Spiele zuzugreifen, wenn die Originalkassette verloren ging oder die Spieldatei beschädigt wurde. Heutzutage sind SMC-Dateien häufig auf Emulator-bezogenen Websites zu finden und dienen Retro-Spielern als Mittel zum Spielen von Super Nintendo-Spielen auf ihren PCs.
+SMC-Dateien wurden ursprünglich von Super Magicom generiert und verwendet, einem Tool, das von SNES-Enthusiasten zum Erstellen und Speichern von Backups von Super Nintendo-Videospielen verwendet wird. Diese Funktion ermöglichte es Spielern, auch dann weiterhin auf ihre Spiele zuzugreifen, wenn die Originalkassette verloren ging oder die Spieldatei beschädigt wurde. Heutzutage sind SMC-Dateien häufig auf Emulator-Websites zu finden, die Retro-Gamern als Mittel zum Spielen von Super Nintendo-Spielen auf ihren PCs dienen.
 
 Diese SMC-Dateien sind eng mit .SFC-Dateien verbunden, die ebenfalls Super Nintendo ROMs darstellen; SFC-Dateien sind so formatiert, dass sie mit Super Famicom, der japanischen Originalversion des Super Nintendo-Systems, kompatibel sind.
 

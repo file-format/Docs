@@ -6,7 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "AMX-Datei – Was ist eine AMX-Datei und wie öffnet man sie?",
-  "description":"AMX-Datei – Was ist eine AMX-Datei und wie öffnet man sie?",
+  "description":"Erfahren Sie mehr über das AMX-Dateiformat und APIs, mit denen AMX-Dateien erstellt und geöffnet werden können.",
   "linktitle" : "AMX",
   "menu" : {
     "docs" : {

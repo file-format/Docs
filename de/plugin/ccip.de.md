@@ -6,7 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "CCIP-Datei – Was ist eine CCIP-Datei und wie öffnet man sie?",
-  "description":"CCIP-Datei – Was ist eine CCIP-Datei und wie öffnet man sie?",
+  "description":"Erfahren Sie mehr über das CCIP-Dateiformat und APIs, mit denen CCIP-Dateien erstellt und geöffnet werden können.",
   "linktitle" : "CCIP",
   "menu" : {
     "docs" : {

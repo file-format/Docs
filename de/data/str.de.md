@@ -6,7 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "STR-Datei – dBASE-Strukturlistenobjektdatei – Was ist eine .str-Datei und wie öffnet man sie?",
-  "description" : "STR-Datei – dBASE-Strukturlistenobjektdatei – Was ist eine .str-Datei und wie öffnet man sie?",
+  "description" : "Erfahren Sie mehr über die STR dBASE-Strukturlistenobjektdatei und wie Sie sie öffnen.",
   "linktitle" : "STR",
   "menu" : {
     "docs" : {

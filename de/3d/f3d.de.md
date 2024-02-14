@@ -16,7 +16,7 @@
    "draft":"false",
    "toc":true,
    "title":"F3D-Datei – Fusion 360-Archiv – Was ist eine .f3d-Datei und wie öffnet man sie?",
-   "description":"F3D-Datei – Fusion 360-Archiv – Was ist eine .f3d-Datei und wie öffnet man sie?",
+   "description":"Erfahren Sie mehr über das F3D Fusion 360 Archive-Dateiformat und die APIs, mit denen F3D-Dateien erstellt und geöffnet werden können.",
    "linktitle":"F3D",
    "menu":{
       "docs":{

@@ -16,7 +16,7 @@
    "draft":"false",
    "toc":true,
    "title":"FZZ-Datei – Fritzing Shareable Project – Was ist eine .fzz-Datei und wie öffnet man sie?",
-   "description":"FZZ-Datei – Fritzing Shareable Project – Was ist eine .fzz-Datei und wie öffnet man sie?",
+   "description":"Erfahren Sie mehr über das FZZ Fritzing Shareable Project-Dateiformat und die APIs, mit denen FZZ-Dateien erstellt und geöffnet werden können.",
    "linktitle":"FZZ",
    "menu":{
       "docs":{

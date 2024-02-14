@@ -6,7 +6,7 @@
   "draft" : "false",
   "toc" : true,
   "title" : "BRD-Datei – EAGLE-Leiterplattendatei – Was ist eine .brd-Datei und wie öffnet man sie?",
-  "description" : "BRD-Datei – EAGLE-Leiterplattendatei – Was ist eine .brd-Datei und wie öffnet man sie?",
+  "description" : "Erfahren Sie mehr über die BRD EAGLE Circuit Board File und wie Sie sie öffnen.",
   "linktitle" : "BRD",
   "menu" : {
     "docs" : {
