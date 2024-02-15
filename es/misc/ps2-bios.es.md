@@ -4,13 +4,13 @@
     "display_name" : "Shakeel Faiz"
 },
   "draft" : "false",
-  "toc" : "true",
+  "toc" : true,
   "title" : "BIOS de PS2 - BIOS de Playstation 2",
   "description":"Conoce qué es la BIOS de PS2 Playstation 2 y su información relacionada",
   "linktitle" : "PS2 BIOS",
   "menu" : {
     "docs" : {
-      "identifier": "misc-ps2-bios",
+      "identifier": "misc-ps2-es-bios",
       "parent" : "misc"
 }
 },

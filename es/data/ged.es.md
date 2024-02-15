@@ -20,7 +20,7 @@
    "linktitle" : "GED",
    "menu" : {
       "docs" : {
-         "identifier" : "data-ged",
+         "identifier" : "data-es-ged",
          "parent" : "data"
 }
 },

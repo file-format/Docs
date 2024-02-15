@@ -20,7 +20,7 @@
    "linktitle":"ESX",
    "menu":{
       "docs":{
-         "identifier":"data-esx",
+         "identifier":"data-es-esx",
          "parent":"data"
 }
 },

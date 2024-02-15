@@ -10,7 +10,7 @@
   "linktitle" : "TIME",
   "menu" : {
     "docs" : {
-      "identifier" : "data-en-time",
+      "identifier" : "data-es-time",
       "parent" : "data"
 }
 },

@@ -11,7 +11,7 @@
   "menu" : {
     "docs" : {
       "parent" : "plugin",
-      "identifier":"plugin-en-cleo"
+      "identifier":"plugin-es-cleo"
 }
 },
   "lastmod" : "2023-11-28"

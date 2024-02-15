@@ -14,13 +14,13 @@
       "display_name" : "Shakeel Faiz"
 },
    "draft" : "false",
-   "toc" : "true",
+   "toc" : true,
    "title" : "Archivo FS - Archivo fuente de Visual F# - ¿Qué es un archivo .fs y cómo abrirlo?",
    "description" : "Obtenga información sobre el formato de archivo fuente de FS Visual F# y las API que pueden crear y abrir archivos FS.",
    "linktitle" : "FS",
    "menu" : {
       "docs" : {
-         "identifier" : "programming-fs",
+         "identifier" : "programming-es-fs",
          "parent" : "programming"
 }
 },

@@ -20,7 +20,7 @@
    "linktitle":"FZZ",
    "menu":{
       "docs":{
-         "identifier":"cad-fzz",
+         "identifier":"cad-es-fzz",
          "parent":"cad"
 }
 },

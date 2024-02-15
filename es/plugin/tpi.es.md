@@ -11,7 +11,7 @@
   "menu" : {
     "docs" : {
       "parent" : "plugin",
-      "identifier":"plugin-en-tpi"
+      "identifier":"plugin-es-tpi"
 }
 },
   "lastmod" : "2023-11-17"

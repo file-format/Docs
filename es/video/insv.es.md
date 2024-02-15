@@ -10,7 +10,7 @@
   "linktitle" : "INSV",
   "menu" : {
     "docs" : {
-      "identifier" : "video-en-insv",
+      "identifier" : "video-es-insv",
       "parent" : "video"
 }
 },

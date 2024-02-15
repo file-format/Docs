@@ -14,13 +14,13 @@
       "display_name" : "Shakeel Faiz"
 },
    "draft" : "false",
-   "toc" : "true",
+   "toc" : true,
    "title" : "Archivo INO - Arduino Sketch - ¿Qué es un archivo .ino y cómo abrirlo?",
    "description" : "Obtenga información sobre el formato de archivo INO Arduino Sketch y las API que pueden crear y abrir archivos INO.",
    "linktitle" : "INO",
    "menu" : {
       "docs" : {
-         "identifier" : "programming-ino",
+         "identifier" : "programming-es-ino",
          "parent" : "programming"
 }
 },

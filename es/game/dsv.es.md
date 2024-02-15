@@ -10,7 +10,7 @@
   "linktitle" : "DSV",
   "menu" : {
     "docs" : {
-      "identifier" : "game-en-dsv",
+      "identifier" : "game-es-dsv",
       "parent" : "game"
 }
 },

@@ -11,7 +11,7 @@
   "menu" : {
     "docs" : {
       "parent" : "plugin",
-      "identifier":"plugin-en-rez"
+      "identifier":"plugin-es-rez"
 }
 },
   "lastmod" : "2023-11-17"

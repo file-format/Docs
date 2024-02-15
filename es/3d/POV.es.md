@@ -6,13 +6,14 @@
     "display_name" : "Shakeel Faiz"
 },
   "draft" : "false",
-  "toc" : "true",
+  "toc" : true,
   "description":"Obtenga información sobre el formato de archivo POV y las API que pueden abrir y crear archivos POV.",
   "title" : "POV - Archivo de persistencia de la visión",
   "linktitle" : "POV",
   "menu" : {
     "docs" : {
-      "parent" : "3d"
+      "parent" : "3d",
+      "identifier":"3d-es-pov"
 }
 },
   "lastmod" : "2023-01-05"
@@ -73,3 +74,4 @@ En este ejemplo, el bloque de cámara especifica la posición y orientación de 
 ## Referencias
  * [POV-Ray - Wikipedia](https://en.wikipedia.org/wiki/POV-Ray)
  * [Sitio web de documentación POV-Ray](http://www.povray.org/documentation/)
+

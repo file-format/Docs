@@ -11,7 +11,7 @@
   "menu" : {
     "docs" : {
       "parent" : "plugin",
-      "identifier":"plugin-en-sparc"
+      "identifier":"plugin-es-sparc"
 }
 },
   "lastmod" : "2023-12-19"

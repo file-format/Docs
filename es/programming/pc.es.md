@@ -4,13 +4,13 @@
     "display_name" : "Shakeel Faiz"
 },
   "draft" : "false",
-  "toc" : "true",
+  "toc" : true,
   "title" : "Archivo PC - Archivo de código fuente Pro*C - ¿Qué es el archivo .pc y cómo abrirlo?",
   "description" : "Obtenga información sobre el archivo de código fuente de PC Pro*C y cómo abrirlo.",
   "linktitle" : "PC",
   "menu" : {
     "docs" : {
-      "identifier" : "programming-en-pc",
+      "identifier" : "programming-es-pc",
       "parent" : "programming"
 }
 },
@@ -72,3 +72,5 @@ Para abrir un archivo de PC, normalmente necesita un editor de texto o un entorn
   
 ## Referencias
 * [Pro*C](https://en.wikipedia.org/wiki/Pro*C)
+
+

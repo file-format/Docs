@@ -10,7 +10,7 @@
   "linktitle" : "NSZ",
   "menu" : {
     "docs" : {
-      "identifier" : "game-en-nsz",
+      "identifier" : "game-es-nsz",
       "parent" : "game"
 }
 },

@@ -20,7 +20,7 @@
    "linktitle":"NDS",
    "menu":{
       "docs":{
-         "identifier":"game-nds",
+         "identifier":"game-es-nds",
          "parent":"game"
 }
 },

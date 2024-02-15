@@ -20,7 +20,7 @@
    "linktitle":"NDS",
    "menu":{
       "docs":{
-         "identifier":"data-nds",
+         "identifier":"data-es-nds",
          "parent":"data"
 }
 },

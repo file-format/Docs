@@ -14,13 +14,13 @@
       "display_name":"Shakeel Faiz"
 },
    "draft":"false",
-   "toc":"true",
+   "toc":true,
    "title":"Archivo F3D - Archivo Fusion 360 - ¿Qué es un archivo .f3d y cómo abrirlo?",
    "description":"Obtenga información sobre el formato de archivo F3D Fusion 360 Archive y las API que pueden crear y abrir archivos F3D.",
    "linktitle":"F3D",
    "menu":{
       "docs":{
-         "identifier":"3d-f3d",
+         "identifier":"3d-es-f3d",
          "parent":"3d"
 }
 },

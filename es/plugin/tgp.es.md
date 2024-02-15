@@ -11,7 +11,7 @@
   "menu" : {
     "docs" : {
       "parent" : "plugin",
-      "identifier":"plugin-en-tgp"
+      "identifier":"plugin-es-tgp"
 }
 },
   "lastmod" : "2023-11-28"

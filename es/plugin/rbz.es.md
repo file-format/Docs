@@ -11,7 +11,7 @@
   "menu" : {
     "docs" : {
       "parent" : "plugin",
-      "identifier":"plugin-en-rbz"
+      "identifier":"plugin-es-rbz"
 }
 },
   "lastmod" : "2023-11-23"

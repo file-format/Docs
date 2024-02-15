@@ -20,7 +20,7 @@
    "linktitle" : "ENC",
    "menu" : {
       "docs" : {
-         "identifier" : "data-enc",
+         "identifier" : "data-es-enc",
          "parent" : "data"
 }
 },

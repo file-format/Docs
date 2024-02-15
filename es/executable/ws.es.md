@@ -20,7 +20,7 @@
    "linktitle" : "WS",
    "menu" : {
       "docs" : {
-         "identifier" : "executable-ws",
+         "identifier" : "executable-es-ws",
          "parent" : "executable"
 }
 },

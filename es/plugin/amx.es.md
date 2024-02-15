@@ -11,7 +11,7 @@
   "menu" : {
     "docs" : {
       "parent" : "plugin",
-      "identifier":"plugin-en-amx"
+      "identifier":"plugin-es-amx"
 }
 },
   "lastmod" : "2023-12-02"

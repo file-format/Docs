@@ -20,7 +20,7 @@
    "linktitle":"MP5",
    "menu":{
       "docs":{
-         "identifier":"video-mp5",
+         "identifier":"video-es-mp5",
          "parent":"video"
 }
 },

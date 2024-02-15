@@ -4,13 +4,13 @@
     "display_name" : "Shakeel Faiz"
 },
   "draft" : "false",
-  "toc" : "true",
+  "toc" : true,
   "title" : "Archivo RDF - Archivo de marco de descripción de recursos - ¿Qué es un archivo .rdf y cómo abrirlo?",
   "description":"Obtenga información sobre el archivo de marco de descripción de recursos RDF y cómo abrirlo.",
   "linktitle" : "RDF",
   "menu" : {
     "docs" : {
-      "identifier": "misc-rdf",
+      "identifier": "misc-es-rdf",
       "parent" : "misc"
 }
 },

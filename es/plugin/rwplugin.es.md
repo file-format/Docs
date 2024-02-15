@@ -11,7 +11,7 @@
   "menu" : {
     "docs" : {
       "parent" : "plugin",
-      "identifier":"plugin-en-rwplugin"
+      "identifier":"plugin-es-rwplugin"
 }
 },
   "lastmod" : "2023-12-15"

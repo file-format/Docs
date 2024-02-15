@@ -20,7 +20,7 @@
    "linktitle" : "BIB",
    "menu" : {
       "docs" : {
-         "identifier" : "word-processing-bib",
+         "identifier" : "word-processing-es-bib",
          "parent" : "word-processing"
 }
 },

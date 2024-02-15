@@ -11,7 +11,7 @@
   "menu" : {
     "docs" : {
       "parent" : "plugin",
-      "identifier":"plugin-en-milk"
+      "identifier":"plugin-es-milk"
 }
 },
   "lastmod" : "2023-11-13"

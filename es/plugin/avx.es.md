@@ -11,7 +11,7 @@
   "menu" : {
     "docs" : {
       "parent" : "plugin",
-      "identifier":"plugin-en-avx"
+      "identifier":"plugin-es-avx"
 }
 },
   "lastmod" : "2023-12-21"

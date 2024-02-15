@@ -4,13 +4,13 @@
     "display_name" : "Shakeel Faiz"
 },
   "draft" : "false",
-  "toc" : "true",
+  "toc" : true,
   "title" : "BIOS de PSX - BIOS de Playstation",
   "description":"Conoce qué es la BIOS de PSX Playstation y su información relacionada",
   "linktitle" : "PSX BIOS",
   "menu" : {
     "docs" : {
-      "identifier": "misc-psx-bios",
+      "identifier": "misc-psx-es-bios",
       "parent" : "misc"
 }
 },

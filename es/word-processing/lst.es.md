@@ -20,7 +20,7 @@
    "linktitle":"LST",
    "menu":{
       "docs":{
-         "identifier":"word-processing-lst",
+         "identifier":"word-processing-es-lst",
          "parent":"word-processing"
 }
 },

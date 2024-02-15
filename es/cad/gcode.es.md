@@ -10,7 +10,7 @@
    "linktitle":"GCODE",
    "menu":{
       "docs":{
-         "identifier":"cad-gcode",
+         "identifier":"cad-es-gcode",
          "parent":"cad"
 }
 },

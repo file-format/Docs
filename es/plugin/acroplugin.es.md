@@ -11,7 +11,7 @@
   "menu" : {
     "docs" : {
       "parent" : "plugin",
-      "identifier":"plugin-en-acroplugin"
+      "identifier":"plugin-es-acroplugin"
 }
 },
   "lastmod" : "2023-11-29"

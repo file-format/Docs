@@ -10,7 +10,7 @@
   "linktitle" : "XDELTA",
   "menu" : {
     "docs" : {
-      "identifier" : "data-en-xdelta",
+      "identifier" : "data-es-xdelta",
       "parent" : "data"
 }
 },

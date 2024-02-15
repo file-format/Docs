@@ -10,7 +10,7 @@
   "linktitle" : "BRD",
   "menu" : {
     "docs" : {
-      "identifier" : "data-en-brd",
+      "identifier" : "data-es-brd",
       "parent" : "data"
 }
 },

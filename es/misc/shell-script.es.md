@@ -4,13 +4,13 @@
     "display_name" : "Shakeel Faiz"
 },
   "draft" : "false",
-  "toc" : "true",
+  "toc" : true,
   "title" : "Script de Shell: cómo ejecutarlo en Ubuntu y Linux",
   "description":"Aprenda qué es Shell Script y cómo ejecutarlo en Ubuntu y Linux",
   "linktitle" : "SHELL SCRIPT",
   "menu" : {
     "docs" : {
-      "identifier": "misc-shell-script",
+      "identifier": "misc-shell-es-script",
       "parent" : "misc"
 }
 },

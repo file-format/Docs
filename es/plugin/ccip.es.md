@@ -11,7 +11,7 @@
   "menu" : {
     "docs" : {
       "parent" : "plugin",
-      "identifier":"plugin-en-ccip"
+      "identifier":"plugin-es-ccip"
 }
 },
   "lastmod" : "2023-11-13"

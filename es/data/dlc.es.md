@@ -10,7 +10,7 @@
   "linktitle" : "DLC",
   "menu" : {
     "docs" : {
-      "identifier" : "data-en-dlc",
+      "identifier" : "data-es-dlc",
       "parent" : "data"
 }
 },

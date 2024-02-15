@@ -4,13 +4,13 @@
     "display_name" : "Shakeel Faiz"
 },
   "draft" : "false",
-  "toc" : "true",
+  "toc" : true,
   "title" : "Archivo XCODE - Proyecto Xcode - ¿Qué es el archivo .xcode y cómo abrirlo?",
   "description" : "Obtenga información sobre el archivo de proyecto Xcode y cómo abrirlo.",
   "linktitle" : "XCODE",
   "menu" : {
     "docs" : {
-      "identifier" : "programming-en-xcode",
+      "identifier" : "programming-es-xcode",
       "parent" : "programming"
 }
 },

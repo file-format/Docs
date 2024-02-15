@@ -14,13 +14,13 @@
       "display_name" : "Shakeel Faiz"
 },
    "draft" : "false",
-   "toc" : "true",
+   "toc" : true,
    "title" : "Archivo MAX - Archivo de escena 3ds Max - ¿Qué es un archivo .max y cómo abrirlo?",
    "description" : "Obtenga información sobre el formato de archivo 3ds Max Scene y las API que pueden crear y abrir archivos MAX.",
    "linktitle" : "MAX",
    "menu" : {
       "docs" : {
-         "identifier" : "3d-max",
+         "identifier" : "3d-es-max",
          "parent" : "3d"
 }
 },

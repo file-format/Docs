@@ -20,7 +20,7 @@
    "linktitle" : "SMC",
    "menu" : {
       "docs" : {
-         "identifier" : "game-smc",
+         "identifier" : "game-es-smc",
          "parent" : "game"
 }
 },

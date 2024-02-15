@@ -11,7 +11,7 @@
   "menu" : {
     "docs" : {
       "parent" : "plugin",
-      "identifier":"plugin-en-zxp"
+      "identifier":"plugin-es-zxp"
 }
 },
   "lastmod" : "2023-12-10"

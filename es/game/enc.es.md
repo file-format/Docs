@@ -20,7 +20,7 @@
    "linktitle" : "ENC",
    "menu" : {
       "docs" : {
-         "identifier" : "game-enc",
+         "identifier" : "game-es-enc",
          "parent" : "game"
 }
 },

@@ -10,7 +10,7 @@
   "linktitle" : "STR",
   "menu" : {
     "docs" : {
-      "identifier" : "data-en-str",
+      "identifier" : "data-es-str",
       "parent" : "data"
 }
 },

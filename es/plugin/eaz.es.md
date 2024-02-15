@@ -11,7 +11,7 @@
   "menu" : {
     "docs" : {
       "parent" : "plugin",
-      "identifier":"plugin-en-eaz"
+      "identifier":"plugin-es-eaz"
 }
 },
   "lastmod" : "2023-12-23"

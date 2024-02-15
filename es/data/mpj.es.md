@@ -10,7 +10,7 @@
   "linktitle" : "MPJ",
   "menu" : {
     "docs" : {
-      "identifier" : "data-en-mpj",
+      "identifier" : "data-es-mpj",
       "parent" : "data"
 }
 },

@@ -14,13 +14,13 @@
       "display_name" : "Shakeel Faiz"
 },
    "draft" : "false",
-   "toc" : "true",
+   "toc" : true,
    "title" : "Archivo ENC - Archivo codificado - ¿Qué es un archivo .enc y cómo abrirlo?",
    "description" : "Obtenga información sobre el formato de archivo codificado ENC y las API que pueden crear y abrir archivos ENC.",
    "linktitle" : "ENC",
    "menu" : {
       "docs" : {
-         "identifier" : "misc-enc",
+         "identifier" : "misc-es-enc",
          "parent" : "misc"
 }
 },
@@ -47,7 +47,7 @@ Aquí hay algunas posibilidades de lo que podría representar el archivo .enc:
     
 3.  **Archivos temporales o de respaldo:** Algunas aplicaciones usan .enc como extensión de archivo temporal o de respaldo y la codificación o cifrado puede ser parte de sus procesos internos. Es posible que estos archivos no estén destinados a la interacción directa del usuario.
     
-4.  **Software de seguridad:** El software de seguridad o las herramientas de cifrado a veces utilizan la extensión .enc para los archivos que cifran o protegen. Estos archivos suelen estar destinados a ser descifrados únicamente mediante el software que los cifró.
+4.  **Software de seguridad:** El software de seguridad o las herramientas de cifrado a veces utilizan la extensión .enc para los archivos que cifran o protegen. A menudo, estos archivos deben descifrarse únicamente mediante el software que los cifró.
 
 ## ¿Cómo abrir un archivo ENC?
 

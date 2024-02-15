@@ -4,13 +4,13 @@
     "display_name" : "Shakeel Faiz"
 },
   "draft" : "false",
-  "toc" : "true",
+  "toc" : true,
   "title" : "Archivo FST - Archivo FL Studio - ¿Qué es el archivo .fst y cómo abrirlo?",
   "description" : "Obtenga más información sobre FST FL Studio File y cómo abrirlo.",
   "linktitle" : "FST",
   "menu" : {
     "docs" : {
-      "identifier" : "settings-en-fst",
+      "identifier" : "settings-es-fst",
       "parent" : "settings"
 }
 },

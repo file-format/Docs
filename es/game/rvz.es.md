@@ -10,7 +10,7 @@
    "linktitle":"RVZ",
    "menu":{
       "docs":{
-         "identifier":"game-rvz",
+         "identifier":"game-es-rvz",
          "parent":"game"
 }
 },

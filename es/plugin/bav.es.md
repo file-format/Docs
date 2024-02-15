@@ -11,7 +11,7 @@
   "menu" : {
     "docs" : {
       "parent" : "plugin",
-      "identifier":"plugin-en-bav"
+      "identifier":"plugin-es-bav"
 }
 },
   "lastmod" : "2023-11-29"
