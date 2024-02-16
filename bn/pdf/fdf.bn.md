@@ -36,7 +36,6 @@ The [FDF toolkit](https://opensource.adobe.com/dc-acrobat-sdk-docs/) from Adobe 
 
 ## তথ্যসূত্র
 
-* [অ্যাক্রোব্যাট দ্বারা এফডিএফ ফর্ম্যাট সমর্থন](https://helpx.adobe.com/coldfusion/developing-applications/working-with-documents-charts-and-reports/assembling-pdf-documents/fdf-format-support-for -acroforms.html)
-
+* [অ্যাক্রোব্যাট দ্বারা এফডিএফ ফর্ম্যাট সমর্থন](https://helpx.adobe.com/coldfusion/developing-applications/working-with-documents-charts-and-reports/assembling-pdf-documents/fdf-format-support-for-acroforms.html)
 * [Adobe Developer Resources](https://opensource.adobe.com/dc-acrobat-sdk-docs/)
 
