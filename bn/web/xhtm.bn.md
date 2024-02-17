@@ -5,9 +5,9 @@
 },
   "draft" : "false",
   "toc" : true,
-  "title" : "এক্সএইচটিএম",
+  "title" : "XHTM",
   "description":"Learn about এক্সএইচটিএম file format and APIs that can create and open এক্সএইচটিএম files.",
-  "linktitle" : "এক্সএইচটিএম",
+  "linktitle" : "XHTM",
   "menu" : {
     "docs" : {
       "identifier":"web-xhtm-bn",

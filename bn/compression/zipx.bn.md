@@ -5,9 +5,9 @@
 },
   "draft" : "false",
   "toc" : true,
-  "title" : "জিপ",
-  "description":"What is a জিপX file and APIs that can create and open জিপX files.",
-  "linktitle" : "জিপX",
+  "title" : "ZIPX",
+  "description":"What is a ZIPX file and APIs that can create and open ZIPX files.",
+  "linktitle" : "ZIPX",
   "menu" : {
     "docs" : {
       "parent" : "compression"

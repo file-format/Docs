@@ -6,9 +6,9 @@
 },
   "draft" : "false",
   "toc" : true,
-  "title" : "জিএলবি",
+  "title" : "GLB",
   "description":"Learn about জিএলবি file format and APIs that can open and create জিএলবি files.",
-  "linktitle" : "জিএলবি",
+  "linktitle" : "GLB",
   "menu" : {
     "docs" : {
       "identifier":"3d-glb-bn",

@@ -5,9 +5,9 @@
 },
   "draft" : "false",
   "toc" : true,
-  "title" : "পিসিএল",
+  "title" : "PCL",
   "description":"Learn about পিসিএল file format and APIs that can create and open পিসিএল files.",
-  "linktitle" : "পিসিএল",
+  "linktitle" : "PCL",
   "menu" : {
     "docs" : {
       "parent" : "page-description-language"

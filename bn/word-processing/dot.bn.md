@@ -6,9 +6,9 @@
 },
   "draft" : "false",
   "toc" : true,
-  "title" : "ডট",
+  "title" : "DOT",
   "description":"Learn about ডট file format and APIs that can create and open ডট files.",
-  "linktitle" : "ডট",
+  "linktitle" : "DOT",
   "menu" : {
     "docs" : {
       "parent" : "word-processing"

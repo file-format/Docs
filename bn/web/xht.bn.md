@@ -6,9 +6,9 @@
 },
   "draft" : "false",
   "toc" : true,
-  "title" : "এক্সএইচটি",
+  "title" : "XHT",
   "description":"Learn about এক্সএইচটি file format and APIs that can create and open এক্সএইচটি files.",
-  "linktitle" : "এক্সএইচটি",
+  "linktitle" : "XHT",
   "menu" : {
     "docs" : {
       "parent" : "web"

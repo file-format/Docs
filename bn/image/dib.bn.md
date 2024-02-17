@@ -6,9 +6,9 @@
 },
   "draft" : "false",
   "toc" : true,
-  "title" : "ডিআইবি",
+  "title" : "DIB",
   "description":"Learn about ডিআইবি file format and APIs that can create and open ডিআইবি files.",
-  "linktitle" : "ডিআইবি",
+  "linktitle" : "DIB",
   "menu" : {
     "docs" : {
       "parent" : "image"

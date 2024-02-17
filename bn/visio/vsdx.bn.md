@@ -6,9 +6,9 @@
 },
   "draft" : "false",
   "toc" : true,
-  "title" : "ভিএসডিএক্স",
+  "title" : "VSDX",
   "description":"Learn about ভিএসডিএক্স file format and APIs that can create and open ভিএসডিএক্স files.",
-  "linktitle" : "ভিএসডিএক্স",
+  "linktitle" : "VSDX",
   "menu" : {
     "docs" : {
 	"identifier":"visio-vsdx-bn",

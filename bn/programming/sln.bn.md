@@ -6,9 +6,9 @@
 },
   "draft" : "false",
   "toc" : true,
-  "title" : "এসএলএন",
+  "title" : "SLN",
   "description":"Learn about এসএলএন file format and APIs that can create and open এসএলএন files.",
-  "linktitle" : "এসএলএন",
+  "linktitle" : "SLN",
   "menu" : {
     "docs" : {
       "parent" : "programming"

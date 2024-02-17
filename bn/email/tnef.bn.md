@@ -5,9 +5,9 @@
 },
   "draft" : "false",
   "toc" : true,
-  "title" : "টিএনইএফ",
-  "description":"Learn about টিএনইএফ file format and APIs that can create and open টিএনইএফ files.",
-  "linktitle" : "টিএনইএফ",
+  "title" : "TNEF",
+  "description":"Learn about TNEF file format and APIs that can create and open TNEF files.",
+  "linktitle" : "TNEF",
   "menu" : {
     "docs" : {
       "parent" : "email"

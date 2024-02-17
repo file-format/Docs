@@ -6,9 +6,9 @@
 },
   "draft" : "false",
   "toc" : true,
-  "title" : "এক্সএসএলএফও",
+  "title" : "XSLFO",
   "description":"Learn about এক্সএসএলএফও file format and APIs that can create and open এক্সএসএলএফও files.",
-  "linktitle" : "এক্সএসএলএফও",
+  "linktitle" : "XSLFO",
   "menu" : {
     "docs" : {
       "parent" : "page-description-language"

@@ -6,9 +6,9 @@
 },
   "draft" : "false",
   "toc" : true,
-  "title" : "জিপ",
+  "title" : "ZIP",
   "description":"What is a জিপ file and APIs that can create and open জিপ files.",
-  "linktitle" : "জিপ",
+  "linktitle" : "ZIP",
   "menu" : {
     "docs" : {
       "parent" : "compression"

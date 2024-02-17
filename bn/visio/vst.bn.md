@@ -6,9 +6,9 @@
 },
   "draft" : "false",
   "toc" : true,
-  "title" : "ভিএসটি",
+  "title" : "VST",
   "description":"Learn about ভিএসটি file format and APIs that can create and open ভিএসটি files.",
-  "linktitle" : "ভিএসটি",
+  "linktitle" : "VST",
   "menu" : {
     "docs" : {
 	  "identifier":"visio-vst-bn",
