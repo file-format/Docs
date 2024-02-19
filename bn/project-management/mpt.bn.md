@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "mpt file", "mpt file format", "what is a mpt file", "file", "mpt example", "mpt file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "MPT - মাইক্রোসফট প্রজেক্ট টেমপ্লেট ফাইল ফরম্যাট",
-  "description":"MPT ফাইল ফরম্যাট এবং APIগুলি সম্পর্কে জানুন যা MPT ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "MPT",
-  "menu" : {
-    "docs" : {
-      "parent" : "project-management"
-}
-},
-  "lastmod" : "2021-05-07"
+  "date": "2019-10-11",
+  "keywords": [
+    "mpt file",
+    "mpt file format",
+    "what is a mpt file",
+    "file",
+    "mpt example",
+    "mpt file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "MPT - মাইক্রোসফট প্রজেক্ট টেমপ্লেট ফাইল ফরম্যাট",
+  "description": "MPT ফাইল ফরম্যাট এবং APIগুলি সম্পর্কে জানুন যা MPT ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "MPT",
+  "menu": {
+    "docs": {
+      "parent": "project-management",
+      "identifier": "project-management-mpt-bn"
+    }
+  },
+  "lastmod": "2021-05-07"
 }
 
 ## একটি MPT ফাইল কি? ##

@@ -1,20 +1,31 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "XER", "P6XER", "File", "Extension", "File Format", "Project", "Management", "Primavera", "P6"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "XER - Primavera P6 প্রকল্প",
-  "description":"XER ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি XER ফাইলগুলি তৈরি এবং খুলতে পারে।",
-  "linktitle" : "XER",
-  "menu" : {
-    "docs" : {
-      "parent" : "project-management"
-}
-},
-  "lastmod" : "2021-05-07"
+  "date": "2019-10-11",
+  "keywords": [
+    "XER",
+    "P6XER",
+    "File",
+    "Extension",
+    "File Format",
+    "Project",
+    "Management",
+    "Primavera",
+    "P6"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "XER - Primavera P6 প্রকল্প",
+  "description": "XER ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি XER ফাইলগুলি তৈরি এবং খুলতে পারে।",
+  "linktitle": "XER",
+  "menu": {
+    "docs": {
+      "parent": "project-management",
+      "identifier": "project-management-xer-bn"
+    }
+  },
+  "lastmod": "2021-05-07"
 }
 
 ## একটি XER ফাইল কি?

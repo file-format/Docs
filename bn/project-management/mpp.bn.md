@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "mpp file", "mpp file format", "what is a mpp file", "file", "mpp example", "mpp file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "MPP - মাইক্রোসফট প্রজেক্ট ফাইল ফরম্যাট",
-  "description":"MPP ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা MPP ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "MPP",
-  "menu" : {
-    "docs" : {
-      "parent" : "project-management"
-}
-},
-  "lastmod" : "2021-05-07"
+  "date": "2019-10-11",
+  "keywords": [
+    "mpp file",
+    "mpp file format",
+    "what is a mpp file",
+    "file",
+    "mpp example",
+    "mpp file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "MPP - মাইক্রোসফট প্রজেক্ট ফাইল ফরম্যাট",
+  "description": "MPP ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা MPP ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "MPP",
+  "menu": {
+    "docs": {
+      "parent": "project-management",
+      "identifier": "project-management-mpp-bn"
+    }
+  },
+  "lastmod": "2021-05-07"
 }
 
 ## একটি MPP ফাইল কি?

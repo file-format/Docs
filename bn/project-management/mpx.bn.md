@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "mpx file", "mpx file format", "what is a mpx file", "file", "mpx example", "mpx file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "MPX - মাইক্রোসফট প্রজেক্ট এক্সচেঞ্জ ফাইল ফরম্যাট",
-  "description":"MPX ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি MPX ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "MPX",
-  "menu" : {
-    "docs" : {
-      "parent" : "project-management"
-}
-},
-  "lastmod" : "2021-05-07"
+  "date": "2019-10-11",
+  "keywords": [
+    "mpx file",
+    "mpx file format",
+    "what is a mpx file",
+    "file",
+    "mpx example",
+    "mpx file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "MPX - মাইক্রোসফট প্রজেক্ট এক্সচেঞ্জ ফাইল ফরম্যাট",
+  "description": "MPX ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি MPX ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "MPX",
+  "menu": {
+    "docs": {
+      "parent": "project-management",
+      "identifier": "project-management-mpx-bn"
+    }
+  },
+  "lastmod": "2021-05-07"
 }
 
 ## একটি MPX ফাইল কি? ##

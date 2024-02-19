@@ -1,20 +1,31 @@
 {
-  "date" : "2021-04-16",
-  "keywords" : [ "XML", "P6XML", "File", "Extension", "File Format", "Project", "Management", "Primavera", "P6"],
-  "author" : {
-    "display_name" : "Sami Cheema"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "P6XML - Primavera P6 প্রকল্প",
-  "description":"P6XML ফাইল ফর্ম্যাট এবং APIগুলি সম্পর্কে জানুন যা P6XML ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "P6XML",
-  "menu" : {
-    "docs" : {
-      "parent" : "project-management"
-}
-},
-  "lastmod" : "2021-05-07"
+  "date": "2021-04-16",
+  "keywords": [
+    "XML",
+    "P6XML",
+    "File",
+    "Extension",
+    "File Format",
+    "Project",
+    "Management",
+    "Primavera",
+    "P6"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "P6XML - Primavera P6 প্রকল্প",
+  "description": "P6XML ফাইল ফর্ম্যাট এবং APIগুলি সম্পর্কে জানুন যা P6XML ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "P6XML",
+  "menu": {
+    "docs": {
+      "parent": "project-management",
+      "identifier": "project-management-p6xml-bn"
+    }
+  },
+  "lastmod": "2021-05-07"
 }
 
 ## একটি P6XML ফাইল কি? ##
