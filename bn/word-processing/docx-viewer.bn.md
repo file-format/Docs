@@ -1,20 +1,28 @@
 {
-  "date" : "2019-12-03",
-  "keywords" : [ "DOCX","file", "format", "file type", "extension","what is an DOCX file?" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "বিনামূল্যে অনলাইন DOCX ফাইল ফরম্যাট ভিউয়ার",
-  "description":"DOCX ফাইলগুলি খুলতে এবং দেখতে বিনামূল্যে অনলাইন DOCX ভিউয়ার৷",
-  "linktitle" : "DOCX Viewer",
-  "menu" : {
-    "docs" : {
-      "parent" : "word-processing"
-}
-},
-  "lastmod" : "2019-12-03"
+  "date": "2019-12-03",
+  "keywords": [
+    "DOCX",
+    "file",
+    "format",
+    "file type",
+    "extension",
+    "what is an DOCX file?"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "বিনামূল্যে অনলাইন DOCX ফাইল ফরম্যাট ভিউয়ার",
+  "description": "DOCX ফাইলগুলি খুলতে এবং দেখতে বিনামূল্যে অনলাইন DOCX ভিউয়ার৷",
+  "linktitle": "DOCX Viewer",
+  "menu": {
+    "docs": {
+      "parent": "word-processing",
+      "identifier": "word-processing-docx-viewer-bn"
+    }
+  },
+  "lastmod": "2019-12-03"
 }
 
 ## DOCX ভিউয়ার

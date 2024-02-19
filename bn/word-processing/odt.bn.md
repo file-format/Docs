@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "odt file", "odt file format", "what is an odt file", "file", "odt example", "odt file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ODT - ওপেন ডকুমেন্ট টেক্সট ফাইল",
-  "description":"ODT ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা ODT ফাইল তৈরি করতে এবং খুলতে পারে।",
-  "linktitle" : "ODT",
-  "menu" : {
-    "docs" : {
-      "parent" : "word-processing"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "keywords": [
+    "odt file",
+    "odt file format",
+    "what is an odt file",
+    "file",
+    "odt example",
+    "odt file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "ODT - ওপেন ডকুমেন্ট টেক্সট ফাইল",
+  "description": "ODT ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা ODT ফাইল তৈরি করতে এবং খুলতে পারে।",
+  "linktitle": "ODT",
+  "menu": {
+    "docs": {
+      "parent": "word-processing",
+      "identifier": "word-processing-odt-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি ODT ফাইল কি?

@@ -1,20 +1,28 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "dotm","file", "format", "file type", "extension","what is an DOTM file?" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "DOTM - Microsoft Word 2007 টেমপ্লেট ফাইল",
-  "description":"DOTM ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা DOTM ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "DOTM",
-  "menu" : {
-    "docs" : {
-      "parent" : "word-processing"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "keywords": [
+    "dotm",
+    "file",
+    "format",
+    "file type",
+    "extension",
+    "what is an DOTM file?"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "DOTM - Microsoft Word 2007 টেমপ্লেট ফাইল",
+  "description": "DOTM ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা DOTM ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "DOTM",
+  "menu": {
+    "docs": {
+      "parent": "word-processing",
+      "identifier": "word-processing-dotm-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি DOTM ফাইল কি?

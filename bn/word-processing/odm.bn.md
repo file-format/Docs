@@ -1,19 +1,20 @@
 {
-  "date" : "2021-08-04",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ODM - ওপেন ডকুমেন্ট মাস্টার ডকুমেন্ট ফাইল",
-  "description":"ODM ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি ODM ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "ODM",
-  "menu" : {
-    "docs" : {
-      "parent" : "word-processing"
-}
-},
-  "lastmod" : "2021-08-04"
+  "date": "2021-08-04",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "ODM - ওপেন ডকুমেন্ট মাস্টার ডকুমেন্ট ফাইল",
+  "description": "ODM ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি ODM ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "ODM",
+  "menu": {
+    "docs": {
+      "parent": "word-processing",
+      "identifier": "word-processing-odm-bn"
+    }
+  },
+  "lastmod": "2021-08-04"
 }
 
 ## একটি ODM ফাইল কি?

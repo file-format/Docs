@@ -1,20 +1,32 @@
 {
-  "date" : "2021-07-27",
-  "keywords" : [ "wpd file", "wpd file format", "what is a wpd file", "file", "wpd example", "wpd file extension","extension", "format", "Corel", "WordPerfect" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "WPD - WordPerfect ডকুমেন্ট ফাইল",
-  "description":"WPD ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি WPD ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "WPD",
-  "menu" : {
-    "docs" : {
-      "parent" : "word-processing"
-}
-},
-  "lastmod" : "2021-07-27"
+  "date": "2021-07-27",
+  "keywords": [
+    "wpd file",
+    "wpd file format",
+    "what is a wpd file",
+    "file",
+    "wpd example",
+    "wpd file extension",
+    "extension",
+    "format",
+    "Corel",
+    "WordPerfect"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "WPD - WordPerfect ডকুমেন্ট ফাইল",
+  "description": "WPD ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি WPD ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "WPD",
+  "menu": {
+    "docs": {
+      "parent": "word-processing",
+      "identifier": "word-processing-wpd-bn"
+    }
+  },
+  "lastmod": "2021-07-27"
 }
 
 ## একটি WPD ফাইল কি?

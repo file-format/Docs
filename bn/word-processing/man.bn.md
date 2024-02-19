@@ -1,20 +1,28 @@
 {
-  "date" : "2021-07-25",
-  "keywords":["man","file", "extension", "type", "format", "Unix Manual"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "MAN - ইউনিক্স ম্যানুয়াল",
-  "description":"FODT ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা MAN ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "MAN",
-  "menu" : {
-    "docs" : {
-      "parent" : "word-processing"
-}
-},
-  "lastmod" : "2021-07-25"
+  "date": "2021-07-25",
+  "keywords": [
+    "man",
+    "file",
+    "extension",
+    "type",
+    "format",
+    "Unix Manual"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "MAN - ইউনিক্স ম্যানুয়াল",
+  "description": "FODT ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা MAN ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "MAN",
+  "menu": {
+    "docs": {
+      "parent": "word-processing",
+      "identifier": "word-processing-man-bn"
+    }
+  },
+  "lastmod": "2021-07-25"
 }
 
 ## একটি MAN ফাইল কি?

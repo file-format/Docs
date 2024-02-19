@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "md file", "md file format", "what is an md file", "file", "md example", "md file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "এমডি - মার্কডাউন ভাষা ফাইল",
-  "description":"এমডি ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা MD ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "MD",
-  "menu" : {
-    "docs" : {
-      "parent" : "word-processing"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "keywords": [
+    "md file",
+    "md file format",
+    "what is an md file",
+    "file",
+    "md example",
+    "md file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "এমডি - মার্কডাউন ভাষা ফাইল",
+  "description": "এমডি ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা MD ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "MD",
+  "menu": {
+    "docs": {
+      "parent": "word-processing",
+      "identifier": "word-processing-md-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি MD ফাইল কি?

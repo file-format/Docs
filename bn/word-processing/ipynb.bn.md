@@ -1,20 +1,29 @@
 {
-  "date" : "2021-12-28",
-  "keywords" : [ "ipynb file", "format", "extension", "what is an ipynb file", "file", "ipynb example", "jupyter notebook" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "IPYNB - জুপিটার নোটবুক ফাইল",
-  "description":"IPYNB ফাইল এবং APIগুলি কী যা IPYNB ফাইলগুলি তৈরি এবং খুলতে পারে সে সম্পর্কে জানুন৷",
-  "linktitle" : "IPYNB",
-  "menu" : {
-    "docs" : {
-      "parent" : "word-processing"
-}
-},
-  "lastmod" : "2021-12-28"
+  "date": "2021-12-28",
+  "keywords": [
+    "ipynb file",
+    "format",
+    "extension",
+    "what is an ipynb file",
+    "file",
+    "ipynb example",
+    "jupyter notebook"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "IPYNB - জুপিটার নোটবুক ফাইল",
+  "description": "IPYNB ফাইল এবং APIগুলি কী যা IPYNB ফাইলগুলি তৈরি এবং খুলতে পারে সে সম্পর্কে জানুন৷",
+  "linktitle": "IPYNB",
+  "menu": {
+    "docs": {
+      "parent": "word-processing",
+      "identifier": "word-processing-ipynb-bn"
+    }
+  },
+  "lastmod": "2021-12-28"
 }
 
 ## একটি IPYNB ফাইল কি?

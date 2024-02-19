@@ -1,20 +1,28 @@
 {
-  "date" : "2021-06-30",
-  "keywords" : [ "ASD", "file", "extension", "file format", "Microsoft Word", "Word-Processing" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ASD - মাইক্রোসফট ওয়ার্ড অটোসেভ ফাইল",
-  "description":"ASD ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা ASD ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "ASD",
-  "menu" : {
-    "docs" : {
-      "parent" : "word-processing"
-}
-},
-  "lastmod" : "2021-06-30"
+  "date": "2021-06-30",
+  "keywords": [
+    "ASD",
+    "file",
+    "extension",
+    "file format",
+    "Microsoft Word",
+    "Word-Processing"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "ASD - মাইক্রোসফট ওয়ার্ড অটোসেভ ফাইল",
+  "description": "ASD ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা ASD ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "ASD",
+  "menu": {
+    "docs": {
+      "parent": "word-processing",
+      "identifier": "word-processing-asd-bn"
+    }
+  },
+  "lastmod": "2021-06-30"
 }
 
 ## একটি ASD ফাইল কি?

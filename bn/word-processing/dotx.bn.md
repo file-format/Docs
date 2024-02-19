@@ -1,20 +1,28 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "DOTX","file", "format", "file type", "extension","what is a DOTX file?" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "DOTX - Microsoft Word টেমপ্লেট ফাইল",
-  "description":"DOTX ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি DOTX ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "DOTX",
-  "menu" : {
-    "docs" : {
-      "parent" : "word-processing"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "keywords": [
+    "DOTX",
+    "file",
+    "format",
+    "file type",
+    "extension",
+    "what is a DOTX file?"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "DOTX - Microsoft Word টেমপ্লেট ফাইল",
+  "description": "DOTX ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি DOTX ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "DOTX",
+  "menu": {
+    "docs": {
+      "parent": "word-processing",
+      "identifier": "word-processing-dotx-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি DOTX ফাইল কি?

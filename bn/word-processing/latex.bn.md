@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "latex file", "latex file format", "what is an latex file", "file", "latex example", "latex file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ল্যাটেক্স - ল্যাটেক্স ডকুমেন্ট ফাইল",
-  "description":"LATEX ফাইল বিন্যাস এবং API সম্পর্কে জানুন যেগুলি LATEX ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "LATEX",
-  "menu" : {
-    "docs" : {
-      "parent" : "word-processing"
-}
-},
-  "lastmod" : "2021-05-18"
+  "date": "2019-10-11",
+  "keywords": [
+    "latex file",
+    "latex file format",
+    "what is an latex file",
+    "file",
+    "latex example",
+    "latex file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "ল্যাটেক্স - ল্যাটেক্স ডকুমেন্ট ফাইল",
+  "description": "LATEX ফাইল বিন্যাস এবং API সম্পর্কে জানুন যেগুলি LATEX ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "LATEX",
+  "menu": {
+    "docs": {
+      "parent": "word-processing",
+      "identifier": "word-processing-latex-bn"
+    }
+  },
+  "lastmod": "2021-05-18"
 }
 
 ## একটি LATEX ফাইল কি?

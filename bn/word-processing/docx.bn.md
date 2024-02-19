@@ -1,20 +1,28 @@
 {
-  "date" : "2019-12-03",
-  "keywords" : [ "DOCX","file", "format", "file type", "extension","what is an DOCX file?" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "DOCX",
-  "description":"DOCX ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা DOCX ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "DOCX",
-  "menu" : {
-    "docs" : {
-      "parent" : "word-processing"
-}
-},
-  "lastmod" : "2019-12-03"
+  "date": "2019-12-03",
+  "keywords": [
+    "DOCX",
+    "file",
+    "format",
+    "file type",
+    "extension",
+    "what is an DOCX file?"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "DOCX",
+  "description": "DOCX ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা DOCX ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "DOCX",
+  "menu": {
+    "docs": {
+      "parent": "word-processing",
+      "identifier": "word-processing-docx-bn"
+    }
+  },
+  "lastmod": "2019-12-03"
 }
 
 ## একটি DOCX ফাইল কি? ##

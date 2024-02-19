@@ -1,19 +1,20 @@
 {
-  "date" : "2021-07-30",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "FAQ - প্রায়শই জিজ্ঞাসিত প্রশ্ন ফাইল",
-  "description":"FAQ ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি FAQ ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "FAQ",
-  "menu" : {
-    "docs" : {
-      "parent" : "word-processing"
-}
-},
-  "lastmod" : "2021-07-30"
+  "date": "2021-07-30",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "FAQ - প্রায়শই জিজ্ঞাসিত প্রশ্ন ফাইল",
+  "description": "FAQ ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি FAQ ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "FAQ",
+  "menu": {
+    "docs": {
+      "parent": "word-processing",
+      "identifier": "word-processing-faq-bn"
+    }
+  },
+  "lastmod": "2021-07-30"
 }
 
 ## একটি FAQ ফাইল কি?

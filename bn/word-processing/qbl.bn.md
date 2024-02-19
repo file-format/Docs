@@ -1,19 +1,20 @@
 {
-  "date" : "2021-07-28",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "QBL - QuickBooks লাইসেন্স ফাইল",
-  "description":"QBL ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি QBL ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "QBL",
-  "menu" : {
-    "docs" : {
-      "parent" : "word-processing"
-}
-},
-  "lastmod" : "2021-07-28"
+  "date": "2021-07-28",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "QBL - QuickBooks লাইসেন্স ফাইল",
+  "description": "QBL ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি QBL ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "QBL",
+  "menu": {
+    "docs": {
+      "parent": "word-processing",
+      "identifier": "word-processing-qbl-bn"
+    }
+  },
+  "lastmod": "2021-07-28"
 }
 
 ## একটি QBL ফাইল কি?

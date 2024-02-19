@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "rtf file", "rtf file format", "what is an rtf file", "file", "rtf example", "rtf file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "RTF - রিচ টেক্সট ফরম্যাট",
-  "description":"আরটিএফ ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা আরটিএফ ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "RTF",
-  "menu" : {
-    "docs" : {
-      "parent" : "word-processing"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "keywords": [
+    "rtf file",
+    "rtf file format",
+    "what is an rtf file",
+    "file",
+    "rtf example",
+    "rtf file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "RTF - রিচ টেক্সট ফরম্যাট",
+  "description": "আরটিএফ ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা আরটিএফ ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "RTF",
+  "menu": {
+    "docs": {
+      "parent": "word-processing",
+      "identifier": "word-processing-rtf-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি RTF ফাইল কি?

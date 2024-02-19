@@ -1,20 +1,28 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "dot","file", "format", "file type", "extension","what is an ডট file?" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "DOT",
-  "description":"Learn about ডট file format and APIs that can create and open ডট files.",
-  "linktitle" : "DOT",
-  "menu" : {
-    "docs" : {
-      "parent" : "word-processing"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "keywords": [
+    "dot",
+    "file",
+    "format",
+    "file type",
+    "extension",
+    "what is an ডট file?"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "DOT",
+  "description": "Learn about ডট file format and APIs that can create and open ডট files.",
+  "linktitle": "DOT",
+  "menu": {
+    "docs": {
+      "parent": "word-processing",
+      "identifier": "word-processing-dot-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি ডট ফাইল কি?

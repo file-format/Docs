@@ -1,19 +1,20 @@
 {
-  "date" : "2021-08-03",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "DSC - পাঠ্য বিবরণ ফাইল",
-  "description":"DSC ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা DSC ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "DSC",
-  "menu" : {
-    "docs" : {
-      "parent" : "word-processing"
-}
-},
-  "lastmod" : "2021-08-03"
+  "date": "2021-08-03",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "DSC - পাঠ্য বিবরণ ফাইল",
+  "description": "DSC ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা DSC ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "DSC",
+  "menu": {
+    "docs": {
+      "parent": "word-processing",
+      "identifier": "word-processing-dsc-bn"
+    }
+  },
+  "lastmod": "2021-08-03"
 }
 
 ## একটি DSC ফাইল কি?

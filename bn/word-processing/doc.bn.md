@@ -1,20 +1,28 @@
 {
-  "date" : "2019-12-03",
-  "keywords" : [ "doc", "file", "extension", "file format", "Word", "Document" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "DOC - মাইক্রোসফট ওয়ার্ড ডকুমেন্ট ফাইল",
-  "description":"DOC ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা DOC ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "DOC",
-  "menu" : {
-    "docs" : {
-      "parent" : "word-processing"
-}
-},
-  "lastmod" : "2019-12-03"
+  "date": "2019-12-03",
+  "keywords": [
+    "doc",
+    "file",
+    "extension",
+    "file format",
+    "Word",
+    "Document"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "DOC - মাইক্রোসফট ওয়ার্ড ডকুমেন্ট ফাইল",
+  "description": "DOC ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা DOC ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "DOC",
+  "menu": {
+    "docs": {
+      "parent": "word-processing",
+      "identifier": "word-processing-doc-bn"
+    }
+  },
+  "lastmod": "2019-12-03"
 }
 
 ## একটি DOC ফাইল কি?

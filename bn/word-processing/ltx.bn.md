@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "ltx file", "ltx file format", "what is an ltx file", "file", "ltx example", "ltx file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "LTX - ল্যাটেক্স ডকুমেন্ট ফাইল",
-  "description":"LTX ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি LTX ফাইল তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "LTX",
-  "menu" : {
-    "docs" : {
-      "parent" : "word-processing"
-}
-},
-  "lastmod" : "2021-05-18"
+  "date": "2019-10-11",
+  "keywords": [
+    "ltx file",
+    "ltx file format",
+    "what is an ltx file",
+    "file",
+    "ltx example",
+    "ltx file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "LTX - ল্যাটেক্স ডকুমেন্ট ফাইল",
+  "description": "LTX ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি LTX ফাইল তৈরি এবং খুলতে পারে৷",
+  "linktitle": "LTX",
+  "menu": {
+    "docs": {
+      "parent": "word-processing",
+      "identifier": "word-processing-ltx-bn"
+    }
+  },
+  "lastmod": "2021-05-18"
 }
 
 ## একটি LTX ফাইল কি?

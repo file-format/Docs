@@ -1,20 +1,30 @@
 {
-  "date" : "2021-05-20",
-  "keywords" : [ "qpf file", "qpf file format", "what is an qpf file", "file", "qpf example", "qpf file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "QPF - কুইকপ্যাড এনক্রিপ্ট করা ডকুমেন্ট ফাইল",
-  "description":"QPF ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি QPF ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "QPF",
-  "menu" : {
-    "docs" : {
-      "parent" : "word-processing"
-}
-},
-  "lastmod" : "2021-05-20"
+  "date": "2021-05-20",
+  "keywords": [
+    "qpf file",
+    "qpf file format",
+    "what is an qpf file",
+    "file",
+    "qpf example",
+    "qpf file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "QPF - কুইকপ্যাড এনক্রিপ্ট করা ডকুমেন্ট ফাইল",
+  "description": "QPF ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি QPF ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "QPF",
+  "menu": {
+    "docs": {
+      "parent": "word-processing",
+      "identifier": "word-processing-qpf-bn"
+    }
+  },
+  "lastmod": "2021-05-20"
 }
 
 ## একটি QPF ফাইল কি?

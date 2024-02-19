@@ -1,19 +1,20 @@
 {
-  "date" : "2023-03-28",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "DOCX থেকে TXT অনলাইনে বিনামূল্যে রূপান্তর করুন",
-  "description":"বিনামূল্যে অনলাইন DOCX থেকে TXT রূপান্তরকারী",
-  "linktitle" : "DOCX to TXT",
-  "menu" : {
-    "docs" : {
-      "parent" : "word-processing"
-}
-},
-  "lastmod" : "2023-03-28"
+  "date": "2023-03-28",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "DOCX থেকে TXT অনলাইনে বিনামূল্যে রূপান্তর করুন",
+  "description": "বিনামূল্যে অনলাইন DOCX থেকে TXT রূপান্তরকারী",
+  "linktitle": "DOCX to TXT",
+  "menu": {
+    "docs": {
+      "parent": "word-processing",
+      "identifier": "word-processing-docx-to-txt-bn"
+    }
+  },
+  "lastmod": "2023-03-28"
 }
 
 ## DOCX থেকে TXT রূপান্তর সম্পর্কে
