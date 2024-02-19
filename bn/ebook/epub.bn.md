@@ -1,20 +1,28 @@
 {
-  "date" : "2019-12-12",
-  "keywords" : [ "EPUB", "file", "extension", "format", "E-Book", "Digital book" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"EPUB ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি EPUB ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "title" : "একটি EPUB ফাইল কি?",
-  "linktitle" : "EPUB",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
-}
-},
-  "lastmod" : "2019-12-12"
+  "date": "2019-12-12",
+  "keywords": [
+    "EPUB",
+    "file",
+    "extension",
+    "format",
+    "E-Book",
+    "Digital book"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "EPUB ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি EPUB ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "title": "একটি EPUB ফাইল কি?",
+  "linktitle": "EPUB",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-epub-bn"
+    }
+  },
+  "lastmod": "2019-12-12"
 }
 
 ## একটি EPUB ফাইল কি?

@@ -1,20 +1,29 @@
 {
-  "date" : "2021-04-05",
-  "keywords" : [ "AVA", "AvaaBook eBook File", "file" ,"extension", "format", "eBook", "file type"],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"AVA ফাইল বিন্যাস এবং API সম্পর্কে জানুন যেগুলি AVA ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "AVA - AvaaBook ইবুক ফাইল",
-  "linktitle" : "AVA",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
-}
-},
-  "lastmod" : "2021-05-28"
+  "date": "2021-04-05",
+  "keywords": [
+    "AVA",
+    "AvaaBook eBook File",
+    "file",
+    "extension",
+    "format",
+    "eBook",
+    "file type"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "AVA ফাইল বিন্যাস এবং API সম্পর্কে জানুন যেগুলি AVA ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "AVA - AvaaBook ইবুক ফাইল",
+  "linktitle": "AVA",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-ava-bn"
+    }
+  },
+  "lastmod": "2021-05-28"
 }
 
 ## একটি AVA ফাইল কি?

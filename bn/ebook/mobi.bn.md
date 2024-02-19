@@ -1,20 +1,28 @@
 {
-  "date" : "2019-12-12",
-  "keywords" : [ "MOBI", "file", "extension", "format", "eBook", "MobiPocket" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"MOBI ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি MOBI ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "title" : "MOBI ফাইল ফরম্যাট",
-  "linktitle" : "MOBI",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
-}
-},
-  "lastmod" : "2019-12-12"
+  "date": "2019-12-12",
+  "keywords": [
+    "MOBI",
+    "file",
+    "extension",
+    "format",
+    "eBook",
+    "MobiPocket"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "MOBI ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি MOBI ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "title": "MOBI ফাইল ফরম্যাট",
+  "linktitle": "MOBI",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-mobi-bn"
+    }
+  },
+  "lastmod": "2019-12-12"
 }
 
 ## একটি MOBI ফাইল কি?

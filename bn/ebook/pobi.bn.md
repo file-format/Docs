@@ -1,20 +1,30 @@
 {
-  "date" : "2021-03-28",
-  "keywords" : [ "POBI", "orb reader", "File" ,"extension", "format", "eBook", "Original eBook Reader File", "file type"],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"POBI ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি POBI ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "title" : "POBI - কিন্ডল টাচ পর্যায়ক্রমিক ফাইল",
-  "linktitle" : "POBI",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
-}
-},
-  "lastmod" : "2021-03-28"
+  "date": "2021-03-28",
+  "keywords": [
+    "POBI",
+    "orb reader",
+    "File",
+    "extension",
+    "format",
+    "eBook",
+    "Original eBook Reader File",
+    "file type"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "POBI ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি POBI ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "title": "POBI - কিন্ডল টাচ পর্যায়ক্রমিক ফাইল",
+  "linktitle": "POBI",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-pobi-bn"
+    }
+  },
+  "lastmod": "2021-03-28"
 }
 
 ## একটি POBI ফাইল কি?

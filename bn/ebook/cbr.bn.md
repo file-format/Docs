@@ -1,20 +1,29 @@
 {
-  "date" : "2019-12-12",
-  "keywords" : [ "CBR", "extension", "file", "format", "Comic books", "Comic Books File Format", "eBook" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "CBR ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি CBR ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "CBR - কমিক বুক RAR আর্কাইভ ফাইল ফরম্যাট",
-  "linktitle" : "CBR",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
-}
-},
-  "lastmod" : "2021-03-03"
+  "date": "2019-12-12",
+  "keywords": [
+    "CBR",
+    "extension",
+    "file",
+    "format",
+    "Comic books",
+    "Comic Books File Format",
+    "eBook"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "CBR ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি CBR ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "CBR - কমিক বুক RAR আর্কাইভ ফাইল ফরম্যাট",
+  "linktitle": "CBR",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-cbr-bn"
+    }
+  },
+  "lastmod": "2021-03-03"
 }
 
 ## একটি CBR ফাইল কি?

@@ -1,20 +1,29 @@
 {
-  "date" : "2021-04-03",
-  "keywords" : [ "FKB", "File", "Extension", "File Format", "File Extension", "eBook", "Flipkart"],
-  "author" : {
-    "display_name" : "Sami Cheema"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"FKB ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি FKB ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "FKB ফাইল ফরম্যাট",
-  "linktitle" : "FKB",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
-}
-},
-  "lastmod" : "2021-04-03"
+  "date": "2021-04-03",
+  "keywords": [
+    "FKB",
+    "File",
+    "Extension",
+    "File Format",
+    "File Extension",
+    "eBook",
+    "Flipkart"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "FKB ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি FKB ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "FKB ফাইল ফরম্যাট",
+  "linktitle": "FKB",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-fkb-bn"
+    }
+  },
+  "lastmod": "2021-04-03"
 }
 
 ## একটি FKB ফাইল কি? ##

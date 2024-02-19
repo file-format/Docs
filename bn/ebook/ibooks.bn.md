@@ -1,20 +1,27 @@
 {
-  "date" : "2021-03-20",
-  "keywords" : [ "IBOOKS", "File", "Extension", "File Format", "eBook"],
-  "author" : {
-    "display_name" : "Sami Cheema"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"IBOOKS ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি IBOOKS ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "title" : "IBOOKS ফাইল ফরম্যাট",
-  "linktitle" : "IBOOKS",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
-}
-},
-  "lastmod" : "2021-03-20"
+  "date": "2021-03-20",
+  "keywords": [
+    "IBOOKS",
+    "File",
+    "Extension",
+    "File Format",
+    "eBook"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "IBOOKS ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি IBOOKS ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "title": "IBOOKS ফাইল ফরম্যাট",
+  "linktitle": "IBOOKS",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-ibooks-bn"
+    }
+  },
+  "lastmod": "2021-03-20"
 }
 
 ## একটি IBOOKS ফাইল কি? ##

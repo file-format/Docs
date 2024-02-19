@@ -1,20 +1,29 @@
 {
-  "date" : "2019-12-12",
-  "keywords" : [ "CBZ", "extension", "file", "file format", "Comic books", "Comic Books File Format", "eBook Files" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "CBZ ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি CBZ ফাইলগুলি তৈরি এবং খুলতে পারে।",
-  "title" : "CBZ - কমিক বুক জিপ আর্কাইভ ফাইল ফরম্যাট",
-  "linktitle" : "CBZ",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
-}
-},
-  "lastmod" : "2021-03-03"
+  "date": "2019-12-12",
+  "keywords": [
+    "CBZ",
+    "extension",
+    "file",
+    "file format",
+    "Comic books",
+    "Comic Books File Format",
+    "eBook Files"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "CBZ ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি CBZ ফাইলগুলি তৈরি এবং খুলতে পারে।",
+  "title": "CBZ - কমিক বুক জিপ আর্কাইভ ফাইল ফরম্যাট",
+  "linktitle": "CBZ",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-cbz-bn"
+    }
+  },
+  "lastmod": "2021-03-03"
 }
 
 ## একটি CBZ ফাইল কি?

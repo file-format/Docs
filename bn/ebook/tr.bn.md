@@ -1,20 +1,29 @@
 {
-  "date" : "2021-04-10",
-  "keywords" : [ "TR", "File", "Extension", "File Format", "eBook", "TomeRaider", "Yadabyte" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"TR ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা TR ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "TR ফাইল ফরম্যাট - TomeRaider ইবুক ফাইল",
-  "linktitle" : "TR",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
-}
-},
-  "lastmod" : "2021-04-10"
+  "date": "2021-04-10",
+  "keywords": [
+    "TR",
+    "File",
+    "Extension",
+    "File Format",
+    "eBook",
+    "TomeRaider",
+    "Yadabyte"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "TR ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা TR ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "TR ফাইল ফরম্যাট - TomeRaider ইবুক ফাইল",
+  "linktitle": "TR",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-tr-bn"
+    }
+  },
+  "lastmod": "2021-04-10"
 }
 
 ## একটি TR ফাইল কি? ##

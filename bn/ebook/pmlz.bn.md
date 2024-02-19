@@ -1,20 +1,29 @@
 {
-  "date" : "2021-03-30",
-  "keywords" : [ "PMLZ", "Zipped Palm Markup Language File", "extension", "File", "format", "eBook", "Palm Markup Language" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"পিএমএলজেড ফাইল ফরম্যাট, পাম মার্কআপ ল্যাঙ্গুয়েজ এবং এপিআই সম্পর্কে জানুন যা পিএমএলজেড ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "PMLZ - জিপড পাম মার্কআপ ল্যাঙ্গুয়েজ ফাইল",
-  "linktitle" : "PMLZ",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
-}
-},
-  "lastmod" : "2021-03-30"
+  "date": "2021-03-30",
+  "keywords": [
+    "PMLZ",
+    "Zipped Palm Markup Language File",
+    "extension",
+    "File",
+    "format",
+    "eBook",
+    "Palm Markup Language"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "পিএমএলজেড ফাইল ফরম্যাট, পাম মার্কআপ ল্যাঙ্গুয়েজ এবং এপিআই সম্পর্কে জানুন যা পিএমএলজেড ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "PMLZ - জিপড পাম মার্কআপ ল্যাঙ্গুয়েজ ফাইল",
+  "linktitle": "PMLZ",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-pmlz-bn"
+    }
+  },
+  "lastmod": "2021-03-30"
 }
 
 ## একটি PMLZ ফাইল কি?

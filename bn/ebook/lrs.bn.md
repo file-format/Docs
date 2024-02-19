@@ -1,20 +1,28 @@
 {
-  "date" : "2019-12-12",
-  "keywords" : [ "LRS", "file", "extension", "format", "E-Book", "Digital book" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"LRS ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি LRS ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "LRS - Librie Reader সোর্স ফাইল ফরম্যাট",
-  "linktitle" : "LRS",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
-}
-},
-  "lastmod" : "2020-11-04"
+  "date": "2019-12-12",
+  "keywords": [
+    "LRS",
+    "file",
+    "extension",
+    "format",
+    "E-Book",
+    "Digital book"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "LRS ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি LRS ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "LRS - Librie Reader সোর্স ফাইল ফরম্যাট",
+  "linktitle": "LRS",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-lrs-bn"
+    }
+  },
+  "lastmod": "2020-11-04"
 }
 
 ## একটি LRS ফাইল কি?

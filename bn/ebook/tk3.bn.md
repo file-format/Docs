@@ -1,20 +1,30 @@
 {
-  "date" : "2021-04-10",
-  "keywords" : [ "TK3", "File", "Extension", "File Format", "eBook", "TK3 Reader", "Night Kitchen, Inc", "Wintec's WBT-201" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"TK3 ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা TK3 ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "TK3 ফাইল ফরম্যাট",
-  "linktitle" : "TK3",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
-}
-},
-  "lastmod" : "2021-04-10"
+  "date": "2021-04-10",
+  "keywords": [
+    "TK3",
+    "File",
+    "Extension",
+    "File Format",
+    "eBook",
+    "TK3 Reader",
+    "Night Kitchen, Inc",
+    "Wintec's WBT-201"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "TK3 ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা TK3 ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "TK3 ফাইল ফরম্যাট",
+  "linktitle": "TK3",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-tk3-bn"
+    }
+  },
+  "lastmod": "2021-04-10"
 }
 
 ## একটি TK3 ফাইল কি? ##

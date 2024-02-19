@@ -1,20 +1,28 @@
 {
-  "date" : "2021-03-20",
-  "keywords" : [ "YBK", "File", "Extension", "File Format", "eBook", "YanCEyWare"],
-  "author" : {
-    "display_name" : "Sami Cheema"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"YBK ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি YBK ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "YBK ফাইল ফরম্যাট",
-  "linktitle" : "YBK",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
-}
-},
-  "lastmod" : "2021-03-20"
+  "date": "2021-03-20",
+  "keywords": [
+    "YBK",
+    "File",
+    "Extension",
+    "File Format",
+    "eBook",
+    "YanCEyWare"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "YBK ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি YBK ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "YBK ফাইল ফরম্যাট",
+  "linktitle": "YBK",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-ybk-bn"
+    }
+  },
+  "lastmod": "2021-03-20"
 }
 
 ## একটি YBK ফাইল কি? ##

@@ -1,20 +1,31 @@
 {
-  "date" : "2021-04-03",
-  "keywords" : [ "KOOB", "File", "Extension", "File Format", "File Extension", "eBook", "Koober", "Koob Readers", "Koob eBook Format"],
-  "author" : {
-    "display_name" : "Sami Cheema"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"KOOB ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা KOOB ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "KOOB ফাইল ফরম্যাট",
-  "linktitle" : "KOOB",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
-}
-},
-  "lastmod" : "2021-04-03"
+  "date": "2021-04-03",
+  "keywords": [
+    "KOOB",
+    "File",
+    "Extension",
+    "File Format",
+    "File Extension",
+    "eBook",
+    "Koober",
+    "Koob Readers",
+    "Koob eBook Format"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "KOOB ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা KOOB ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "KOOB ফাইল ফরম্যাট",
+  "linktitle": "KOOB",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-koob-bn"
+    }
+  },
+  "lastmod": "2021-04-03"
 }
 
 ## একটি KOOB ফাইল কি? ##

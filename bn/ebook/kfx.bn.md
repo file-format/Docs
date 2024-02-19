@@ -1,20 +1,30 @@
 {
-  "date" : "2019-12-12",
-  "keywords" : [ "KFX", "File", "Extesion", "Format", "Specifications", "eBook", "Amazon KF10 eBook File", "open" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"KFX ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি KFX ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "একটি KFX ফাইল কি?",
-  "linktitle" : "KFX",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
-}
-},
-  "lastmod" : "2019-11-22"
+  "date": "2019-12-12",
+  "keywords": [
+    "KFX",
+    "File",
+    "Extesion",
+    "Format",
+    "Specifications",
+    "eBook",
+    "Amazon KF10 eBook File",
+    "open"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "KFX ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি KFX ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "একটি KFX ফাইল কি?",
+  "linktitle": "KFX",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-kfx-bn"
+    }
+  },
+  "lastmod": "2019-11-22"
 }
 
 ## একটি KFX ফাইল কি?

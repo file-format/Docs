@@ -1,20 +1,30 @@
 {
-  "date" : "2021-03-16",
-  "keywords" : [ "EA", "Kindle End Actions File", "extension", "format", "eBook", "Amazon Kindle e-reading device", "ASIN","Kindle file format"],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"EA ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যা EA ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "title" : "EA - কিন্ডল এন্ড অ্যাকশন ফাইল",
-  "linktitle" : "EA",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
-}
-},
-  "lastmod" : "2021-03-16"
+  "date": "2021-03-16",
+  "keywords": [
+    "EA",
+    "Kindle End Actions File",
+    "extension",
+    "format",
+    "eBook",
+    "Amazon Kindle e-reading device",
+    "ASIN",
+    "Kindle file format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "EA ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যা EA ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "title": "EA - কিন্ডল এন্ড অ্যাকশন ফাইল",
+  "linktitle": "EA",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-ea-bn"
+    }
+  },
+  "lastmod": "2021-03-16"
 }
 
 ## একটি EA ফাইল কি? ##

@@ -1,20 +1,28 @@
 {
-  "date" : "2021-03-04",
-  "keywords" : [ "lit", "Microsoft Reader", "extension", "format", "eBook", "Literature" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"LIT ফাইল বিন্যাস সম্পর্কে জানুন যা প্রাচীন মাইক্রোসফ্ট রিডার এবং APIগুলির অন্তর্গত যা LIT ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "title" : "LIT (সাহিত্য) - মাইক্রোসফট রিডার ই-বুক ফাইল ফরম্যাট",
-  "linktitle" : "LIT",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
-}
-},
-  "lastmod" : "2021-03-04"
+  "date": "2021-03-04",
+  "keywords": [
+    "lit",
+    "Microsoft Reader",
+    "extension",
+    "format",
+    "eBook",
+    "Literature"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "LIT ফাইল বিন্যাস সম্পর্কে জানুন যা প্রাচীন মাইক্রোসফ্ট রিডার এবং APIগুলির অন্তর্গত যা LIT ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "title": "LIT (সাহিত্য) - মাইক্রোসফট রিডার ই-বুক ফাইল ফরম্যাট",
+  "linktitle": "LIT",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-lit-bn"
+    }
+  },
+  "lastmod": "2021-03-04"
 }
 
 ## একটি LIT ফাইল কি?

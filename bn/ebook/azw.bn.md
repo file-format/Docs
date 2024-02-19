@@ -1,20 +1,29 @@
 {
-  "date" : "2019-12-12",
-  "keywords" : [ "AZW", "extension", "file", "format", "Kindle File Type", "Kindle File Format", "eBook" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "AZW ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা AZW ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "AZW ফাইল ফরম্যাট",
-  "linktitle" : "AZW",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
-}
-},
-  "lastmod" : "2021-05-28"
+  "date": "2019-12-12",
+  "keywords": [
+    "AZW",
+    "extension",
+    "file",
+    "format",
+    "Kindle File Type",
+    "Kindle File Format",
+    "eBook"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "AZW ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা AZW ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "AZW ফাইল ফরম্যাট",
+  "linktitle": "AZW",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-azw-bn"
+    }
+  },
+  "lastmod": "2021-05-28"
 }
 
 ## একটি AZW ফাইল কি?

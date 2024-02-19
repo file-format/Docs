@@ -1,20 +1,29 @@
 {
-  "date" : "2021-03-23",
-  "keywords" : [ "MBP", "Mobipocket Notes File", "extension", "format", "E-Book", "MBP reader", "Mobipocket"],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"Mobipocket Notes(MBP) ফাইল ফরম্যাট এবং APIs সম্পর্কে জানুন যা MBP ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "এমবিপি - মোবিপকেট নোট ফাইল",
-  "linktitle" : "MBP",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
-}
-},
-  "lastmod" : "2021-03-22"
+  "date": "2021-03-23",
+  "keywords": [
+    "MBP",
+    "Mobipocket Notes File",
+    "extension",
+    "format",
+    "E-Book",
+    "MBP reader",
+    "Mobipocket"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "Mobipocket Notes(MBP) ফাইল ফরম্যাট এবং APIs সম্পর্কে জানুন যা MBP ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "এমবিপি - মোবিপকেট নোট ফাইল",
+  "linktitle": "MBP",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-mbp-bn"
+    }
+  },
+  "lastmod": "2021-03-22"
 }
 
 ## একটি MBP ফাইল কি?

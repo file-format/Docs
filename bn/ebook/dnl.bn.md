@@ -1,20 +1,31 @@
 {
-  "date" : "2021-03-16",
-  "keywords" : [ "DNL", "DNAML eBook File", "file", "extension", "format", "eBook", "DRM", "DNAML DNL Reader", "DNAML DeskTop Author" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"DNL ফাইল ফরম্যাট এবং APIগুলি সম্পর্কে জানুন যা DNL ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "title" : "DNL - DNAML ইবুক ফাইল",
-  "linktitle" : "DNL",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
-}
-},
-  "lastmod" : "2021-03-16"
+  "date": "2021-03-16",
+  "keywords": [
+    "DNL",
+    "DNAML eBook File",
+    "file",
+    "extension",
+    "format",
+    "eBook",
+    "DRM",
+    "DNAML DNL Reader",
+    "DNAML DeskTop Author"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "DNL ফাইল ফরম্যাট এবং APIগুলি সম্পর্কে জানুন যা DNL ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "title": "DNL - DNAML ইবুক ফাইল",
+  "linktitle": "DNL",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-dnl-bn"
+    }
+  },
+  "lastmod": "2021-03-16"
 }
 
 ## একটি DNL ফাইল কি?

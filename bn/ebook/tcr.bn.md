@@ -1,20 +1,27 @@
 {
-  "date" : "2021-03-09",
-  "keywords" : [ "TCR", "Psion", "extension", "format", "eBook" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"Psion 3 সিরিজের জন্য TCR ফাইল ফরম্যাট এবং APIs সম্পর্কে জানুন যা tcr ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "TCR - Psion সিরিজ 3 ইবুক ফাইল",
-  "linktitle" : "TCR",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
-}
-},
-  "lastmod" : "2021-03-09"
+  "date": "2021-03-09",
+  "keywords": [
+    "TCR",
+    "Psion",
+    "extension",
+    "format",
+    "eBook"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "Psion 3 সিরিজের জন্য TCR ফাইল ফরম্যাট এবং APIs সম্পর্কে জানুন যা tcr ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "TCR - Psion সিরিজ 3 ইবুক ফাইল",
+  "linktitle": "TCR",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-tcr-bn"
+    }
+  },
+  "lastmod": "2021-03-09"
 }
 
 ## একটি TCR ফাইল কি?

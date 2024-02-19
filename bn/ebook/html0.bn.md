@@ -1,20 +1,29 @@
 {
-  "date" : "2021-03-27",
-  "keywords" : [ "HTML0", "File", "Extension", "File Format", "File Extension", "eBook", "Book Designer"],
-  "author" : {
-    "display_name" : "Sami Cheema"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"HTML0 ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি HTML0 ফাইল তৈরি করতে এবং খুলতে পারে৷",
-  "title" : "HTML0 ফাইল ফরম্যাট",
-  "linktitle" : "HTML0",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
-}
-},
-  "lastmod" : "2021-03-27"
+  "date": "2021-03-27",
+  "keywords": [
+    "HTML0",
+    "File",
+    "Extension",
+    "File Format",
+    "File Extension",
+    "eBook",
+    "Book Designer"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "HTML0 ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি HTML0 ফাইল তৈরি করতে এবং খুলতে পারে৷",
+  "title": "HTML0 ফাইল ফরম্যাট",
+  "linktitle": "HTML0",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-html0-bn"
+    }
+  },
+  "lastmod": "2021-03-27"
 }
 
 ## একটি HTML0 ফাইল কি? ##

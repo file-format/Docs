@@ -1,20 +1,30 @@
 {
-  "date" : "2021-04-03",
-  "keywords" : [ "ETD", "File", "Extension", "File Format", "File Extension", "eBook", "Adobe Reader", "EBX Transfer Data Format"],
-  "author" : {
-    "display_name" : "Sami Cheema"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"ETD ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা ETD ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "ETD ফাইল ফরম্যাট",
-  "linktitle" : "ETD",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
-}
-},
-  "lastmod" : "2021-04-03"
+  "date": "2021-04-03",
+  "keywords": [
+    "ETD",
+    "File",
+    "Extension",
+    "File Format",
+    "File Extension",
+    "eBook",
+    "Adobe Reader",
+    "EBX Transfer Data Format"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "ETD ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা ETD ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "ETD ফাইল ফরম্যাট",
+  "linktitle": "ETD",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-etd-bn"
+    }
+  },
+  "lastmod": "2021-04-03"
 }
 
 ## একটি ETD ফাইল কি? ##

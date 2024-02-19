@@ -1,20 +1,30 @@
 {
-  "date" : "2021-04-03",
-  "keywords" : [ "VBK", "File", "Extension", "File Format", "File Extension", "eBook", "Veeam Backup File", "VitalSource eBook"],
-  "author" : {
-    "display_name" : "Sami Cheema"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"VBK ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা VBK ফাইলগুলি তৈরি এবং খুলতে পারে।",
-  "title" : "VBK ফাইল ফরম্যাট",
-  "linktitle" : "VBK",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
-}
-},
-  "lastmod" : "2021-04-03"
+  "date": "2021-04-03",
+  "keywords": [
+    "VBK",
+    "File",
+    "Extension",
+    "File Format",
+    "File Extension",
+    "eBook",
+    "Veeam Backup File",
+    "VitalSource eBook"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "VBK ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা VBK ফাইলগুলি তৈরি এবং খুলতে পারে।",
+  "title": "VBK ফাইল ফরম্যাট",
+  "linktitle": "VBK",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-vbk-bn"
+    }
+  },
+  "lastmod": "2021-04-03"
 }
 
 ## একটি VBK ফাইল কি? ##

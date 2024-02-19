@@ -1,20 +1,29 @@
 {
-  "date" : "2019-12-12",
-  "keywords" : [ "CBC", "extension", "file", "format", "Comic books", "Comic Books File Format", "eBook" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "সিবিসি ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যেগুলি সিবিসি ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "CBC - কমিক বই সংগ্রহ ফাইল বিন্যাস",
-  "linktitle" : "CBC",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
-}
-},
-  "lastmod" : "2021-03-03"
+  "date": "2019-12-12",
+  "keywords": [
+    "CBC",
+    "extension",
+    "file",
+    "format",
+    "Comic books",
+    "Comic Books File Format",
+    "eBook"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "সিবিসি ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যেগুলি সিবিসি ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "CBC - কমিক বই সংগ্রহ ফাইল বিন্যাস",
+  "linktitle": "CBC",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-cbc-bn"
+    }
+  },
+  "lastmod": "2021-03-03"
 }
 
 ## একটি CBC ফাইল কি?

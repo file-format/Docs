@@ -1,20 +1,29 @@
 {
-  "date" : "2021-03-15",
-  "keywords" : [ "CEB", "Apabi eBook Files", "extension", "format", "eBook", "Chinese eBook", "Apabi Reader 4.5" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"CEB ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি CEB ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "CEB - Apabi ইবুক ফাইল",
-  "linktitle" : "CEB",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
-}
-},
-  "lastmod" : "2021-03-15"
+  "date": "2021-03-15",
+  "keywords": [
+    "CEB",
+    "Apabi eBook Files",
+    "extension",
+    "format",
+    "eBook",
+    "Chinese eBook",
+    "Apabi Reader 4.5"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "CEB ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি CEB ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "CEB - Apabi ইবুক ফাইল",
+  "linktitle": "CEB",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-ceb-bn"
+    }
+  },
+  "lastmod": "2021-03-15"
 }
 
 ## একটি CEB ফাইল কি?

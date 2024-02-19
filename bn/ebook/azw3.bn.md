@@ -1,20 +1,29 @@
 {
-  "date" : "2019-12-12",
-  "keywords" : [ "KF8", "extension", "file", "format", "eBook", "Kindle File Format", "AZW3 File Structure" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"AZW3 ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা AZW3 ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "একটি AZW3 ফাইল কি?",
-  "linktitle" : "AZW3",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
-}
-},
-  "lastmod" : "2021-06-04"
+  "date": "2019-12-12",
+  "keywords": [
+    "KF8",
+    "extension",
+    "file",
+    "format",
+    "eBook",
+    "Kindle File Format",
+    "AZW3 File Structure"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "AZW3 ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা AZW3 ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "একটি AZW3 ফাইল কি?",
+  "linktitle": "AZW3",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-azw3-bn"
+    }
+  },
+  "lastmod": "2021-06-04"
 }
 
 ## একটি AZW3 ফাইল কি?

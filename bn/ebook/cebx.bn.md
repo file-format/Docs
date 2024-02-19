@@ -1,20 +1,30 @@
 {
-  "date" : "2021-03-15",
-  "keywords" : [ "CEBX", "Apabi eBook Files", "extension", "file", "format", "eBook", "Chinese eBook", "Apabi Reader 4.5" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"CEBX ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি CEBX ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "title" : "CEBX - Apabi ইবুক ফাইল",
-  "linktitle" : "CEBX",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
-}
-},
-  "lastmod" : "2021-03-15"
+  "date": "2021-03-15",
+  "keywords": [
+    "CEBX",
+    "Apabi eBook Files",
+    "extension",
+    "file",
+    "format",
+    "eBook",
+    "Chinese eBook",
+    "Apabi Reader 4.5"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "CEBX ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি CEBX ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "title": "CEBX - Apabi ইবুক ফাইল",
+  "linktitle": "CEBX",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-cebx-bn"
+    }
+  },
+  "lastmod": "2021-03-15"
 }
 
 ## একটি CEBX ফাইল কি?

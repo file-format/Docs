@@ -1,20 +1,28 @@
 {
-  "date" : "2019-12-12",
-  "keywords" : [ "LRX", "file", "extension", "format", "E-Book", "Digital book" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"LRX ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি LRX ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "LRX - Librie Reader সোর্স ফাইল ফরম্যাট",
-  "linktitle" : "LRX",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
-}
-},
-  "lastmod" : "2020-11-04"
+  "date": "2019-12-12",
+  "keywords": [
+    "LRX",
+    "file",
+    "extension",
+    "format",
+    "E-Book",
+    "Digital book"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "LRX ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি LRX ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "LRX - Librie Reader সোর্স ফাইল ফরম্যাট",
+  "linktitle": "LRX",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-lrx-bn"
+    }
+  },
+  "lastmod": "2020-11-04"
 }
 
 ## একটি LRX ফাইল কি?

@@ -1,20 +1,29 @@
 {
-  "date" : "2021-04-01",
-  "keywords" : [ "RZB", "Red Zion Book File", "File" ,"extension", "format", "eBook", "file type"],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"RZB ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি RZB ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "RZB - রেড জিয়ন বুক ফাইল",
-  "linktitle" : "RZB",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
-}
-},
-  "lastmod" : "2021-04-01"
+  "date": "2021-04-01",
+  "keywords": [
+    "RZB",
+    "Red Zion Book File",
+    "File",
+    "extension",
+    "format",
+    "eBook",
+    "file type"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "RZB ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি RZB ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "RZB - রেড জিয়ন বুক ফাইল",
+  "linktitle": "RZB",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-rzb-bn"
+    }
+  },
+  "lastmod": "2021-04-01"
 }
 
 ## একটি RZB ফাইল কি?

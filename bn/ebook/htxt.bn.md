@@ -1,20 +1,29 @@
 {
-  "date" : "2021-03-27",
-  "keywords" : [ "HTXT", "File", "Extension", "File Format", "File Extension", "eBook", "Hanvon WISEreader"],
-  "author" : {
-    "display_name" : "Sami Cheema"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"HTXT ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি HTXT ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "title" : "HTXT ফাইল ফরম্যাট",
-  "linktitle" : "HTXT",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
-}
-},
-  "lastmod" : "2021-03-27"
+  "date": "2021-03-27",
+  "keywords": [
+    "HTXT",
+    "File",
+    "Extension",
+    "File Format",
+    "File Extension",
+    "eBook",
+    "Hanvon WISEreader"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "HTXT ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি HTXT ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "title": "HTXT ফাইল ফরম্যাট",
+  "linktitle": "HTXT",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-htxt-bn"
+    }
+  },
+  "lastmod": "2021-03-27"
 }
 
 ## একটি HTXT ফাইল কি? ##

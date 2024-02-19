@@ -1,20 +1,28 @@
 {
-  "date" : "2021-03-08",
-  "keywords" : [ "PML", "eReader", "extension", "format", "eBook", "Palm Markup Language" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"পিএমএল ফাইল ফরম্যাট, পাম মার্কআপ ল্যাঙ্গুয়েজ এবং এপিআই সম্পর্কে জানুন যা পিএমএল ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "PML - পাম মার্কআপ ভাষা ফাইল",
-  "linktitle" : "PML",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
-}
-},
-  "lastmod" : "2021-03-08"
+  "date": "2021-03-08",
+  "keywords": [
+    "PML",
+    "eReader",
+    "extension",
+    "format",
+    "eBook",
+    "Palm Markup Language"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "পিএমএল ফাইল ফরম্যাট, পাম মার্কআপ ল্যাঙ্গুয়েজ এবং এপিআই সম্পর্কে জানুন যা পিএমএল ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "PML - পাম মার্কআপ ভাষা ফাইল",
+  "linktitle": "PML",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-pml-bn"
+    }
+  },
+  "lastmod": "2021-03-08"
 }
 
 ## একটি PML ফাইল কি?

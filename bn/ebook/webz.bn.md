@@ -1,20 +1,27 @@
 {
-  "date" : "2021-03-20",
-  "keywords" : [ "WEBZ", "File", "Extension", "File Format", "eBook"],
-  "author" : {
-    "display_name" : "Sami Cheema"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"WEBZ ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা WEBZ ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "WEBZ ফাইল ফরম্যাট",
-  "linktitle" : "WEBZ",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
-}
-},
-  "lastmod" : "2021-03-20"
+  "date": "2021-03-20",
+  "keywords": [
+    "WEBZ",
+    "File",
+    "Extension",
+    "File Format",
+    "eBook"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "WEBZ ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা WEBZ ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "WEBZ ফাইল ফরম্যাট",
+  "linktitle": "WEBZ",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-webz-bn"
+    }
+  },
+  "lastmod": "2021-03-20"
 }
 
 ## একটি WEBZ ফাইল কি? ##

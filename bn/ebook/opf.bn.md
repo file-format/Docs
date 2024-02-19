@@ -1,20 +1,29 @@
 {
-  "date" : "2021-03-23",
-  "keywords" : [ "OPF", "Open Package Format", "extension", "format", "eBook", "Flipbook", "FlipAlbum"],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"OPF ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি OPF ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "title" : "OPF - প্যাকেজ ফরম্যাট খুলুন",
-  "linktitle" : "OPF",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
-}
-},
-  "lastmod" : "2021-03-22"
+  "date": "2021-03-23",
+  "keywords": [
+    "OPF",
+    "Open Package Format",
+    "extension",
+    "format",
+    "eBook",
+    "Flipbook",
+    "FlipAlbum"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "OPF ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি OPF ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "title": "OPF - প্যাকেজ ফরম্যাট খুলুন",
+  "linktitle": "OPF",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-opf-bn"
+    }
+  },
+  "lastmod": "2021-03-22"
 }
 
 ## একটি OPF ফাইল কি? ##

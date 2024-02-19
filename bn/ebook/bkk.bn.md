@@ -1,20 +1,29 @@
 {
-  "date" : "2021-03-12",
-  "keywords" : [ "BKK", "BookBuddi eBook File", "extension", "format", "eBook", "BookBuddi" ,"Microsoft Text to Speech Agent"],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"Amazon BKK ফাইল ফর্ম্যাট এবং APIগুলি সম্পর্কে জানুন যা BKK ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "title" : "BKK - BookBuddi ইবুক ফাইল",
-  "linktitle" : "BKK",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
-}
-},
-  "lastmod" : "2021-03-12"
+  "date": "2021-03-12",
+  "keywords": [
+    "BKK",
+    "BookBuddi eBook File",
+    "extension",
+    "format",
+    "eBook",
+    "BookBuddi",
+    "Microsoft Text to Speech Agent"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "Amazon BKK ফাইল ফর্ম্যাট এবং APIগুলি সম্পর্কে জানুন যা BKK ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "title": "BKK - BookBuddi ইবুক ফাইল",
+  "linktitle": "BKK",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-bkk-bn"
+    }
+  },
+  "lastmod": "2021-03-12"
 }
 
 ## একটি BKK ফাইল কি?

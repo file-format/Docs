@@ -1,20 +1,30 @@
 {
-  "date" : "2021-04-10",
-  "keywords" : [ "TPZ", "File", "Extension", "File Format", "eBook", "Kindle Topaz eBook", "Amazon Kindle", "Caliber"],
-  "author" : {
-    "display_name" : "Sami Cheema"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"TPZ ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি TPZ ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "title" : "TPZ ফাইল ফরম্যাট",
-  "linktitle" : "TPZ",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
-}
-},
-  "lastmod" : "2021-04-10"
+  "date": "2021-04-10",
+  "keywords": [
+    "TPZ",
+    "File",
+    "Extension",
+    "File Format",
+    "eBook",
+    "Kindle Topaz eBook",
+    "Amazon Kindle",
+    "Caliber"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "TPZ ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি TPZ ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "title": "TPZ ফাইল ফরম্যাট",
+  "linktitle": "TPZ",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-tpz-bn"
+    }
+  },
+  "lastmod": "2021-04-10"
 }
 
 ## একটি TPZ ফাইল কি? ##

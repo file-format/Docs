@@ -1,20 +1,30 @@
 {
-  "date" : "2021-03-28",
-  "keywords" : [ "ORB", "orb reader", "File" ,"extension", "format", "eBook", "Original eBook Reader File", "file type"],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"অরবি রিডার এবং এপিআইগুলির জন্য ORB ফাইল ফর্ম্যাট সম্পর্কে জানুন যা ORB ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "title" : "ORB - আসল ইবুক রিডার ফাইল",
-  "linktitle" : "ORB",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
-}
-},
-  "lastmod" : "2021-03-28"
+  "date": "2021-03-28",
+  "keywords": [
+    "ORB",
+    "orb reader",
+    "File",
+    "extension",
+    "format",
+    "eBook",
+    "Original eBook Reader File",
+    "file type"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "অরবি রিডার এবং এপিআইগুলির জন্য ORB ফাইল ফর্ম্যাট সম্পর্কে জানুন যা ORB ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "title": "ORB - আসল ইবুক রিডার ফাইল",
+  "linktitle": "ORB",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-orb-bn"
+    }
+  },
+  "lastmod": "2021-03-28"
 }
 
 ## একটি ORB ফাইল কি? ##

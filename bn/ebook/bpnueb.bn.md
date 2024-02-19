@@ -1,20 +1,29 @@
 {
-  "date" : "2021-04-05",
-  "keywords" : [ "BPNUEB", "PNU eBook File", "File" ,"extension", "format", "eBook", "file type"],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"BPNUEB ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা BPNUEB ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "BPNUEB - PNU ইবুক ফাইল",
-  "linktitle" : "BPNUEB",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
-}
-},
-  "lastmod" : "2021-04-05"
+  "date": "2021-04-05",
+  "keywords": [
+    "BPNUEB",
+    "PNU eBook File",
+    "File",
+    "extension",
+    "format",
+    "eBook",
+    "file type"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "BPNUEB ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা BPNUEB ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "BPNUEB - PNU ইবুক ফাইল",
+  "linktitle": "BPNUEB",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-bpnueb-bn"
+    }
+  },
+  "lastmod": "2021-04-05"
 }
 
 ## একটি BPNUEB ফাইল কি?

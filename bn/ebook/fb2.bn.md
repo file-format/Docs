@@ -1,20 +1,30 @@
 {
-  "date" : "2019-12-12",
-  "keywords" : [ "FB2", "File", "Extension", "File Format", "eBook", "open", "XML", "read" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"FB2 ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা FB2 ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "একটি FB2 ফাইল কি?",
-  "linktitle" : "FB2",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
-}
-},
-  "lastmod" : "2019-11-22"
+  "date": "2019-12-12",
+  "keywords": [
+    "FB2",
+    "File",
+    "Extension",
+    "File Format",
+    "eBook",
+    "open",
+    "XML",
+    "read"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "FB2 ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা FB2 ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "একটি FB2 ফাইল কি?",
+  "linktitle": "FB2",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-fb2-bn"
+    }
+  },
+  "lastmod": "2019-11-22"
 }
 
 ## একটি FB2 ফাইল কি?

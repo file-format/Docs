@@ -1,20 +1,29 @@
 {
-  "date" : "2021-03-31",
-  "keywords" : [ "QMK", "YanceyDesktop Quickmarks File", "File" ,"extension", "format", "eBook", "file type"],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"QMK ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি QMK ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "QMK - YanceyDesktop Quickmarks ফাইল",
-  "linktitle" : "QMK",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
-}
-},
-  "lastmod" : "2021-03-31"
+  "date": "2021-03-31",
+  "keywords": [
+    "QMK",
+    "YanceyDesktop Quickmarks File",
+    "File",
+    "extension",
+    "format",
+    "eBook",
+    "file type"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "QMK ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি QMK ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "QMK - YanceyDesktop Quickmarks ফাইল",
+  "linktitle": "QMK",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-qmk-bn"
+    }
+  },
+  "lastmod": "2021-03-31"
 }
 
 ## একটি QMK ফাইল কি?

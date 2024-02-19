@@ -1,20 +1,29 @@
 {
-  "date" : "2021-03-22",
-  "keywords" : [ "MART", "MartView eBook File", "extension", "format", "eBook", "e-publication", "martview reader"],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"MartView eBook File(MartView eBook File)ফাইল ফরম্যাট এবং APIs সম্পর্কে জানুন যা MART ফাইল তৈরি ও খুলতে পারে।",
-  "title" : "MART - MartView ইবুক ফাইল",
-  "linktitle" : "MART",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
-}
-},
-  "lastmod" : "2021-03-22"
+  "date": "2021-03-22",
+  "keywords": [
+    "MART",
+    "MartView eBook File",
+    "extension",
+    "format",
+    "eBook",
+    "e-publication",
+    "martview reader"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "MartView eBook File(MartView eBook File)ফাইল ফরম্যাট এবং APIs সম্পর্কে জানুন যা MART ফাইল তৈরি ও খুলতে পারে।",
+  "title": "MART - MartView ইবুক ফাইল",
+  "linktitle": "MART",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-mart-bn"
+    }
+  },
+  "lastmod": "2021-03-22"
 }
 
 ## একটি MART ফাইল কি? ##

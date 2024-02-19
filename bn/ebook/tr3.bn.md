@@ -1,20 +1,29 @@
 {
-  "date" : "2021-04-10",
-  "keywords" : [ "TR3", "File", "Extension", "File Format", "eBook", "TomeRaider", "Yadabyte" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"TR3 ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা TR3 ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "TR3 - TomeRaider 3 ইবুক ফাইল",
-  "linktitle" : "TR3",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
-}
-},
-  "lastmod" : "2021-04-10"
+  "date": "2021-04-10",
+  "keywords": [
+    "TR3",
+    "File",
+    "Extension",
+    "File Format",
+    "eBook",
+    "TomeRaider",
+    "Yadabyte"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "TR3 ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা TR3 ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "TR3 - TomeRaider 3 ইবুক ফাইল",
+  "linktitle": "TR3",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-tr3-bn"
+    }
+  },
+  "lastmod": "2021-04-10"
 }
 
 ## একটি TR3 ফাইল কি? ##

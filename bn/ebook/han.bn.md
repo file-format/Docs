@@ -1,20 +1,29 @@
 {
-  "date" : "2021-03-27",
-  "keywords" : [ "HAN", "File", "Extension", "File Format", "File Extension", "eBook", "Amazon"],
-  "author" : {
-    "display_name" : "Sami Cheema"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"HAN ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা HAN ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "HAN ফাইল ফরম্যাট",
-  "linktitle" : "HAN",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
-}
-},
-  "lastmod" : "2021-03-27"
+  "date": "2021-03-27",
+  "keywords": [
+    "HAN",
+    "File",
+    "Extension",
+    "File Format",
+    "File Extension",
+    "eBook",
+    "Amazon"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "HAN ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা HAN ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "HAN ফাইল ফরম্যাট",
+  "linktitle": "HAN",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-han-bn"
+    }
+  },
+  "lastmod": "2021-03-27"
 }
 
 ## একটি HAN ফাইল কি? ##

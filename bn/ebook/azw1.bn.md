@@ -1,20 +1,29 @@
 {
-  "date" : "2021-03-11",
-  "keywords" : [ "AZW1", "Amazon Kindle Topaz eBook", "extension", "file", "format", "eBook", "Whispernet" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"Amazon AZW1 ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি AZW1 ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "AZW1 - Amazon Kindle Topaz eBook",
-  "linktitle" : "AZW1",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
-}
-},
-  "lastmod" : "2021-05-28"
+  "date": "2021-03-11",
+  "keywords": [
+    "AZW1",
+    "Amazon Kindle Topaz eBook",
+    "extension",
+    "file",
+    "format",
+    "eBook",
+    "Whispernet"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "Amazon AZW1 ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি AZW1 ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "AZW1 - Amazon Kindle Topaz eBook",
+  "linktitle": "AZW1",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-azw1-bn"
+    }
+  },
+  "lastmod": "2021-05-28"
 }
 
 ## একটি AZW1 ফাইল কি? ##

@@ -1,20 +1,29 @@
 {
-  "date" : "2021-03-30",
-  "keywords" : [ "PHL", "Amazon Kindle Popular Highlights File", "File", "extension", "format", "eBook", "Popular Highlights"],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"অরব রিডার এবং এপিআইগুলির জন্য PHL ফাইল ফর্ম্যাট সম্পর্কে জানুন যা PHL ফাইলগুলি তৈরি এবং খুলতে পারে।",
-  "title" : "PHL - Amazon Kindle জনপ্রিয় হাইলাইট ফাইল",
-  "linktitle" : "PHL",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
-}
-},
-  "lastmod" : "2021-03-30"
+  "date": "2021-03-30",
+  "keywords": [
+    "PHL",
+    "Amazon Kindle Popular Highlights File",
+    "File",
+    "extension",
+    "format",
+    "eBook",
+    "Popular Highlights"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "অরব রিডার এবং এপিআইগুলির জন্য PHL ফাইল ফর্ম্যাট সম্পর্কে জানুন যা PHL ফাইলগুলি তৈরি এবং খুলতে পারে।",
+  "title": "PHL - Amazon Kindle জনপ্রিয় হাইলাইট ফাইল",
+  "linktitle": "PHL",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-phl-bn"
+    }
+  },
+  "lastmod": "2021-03-30"
 }
 
 ## একটি PHL ফাইল কি?

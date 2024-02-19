@@ -1,20 +1,31 @@
 {
-  "date" : "2021-03-12",
-  "keywords" : [ "AZW4", " Amazon Print Replica eBook", "extension", "file", "format", "eBook", "Kindle eReader" ,"Textbooks", "PDF"],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"Amazon AZW4 ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি AZW1 ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "AZW4 - আমাজন প্রিন্ট রেপ্লিকা ইবুক",
-  "linktitle" : "AZW4",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
-}
-},
-  "lastmod" : "2021-03-12"
+  "date": "2021-03-12",
+  "keywords": [
+    "AZW4",
+    " Amazon Print Replica eBook",
+    "extension",
+    "file",
+    "format",
+    "eBook",
+    "Kindle eReader",
+    "Textbooks",
+    "PDF"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "Amazon AZW4 ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি AZW1 ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "AZW4 - আমাজন প্রিন্ট রেপ্লিকা ইবুক",
+  "linktitle": "AZW4",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-azw4-bn"
+    }
+  },
+  "lastmod": "2021-03-12"
 }
 
 ## একটি AZW4 ফাইল কি?

@@ -1,20 +1,29 @@
 {
-  "date" : "2021-03-10",
-  "keywords" : [ "ACSM", "Adobe Content Server Message", "extension", "format", "eBook", "file", "Adobe Digital Editions" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"Adobe এবং APIs দ্বারা ACSM ফাইল বিন্যাস সম্পর্কে জানুন যা ACSM ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "title" : "ACSM - Adobe Content Server Message File Format",
-  "linktitle" : "ACSM",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
-}
-},
-  "lastmod" : "2021-05-28"
+  "date": "2021-03-10",
+  "keywords": [
+    "ACSM",
+    "Adobe Content Server Message",
+    "extension",
+    "format",
+    "eBook",
+    "file",
+    "Adobe Digital Editions"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "Adobe এবং APIs দ্বারা ACSM ফাইল বিন্যাস সম্পর্কে জানুন যা ACSM ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "title": "ACSM - Adobe Content Server Message File Format",
+  "linktitle": "ACSM",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-acsm-bn"
+    }
+  },
+  "lastmod": "2021-05-28"
 }
 
 ## একটি ACSM ফাইল কি?

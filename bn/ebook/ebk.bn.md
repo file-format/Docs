@@ -1,20 +1,28 @@
 {
-  "date" : "2021-03-17",
-  "keywords" : [ "EBK", "eBook Pro eBook File", "extension", "format", "eBook", "Ebook Pro Viewer"],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"EBK ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি EBK ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "title" : "EBK - ইবুক প্রো ইবুক ফাইল",
-  "linktitle" : "EBK",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
-}
-},
-  "lastmod" : "2021-03-17"
+  "date": "2021-03-17",
+  "keywords": [
+    "EBK",
+    "eBook Pro eBook File",
+    "extension",
+    "format",
+    "eBook",
+    "Ebook Pro Viewer"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "EBK ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি EBK ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "title": "EBK - ইবুক প্রো ইবুক ফাইল",
+  "linktitle": "EBK",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-ebk-bn"
+    }
+  },
+  "lastmod": "2021-03-17"
 }
 
 ## একটি EBK ফাইল কি?

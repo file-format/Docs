@@ -1,20 +1,28 @@
 {
-  "date" : "2021-03-08",
-  "keywords" : [ "RB", "Nuvo Media’s Rocket eBook device", "file", "extension", "format", "eBook" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"নুভো মিডিয়ার রকেট ইবুক ডিভাইস এবং এপিআইগুলির জন্য RB ফাইল বিন্যাস সম্পর্কে জানুন যা RB ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "title" : "আরবি - রকেট ইবুক ফাইল",
-  "linktitle" : "RB",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
-}
-},
-  "lastmod" : "2021-03-08"
+  "date": "2021-03-08",
+  "keywords": [
+    "RB",
+    "Nuvo Media’s Rocket eBook device",
+    "file",
+    "extension",
+    "format",
+    "eBook"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "নুভো মিডিয়ার রকেট ইবুক ডিভাইস এবং এপিআইগুলির জন্য RB ফাইল বিন্যাস সম্পর্কে জানুন যা RB ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "title": "আরবি - রকেট ইবুক ফাইল",
+  "linktitle": "RB",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-rb-bn"
+    }
+  },
+  "lastmod": "2021-03-08"
 }
 
 ## একটি RB ফাইল কি?

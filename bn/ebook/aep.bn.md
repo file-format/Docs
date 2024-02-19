@@ -1,20 +1,29 @@
 {
-  "date" : "2021-03-11",
-  "keywords" : [ "AEP", "Activ E-Book Project", "extension", "file", "format", "eBook", "Adobe Digital Editions" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
+  "date": "2021-03-11",
+  "keywords": [
+    "AEP",
+    "Activ E-Book Project",
+    "extension",
+    "file",
+    "format",
+    "eBook",
+    "Adobe Digital Editions"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
   "description": "Adobe এবং APIs দ্বারা AEP ফাইল বিন্যাস সম্পর্কে জানুন যা AEP ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "AEP - সক্রিয় ই-বুক প্রকল্প",
-  "linktitle" : "AEP",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
-}
-},
-  "lastmod" : "2021-05-28"
+  "title": "AEP - সক্রিয় ই-বুক প্রকল্প",
+  "linktitle": "AEP",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-aep-bn"
+    }
+  },
+  "lastmod": "2021-05-28"
 }
 
 ## একটি AEP ফাইল কি? ##

@@ -1,20 +1,28 @@
 {
-  "date" : "2019-12-12",
-  "keywords" : [ "LRF", "file", "extension", "format", "eBook", "Digital book" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"LRF ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি LRF ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "title" : "LRF ফাইল ফরম্যাট - একটি সনি পোর্টেবল রিডার ফাইল",
-  "linktitle" : "LRF",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
-}
-},
-  "lastmod" : "2019-12-12"
+  "date": "2019-12-12",
+  "keywords": [
+    "LRF",
+    "file",
+    "extension",
+    "format",
+    "eBook",
+    "Digital book"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "LRF ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি LRF ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "title": "LRF ফাইল ফরম্যাট - একটি সনি পোর্টেবল রিডার ফাইল",
+  "linktitle": "LRF",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-lrf-bn"
+    }
+  },
+  "lastmod": "2019-12-12"
 }
 
 ## একটি LRF ফাইল কি?

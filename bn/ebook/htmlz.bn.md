@@ -1,20 +1,29 @@
 {
-  "date" : "2021-03-27",
-  "keywords" : [ "HTMLZ", "File", "Extension", "File Format", "File Extension", "eBook", "Zipped HTML"],
-  "author" : {
-    "display_name" : "Sami Cheema"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"HTMLZ ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি HTMLZ ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "HTMLZ ফাইল ফরম্যাট",
-  "linktitle" : "HTMLZ",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
-}
-},
-  "lastmod" : "2021-03-27"
+  "date": "2021-03-27",
+  "keywords": [
+    "HTMLZ",
+    "File",
+    "Extension",
+    "File Format",
+    "File Extension",
+    "eBook",
+    "Zipped HTML"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "HTMLZ ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি HTMLZ ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "HTMLZ ফাইল ফরম্যাট",
+  "linktitle": "HTMLZ",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-htmlz-bn"
+    }
+  },
+  "lastmod": "2021-03-27"
 }
 
 ## একটি HTMLZ ফাইল কি? ##

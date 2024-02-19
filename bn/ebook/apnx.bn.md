@@ -1,20 +1,29 @@
 {
-  "date" : "2021-03-11",
-  "keywords" : [ "APNX", "Amazon Page Number Index", "extension", "file", "format", "eBook", "Amazon Kindle" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"Amazon APNX ফাইল ফরম্যাট এবং APIগুলি সম্পর্কে জানুন যা APNX ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "title" : "APNX - Amazon Page Number Index",
-  "linktitle" : "APNX",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
-}
-},
-  "lastmod" : "2021-05-28"
+  "date": "2021-03-11",
+  "keywords": [
+    "APNX",
+    "Amazon Page Number Index",
+    "extension",
+    "file",
+    "format",
+    "eBook",
+    "Amazon Kindle"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "Amazon APNX ফাইল ফরম্যাট এবং APIগুলি সম্পর্কে জানুন যা APNX ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "title": "APNX - Amazon Page Number Index",
+  "linktitle": "APNX",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-apnx-bn"
+    }
+  },
+  "lastmod": "2021-05-28"
 }
 
 ## একটি APNX ফাইল কি? ##

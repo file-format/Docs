@@ -1,20 +1,28 @@
 {
-  "date" : "2021-03-20",
-  "keywords" : [ "HTZ4", "File", "Extension", "File Format", "eBook", "HyperMaker"],
-  "author" : {
-    "display_name" : "Sami Cheema"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"HTZ4 ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা HTZ4 ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "HTZ4 ফাইল ফরম্যাট",
-  "linktitle" : "HTZ4",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
-}
-},
-  "lastmod" : "2021-03-20"
+  "date": "2021-03-20",
+  "keywords": [
+    "HTZ4",
+    "File",
+    "Extension",
+    "File Format",
+    "eBook",
+    "HyperMaker"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "HTZ4 ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা HTZ4 ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "HTZ4 ফাইল ফরম্যাট",
+  "linktitle": "HTZ4",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-htz4-bn"
+    }
+  },
+  "lastmod": "2021-03-20"
 }
 
 ## একটি HTZ4 ফাইল কি? ##
