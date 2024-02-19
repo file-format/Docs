@@ -1,19 +1,20 @@
 {
-  "date" : "2019-10-11",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "XFDF ফাইল ফরম্যাট - একটি XFDF ফাইল কি?",
-  "description":"XFDF ফাইল এবং API সম্পর্কে জানুন যেগুলি XFDF ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "XFDF",
-  "menu" : {
-    "docs" : {
-      "parent" : "pdf"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "XFDF ফাইল ফরম্যাট - একটি XFDF ফাইল কি?",
+  "description": "XFDF ফাইল এবং API সম্পর্কে জানুন যেগুলি XFDF ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "XFDF",
+  "menu": {
+    "docs": {
+      "parent": "pdf",
+      "identifier": "pdf-xfdf-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি XFDF ফাইল কি?

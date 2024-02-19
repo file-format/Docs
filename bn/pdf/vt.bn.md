@@ -1,19 +1,20 @@
 {
-  "date" : "2019-10-11",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "PDF/VT ফাইল ফরম্যাট",
-  "description":"PDF/VT ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি PDF/VT ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "PDF/VT",
-  "menu" : {
-    "docs" : {
-      "parent" : "pdf"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "PDF/VT ফাইল ফরম্যাট",
+  "description": "PDF/VT ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি PDF/VT ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "PDF/VT",
+  "menu": {
+    "docs": {
+      "parent": "pdf",
+      "identifier": "pdf-vt-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 # PDF/VT কি? #

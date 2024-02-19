@@ -1,19 +1,20 @@
 {
-  "date" : "2019-10-11",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "PDF/X ফাইল ফরম্যাট",
-  "description":"PDF/X ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি PDF/X ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "PDF/X",
-  "menu" : {
-    "docs" : {
-      "parent" : "pdf"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "PDF/X ফাইল ফরম্যাট",
+  "description": "PDF/X ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি PDF/X ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "PDF/X",
+  "menu": {
+    "docs": {
+      "parent": "pdf",
+      "identifier": "pdf-x-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 # PDF/X ফাইল কি? #

@@ -1,19 +1,20 @@
 {
-  "date" : "2019-10-11",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "FDF ফাইল ফরম্যাট - একটি FDF ফাইল কি?",
-  "description":"FDF ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি FDF ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "FDF",
-  "menu" : {
-    "docs" : {
-      "parent" : "pdf"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "FDF ফাইল ফরম্যাট - একটি FDF ফাইল কি?",
+  "description": "FDF ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি FDF ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "FDF",
+  "menu": {
+    "docs": {
+      "parent": "pdf",
+      "identifier": "pdf-fdf-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি FDF ফাইল কি?
