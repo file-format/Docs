@@ -1,20 +1,28 @@
 {
-  "date" : "2021-07-04",
-  "keywords" : [ "DFG", "file", "extension", "file format", "Data Flask Grid", "Spreadsheet" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "একটি DFG ফাইল এবং API যা DFG ফাইল তৈরি এবং খুলতে পারে তা জানতে আপনার ফাইল বিন্যাস নির্দেশিকা৷",
-  "title" : "DFG - ডেটা ফ্লাস্ক গ্রিড ফাইল",
-  "linktitle" : "DFG",
-  "menu" : {
-    "docs" : {
-      "parent" : "spreadsheet"
-}
-},
-  "lastmod" : "2021-07-04"
+  "date": "2021-07-04",
+  "keywords": [
+    "DFG",
+    "file",
+    "extension",
+    "file format",
+    "Data Flask Grid",
+    "Spreadsheet"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "একটি DFG ফাইল এবং API যা DFG ফাইল তৈরি এবং খুলতে পারে তা জানতে আপনার ফাইল বিন্যাস নির্দেশিকা৷",
+  "title": "DFG - ডেটা ফ্লাস্ক গ্রিড ফাইল",
+  "linktitle": "DFG",
+  "menu": {
+    "docs": {
+      "parent": "spreadsheet",
+      "identifier": "spreadsheet-dfg-bn"
+    }
+  },
+  "lastmod": "2021-07-04"
 }
 
 ## একটি DFG ফাইল কি?

@@ -1,20 +1,32 @@
 {
-  "date" : "2021-07-07",
-  "keywords" : [ "INI", "extension", "file", "format", "system", "Initiation", "directory extension", "programs", "computer", "application" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "INI - ইনিশিয়েশন ফাইল ফরম্যাট",
-  "description":"INI ফাইল বিন্যাস এবং API সম্পর্কে জানুন যেগুলি INI ফাইলগুলি তৈরি এবং খুলতে পারে।",
-  "linktitle" : "INI",
-  "menu" : {
-    "docs" : {
-      "parent" : "system"
-}
-},
-  "lastmod" : "2021-07-07"
+  "date": "2021-07-07",
+  "keywords": [
+    "INI",
+    "extension",
+    "file",
+    "format",
+    "system",
+    "Initiation",
+    "directory extension",
+    "programs",
+    "computer",
+    "application"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "INI - ইনিশিয়েশন ফাইল ফরম্যাট",
+  "description": "INI ফাইল বিন্যাস এবং API সম্পর্কে জানুন যেগুলি INI ফাইলগুলি তৈরি এবং খুলতে পারে।",
+  "linktitle": "INI",
+  "menu": {
+    "docs": {
+      "parent": "system",
+      "identifier": "system-ini-bn"
+    }
+  },
+  "lastmod": "2021-07-07"
 }
 
 ## একটি INI ফাইল কি? ##

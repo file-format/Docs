@@ -1,20 +1,29 @@
 {
-  "date" : "2019-12-10",
-  "keywords" : [ "dis", "file", "extension", "file format", "oracle discoverer", "workbook", "spreadsheet"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "ডিআইএস ফাইল এবং APIগুলি কী যা ডিআইএস ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "একটি DIS ফাইল কি?",
-  "linktitle" : "DIS",
-  "menu" : {
-    "docs" : {
-      "parent" : "spreadsheet"
-}
-},
-  "lastmod" : "2021-11-29"
+  "date": "2019-12-10",
+  "keywords": [
+    "dis",
+    "file",
+    "extension",
+    "file format",
+    "oracle discoverer",
+    "workbook",
+    "spreadsheet"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "ডিআইএস ফাইল এবং APIগুলি কী যা ডিআইএস ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "একটি DIS ফাইল কি?",
+  "linktitle": "DIS",
+  "menu": {
+    "docs": {
+      "parent": "spreadsheet",
+      "identifier": "spreadsheet-dis-bn"
+    }
+  },
+  "lastmod": "2021-11-29"
 }
 
 ## একটি DIS ফাইল কি?

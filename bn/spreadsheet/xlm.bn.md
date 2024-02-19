@@ -1,20 +1,28 @@
 {
-  "date" : "2019-12-10",
-  "keywords" : [ "XLM", "file", "extension", "file format", "Microsoft Excel Macro File", "Spreadsheet" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "XLM ম্যাক্রো ফাইল এবং এপিআইগুলি কী তা জানার জন্য আপনার ফাইল বিন্যাস নির্দেশিকা যা XLM ফাইলগুলি তৈরি এবং খুলতে পারে।",
-  "title" : "একটি XLM ফাইল কি?",
-  "linktitle" : "XLM",
-  "menu" : {
-    "docs" : {
-      "parent" : "spreadsheet"
-}
-},
-  "lastmod" : "2019-12-10"
+  "date": "2019-12-10",
+  "keywords": [
+    "XLM",
+    "file",
+    "extension",
+    "file format",
+    "Microsoft Excel Macro File",
+    "Spreadsheet"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "XLM ম্যাক্রো ফাইল এবং এপিআইগুলি কী তা জানার জন্য আপনার ফাইল বিন্যাস নির্দেশিকা যা XLM ফাইলগুলি তৈরি এবং খুলতে পারে।",
+  "title": "একটি XLM ফাইল কি?",
+  "linktitle": "XLM",
+  "menu": {
+    "docs": {
+      "parent": "spreadsheet",
+      "identifier": "spreadsheet-xlm-bn"
+    }
+  },
+  "lastmod": "2019-12-10"
 }
 
 ## একটি XLM ফাইল কি?

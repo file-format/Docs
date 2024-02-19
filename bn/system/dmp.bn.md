@@ -1,20 +1,32 @@
 {
-  "date" : "2021-07-07",
-  "keywords" : [ "DMP", "extension", "file", "format", "system", "MemoryDump", "Minidump", "programs", "computer", "application" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "DMP - MemoryDump ফাইল ফরম্যাট",
-  "description":"DMP ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি DMP ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "DMP",
-  "menu" : {
-    "docs" : {
-      "parent" : "system"
-}
-},
-  "lastmod" : "2021-07-07"
+  "date": "2021-07-07",
+  "keywords": [
+    "DMP",
+    "extension",
+    "file",
+    "format",
+    "system",
+    "MemoryDump",
+    "Minidump",
+    "programs",
+    "computer",
+    "application"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "DMP - MemoryDump ফাইল ফরম্যাট",
+  "description": "DMP ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি DMP ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "DMP",
+  "menu": {
+    "docs": {
+      "parent": "system",
+      "identifier": "system-dmp-bn"
+    }
+  },
+  "lastmod": "2021-07-07"
 }
 
 ## একটি DMP ফাইল কি? ##

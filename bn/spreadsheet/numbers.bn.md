@@ -1,20 +1,31 @@
 {
-  "date" : "2021-03-03",
-  "keywords" : [ "Apple iWork", ".numbers", "File", "extension", "file format", ".xlsx", "Spreadsheet" , "Convert Numbers to XLSX", "convert numbers file to excel"],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "নম্বর ফাইল এবং API সম্পর্কে ফাইল ফর্ম্যাট জ্ঞান যা নম্বরগুলিকে XLSX বা অন্যান্য স্প্রেডশীটে তৈরি, খুলতে এবং রূপান্তর করতে পারে।",
-  "title" : "নম্বর - অ্যাপল আইওয়ার্ক নম্বর স্প্রেডশীট ",
-  "linktitle" : "NUMBERS",
-  "menu" : {
-    "docs" : {
-      "parent" : "spreadsheet"
-}
-},
-  "lastmod" : "2021-03-03"
+  "date": "2021-03-03",
+  "keywords": [
+    "Apple iWork",
+    ".numbers",
+    "File",
+    "extension",
+    "file format",
+    ".xlsx",
+    "Spreadsheet",
+    "Convert Numbers to XLSX",
+    "convert numbers file to excel"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "নম্বর ফাইল এবং API সম্পর্কে ফাইল ফর্ম্যাট জ্ঞান যা নম্বরগুলিকে XLSX বা অন্যান্য স্প্রেডশীটে তৈরি, খুলতে এবং রূপান্তর করতে পারে।",
+  "title": "নম্বর - অ্যাপল আইওয়ার্ক নম্বর স্প্রেডশীট ",
+  "linktitle": "NUMBERS",
+  "menu": {
+    "docs": {
+      "parent": "spreadsheet",
+      "identifier": "spreadsheet-numbers-bn"
+    }
+  },
+  "lastmod": "2021-03-03"
 }
 
 ## একটি NUMBERS ফাইল কি? ##

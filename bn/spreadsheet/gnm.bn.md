@@ -1,20 +1,28 @@
 {
-  "date" : "2021-12-01",
-  "keywords" : [ "gnm", "file", "extension", "file format", "gnumeric", "Spreadsheet" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"একটি GNM ফাইল এবং API কি যা GNM ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "GNM - জিনিউমেরিক স্প্রেডশীট ফাইল ফর্ম্যাট",
-  "linktitle" : "GNM",
-  "menu" : {
-    "docs" : {
-      "parent" : "spreadsheet"
-}
-},
-  "lastmod" : "2021-12-01"
+  "date": "2021-12-01",
+  "keywords": [
+    "gnm",
+    "file",
+    "extension",
+    "file format",
+    "gnumeric",
+    "Spreadsheet"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "একটি GNM ফাইল এবং API কি যা GNM ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "GNM - জিনিউমেরিক স্প্রেডশীট ফাইল ফর্ম্যাট",
+  "linktitle": "GNM",
+  "menu": {
+    "docs": {
+      "parent": "spreadsheet",
+      "identifier": "spreadsheet-gnm-bn"
+    }
+  },
+  "lastmod": "2021-12-01"
 }
 
 ## একটি GNM ফাইল কি?

@@ -1,20 +1,28 @@
 {
-  "date" : "2021-02-26",
-  "keywords" : [ "pmdx", "file", "extension", "file format", "SoftMaker PlanMaker File", "Spreadsheet" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"PlanMaker PMDX ফাইল এবং APIগুলি সম্পর্কে জানুন যেগুলি PMDX ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "title" : "PMDX - PlanMaker স্প্রেডশীট ফাইল",
-  "linktitle" : "PMDX",
-  "menu" : {
-    "docs" : {
-      "parent" : "spreadsheet"
-}
-},
-  "lastmod" : "2021-11-09"
+  "date": "2021-02-26",
+  "keywords": [
+    "pmdx",
+    "file",
+    "extension",
+    "file format",
+    "SoftMaker PlanMaker File",
+    "Spreadsheet"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "PlanMaker PMDX ফাইল এবং APIগুলি সম্পর্কে জানুন যেগুলি PMDX ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "title": "PMDX - PlanMaker স্প্রেডশীট ফাইল",
+  "linktitle": "PMDX",
+  "menu": {
+    "docs": {
+      "parent": "spreadsheet",
+      "identifier": "spreadsheet-pmdx-bn"
+    }
+  },
+  "lastmod": "2021-11-09"
 }
 
 ## একটি PMDX ফাইল কি?

@@ -1,20 +1,28 @@
 {
-  "date" : "2021-02-26",
-  "keywords" : [ "fm", "file", "extension", "file format", "filemaker pro", "Spreadsheet" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"একটি এফএম ফাইল এবং এপিআই কী যা এফএম ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "এফএম - ফাইলমেকার প্রো স্প্রেডশীট ফাইল",
-  "linktitle" : "FM",
-  "menu" : {
-    "docs" : {
-      "parent" : "spreadsheet"
-}
-},
-  "lastmod" : "2021-11-16"
+  "date": "2021-02-26",
+  "keywords": [
+    "fm",
+    "file",
+    "extension",
+    "file format",
+    "filemaker pro",
+    "Spreadsheet"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "একটি এফএম ফাইল এবং এপিআই কী যা এফএম ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "এফএম - ফাইলমেকার প্রো স্প্রেডশীট ফাইল",
+  "linktitle": "FM",
+  "menu": {
+    "docs": {
+      "parent": "spreadsheet",
+      "identifier": "spreadsheet-fm-bn"
+    }
+  },
+  "lastmod": "2021-11-16"
 }
 
 ## একটি FM ফাইল কি?

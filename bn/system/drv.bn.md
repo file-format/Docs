@@ -1,20 +1,32 @@
 {
-  "date" : "2021-07-08",
-  "keywords" : [ "DRV", "extension", "file", "format", "system", "Driver", "Windows Device Driver", "programs", "computer", "application" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "DRV - উইন্ডোজ ডিভাইস ড্রাইভার",
-  "description":"DRV ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি DRV ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "DRV",
-  "menu" : {
-    "docs" : {
-      "parent" : "system"
-}
-},
-  "lastmod" : "2021-07-08"
+  "date": "2021-07-08",
+  "keywords": [
+    "DRV",
+    "extension",
+    "file",
+    "format",
+    "system",
+    "Driver",
+    "Windows Device Driver",
+    "programs",
+    "computer",
+    "application"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "DRV - উইন্ডোজ ডিভাইস ড্রাইভার",
+  "description": "DRV ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি DRV ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "DRV",
+  "menu": {
+    "docs": {
+      "parent": "system",
+      "identifier": "system-drv-bn"
+    }
+  },
+  "lastmod": "2021-07-08"
 }
 
 ## একটি DRV ফাইল কি? ##

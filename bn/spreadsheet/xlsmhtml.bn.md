@@ -1,20 +1,29 @@
 {
-  "date" : "2021-07-13",
-  "keywords" : [ "XLSMHTML", "file", "extension", "file format", "Excel Template", "Open", "Spreadsheet" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "XLSMHTML ফাইল এবং এপিআইগুলি কী তা সম্পর্কে জানুন যা XLSMHTML ফাইলগুলি তৈরি করতে এবং খুলতে এবং তৈরি করতে পারে৷",
-  "title" : "XLSMHTML - Microsoft Excel MIME HTML স্প্রেডশীট",
-  "linktitle" : "XLSMHTML",
-  "menu" : {
-    "docs" : {
-      "parent" : "spreadsheet"
-}
-},
-  "lastmod" : "2021-07-13"
+  "date": "2021-07-13",
+  "keywords": [
+    "XLSMHTML",
+    "file",
+    "extension",
+    "file format",
+    "Excel Template",
+    "Open",
+    "Spreadsheet"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "XLSMHTML ফাইল এবং এপিআইগুলি কী তা সম্পর্কে জানুন যা XLSMHTML ফাইলগুলি তৈরি করতে এবং খুলতে এবং তৈরি করতে পারে৷",
+  "title": "XLSMHTML - Microsoft Excel MIME HTML স্প্রেডশীট",
+  "linktitle": "XLSMHTML",
+  "menu": {
+    "docs": {
+      "parent": "spreadsheet",
+      "identifier": "spreadsheet-xlsmhtml-bn"
+    }
+  },
+  "lastmod": "2021-07-13"
 }
 
 ## একটি XLSMHTML ফাইল কি?

@@ -1,20 +1,28 @@
 {
-  "date" : "2021-02-26",
-  "keywords" : [ "bks", "file", "extension", "file format", "Microsoft Works Spreadsheet Backup File", "Spreadsheet" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"বিকেএস স্প্রেডশীট ফাইল এবং এপিআই সম্পর্কে জানুন যা বিকেএস ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "বিকেএস - মাইক্রোসফ্ট ওয়ার্কস স্প্রেডশীট ব্যাকআপ ফাইল",
-  "linktitle" : "BKS",
-  "menu" : {
-    "docs" : {
-      "parent" : "spreadsheet"
-}
-},
-  "lastmod" : "2021-11-09"
+  "date": "2021-02-26",
+  "keywords": [
+    "bks",
+    "file",
+    "extension",
+    "file format",
+    "Microsoft Works Spreadsheet Backup File",
+    "Spreadsheet"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "বিকেএস স্প্রেডশীট ফাইল এবং এপিআই সম্পর্কে জানুন যা বিকেএস ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "বিকেএস - মাইক্রোসফ্ট ওয়ার্কস স্প্রেডশীট ব্যাকআপ ফাইল",
+  "linktitle": "BKS",
+  "menu": {
+    "docs": {
+      "parent": "spreadsheet",
+      "identifier": "spreadsheet-bks-bn"
+    }
+  },
+  "lastmod": "2021-11-09"
 }
 
 ## একটি BKS ফাইল কি? ##

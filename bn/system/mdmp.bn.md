@@ -1,19 +1,20 @@
 {
-  "date" : "2022-08-19",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "MDMP ফাইল - উইন্ডোজ মিনিডাম্প ফাইল ফরম্যাট",
-  "description":"MDMP ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি MDMP ফাইল তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "MDMP",
-  "menu" : {
-    "docs" : {
-      "parent" : "system"
-}
-},
-  "lastmod" : "2022-08-19"
+  "date": "2022-08-19",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "MDMP ফাইল - উইন্ডোজ মিনিডাম্প ফাইল ফরম্যাট",
+  "description": "MDMP ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি MDMP ফাইল তৈরি এবং খুলতে পারে৷",
+  "linktitle": "MDMP",
+  "menu": {
+    "docs": {
+      "parent": "system",
+      "identifier": "system-mdmp-bn"
+    }
+  },
+  "lastmod": "2022-08-19"
 }
 
 ## একটি MDMP ফাইল কি?

@@ -1,20 +1,28 @@
 {
-  "date" : "2019-12-16",
-  "keywords" : [ "XLS", "file", "extension", "file format", "Excel", "Spreadsheet" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "একটি XLS ফাইল এবং APIগুলি কী তা জানার জন্য আপনার ফাইল বিন্যাস নির্দেশিকা যা সেগুলি তৈরি এবং খুলতে পারে।",
-  "title" : "XLS ফাইল ফরম্যাট কি? ফাইল ফরম্যাট বিশেষজ্ঞদের কাছ থেকে শিখুন!",
-  "linktitle" : "XLS",
-  "menu" : {
-    "docs" : {
-      "parent" : "spreadsheet"
-}
-},
-  "lastmod" : "2019-12-16"
+  "date": "2019-12-16",
+  "keywords": [
+    "XLS",
+    "file",
+    "extension",
+    "file format",
+    "Excel",
+    "Spreadsheet"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "একটি XLS ফাইল এবং APIগুলি কী তা জানার জন্য আপনার ফাইল বিন্যাস নির্দেশিকা যা সেগুলি তৈরি এবং খুলতে পারে।",
+  "title": "XLS ফাইল ফরম্যাট কি? ফাইল ফরম্যাট বিশেষজ্ঞদের কাছ থেকে শিখুন!",
+  "linktitle": "XLS",
+  "menu": {
+    "docs": {
+      "parent": "spreadsheet",
+      "identifier": "spreadsheet-xls-bn"
+    }
+  },
+  "lastmod": "2019-12-16"
 }
 
 ## একটি XLS ফাইল কি?

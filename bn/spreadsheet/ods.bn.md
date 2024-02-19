@@ -1,20 +1,27 @@
 {
-  "date" : "2019-12-10",
-  "keywords" : [ "ODS", "file", "extension", "file format", "OpenDocument Spreadsheet" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "একটি ODS ফাইল এবং APIগুলি কী তা জানার জন্য আপনার ফাইল বিন্যাস নির্দেশিকা যা সেগুলি তৈরি এবং খুলতে পারে।",
-  "title" : "একটি ODS ফাইল কি? ",
-  "linktitle" : "ODS",
-  "menu" : {
-    "docs" : {
-      "parent" : "spreadsheet"
-}
-},
-  "lastmod" : "2019-12-10"
+  "date": "2019-12-10",
+  "keywords": [
+    "ODS",
+    "file",
+    "extension",
+    "file format",
+    "OpenDocument Spreadsheet"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "একটি ODS ফাইল এবং APIগুলি কী তা জানার জন্য আপনার ফাইল বিন্যাস নির্দেশিকা যা সেগুলি তৈরি এবং খুলতে পারে।",
+  "title": "একটি ODS ফাইল কি? ",
+  "linktitle": "ODS",
+  "menu": {
+    "docs": {
+      "parent": "spreadsheet",
+      "identifier": "spreadsheet-ods-bn"
+    }
+  },
+  "lastmod": "2019-12-10"
 }
 
 ## একটি ODS ফাইল কি?

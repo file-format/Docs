@@ -1,20 +1,32 @@
 {
-  "date" : "2021-06-29",
-  "keywords" : [ "CAB", "extension", "file", "format", "system", "Windows Cabinet File", "Microsoft", "Installer", "SetUp", "AdvPak" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "CAB - উইন্ডোজ ক্যাবিনেট ফাইল",
-  "description":"CAB ফাইল বিন্যাস এবং API সম্পর্কে জানুন যেগুলি CAB ফাইলগুলি তৈরি এবং খুলতে পারে।",
-  "linktitle" : "CAB",
-  "menu" : {
-    "docs" : {
-      "parent" : "system"
-}
-},
-  "lastmod" : "2021-06-29"
+  "date": "2021-06-29",
+  "keywords": [
+    "CAB",
+    "extension",
+    "file",
+    "format",
+    "system",
+    "Windows Cabinet File",
+    "Microsoft",
+    "Installer",
+    "SetUp",
+    "AdvPak"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "CAB - উইন্ডোজ ক্যাবিনেট ফাইল",
+  "description": "CAB ফাইল বিন্যাস এবং API সম্পর্কে জানুন যেগুলি CAB ফাইলগুলি তৈরি এবং খুলতে পারে।",
+  "linktitle": "CAB",
+  "menu": {
+    "docs": {
+      "parent": "system",
+      "identifier": "system-cab-bn"
+    }
+  },
+  "lastmod": "2021-06-29"
 }
 
 ## একটি CAB ফাইল কি? ##

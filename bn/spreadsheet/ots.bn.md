@@ -1,20 +1,28 @@
 {
-  "date" : "2019-12-16",
-  "keywords" : [ "OTS", "file", "extension", "file format", "Excel", "Spreadsheet" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "OTS ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি OTS ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "OTS - OpenDocument Spreadsheet টেমপ্লেট ফাইল ফরম্যাট",
-  "linktitle" : "OTS",
-  "menu" : {
-    "docs" : {
-      "parent" : "spreadsheet"
-}
-},
-  "lastmod" : "2021-01-19"
+  "date": "2019-12-16",
+  "keywords": [
+    "OTS",
+    "file",
+    "extension",
+    "file format",
+    "Excel",
+    "Spreadsheet"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "OTS ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি OTS ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "OTS - OpenDocument Spreadsheet টেমপ্লেট ফাইল ফরম্যাট",
+  "linktitle": "OTS",
+  "menu": {
+    "docs": {
+      "parent": "spreadsheet",
+      "identifier": "spreadsheet-ots-bn"
+    }
+  },
+  "lastmod": "2021-01-19"
 }
 
 ## একটি OTS ফাইল কি?

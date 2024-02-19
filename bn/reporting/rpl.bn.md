@@ -1,20 +1,27 @@
 {
-  "date" : "2021-03-02",
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "RPL - রিপোর্ট পেজ লেআউট",
-  "keywords" : [ "rpl", "Report Page Layout", "XSD", "SQL Server", "reporting"],
-  "description":"আরপিএল স্ট্রিম ফর্ম্যাট সম্পর্কে জানুন যা একটি অভ্যন্তরীণ বাইনারি ফর্ম্যাট যা Microsoft SQL সার্ভার রিপোর্টিং পরিষেবা দ্বারা ব্যবহৃত হয় যখন দর্শক নিয়ন্ত্রণের সাথে যোগাযোগ করা হয়।",
-  "linktitle" : "RPL",
-  "menu" : {
-    "docs" : {
-      "parent" : "reporting"
-}
-},
-  "lastmod" : "2021-03-02"
+  "date": "2021-03-02",
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "RPL - রিপোর্ট পেজ লেআউট",
+  "keywords": [
+    "rpl",
+    "Report Page Layout",
+    "XSD",
+    "SQL Server",
+    "reporting"
+  ],
+  "description": "আরপিএল স্ট্রিম ফর্ম্যাট সম্পর্কে জানুন যা একটি অভ্যন্তরীণ বাইনারি ফর্ম্যাট যা Microsoft SQL সার্ভার রিপোর্টিং পরিষেবা দ্বারা ব্যবহৃত হয় যখন দর্শক নিয়ন্ত্রণের সাথে যোগাযোগ করা হয়।",
+  "linktitle": "RPL",
+  "menu": {
+    "docs": {
+      "parent": "reporting",
+      "identifier": "reporting-rpl-bn"
+    }
+  },
+  "lastmod": "2021-03-02"
 }
 
 ## একটি RPL ফাইল কি? ##

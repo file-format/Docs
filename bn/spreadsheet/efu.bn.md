@@ -1,20 +1,29 @@
 {
-  "date" : "2021-02-26",
-  "keywords" : [ "EFU", "file", "extension", "file format", "Everything File List", "Everything File", "Spreadsheet" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"EFU ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা EFU ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "EFU - সবকিছুর ফাইল তালিকা স্প্রেডশীট ফাইল",
-  "linktitle" : "EFU",
-  "menu" : {
-    "docs" : {
-      "parent" : "spreadsheet"
-}
-},
-  "lastmod" : "2021-11-16"
+  "date": "2021-02-26",
+  "keywords": [
+    "EFU",
+    "file",
+    "extension",
+    "file format",
+    "Everything File List",
+    "Everything File",
+    "Spreadsheet"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "EFU ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা EFU ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "EFU - সবকিছুর ফাইল তালিকা স্প্রেডশীট ফাইল",
+  "linktitle": "EFU",
+  "menu": {
+    "docs": {
+      "parent": "spreadsheet",
+      "identifier": "spreadsheet-efu-bn"
+    }
+  },
+  "lastmod": "2021-11-16"
 }
 
 ## একটি EFU ফাইল কি?

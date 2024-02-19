@@ -1,20 +1,29 @@
 {
-  "date" : "2021-03-03",
-  "keywords" : [ "Apple iWork", ".numbers", "extension", "file format", ".xlsx", "Spreadsheet", "iCloud" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "নম্বর-টিইএফ ফাইল এবং এপিআই সম্পর্কে ফাইল ফর্ম্যাট জ্ঞান যা সেগুলি তৈরি এবং খুলতে পারে।",
-  "title" : "NUMBERS-TEF - iCloud এর জন্য Apple iWork নম্বর স্প্রেডশীট ব্যবহার করে তৈরি করা ফাইলগুলি৷",
-  "linktitle" : "NUMBERS-TEF",
-  "menu" : {
-    "docs" : {
-      "parent" : "spreadsheet"
-}
-},
-  "lastmod" : "2021-03-03"
+  "date": "2021-03-03",
+  "keywords": [
+    "Apple iWork",
+    ".numbers",
+    "extension",
+    "file format",
+    ".xlsx",
+    "Spreadsheet",
+    "iCloud"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "নম্বর-টিইএফ ফাইল এবং এপিআই সম্পর্কে ফাইল ফর্ম্যাট জ্ঞান যা সেগুলি তৈরি এবং খুলতে পারে।",
+  "title": "NUMBERS-TEF - iCloud এর জন্য Apple iWork নম্বর স্প্রেডশীট ব্যবহার করে তৈরি করা ফাইলগুলি৷",
+  "linktitle": "NUMBERS-TEF",
+  "menu": {
+    "docs": {
+      "parent": "spreadsheet",
+      "identifier": "spreadsheet-numbers-tef-bn"
+    }
+  },
+  "lastmod": "2021-03-03"
 }
 
 ## একটি NUMBERS-TEF ফাইল কি?

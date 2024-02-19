@@ -1,20 +1,28 @@
 {
-  "date" : "2021-02-26",
-  "keywords" : [ "SXC", "file", "extension", "file format", "Sun XML Calc", "Spreadsheet" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"SXC ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি SXC ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "SXC ফাইল ফরম্যাট",
-  "linktitle" : "SXC",
-  "menu" : {
-    "docs" : {
-      "parent" : "spreadsheet"
-}
-},
-  "lastmod" : "2021-02-26"
+  "date": "2021-02-26",
+  "keywords": [
+    "SXC",
+    "file",
+    "extension",
+    "file format",
+    "Sun XML Calc",
+    "Spreadsheet"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "SXC ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি SXC ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "SXC ফাইল ফরম্যাট",
+  "linktitle": "SXC",
+  "menu": {
+    "docs": {
+      "parent": "spreadsheet",
+      "identifier": "spreadsheet-sxc-bn"
+    }
+  },
+  "lastmod": "2021-02-26"
 }
 
 ## একটি SXC ফাইল কি? ##

@@ -1,20 +1,32 @@
 {
-  "date" : "2021-07-08",
-  "keywords" : [ "SYS", "extension", "file", "format", "system", "Driver", "System File", "programs", "computer", "application" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "SYS - সিস্টেম ফাইল ফরম্যাট",
-  "description":"SYS ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি SYS ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "SYS",
-  "menu" : {
-    "docs" : {
-      "parent" : "system"
-}
-},
-  "lastmod" : "2021-07-08"
+  "date": "2021-07-08",
+  "keywords": [
+    "SYS",
+    "extension",
+    "file",
+    "format",
+    "system",
+    "Driver",
+    "System File",
+    "programs",
+    "computer",
+    "application"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "SYS - সিস্টেম ফাইল ফরম্যাট",
+  "description": "SYS ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি SYS ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "SYS",
+  "menu": {
+    "docs": {
+      "parent": "system",
+      "identifier": "system-sys-bn"
+    }
+  },
+  "lastmod": "2021-07-08"
 }
 
 ## একটি SYS ফাইল কি? ##

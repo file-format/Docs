@@ -1,19 +1,20 @@
 {
-  "date" : "2023-02-15",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ভিজিএ ফাইল - ভিজিএ ডিসপ্লে ড্রাইভার ফাইল ফরম্যাট",
-  "description":"ভিজিএ ফাইল কী তা জানুন।",
-  "linktitle" : "VGA",
-  "menu" : {
-    "docs" : {
-      "parent" : "system"
-}
-},
-  "lastmod" : "2023-02-15"
+  "date": "2023-02-15",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "ভিজিএ ফাইল - ভিজিএ ডিসপ্লে ড্রাইভার ফাইল ফরম্যাট",
+  "description": "ভিজিএ ফাইল কী তা জানুন।",
+  "linktitle": "VGA",
+  "menu": {
+    "docs": {
+      "parent": "system",
+      "identifier": "system-vga-bn"
+    }
+  },
+  "lastmod": "2023-02-15"
 }
 
 ## একটি VGA ফাইল কি?

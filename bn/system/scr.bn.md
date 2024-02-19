@@ -1,20 +1,29 @@
 {
-  "date" : "2021-07-13",
-  "keywords" : [ "scr file", "what is an scr file", "file", "scr example", "scr file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "SCR - উইন্ডোজ স্ক্রিনসেভার ফাইল",
-  "description":"SCR ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি SCR ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "SCR",
-  "menu" : {
-    "docs" : {
-      "parent" : "system"
-}
-},
-  "lastmod" : "2021-07-13"
+  "date": "2021-07-13",
+  "keywords": [
+    "scr file",
+    "what is an scr file",
+    "file",
+    "scr example",
+    "scr file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "SCR - উইন্ডোজ স্ক্রিনসেভার ফাইল",
+  "description": "SCR ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি SCR ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "SCR",
+  "menu": {
+    "docs": {
+      "parent": "system",
+      "identifier": "system-scr-bn"
+    }
+  },
+  "lastmod": "2021-07-13"
 }
 
 ## একটি SCR ফাইল কি? 

@@ -1,20 +1,28 @@
 {
-  "date" : "2021-01-25",
-  "keywords" : [ "XLA", "file", "extension", "file format", "Excel", "Spreadsheet" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "এক্সএলএ ফাইল ফরম্যাট এবং এপিআইগুলি কী সে সম্পর্কে জানুন যা XLA ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "title" : "XLA - এক্সেল অ্যাড-ইন ফাইল",
-  "linktitle" : "XLA",
-  "menu" : {
-    "docs" : {
-      "parent" : "spreadsheet"
-}
-},
-  "lastmod" : "2021-01-25"
+  "date": "2021-01-25",
+  "keywords": [
+    "XLA",
+    "file",
+    "extension",
+    "file format",
+    "Excel",
+    "Spreadsheet"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "এক্সএলএ ফাইল ফরম্যাট এবং এপিআইগুলি কী সে সম্পর্কে জানুন যা XLA ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "title": "XLA - এক্সেল অ্যাড-ইন ফাইল",
+  "linktitle": "XLA",
+  "menu": {
+    "docs": {
+      "parent": "spreadsheet",
+      "identifier": "spreadsheet-xla-bn"
+    }
+  },
+  "lastmod": "2021-01-25"
 }
 
 ## একটি XLA ফাইল কি?

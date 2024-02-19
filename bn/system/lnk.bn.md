@@ -1,20 +1,33 @@
 {
-  "date" : "2021-07-15",
-  "keywords" : [ "LNK", "extension", "file", "format", "system", "LNK file", "link", "LNK files", "LNK documents", "application", "programs" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "LNK - লিঙ্ক ফাইল ফর্ম্যাট",
-  "description":"LNK ফাইল বিন্যাস এবং API সম্পর্কে জানুন যেগুলি LNK ফাইলগুলি তৈরি এবং খুলতে পারে।",
-  "linktitle" : "LNK",
-  "menu" : {
-    "docs" : {
-      "parent" : "system"
-}
-},
-  "lastmod" : "2021-07-15"
+  "date": "2021-07-15",
+  "keywords": [
+    "LNK",
+    "extension",
+    "file",
+    "format",
+    "system",
+    "LNK file",
+    "link",
+    "LNK files",
+    "LNK documents",
+    "application",
+    "programs"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "LNK - লিঙ্ক ফাইল ফর্ম্যাট",
+  "description": "LNK ফাইল বিন্যাস এবং API সম্পর্কে জানুন যেগুলি LNK ফাইলগুলি তৈরি এবং খুলতে পারে।",
+  "linktitle": "LNK",
+  "menu": {
+    "docs": {
+      "parent": "system",
+      "identifier": "system-lnk-bn"
+    }
+  },
+  "lastmod": "2021-07-15"
 }
 
 ## একটি LNK ফাইল কি? ##

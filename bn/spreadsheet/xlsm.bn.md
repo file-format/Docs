@@ -1,20 +1,28 @@
 {
-  "date" : "2019-12-10",
-  "keywords" : [ "XLSM", "file", "extension", "file format", "Excel Macros", "Open" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "একটি XLSM ফাইল এবং APIগুলি কী তা জানার জন্য আপনার ফাইল বিন্যাস নির্দেশিকা যা সেগুলি তৈরি এবং খুলতে পারে।",
-  "title" : "একটি XLSM ফাইল কি?",
-  "linktitle" : "XLSM",
-  "menu" : {
-    "docs" : {
-      "parent" : "spreadsheet"
-}
-},
-  "lastmod" : "2019-12-10"
+  "date": "2019-12-10",
+  "keywords": [
+    "XLSM",
+    "file",
+    "extension",
+    "file format",
+    "Excel Macros",
+    "Open"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "একটি XLSM ফাইল এবং APIগুলি কী তা জানার জন্য আপনার ফাইল বিন্যাস নির্দেশিকা যা সেগুলি তৈরি এবং খুলতে পারে।",
+  "title": "একটি XLSM ফাইল কি?",
+  "linktitle": "XLSM",
+  "menu": {
+    "docs": {
+      "parent": "spreadsheet",
+      "identifier": "spreadsheet-xlsm-bn"
+    }
+  },
+  "lastmod": "2019-12-10"
 }
 
 ## একটি XLSM ফাইল কি?

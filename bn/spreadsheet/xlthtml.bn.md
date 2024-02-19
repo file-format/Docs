@@ -1,20 +1,29 @@
 {
-  "date" : "2021-07-13",
-  "keywords" : [ "XLTHTML", "file", "extension", "file format", "Excel Template", "Open", "Spreadsheet" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "একটি XLT ফাইল এবং APIগুলি কী তা জানার জন্য আপনার ফাইল বিন্যাস নির্দেশিকা যা সেগুলি তৈরি এবং খুলতে পারে।",
-  "title" : "একটি XLTHTML ফাইল কি?",
-  "linktitle" : "XLTHTML",
-  "menu" : {
-    "docs" : {
-      "parent" : "spreadsheet"
-}
-},
-  "lastmod" : "2021-07-13"
+  "date": "2021-07-13",
+  "keywords": [
+    "XLTHTML",
+    "file",
+    "extension",
+    "file format",
+    "Excel Template",
+    "Open",
+    "Spreadsheet"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "একটি XLT ফাইল এবং APIগুলি কী তা জানার জন্য আপনার ফাইল বিন্যাস নির্দেশিকা যা সেগুলি তৈরি এবং খুলতে পারে।",
+  "title": "একটি XLTHTML ফাইল কি?",
+  "linktitle": "XLTHTML",
+  "menu": {
+    "docs": {
+      "parent": "spreadsheet",
+      "identifier": "spreadsheet-xlthtml-bn"
+    }
+  },
+  "lastmod": "2021-07-13"
 }
 
 ## একটি XLTHTML ফাইল কি?

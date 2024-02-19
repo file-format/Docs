@@ -1,20 +1,28 @@
 {
-  "date" : "2021-02-26",
-  "keywords" : [ "cell", "file", "extension", "file format", "Thinkfree Office NEO Cell", "Spreadsheet" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"CELL স্প্রেডশীট ফাইল এবং API সম্পর্কে জানুন যেগুলি CELL ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "title" : "CELL - Thinkfree Office NEO সেল ওয়ার্কবুক ফাইল",
-  "linktitle" : "CELL",
-  "menu" : {
-    "docs" : {
-      "parent" : "spreadsheet"
-}
-},
-  "lastmod" : "2021-11-18"
+  "date": "2021-02-26",
+  "keywords": [
+    "cell",
+    "file",
+    "extension",
+    "file format",
+    "Thinkfree Office NEO Cell",
+    "Spreadsheet"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "CELL স্প্রেডশীট ফাইল এবং API সম্পর্কে জানুন যেগুলি CELL ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "title": "CELL - Thinkfree Office NEO সেল ওয়ার্কবুক ফাইল",
+  "linktitle": "CELL",
+  "menu": {
+    "docs": {
+      "parent": "spreadsheet",
+      "identifier": "spreadsheet-cell-bn"
+    }
+  },
+  "lastmod": "2021-11-18"
 }
 
 ## একটি CELL ফাইল কি?

@@ -1,20 +1,28 @@
 {
-  "date" : "2021-01-29",
-  "keywords" : [ ".pmvx file", "planmaker file", "file", "extension", "file format", "OpenDocument Spreadsheet" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "PMVX ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি PMVX ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "PMVX - PlanMaker স্প্রেডশীট টেমপ্লেট ফাইল",
-  "linktitle" : "PMVX",
-  "menu" : {
-    "docs" : {
-      "parent" : "spreadsheet"
-}
-},
-  "lastmod" : "2021-01-29"
+  "date": "2021-01-29",
+  "keywords": [
+    ".pmvx file",
+    "planmaker file",
+    "file",
+    "extension",
+    "file format",
+    "OpenDocument Spreadsheet"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "PMVX ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি PMVX ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "PMVX - PlanMaker স্প্রেডশীট টেমপ্লেট ফাইল",
+  "linktitle": "PMVX",
+  "menu": {
+    "docs": {
+      "parent": "spreadsheet",
+      "identifier": "spreadsheet-pmvx-bn"
+    }
+  },
+  "lastmod": "2021-01-29"
 }
 
 ## একটি PMVX ফাইল কি?

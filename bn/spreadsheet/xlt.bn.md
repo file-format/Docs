@@ -1,20 +1,29 @@
 {
-  "date" : "2019-12-10",
-  "keywords" : [ "XLT", "file", "extension", "file format", "Excel Template", "Open", "Spreadsheet" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "একটি XLT ফাইল এবং APIগুলি কী তা জানার জন্য আপনার ফাইল বিন্যাস নির্দেশিকা যা সেগুলি তৈরি এবং খুলতে পারে।",
-  "title" : "একটি XLT ফাইল কি?",
-  "linktitle" : "XLT",
-  "menu" : {
-    "docs" : {
-      "parent" : "spreadsheet"
-}
-},
-  "lastmod" : "2019-12-10"
+  "date": "2019-12-10",
+  "keywords": [
+    "XLT",
+    "file",
+    "extension",
+    "file format",
+    "Excel Template",
+    "Open",
+    "Spreadsheet"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "একটি XLT ফাইল এবং APIগুলি কী তা জানার জন্য আপনার ফাইল বিন্যাস নির্দেশিকা যা সেগুলি তৈরি এবং খুলতে পারে।",
+  "title": "একটি XLT ফাইল কি?",
+  "linktitle": "XLT",
+  "menu": {
+    "docs": {
+      "parent": "spreadsheet",
+      "identifier": "spreadsheet-xlt-bn"
+    }
+  },
+  "lastmod": "2019-12-10"
 }
 
 ## একটি XLT ফাইল কি?

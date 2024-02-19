@@ -1,20 +1,28 @@
 {
-  "date" : "2019-12-10",
-  "keywords" : [ "TSV", "file", "extension", "file format", "Spreadsheet", "Tab Separated" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "একটি TSV ফাইল এক্সটেনশন এবং APIগুলি কী তা জানার জন্য আপনার ফাইল বিন্যাস নির্দেশিকা যা সেগুলি তৈরি করতে এবং খুলতে পারে৷",
-  "title" : "TSV - ট্যাব-বিচ্ছিন্ন মান ফাইল বিন্যাস?",
-  "linktitle" : "TSV",
-  "menu" : {
-    "docs" : {
-      "parent" : "spreadsheet"
-}
-},
-  "lastmod" : "2019-12-10"
+  "date": "2019-12-10",
+  "keywords": [
+    "TSV",
+    "file",
+    "extension",
+    "file format",
+    "Spreadsheet",
+    "Tab Separated"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "একটি TSV ফাইল এক্সটেনশন এবং APIগুলি কী তা জানার জন্য আপনার ফাইল বিন্যাস নির্দেশিকা যা সেগুলি তৈরি করতে এবং খুলতে পারে৷",
+  "title": "TSV - ট্যাব-বিচ্ছিন্ন মান ফাইল বিন্যাস?",
+  "linktitle": "TSV",
+  "menu": {
+    "docs": {
+      "parent": "spreadsheet",
+      "identifier": "spreadsheet-tsv-bn"
+    }
+  },
+  "lastmod": "2019-12-10"
 }
 
 ## একটি TSV ফাইল কি?

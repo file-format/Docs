@@ -1,20 +1,28 @@
 {
-  "date" : "2021-12-01",
-  "keywords" : [ ".gnumeric", "file", "extension", "file format", "gnumeric", "Spreadsheet" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"একটি GNUMERIC ফাইল এবং APIগুলি কী যা .gnumeric ফাইলগুলি তৈরি এবং খুলতে পারে।",
-  "title" : "GNUMERIC - Gnumeric স্প্রেডশীট ফাইল বিন্যাস",
-  "linktitle" : "GNUMERIC",
-  "menu" : {
-    "docs" : {
-      "parent" : "spreadsheet"
-}
-},
-  "lastmod" : "2021-12-01"
+  "date": "2021-12-01",
+  "keywords": [
+    ".gnumeric",
+    "file",
+    "extension",
+    "file format",
+    "gnumeric",
+    "Spreadsheet"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "একটি GNUMERIC ফাইল এবং APIগুলি কী যা .gnumeric ফাইলগুলি তৈরি এবং খুলতে পারে।",
+  "title": "GNUMERIC - Gnumeric স্প্রেডশীট ফাইল বিন্যাস",
+  "linktitle": "GNUMERIC",
+  "menu": {
+    "docs": {
+      "parent": "spreadsheet",
+      "identifier": "spreadsheet-gnumeric-bn"
+    }
+  },
+  "lastmod": "2021-12-01"
 }
 
 ## একটি GNUMERIC ফাইল কি?

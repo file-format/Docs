@@ -1,19 +1,20 @@
 {
-  "date" : "2021-12-18",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "PUB - একটি .pub ফাইল কি?",
-  "description":"PUB ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি PUB ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "PUB",
-  "menu" : {
-    "docs" : {
-      "parent" : "publisher"
-}
-},
-  "lastmod" : "2021-12-18"
+  "date": "2021-12-18",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "PUB - একটি .pub ফাইল কি?",
+  "description": "PUB ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি PUB ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "PUB",
+  "menu": {
+    "docs": {
+      "parent": "publisher",
+      "identifier": "publisher-pub-bn"
+    }
+  },
+  "lastmod": "2021-12-18"
 }
 
 ## একটি PUB ফাইল কি?

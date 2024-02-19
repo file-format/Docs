@@ -1,20 +1,28 @@
 {
-  "date" : "2021-02-26",
-  "keywords" : [ "ess", "file", "extension", "file format", "EasySpreadsheet", "Spreadsheet" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"একটি ESS ফাইল এবং API যা ESS ফাইল তৈরি এবং খুলতে পারে সে সম্পর্কে জানুন৷",
-  "title" : "ESS - EasySpreadsheet স্প্রেডশীট ফাইল ফরম্যাট",
-  "linktitle" : "ESS",
-  "menu" : {
-    "docs" : {
-      "parent" : "spreadsheet"
-}
-},
-  "lastmod" : "2021-11-16"
+  "date": "2021-02-26",
+  "keywords": [
+    "ess",
+    "file",
+    "extension",
+    "file format",
+    "EasySpreadsheet",
+    "Spreadsheet"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "একটি ESS ফাইল এবং API যা ESS ফাইল তৈরি এবং খুলতে পারে সে সম্পর্কে জানুন৷",
+  "title": "ESS - EasySpreadsheet স্প্রেডশীট ফাইল ফরম্যাট",
+  "linktitle": "ESS",
+  "menu": {
+    "docs": {
+      "parent": "spreadsheet",
+      "identifier": "spreadsheet-ess-bn"
+    }
+  },
+  "lastmod": "2021-11-16"
 }
 
 ## একটি ESS ফাইল কি?

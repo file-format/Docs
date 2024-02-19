@@ -1,20 +1,32 @@
 {
-  "date" : "2021-06-29",
-  "keywords" : [ "DLL", "extension", "file", "format", "system", "Dynamic Link Library", "settings", "programs", "computer", "application" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "DLL - ডাইনামিক লিঙ্ক লাইব্রেরি",
-  "description":"DLL ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা DLL ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "DLL",
-  "menu" : {
-    "docs" : {
-      "parent" : "system"
-}
-},
-  "lastmod" : "2021-06-29"
+  "date": "2021-06-29",
+  "keywords": [
+    "DLL",
+    "extension",
+    "file",
+    "format",
+    "system",
+    "Dynamic Link Library",
+    "settings",
+    "programs",
+    "computer",
+    "application"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "DLL - ডাইনামিক লিঙ্ক লাইব্রেরি",
+  "description": "DLL ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা DLL ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "DLL",
+  "menu": {
+    "docs": {
+      "parent": "system",
+      "identifier": "system-dll-bn"
+    }
+  },
+  "lastmod": "2021-06-29"
 }
 
 ## একটি DLL ফাইল কি? ##

@@ -1,19 +1,20 @@
 {
-  "date" : "2022-07-08",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"CTS ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি CTS ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "CTS ফাইল ফরম্যাট - TreeSheets হায়ারার্কিক্যাল স্প্রেডশীট ফাইল",
-  "linktitle" : "CTS",
-  "menu" : {
-    "docs" : {
-      "parent" : "spreadsheet"
-}
-},
-  "lastmod" : "2022-07-08"
+  "date": "2022-07-08",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "CTS ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি CTS ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "CTS ফাইল ফরম্যাট - TreeSheets হায়ারার্কিক্যাল স্প্রেডশীট ফাইল",
+  "linktitle": "CTS",
+  "menu": {
+    "docs": {
+      "parent": "spreadsheet",
+      "identifier": "spreadsheet-cts-bn"
+    }
+  },
+  "lastmod": "2022-07-08"
 }
 
 ## একটি CTS ফাইল কি?

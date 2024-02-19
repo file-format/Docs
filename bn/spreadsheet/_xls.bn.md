@@ -1,19 +1,20 @@
 {
-  "date" : "2022-06-13",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "একটি _XLS ফাইল এবং API যা _XLS ফাইল তৈরি এবং খুলতে পারে তা জানতে আপনার ফাইল বিন্যাস নির্দেশিকা।",
-  "title" : "_XLS ফাইল ফরম্যাট - একটি _XLS ফাইল কি?",
-  "linktitle" : "_XLS",
-  "menu" : {
-    "docs" : {
-      "parent" : "spreadsheet"
-}
-},
-  "lastmod" : "2022-06-13"
+  "date": "2022-06-13",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "একটি _XLS ফাইল এবং API যা _XLS ফাইল তৈরি এবং খুলতে পারে তা জানতে আপনার ফাইল বিন্যাস নির্দেশিকা।",
+  "title": "_XLS ফাইল ফরম্যাট - একটি _XLS ফাইল কি?",
+  "linktitle": "_XLS",
+  "menu": {
+    "docs": {
+      "parent": "spreadsheet",
+      "identifier": "spreadsheet-_xls-bn"
+    }
+  },
+  "lastmod": "2022-06-13"
 }
 
 ## একটি \_XLS ফাইল কি?

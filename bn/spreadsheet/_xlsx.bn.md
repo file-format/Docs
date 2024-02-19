@@ -1,19 +1,20 @@
 {
-  "date" : "2019-12-10",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "একটি _XLSX ফাইল এবং API যা _XLSX ফাইল তৈরি এবং খুলতে পারে তা জানার জন্য আপনার ফাইল বিন্যাস নির্দেশিকা৷",
-  "title" : "একটি _XLSX ফাইল কি?",
-  "linktitle" : "_XLSX",
-  "menu" : {
-    "docs" : {
-      "parent" : "spreadsheet"
-}
-},
-  "lastmod" : "2021-11-22"
+  "date": "2019-12-10",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "একটি _XLSX ফাইল এবং API যা _XLSX ফাইল তৈরি এবং খুলতে পারে তা জানার জন্য আপনার ফাইল বিন্যাস নির্দেশিকা৷",
+  "title": "একটি _XLSX ফাইল কি?",
+  "linktitle": "_XLSX",
+  "menu": {
+    "docs": {
+      "parent": "spreadsheet",
+      "identifier": "spreadsheet-_xlsx-bn"
+    }
+  },
+  "lastmod": "2021-11-22"
 }
 
 ## একটি _XLSX ফাইল কি?

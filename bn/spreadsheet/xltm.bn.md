@@ -1,20 +1,28 @@
 {
-  "date" : "2019-12-10",
-  "keywords" : [ "XLTM", "file", "extension", "file format", "Excel Open XML Macro", "Spreadsheet" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "একটি XLTM ফাইল এবং APIগুলি কী তা জানার জন্য আপনার ফাইল বিন্যাস নির্দেশিকা যা সেগুলি তৈরি করতে এবং খুলতে পারে৷",
-  "title" : "একটি XLTM ফাইল কি?",
-  "linktitle" : "XLTM",
-  "menu" : {
-    "docs" : {
-      "parent" : "spreadsheet"
-}
-},
-  "lastmod" : "2019-12-10"
+  "date": "2019-12-10",
+  "keywords": [
+    "XLTM",
+    "file",
+    "extension",
+    "file format",
+    "Excel Open XML Macro",
+    "Spreadsheet"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "একটি XLTM ফাইল এবং APIগুলি কী তা জানার জন্য আপনার ফাইল বিন্যাস নির্দেশিকা যা সেগুলি তৈরি করতে এবং খুলতে পারে৷",
+  "title": "একটি XLTM ফাইল কি?",
+  "linktitle": "XLTM",
+  "menu": {
+    "docs": {
+      "parent": "spreadsheet",
+      "identifier": "spreadsheet-xltm-bn"
+    }
+  },
+  "lastmod": "2019-12-10"
 }
 
 ## একটি XLTM ফাইল কি?

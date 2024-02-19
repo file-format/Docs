@@ -1,20 +1,32 @@
 {
-  "date" : "2021-06-29",
-  "keywords" : [ "CFG", "extension", "file", "format", "system", "configuration", "settings", "programs", "computer", "application" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "CFG - ফাইল বিন্যাস",
-  "description":"CFG ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি CFG ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "CFG",
-  "menu" : {
-    "docs" : {
-      "parent" : "system"
-}
-},
-  "lastmod" : "2021-06-29"
+  "date": "2021-06-29",
+  "keywords": [
+    "CFG",
+    "extension",
+    "file",
+    "format",
+    "system",
+    "configuration",
+    "settings",
+    "programs",
+    "computer",
+    "application"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "CFG - ফাইল বিন্যাস",
+  "description": "CFG ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি CFG ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "CFG",
+  "menu": {
+    "docs": {
+      "parent": "system",
+      "identifier": "system-cfg-bn"
+    }
+  },
+  "lastmod": "2021-06-29"
 }
 
 ## একটি CFG ফাইল কি? ##

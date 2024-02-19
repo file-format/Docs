@@ -1,20 +1,27 @@
 {
-  "date" : "2021-27-05",
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "RPT - ক্রিস্টাল রিপোর্ট ফাইল",
-  "keywords" : [ "rpt", "rpt file", "rpt file format", "Crystal Reports File", "reporting"],
-  "description":"ক্রিস্টাল রিপোর্টস সফ্টওয়্যার দ্বারা ব্যবহৃত RPT স্ট্রিম ফর্ম্যাট সম্পর্কে জানুন যেটি ডেটা সহ বা ছাড়াই কোনও উত্স থেকে ডেটা আনার জন্য ডিজাইন বা প্যাটার্ন সংরক্ষণ করতে।",
-  "linktitle" : "RPT",
-  "menu" : {
-    "docs" : {
-      "parent" : "reporting"
-}
-},
-  "lastmod" : "2021-27-05"
+  "date": "2021-27-05",
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "RPT - ক্রিস্টাল রিপোর্ট ফাইল",
+  "keywords": [
+    "rpt",
+    "rpt file",
+    "rpt file format",
+    "Crystal Reports File",
+    "reporting"
+  ],
+  "description": "ক্রিস্টাল রিপোর্টস সফ্টওয়্যার দ্বারা ব্যবহৃত RPT স্ট্রিম ফর্ম্যাট সম্পর্কে জানুন যেটি ডেটা সহ বা ছাড়াই কোনও উত্স থেকে ডেটা আনার জন্য ডিজাইন বা প্যাটার্ন সংরক্ষণ করতে।",
+  "linktitle": "RPT",
+  "menu": {
+    "docs": {
+      "parent": "reporting",
+      "identifier": "reporting-rpt-bn"
+    }
+  },
+  "lastmod": "2021-27-05"
 }
 
 ## RPT ফাইল কি? ##

@@ -1,20 +1,29 @@
 {
-  "date" : "2022-02-12",
-  "keywords" : [ "asv", "extension", "file", "format", "system", "Adobe", "photoshop"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ASV ফাইল - Adobe Photoshop সিলেক্টিভ কালার ফাইল",
-  "description":"ASV ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি ASV ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "ASV",
-  "menu" : {
-    "docs" : {
-      "parent" : "system"
-}
-},
-  "lastmod" : "2022-02-12"
+  "date": "2022-02-12",
+  "keywords": [
+    "asv",
+    "extension",
+    "file",
+    "format",
+    "system",
+    "Adobe",
+    "photoshop"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "ASV ফাইল - Adobe Photoshop সিলেক্টিভ কালার ফাইল",
+  "description": "ASV ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি ASV ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "ASV",
+  "menu": {
+    "docs": {
+      "parent": "system",
+      "identifier": "system-asv-bn"
+    }
+  },
+  "lastmod": "2022-02-12"
 }
 
 ## একটি ASV ফাইল কি?

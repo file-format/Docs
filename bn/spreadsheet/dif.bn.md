@@ -1,20 +1,28 @@
 {
-  "date" : "2019-12-10",
-  "keywords" : [ "DIF", "file", "extension", "file format", "Data Interchange File", "Spreadsheet" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "একটি DIF ফাইল এক্সটেনশন এবং API যা DIF ফাইলগুলি তৈরি এবং খুলতে পারে তা জানতে আপনার ফাইল বিন্যাস নির্দেশিকা৷",
-  "title" : "DIF - ডেটা ইন্টারচেঞ্জ ফাইল ফরম্যাট",
-  "linktitle" : "DIF",
-  "menu" : {
-    "docs" : {
-      "parent" : "spreadsheet"
-}
-},
-  "lastmod" : "2019-12-10"
+  "date": "2019-12-10",
+  "keywords": [
+    "DIF",
+    "file",
+    "extension",
+    "file format",
+    "Data Interchange File",
+    "Spreadsheet"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "একটি DIF ফাইল এক্সটেনশন এবং API যা DIF ফাইলগুলি তৈরি এবং খুলতে পারে তা জানতে আপনার ফাইল বিন্যাস নির্দেশিকা৷",
+  "title": "DIF - ডেটা ইন্টারচেঞ্জ ফাইল ফরম্যাট",
+  "linktitle": "DIF",
+  "menu": {
+    "docs": {
+      "parent": "spreadsheet",
+      "identifier": "spreadsheet-dif-bn"
+    }
+  },
+  "lastmod": "2019-12-10"
 }
 
 ## একটি DIF ফাইল কি?

@@ -1,19 +1,20 @@
 {
-  "date" : "2022-02-23",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "PUZ ফাইল - প্যাক করা প্রকাশক ফাইল",
-  "description":"একটি PUZ ফাইল এবং API যা PUZ ফাইল তৈরি এবং খুলতে পারে সে সম্পর্কে জানুন৷",
-  "linktitle" : "PUZ",
-  "menu" : {
-    "docs" : {
-      "parent" : "publisher"
-}
-},
-  "lastmod" : "2022-02-23"
+  "date": "2022-02-23",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "PUZ ফাইল - প্যাক করা প্রকাশক ফাইল",
+  "description": "একটি PUZ ফাইল এবং API যা PUZ ফাইল তৈরি এবং খুলতে পারে সে সম্পর্কে জানুন৷",
+  "linktitle": "PUZ",
+  "menu": {
+    "docs": {
+      "parent": "publisher",
+      "identifier": "publisher-puz-bn"
+    }
+  },
+  "lastmod": "2022-02-23"
 }
 
 ## একটি PUZ ফাইল কি?

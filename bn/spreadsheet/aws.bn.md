@@ -1,20 +1,28 @@
 {
-  "date" : "2021-02-26",
-  "keywords" : [ "aws", "file", "extension", "file format", "Ability Spreadsheet", "Spreadsheet" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"একটি AWS ফাইল এবং APIগুলি কী যা AWS ফাইলগুলি তৈরি এবং খুলতে পারে।",
-  "title" : "AWS - ক্ষমতা স্প্রেডশীট ফাইল",
-  "linktitle" : "AWS",
-  "menu" : {
-    "docs" : {
-      "parent" : "spreadsheet"
-}
-},
-  "lastmod" : "2021-11-25"
+  "date": "2021-02-26",
+  "keywords": [
+    "aws",
+    "file",
+    "extension",
+    "file format",
+    "Ability Spreadsheet",
+    "Spreadsheet"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "একটি AWS ফাইল এবং APIগুলি কী যা AWS ফাইলগুলি তৈরি এবং খুলতে পারে।",
+  "title": "AWS - ক্ষমতা স্প্রেডশীট ফাইল",
+  "linktitle": "AWS",
+  "menu": {
+    "docs": {
+      "parent": "spreadsheet",
+      "identifier": "spreadsheet-aws-bn"
+    }
+  },
+  "lastmod": "2021-11-25"
 }
 
 ## একটি AWS ফাইল কি?

@@ -1,20 +1,33 @@
 {
-  "date" : "2021-07-15",
-  "keywords" : [ "TMP", "extension", "file", "format", "system", "TMP file", "TMP documents", "TMP files", "Temporary file", "application", "programs" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "TMP - অস্থায়ী ফাইল বিন্যাস",
-  "description":"TMP ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা TMP ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "TMP",
-  "menu" : {
-    "docs" : {
-      "parent" : "system"
-}
-},
-  "lastmod" : "2021-07-15"
+  "date": "2021-07-15",
+  "keywords": [
+    "TMP",
+    "extension",
+    "file",
+    "format",
+    "system",
+    "TMP file",
+    "TMP documents",
+    "TMP files",
+    "Temporary file",
+    "application",
+    "programs"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "TMP - অস্থায়ী ফাইল বিন্যাস",
+  "description": "TMP ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা TMP ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "TMP",
+  "menu": {
+    "docs": {
+      "parent": "system",
+      "identifier": "system-tmp-bn"
+    }
+  },
+  "lastmod": "2021-07-15"
 }
 
 ## একটি TMP ফাইল কি? ##

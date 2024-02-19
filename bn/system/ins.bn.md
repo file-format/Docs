@@ -1,20 +1,30 @@
 {
-  "date" : "2021-07-16",
-  "keywords" : [ "ins file", "ins file format", "what is an ins file", "file", "ins example", "ins file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"INS ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি INS ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "INS - ইন্টারনেট সেটিংস ফাইল",
-  "linktitle" : "INS",
-  "menu" : {
-    "docs" : {
-      "parent" : "system"
-}
-},
-  "lastmod" : "2021-07-16"
+  "date": "2021-07-16",
+  "keywords": [
+    "ins file",
+    "ins file format",
+    "what is an ins file",
+    "file",
+    "ins example",
+    "ins file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "INS ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি INS ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "INS - ইন্টারনেট সেটিংস ফাইল",
+  "linktitle": "INS",
+  "menu": {
+    "docs": {
+      "parent": "system",
+      "identifier": "system-ins-bn"
+    }
+  },
+  "lastmod": "2021-07-16"
 }
 
 ## একটি INS ফাইল কি?

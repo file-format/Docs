@@ -1,20 +1,32 @@
 {
-  "date" : "2022-02-22",
-  "keywords" : [ "ETL", "extension", "file", "format", "system", "Driver", "Windows Device Driver", "programs", "computer", "application" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ETL ফাইল - Microsoft ইভেন্ট ট্রেস লগ ফাইল",
-  "description":"ইটিএল ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা ইটিএল ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "ETL",
-  "menu" : {
-    "docs" : {
-      "parent" : "system"
-}
-},
-  "lastmod" : "2022-02-22"
+  "date": "2022-02-22",
+  "keywords": [
+    "ETL",
+    "extension",
+    "file",
+    "format",
+    "system",
+    "Driver",
+    "Windows Device Driver",
+    "programs",
+    "computer",
+    "application"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "ETL ফাইল - Microsoft ইভেন্ট ট্রেস লগ ফাইল",
+  "description": "ইটিএল ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা ইটিএল ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "ETL",
+  "menu": {
+    "docs": {
+      "parent": "system",
+      "identifier": "system-etl-bn"
+    }
+  },
+  "lastmod": "2022-02-22"
 }
 
 ## একটি ETL ফাইল কি?

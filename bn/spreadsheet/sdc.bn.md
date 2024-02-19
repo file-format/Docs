@@ -1,20 +1,30 @@
 {
-  "date" : "2021-02-26",
-  "keywords" : [ "SDC", "file", "extension", "file format", "SDC Calc", "Apache", "OpenOffice", "Spreadsheet" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"SDC ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি SDC ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "SDC - Apache OpenOffice Calc স্প্রেডশীট",
-  "linktitle" : "SDC",
-  "menu" : {
-    "docs" : {
-      "parent" : "spreadsheet"
-}
-},
-  "lastmod" : "2021-11-16"
+  "date": "2021-02-26",
+  "keywords": [
+    "SDC",
+    "file",
+    "extension",
+    "file format",
+    "SDC Calc",
+    "Apache",
+    "OpenOffice",
+    "Spreadsheet"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "SDC ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি SDC ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "SDC - Apache OpenOffice Calc স্প্রেডশীট",
+  "linktitle": "SDC",
+  "menu": {
+    "docs": {
+      "parent": "spreadsheet",
+      "identifier": "spreadsheet-sdc-bn"
+    }
+  },
+  "lastmod": "2021-11-16"
 }
 
 ## একটি SDC ফাইল কি? ##

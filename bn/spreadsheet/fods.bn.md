@@ -1,20 +1,27 @@
 {
-  "date" : "2021-01-29",
-  "keywords" : [ "FODS", "file", "extension", "file format", "OpenDocument Spreadsheet" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "FODS ফাইল বিন্যাস এবং API সম্পর্কে জানুন যেগুলি FODS ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "title" : "FODS - OpenDocument XML স্প্রেডশীট ফাইল ফরম্যাট",
-  "linktitle" : "FODS",
-  "menu" : {
-    "docs" : {
-      "parent" : "spreadsheet"
-}
-},
-  "lastmod" : "2021-01-29"
+  "date": "2021-01-29",
+  "keywords": [
+    "FODS",
+    "file",
+    "extension",
+    "file format",
+    "OpenDocument Spreadsheet"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "FODS ফাইল বিন্যাস এবং API সম্পর্কে জানুন যেগুলি FODS ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "title": "FODS - OpenDocument XML স্প্রেডশীট ফাইল ফরম্যাট",
+  "linktitle": "FODS",
+  "menu": {
+    "docs": {
+      "parent": "spreadsheet",
+      "identifier": "spreadsheet-fods-bn"
+    }
+  },
+  "lastmod": "2021-01-29"
 }
 
 ## একটি FODS ফাইল কি?

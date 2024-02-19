@@ -1,19 +1,20 @@
 {
-  "date" : "2022-08-19",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "HDMP ফাইল - উইন্ডোজ হিপ ডাম্প ফাইল ফরম্যাট",
-  "description":"এইচডিএমপি ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা এইচডিএমপি ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "HDMP",
-  "menu" : {
-    "docs" : {
-      "parent" : "system"
-}
-},
-  "lastmod" : "2022-08-19"
+  "date": "2022-08-19",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "HDMP ফাইল - উইন্ডোজ হিপ ডাম্প ফাইল ফরম্যাট",
+  "description": "এইচডিএমপি ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা এইচডিএমপি ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "HDMP",
+  "menu": {
+    "docs": {
+      "parent": "system",
+      "identifier": "system-hdmp-bn"
+    }
+  },
+  "lastmod": "2022-08-19"
 }
 
 ## একটি HDMP ফাইল কি?

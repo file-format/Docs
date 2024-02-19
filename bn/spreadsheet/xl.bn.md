@@ -1,20 +1,28 @@
 {
-  "date" : "2021-07-11",
-  "keywords" : [ "XL", "file", "extension", "file format", "Excel", "Spreadsheet" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "একটি XL ফাইল এবং এপিআই কি সে সম্পর্কে জানুন যেগুলি XL ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "title" : "XL - মাইক্রোসফট এক্সেল স্প্রেডশীট ফাইল ফরম্যাট",
-  "linktitle" : "XL",
-  "menu" : {
-    "docs" : {
-      "parent" : "spreadsheet"
-}
-},
-  "lastmod" : "2021-07-11"
+  "date": "2021-07-11",
+  "keywords": [
+    "XL",
+    "file",
+    "extension",
+    "file format",
+    "Excel",
+    "Spreadsheet"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "একটি XL ফাইল এবং এপিআই কি সে সম্পর্কে জানুন যেগুলি XL ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "title": "XL - মাইক্রোসফট এক্সেল স্প্রেডশীট ফাইল ফরম্যাট",
+  "linktitle": "XL",
+  "menu": {
+    "docs": {
+      "parent": "spreadsheet",
+      "identifier": "spreadsheet-xl-bn"
+    }
+  },
+  "lastmod": "2021-07-11"
 }
 
 ## একটি XL ফাইল কি?

@@ -1,20 +1,27 @@
 {
-  "date" : "2019-12-10",
-  "keywords" : [ "XLSB", "file", "extension", "file format", "Excel Binary Spreadsheet File" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "একটি XLSB ফাইল এবং APIগুলি কী তা জানার জন্য আপনার ফাইল বিন্যাস নির্দেশিকা যা সেগুলি তৈরি করতে এবং খুলতে পারে৷",
-  "title" : "একটি XLSB ফাইল কি?",
-  "linktitle" : "XLSB",
-  "menu" : {
-    "docs" : {
-      "parent" : "spreadsheet"
-}
-},
-  "lastmod" : "2019-12-10"
+  "date": "2019-12-10",
+  "keywords": [
+    "XLSB",
+    "file",
+    "extension",
+    "file format",
+    "Excel Binary Spreadsheet File"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "একটি XLSB ফাইল এবং APIগুলি কী তা জানার জন্য আপনার ফাইল বিন্যাস নির্দেশিকা যা সেগুলি তৈরি করতে এবং খুলতে পারে৷",
+  "title": "একটি XLSB ফাইল কি?",
+  "linktitle": "XLSB",
+  "menu": {
+    "docs": {
+      "parent": "spreadsheet",
+      "identifier": "spreadsheet-xlsb-bn"
+    }
+  },
+  "lastmod": "2019-12-10"
 }
 
 ## একটি XLSB ফাইল কি?

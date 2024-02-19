@@ -1,20 +1,28 @@
 {
-  "date" : "2019-12-10",
-  "keywords" : [ "XLSX", "file", "extension", "file format", "Excel", "Spreadsheet" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "একটি XLSX ফাইল এবং APIগুলি কী যেগুলি XLSX ফাইলগুলি তৈরি এবং খুলতে পারে সে সম্পর্কে জানুন৷",
-  "title" : "XLSX ফাইল ফরম্যাট - একটি XLSX ফাইল কি?",
-  "linktitle" : "XLSX",
-  "menu" : {
-    "docs" : {
-      "parent" : "spreadsheet"
-}
-},
-  "lastmod" : "2019-12-10"
+  "date": "2019-12-10",
+  "keywords": [
+    "XLSX",
+    "file",
+    "extension",
+    "file format",
+    "Excel",
+    "Spreadsheet"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "একটি XLSX ফাইল এবং APIগুলি কী যেগুলি XLSX ফাইলগুলি তৈরি এবং খুলতে পারে সে সম্পর্কে জানুন৷",
+  "title": "XLSX ফাইল ফরম্যাট - একটি XLSX ফাইল কি?",
+  "linktitle": "XLSX",
+  "menu": {
+    "docs": {
+      "parent": "spreadsheet",
+      "identifier": "spreadsheet-xlsx-bn"
+    }
+  },
+  "lastmod": "2019-12-10"
 }
 
 ## একটি XLSX ফাইল কি?

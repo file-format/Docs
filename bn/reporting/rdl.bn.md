@@ -1,20 +1,27 @@
 {
-  "date" : "2021-03-01",
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "RDL - রিপোর্ট সংজ্ঞা ভাষা ফাইল",
-  "keywords" : [ "rdl", "report definition language", "XmlTextWriter", "XSD", "RDL element"],
-  "description":"RDL ফাইল ফর্ম্যাট সম্পর্কে জানুন যা একটি SQL সার্ভার রিপোর্টিং পরিষেবা রিপোর্ট সংজ্ঞার একটি XML উপস্থাপনা।",
-  "linktitle" : "RDL",
-  "menu" : {
-    "docs" : {
-      "parent" : "reporting"
-}
-},
-  "lastmod" : "2021-03-01"
+  "date": "2021-03-01",
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "RDL - রিপোর্ট সংজ্ঞা ভাষা ফাইল",
+  "keywords": [
+    "rdl",
+    "report definition language",
+    "XmlTextWriter",
+    "XSD",
+    "RDL element"
+  ],
+  "description": "RDL ফাইল ফর্ম্যাট সম্পর্কে জানুন যা একটি SQL সার্ভার রিপোর্টিং পরিষেবা রিপোর্ট সংজ্ঞার একটি XML উপস্থাপনা।",
+  "linktitle": "RDL",
+  "menu": {
+    "docs": {
+      "parent": "reporting",
+      "identifier": "reporting-rdl-bn"
+    }
+  },
+  "lastmod": "2021-03-01"
 }
 
 ## একটি RDL ফাইল কি? ##

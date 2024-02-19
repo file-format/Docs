@@ -1,20 +1,32 @@
 {
-  "date" : "2021-06-29",
-  "keywords" : [ "CPL", "extension", "file", "format", "system", "Control Panel File", "Windows", "programs", "computer", "application" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "CPL - কন্ট্রোল প্যানেল ফাইল",
-  "description":"CPL ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি CPL ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "CPL",
-  "menu" : {
-    "docs" : {
-      "parent" : "system"
-}
-},
-  "lastmod" : "2021-06-29"
+  "date": "2021-06-29",
+  "keywords": [
+    "CPL",
+    "extension",
+    "file",
+    "format",
+    "system",
+    "Control Panel File",
+    "Windows",
+    "programs",
+    "computer",
+    "application"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "CPL - কন্ট্রোল প্যানেল ফাইল",
+  "description": "CPL ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি CPL ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "CPL",
+  "menu": {
+    "docs": {
+      "parent": "system",
+      "identifier": "system-cpl-bn"
+    }
+  },
+  "lastmod": "2021-06-29"
 }
 
 ## একটি CPL ফাইল কি? ##

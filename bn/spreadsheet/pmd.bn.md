@@ -1,20 +1,28 @@
 {
-  "date" : "2021-02-26",
-  "keywords" : [ "pmd", "file", "extension", "file format", "SoftMaker PlanMaker File", "Spreadsheet" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"PlanMaker PMD ফাইল এবং APIগুলি সম্পর্কে জানুন যেগুলি PMD ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "title" : "PMD - PlanMaker স্প্রেডশীট ফাইল",
-  "linktitle" : "PMD",
-  "menu" : {
-    "docs" : {
-      "parent" : "spreadsheet"
-}
-},
-  "lastmod" : "2021-11-09"
+  "date": "2021-02-26",
+  "keywords": [
+    "pmd",
+    "file",
+    "extension",
+    "file format",
+    "SoftMaker PlanMaker File",
+    "Spreadsheet"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "PlanMaker PMD ফাইল এবং APIগুলি সম্পর্কে জানুন যেগুলি PMD ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "title": "PMD - PlanMaker স্প্রেডশীট ফাইল",
+  "linktitle": "PMD",
+  "menu": {
+    "docs": {
+      "parent": "spreadsheet",
+      "identifier": "spreadsheet-pmd-bn"
+    }
+  },
+  "lastmod": "2021-11-09"
 }
 
 ## একটি PMD ফাইল কি?

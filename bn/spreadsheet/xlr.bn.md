@@ -1,20 +1,28 @@
 {
-  "date" : "2019-12-16",
-  "keywords" : [ "XLR", "file", "extension", "file format", "Excel", "Spreadsheet" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "XLR ফাইল এপিআই কি তা সম্পর্কে জানুন যা XLR ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "XLR - মাইক্রোসফট ওয়ার্কস স্প্রেডশীট ফাইল ফরম্যাট",
-  "linktitle" : "XLR",
-  "menu" : {
-    "docs" : {
-      "parent" : "spreadsheet"
-}
-},
-  "lastmod" : "2019-12-16"
+  "date": "2019-12-16",
+  "keywords": [
+    "XLR",
+    "file",
+    "extension",
+    "file format",
+    "Excel",
+    "Spreadsheet"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "XLR ফাইল এপিআই কি তা সম্পর্কে জানুন যা XLR ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "XLR - মাইক্রোসফট ওয়ার্কস স্প্রেডশীট ফাইল ফরম্যাট",
+  "linktitle": "XLR",
+  "menu": {
+    "docs": {
+      "parent": "spreadsheet",
+      "identifier": "spreadsheet-xlr-bn"
+    }
+  },
+  "lastmod": "2019-12-16"
 }
 
 ## একটি XLR ফাইল কি?

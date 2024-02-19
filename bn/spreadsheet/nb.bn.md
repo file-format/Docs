@@ -1,20 +1,28 @@
 {
-  "date" : "2019-12-16",
-  "keywords" : [ "NB", "file", "extension", "file format", "Mathematica", "Spreadsheet" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "এনবি ফাইল এপিআই কী সে সম্পর্কে জানুন যা এনবি ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "NB - Mathematica Notebook ফাইল ফরম্যাট",
-  "linktitle" : "NB",
-  "menu" : {
-    "docs" : {
-      "parent" : "spreadsheet"
-}
-},
-  "lastmod" : "2021-07-16"
+  "date": "2019-12-16",
+  "keywords": [
+    "NB",
+    "file",
+    "extension",
+    "file format",
+    "Mathematica",
+    "Spreadsheet"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "এনবি ফাইল এপিআই কী সে সম্পর্কে জানুন যা এনবি ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "NB - Mathematica Notebook ফাইল ফরম্যাট",
+  "linktitle": "NB",
+  "menu": {
+    "docs": {
+      "parent": "spreadsheet",
+      "identifier": "spreadsheet-nb-bn"
+    }
+  },
+  "lastmod": "2021-07-16"
 }
 
 ## একটি NB ফাইল কি?

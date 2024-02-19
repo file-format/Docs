@@ -1,20 +1,27 @@
 {
-  "date" : "2021-03-02",
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "RDLC - রিপোর্ট ডেফিনিশন ল্যাঙ্গুয়েজ ক্লায়েন্ট-সাইড",
-  "keywords" : [ "rdlc", "report definition language", "mkv format", "XSD", "report definition language client side"],
-  "description":"RDLC ফাইল ফরম্যাট সম্পর্কে জানুন যা একটি SQL সার্ভার রিপোর্টিং পরিষেবা রিপোর্ট সংজ্ঞার একটি XML উপস্থাপনা।",
-  "linktitle" : "RDLC",
-  "menu" : {
-    "docs" : {
-      "parent" : "reporting"
-}
-},
-  "lastmod" : "2021-03-02"
+  "date": "2021-03-02",
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "RDLC - রিপোর্ট ডেফিনিশন ল্যাঙ্গুয়েজ ক্লায়েন্ট-সাইড",
+  "keywords": [
+    "rdlc",
+    "report definition language",
+    "mkv format",
+    "XSD",
+    "report definition language client side"
+  ],
+  "description": "RDLC ফাইল ফরম্যাট সম্পর্কে জানুন যা একটি SQL সার্ভার রিপোর্টিং পরিষেবা রিপোর্ট সংজ্ঞার একটি XML উপস্থাপনা।",
+  "linktitle": "RDLC",
+  "menu": {
+    "docs": {
+      "parent": "reporting",
+      "identifier": "reporting-rdlc-bn"
+    }
+  },
+  "lastmod": "2021-03-02"
 }
 
 ## একটি RDLC ফাইল কি? ##

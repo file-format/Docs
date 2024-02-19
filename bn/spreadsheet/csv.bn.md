@@ -1,20 +1,28 @@
 {
-  "date" : "2019-12-10",
-  "keywords" : [ "CSV", "file", "extension", "file format", "Comma Separated Values", "Spreadsheet" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"CSV ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি CSV ফাইল তৈরি করতে এবং খুলতে পারে৷",
-  "title" : "CSV ফাইল ফরম্যাট",
-  "linktitle" : "CSV",
-  "menu" : {
-    "docs" : {
-      "parent" : "spreadsheet"
-}
-},
-  "lastmod" : "2019-12-10"
+  "date": "2019-12-10",
+  "keywords": [
+    "CSV",
+    "file",
+    "extension",
+    "file format",
+    "Comma Separated Values",
+    "Spreadsheet"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "CSV ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি CSV ফাইল তৈরি করতে এবং খুলতে পারে৷",
+  "title": "CSV ফাইল ফরম্যাট",
+  "linktitle": "CSV",
+  "menu": {
+    "docs": {
+      "parent": "spreadsheet",
+      "identifier": "spreadsheet-csv-bn"
+    }
+  },
+  "lastmod": "2019-12-10"
 }
 
 ## একটি CSV ফাইল কি?

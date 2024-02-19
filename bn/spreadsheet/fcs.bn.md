@@ -1,20 +1,28 @@
 {
-  "date" : "2021-02-26",
-  "keywords" : [ "fcs", "file", "extension", "file format", "firstchoice", "Spreadsheet" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"একটি এফসিএস ফাইল এবং এপিআই কী যা এফসিএস ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "FCS - প্রথম পছন্দ স্প্রেডশীট ফাইল",
-  "linktitle" : "FCS",
-  "menu" : {
-    "docs" : {
-      "parent" : "spreadsheet"
-}
-},
-  "lastmod" : "2021-11-30"
+  "date": "2021-02-26",
+  "keywords": [
+    "fcs",
+    "file",
+    "extension",
+    "file format",
+    "firstchoice",
+    "Spreadsheet"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "একটি এফসিএস ফাইল এবং এপিআই কী যা এফসিএস ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "FCS - প্রথম পছন্দ স্প্রেডশীট ফাইল",
+  "linktitle": "FCS",
+  "menu": {
+    "docs": {
+      "parent": "spreadsheet",
+      "identifier": "spreadsheet-fcs-bn"
+    }
+  },
+  "lastmod": "2021-11-30"
 }
 
 ## একটি FCS ফাইল কি?

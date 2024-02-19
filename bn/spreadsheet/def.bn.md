@@ -1,20 +1,28 @@
 {
-  "date" : "2021-02-26",
-  "keywords" : [ "def", "file", "extension", "file format", "SmartWare II", "Spreadsheet" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"একটি DEF ফাইল এবং API যা DEF ফাইল তৈরি এবং খুলতে পারে সে সম্পর্কে জানুন৷",
-  "title" : "DEF - স্মার্টওয়্যার II স্প্রেডশীট ডেটা ফাইল",
-  "linktitle" : "DEF",
-  "menu" : {
-    "docs" : {
-      "parent" : "spreadsheet"
-}
-},
-  "lastmod" : "2021-11-23"
+  "date": "2021-02-26",
+  "keywords": [
+    "def",
+    "file",
+    "extension",
+    "file format",
+    "SmartWare II",
+    "Spreadsheet"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "একটি DEF ফাইল এবং API যা DEF ফাইল তৈরি এবং খুলতে পারে সে সম্পর্কে জানুন৷",
+  "title": "DEF - স্মার্টওয়্যার II স্প্রেডশীট ডেটা ফাইল",
+  "linktitle": "DEF",
+  "menu": {
+    "docs": {
+      "parent": "spreadsheet",
+      "identifier": "spreadsheet-def-bn"
+    }
+  },
+  "lastmod": "2021-11-23"
 }
 
 ## একটি DEF ফাইল কি?
