@@ -1,20 +1,25 @@
 {
-  "date" : "2020-03-16",
-  "keywords" : [ "IGS File", "File Format", "CAD" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "আইজিএস ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা আইজিএস ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "আইজিএস ফাইল ফর্মat: 2D-3D Design Exchange File",
-  "linktitle" : "IGS",
-  "menu" : {
-    "docs" : {
-      "parent" : "cad"
-}
-},
-  "lastmod" : "2020-10-28"
+  "date": "2020-03-16",
+  "keywords": [
+    "IGS File",
+    "File Format",
+    "CAD"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "আইজিএস ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা আইজিএস ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "আইজিএস ফাইল ফর্মat: 2D-3D Design Exchange File",
+  "linktitle": "IGS",
+  "menu": {
+    "docs": {
+      "parent": "cad",
+      "identifier": "cad-igs-bn"
+    }
+  },
+  "lastmod": "2020-10-28"
 }
 
 ## একটি IGS ফাইল কি?

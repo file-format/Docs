@@ -1,20 +1,28 @@
 {
-  "date" : "2020-07-28",
-  "keywords" : [ "HPGL", "File Format", "Open", "Read", "Create", "CAD" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "HPGL ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা HPGL ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "HPGL ফাইল ফরম্যাট - ফাইল ফরম্যাট বিশেষজ্ঞদের কাছ থেকে শিখুন!",
-  "linktitle" : "HPGL",
-  "menu" : {
-    "docs" : {
-      "parent" : "cad"
-}
-},
-  "lastmod" : "2020-07-28"
+  "date": "2020-07-28",
+  "keywords": [
+    "HPGL",
+    "File Format",
+    "Open",
+    "Read",
+    "Create",
+    "CAD"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "HPGL ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা HPGL ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "HPGL ফাইল ফরম্যাট - ফাইল ফরম্যাট বিশেষজ্ঞদের কাছ থেকে শিখুন!",
+  "linktitle": "HPGL",
+  "menu": {
+    "docs": {
+      "parent": "cad",
+      "identifier": "cad-hpgl-bn"
+    }
+  },
+  "lastmod": "2020-07-28"
 }
 
 ## একটি HPGL ফাইল কি?

@@ -1,20 +1,25 @@
 {
-  "date" : "2020-03-16",
-  "keywords" : [ "IFC File", "Format", "CAD" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "IFC ফাইল বিন্যাস এবং API সম্পর্কে জানুন যেগুলি IFC ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "title" : "IFC ফাইল ফরম্যাট",
-  "linktitle" : "IFC",
-  "menu" : {
-    "docs" : {
-      "parent" : "cad"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2020-03-16",
+  "keywords": [
+    "IFC File",
+    "Format",
+    "CAD"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "IFC ফাইল বিন্যাস এবং API সম্পর্কে জানুন যেগুলি IFC ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "title": "IFC ফাইল ফরম্যাট",
+  "linktitle": "IFC",
+  "menu": {
+    "docs": {
+      "parent": "cad",
+      "identifier": "cad-ifc-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি IFC ফাইল কি?

@@ -1,20 +1,25 @@
 {
-  "date" : "2020-03-16",
-  "keywords" : [ "NWD File", "Format", "CAD" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "NWD ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা NWD ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "NWD ফাইল ফরম্যাট",
-  "linktitle" : "NWD",
-  "menu" : {
-    "docs" : {
-      "parent" : "cad"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2020-03-16",
+  "keywords": [
+    "NWD File",
+    "Format",
+    "CAD"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "NWD ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা NWD ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "NWD ফাইল ফরম্যাট",
+  "linktitle": "NWD",
+  "menu": {
+    "docs": {
+      "parent": "cad",
+      "identifier": "cad-nwd-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি NWD ফাইল কি?

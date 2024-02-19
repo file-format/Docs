@@ -1,20 +1,25 @@
 {
-  "date" : "2020-03-16",
-  "keywords" : [ "NWF File", "Format", "CAD" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "NWF ফাইল বিন্যাস এবং API সম্পর্কে জানুন যেগুলি NWF ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "title" : "NWF ফাইল ফরম্যাট",
-  "linktitle" : "NWF",
-  "menu" : {
-    "docs" : {
-      "parent" : "cad"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2020-03-16",
+  "keywords": [
+    "NWF File",
+    "Format",
+    "CAD"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "NWF ফাইল বিন্যাস এবং API সম্পর্কে জানুন যেগুলি NWF ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "title": "NWF ফাইল ফরম্যাট",
+  "linktitle": "NWF",
+  "menu": {
+    "docs": {
+      "parent": "cad",
+      "identifier": "cad-nwf-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি NWF ফাইল কি?

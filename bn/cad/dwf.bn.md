@@ -1,20 +1,28 @@
 {
-  "date" : "2020-03-16",
-  "keywords" : [ "DWF", "File Format", "Open", "Read", "Create", "CAD" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about DWF file format and APIs that can create and open DWF files.",
-  "title" : "DWF File Format",
-  "linktitle" : "DWF",
-  "menu" : {
-    "docs" : {
-      "parent" : "cad"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2020-03-16",
+  "keywords": [
+    "DWF",
+    "File Format",
+    "Open",
+    "Read",
+    "Create",
+    "CAD"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about DWF file format and APIs that can create and open DWF files.",
+  "title": "DWF File Format",
+  "linktitle": "DWF",
+  "menu": {
+    "docs": {
+      "parent": "cad",
+      "identifier": "cad-dwf-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি DWF ফাইল কি?

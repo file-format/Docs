@@ -1,19 +1,20 @@
 {
-  "date" : "2022-06-20",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "FZP ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা FZP ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "FZP ফাইল ফরম্যাট - Fritzing XML অংশ বর্ণনা ফাইল",
-  "linktitle" : "FZP",
-  "menu" : {
-    "docs" : {
-      "parent" : "cad"
-}
-},
-  "lastmod" : "2022-06-20"
+  "date": "2022-06-20",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "FZP ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা FZP ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "FZP ফাইল ফরম্যাট - Fritzing XML অংশ বর্ণনা ফাইল",
+  "linktitle": "FZP",
+  "menu": {
+    "docs": {
+      "parent": "cad",
+      "identifier": "cad-fzp-bn"
+    }
+  },
+  "lastmod": "2022-06-20"
 }
 
 ## একটি FZP ফাইল কি?

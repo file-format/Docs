@@ -1,20 +1,25 @@
 {
-  "date" : "2020-03-16",
-  "keywords" : [ "IGES File", "File Format", "CAD" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "IGES ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি IGES ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "title" : "IGES ফাইল ফরম্যাট",
-  "linktitle" : "IGES",
-  "menu" : {
-    "docs" : {
-      "parent" : "cad"
-}
-},
-  "lastmod" : "2020-07-28"
+  "date": "2020-03-16",
+  "keywords": [
+    "IGES File",
+    "File Format",
+    "CAD"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "IGES ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি IGES ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "title": "IGES ফাইল ফরম্যাট",
+  "linktitle": "IGES",
+  "menu": {
+    "docs": {
+      "parent": "cad",
+      "identifier": "cad-iges-bn"
+    }
+  },
+  "lastmod": "2020-07-28"
 }
 
 ## একটি IGES ফাইল কি?

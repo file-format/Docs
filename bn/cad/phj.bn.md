@@ -1,20 +1,25 @@
 {
-  "date" : "2020-03-16",
-  "keywords" : [ "PHJ File", "Format", "CAD" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "PHJ ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি PHJ ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "title" : "PHJ - PhCNC প্রজেক্ট ফাইল ফরম্যাট",
-  "linktitle" : "PHJ",
-  "menu" : {
-    "docs" : {
-      "parent" : "cad"
-}
-},
-  "lastmod" : "2020-10-25"
+  "date": "2020-03-16",
+  "keywords": [
+    "PHJ File",
+    "Format",
+    "CAD"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "PHJ ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি PHJ ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "title": "PHJ - PhCNC প্রজেক্ট ফাইল ফরম্যাট",
+  "linktitle": "PHJ",
+  "menu": {
+    "docs": {
+      "parent": "cad",
+      "identifier": "cad-phj-bn"
+    }
+  },
+  "lastmod": "2020-10-25"
 }
 
 ## একটি PHJ ফাইল কি?

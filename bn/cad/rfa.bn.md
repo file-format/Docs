@@ -1,20 +1,30 @@
 {
-  "date" : "2021-09-10",
-  "keywords" : [ "rfa file", "rfa file format", "what is an rfa file", "file", "rfa example", "rfa file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "RFA ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি RFA ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "RFA - রিভিট ফ্যামিলি ফাইল",
-  "linktitle" : "RFA",
-  "menu" : {
-    "docs" : {
-      "parent" : "cad"
-}
-},
-  "lastmod" : "2021-09-10"
+  "date": "2021-09-10",
+  "keywords": [
+    "rfa file",
+    "rfa file format",
+    "what is an rfa file",
+    "file",
+    "rfa example",
+    "rfa file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "RFA ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি RFA ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "RFA - রিভিট ফ্যামিলি ফাইল",
+  "linktitle": "RFA",
+  "menu": {
+    "docs": {
+      "parent": "cad",
+      "identifier": "cad-rfa-bn"
+    }
+  },
+  "lastmod": "2021-09-10"
 }
 
 ## একটি RFA ফাইল কি?

@@ -1,20 +1,25 @@
 {
-  "date" : "2020-03-16",
-  "keywords" : [ "NWC File", "Format", "CAD" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "NWC ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি NWC ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "title" : "NWC ফাইল ফরম্যাট",
-  "linktitle" : "NWC",
-  "menu" : {
-    "docs" : {
-      "parent" : "cad"
-}
-},
-  "lastmod" : "2020-10-24"
+  "date": "2020-03-16",
+  "keywords": [
+    "NWC File",
+    "Format",
+    "CAD"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "NWC ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি NWC ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "title": "NWC ফাইল ফরম্যাট",
+  "linktitle": "NWC",
+  "menu": {
+    "docs": {
+      "parent": "cad",
+      "identifier": "cad-nwc-bn"
+    }
+  },
+  "lastmod": "2020-10-24"
 }
 
 ## একটি NWC ফাইল কি?

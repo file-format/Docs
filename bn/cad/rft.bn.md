@@ -1,20 +1,30 @@
 {
-  "date" : "2021-09-10",
-  "keywords" : [ "rft file", "rft file format", "what is an rft file", "file", "rft example", "rft file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "RFT ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি RFT ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "RFT - রিভিট ফ্যামিলি টেমপ্লেট ফাইল",
-  "linktitle" : "RFT",
-  "menu" : {
-    "docs" : {
-      "parent" : "cad"
-}
-},
-  "lastmod" : "2021-09-10"
+  "date": "2021-09-10",
+  "keywords": [
+    "rft file",
+    "rft file format",
+    "what is an rft file",
+    "file",
+    "rft example",
+    "rft file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "RFT ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি RFT ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "RFT - রিভিট ফ্যামিলি টেমপ্লেট ফাইল",
+  "linktitle": "RFT",
+  "menu": {
+    "docs": {
+      "parent": "cad",
+      "identifier": "cad-rft-bn"
+    }
+  },
+  "lastmod": "2021-09-10"
 }
 
 ## একটি RFT ফাইল কি?

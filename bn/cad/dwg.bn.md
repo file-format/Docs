@@ -1,20 +1,27 @@
 {
-  "date" : "2020-03-16",
-  "keywords" : [ "DWG", "File Format", "CAD", "Open", "Create" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "DWG ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি DWG ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "DWG ফাইল ফরম্যাট",
-  "linktitle" : "DWG",
-  "menu" : {
-    "docs" : {
-      "parent" : "cad"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2020-03-16",
+  "keywords": [
+    "DWG",
+    "File Format",
+    "CAD",
+    "Open",
+    "Create"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "DWG ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি DWG ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "DWG ফাইল ফরম্যাট",
+  "linktitle": "DWG",
+  "menu": {
+    "docs": {
+      "parent": "cad",
+      "identifier": "cad-dwg-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি DWG ফাইল কি?

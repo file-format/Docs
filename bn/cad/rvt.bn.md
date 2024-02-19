@@ -1,20 +1,25 @@
 {
-  "date" : "2020-03-16",
-  "keywords" : [ "RVT File", "Format", "CAD" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "RVT ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি RVT ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "RVT ফাইল ফরম্যাট",
-  "linktitle" : "RVT",
-  "menu" : {
-    "docs" : {
-      "parent" : "cad"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2020-03-16",
+  "keywords": [
+    "RVT File",
+    "Format",
+    "CAD"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "RVT ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি RVT ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "RVT ফাইল ফরম্যাট",
+  "linktitle": "RVT",
+  "menu": {
+    "docs": {
+      "parent": "cad",
+      "identifier": "cad-rvt-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি RVT ফাইল কি?

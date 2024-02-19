@@ -1,20 +1,25 @@
 {
-  "date" : "2020-03-16",
-  "keywords" : [ "PSM File", "Format", "CAD" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "পিএসএম ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা পিএসএম ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "PSM ফাইল ফরম্যাট - সলিড এজ শীট মেটা ফাইল",
-  "linktitle" : "PSM",
-  "menu" : {
-    "docs" : {
-      "parent" : "cad"
-}
-},
-  "lastmod" : "2020-10-25"
+  "date": "2020-03-16",
+  "keywords": [
+    "PSM File",
+    "Format",
+    "CAD"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "পিএসএম ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা পিএসএম ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "PSM ফাইল ফরম্যাট - সলিড এজ শীট মেটা ফাইল",
+  "linktitle": "PSM",
+  "menu": {
+    "docs": {
+      "parent": "cad",
+      "identifier": "cad-psm-bn"
+    }
+  },
+  "lastmod": "2020-10-25"
 }
 
 ## একটি PSM ফাইল কি?

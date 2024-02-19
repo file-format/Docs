@@ -1,20 +1,28 @@
 {
-  "date" : "2021-12-30",
-  "keywords" : [ ".art", "File Format", "extension", "Read", "Create", "CAD" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "এআরটি ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা এআরটি ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "ART ফাইল ফরম্যাট - ArtCAM মডেল ফাইল",
-  "linktitle" : "ART",
-  "menu" : {
-    "docs" : {
-      "parent" : "cad"
-}
-},
-  "lastmod" : "2021-12-30"
+  "date": "2021-12-30",
+  "keywords": [
+    ".art",
+    "File Format",
+    "extension",
+    "Read",
+    "Create",
+    "CAD"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "এআরটি ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা এআরটি ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "ART ফাইল ফরম্যাট - ArtCAM মডেল ফাইল",
+  "linktitle": "ART",
+  "menu": {
+    "docs": {
+      "parent": "cad",
+      "identifier": "cad-art-bn"
+    }
+  },
+  "lastmod": "2021-12-30"
 }
 
 ## একটি ART ফাইল কি?

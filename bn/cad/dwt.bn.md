@@ -1,20 +1,27 @@
 {
-  "date" : "2020-01-11",
-  "keywords" : [ "DWG", "File", "Format", "AutoCAD Drawing Template", "Open" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "DWT ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা DWT ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "DWT ফাইল ফরম্যাট",
-  "linktitle" : "DWT",
-  "menu" : {
-    "docs" : {
-      "parent" : "cad"
-}
-},
-  "lastmod" : "2020-09-04"
+  "date": "2020-01-11",
+  "keywords": [
+    "DWG",
+    "File",
+    "Format",
+    "AutoCAD Drawing Template",
+    "Open"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "DWT ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা DWT ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "DWT ফাইল ফরম্যাট",
+  "linktitle": "DWT",
+  "menu": {
+    "docs": {
+      "parent": "cad",
+      "identifier": "cad-dwt-bn"
+    }
+  },
+  "lastmod": "2020-09-04"
 }
 
 ## একটি DWT ফাইল কি?

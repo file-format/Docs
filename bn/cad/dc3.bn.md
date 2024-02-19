@@ -1,20 +1,25 @@
 {
-  "date" : "2020-03-16",
-  "keywords" : [ "DC3 File", "File Format", "CAD" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "DC3 ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা DC3 ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "DC3 ফাইল ফরম্যাট",
-  "linktitle" : "DC3",
-  "menu" : {
-    "docs" : {
-      "parent" : "cad"
-}
-},
-  "lastmod" : "2020-09-10"
+  "date": "2020-03-16",
+  "keywords": [
+    "DC3 File",
+    "File Format",
+    "CAD"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "DC3 ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা DC3 ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "DC3 ফাইল ফরম্যাট",
+  "linktitle": "DC3",
+  "menu": {
+    "docs": {
+      "parent": "cad",
+      "identifier": "cad-dc3-bn"
+    }
+  },
+  "lastmod": "2020-09-10"
 }
 
 ## একটি DC3 ফাইল কি?

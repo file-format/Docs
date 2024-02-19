@@ -1,20 +1,28 @@
 {
-  "date" : "2022-01-04",
-  "keywords" : [ ".dst", "file", "format", "extension", "API", "AutoCAD Sheet Set" ],
-  "author" :{
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "DST - অটোক্যাড শীট সেট ফাইল",
-  "description" : ".dst ফাইল এবং API সম্পর্কে জানুন যেগুলি DST ফাইল তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "DST",
-  "menu" :{
-    "docs" :{
-      "parent" : "cad"
-}
-},
-  "lastmod" : "2022-01-04"
+  "date": "2022-01-04",
+  "keywords": [
+    ".dst",
+    "file",
+    "format",
+    "extension",
+    "API",
+    "AutoCAD Sheet Set"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "DST - অটোক্যাড শীট সেট ফাইল",
+  "description": ".dst ফাইল এবং API সম্পর্কে জানুন যেগুলি DST ফাইল তৈরি এবং খুলতে পারে৷",
+  "linktitle": "DST",
+  "menu": {
+    "docs": {
+      "parent": "cad",
+      "identifier": "cad-dst-bn"
+    }
+  },
+  "lastmod": "2022-01-04"
 }
 
 ## একটি DST ফাইল কি?

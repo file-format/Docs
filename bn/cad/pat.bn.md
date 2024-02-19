@@ -1,20 +1,25 @@
 {
-  "date" : "2020-03-16",
-  "keywords" : [ "PAT File", "Format", "CAD" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "PAT ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি PAT ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "PAT ফাইল ফরম্যাট",
-  "linktitle" : "PAT",
-  "menu" : {
-    "docs" : {
-      "parent" : "cad"
-}
-},
-  "lastmod" : "2020-10-25"
+  "date": "2020-03-16",
+  "keywords": [
+    "PAT File",
+    "Format",
+    "CAD"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "PAT ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি PAT ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "PAT ফাইল ফরম্যাট",
+  "linktitle": "PAT",
+  "menu": {
+    "docs": {
+      "parent": "cad",
+      "identifier": "cad-pat-bn"
+    }
+  },
+  "lastmod": "2020-10-25"
 }
 
 ## একটি PAT ফাইল কি?

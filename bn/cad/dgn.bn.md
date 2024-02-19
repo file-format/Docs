@@ -1,20 +1,30 @@
 {
-  "date" : "2020-01-12",
-  "keywords" : [ "DGN", "File", "Format", "Open", "Read", "API", "MicroStation", "Intergraph Interactive Graphics Design System" ],
-  "author" :{
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "DGN - MicroStation CAD ডিজাইন ফাইল ফরম্যাট",
-  "description" : "DGN ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি DGN ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "DGN",
-  "menu" :{
-    "docs" :{
-      "parent" : "cad"
-}
-},
-  "lastmod" : "2020-01-12"
+  "date": "2020-01-12",
+  "keywords": [
+    "DGN",
+    "File",
+    "Format",
+    "Open",
+    "Read",
+    "API",
+    "MicroStation",
+    "Intergraph Interactive Graphics Design System"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "DGN - MicroStation CAD ডিজাইন ফাইল ফরম্যাট",
+  "description": "DGN ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি DGN ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "DGN",
+  "menu": {
+    "docs": {
+      "parent": "cad",
+      "identifier": "cad-dgn-bn"
+    }
+  },
+  "lastmod": "2020-01-12"
 }
 
 ## একটি DGN ফাইল কি?

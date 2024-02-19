@@ -1,20 +1,25 @@
 {
-  "date" : "2020-03-16",
-  "keywords" : [ "PLT File", "File Format", "CAD" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "PLT ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি PLT ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "পিএলটি ফাইল ফরম্যাট",
-  "linktitle" : "PLT",
-  "menu" : {
-    "docs" : {
-      "parent" : "cad"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2020-03-16",
+  "keywords": [
+    "PLT File",
+    "File Format",
+    "CAD"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "PLT ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি PLT ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "পিএলটি ফাইল ফরম্যাট",
+  "linktitle": "PLT",
+  "menu": {
+    "docs": {
+      "parent": "cad",
+      "identifier": "cad-plt-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি PLT ফাইল কি?

@@ -1,19 +1,20 @@
 {
-  "date" : "2020-03-16",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "SLDPRT ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা SLDPRT ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "SLDPRT - সলিডওয়ার্কস পার্ট ফাইল টাইপ",
-  "linktitle" : "SLDPRT",
-  "menu" : {
-    "docs" : {
-      "parent" : "cad"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2020-03-16",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "SLDPRT ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা SLDPRT ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "SLDPRT - সলিডওয়ার্কস পার্ট ফাইল টাইপ",
+  "linktitle": "SLDPRT",
+  "menu": {
+    "docs": {
+      "parent": "cad",
+      "identifier": "cad-sldprt-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## SLDPRT ফাইল কি?

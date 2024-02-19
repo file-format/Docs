@@ -1,20 +1,25 @@
 {
-  "date" : "2020-03-16",
-  "keywords" : [ "STL File", "Format", "CAD" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "STL ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা STL ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "STL ফাইল ফরম্যাট",
-  "linktitle" : "STL",
-  "menu" : {
-    "docs" : {
-      "parent" : "cad"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2020-03-16",
+  "keywords": [
+    "STL File",
+    "Format",
+    "CAD"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "STL ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা STL ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "STL ফাইল ফরম্যাট",
+  "linktitle": "STL",
+  "menu": {
+    "docs": {
+      "parent": "cad",
+      "identifier": "cad-stl-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## STL ফাইল কি?

@@ -1,20 +1,28 @@
 {
-  "date" : "2021-12-30",
-  "keywords" : [ ".catpart", "File Format", "extension", "Read", "Create", "CAD" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : ".catpart ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা CATPART ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "CATPART ফাইল ফরম্যাট - CATIA V5 পার্ট ফাইল",
-  "linktitle" : "CATPART",
-  "menu" : {
-    "docs" : {
-      "parent" : "cad"
-}
-},
-  "lastmod" : "2021-12-30"
+  "date": "2021-12-30",
+  "keywords": [
+    ".catpart",
+    "File Format",
+    "extension",
+    "Read",
+    "Create",
+    "CAD"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": ".catpart ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা CATPART ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "CATPART ফাইল ফরম্যাট - CATIA V5 পার্ট ফাইল",
+  "linktitle": "CATPART",
+  "menu": {
+    "docs": {
+      "parent": "cad",
+      "identifier": "cad-catpart-bn"
+    }
+  },
+  "lastmod": "2021-12-30"
 }
 
 ## একটি CATPART ফাইল কি?

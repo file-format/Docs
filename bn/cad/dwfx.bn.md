@@ -1,20 +1,28 @@
 {
-  "date" : "2020-03-16",
-  "keywords" : [ "DWFX", "File Format", "Open", "Read", "Create", "CAD" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "DWFX ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা DWFX ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "DWFX ফাইল ফরম্যাট",
-  "linktitle" : "DWFX",
-  "menu" : {
-    "docs" : {
-      "parent" : "cad"
-}
-},
-  "lastmod" : "2020-07-28"
+  "date": "2020-03-16",
+  "keywords": [
+    "DWFX",
+    "File Format",
+    "Open",
+    "Read",
+    "Create",
+    "CAD"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "DWFX ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা DWFX ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "DWFX ফাইল ফরম্যাট",
+  "linktitle": "DWFX",
+  "menu": {
+    "docs": {
+      "parent": "cad",
+      "identifier": "cad-dwfx-bn"
+    }
+  },
+  "lastmod": "2020-07-28"
 }
 
 ## একটি DWFX ফাইল কি?

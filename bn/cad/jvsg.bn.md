@@ -1,20 +1,25 @@
 {
-  "date" : "2020-03-16",
-  "keywords" : [ "JVSG File", "Format", "CAD" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "JVSG ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা JVSG ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "JVSG ফাইল ফরম্যাট",
-  "linktitle" : "JVSG",
-  "menu" : {
-    "docs" : {
-      "parent" : "cad"
-}
-},
-  "lastmod" : "2020-10-24"
+  "date": "2020-03-16",
+  "keywords": [
+    "JVSG File",
+    "Format",
+    "CAD"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "JVSG ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা JVSG ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "JVSG ফাইল ফরম্যাট",
+  "linktitle": "JVSG",
+  "menu": {
+    "docs": {
+      "parent": "cad",
+      "identifier": "cad-jvsg-bn"
+    }
+  },
+  "lastmod": "2020-10-24"
 }
 
 ## একটি JVSG ফাইল কি?
