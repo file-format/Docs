@@ -1,20 +1,30 @@
 {
-  "date" : "2020-08-20",
-  "keywords" : [ "ttf file", "ttf file format", "what is a ttf file", "file", "ttf example", "ttf file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "TTF - TrueType ফন্ট ফাইল ফরম্যাট",
-  "description":"TrueType ফন্ট (TTF) প্রাথমিকভাবে Apple, Inc দ্বারা ডিজাইন করা ডিজিটাল ফন্ট প্রযুক্তির স্পেসিফিকেশনের উপর ভিত্তি করে তৈরি। অ্যাপল এবং মাইক্রোসফট উভয়ই ম্যাক এবং উইন্ডোজ অপারেটিং সিস্টেমে TTF ব্যবহার করেছে।",
-  "linktitle" : "TTF",
-  "menu" : {
-    "docs" : {
-      "parent" : "font"
-}
-},
-  "lastmod" : "2020-09-21"
+  "date": "2020-08-20",
+  "keywords": [
+    "ttf file",
+    "ttf file format",
+    "what is a ttf file",
+    "file",
+    "ttf example",
+    "ttf file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "TTF - TrueType ফন্ট ফাইল ফরম্যাট",
+  "description": "TrueType ফন্ট (TTF) প্রাথমিকভাবে Apple, Inc দ্বারা ডিজাইন করা ডিজিটাল ফন্ট প্রযুক্তির স্পেসিফিকেশনের উপর ভিত্তি করে তৈরি। অ্যাপল এবং মাইক্রোসফট উভয়ই ম্যাক এবং উইন্ডোজ অপারেটিং সিস্টেমে TTF ব্যবহার করেছে।",
+  "linktitle": "TTF",
+  "menu": {
+    "docs": {
+      "parent": "font",
+      "identifier": "font-ttf-bn"
+    }
+  },
+  "lastmod": "2020-09-21"
 }
 
 ## একটি TTF ফাইল কি?

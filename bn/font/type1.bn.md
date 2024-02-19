@@ -1,20 +1,30 @@
 {
-  "date" : "2021-02-26",
-  "keywords" : [ "type1 file", "type1 file format", "what is a type1 file", "file", "type1 example", "type1 file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "টাইপ 1 - পোস্টস্ক্রিপ্ট টাইপ 1 ফন্ট",
-  "description":"টাইপ 1 ফন্ট হল একটি অপ্রচলিত অ্যাডোব পণ্য যা ডেস্কটপ ভিত্তিক প্রকাশনা সফ্টওয়্যার এবং প্রিন্টারগুলিতে ব্যাপকভাবে ব্যবহৃত হত যা পোস্টস্ক্রিপ্ট ব্যবহার করতে পারে",
-  "linktitle" : "Type1",
-  "menu" : {
-    "docs" : {
-      "parent" : "font"
-}
-},
-  "lastmod" : "2021-02-26"
+  "date": "2021-02-26",
+  "keywords": [
+    "type1 file",
+    "type1 file format",
+    "what is a type1 file",
+    "file",
+    "type1 example",
+    "type1 file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "টাইপ 1 - পোস্টস্ক্রিপ্ট টাইপ 1 ফন্ট",
+  "description": "টাইপ 1 ফন্ট হল একটি অপ্রচলিত অ্যাডোব পণ্য যা ডেস্কটপ ভিত্তিক প্রকাশনা সফ্টওয়্যার এবং প্রিন্টারগুলিতে ব্যাপকভাবে ব্যবহৃত হত যা পোস্টস্ক্রিপ্ট ব্যবহার করতে পারে",
+  "linktitle": "Type1",
+  "menu": {
+    "docs": {
+      "parent": "font",
+      "identifier": "font-type1-bn"
+    }
+  },
+  "lastmod": "2021-02-26"
 }
 
 ## টাইপ 1 ফন্ট কি?

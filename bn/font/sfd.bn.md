@@ -1,20 +1,30 @@
 {
-  "date" : "2020-08-20",
-  "keywords" : [ "sdf file", "sdf file format", "what is a sdf file", "file", "sdf example", "sdf file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "SFD - স্প্লাইন ফন্ট ডেটাবেস বিন্যাস",
-  "description":"SFD ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি SFD ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "SFD",
-  "menu" : {
-    "docs" : {
-      "parent" : "font"
-}
-},
-  "lastmod" : "2020-09-24"
+  "date": "2020-08-20",
+  "keywords": [
+    "sdf file",
+    "sdf file format",
+    "what is a sdf file",
+    "file",
+    "sdf example",
+    "sdf file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "SFD - স্প্লাইন ফন্ট ডেটাবেস বিন্যাস",
+  "description": "SFD ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি SFD ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "SFD",
+  "menu": {
+    "docs": {
+      "parent": "font",
+      "identifier": "font-sfd-bn"
+    }
+  },
+  "lastmod": "2020-09-24"
 }
 
 ## একটি SFD ফাইল কি?

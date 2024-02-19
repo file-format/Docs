@@ -1,19 +1,20 @@
 {
-  "date" : "2020-08-20",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "WOFF - ওয়েব ওপেন ফাইল ফরম্যাট",
-  "description":"একটি WOFF ফাইল হল একটি ওপেন ফন্ট ফরম্যাট যা ওয়েব ওপেন ফন্ট ফরম্যাটে তৈরি করা হয়।",
-  "linktitle" : "WOFF",
-  "menu" : {
-    "docs" : {
-      "parent" : "font"
-}
-},
-  "lastmod" : "2020-09-30"
+  "date": "2020-08-20",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "WOFF - ওয়েব ওপেন ফাইল ফরম্যাট",
+  "description": "একটি WOFF ফাইল হল একটি ওপেন ফন্ট ফরম্যাট যা ওয়েব ওপেন ফন্ট ফরম্যাটে তৈরি করা হয়।",
+  "linktitle": "WOFF",
+  "menu": {
+    "docs": {
+      "parent": "font",
+      "identifier": "font-woff-bn"
+    }
+  },
+  "lastmod": "2020-09-30"
 }
 
 ## একটি WOFF ফাইল কি?

@@ -1,20 +1,20 @@
 {
-  "date" : "2023-01-08",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "VLW - ফন্ট ফাইল বিন্যাস প্রক্রিয়াকরণ",
-  "description":"একটি VLW ফাইল হল একটি ওপেন ফন্ট ফরম্যাট যা ওয়েব ওপেন ফন্ট ফরম্যাটে তৈরি করা হয়।",
-  "linktitle" : "VLW",
-  "menu" : {
-    "docs" : {
-    "identifer": "font-vlw-bn",
-      "parent" : "font"
-}
-},
-  "lastmod" : "2023-01-08"
+  "date": "2023-01-08",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "VLW - ফন্ট ফাইল বিন্যাস প্রক্রিয়াকরণ",
+  "description": "একটি VLW ফাইল হল একটি ওপেন ফন্ট ফরম্যাট যা ওয়েব ওপেন ফন্ট ফরম্যাটে তৈরি করা হয়।",
+  "linktitle": "VLW",
+  "menu": {
+    "docs": {
+      "parent": "font",
+      "identifier": "font-vlw-bn"
+    }
+  },
+  "lastmod": "2023-01-08"
 }
 
 ## একটি VLW ফাইল কি?

@@ -1,20 +1,30 @@
 {
-  "date" : "2021-02-25",
-  "keywords" : [ "bdf file", "bdf file format", "what is a bdf file", "file", "bdf example", "bdf file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "BDF - গ্লাইফ বিটম্যাপ বিতরণ বিন্যাস",
-  "description":"BDF ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি BDF ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "BDF",
-  "menu" : {
-    "docs" : {
-      "parent" : "font"
-}
-},
-  "lastmod" : "2021-02-25"
+  "date": "2021-02-25",
+  "keywords": [
+    "bdf file",
+    "bdf file format",
+    "what is a bdf file",
+    "file",
+    "bdf example",
+    "bdf file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "BDF - গ্লাইফ বিটম্যাপ বিতরণ বিন্যাস",
+  "description": "BDF ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি BDF ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "BDF",
+  "menu": {
+    "docs": {
+      "parent": "font",
+      "identifier": "font-bdf-bn"
+    }
+  },
+  "lastmod": "2021-02-25"
 }
 
 ## একটি BDF ফাইল কি?

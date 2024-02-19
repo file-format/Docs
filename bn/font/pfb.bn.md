@@ -1,20 +1,30 @@
 {
-  "date" : "2020-08-20",
-  "keywords" : [ "pfb file", "pfb file format", "what is a pfb file", "file", "pfb example", "pfb file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "PFB - প্রিন্টার ফন্ট বাইনারি ফাইল ফরম্যাট",
-  "description":"PFB ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি PFB ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "PFB",
-  "menu" : {
-    "docs" : {
-      "parent" : "font"
-}
-},
-  "lastmod" : "2020-09-30"
+  "date": "2020-08-20",
+  "keywords": [
+    "pfb file",
+    "pfb file format",
+    "what is a pfb file",
+    "file",
+    "pfb example",
+    "pfb file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "PFB - প্রিন্টার ফন্ট বাইনারি ফাইল ফরম্যাট",
+  "description": "PFB ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি PFB ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "PFB",
+  "menu": {
+    "docs": {
+      "parent": "font",
+      "identifier": "font-pfb-bn"
+    }
+  },
+  "lastmod": "2020-09-30"
 }
 
 ## একটি PFB ফাইল কি?

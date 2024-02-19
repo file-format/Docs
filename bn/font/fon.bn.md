@@ -1,20 +1,30 @@
 {
-  "date" : "2020-08-20",
-  "keywords" : [ "fon file", "fon file format", "what is a fon file", "file", "fon example", "fon file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "FON - ফন্ট লাইব্রেরি ফাইল",
-  "description":"FON ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি FON ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "FON",
-  "menu" : {
-    "docs" : {
-      "parent" : "font"
-}
-},
-  "lastmod" : "2020-10-30"
+  "date": "2020-08-20",
+  "keywords": [
+    "fon file",
+    "fon file format",
+    "what is a fon file",
+    "file",
+    "fon example",
+    "fon file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "FON - ফন্ট লাইব্রেরি ফাইল",
+  "description": "FON ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি FON ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "FON",
+  "menu": {
+    "docs": {
+      "parent": "font",
+      "identifier": "font-fon-bn"
+    }
+  },
+  "lastmod": "2020-10-30"
 }
 
 ## একটি FON ফাইল কি?

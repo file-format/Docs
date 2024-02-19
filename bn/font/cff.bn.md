@@ -1,20 +1,30 @@
 {
-  "date" : "2020-08-20",
-  "keywords" : [ "cff file", "cff file format", "what is a cff file", "file", "cff example", "cff file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "CFF - কমপ্যাক্ট ফন্ট ফাইল ফরম্যাট",
-  "description":"CFF ফাইল তৈরি এবং খুলতে CFF ফাইল বিন্যাস এবং API সম্পর্কে জানুন।",
-  "linktitle" : "CFF",
-  "menu" : {
-    "docs" : {
-      "parent" : "font"
-}
-},
-  "lastmod" : "2020-10-21"
+  "date": "2020-08-20",
+  "keywords": [
+    "cff file",
+    "cff file format",
+    "what is a cff file",
+    "file",
+    "cff example",
+    "cff file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "CFF - কমপ্যাক্ট ফন্ট ফাইল ফরম্যাট",
+  "description": "CFF ফাইল তৈরি এবং খুলতে CFF ফাইল বিন্যাস এবং API সম্পর্কে জানুন।",
+  "linktitle": "CFF",
+  "menu": {
+    "docs": {
+      "parent": "font",
+      "identifier": "font-cff-bn"
+    }
+  },
+  "lastmod": "2020-10-21"
 }
 
 ## একটি CFF ফাইল কি?

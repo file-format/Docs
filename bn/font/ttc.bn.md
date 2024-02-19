@@ -1,20 +1,26 @@
 {
-  "date" : "2021-02-25",
-  "keywords": [ "ttc file", "ttc file format", "extension", "format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "TTC - TrueType কালেকশন ফাইল ফরম্যাট",
-  "description":"একটি TrueType Collection (TTC) ফাইল একাধিক ফন্টকে একক ফাইলে একত্রিত করে। অ্যাপল এবং মাইক্রোসফ্ট উভয়ই ম্যাক এবং উইন্ডোজ অপারেটিং সিস্টেমে টিটিএফ ব্যবহার করেছে।",
-  "linktitle" : "TTC",
-  "menu" : {
-    "docs" : {
-      "parent" : "font"
-}
-},
-  "lastmod" : "2021-02-25"
+  "date": "2021-02-25",
+  "keywords": [
+    "ttc file",
+    "ttc file format",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "TTC - TrueType কালেকশন ফাইল ফরম্যাট",
+  "description": "একটি TrueType Collection (TTC) ফাইল একাধিক ফন্টকে একক ফাইলে একত্রিত করে। অ্যাপল এবং মাইক্রোসফ্ট উভয়ই ম্যাক এবং উইন্ডোজ অপারেটিং সিস্টেমে টিটিএফ ব্যবহার করেছে।",
+  "linktitle": "TTC",
+  "menu": {
+    "docs": {
+      "parent": "font",
+      "identifier": "font-ttc-bn"
+    }
+  },
+  "lastmod": "2021-02-25"
 }
 
 ## একটি TTC ফাইল কি?

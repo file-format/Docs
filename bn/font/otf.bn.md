@@ -1,20 +1,30 @@
 {
-  "date" : "2020-08-20",
-  "keywords" : [ "otf file", "otf file format", "what is a otf file", "file", "otf example", "otf file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "OTF - TrueType ফন্ট ফাইল ফরম্যাট",
-  "description":"OTF ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা OTF ফাইল তৈরি করতে এবং খুলতে পারে।",
-  "linktitle" : "OTF",
-  "menu" : {
-    "docs" : {
-      "parent" : "font"
-}
-},
-  "lastmod" : "2020-09-21"
+  "date": "2020-08-20",
+  "keywords": [
+    "otf file",
+    "otf file format",
+    "what is a otf file",
+    "file",
+    "otf example",
+    "otf file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "OTF - TrueType ফন্ট ফাইল ফরম্যাট",
+  "description": "OTF ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা OTF ফাইল তৈরি করতে এবং খুলতে পারে।",
+  "linktitle": "OTF",
+  "menu": {
+    "docs": {
+      "parent": "font",
+      "identifier": "font-otf-bn"
+    }
+  },
+  "lastmod": "2020-09-21"
 }
 
 ## একটি OTF ফাইল কি?

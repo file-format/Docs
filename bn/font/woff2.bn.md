@@ -1,19 +1,20 @@
 {
-  "date" : "2023-01-10",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "WOFF2 ফাইল - ওয়েব ওপেন ফন্ট ফরম্যাট 2.0 ফাইল",
-  "description":"একটি WOFF2 ফাইল এবং APIগুলি কী যেগুলি WOFF2 ফাইল তৈরি এবং খুলতে পারে সে সম্পর্কে জানুন৷",
-  "linktitle" : "WOFF2",
-  "menu" : {
-    "docs" : {
-      "parent" : "font"
-}
-},
-  "lastmod" : "2023-01-10"
+  "date": "2023-01-10",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "WOFF2 ফাইল - ওয়েব ওপেন ফন্ট ফরম্যাট 2.0 ফাইল",
+  "description": "একটি WOFF2 ফাইল এবং APIগুলি কী যেগুলি WOFF2 ফাইল তৈরি এবং খুলতে পারে সে সম্পর্কে জানুন৷",
+  "linktitle": "WOFF2",
+  "menu": {
+    "docs": {
+      "parent": "font",
+      "identifier": "font-woff2-bn"
+    }
+  },
+  "lastmod": "2023-01-10"
 }
 
 ## একটি WOFF2 ফাইল কি?

@@ -1,19 +1,20 @@
 {
-  "date" : "2023-01-13",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ODTTF ফাইল - অস্পষ্ট ওপেনটাইপ ফন্ট ফাইল বিন্যাস",
-  "description":"ODTTF ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি ODTTF ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "ODTTF",
-  "menu" : {
-    "docs" : {
-      "parent" : "font"
-}
-},
-  "lastmod" : "2023-01-13"
+  "date": "2023-01-13",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "ODTTF ফাইল - অস্পষ্ট ওপেনটাইপ ফন্ট ফাইল বিন্যাস",
+  "description": "ODTTF ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি ODTTF ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "ODTTF",
+  "menu": {
+    "docs": {
+      "parent": "font",
+      "identifier": "font-odttf-bn"
+    }
+  },
+  "lastmod": "2023-01-13"
 }
 
 ## একটি ODTTF ফাইল কি?

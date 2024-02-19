@@ -1,20 +1,30 @@
 {
-  "date" : "2020-08-20",
-  "keywords" : [ "jfproj file", "jfproj file format", "what is a jfproj file", "file", "jfproj example", "jfproj file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "JFPROJ - JSON ফন্ট প্রকল্প ফাইল বিন্যাস",
-  "description":"JFPROJ ফাইলগুলি হল Windows-এ Microsoft Font Maker ব্যবহার করে পেন ডিভাইসের সাহায্যে হাতে তৈরি ফন্ট ফাইল।",
-  "linktitle" : "JFPROJ",
-  "menu" : {
-    "docs" : {
-      "parent" : "font"
-}
-},
-  "lastmod" : "2020-09-24"
+  "date": "2020-08-20",
+  "keywords": [
+    "jfproj file",
+    "jfproj file format",
+    "what is a jfproj file",
+    "file",
+    "jfproj example",
+    "jfproj file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "JFPROJ - JSON ফন্ট প্রকল্প ফাইল বিন্যাস",
+  "description": "JFPROJ ফাইলগুলি হল Windows-এ Microsoft Font Maker ব্যবহার করে পেন ডিভাইসের সাহায্যে হাতে তৈরি ফন্ট ফাইল।",
+  "linktitle": "JFPROJ",
+  "menu": {
+    "docs": {
+      "parent": "font",
+      "identifier": "font-jfproj-bn"
+    }
+  },
+  "lastmod": "2020-09-24"
 }
 
 ## একটি JFPROJ ফাইল কি?

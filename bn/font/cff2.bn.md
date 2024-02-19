@@ -1,20 +1,30 @@
 {
-  "date" : "2020-08-20",
-  "keywords" : [ "cff2 file", "cff2 file format", "what is a cff2 file", "file", "cff2 example", "cff2 file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "CFF2 - কমপ্যাক্ট ফন্ট ফাইল ফরম্যাট সংস্করণ 2",
-  "description":"CFF2 ফাইল তৈরি এবং খুলতে CFF2 ফাইল বিন্যাস এবং API সম্পর্কে জানুন।",
-  "linktitle" : "CFF2",
-  "menu" : {
-    "docs" : {
-      "parent" : "font"
-}
-},
-  "lastmod" : "2020-10-21"
+  "date": "2020-08-20",
+  "keywords": [
+    "cff2 file",
+    "cff2 file format",
+    "what is a cff2 file",
+    "file",
+    "cff2 example",
+    "cff2 file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "CFF2 - কমপ্যাক্ট ফন্ট ফাইল ফরম্যাট সংস্করণ 2",
+  "description": "CFF2 ফাইল তৈরি এবং খুলতে CFF2 ফাইল বিন্যাস এবং API সম্পর্কে জানুন।",
+  "linktitle": "CFF2",
+  "menu": {
+    "docs": {
+      "parent": "font",
+      "identifier": "font-cff2-bn"
+    }
+  },
+  "lastmod": "2020-10-21"
 }
 
 ## একটি CFF2 ফাইল কি?

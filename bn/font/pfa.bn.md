@@ -1,20 +1,30 @@
 {
-  "date" : "2020-08-20",
-  "keywords" : [ "pfa file", "pfa file format", "what is a pfa file", "file", "pfa example", "pfa file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "PFA - প্রিন্টার ফন্ট Ascii ফাইল ফরম্যাট",
-  "description":"PFA ফাইল বিন্যাস এবং API সম্পর্কে জানুন যেগুলি PFA ফাইলগুলি তৈরি এবং খুলতে পারে।",
-  "linktitle" : "PFA",
-  "menu" : {
-    "docs" : {
-      "parent" : "font"
-}
-},
-  "lastmod" : "2020-09-30"
+  "date": "2020-08-20",
+  "keywords": [
+    "pfa file",
+    "pfa file format",
+    "what is a pfa file",
+    "file",
+    "pfa example",
+    "pfa file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "PFA - প্রিন্টার ফন্ট Ascii ফাইল ফরম্যাট",
+  "description": "PFA ফাইল বিন্যাস এবং API সম্পর্কে জানুন যেগুলি PFA ফাইলগুলি তৈরি এবং খুলতে পারে।",
+  "linktitle": "PFA",
+  "menu": {
+    "docs": {
+      "parent": "font",
+      "identifier": "font-pfa-bn"
+    }
+  },
+  "lastmod": "2020-09-30"
 }
 
 ## একটি PFA ফাইল কি?

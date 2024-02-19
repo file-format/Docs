@@ -1,20 +1,30 @@
 {
-  "date" : "2022-02-14",
-  "keywords" : [ "mfx file", "mfx file format", "what is an mfx file", "file", "mfx example", "mfx file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "MFX ফাইল - ম্যাক্সিস ফন্ট ফাইল ফরম্যাট",
-  "description":"MFX ফাইল তৈরি এবং খোলার জন্য MFX ফাইল ফরম্যাট এবং API সম্পর্কে জানুন।",
-  "linktitle" : "MFX",
-  "menu" : {
-    "docs" : {
-      "parent" : "font"
-}
-},
-  "lastmod" : "2022-02-14"
+  "date": "2022-02-14",
+  "keywords": [
+    "mfx file",
+    "mfx file format",
+    "what is an mfx file",
+    "file",
+    "mfx example",
+    "mfx file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "MFX ফাইল - ম্যাক্সিস ফন্ট ফাইল ফরম্যাট",
+  "description": "MFX ফাইল তৈরি এবং খোলার জন্য MFX ফাইল ফরম্যাট এবং API সম্পর্কে জানুন।",
+  "linktitle": "MFX",
+  "menu": {
+    "docs": {
+      "parent": "font",
+      "identifier": "font-mfx-bn"
+    }
+  },
+  "lastmod": "2022-02-14"
 }
 
 ## একটি MFX ফাইল কি?
