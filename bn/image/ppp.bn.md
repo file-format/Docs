@@ -1,19 +1,20 @@
 {
-  "date" : "2022-03-06",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "পিপিপি ফাইল - ফটোপ্যাড প্রকল্প ফাইল ফরম্যাট",
-  "description":"PSD ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি PSD ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "PPP",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
-}
-},
-  "lastmod" : "2022-03-06"
+  "date": "2022-03-06",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "পিপিপি ফাইল - ফটোপ্যাড প্রকল্প ফাইল ফরম্যাট",
+  "description": "PSD ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি PSD ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "PPP",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-ppp-bn"
+    }
+  },
+  "lastmod": "2022-03-06"
 }
 
 ## একটি PPP ফাইল কি?

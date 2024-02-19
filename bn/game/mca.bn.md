@@ -1,19 +1,20 @@
 {
-  "date" : "2022-12-13",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"MCA ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি MCA ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "MCA - Minecraft Anvil Region ফাইল ফরম্যাট",
-  "linktitle" : "MCA",
-  "menu" : {
-    "docs" : {
-      "parent" : "game"
-}
-},
-  "lastmod" : "2022-12-13"
+  "date": "2022-12-13",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "MCA ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি MCA ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "MCA - Minecraft Anvil Region ফাইল ফরম্যাট",
+  "linktitle": "MCA",
+  "menu": {
+    "docs": {
+      "parent": "game",
+      "identifier": "game-mca-bn"
+    }
+  },
+  "lastmod": "2022-12-13"
 }
 
 ## একটি MCA ফাইল কি?

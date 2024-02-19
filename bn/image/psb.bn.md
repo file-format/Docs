@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "psb file", "psb file format", "what is a psb file", "file", "psb example", "psb file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "PSB - ফটোশপ বিগ ইমেজ ফাইল ফরম্যাট",
-  "description":"PSB ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি PSB ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "PSB",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "keywords": [
+    "psb file",
+    "psb file format",
+    "what is a psb file",
+    "file",
+    "psb example",
+    "psb file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "PSB - ফটোশপ বিগ ইমেজ ফাইল ফরম্যাট",
+  "description": "PSB ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি PSB ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "PSB",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-psb-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি PSB ফাইল কি?

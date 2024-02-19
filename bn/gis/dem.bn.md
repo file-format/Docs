@@ -1,19 +1,20 @@
 {
-  "date" : "2021-08-24",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "DEM - ডিজিটাল এলিভেশন মডেল ফাইল",
-  "description":"DEM ফাইল বিন্যাস এবং API সম্পর্কে জানুন যেগুলি DEM ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "DEM",
-  "menu" : {
-    "docs" : {
-      "parent" : "gis"
-}
-},
-  "lastmod" : "2021-08-24"
+  "date": "2021-08-24",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "DEM - ডিজিটাল এলিভেশন মডেল ফাইল",
+  "description": "DEM ফাইল বিন্যাস এবং API সম্পর্কে জানুন যেগুলি DEM ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "DEM",
+  "menu": {
+    "docs": {
+      "parent": "gis",
+      "identifier": "gis-dem-bn"
+    }
+  },
+  "lastmod": "2021-08-24"
 }
 
 ## একটি DEM ফাইল কি?

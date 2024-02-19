@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "dcm file", "dcm file format", "what is a dcm file", "file", "dcm example", "dcm file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "DCM ফাইল ফরম্যাট - ডিজিটাল চিকিৎসা তথ্য ফাইল",
-  "description":"DCM ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি DCM ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "DCM",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
-}
-},
-  "lastmod" : "2021-07-03"
+  "date": "2019-10-11",
+  "keywords": [
+    "dcm file",
+    "dcm file format",
+    "what is a dcm file",
+    "file",
+    "dcm example",
+    "dcm file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "DCM ফাইল ফরম্যাট - ডিজিটাল চিকিৎসা তথ্য ফাইল",
+  "description": "DCM ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি DCM ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "DCM",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-dcm-bn"
+    }
+  },
+  "lastmod": "2021-07-03"
 }
 
 ## একটি DCM ফাইল কি?

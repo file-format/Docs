@@ -1,19 +1,20 @@
 {
-  "date" : "2021-08-26",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "APR - ArcView প্রকল্প ফাইল",
-  "description":"একটি এপিআর ফাইল এবং এপিআই কী সে সম্পর্কে জানুন যা এপিএল ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "APR",
-  "menu" : {
-    "docs" : {
-      "parent" : "gis"
-}
-},
-  "lastmod" : "2021-09-26"
+  "date": "2021-08-26",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "APR - ArcView প্রকল্প ফাইল",
+  "description": "একটি এপিআর ফাইল এবং এপিআই কী সে সম্পর্কে জানুন যা এপিএল ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "APR",
+  "menu": {
+    "docs": {
+      "parent": "gis",
+      "identifier": "gis-apr-bn"
+    }
+  },
+  "lastmod": "2021-09-26"
 }
 
 ## একটি APR ফাইল কি?

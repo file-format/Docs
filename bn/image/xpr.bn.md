@@ -1,20 +1,30 @@
 {
-  "date" : "2022-03-21",
-  "keywords" : [ "xpr file", "xpr file format", "what is an xpr file", "file", "xpr example", "xpr file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "XPR ফাইল ফরম্যাট - মাইক্রোসফট এক্সপ্রেশন ডিজাইন গ্রাফিক ফাইল",
-  "description":"XPR ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি XPR ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "XPR",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
-}
-},
-  "lastmod" : "2022-03-21"
+  "date": "2022-03-21",
+  "keywords": [
+    "xpr file",
+    "xpr file format",
+    "what is an xpr file",
+    "file",
+    "xpr example",
+    "xpr file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "XPR ফাইল ফরম্যাট - মাইক্রোসফট এক্সপ্রেশন ডিজাইন গ্রাফিক ফাইল",
+  "description": "XPR ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি XPR ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "XPR",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-xpr-bn"
+    }
+  },
+  "lastmod": "2022-03-21"
 }
 
 ## একটি XPR ফাইল কি?

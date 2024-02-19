@@ -1,20 +1,28 @@
 {
-  "date" : "2021-09-08",
-  "keywords" : [ "fomod file", "format", "what is a fomod file", "file", "fomod example","extension"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"FOMOD ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি FOMOD ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "title" : "FOMOD - ফলআউট মোড আর্কাইভ ফাইল",
-  "linktitle" : "FOMOD",
-  "menu" : {
-    "docs" : {
-      "parent" : "game"
-}
-},
-  "lastmod" : "2022-01-06"
+  "date": "2021-09-08",
+  "keywords": [
+    "fomod file",
+    "format",
+    "what is a fomod file",
+    "file",
+    "fomod example",
+    "extension"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "FOMOD ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি FOMOD ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "title": "FOMOD - ফলআউট মোড আর্কাইভ ফাইল",
+  "linktitle": "FOMOD",
+  "menu": {
+    "docs": {
+      "parent": "game",
+      "identifier": "game-fomod-bn"
+    }
+  },
+  "lastmod": "2022-01-06"
 }
 
 ## একটি FOMOD ফাইল কি?

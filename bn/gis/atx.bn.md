@@ -1,19 +1,20 @@
 {
-  "date" : "2021-08-24",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ATX - ArcGIS অ্যাট্রিবিউট ইনডেক্স ফাইল",
-  "description":"ATX ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি ATX ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "ATX",
-  "menu" : {
-    "docs" : {
-      "parent" : "gis"
-}
-},
-  "lastmod" : "2021-08-24"
+  "date": "2021-08-24",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "ATX - ArcGIS অ্যাট্রিবিউট ইনডেক্স ফাইল",
+  "description": "ATX ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি ATX ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "ATX",
+  "menu": {
+    "docs": {
+      "parent": "gis",
+      "identifier": "gis-atx-bn"
+    }
+  },
+  "lastmod": "2021-08-24"
 }
 
 ## একটি ATX ফাইল কি?

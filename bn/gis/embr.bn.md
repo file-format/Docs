@@ -1,19 +1,20 @@
 {
-  "date" : "2021-08-24",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "EMBR - স্থানিক জিওডাটাবেস ফাইল বিন্যাস",
-  "description":"EMBR ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি EMBR ফাইল তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "EMBR",
-  "menu" : {
-    "docs" : {
-      "parent" : "gis"
-}
-},
-  "lastmod" : "2021-08-24"
+  "date": "2021-08-24",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "EMBR - স্থানিক জিওডাটাবেস ফাইল বিন্যাস",
+  "description": "EMBR ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি EMBR ফাইল তৈরি এবং খুলতে পারে৷",
+  "linktitle": "EMBR",
+  "menu": {
+    "docs": {
+      "parent": "gis",
+      "identifier": "gis-embr-bn"
+    }
+  },
+  "lastmod": "2021-08-24"
 }
 
 ## একটি EMBR ফাইল কি?

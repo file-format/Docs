@@ -1,19 +1,20 @@
 {
-  "date" : "2022-07-21",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "HDR ফাইল ফরম্যাট - একটি HDR ইমেজ ফাইল কি?",
-  "description":"এইচডিআর ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা এইচডিআর ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "HDR",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
-}
-},
-  "lastmod" : "2022-07-21"
+  "date": "2022-07-21",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "HDR ফাইল ফরম্যাট - একটি HDR ইমেজ ফাইল কি?",
+  "description": "এইচডিআর ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা এইচডিআর ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "HDR",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-hdr-bn"
+    }
+  },
+  "lastmod": "2022-07-21"
 }
 
 ## একটি HDR ফাইল কি?

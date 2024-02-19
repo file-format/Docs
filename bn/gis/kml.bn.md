@@ -1,20 +1,29 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "kml file", "what is an kml file", "file", "kml example", "kml file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "KML - কীহোল মার্কআপ ভাষা",
-  "description":"KML ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা KML ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "KML",
-  "menu" : {
-    "docs" : {
-      "parent" : "gis"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "keywords": [
+    "kml file",
+    "what is an kml file",
+    "file",
+    "kml example",
+    "kml file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "KML - কীহোল মার্কআপ ভাষা",
+  "description": "KML ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা KML ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "KML",
+  "menu": {
+    "docs": {
+      "parent": "gis",
+      "identifier": "gis-kml-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি KML ফাইল কি?

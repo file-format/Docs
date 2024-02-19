@@ -1,19 +1,20 @@
 {
-  "date" : "2022-12-21",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "PTM ফাইল - MapPoint ম্যাপ ফাইল ফরম্যাট",
-  "description":"পেটিএম ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা পেটিএম ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "PTM",
-  "menu" : {
-    "docs" : {
-      "parent" : "gis"
-}
-},
-  "lastmod" : "2022-12-21"
+  "date": "2022-12-21",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "PTM ফাইল - MapPoint ম্যাপ ফাইল ফরম্যাট",
+  "description": "পেটিএম ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা পেটিএম ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "PTM",
+  "menu": {
+    "docs": {
+      "parent": "gis",
+      "identifier": "gis-ptm-bn"
+    }
+  },
+  "lastmod": "2022-12-21"
 }
 
 ## পেটিএম ফাইল কি?

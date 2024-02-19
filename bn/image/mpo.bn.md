@@ -1,19 +1,20 @@
 {
-  "date" : "2022-02-23",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "এমপিও ফাইল - মাল্টি পিকচার অবজেক্ট ফাইল",
-  "description":"MPO ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা MPO ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "MPO",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
-}
-},
-  "lastmod" : "2022-02-23"
+  "date": "2022-02-23",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "এমপিও ফাইল - মাল্টি পিকচার অবজেক্ট ফাইল",
+  "description": "MPO ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা MPO ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "MPO",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-mpo-bn"
+    }
+  },
+  "lastmod": "2022-02-23"
 }
 
 ## একটি এমপিও ফাইল কি?

@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "qml file", "qml file format", "what is an qml file", "file", "qml example", "qml file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "QML - QGIS শৈলী ফাইল বিন্যাস",
-  "description":"QML ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি QML ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "QML",
-  "menu" : {
-    "docs" : {
-      "parent" : "gis"
-}
-},
-  "lastmod" : "2021-03-14"
+  "date": "2019-10-11",
+  "keywords": [
+    "qml file",
+    "qml file format",
+    "what is an qml file",
+    "file",
+    "qml example",
+    "qml file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "QML - QGIS শৈলী ফাইল বিন্যাস",
+  "description": "QML ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি QML ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "QML",
+  "menu": {
+    "docs": {
+      "parent": "gis",
+      "identifier": "gis-qml-bn"
+    }
+  },
+  "lastmod": "2021-03-14"
 }
 
 ## একটি QML ফাইল কি?

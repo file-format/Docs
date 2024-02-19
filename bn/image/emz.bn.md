@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "emz file", "emz file format", "what is a emz file", "file", "emz example", "emz file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "EMZ ফাইল ফরম্যাট - একটি উইন্ডোজ কম্প্রেসড এনহান্সড মেটা ফাইল",
-  "description":"EMZ ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি EMZ ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "EMZ",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
-}
-},
-  "lastmod" : "2020-10-24"
+  "date": "2019-10-11",
+  "keywords": [
+    "emz file",
+    "emz file format",
+    "what is a emz file",
+    "file",
+    "emz example",
+    "emz file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "EMZ ফাইল ফরম্যাট - একটি উইন্ডোজ কম্প্রেসড এনহান্সড মেটা ফাইল",
+  "description": "EMZ ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি EMZ ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "EMZ",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-emz-bn"
+    }
+  },
+  "lastmod": "2020-10-24"
 }
 
 ## একটি EMZ ফাইল কি?

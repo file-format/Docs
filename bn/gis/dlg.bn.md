@@ -1,20 +1,30 @@
 {
-  "date" : "2021-07-30",
-  "keywords" : [ "dlg file", "dlg file format", "what is a dlg file", "file", "dlg example", "dlg file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "DLG - শেপফাইল শেপ ইনডেক্স ফরম্যাট",
-  "description":"DLG ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি DLG ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "DLG",
-  "menu" : {
-    "docs" : {
-      "parent" : "gis"
-}
-},
-  "lastmod" : "2021-07-30"
+  "date": "2021-07-30",
+  "keywords": [
+    "dlg file",
+    "dlg file format",
+    "what is a dlg file",
+    "file",
+    "dlg example",
+    "dlg file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "DLG - শেপফাইল শেপ ইনডেক্স ফরম্যাট",
+  "description": "DLG ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি DLG ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "DLG",
+  "menu": {
+    "docs": {
+      "parent": "gis",
+      "identifier": "gis-dlg-bn"
+    }
+  },
+  "lastmod": "2021-07-30"
 }
 
 ## একটি DLG ফাইল কি?

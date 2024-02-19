@@ -1,19 +1,20 @@
 {
-  "date" : "2021-08-24",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "NM2 - Navitel মানচিত্র ফাইল",
-  "description":"NM2 ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা NM2 ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "NM2",
-  "menu" : {
-    "docs" : {
-      "parent" : "gis"
-}
-},
-  "lastmod" : "2021-08-24"
+  "date": "2021-08-24",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "NM2 - Navitel মানচিত্র ফাইল",
+  "description": "NM2 ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা NM2 ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "NM2",
+  "menu": {
+    "docs": {
+      "parent": "gis",
+      "identifier": "gis-nm2-bn"
+    }
+  },
+  "lastmod": "2021-08-24"
 }
 
 ## একটি NM2 ফাইল কি?

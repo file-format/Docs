@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "wmz file", "wmz file format", "what is a wmz file", "file", "wmz example", "wmz file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "WMZ ফাইল ফরম্যাট - সংকুচিত উইন্ডোজ মেটাফাইল",
-  "description":"WMZ ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি WMZ ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "WMZ",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
-}
-},
-  "lastmod" : "2020-10-24"
+  "date": "2019-10-11",
+  "keywords": [
+    "wmz file",
+    "wmz file format",
+    "what is a wmz file",
+    "file",
+    "wmz example",
+    "wmz file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "WMZ ফাইল ফরম্যাট - সংকুচিত উইন্ডোজ মেটাফাইল",
+  "description": "WMZ ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি WMZ ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "WMZ",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-wmz-bn"
+    }
+  },
+  "lastmod": "2020-10-24"
 }
 
 ## একটি WMZ ফাইল কি?

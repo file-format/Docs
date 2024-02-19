@@ -1,19 +1,20 @@
 {
-  "date" : "2022-03-16",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "DCX - Zsoft মাল্টি-পেজ পেইন্টব্রাশ ফাইল",
-  "description":"DCX ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা DCX ফাইল তৈরি করতে এবং খুলতে পারে।",
-  "linktitle" : "DCX",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
-}
-},
-  "lastmod" : "2022-03-16"
+  "date": "2022-03-16",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "DCX - Zsoft মাল্টি-পেজ পেইন্টব্রাশ ফাইল",
+  "description": "DCX ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা DCX ফাইল তৈরি করতে এবং খুলতে পারে।",
+  "linktitle": "DCX",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-dcx-bn"
+    }
+  },
+  "lastmod": "2022-03-16"
 }
 
 ## একটি DCX ফাইল কি?

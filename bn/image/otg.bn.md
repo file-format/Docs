@@ -1,20 +1,30 @@
 {
-  "date" : "2020-01-10",
-  "keywords" : [ "otg file", "otg file format", "what is a otg file", "file", "otg example", "otg file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "OTG - OpenDocument Drawing টেমপ্লেট ফাইল ফরম্যাট",
-  "description":"OTG ফাইল ফরম্যাট এবং API গুলি সম্পর্কে জানুন যা OTG ফাইল তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "OTG",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
-}
-},
-  "lastmod" : "2020-01-10"
+  "date": "2020-01-10",
+  "keywords": [
+    "otg file",
+    "otg file format",
+    "what is a otg file",
+    "file",
+    "otg example",
+    "otg file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "OTG - OpenDocument Drawing টেমপ্লেট ফাইল ফরম্যাট",
+  "description": "OTG ফাইল ফরম্যাট এবং API গুলি সম্পর্কে জানুন যা OTG ফাইল তৈরি এবং খুলতে পারে৷",
+  "linktitle": "OTG",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-otg-bn"
+    }
+  },
+  "lastmod": "2020-01-10"
 }
 
 ## একটি OTG ফাইল কি?

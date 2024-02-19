@@ -1,19 +1,20 @@
 {
-  "date" : "2022-12-07",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "DT0 ফাইল - DTED লেভেল 0 ফাইল ফরম্যাট",
-  "description":"DT0 ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা DT0 ফাইল তৈরি করতে এবং খুলতে পারে।",
-  "linktitle" : "DT0",
-  "menu" : {
-    "docs" : {
-      "parent" : "gis"
-}
-},
-  "lastmod" : "2022-12-07"
+  "date": "2022-12-07",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "DT0 ফাইল - DTED লেভেল 0 ফাইল ফরম্যাট",
+  "description": "DT0 ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা DT0 ফাইল তৈরি করতে এবং খুলতে পারে।",
+  "linktitle": "DT0",
+  "menu": {
+    "docs": {
+      "parent": "gis",
+      "identifier": "gis-dt0-bn"
+    }
+  },
+  "lastmod": "2022-12-07"
 }
 
 ## একটি DT0 ফাইল কি?

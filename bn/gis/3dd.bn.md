@@ -1,19 +1,20 @@
 {
-  "date" : "2021-09-19",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "3DD - ArcGlobe ডকুমেন্ট",
-  "description":"3DD GIS ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা 3DD ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "3DD",
-  "menu" : {
-    "docs" : {
-      "parent" : "gis"
-}
-},
-  "lastmod" : "2021-09-19"
+  "date": "2021-09-19",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "3DD - ArcGlobe ডকুমেন্ট",
+  "description": "3DD GIS ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা 3DD ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "3DD",
+  "menu": {
+    "docs": {
+      "parent": "gis",
+      "identifier": "gis-3dd-bn"
+    }
+  },
+  "lastmod": "2021-09-19"
 }
 
 ## একটি 3DD ফাইল কি?

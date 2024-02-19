@@ -1,20 +1,30 @@
 {
-  "date" : "2021-07-29",
-  "keywords" : [ "gpkg file", "gpkg file format", "what is a gpkg file", "file", "gpkg example", "gpkg file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "GPKG - জিওপ্যাকেজ ফরম্যাট ফাইল",
-  "description":"GPKG ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি GPKG ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "GPKG",
-  "menu" : {
-    "docs" : {
-      "parent" : "gis"
-}
-},
-  "lastmod" : "2021-07-29"
+  "date": "2021-07-29",
+  "keywords": [
+    "gpkg file",
+    "gpkg file format",
+    "what is a gpkg file",
+    "file",
+    "gpkg example",
+    "gpkg file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "GPKG - জিওপ্যাকেজ ফরম্যাট ফাইল",
+  "description": "GPKG ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি GPKG ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "GPKG",
+  "menu": {
+    "docs": {
+      "parent": "gis",
+      "identifier": "gis-gpkg-bn"
+    }
+  },
+  "lastmod": "2021-07-29"
 }
 
 ## একটি GPKG ফাইল কি?

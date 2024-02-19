@@ -1,19 +1,20 @@
 {
-  "date" : "2022-04-17",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "JPC ফাইল ফরম্যাট - JPEG 2000 কোড স্ট্রীম ফাইল",
-  "description":"JPC ফাইল বিন্যাস এবং API সম্পর্কে জানুন যেগুলি JPC ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "JPC",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
-}
-},
-  "lastmod" : "2022-04-17"
+  "date": "2022-04-17",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "JPC ফাইল ফরম্যাট - JPEG 2000 কোড স্ট্রীম ফাইল",
+  "description": "JPC ফাইল বিন্যাস এবং API সম্পর্কে জানুন যেগুলি JPC ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "JPC",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-jpc-bn"
+    }
+  },
+  "lastmod": "2022-04-17"
 }
 
 ## একটি JPC ফাইল কি?

@@ -1,20 +1,30 @@
 {
-  "date" : "2021-09-08",
-  "keywords" : [ "mgx file", "mgx file format", "what is a mgx file", "file", "mgx example", "mgx file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"Age of Empires 2 সম্প্রসারণ রিপ্লে MGX ফাইল ফরম্যাট এবং APIs সম্পর্কে জানুন যা MGX ফাইল তৈরি ও খুলতে পারে।",
-  "title" : "MGX - সাম্রাজ্যের বয়স 2 সম্প্রসারণ রিপ্লে",
-  "linktitle" : "MGX",
-  "menu" : {
-    "docs" : {
-      "parent" : "game"
-}
-},
-  "lastmod" : "2021-09-08"
+  "date": "2021-09-08",
+  "keywords": [
+    "mgx file",
+    "mgx file format",
+    "what is a mgx file",
+    "file",
+    "mgx example",
+    "mgx file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "Age of Empires 2 সম্প্রসারণ রিপ্লে MGX ফাইল ফরম্যাট এবং APIs সম্পর্কে জানুন যা MGX ফাইল তৈরি ও খুলতে পারে।",
+  "title": "MGX - সাম্রাজ্যের বয়স 2 সম্প্রসারণ রিপ্লে",
+  "linktitle": "MGX",
+  "menu": {
+    "docs": {
+      "parent": "game",
+      "identifier": "game-mgx-bn"
+    }
+  },
+  "lastmod": "2021-09-08"
 }
 
 ## একটি MGX ফাইল কি?

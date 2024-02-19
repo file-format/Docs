@@ -1,20 +1,30 @@
 {
-  "date" : "2021-02-10",
-  "keywords" : [ "jpx file", "jpx file format", "what is a jpx file", "file", "jpx example", "jpx file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "JPX - ইমেজ ফাইল ফরম্যাট",
-  "description":"JPX ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি JPX ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "JPX",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
-}
-},
-  "lastmod" : "2021-02-10"
+  "date": "2021-02-10",
+  "keywords": [
+    "jpx file",
+    "jpx file format",
+    "what is a jpx file",
+    "file",
+    "jpx example",
+    "jpx file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "JPX - ইমেজ ফাইল ফরম্যাট",
+  "description": "JPX ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি JPX ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "JPX",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-jpx-bn"
+    }
+  },
+  "lastmod": "2021-02-10"
 }
 
 ## একটি JPX ফাইল কি? ##

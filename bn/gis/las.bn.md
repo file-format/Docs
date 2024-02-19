@@ -1,19 +1,20 @@
 {
-  "date" : "2023-07-18",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "LAS - Lidar LASer ফাইল ফরম্যাট",
-  "description":"LAS ফাইল বিন্যাস এবং API সম্পর্কে জানুন যেগুলি LAS ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "LAS",
-  "menu" : {
-    "docs" : {
-      "parent" : "gis"
-}
-},
-  "lastmod" : "2023-07-18"
+  "date": "2023-07-18",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "LAS - Lidar LASer ফাইল ফরম্যাট",
+  "description": "LAS ফাইল বিন্যাস এবং API সম্পর্কে জানুন যেগুলি LAS ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "LAS",
+  "menu": {
+    "docs": {
+      "parent": "gis",
+      "identifier": "gis-las-bn"
+    }
+  },
+  "lastmod": "2023-07-18"
 }
 
 ## একটি LAS ফাইল কি?

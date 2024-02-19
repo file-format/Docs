@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "djvu file", "djvu file format", "what is a djvu file", "file", "djvu example", "djvu file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "DJVU ফাইল ফরম্যাট",
-  "description":"DJVU ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি DJVU ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "DJVU",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "keywords": [
+    "djvu file",
+    "djvu file format",
+    "what is a djvu file",
+    "file",
+    "djvu example",
+    "djvu file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "DJVU ফাইল ফরম্যাট",
+  "description": "DJVU ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি DJVU ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "DJVU",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-djvu-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি DJVU ফাইল কি?

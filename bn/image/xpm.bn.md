@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "xpm file", "xpm file format", "what is a xpm file", "file", "xpm example", "xpm file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "XPM - X PixMap ফাইল ফরম্যাট",
-  "description":"XPM ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি XPM ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "XPM",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "keywords": [
+    "xpm file",
+    "xpm file format",
+    "what is a xpm file",
+    "file",
+    "xpm example",
+    "xpm file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "XPM - X PixMap ফাইল ফরম্যাট",
+  "description": "XPM ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি XPM ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "XPM",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-xpm-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি XPM ফাইল কি?

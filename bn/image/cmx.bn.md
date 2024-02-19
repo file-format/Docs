@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "cmx file", "cmx file format", "what is a cmx file", "file", "cmx example", "cmx file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "CMX - কোরেল মেটাফাইল এক্সচেঞ্জ ইমেজ",
-  "description":"CMX ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি CMX ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "CMX",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
-}
-},
-  "lastmod" : "2020-08-03"
+  "date": "2019-10-11",
+  "keywords": [
+    "cmx file",
+    "cmx file format",
+    "what is a cmx file",
+    "file",
+    "cmx example",
+    "cmx file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "CMX - কোরেল মেটাফাইল এক্সচেঞ্জ ইমেজ",
+  "description": "CMX ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি CMX ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "CMX",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-cmx-bn"
+    }
+  },
+  "lastmod": "2020-08-03"
 }
 
 ## একটি CMX ফাইল কি?

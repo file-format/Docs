@@ -1,19 +1,20 @@
 {
-  "date" : "2022-05-06",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "FIT ফাইল ফরম্যাট- গারমিন অ্যাক্টিভিটি ফাইল",
-  "description":"FIT ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি FIT ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "FIT",
-  "menu" : {
-    "docs" : {
-      "parent" : "gis"
-}
-},
-  "lastmod" : "2022-05-06"
+  "date": "2022-05-06",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "FIT ফাইল ফরম্যাট- গারমিন অ্যাক্টিভিটি ফাইল",
+  "description": "FIT ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি FIT ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "FIT",
+  "menu": {
+    "docs": {
+      "parent": "gis",
+      "identifier": "gis-fit-bn"
+    }
+  },
+  "lastmod": "2022-05-06"
 }
 
 ## একটি FIT ফাইল কি?

@@ -1,19 +1,20 @@
 {
-  "date" : "2021-08-24",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "SSF - ট্রিম্বল স্ট্যান্ডার্ড স্টোরেজ ফরম্যাট ফাইল",
-  "description":"SSF ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি SSF ফাইলগুলি তৈরি করতে এবং খুলতে পারে৷",
-  "linktitle" : "SSF",
-  "menu" : {
-    "docs" : {
-      "parent" : "gis"
-}
-},
-  "lastmod" : "2021-08-24"
+  "date": "2021-08-24",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "SSF - ট্রিম্বল স্ট্যান্ডার্ড স্টোরেজ ফরম্যাট ফাইল",
+  "description": "SSF ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি SSF ফাইলগুলি তৈরি করতে এবং খুলতে পারে৷",
+  "linktitle": "SSF",
+  "menu": {
+    "docs": {
+      "parent": "gis",
+      "identifier": "gis-ssf-bn"
+    }
+  },
+  "lastmod": "2021-08-24"
 }
 
 ## একটি SSF ফাইল কি?

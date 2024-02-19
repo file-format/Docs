@@ -1,19 +1,20 @@
 {
-  "date" : "2021-08-24",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "DIV - DIVA-GIS প্রকল্প ফাইল",
-  "description":"DIV ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি DIV ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "DIV",
-  "menu" : {
-    "docs" : {
-      "parent" : "gis"
-}
-},
-  "lastmod" : "2021-08-24"
+  "date": "2021-08-24",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "DIV - DIVA-GIS প্রকল্প ফাইল",
+  "description": "DIV ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি DIV ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "DIV",
+  "menu": {
+    "docs": {
+      "parent": "gis",
+      "identifier": "gis-div-bn"
+    }
+  },
+  "lastmod": "2021-08-24"
 }
 
 ## একটি DIV ফাইল কি?

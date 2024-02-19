@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "shp file", "shp file format", "what is an shp file", "file", "shp example", "shp file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "SHP - ESRI শেপফাইল",
-  "description":"SHP ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি SHP ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "SHP",
-  "menu" : {
-    "docs" : {
-      "parent" : "gis"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "keywords": [
+    "shp file",
+    "shp file format",
+    "what is an shp file",
+    "file",
+    "shp example",
+    "shp file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "SHP - ESRI শেপফাইল",
+  "description": "SHP ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি SHP ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "SHP",
+  "menu": {
+    "docs": {
+      "parent": "gis",
+      "identifier": "gis-shp-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি SHP ফাইল কি?

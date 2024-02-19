@@ -1,20 +1,30 @@
 {
-  "date" : "2021-09-08",
-  "keywords" : [ "pcc file", "pcc file format", "what is a pcc file", "file", "pcc example", "pcc file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"Mass Effect PCC ফাইল ফরম্যাট এবং APIs সম্পর্কে জানুন যেগুলি PCC ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "PCC - গণ প্রভাব প্যাকেজ ফাইল",
-  "linktitle" : "PCC",
-  "menu" : {
-    "docs" : {
-      "parent" : "game"
-}
-},
-  "lastmod" : "2021-09-08"
+  "date": "2021-09-08",
+  "keywords": [
+    "pcc file",
+    "pcc file format",
+    "what is a pcc file",
+    "file",
+    "pcc example",
+    "pcc file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "Mass Effect PCC ফাইল ফরম্যাট এবং APIs সম্পর্কে জানুন যেগুলি PCC ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "PCC - গণ প্রভাব প্যাকেজ ফাইল",
+  "linktitle": "PCC",
+  "menu": {
+    "docs": {
+      "parent": "game",
+      "identifier": "game-pcc-bn"
+    }
+  },
+  "lastmod": "2021-09-08"
 }
 
 ## একটি PCC ফাইল কি?

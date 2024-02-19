@@ -1,20 +1,30 @@
 {
-  "date" : "2021-09-07",
-  "keywords" : [ "mcworld file", "mcworld file format", "what is a mcworld file", "file", "mcworld example", "mcworld file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"MCWORLD ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি MCWORLD ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "title" : "MCWORLD - মাইনক্রাফ্ট ওয়ার্ল্ড ব্যাকআপ ফাইল",
-  "linktitle" : "MCWORLD",
-  "menu" : {
-    "docs" : {
-      "parent" : "game"
-}
-},
-  "lastmod" : "2021-09-07"
+  "date": "2021-09-07",
+  "keywords": [
+    "mcworld file",
+    "mcworld file format",
+    "what is a mcworld file",
+    "file",
+    "mcworld example",
+    "mcworld file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "MCWORLD ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি MCWORLD ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "title": "MCWORLD - মাইনক্রাফ্ট ওয়ার্ল্ড ব্যাকআপ ফাইল",
+  "linktitle": "MCWORLD",
+  "menu": {
+    "docs": {
+      "parent": "game",
+      "identifier": "game-mcworld-bn"
+    }
+  },
+  "lastmod": "2021-09-07"
 }
 
 ## একটি MCWORLD ফাইল কি?

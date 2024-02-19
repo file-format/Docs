@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "dicom file", "dicom file format", "what is a dicom file", "file", "dicom example", "dicom file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "DICOM - ডিজিটাল ইমেজিং এবং কমিউনিকেশন ফাইল ফরম্যাট",
-  "description":"DICOM ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা DICOM ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "DICOM",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "keywords": [
+    "dicom file",
+    "dicom file format",
+    "what is a dicom file",
+    "file",
+    "dicom example",
+    "dicom file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "DICOM - ডিজিটাল ইমেজিং এবং কমিউনিকেশন ফাইল ফরম্যাট",
+  "description": "DICOM ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা DICOM ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "DICOM",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-dicom-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি DICOM ফাইল কি?

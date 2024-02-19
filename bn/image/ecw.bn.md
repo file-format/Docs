@@ -1,20 +1,30 @@
 {
-  "date" : "2021-26-08",
-  "keywords" : [ "ecw file", "ecw file format", "what is a ecw file", "file", "ecw example", "ecw file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ECW - উন্নত কম্প্রেশন ওয়েভলেট ইমেজ ফাইল",
-  "description":"ECW ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা ECW ফাইল তৈরি করতে এবং খুলতে পারে।",
-  "linktitle" : "ECW",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
-}
-},
-  "lastmod" : "2021-26-08"
+  "date": "2021-26-08",
+  "keywords": [
+    "ecw file",
+    "ecw file format",
+    "what is a ecw file",
+    "file",
+    "ecw example",
+    "ecw file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "ECW - উন্নত কম্প্রেশন ওয়েভলেট ইমেজ ফাইল",
+  "description": "ECW ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা ECW ফাইল তৈরি করতে এবং খুলতে পারে।",
+  "linktitle": "ECW",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-ecw-bn"
+    }
+  },
+  "lastmod": "2021-26-08"
 }
 
 ## একটি ECW ফাইল কি? ##

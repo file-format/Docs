@@ -1,19 +1,20 @@
 {
-  "date" : "2021-08-24",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "SP3 - NGS SP3 ফাইল",
-  "description":"SP3 ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা SP3 ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "SP3",
-  "menu" : {
-    "docs" : {
-      "parent" : "gis"
-}
-},
-  "lastmod" : "2021-09-29"
+  "date": "2021-08-24",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "SP3 - NGS SP3 ফাইল",
+  "description": "SP3 ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা SP3 ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "SP3",
+  "menu": {
+    "docs": {
+      "parent": "gis",
+      "identifier": "gis-sp3-bn"
+    }
+  },
+  "lastmod": "2021-09-29"
 }
 
 ## একটি SP3 ফাইল কি?

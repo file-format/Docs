@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "webp file", "webp file format", "what is a webp file", "file", "webp example", "webp file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "WEBP - গুগল রাস্টার ইমেজ ফাইল ফরম্যাট",
-  "description":"WEBP ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি WEBP ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "WEBP",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "keywords": [
+    "webp file",
+    "webp file format",
+    "what is a webp file",
+    "file",
+    "webp example",
+    "webp file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "WEBP - গুগল রাস্টার ইমেজ ফাইল ফরম্যাট",
+  "description": "WEBP ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি WEBP ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "WEBP",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-webp-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি WEBP ফাইল কি?

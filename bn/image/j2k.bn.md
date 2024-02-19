@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "j2k file", "j2k file format", "what is a j2k file", "file", "j2k example", "j2k file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "J2K",
-  "description":"J2K ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা J2K ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "J2K",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
-}
-},
-  "lastmod" : "2020-08-03"
+  "date": "2019-10-11",
+  "keywords": [
+    "j2k file",
+    "j2k file format",
+    "what is a j2k file",
+    "file",
+    "j2k example",
+    "j2k file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "J2K",
+  "description": "J2K ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা J2K ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "J2K",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-j2k-bn"
+    }
+  },
+  "lastmod": "2020-08-03"
 }
 
 ## একটি J2K ফাইল কি?

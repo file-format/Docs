@@ -1,19 +1,20 @@
 {
-  "date" : "2022-12-11",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"একটি BO2 ফাইল কি?",
-  "title" : "BO2 - Minecraft BO2 অবজেক্ট ফাইল ফরম্যাট",
-  "linktitle" : "BO2",
-  "menu" : {
-    "docs" : {
-      "parent" : "game"
-}
-},
-  "lastmod" : "2022-12-11"
+  "date": "2022-12-11",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "একটি BO2 ফাইল কি?",
+  "title": "BO2 - Minecraft BO2 অবজেক্ট ফাইল ফরম্যাট",
+  "linktitle": "BO2",
+  "menu": {
+    "docs": {
+      "parent": "game",
+      "identifier": "game-bo2-bn"
+    }
+  },
+  "lastmod": "2022-12-11"
 }
 
 ## একটি BO2 ফাইল কি?

@@ -1,19 +1,20 @@
 {
-  "date" : "2022-03-07",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "এমপিএস ফাইল ফরম্যাট - পকেট স্ট্রিট ম্যাপ ফাইল",
-  "description":"MPS ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি MPS ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "MPS",
-  "menu" : {
-    "docs" : {
-      "parent" : "gis"
-}
-},
-  "lastmod" : "2022-03-07"
+  "date": "2022-03-07",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "এমপিএস ফাইল ফরম্যাট - পকেট স্ট্রিট ম্যাপ ফাইল",
+  "description": "MPS ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি MPS ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "MPS",
+  "menu": {
+    "docs": {
+      "parent": "gis",
+      "identifier": "gis-mps-bn"
+    }
+  },
+  "lastmod": "2022-03-07"
 }
 
 ## একটি MPS ফাইল কি?

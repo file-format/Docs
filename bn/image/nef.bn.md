@@ -1,19 +1,20 @@
 {
-  "date" : "2022-04-20",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "NEF ফাইল বিন্যাস - Nikon ইলেকট্রনিক বিন্যাস RAW চিত্র",
-  "description":"NEF ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি NEF ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "NEF",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
-}
-},
-  "lastmod" : "2022-04-20"
+  "date": "2022-04-20",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "NEF ফাইল বিন্যাস - Nikon ইলেকট্রনিক বিন্যাস RAW চিত্র",
+  "description": "NEF ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি NEF ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "NEF",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-nef-bn"
+    }
+  },
+  "lastmod": "2022-04-20"
 }
 
 ## একটি NEF ফাইল কি?

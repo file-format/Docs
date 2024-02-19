@@ -1,19 +1,20 @@
 {
-  "date" : "2022-04-02",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "DDS ফাইল ফরম্যাট- ডাইরেক্ট ড্র সারফেস ইমেজ ফাইল",
-  "description":"DDS ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি DDS ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "DDS",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
-}
-},
-  "lastmod" : "2022-04-02"
+  "date": "2022-04-02",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "DDS ফাইল ফরম্যাট- ডাইরেক্ট ড্র সারফেস ইমেজ ফাইল",
+  "description": "DDS ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি DDS ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "DDS",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-dds-bn"
+    }
+  },
+  "lastmod": "2022-04-02"
 }
 
 ## একটি DDS ফাইল কি?

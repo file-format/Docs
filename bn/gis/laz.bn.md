@@ -1,19 +1,20 @@
 {
-  "date" : "2023-07-18",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "LAZ - সংকুচিত LIDAR ডেটা এক্সচেঞ্জ ফাইল",
-  "description":"LAZ ফাইল বিন্যাস এবং API সম্পর্কে জানুন যেগুলি LAZ ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "LAZ",
-  "menu" : {
-    "docs" : {
-      "parent" : "gis"
-}
-},
-  "lastmod" : "2023-07-18"
+  "date": "2023-07-18",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "LAZ - সংকুচিত LIDAR ডেটা এক্সচেঞ্জ ফাইল",
+  "description": "LAZ ফাইল বিন্যাস এবং API সম্পর্কে জানুন যেগুলি LAZ ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "LAZ",
+  "menu": {
+    "docs": {
+      "parent": "gis",
+      "identifier": "gis-laz-bn"
+    }
+  },
+  "lastmod": "2023-07-18"
 }
 
 ## একটি LAZ ফাইল কি?

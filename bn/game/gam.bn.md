@@ -1,20 +1,30 @@
 {
-  "date" : "2021-09-08",
-  "keywords" : [ "gam file", "gam file format", "what is a gam file", "file", "gam example", "gam file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"GAM ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি GAM ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "GAM - সংরক্ষিত গেম ফাইল",
-  "linktitle" : "GAM",
-  "menu" : {
-    "docs" : {
-      "parent" : "game"
-}
-},
-  "lastmod" : "2021-09-08"
+  "date": "2021-09-08",
+  "keywords": [
+    "gam file",
+    "gam file format",
+    "what is a gam file",
+    "file",
+    "gam example",
+    "gam file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "GAM ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি GAM ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "GAM - সংরক্ষিত গেম ফাইল",
+  "linktitle": "GAM",
+  "menu": {
+    "docs": {
+      "parent": "game",
+      "identifier": "game-gam-bn"
+    }
+  },
+  "lastmod": "2021-09-08"
 }
 
 ## একটি GAM ফাইল কি?

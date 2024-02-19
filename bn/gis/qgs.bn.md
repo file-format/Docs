@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "qgs file", "qgs file format", "what is a qgs file", "file", "qgs example", "qgs file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "QGS - QGIS প্রকল্প ফাইল বিন্যাস",
-  "description":"QGS ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি QGS ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "QGS",
-  "menu" : {
-    "docs" : {
-      "parent" : "gis"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "keywords": [
+    "qgs file",
+    "qgs file format",
+    "what is a qgs file",
+    "file",
+    "qgs example",
+    "qgs file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "QGS - QGIS প্রকল্প ফাইল বিন্যাস",
+  "description": "QGS ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি QGS ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "QGS",
+  "menu": {
+    "docs": {
+      "parent": "gis",
+      "identifier": "gis-qgs-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি QGS ফাইল কি?

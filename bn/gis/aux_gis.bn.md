@@ -1,19 +1,20 @@
 {
-  "date" : "2021-08-24",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "AUX - সহায়ক ফাইল",
-  "description":"AUX ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা AUX ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "AUX",
-  "menu" : {
-    "docs" : {
-      "parent" : "gis"
-}
-},
-  "lastmod" : "2021-08-24"
+  "date": "2021-08-24",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "AUX - সহায়ক ফাইল",
+  "description": "AUX ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা AUX ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "AUX",
+  "menu": {
+    "docs": {
+      "parent": "gis",
+      "identifier": "gis-aux_gis-bn"
+    }
+  },
+  "lastmod": "2021-08-24"
 }
 
 ## একটি AUX ফাইল কি?

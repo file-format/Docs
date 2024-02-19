@@ -1,20 +1,29 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "gml file", "what is an gml file", "file", "gml example", "gml file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "GML - ভূগোল মার্কআপ ভাষা ফাইল বিন্যাস",
-  "description":"GML ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি GML ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "GML",
-  "menu" : {
-    "docs" : {
-      "parent" : "gis"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "keywords": [
+    "gml file",
+    "what is an gml file",
+    "file",
+    "gml example",
+    "gml file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "GML - ভূগোল মার্কআপ ভাষা ফাইল বিন্যাস",
+  "description": "GML ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি GML ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "GML",
+  "menu": {
+    "docs": {
+      "parent": "gis",
+      "identifier": "gis-gml-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি GML ফাইল কি?

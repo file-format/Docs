@@ -1,20 +1,29 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "geojson file", "what is an geojson file", "file", "geojson example", "geojson file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "GeoJSON - JSON ভিত্তিক ভৌগলিক ফাইল বিন্যাস",
-  "description":"GeoJSON ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা GeoJSON ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "GeoJSON",
-  "menu" : {
-    "docs" : {
-      "parent" : "gis"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "keywords": [
+    "geojson file",
+    "what is an geojson file",
+    "file",
+    "geojson example",
+    "geojson file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "GeoJSON - JSON ভিত্তিক ভৌগলিক ফাইল বিন্যাস",
+  "description": "GeoJSON ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা GeoJSON ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "GeoJSON",
+  "menu": {
+    "docs": {
+      "parent": "gis",
+      "identifier": "gis-geojson-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি GeoJSON ফাইল কি?

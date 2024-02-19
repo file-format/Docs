@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "odg file", "odg file format", "what is an odg file", "file", "odg example", "odg file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ODG ফাইল ফরম্যাট",
-  "description":"ODG ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি ODG ফাইল তৈরি করতে এবং খুলতে পারে৷",
-  "linktitle" : "ODG",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "keywords": [
+    "odg file",
+    "odg file format",
+    "what is an odg file",
+    "file",
+    "odg example",
+    "odg file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "ODG ফাইল ফরম্যাট",
+  "description": "ODG ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি ODG ফাইল তৈরি করতে এবং খুলতে পারে৷",
+  "linktitle": "ODG",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-odg-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি ODG ফাইল কি?

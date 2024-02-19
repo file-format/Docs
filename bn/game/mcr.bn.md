@@ -1,19 +1,20 @@
 {
-  "date" : "2022-12-13",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"MCR ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি MCR ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "MCR - Minecraft অঞ্চল ফাইল বিন্যাস",
-  "linktitle" : "MCR",
-  "menu" : {
-    "docs" : {
-      "parent" : "game"
-}
-},
-  "lastmod" : "2022-12-14"
+  "date": "2022-12-13",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "MCR ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি MCR ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "MCR - Minecraft অঞ্চল ফাইল বিন্যাস",
+  "linktitle": "MCR",
+  "menu": {
+    "docs": {
+      "parent": "game",
+      "identifier": "game-mcr-bn"
+    }
+  },
+  "lastmod": "2022-12-14"
 }
 
 ## একটি MCR ফাইল কি?

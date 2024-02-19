@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "mng file", "mng file format", "what is a mng file", "file", "mng example", "mng file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "MNG ফাইল ফরম্যাট - একাধিক ইমেজ নেটওয়ার্ক গ্রাফিক্স ফাইল ফরম্যাট",
-  "description":"MNG ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি MNG ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "MNG",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "keywords": [
+    "mng file",
+    "mng file format",
+    "what is a mng file",
+    "file",
+    "mng example",
+    "mng file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "MNG ফাইল ফরম্যাট - একাধিক ইমেজ নেটওয়ার্ক গ্রাফিক্স ফাইল ফরম্যাট",
+  "description": "MNG ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি MNG ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "MNG",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-mng-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি MNG ফাইল কি?

@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "gif file", "gif file format", "what is a gif file", "file", "gif example", "gif file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "GIF - ইমেজ ফাইল ফরম্যাট",
-  "description":"GIF ফাইল ফর্ম্যাট এবং APIগুলি সম্পর্কে জানুন যা GIF ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "GIF",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "keywords": [
+    "gif file",
+    "gif file format",
+    "what is a gif file",
+    "file",
+    "gif example",
+    "gif file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "GIF - ইমেজ ফাইল ফরম্যাট",
+  "description": "GIF ফাইল ফর্ম্যাট এবং APIগুলি সম্পর্কে জানুন যা GIF ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "GIF",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-gif-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি GIF ফাইল কি? ##

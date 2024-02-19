@@ -1,20 +1,32 @@
 {
-  "date" : "2021-06-29",
-  "keywords" : [ "CUR", "extension", "file", "format", "image", "Device-Independent Bitmap", "Cursor File Format", "Cursor", "Windows", "application" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "CUR - কার্সার ফাইল ফরম্যাট",
-  "description":"CUR ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি CUR ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "CUR",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
-}
-},
-  "lastmod" : "2021-06-29"
+  "date": "2021-06-29",
+  "keywords": [
+    "CUR",
+    "extension",
+    "file",
+    "format",
+    "image",
+    "Device-Independent Bitmap",
+    "Cursor File Format",
+    "Cursor",
+    "Windows",
+    "application"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "CUR - কার্সার ফাইল ফরম্যাট",
+  "description": "CUR ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি CUR ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "CUR",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-cur-bn"
+    }
+  },
+  "lastmod": "2021-06-29"
 }
 
 ## একটি CUR ফাইল কি? ##

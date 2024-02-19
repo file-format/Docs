@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "heif file", "heif file format", "what is a heif file", "file", "heif example", "heif file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "HEIF - উচ্চ-দক্ষতা চিত্র ফাইল বিন্যাস",
-  "description":"HEIF ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি HEIF ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "HEIF",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
-}
-},
-  "lastmod" : "2021-03-29"
+  "date": "2019-10-11",
+  "keywords": [
+    "heif file",
+    "heif file format",
+    "what is a heif file",
+    "file",
+    "heif example",
+    "heif file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "HEIF - উচ্চ-দক্ষতা চিত্র ফাইল বিন্যাস",
+  "description": "HEIF ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি HEIF ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "HEIF",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-heif-bn"
+    }
+  },
+  "lastmod": "2021-03-29"
 }
 
 ## একটি HEIF ফাইল কি?

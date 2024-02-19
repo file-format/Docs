@@ -1,20 +1,30 @@
 {
-  "date" : "2021-10-20",
-  "keywords" : [ "umx file", "umx file format", "what is a umx file", "file", "umx example", "Portal Bonus Map Script file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"অবাস্তব সঙ্গীত প্যাকেজ UMX ফাইল বিন্যাস এবং APIগুলি সম্পর্কে জানুন যা UMX ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "title" : "UMX - অবাস্তব সঙ্গীত প্যাকেজ ফাইল",
-  "linktitle" : "UMX",
-  "menu" : {
-    "docs" : {
-      "parent" : "game"
-}
-},
-  "lastmod" : "2021-10-27"
+  "date": "2021-10-20",
+  "keywords": [
+    "umx file",
+    "umx file format",
+    "what is a umx file",
+    "file",
+    "umx example",
+    "Portal Bonus Map Script file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "অবাস্তব সঙ্গীত প্যাকেজ UMX ফাইল বিন্যাস এবং APIগুলি সম্পর্কে জানুন যা UMX ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "title": "UMX - অবাস্তব সঙ্গীত প্যাকেজ ফাইল",
+  "linktitle": "UMX",
+  "menu": {
+    "docs": {
+      "parent": "game",
+      "identifier": "game-umx-bn"
+    }
+  },
+  "lastmod": "2021-10-27"
 }
 
 ## একটি UMX ফাইল কি?

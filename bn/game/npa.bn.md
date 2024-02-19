@@ -1,19 +1,20 @@
 {
-  "date" : "2022-11-24",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"স্টেইনস সম্পর্কে জানুন; গেট আর্কাইভ এনপিএ ফাইল ফরম্যাট এবং এপিআই যা এনপিএ ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "এনপিএ ফাইল - স্টেইনস; গেট আর্কাইভ ফাইল ফর্ম্যাট",
-  "linktitle" : "NPA",
-  "menu" : {
-    "docs" : {
-      "parent" : "game"
-}
-},
-  "lastmod" : "2022-11-24"
+  "date": "2022-11-24",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "স্টেইনস সম্পর্কে জানুন; গেট আর্কাইভ এনপিএ ফাইল ফরম্যাট এবং এপিআই যা এনপিএ ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "এনপিএ ফাইল - স্টেইনস; গেট আর্কাইভ ফাইল ফর্ম্যাট",
+  "linktitle": "NPA",
+  "menu": {
+    "docs": {
+      "parent": "game",
+      "identifier": "game-npa-bn"
+    }
+  },
+  "lastmod": "2022-11-24"
 }
 
 ## একটি NPA ফাইল কি?

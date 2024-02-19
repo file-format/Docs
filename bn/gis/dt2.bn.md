@@ -1,19 +1,20 @@
 {
-  "date" : "2022-12-07",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "DT2 ফাইল - DTED লেভেল 2 ফাইল ফরম্যাট",
-  "description":"DT2 ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি DT2 ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "DT2",
-  "menu" : {
-    "docs" : {
-      "parent" : "gis"
-}
-},
-  "lastmod" : "2022-12-07"
+  "date": "2022-12-07",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "DT2 ফাইল - DTED লেভেল 2 ফাইল ফরম্যাট",
+  "description": "DT2 ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি DT2 ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "DT2",
+  "menu": {
+    "docs": {
+      "parent": "gis",
+      "identifier": "gis-dt2-bn"
+    }
+  },
+  "lastmod": "2022-12-07"
 }
 
 ## একটি DT2 ফাইল কি?

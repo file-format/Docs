@@ -1,19 +1,20 @@
 {
-  "date" : "2022-03-16",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "PICT ফাইল ফরম্যাট - একটি PICT ফাইল কি?",
-  "description":"PICT ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা PICT ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "PICT",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
-}
-},
-  "lastmod" : "2022-03-16"
+  "date": "2022-03-16",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "PICT ফাইল ফরম্যাট - একটি PICT ফাইল কি?",
+  "description": "PICT ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা PICT ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "PICT",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-pict-bn"
+    }
+  },
+  "lastmod": "2022-03-16"
 }
 
 ## একটি PICT ফাইল কি?

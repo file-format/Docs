@@ -1,19 +1,20 @@
 {
-  "date" : "2021-08-24",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "SAF ফাইল - স্ট্রিট এটলাস USA ম্যাপ ফাইল ফরম্যাট",
-  "description":"SAF ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি SAF ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "SAF",
-  "menu" : {
-    "docs" : {
-      "parent" : "gis"
-}
-},
-  "lastmod" : "2021-09-29"
+  "date": "2021-08-24",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "SAF ফাইল - স্ট্রিট এটলাস USA ম্যাপ ফাইল ফরম্যাট",
+  "description": "SAF ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি SAF ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "SAF",
+  "menu": {
+    "docs": {
+      "parent": "gis",
+      "identifier": "gis-saf-bn"
+    }
+  },
+  "lastmod": "2021-09-29"
 }
 
 ## একটি SAF ফাইল কি?

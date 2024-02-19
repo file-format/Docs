@@ -1,20 +1,30 @@
 {
-  "date" : "2021-09-08",
-  "keywords" : [ "w3n file", "w3n file format", "what is a w3n file", "file", "w3n example", "w3n file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"Warcraft III Frozen Throne W3N ফাইল ফরম্যাট এবং APIগুলি সম্পর্কে জানুন যা W3N ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "title" : "W3N - Warcraft 3 সম্প্রসারণ প্রচারাভিযান ম্যাপ ফাইল",
-  "linktitle" : "W3N",
-  "menu" : {
-    "docs" : {
-      "parent" : "game"
-}
-},
-  "lastmod" : "2021-09-08"
+  "date": "2021-09-08",
+  "keywords": [
+    "w3n file",
+    "w3n file format",
+    "what is a w3n file",
+    "file",
+    "w3n example",
+    "w3n file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "Warcraft III Frozen Throne W3N ফাইল ফরম্যাট এবং APIগুলি সম্পর্কে জানুন যা W3N ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "title": "W3N - Warcraft 3 সম্প্রসারণ প্রচারাভিযান ম্যাপ ফাইল",
+  "linktitle": "W3N",
+  "menu": {
+    "docs": {
+      "parent": "game",
+      "identifier": "game-w3n-bn"
+    }
+  },
+  "lastmod": "2021-09-08"
 }
 
 ## একটি W3N ফাইল কি?

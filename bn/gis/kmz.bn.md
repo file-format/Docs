@@ -1,20 +1,29 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "kmz file", "what is an kmz file", "file", "kmz example", "kmz file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "KMZ - KML জিপ করা ফাইল ফর্ম্যাট",
-  "description":"KMZ ফাইল ফরম্যাট এবং APIগুলি সম্পর্কে জানুন যা KMZ ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "KMZ",
-  "menu" : {
-    "docs" : {
-      "parent" : "gis"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "keywords": [
+    "kmz file",
+    "what is an kmz file",
+    "file",
+    "kmz example",
+    "kmz file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "KMZ - KML জিপ করা ফাইল ফর্ম্যাট",
+  "description": "KMZ ফাইল ফরম্যাট এবং APIগুলি সম্পর্কে জানুন যা KMZ ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "KMZ",
+  "menu": {
+    "docs": {
+      "parent": "gis",
+      "identifier": "gis-kmz-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি KMZ ফাইল কি?

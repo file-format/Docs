@@ -1,19 +1,20 @@
 {
-  "date" : "2022-04-27",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "PSPIMAGE ফাইল ফরম্যাট - পেইন্টশপ প্রো ইমেজ ফাইল",
-  "description":"PSPIMAGE ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি PSPIMAGE ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "PSPIMAGE",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
-}
-},
-  "lastmod" : "2022-04-27"
+  "date": "2022-04-27",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "PSPIMAGE ফাইল ফরম্যাট - পেইন্টশপ প্রো ইমেজ ফাইল",
+  "description": "PSPIMAGE ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি PSPIMAGE ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "PSPIMAGE",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-pspimage-bn"
+    }
+  },
+  "lastmod": "2022-04-27"
 }
 ## একটি PSPIMAGE ফাইল কি?
 

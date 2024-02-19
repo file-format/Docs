@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "fodg file", "fodg file format", "what is a fodg file", "file", "fodg example", "fodg file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "FODG - OpenDocument অঙ্কন ফাইল বিন্যাস",
-  "description":"FODG ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি FODG ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "FODG",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "keywords": [
+    "fodg file",
+    "fodg file format",
+    "what is a fodg file",
+    "file",
+    "fodg example",
+    "fodg file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "FODG - OpenDocument অঙ্কন ফাইল বিন্যাস",
+  "description": "FODG ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি FODG ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "FODG",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-fodg-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি FODG ফাইল কি?

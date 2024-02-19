@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "ico file", "ico file format", "what is a ico file", "file", "ico example", "ico file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ICO - ইমেজ ফাইল ফরম্যাট",
-  "description":"ICO ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা ICO ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "ICO",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "keywords": [
+    "ico file",
+    "ico file format",
+    "what is a ico file",
+    "file",
+    "ico example",
+    "ico file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "ICO - ইমেজ ফাইল ফরম্যাট",
+  "description": "ICO ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা ICO ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "ICO",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-ico-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি ICO ফাইল কি?

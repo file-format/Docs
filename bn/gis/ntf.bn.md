@@ -1,20 +1,30 @@
 {
-  "date" : "2021-07-28",
-  "keywords" : [ "ntf file", "ntf file format", "what is an ntf file", "file", "ntf example", "ntf file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "NTF - ন্যাশনাল ট্রান্সফার ফরম্যাট ফাইল",
-  "description":"NTF ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি NTF ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "NTF",
-  "menu" : {
-    "docs" : {
-      "parent" : "gis"
-}
-},
-  "lastmod" : "2021-07-28"
+  "date": "2021-07-28",
+  "keywords": [
+    "ntf file",
+    "ntf file format",
+    "what is an ntf file",
+    "file",
+    "ntf example",
+    "ntf file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "NTF - ন্যাশনাল ট্রান্সফার ফরম্যাট ফাইল",
+  "description": "NTF ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি NTF ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "NTF",
+  "menu": {
+    "docs": {
+      "parent": "gis",
+      "identifier": "gis-ntf-bn"
+    }
+  },
+  "lastmod": "2021-07-28"
 }
 
 ## একটি NTF ফাইল কি?

@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "svgz file", "svgz file format", "what is an svgz file", "file", "svgz example", "svgz file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "SVGZ ফাইল ফরম্যাট - একটি উইন্ডোজ সংকুচিত উন্নত মেটাফাইল",
-  "description":"EMZ ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি SVGZ ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "SVGZ",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
-}
-},
-  "lastmod" : "2020-10-24"
+  "date": "2019-10-11",
+  "keywords": [
+    "svgz file",
+    "svgz file format",
+    "what is an svgz file",
+    "file",
+    "svgz example",
+    "svgz file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "SVGZ ফাইল ফরম্যাট - একটি উইন্ডোজ সংকুচিত উন্নত মেটাফাইল",
+  "description": "EMZ ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি SVGZ ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "SVGZ",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-svgz-bn"
+    }
+  },
+  "lastmod": "2020-10-24"
 }
 
 ## একটি SVGZ ফাইল কি?

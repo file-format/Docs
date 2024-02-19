@@ -1,20 +1,30 @@
 {
-  "date" : "2021-09-08",
-  "keywords" : [ "pwf file", "pwf file format", "what is a pwf file", "file", "pwf example", "pwf file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"কাউন্টার-স্ট্রাইক PODBot ওয়েপয়েন্ট PWF ফাইল ফরম্যাট এবং APIগুলি সম্পর্কে জানুন যা PWF ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "title" : "PWF - কাউন্টার-স্ট্রাইক PODBot ওয়েপয়েন্ট ফাইল",
-  "linktitle" : "PWF",
-  "menu" : {
-    "docs" : {
-      "parent" : "game"
-}
-},
-  "lastmod" : "2021-10-17"
+  "date": "2021-09-08",
+  "keywords": [
+    "pwf file",
+    "pwf file format",
+    "what is a pwf file",
+    "file",
+    "pwf example",
+    "pwf file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "কাউন্টার-স্ট্রাইক PODBot ওয়েপয়েন্ট PWF ফাইল ফরম্যাট এবং APIগুলি সম্পর্কে জানুন যা PWF ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "title": "PWF - কাউন্টার-স্ট্রাইক PODBot ওয়েপয়েন্ট ফাইল",
+  "linktitle": "PWF",
+  "menu": {
+    "docs": {
+      "parent": "game",
+      "identifier": "game-pwf-bn"
+    }
+  },
+  "lastmod": "2021-10-17"
 }
 
 ## একটি PWF ফাইল কি?

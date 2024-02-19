@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "cdr file", "cdr file format", "what is a cdr file", "file", "cdr example", "cdr file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "CDR ফাইল ফরম্যাট - ভেক্টর অঙ্কন ইমেজ ফাইল",
-  "description":"সিডিআর ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা সিডিআর ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "CDR",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "keywords": [
+    "cdr file",
+    "cdr file format",
+    "what is a cdr file",
+    "file",
+    "cdr example",
+    "cdr file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "CDR ফাইল ফরম্যাট - ভেক্টর অঙ্কন ইমেজ ফাইল",
+  "description": "সিডিআর ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা সিডিআর ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "CDR",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-cdr-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি CDR ফাইল কি?

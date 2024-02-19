@@ -1,20 +1,30 @@
 {
-  "date" : "2019-11-25",
-  "keywords" : [ "jpm file", "jpm file format", "what is a jpm file", "file", "jpm example", "jpm file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "JPM - JPEG 2000 কম্পাউন্ড ফাইল ফরম্যাট",
-  "description":"JPM ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি JPM ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "JPM",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
-}
-},
-  "lastmod" : "2021-02-08"
+  "date": "2019-11-25",
+  "keywords": [
+    "jpm file",
+    "jpm file format",
+    "what is a jpm file",
+    "file",
+    "jpm example",
+    "jpm file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "JPM - JPEG 2000 কম্পাউন্ড ফাইল ফরম্যাট",
+  "description": "JPM ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি JPM ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "JPM",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-jpm-bn"
+    }
+  },
+  "lastmod": "2021-02-08"
 }
 
 ## একটি JPM ফাইল কি?

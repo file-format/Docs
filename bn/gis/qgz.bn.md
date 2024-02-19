@@ -1,20 +1,30 @@
 {
-  "date" : "2021-03-18",
-  "keywords" : [ "qgz file", "qgz file format", "what is an qgz file", "file", "qgz example", "qgz file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "QGZ - কোয়ান্টাম জিআইএস সংকুচিত প্রকল্প",
-  "description":"QGZ ফাইল ফরম্যাট সম্পর্কে জানুন যা শুধুমাত্র একটি সংকুচিত QGS এবং API যা QGZ ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "QGZ",
-  "menu" : {
-    "docs" : {
-      "parent" : "gis"
-}
-},
-  "lastmod" : "2021-03-18"
+  "date": "2021-03-18",
+  "keywords": [
+    "qgz file",
+    "qgz file format",
+    "what is an qgz file",
+    "file",
+    "qgz example",
+    "qgz file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "QGZ - কোয়ান্টাম জিআইএস সংকুচিত প্রকল্প",
+  "description": "QGZ ফাইল ফরম্যাট সম্পর্কে জানুন যা শুধুমাত্র একটি সংকুচিত QGS এবং API যা QGZ ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "QGZ",
+  "menu": {
+    "docs": {
+      "parent": "gis",
+      "identifier": "gis-qgz-bn"
+    }
+  },
+  "lastmod": "2021-03-18"
 }
 
 ## একটি QGZ ফাইল কি?

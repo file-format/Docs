@@ -1,19 +1,20 @@
 {
-  "date" : "2022-12-11",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"GBX ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি GBX ফাইল তৈরি এবং খুলতে পারে৷",
-  "title" : "GBX ফাইল - Nadeo গেম ফাইল ফরম্যাট",
-  "linktitle" : "GBX",
-  "menu" : {
-    "docs" : {
-      "parent" : "game"
-}
-},
-  "lastmod" : "2022-12-11"
+  "date": "2022-12-11",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "GBX ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি GBX ফাইল তৈরি এবং খুলতে পারে৷",
+  "title": "GBX ফাইল - Nadeo গেম ফাইল ফরম্যাট",
+  "linktitle": "GBX",
+  "menu": {
+    "docs": {
+      "parent": "game",
+      "identifier": "game-gbx-bn"
+    }
+  },
+  "lastmod": "2022-12-11"
 }
 
 ## একটি GBX ফাইল কি?

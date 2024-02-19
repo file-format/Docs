@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "gbr file", "gbr file format", "what is a gbr file", "file", "gbr example", "gbr file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "GBR ফাইল বিন্যাস - PCB এর জন্য Gerber ফাইল বিন্যাস",
-  "description":"GBR ফাইল ফর্ম্যাট এবং APIগুলি সম্পর্কে জানুন যা GBR ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "GBR",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "keywords": [
+    "gbr file",
+    "gbr file format",
+    "what is a gbr file",
+    "file",
+    "gbr example",
+    "gbr file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "GBR ফাইল বিন্যাস - PCB এর জন্য Gerber ফাইল বিন্যাস",
+  "description": "GBR ফাইল ফর্ম্যাট এবং APIগুলি সম্পর্কে জানুন যা GBR ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "GBR",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-gbr-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি GBR ফাইল কি?

@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "j2c file", "j2c file format", "what is a j2c file", "file", "j2c example", "j2c file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "J2C",
-  "description":"J2C ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা J2C ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "J2C",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
-}
-},
-  "lastmod" : "2021-02-14"
+  "date": "2019-10-11",
+  "keywords": [
+    "j2c file",
+    "j2c file format",
+    "what is a j2c file",
+    "file",
+    "j2c example",
+    "j2c file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "J2C",
+  "description": "J2C ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা J2C ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "J2C",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-j2c-bn"
+    }
+  },
+  "lastmod": "2021-02-14"
 }
 
 ## একটি J2C ফাইল কি?

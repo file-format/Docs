@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "dng file", "dng file format", "what is a dng file", "file", "dng example", "dng file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "DNG - ডিজিটাল ক্যামেরা ইমেজ ফাইল ফরম্যাট",
-  "description":"DNG ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি DNG ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "DNG",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "keywords": [
+    "dng file",
+    "dng file format",
+    "what is a dng file",
+    "file",
+    "dng example",
+    "dng file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "DNG - ডিজিটাল ক্যামেরা ইমেজ ফাইল ফরম্যাট",
+  "description": "DNG ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি DNG ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "DNG",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-dng-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি DNG ফাইল কি?

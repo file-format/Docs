@@ -1,19 +1,20 @@
 {
-  "date" : "2022-03-16",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "PCX ফাইল ফরম্যাট - পেইন্টব্রাশ বিটম্যাপ ইমেজ ফাইল",
-  "description":"PCX ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি PCX ফাইলগুলি তৈরি এবং খুলতে পারে।",
-  "linktitle" : "PCX",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
-}
-},
-  "lastmod" : "2022-03-16"
+  "date": "2022-03-16",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "PCX ফাইল ফরম্যাট - পেইন্টব্রাশ বিটম্যাপ ইমেজ ফাইল",
+  "description": "PCX ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি PCX ফাইলগুলি তৈরি এবং খুলতে পারে।",
+  "linktitle": "PCX",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-pcx-bn"
+    }
+  },
+  "lastmod": "2022-03-16"
 }
 
 ## একটি PCX ফাইল কি?

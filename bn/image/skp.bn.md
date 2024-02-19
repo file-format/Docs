@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "skp file", "skp file format", "what is an skp file", "file", "skp example", "skp file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "SKP ফাইল ফরম্যাট - SketchUp ডকুমেন্ট ফাইল",
-  "description":".skp ফাইল এবং API সম্পর্কে জানুন যেগুলি SKP ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "SKP",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "keywords": [
+    "skp file",
+    "skp file format",
+    "what is an skp file",
+    "file",
+    "skp example",
+    "skp file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "SKP ফাইল ফরম্যাট - SketchUp ডকুমেন্ট ফাইল",
+  "description": ".skp ফাইল এবং API সম্পর্কে জানুন যেগুলি SKP ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "SKP",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-skp-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি SKP ফাইল কি?

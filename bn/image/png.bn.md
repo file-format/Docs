@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "png file", "png file format", "what is a png file", "file", "png example", "png file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "PNG ফাইল ফরম্যাট - রাস্টার ইমেজ ফাইল",
-  "description":"PNG ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি PNG ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "PNG",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "keywords": [
+    "png file",
+    "png file format",
+    "what is a png file",
+    "file",
+    "png example",
+    "png file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "PNG ফাইল ফরম্যাট - রাস্টার ইমেজ ফাইল",
+  "description": "PNG ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি PNG ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "PNG",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-png-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি PNG ফাইল কি?

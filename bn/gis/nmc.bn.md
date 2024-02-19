@@ -1,19 +1,20 @@
 {
-  "date" : "2022-12-08",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "NMC - Navitel ম্যাপ ফাইল",
-  "description":"এনএমসি ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা এনএমসি ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "NMC",
-  "menu" : {
-    "docs" : {
-      "parent" : "gis"
-}
-},
-  "lastmod" : "2022-12-08"
+  "date": "2022-12-08",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "NMC - Navitel ম্যাপ ফাইল",
+  "description": "এনএমসি ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা এনএমসি ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "NMC",
+  "menu": {
+    "docs": {
+      "parent": "gis",
+      "identifier": "gis-nmc-bn"
+    }
+  },
+  "lastmod": "2022-12-08"
 }
 
 ## একটি NMC ফাইল কি?

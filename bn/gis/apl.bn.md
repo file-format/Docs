@@ -1,19 +1,20 @@
 {
-  "date" : "2021-08-26",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "APL - আর্কপ্যাড লেয়ার ফাইল",
-  "description":"APL ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা APL ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "APL",
-  "menu" : {
-    "docs" : {
-      "parent" : "gis"
-}
-},
-  "lastmod" : "2021-08-26"
+  "date": "2021-08-26",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "APL - আর্কপ্যাড লেয়ার ফাইল",
+  "description": "APL ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা APL ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "APL",
+  "menu": {
+    "docs": {
+      "parent": "gis",
+      "identifier": "gis-apl-bn"
+    }
+  },
+  "lastmod": "2021-08-26"
 }
 
 ## একটি APL ফাইল কি?

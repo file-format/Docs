@@ -1,20 +1,30 @@
 {
-  "date" : "2021-10-20",
-  "keywords" : [ "bns file", "bns file format", "what is a bns file", "file", "bns example", "Portal Bonus Map Script file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"অরটাল বোনাস ম্যাপ স্ক্রিপ্ট বিএনএস ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা বিএনএস ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "BNS - পোর্টাল বোনাস ম্যাপ স্ক্রিপ্ট ফাইল",
-  "linktitle" : "BNS",
-  "menu" : {
-    "docs" : {
-      "parent" : "game"
-}
-},
-  "lastmod" : "2021-10-20"
+  "date": "2021-10-20",
+  "keywords": [
+    "bns file",
+    "bns file format",
+    "what is a bns file",
+    "file",
+    "bns example",
+    "Portal Bonus Map Script file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "অরটাল বোনাস ম্যাপ স্ক্রিপ্ট বিএনএস ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা বিএনএস ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "BNS - পোর্টাল বোনাস ম্যাপ স্ক্রিপ্ট ফাইল",
+  "linktitle": "BNS",
+  "menu": {
+    "docs": {
+      "parent": "game",
+      "identifier": "game-bns-bn"
+    }
+  },
+  "lastmod": "2021-10-20"
 }
 
 ## একটি BNS ফাইল কি?

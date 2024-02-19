@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "heic file", "heic file format", "what is a heic file", "file", "heic example", "heic file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "HEIC - উচ্চ-দক্ষতা চিত্র ফাইল বিন্যাস",
-  "description":".heic ফাইল এবং API সম্পর্কে জানুন যেগুলি HEIC ফাইল তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "HEIC",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
-}
-},
-  "lastmod" : "2021-03-29"
+  "date": "2019-10-11",
+  "keywords": [
+    "heic file",
+    "heic file format",
+    "what is a heic file",
+    "file",
+    "heic example",
+    "heic file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "HEIC - উচ্চ-দক্ষতা চিত্র ফাইল বিন্যাস",
+  "description": ".heic ফাইল এবং API সম্পর্কে জানুন যেগুলি HEIC ফাইল তৈরি এবং খুলতে পারে৷",
+  "linktitle": "HEIC",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-heic-bn"
+    }
+  },
+  "lastmod": "2021-03-29"
 }
 
 ## একটি HEIC ফাইল কি?

@@ -1,20 +1,31 @@
 {
-  "date" : "2021-06-29",
-  "keywords" : [ "ICNS", "extension", "file", "format", "image", "Apple Icon Image", "macOS", "Apple", "Icon" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ICNS - অ্যাপল আইকন চিত্র",
-  "description":"ICNS ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা ICNS ফাইল তৈরি করতে এবং খুলতে পারে।",
-  "linktitle" : "ICNS",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
-}
-},
-  "lastmod" : "2021-06-29"
+  "date": "2021-06-29",
+  "keywords": [
+    "ICNS",
+    "extension",
+    "file",
+    "format",
+    "image",
+    "Apple Icon Image",
+    "macOS",
+    "Apple",
+    "Icon"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "ICNS - অ্যাপল আইকন চিত্র",
+  "description": "ICNS ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা ICNS ফাইল তৈরি করতে এবং খুলতে পারে।",
+  "linktitle": "ICNS",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-icns-bn"
+    }
+  },
+  "lastmod": "2021-06-29"
 }
 
 ## একটি ICNS ফাইল কি? ##

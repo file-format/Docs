@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "jp2 file", "jp2 file format", "what is a jp2 file", "file", "jp2 example", "jp2 file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "JP2 - ইমেজ ফাইল ফরম্যাট",
-  "description":"JP2 ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা JP2 ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "JP2",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
-}
-},
-  "lastmod" : "2020-08-10"
+  "date": "2019-10-11",
+  "keywords": [
+    "jp2 file",
+    "jp2 file format",
+    "what is a jp2 file",
+    "file",
+    "jp2 example",
+    "jp2 file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "JP2 - ইমেজ ফাইল ফরম্যাট",
+  "description": "JP2 ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা JP2 ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "JP2",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-jp2-bn"
+    }
+  },
+  "lastmod": "2020-08-10"
 }
 
 ## একটি JP2 ফাইল কি? ##

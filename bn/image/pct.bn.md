@@ -1,19 +1,20 @@
 {
-  "date" : "2022-03-16",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "PCT ফাইল ফরম্যাট - একটি PCT ফাইল কি?",
-  "description":"PCT ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা PCT ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "PCT",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
-}
-},
-  "lastmod" : "2022-03-16"
+  "date": "2022-03-16",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "PCT ফাইল ফরম্যাট - একটি PCT ফাইল কি?",
+  "description": "PCT ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা PCT ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "PCT",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-pct-bn"
+    }
+  },
+  "lastmod": "2022-03-16"
 }
 
 ## একটি PCT ফাইল কি?

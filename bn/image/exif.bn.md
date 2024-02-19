@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "exif file", "exif file format", "what is a exif file", "file", "exif example", "exif file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "EXIF",
-  "description":"EXIF ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি EXIF ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "EXIF",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "keywords": [
+    "exif file",
+    "exif file format",
+    "what is a exif file",
+    "file",
+    "exif example",
+    "exif file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "EXIF",
+  "description": "EXIF ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি EXIF ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "EXIF",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-exif-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি EXIF ফাইল কি?

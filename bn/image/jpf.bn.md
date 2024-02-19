@@ -1,20 +1,30 @@
 {
-  "date" : "2021-02-10",
-  "keywords" : [ "jpf file", "jpf file format", "what is a jpf file", "file", "jpf example", "jpf file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "JPF - ইমেজ ফাইল ফরম্যাট",
-  "description":"JPF ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা JPF ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "JPF",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
-}
-},
-  "lastmod" : "2021-02-10"
+  "date": "2021-02-10",
+  "keywords": [
+    "jpf file",
+    "jpf file format",
+    "what is a jpf file",
+    "file",
+    "jpf example",
+    "jpf file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "JPF - ইমেজ ফাইল ফরম্যাট",
+  "description": "JPF ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা JPF ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "JPF",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-jpf-bn"
+    }
+  },
+  "lastmod": "2021-02-10"
 }
 
 ## একটি JPF ফাইল কি? ##

@@ -1,20 +1,30 @@
 {
-  "date" : "2021-09-08",
-  "keywords" : [ "dek file", "dek file format", "what is a dek file", "file", "dek example", "dek file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"DEK ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি DEK ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "title" : "DEK - Magic: The Gathering Deck File",
-  "linktitle" : "DEK",
-  "menu" : {
-    "docs" : {
-      "parent" : "game"
-}
-},
-  "lastmod" : "2021-10-24"
+  "date": "2021-09-08",
+  "keywords": [
+    "dek file",
+    "dek file format",
+    "what is a dek file",
+    "file",
+    "dek example",
+    "dek file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "DEK ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি DEK ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "title": "DEK - Magic: The Gathering Deck File",
+  "linktitle": "DEK",
+  "menu": {
+    "docs": {
+      "parent": "game",
+      "identifier": "game-dek-bn"
+    }
+  },
+  "lastmod": "2021-10-24"
 }
 
 ## একটি DEK ফাইল কি?

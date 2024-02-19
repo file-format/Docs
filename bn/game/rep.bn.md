@@ -1,20 +1,30 @@
 {
-  "date" : "2021-10-20",
-  "keywords" : [ "rep file", "rep file format", "what is a rep file", "file", "rep example", "Grand Theft Auto Replay file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"গ্র্যান্ড থেফট অটো REP ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি REP ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "REP - গ্র্যান্ড থেফট অটো রিপ্লে ফাইল",
-  "linktitle" : "REP",
-  "menu" : {
-    "docs" : {
-      "parent" : "game"
-}
-},
-  "lastmod" : "2021-10-20"
+  "date": "2021-10-20",
+  "keywords": [
+    "rep file",
+    "rep file format",
+    "what is a rep file",
+    "file",
+    "rep example",
+    "Grand Theft Auto Replay file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "গ্র্যান্ড থেফট অটো REP ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি REP ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "REP - গ্র্যান্ড থেফট অটো রিপ্লে ফাইল",
+  "linktitle": "REP",
+  "menu": {
+    "docs": {
+      "parent": "game",
+      "identifier": "game-rep-bn"
+    }
+  },
+  "lastmod": "2021-10-20"
 }
 
 ## একটি REP ফাইল কি?

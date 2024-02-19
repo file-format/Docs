@@ -1,20 +1,30 @@
 {
-  "date" : "2021-07-29",
-  "keywords" : [ "shx file", "shx file format", "what is an shx file", "file", "shx example", "shx file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "SHX - শেপফাইল শেপ ইনডেক্স ফরম্যাট",
-  "description":"SHX ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি SHX ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "SHX",
-  "menu" : {
-    "docs" : {
-      "parent" : "gis"
-}
-},
-  "lastmod" : "2021-07-29"
+  "date": "2021-07-29",
+  "keywords": [
+    "shx file",
+    "shx file format",
+    "what is an shx file",
+    "file",
+    "shx example",
+    "shx file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "SHX - শেপফাইল শেপ ইনডেক্স ফরম্যাট",
+  "description": "SHX ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি SHX ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "SHX",
+  "menu": {
+    "docs": {
+      "parent": "gis",
+      "identifier": "gis-shx-bn"
+    }
+  },
+  "lastmod": "2021-07-29"
 }
 
 ## একটি SHX ফাইল কি?

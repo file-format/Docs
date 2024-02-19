@@ -1,20 +1,30 @@
 {
-  "date" : "2021-01-21",
-  "keywords" : [ "ai file", "ai file format", "what is a ai file", "file", "ai example", "ai file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "এআই - অ্যাডোব ইলাস্ট্রেটর আর্টওয়ার্ক ফাইল",
-  "description":"এআই ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা এআই ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "AI",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
-}
-},
-  "lastmod" : "2021-01-21"
+  "date": "2021-01-21",
+  "keywords": [
+    "ai file",
+    "ai file format",
+    "what is a ai file",
+    "file",
+    "ai example",
+    "ai file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "এআই - অ্যাডোব ইলাস্ট্রেটর আর্টওয়ার্ক ফাইল",
+  "description": "এআই ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা এআই ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "AI",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-ai-bn"
+    }
+  },
+  "lastmod": "2021-01-21"
 }
 
 ## একটি AI ফাইল কি?

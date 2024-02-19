@@ -1,20 +1,28 @@
 {
-  "date" : "2021-07-18",
-  "keywords" : [ "LOC", "file", "extension", "file format", "GPS Location", "Waypoint" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "LOC - GPS অবস্থান ফাইল ফর্ম্যাট",
-  "description":"LOC ফাইল ফর্ম্যাট এবং APIগুলি সম্পর্কে জানুন যা LOC ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "LOC",
-  "menu" : {
-    "docs" : {
-      "parent" : "gis"
-}
-},
-  "lastmod" : "2021-07-18"
+  "date": "2021-07-18",
+  "keywords": [
+    "LOC",
+    "file",
+    "extension",
+    "file format",
+    "GPS Location",
+    "Waypoint"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "LOC - GPS অবস্থান ফাইল ফর্ম্যাট",
+  "description": "LOC ফাইল ফর্ম্যাট এবং APIগুলি সম্পর্কে জানুন যা LOC ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "LOC",
+  "menu": {
+    "docs": {
+      "parent": "gis",
+      "identifier": "gis-loc-bn"
+    }
+  },
+  "lastmod": "2021-07-18"
 }
 
 ## একটি LOC ফাইল কি?

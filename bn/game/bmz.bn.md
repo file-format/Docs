@@ -1,20 +1,30 @@
 {
-  "date" : "2021-10-20",
-  "keywords" : [ "bmz file", "bmz file format", "what is a bmz file", "file", "bmz example", "Portal Bonus Map Zip File","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"পোর্টাল বোনাস ম্যাপ জিপ বিএমজেড ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা বিএমজেড ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "BMZ - পোর্টাল বোনাস ম্যাপ জিপ ফাইল",
-  "linktitle" : "BMZ",
-  "menu" : {
-    "docs" : {
-      "parent" : "game"
-}
-},
-  "lastmod" : "2021-10-20"
+  "date": "2021-10-20",
+  "keywords": [
+    "bmz file",
+    "bmz file format",
+    "what is a bmz file",
+    "file",
+    "bmz example",
+    "Portal Bonus Map Zip File",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "পোর্টাল বোনাস ম্যাপ জিপ বিএমজেড ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা বিএমজেড ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "BMZ - পোর্টাল বোনাস ম্যাপ জিপ ফাইল",
+  "linktitle": "BMZ",
+  "menu": {
+    "docs": {
+      "parent": "game",
+      "identifier": "game-bmz-bn"
+    }
+  },
+  "lastmod": "2021-10-20"
 }
 
 ## একটি BMZ ফাইল কি?

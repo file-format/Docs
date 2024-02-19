@@ -1,19 +1,20 @@
 {
-  "date" : "2021-10-20",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"RPX ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা RPX ফাইল তৈরি করতে এবং খুলতে পারে।",
-  "title" : "RPX - Wii U গেম ফাইল",
-  "linktitle" : "RPX",
-  "menu" : {
-    "docs" : {
-      "parent" : "game"
-}
-},
-  "lastmod" : "2021-10-20"
+  "date": "2021-10-20",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "RPX ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা RPX ফাইল তৈরি করতে এবং খুলতে পারে।",
+  "title": "RPX - Wii U গেম ফাইল",
+  "linktitle": "RPX",
+  "menu": {
+    "docs": {
+      "parent": "game",
+      "identifier": "game-rpx-bn"
+    }
+  },
+  "lastmod": "2021-10-20"
 }
 
 ## একটি RPX ফাইল কি?

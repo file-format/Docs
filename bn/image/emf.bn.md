@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "emf file", "emf file format", "what is a emf file", "file", "emf example", "emf file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "EMF - উন্নত মেটাফাইল বিন্যাস",
-  "description":"EMF ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি EMF ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "EMF",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "keywords": [
+    "emf file",
+    "emf file format",
+    "what is a emf file",
+    "file",
+    "emf example",
+    "emf file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "EMF - উন্নত মেটাফাইল বিন্যাস",
+  "description": "EMF ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি EMF ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "EMF",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-emf-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি EMF ফাইল কি?

@@ -1,20 +1,30 @@
 {
-  "date" : "2021-09-08",
-  "keywords" : [ "rel file", "rel file format", "what is a rel file", "file", "rel example", "rel file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"REL ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি REL ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "REL - রিলোকেটেবল মডিউল ফাইল",
-  "linktitle" : "REL",
-  "menu" : {
-    "docs" : {
-      "parent" : "game"
-}
-},
-  "lastmod" : "2021-09-08"
+  "date": "2021-09-08",
+  "keywords": [
+    "rel file",
+    "rel file format",
+    "what is a rel file",
+    "file",
+    "rel example",
+    "rel file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "REL ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি REL ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "REL - রিলোকেটেবল মডিউল ফাইল",
+  "linktitle": "REL",
+  "menu": {
+    "docs": {
+      "parent": "game",
+      "identifier": "game-rel-bn"
+    }
+  },
+  "lastmod": "2021-09-08"
 }
 
 ## একটি REL ফাইল কি?

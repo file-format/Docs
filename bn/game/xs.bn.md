@@ -1,19 +1,20 @@
 {
-  "date" : "2022-11-20",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"এজ অফ এম্পায়ারস 3 ম্যাপ এআই জেনারেটর ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা XS ফাইলগুলি তৈরি এবং খুলতে পারে।",
-  "title" : "XS ফাইল - সাম্রাজ্যের বয়স 3 ম্যাপ এআই জেনারেটর ফাইল ফর্ম্যাট",
-  "linktitle" : "XS",
-  "menu" : {
-    "docs" : {
-      "parent" : "game"
-}
-},
-  "lastmod" : "2022-11-20"
+  "date": "2022-11-20",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "এজ অফ এম্পায়ারস 3 ম্যাপ এআই জেনারেটর ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা XS ফাইলগুলি তৈরি এবং খুলতে পারে।",
+  "title": "XS ফাইল - সাম্রাজ্যের বয়স 3 ম্যাপ এআই জেনারেটর ফাইল ফর্ম্যাট",
+  "linktitle": "XS",
+  "menu": {
+    "docs": {
+      "parent": "game",
+      "identifier": "game-xs-bn"
+    }
+  },
+  "lastmod": "2022-11-20"
 }
 
 ## একটি XS ফাইল কি?

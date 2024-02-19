@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "wmf file", "wmf file format", "what is a wmf file", "file", "wmf example", "wmf file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "WMF - মাইক্রোসফট উইন্ডোজ মেটাফাইল ফরম্যাট",
-  "description":"WMF ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি WMF ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "WMF",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "keywords": [
+    "wmf file",
+    "wmf file format",
+    "what is a wmf file",
+    "file",
+    "wmf example",
+    "wmf file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "WMF - মাইক্রোসফট উইন্ডোজ মেটাফাইল ফরম্যাট",
+  "description": "WMF ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি WMF ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "WMF",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-wmf-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি WMF ফাইল কি?

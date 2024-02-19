@@ -1,20 +1,30 @@
 {
-  "date" : "2019-11-25",
-  "keywords" : [ "jpeg file", "jpeg file format", "what is a jpeg file", "file", "jpeg example", "jpeg file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "JPEG - ইমেজ ফাইল ফরম্যাট",
-  "description":"JPEG ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি JPEG ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "JPEG",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
-}
-},
-  "lastmod" : "2020-08-08"
+  "date": "2019-11-25",
+  "keywords": [
+    "jpeg file",
+    "jpeg file format",
+    "what is a jpeg file",
+    "file",
+    "jpeg example",
+    "jpeg file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "JPEG - ইমেজ ফাইল ফরম্যাট",
+  "description": "JPEG ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি JPEG ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "JPEG",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-jpeg-bn"
+    }
+  },
+  "lastmod": "2020-08-08"
 }
 
 ## একটি JPEG ফাইল কি? ##
