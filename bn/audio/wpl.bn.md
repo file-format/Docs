@@ -1,20 +1,29 @@
 {
-  "date" : "2021-06-11",
-  "keywords" : [ "wpl", "wpl file", "extension", "format", "what is a wpl file", "music", "wpl file format"],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "WPL ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি WPL ফাইল তৈরি, রূপান্তর এবং খুলতে পারে।",
-  "title" : "WPL - উইন্ডোজ মিডিয়া প্লেয়ার প্লেলিস্ট ফাইল",
-  "linktitle" : "WPL",
-  "menu" : {
-    "docs" : {
-      "parent" : "audio"
-}
-},
-  "lastmod" : "2021-06-11"
+  "date": "2021-06-11",
+  "keywords": [
+    "wpl",
+    "wpl file",
+    "extension",
+    "format",
+    "what is a wpl file",
+    "music",
+    "wpl file format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "WPL ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি WPL ফাইল তৈরি, রূপান্তর এবং খুলতে পারে।",
+  "title": "WPL - উইন্ডোজ মিডিয়া প্লেয়ার প্লেলিস্ট ফাইল",
+  "linktitle": "WPL",
+  "menu": {
+    "docs": {
+      "parent": "audio",
+      "identifier": "audio-wpl-bn"
+    }
+  },
+  "lastmod": "2021-06-11"
 }
 
 ## একটি WPL ফাইল কি?

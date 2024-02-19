@@ -1,20 +1,28 @@
 {
-  "date" : "2019-12-13",
-  "keywords" : [ "MID", "file", "extension", "format", "Audio Coding", "MPEG" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "একটি MID ফাইল এবং API যা MID ফাইল তৈরি এবং খুলতে পারে তা জানতে আপনার ফাইল বিন্যাস নির্দেশিকা।",
-  "title" : "MIDI ফাইল ফরম্যাট",
-  "linktitle" : "MID",
-  "menu" : {
-    "docs" : {
-      "parent" : "audio"
-}
-},
-  "lastmod" : "2020-11-102"
+  "date": "2019-12-13",
+  "keywords": [
+    "MID",
+    "file",
+    "extension",
+    "format",
+    "Audio Coding",
+    "MPEG"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "একটি MID ফাইল এবং API যা MID ফাইল তৈরি এবং খুলতে পারে তা জানতে আপনার ফাইল বিন্যাস নির্দেশিকা।",
+  "title": "MIDI ফাইল ফরম্যাট",
+  "linktitle": "MID",
+  "menu": {
+    "docs": {
+      "parent": "audio",
+      "identifier": "audio-mid-bn"
+    }
+  },
+  "lastmod": "2020-11-102"
 }
 
 ## একটি MID ফাইল কি?

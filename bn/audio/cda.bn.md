@@ -1,20 +1,30 @@
 {
-  "date" : "2021-06-09",
-  "keywords" : [ "cda", "file", "extension", "format", "what is a cda file", "music", "cda file format", "cda file format specification"],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "সিডিএ ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা সিডিএ ফাইল তৈরি, রূপান্তর এবং খুলতে পারে।",
-  "title" : "CDA - CD অডিও ট্র্যাক শর্টকাট ফাইল",
-  "linktitle" : "CDA",
-  "menu" : {
-    "docs" : {
-      "parent" : "audio"
-}
-},
-  "lastmod" : "2021-06-09"
+  "date": "2021-06-09",
+  "keywords": [
+    "cda",
+    "file",
+    "extension",
+    "format",
+    "what is a cda file",
+    "music",
+    "cda file format",
+    "cda file format specification"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "সিডিএ ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা সিডিএ ফাইল তৈরি, রূপান্তর এবং খুলতে পারে।",
+  "title": "CDA - CD অডিও ট্র্যাক শর্টকাট ফাইল",
+  "linktitle": "CDA",
+  "menu": {
+    "docs": {
+      "parent": "audio",
+      "identifier": "audio-cda-bn"
+    }
+  },
+  "lastmod": "2021-06-09"
 }
 
 ## একটি CDA ফাইল কি?

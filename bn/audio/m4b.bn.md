@@ -1,20 +1,32 @@
 {
-  "date" : "2021-06-09",
-  "keywords" : [ "m4b", "mp3", "file", "extension", "format", "what is m4b file format", "music", "m4b file format", "M4b vs MP3", "m4b file format specification"],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "M4B ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা M4B ফাইল তৈরি, রূপান্তর এবং খুলতে পারে।",
-  "title" : "M4B - MPEG-4 অডিওবুক ফাইল ফরম্যাট",
-  "linktitle" : "M4B",
-  "menu" : {
-    "docs" : {
-      "parent" : "audio"
-}
-},
-  "lastmod" : "2021-06-09"
+  "date": "2021-06-09",
+  "keywords": [
+    "m4b",
+    "mp3",
+    "file",
+    "extension",
+    "format",
+    "what is m4b file format",
+    "music",
+    "m4b file format",
+    "M4b vs MP3",
+    "m4b file format specification"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "M4B ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা M4B ফাইল তৈরি, রূপান্তর এবং খুলতে পারে।",
+  "title": "M4B - MPEG-4 অডিওবুক ফাইল ফরম্যাট",
+  "linktitle": "M4B",
+  "menu": {
+    "docs": {
+      "parent": "audio",
+      "identifier": "audio-m4b-bn"
+    }
+  },
+  "lastmod": "2021-06-09"
 }
 
 ## একটি M4B ফাইল কি?

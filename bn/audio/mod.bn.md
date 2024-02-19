@@ -1,20 +1,32 @@
 {
-  "date" : "2021-08-04",
-  "keywords" : [ "mod", "mp3", "file", "extension", "format", "what is mod file format", "music", "mod file format", "mod vs MP3", "mod file format specification"],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "MOD ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি MOD ফাইল তৈরি, রূপান্তর এবং খুলতে পারে।",
-  "title" : "MOD - সঙ্গীত মডিউল ফাইল",
-  "linktitle" : "MOD",
-  "menu" : {
-    "docs" : {
-      "parent" : "audio"
-}
-},
-  "lastmod" : "2021-08-04"
+  "date": "2021-08-04",
+  "keywords": [
+    "mod",
+    "mp3",
+    "file",
+    "extension",
+    "format",
+    "what is mod file format",
+    "music",
+    "mod file format",
+    "mod vs MP3",
+    "mod file format specification"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "MOD ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি MOD ফাইল তৈরি, রূপান্তর এবং খুলতে পারে।",
+  "title": "MOD - সঙ্গীত মডিউল ফাইল",
+  "linktitle": "MOD",
+  "menu": {
+    "docs": {
+      "parent": "audio",
+      "identifier": "audio-mod-bn"
+    }
+  },
+  "lastmod": "2021-08-04"
 }
 
 ## একটি MOD ফাইল কি?

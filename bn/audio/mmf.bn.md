@@ -1,20 +1,32 @@
 {
-  "date" : "2021-08-09",
-  "keywords" : [ "mmf", "file", "extension", "format", "audio", "smaf", "mmf extension", "mmf files", "mobile music file", "yamaha"],
-  "author" : {
-    "display_name" : "Sami Cheema"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "MMF ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি MMF ফাইল তৈরি এবং খুলতে পারে৷",
-  "title" : "MMF - মোবাইল মিউজিক ফাইল ফরম্যাট",
-  "linktitle" : "MMF",
-  "menu" : {
-    "docs" : {
-      "parent" : "audio"
-}
-},
-  "lastmod" : "2021-08-09"
+  "date": "2021-08-09",
+  "keywords": [
+    "mmf",
+    "file",
+    "extension",
+    "format",
+    "audio",
+    "smaf",
+    "mmf extension",
+    "mmf files",
+    "mobile music file",
+    "yamaha"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "MMF ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি MMF ফাইল তৈরি এবং খুলতে পারে৷",
+  "title": "MMF - মোবাইল মিউজিক ফাইল ফরম্যাট",
+  "linktitle": "MMF",
+  "menu": {
+    "docs": {
+      "parent": "audio",
+      "identifier": "audio-mmf-bn"
+    }
+  },
+  "lastmod": "2021-08-09"
 }
 
 ## একটি MMF ফাইল কি?

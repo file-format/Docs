@@ -1,20 +1,30 @@
 {
-  "date" : "2021-08-05",
-  "keywords" : [ "gsm", "file", "extension", "format", "Audio", "Global System for Mobile Audio", "gsm extension", "gsm files"],
-  "author" : {
-    "display_name" : "Sami Cheema"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "জিএসএম ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা জিএসএম ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "GSM - মোবাইল অডিও ফাইল ফরম্যাটের জন্য গ্লোবাল সিস্টেম",
-  "linktitle" : "GSM",
-  "menu" : {
-    "docs" : {
-      "parent" : "audio"
-}
-},
-  "lastmod" : "2021-08-05"
+  "date": "2021-08-05",
+  "keywords": [
+    "gsm",
+    "file",
+    "extension",
+    "format",
+    "Audio",
+    "Global System for Mobile Audio",
+    "gsm extension",
+    "gsm files"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "জিএসএম ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা জিএসএম ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "GSM - মোবাইল অডিও ফাইল ফরম্যাটের জন্য গ্লোবাল সিস্টেম",
+  "linktitle": "GSM",
+  "menu": {
+    "docs": {
+      "parent": "audio",
+      "identifier": "audio-gsm-bn"
+    }
+  },
+  "lastmod": "2021-08-05"
 }
 
 ## একটি GSM ফাইল কি?

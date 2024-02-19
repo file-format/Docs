@@ -1,20 +1,30 @@
 {
-  "date" : "2021-08-27",
-  "keywords" : [ "vqf file", "vqf file format", "what is a vqf file", "file", "vqf example", "vqf file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"ভিকিউএফ ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা ভিকিউএফ ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "VQF - TwinVQ অডিও ফাইল",
-  "linktitle" : "VQF",
-  "menu" : {
-    "docs" : {
-      "parent" : "audio"
-}
-},
-  "lastmod" : "2021-08-27"
+  "date": "2021-08-27",
+  "keywords": [
+    "vqf file",
+    "vqf file format",
+    "what is a vqf file",
+    "file",
+    "vqf example",
+    "vqf file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "ভিকিউএফ ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা ভিকিউএফ ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "VQF - TwinVQ অডিও ফাইল",
+  "linktitle": "VQF",
+  "menu": {
+    "docs": {
+      "parent": "audio",
+      "identifier": "audio-vqf-bn"
+    }
+  },
+  "lastmod": "2021-08-27"
 }
 
 ## একটি VQF ফাইল কি?

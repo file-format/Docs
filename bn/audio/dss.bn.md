@@ -1,20 +1,33 @@
 {
-  "date" : "2021-04-26",
-  "keywords" : [ "dss", ".dss", "file", "extension", "format", "What is a DSS file", "music", "dss file format", "DSS file","convert dss to mp3", "How to play DSS files" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "DSS ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা DSS ফাইল তৈরি, রূপান্তর এবং খুলতে পারে।",
-  "title" : "DSS - ডিজিটাল স্পিচ স্ট্যান্ডার্ড ফাইল",
-  "linktitle" : "DSS",
-  "menu" : {
-    "docs" : {
-      "parent" : "audio"
-}
-},
-  "lastmod" : "2021-28-05"
+  "date": "2021-04-26",
+  "keywords": [
+    "dss",
+    ".dss",
+    "file",
+    "extension",
+    "format",
+    "What is a DSS file",
+    "music",
+    "dss file format",
+    "DSS file",
+    "convert dss to mp3",
+    "How to play DSS files"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "DSS ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা DSS ফাইল তৈরি, রূপান্তর এবং খুলতে পারে।",
+  "title": "DSS - ডিজিটাল স্পিচ স্ট্যান্ডার্ড ফাইল",
+  "linktitle": "DSS",
+  "menu": {
+    "docs": {
+      "parent": "audio",
+      "identifier": "audio-dss-bn"
+    }
+  },
+  "lastmod": "2021-28-05"
 }
 
 ## একটি DSS ফাইল কি?

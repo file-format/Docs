@@ -1,20 +1,28 @@
 {
-  "date" : "2019-12-13",
-  "keywords" : [ "WAV", "file", "extension", "format", "audio interchange file format", "music" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "WAV ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি WAV ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "WAV - ওয়েভফর্ম অডিও ফাইল ফরম্যাট",
-  "linktitle" : "WAV",
-  "menu" : {
-    "docs" : {
-      "parent" : "audio"
-}
-},
-  "lastmod" : "2019-12-13"
+  "date": "2019-12-13",
+  "keywords": [
+    "WAV",
+    "file",
+    "extension",
+    "format",
+    "audio interchange file format",
+    "music"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "WAV ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি WAV ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "WAV - ওয়েভফর্ম অডিও ফাইল ফরম্যাট",
+  "linktitle": "WAV",
+  "menu": {
+    "docs": {
+      "parent": "audio",
+      "identifier": "audio-wav-bn"
+    }
+  },
+  "lastmod": "2019-12-13"
 }
 
 ## একটি WAV ফাইল কি?

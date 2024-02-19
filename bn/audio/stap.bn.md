@@ -1,20 +1,28 @@
 {
-  "date" : "2019-12-13",
-  "keywords" : [ "STAP", "file", "extension", "format", "Audio", "MPEG" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "STAP ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি STAP ফাইলগুলি খুলতে এবং তৈরি করতে পারে৷",
-  "title" : "STAP - সাউন্ডট্র্যাক প্রো ফাইল ফরম্যাট",
-  "linktitle" : "STAP",
-  "menu" : {
-    "docs" : {
-      "parent" : "audio"
-}
-},
-  "lastmod" : "2020-09-04"
+  "date": "2019-12-13",
+  "keywords": [
+    "STAP",
+    "file",
+    "extension",
+    "format",
+    "Audio",
+    "MPEG"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "STAP ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি STAP ফাইলগুলি খুলতে এবং তৈরি করতে পারে৷",
+  "title": "STAP - সাউন্ডট্র্যাক প্রো ফাইল ফরম্যাট",
+  "linktitle": "STAP",
+  "menu": {
+    "docs": {
+      "parent": "audio",
+      "identifier": "audio-stap-bn"
+    }
+  },
+  "lastmod": "2020-09-04"
 }
 
 ## একটি STAP ফাইল কি?

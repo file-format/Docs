@@ -1,19 +1,20 @@
 {
-  "date" : "2022-07-13",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "WEBA ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি WEBA ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "title" : "WEBA - একটি WebA ফাইল কি?",
-  "linktitle" : "WEBA",
-  "menu" : {
-    "docs" : {
-      "parent" : "audio"
-}
-},
-  "lastmod" : "2022-07-13"
+  "date": "2022-07-13",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "WEBA ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি WEBA ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "title": "WEBA - একটি WebA ফাইল কি?",
+  "linktitle": "WEBA",
+  "menu": {
+    "docs": {
+      "parent": "audio",
+      "identifier": "audio-weba-bn"
+    }
+  },
+  "lastmod": "2022-07-13"
 }
 
 ## একটি WEBA ফাইল কি?

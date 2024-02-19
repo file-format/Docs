@@ -1,20 +1,32 @@
 {
-  "date" : "2021-08-11",
-  "keywords" : [ "vox", "file", "extension", "format", "audio", "ADPCM", "Dialogic ADPCM", "Xentec VOX Studio","vox extension", "vox files"],
-  "author" : {
-    "display_name" : "Sami Cheema"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "VOX ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা VOX ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "VOX - অডিও ফাইল ফরম্যাট",
-  "linktitle" : "VOX",
-  "menu" : {
-    "docs" : {
-      "parent" : "audio"
-}
-},
-  "lastmod" : "2021-08-11"
+  "date": "2021-08-11",
+  "keywords": [
+    "vox",
+    "file",
+    "extension",
+    "format",
+    "audio",
+    "ADPCM",
+    "Dialogic ADPCM",
+    "Xentec VOX Studio",
+    "vox extension",
+    "vox files"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "VOX ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা VOX ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "VOX - অডিও ফাইল ফরম্যাট",
+  "linktitle": "VOX",
+  "menu": {
+    "docs": {
+      "parent": "audio",
+      "identifier": "audio-vox-bn"
+    }
+  },
+  "lastmod": "2021-08-11"
 }
 
 ## একটি VOX ফাইল কি? ##

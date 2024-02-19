@@ -1,20 +1,28 @@
 {
-  "date" : "2019-12-13",
-  "keywords" : [ "AAC", "file", "extension", "format", "Audio Coding", "MPEG" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "AAC ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি AAC ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "AAC - উন্নত অডিও কোডিং ফাইল",
-  "linktitle" : "AAC",
-  "menu" : {
-    "docs" : {
-      "parent" : "audio"
-}
-},
-  "lastmod" : "2021-03-03"
+  "date": "2019-12-13",
+  "keywords": [
+    "AAC",
+    "file",
+    "extension",
+    "format",
+    "Audio Coding",
+    "MPEG"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "AAC ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি AAC ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "AAC - উন্নত অডিও কোডিং ফাইল",
+  "linktitle": "AAC",
+  "menu": {
+    "docs": {
+      "parent": "audio",
+      "identifier": "audio-aac-bn"
+    }
+  },
+  "lastmod": "2021-03-03"
 }
 
 ## একটি AAC ফাইল কি?

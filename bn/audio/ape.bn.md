@@ -1,20 +1,33 @@
 {
-  "date" : "2021-04-30",
-  "keywords" : [ "ape", ".ape", "file", "extension", "format", "what is ape file", "music", "ape file format", "ape file","ape file extension", "how to open ape file" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "APE ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা APE ফাইল তৈরি, রূপান্তর এবং খুলতে পারে।",
-  "title" : "APE - বানরের অডিও লসলেস অডিও ফাইল",
-  "linktitle" : "APE",
-  "menu" : {
-    "docs" : {
-      "parent" : "audio"
-}
-},
-  "lastmod" : "2021-04-30"
+  "date": "2021-04-30",
+  "keywords": [
+    "ape",
+    ".ape",
+    "file",
+    "extension",
+    "format",
+    "what is ape file",
+    "music",
+    "ape file format",
+    "ape file",
+    "ape file extension",
+    "how to open ape file"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "APE ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা APE ফাইল তৈরি, রূপান্তর এবং খুলতে পারে।",
+  "title": "APE - বানরের অডিও লসলেস অডিও ফাইল",
+  "linktitle": "APE",
+  "menu": {
+    "docs": {
+      "parent": "audio",
+      "identifier": "audio-ape-bn"
+    }
+  },
+  "lastmod": "2021-04-30"
 }
 
 ## APE ফাইল কি?

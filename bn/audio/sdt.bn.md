@@ -1,20 +1,28 @@
 {
-  "date" : "2019-12-13",
-  "keywords" : [ "SDT", "file", "extension", "format", "Audio", "MPEG" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "SDT ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি SDT ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "SDT ফাইল ফরম্যাট",
-  "linktitle" : "SDT",
-  "menu" : {
-    "docs" : {
-      "parent" : "audio"
-}
-},
-  "lastmod" : "2020-10-04"
+  "date": "2019-12-13",
+  "keywords": [
+    "SDT",
+    "file",
+    "extension",
+    "format",
+    "Audio",
+    "MPEG"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "SDT ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি SDT ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "SDT ফাইল ফরম্যাট",
+  "linktitle": "SDT",
+  "menu": {
+    "docs": {
+      "parent": "audio",
+      "identifier": "audio-sdt-bn"
+    }
+  },
+  "lastmod": "2020-10-04"
 }
 
 ## একটি SDT ফাইল কি?

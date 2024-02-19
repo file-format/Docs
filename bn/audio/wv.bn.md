@@ -1,20 +1,31 @@
 {
-  "date" : "2021-08-03",
-  "keywords" : [ "WV", "file", "extension", "format", "Audio", "WavPack", "wv extension", "wv files", "Sonarc compressor"],
-  "author" : {
-    "display_name" : "Sami Cheema"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "WV ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা WV ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "WV - WavPack অডিও ফাইল ফরম্যাট",
-  "linktitle" : "WV",
-  "menu" : {
-    "docs" : {
-      "parent" : "audio"
-}
-},
-  "lastmod" : "2021-08-03"
+  "date": "2021-08-03",
+  "keywords": [
+    "WV",
+    "file",
+    "extension",
+    "format",
+    "Audio",
+    "WavPack",
+    "wv extension",
+    "wv files",
+    "Sonarc compressor"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "WV ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা WV ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "WV - WavPack অডিও ফাইল ফরম্যাট",
+  "linktitle": "WV",
+  "menu": {
+    "docs": {
+      "parent": "audio",
+      "identifier": "audio-wv-bn"
+    }
+  },
+  "lastmod": "2021-08-03"
 }
 
 ## একটি WV ফাইল কি? ##

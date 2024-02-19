@@ -1,20 +1,31 @@
 {
-  "date" : "2021-06-08",
-  "keywords" : [ "AAX", "file", "extension", "format", "AAX file", "audio", "AAX file format", "what is an aax file", "AAX file format specifications" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "AAX ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা AAX ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "AAX - উন্নত অডিও কোডিং ফাইল",
-  "linktitle" : "AAX",
-  "menu" : {
-    "docs" : {
-      "parent" : "audio"
-}
-},
-  "lastmod" : "2021-06-08"
+  "date": "2021-06-08",
+  "keywords": [
+    "AAX",
+    "file",
+    "extension",
+    "format",
+    "AAX file",
+    "audio",
+    "AAX file format",
+    "what is an aax file",
+    "AAX file format specifications"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "AAX ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা AAX ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "AAX - উন্নত অডিও কোডিং ফাইল",
+  "linktitle": "AAX",
+  "menu": {
+    "docs": {
+      "parent": "audio",
+      "identifier": "audio-aax-bn"
+    }
+  },
+  "lastmod": "2021-06-08"
 }
 
 ## একটি AAX ফাইল কি?

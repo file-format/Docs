@@ -1,20 +1,32 @@
 {
-  "date" : "2021-04-26",
-  "keywords" : [ "aiff", "file", "extension", "format", "audio interchange file format", "music", "aiff file format", "aiff to mp3", "aiff vs wav", "convert aiff to mp3" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "AIFF ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা AIFF ফাইল তৈরি, রূপান্তর এবং খুলতে পারে।",
-  "title" : "AIFF - অডিও ইন্টারচেঞ্জ ফাইল ফরম্যাট",
-  "linktitle" : "AIFF",
-  "menu" : {
-    "docs" : {
-      "parent" : "audio"
-}
-},
-  "lastmod" : "2021-04-26"
+  "date": "2021-04-26",
+  "keywords": [
+    "aiff",
+    "file",
+    "extension",
+    "format",
+    "audio interchange file format",
+    "music",
+    "aiff file format",
+    "aiff to mp3",
+    "aiff vs wav",
+    "convert aiff to mp3"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "AIFF ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা AIFF ফাইল তৈরি, রূপান্তর এবং খুলতে পারে।",
+  "title": "AIFF - অডিও ইন্টারচেঞ্জ ফাইল ফরম্যাট",
+  "linktitle": "AIFF",
+  "menu": {
+    "docs": {
+      "parent": "audio",
+      "identifier": "audio-aiff-bn"
+    }
+  },
+  "lastmod": "2021-04-26"
 }
 
 ## একটি AIFF ফাইল কি?

@@ -1,20 +1,27 @@
 {
-  "date" : "2021-02-26",
-  "keywords" : [ "OPUS", "file", "extension", "format", "Audio Coding"],
-  "author" : {
-    "display_name" : "Sami Cheema"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "OPUS ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি OPUS ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "title" : "OPUS",
-  "linktitle" : "OPUS",
-  "menu" : {
-    "docs" : {
-      "parent" : "audio"
-}
-},
-  "lastmod" : "2021-02-26"
+  "date": "2021-02-26",
+  "keywords": [
+    "OPUS",
+    "file",
+    "extension",
+    "format",
+    "Audio Coding"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "OPUS ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি OPUS ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "title": "OPUS",
+  "linktitle": "OPUS",
+  "menu": {
+    "docs": {
+      "parent": "audio",
+      "identifier": "audio-opus-bn"
+    }
+  },
+  "lastmod": "2021-02-26"
 }
 
 ## একটি OPUS ফাইল কি?

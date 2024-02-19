@@ -1,20 +1,29 @@
 {
-  "date" : "2021-06-11",
-  "keywords" : [ "mp2", "mp2 file", "extension", "format", "what is an mp2 file", "music", "mp2 file format"],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "MP2 ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা MP2 ফাইল তৈরি, রূপান্তর এবং খুলতে পারে।",
-  "title" : "MP2 - MPEG লেয়ার 2 অডিও ফাইল ফরম্যাট",
-  "linktitle" : "MP2",
-  "menu" : {
-    "docs" : {
-      "parent" : "audio"
-}
-},
-  "lastmod" : "2021-06-11"
+  "date": "2021-06-11",
+  "keywords": [
+    "mp2",
+    "mp2 file",
+    "extension",
+    "format",
+    "what is an mp2 file",
+    "music",
+    "mp2 file format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "MP2 ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা MP2 ফাইল তৈরি, রূপান্তর এবং খুলতে পারে।",
+  "title": "MP2 - MPEG লেয়ার 2 অডিও ফাইল ফরম্যাট",
+  "linktitle": "MP2",
+  "menu": {
+    "docs": {
+      "parent": "audio",
+      "identifier": "audio-mp2-bn"
+    }
+  },
+  "lastmod": "2021-06-11"
 }
 
 ## একটি MP2 ফাইল কি?

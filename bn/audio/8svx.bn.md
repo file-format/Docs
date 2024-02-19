@@ -1,20 +1,30 @@
 {
-  "date" : "2021-08-04",
-  "keywords" : [ "8svx", "file", "extension", "format", "Audio Coding", "Audible AudioBook", "8svx extension", "8svx files"],
-  "author" : {
-    "display_name" : "Sami Cheema"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "8SVX ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা 8SVX ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "8SVX - 8Bit স্যাম্পলড ভয়েস ফাইল ফরম্যাট",
-  "linktitle" : "8SVX",
-  "menu" : {
-    "docs" : {
-      "parent" : "audio"
-}
-},
-  "lastmod" : "2021-08-04"
+  "date": "2021-08-04",
+  "keywords": [
+    "8svx",
+    "file",
+    "extension",
+    "format",
+    "Audio Coding",
+    "Audible AudioBook",
+    "8svx extension",
+    "8svx files"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "8SVX ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা 8SVX ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "8SVX - 8Bit স্যাম্পলড ভয়েস ফাইল ফরম্যাট",
+  "linktitle": "8SVX",
+  "menu": {
+    "docs": {
+      "parent": "audio",
+      "identifier": "audio-8svx-bn"
+    }
+  },
+  "lastmod": "2021-08-04"
 }
 
 ## একটি 8SVX ফাইল কি? ##

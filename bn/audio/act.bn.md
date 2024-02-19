@@ -1,20 +1,30 @@
 {
-  "date" : "2021-08-10",
-  "keywords" : [ "act", "file", "extension", "format", "Audio", "Adobe Color Table", "act extension", "act files"],
-  "author" : {
-    "display_name" : "Sami Cheema"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "ACT ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি ACT ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "title" : "ACT - ফাইল বিন্যাস",
-  "linktitle" : "ACT",
-  "menu" : {
-    "docs" : {
-      "parent" : "audio"
-}
-},
-  "lastmod" : "2021-08-10"
+  "date": "2021-08-10",
+  "keywords": [
+    "act",
+    "file",
+    "extension",
+    "format",
+    "Audio",
+    "Adobe Color Table",
+    "act extension",
+    "act files"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "ACT ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি ACT ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "title": "ACT - ফাইল বিন্যাস",
+  "linktitle": "ACT",
+  "menu": {
+    "docs": {
+      "parent": "audio",
+      "identifier": "audio-act-bn"
+    }
+  },
+  "lastmod": "2021-08-10"
 }
 
 ## একটি ACT ফাইল কি? ##

@@ -1,20 +1,28 @@
 {
-  "date" : "2021-02-20",
-  "keywords" : [ "WMA", "file", "extension", "format", "audio interchange file format", "music" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "WMA ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি WMA ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "WMA - উইন্ডোজ মিডিয়া অডিও ফাইল",
-  "linktitle" : "WMA",
-  "menu" : {
-    "docs" : {
-      "parent" : "audio"
-}
-},
-  "lastmod" : "2021-02-20"
+  "date": "2021-02-20",
+  "keywords": [
+    "WMA",
+    "file",
+    "extension",
+    "format",
+    "audio interchange file format",
+    "music"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "WMA ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি WMA ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "WMA - উইন্ডোজ মিডিয়া অডিও ফাইল",
+  "linktitle": "WMA",
+  "menu": {
+    "docs": {
+      "parent": "audio",
+      "identifier": "audio-wma-bn"
+    }
+  },
+  "lastmod": "2021-02-20"
 }
 
 ## একটি WMA ফাইল কি?

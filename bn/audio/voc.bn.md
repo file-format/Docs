@@ -1,20 +1,30 @@
 {
-  "date" : "2021-08-11",
-  "keywords" : [ "voc", "file", "extension", "format", "audio", "RCA digital voice recorder", "voc extension", "voc files"],
-  "author" : {
-    "display_name" : "Sami Cheema"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "VOC ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা VOC ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "VOC - অডিও ফাইল ফরম্যাট",
-  "linktitle" : "VOC",
-  "menu" : {
-    "docs" : {
-      "parent" : "audio"
-}
-},
-  "lastmod" : "2021-08-11"
+  "date": "2021-08-11",
+  "keywords": [
+    "voc",
+    "file",
+    "extension",
+    "format",
+    "audio",
+    "RCA digital voice recorder",
+    "voc extension",
+    "voc files"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "VOC ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা VOC ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "VOC - অডিও ফাইল ফরম্যাট",
+  "linktitle": "VOC",
+  "menu": {
+    "docs": {
+      "parent": "audio",
+      "identifier": "audio-voc-bn"
+    }
+  },
+  "lastmod": "2021-08-11"
 }
 
 ## একটি VOC ফাইল কি? ##

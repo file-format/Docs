@@ -1,20 +1,30 @@
 {
-  "date" : "2021-08-02",
-  "keywords" : [ "AA", "file", "extension", "format", "Audio Coding", "Audible AudioBook", "aa extension", "AA files"],
-  "author" : {
-    "display_name" : "Sami Cheema"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "AA ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা AA ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "AA - শ্রবণযোগ্য অডিওবুক ফাইল বিন্যাস",
-  "linktitle" : "AA",
-  "menu" : {
-    "docs" : {
-      "parent" : "audio"
-}
-},
-  "lastmod" : "2021-08-02"
+  "date": "2021-08-02",
+  "keywords": [
+    "AA",
+    "file",
+    "extension",
+    "format",
+    "Audio Coding",
+    "Audible AudioBook",
+    "aa extension",
+    "AA files"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "AA ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা AA ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "AA - শ্রবণযোগ্য অডিওবুক ফাইল বিন্যাস",
+  "linktitle": "AA",
+  "menu": {
+    "docs": {
+      "parent": "audio",
+      "identifier": "audio-aa-bn"
+    }
+  },
+  "lastmod": "2021-08-02"
 }
 
 ## একটি AA ফাইল কি?

@@ -1,19 +1,20 @@
 {
-  "date" : "2022-04-29",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "WFP ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি WFP ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "WFP ফাইল ফরম্যাট - ওয়েভফ্রন্ট প্রোগ্রাম ফাইল",
-  "linktitle" : "WFP",
-  "menu" : {
-    "docs" : {
-      "parent" : "audio"
-}
-},
-  "lastmod" : "2022-04-29"
+  "date": "2022-04-29",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "WFP ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি WFP ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "WFP ফাইল ফরম্যাট - ওয়েভফ্রন্ট প্রোগ্রাম ফাইল",
+  "linktitle": "WFP",
+  "menu": {
+    "docs": {
+      "parent": "audio",
+      "identifier": "audio-wfp-bn"
+    }
+  },
+  "lastmod": "2022-04-29"
 }
 
 ## একটি WFP ফাইল কি?

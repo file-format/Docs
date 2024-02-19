@@ -1,20 +1,28 @@
 {
-  "date" : "2019-12-13",
-  "keywords" : [ "AC3", "file", "extension", "format", "Audio Coding", "MPEG" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "AC3 ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা AC3 ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "AC3 - অডিও কোডেক 3 ফাইল",
-  "linktitle" : "AC3",
-  "menu" : {
-    "docs" : {
-      "parent" : "audio"
-}
-},
-  "lastmod" : "2019-12-13"
+  "date": "2019-12-13",
+  "keywords": [
+    "AC3",
+    "file",
+    "extension",
+    "format",
+    "Audio Coding",
+    "MPEG"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "AC3 ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা AC3 ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "AC3 - অডিও কোডেক 3 ফাইল",
+  "linktitle": "AC3",
+  "menu": {
+    "docs": {
+      "parent": "audio",
+      "identifier": "audio-ac3-bn"
+    }
+  },
+  "lastmod": "2019-12-13"
 }
 
 ## একটি AC3 ফাইল কি?

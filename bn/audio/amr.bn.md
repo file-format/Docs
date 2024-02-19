@@ -1,20 +1,33 @@
 {
-  "date" : "2021-04-29",
-  "keywords" : [ "amr", ".amr", "file", "extension", "format", "what is an amr file", "music", "amr file format", "amr file","convert amr file to mp3", "play amr file" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "AMR ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি AMR ফাইল তৈরি, রূপান্তর এবং খুলতে পারে।",
-  "title" : "AMR - অভিযোজিত মাল্টি-রেট কোডেক ফাইল",
-  "linktitle" : "AMR",
-  "menu" : {
-    "docs" : {
-      "parent" : "audio"
-}
-},
-  "lastmod" : "2021-04-29"
+  "date": "2021-04-29",
+  "keywords": [
+    "amr",
+    ".amr",
+    "file",
+    "extension",
+    "format",
+    "what is an amr file",
+    "music",
+    "amr file format",
+    "amr file",
+    "convert amr file to mp3",
+    "play amr file"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "AMR ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি AMR ফাইল তৈরি, রূপান্তর এবং খুলতে পারে।",
+  "title": "AMR - অভিযোজিত মাল্টি-রেট কোডেক ফাইল",
+  "linktitle": "AMR",
+  "menu": {
+    "docs": {
+      "parent": "audio",
+      "identifier": "audio-amr-bn"
+    }
+  },
+  "lastmod": "2021-04-29"
 }
 
 ## একটি AMR ফাইল কি?
