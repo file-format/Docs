@@ -1,20 +1,27 @@
 {
-  "date" : "2021-08-10",
-  "keywords" : [ ".wbfs file", "file format", "what is a .wbfs file", "file", "file extension"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-   "toc" : true,
-  "description" : "একটি .wbfs ফাইল এবং APIগুলি কী তা সম্পর্কে জানুন যা wbfs ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "title" : "WBFS ফাইল ফরম্যাট - Wii ব্যাকআপ ফাইল সিস্টেম ফাইল",
-  "linktitle" : "WBFS",
-  "menu" : {
-    "docs" : {
-      "parent" : "disc-and-media"
-}
-},
-  "lastmod" : "2022-01-03"
+  "date": "2021-08-10",
+  "keywords": [
+    ".wbfs file",
+    "file format",
+    "what is a .wbfs file",
+    "file",
+    "file extension"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "একটি .wbfs ফাইল এবং APIগুলি কী তা সম্পর্কে জানুন যা wbfs ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "title": "WBFS ফাইল ফরম্যাট - Wii ব্যাকআপ ফাইল সিস্টেম ফাইল",
+  "linktitle": "WBFS",
+  "menu": {
+    "docs": {
+      "parent": "disc-and-media",
+      "identifier": "disc-and-media-wbfs-bn"
+    }
+  },
+  "lastmod": "2022-01-03"
 }
 
 ## একটি WBFS ফাইল কি?

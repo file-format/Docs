@@ -1,20 +1,32 @@
 {
-  "date" : "2022-04-01",
-  "keywords" : [ "nkit file", "nkit file format", "what is an nkit file", "file", "nkit example", "nkit file extension","extension", "format", "nkit footer", "file format of nkit"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-   "toc" : true,
-  "description" : "NKIT ফাইল ফরম্যাট এবং APIগুলি সম্পর্কে জানুন যা NKIT ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "title" : "NKIT - ডিস্ক ইমেজ ফাইল ফরম্যাট",
-  "linktitle" : "NKIT",
-  "menu" : {
-    "docs" : {
-      "parent" : "disc-and-media"
-}
-},
-  "lastmod" : "2022-04-01"
+  "date": "2022-04-01",
+  "keywords": [
+    "nkit file",
+    "nkit file format",
+    "what is an nkit file",
+    "file",
+    "nkit example",
+    "nkit file extension",
+    "extension",
+    "format",
+    "nkit footer",
+    "file format of nkit"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "NKIT ফাইল ফরম্যাট এবং APIগুলি সম্পর্কে জানুন যা NKIT ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "title": "NKIT - ডিস্ক ইমেজ ফাইল ফরম্যাট",
+  "linktitle": "NKIT",
+  "menu": {
+    "docs": {
+      "parent": "disc-and-media",
+      "identifier": "disc-and-media-nkit-bn"
+    }
+  },
+  "lastmod": "2022-04-01"
 }
 
 ## একটি NKIT ফাইল কি?

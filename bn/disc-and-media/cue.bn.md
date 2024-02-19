@@ -1,20 +1,32 @@
 {
-  "date" : "2021-06-09",
-  "keywords" : [ "cue", "file", "extension", "format", "what is a cue file", "music", "cue file format", "cue file format specification", "cue sheet", "CDRWIN"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "CUE ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা CUE ফাইল তৈরি, রূপান্তর এবং খুলতে পারে।",
-  "title" : "CUE - কিউ শীট ফাইল",
-  "linktitle" : "CUE",
-  "menu" : {
-    "docs" : {
-      "parent" : "disc-and-media"
-}
-},
-  "lastmod" : "2021-07-01"
+  "date": "2021-06-09",
+  "keywords": [
+    "cue",
+    "file",
+    "extension",
+    "format",
+    "what is a cue file",
+    "music",
+    "cue file format",
+    "cue file format specification",
+    "cue sheet",
+    "CDRWIN"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "CUE ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা CUE ফাইল তৈরি, রূপান্তর এবং খুলতে পারে।",
+  "title": "CUE - কিউ শীট ফাইল",
+  "linktitle": "CUE",
+  "menu": {
+    "docs": {
+      "parent": "disc-and-media",
+      "identifier": "disc-and-media-cue-bn"
+    }
+  },
+  "lastmod": "2021-07-01"
 }
 
 ## একটি CUE ফাইল কি?

@@ -1,20 +1,27 @@
 {
-  "date" : "2021-08-10",
-  "keywords" : [ ".ova file", "file format", "what is an .ova file", "file", "file extension"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-   "toc" : true,
-  "description" : ".ova ফাইল ফরম্যাট এবং APIগুলি কী তা সম্পর্কে জানুন যা ova ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "title" : "OVA ফাইল ফরম্যাট - ভার্চুয়াল অ্যাপ্লায়েন্স ফাইল খুলুন",
-  "linktitle" : "OVA",
-  "menu" : {
-    "docs" : {
-      "parent" : "disc-and-media"
-}
-},
-  "lastmod" : "2022-01-03"
+  "date": "2021-08-10",
+  "keywords": [
+    ".ova file",
+    "file format",
+    "what is an .ova file",
+    "file",
+    "file extension"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": ".ova ফাইল ফরম্যাট এবং APIগুলি কী তা সম্পর্কে জানুন যা ova ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "title": "OVA ফাইল ফরম্যাট - ভার্চুয়াল অ্যাপ্লায়েন্স ফাইল খুলুন",
+  "linktitle": "OVA",
+  "menu": {
+    "docs": {
+      "parent": "disc-and-media",
+      "identifier": "disc-and-media-ova-bn"
+    }
+  },
+  "lastmod": "2022-01-03"
 }
 
 ## একটি OVA ফাইল কি?

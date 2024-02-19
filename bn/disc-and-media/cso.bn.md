@@ -1,20 +1,32 @@
 {
-  "date" : "2021-08-09",
-  "keywords" : [ "cso file", "cso file format", "what is an cso file", "file", "cso example", "cso file extension","extension", "format", "iso", "DAX compression" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-   "toc" : true,
-  "description" : "CSO ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি CSO ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "CSO - সংকুচিত ISO ডিস্ক চিত্র",
-  "linktitle" : "CSO",
-  "menu" : {
-    "docs" : {
-      "parent" : "disc-and-media"
-}
-},
-  "lastmod" : "2021-08-09"
+  "date": "2021-08-09",
+  "keywords": [
+    "cso file",
+    "cso file format",
+    "what is an cso file",
+    "file",
+    "cso example",
+    "cso file extension",
+    "extension",
+    "format",
+    "iso",
+    "DAX compression"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "CSO ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি CSO ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "CSO - সংকুচিত ISO ডিস্ক চিত্র",
+  "linktitle": "CSO",
+  "menu": {
+    "docs": {
+      "parent": "disc-and-media",
+      "identifier": "disc-and-media-cso-bn"
+    }
+  },
+  "lastmod": "2021-08-09"
 }
 
 ## একটি CSO ফাইল কি?

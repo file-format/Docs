@@ -1,20 +1,30 @@
 {
-  "date" : "2021-08-11",
-  "keywords" : [ "vdi file", "vdi file format", "what is a vdi file", "file", "vdi example", "vdi file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-   "toc" : true,
-  "description" : "ভিডিআই ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা ভিডিআই ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "VDI - ভার্চুয়ালবক্স ভার্চুয়াল ডিস্ক ইমেজ ফাইল",
-  "linktitle" : "VDI",
-  "menu" : {
-    "docs" : {
-      "parent" : "disc-and-media"
-}
-},
-  "lastmod" : "2021-08-11"
+  "date": "2021-08-11",
+  "keywords": [
+    "vdi file",
+    "vdi file format",
+    "what is a vdi file",
+    "file",
+    "vdi example",
+    "vdi file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "ভিডিআই ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা ভিডিআই ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "VDI - ভার্চুয়ালবক্স ভার্চুয়াল ডিস্ক ইমেজ ফাইল",
+  "linktitle": "VDI",
+  "menu": {
+    "docs": {
+      "parent": "disc-and-media",
+      "identifier": "disc-and-media-vdi-bn"
+    }
+  },
+  "lastmod": "2021-08-11"
 }
 
 ## একটি VDI ফাইল কি?

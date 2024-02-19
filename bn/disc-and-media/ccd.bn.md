@@ -1,20 +1,32 @@
 {
-  "date" : "2021-08-06",
-  "keywords" : [ "ccd file", "ccd file format", "what is an ccd file", "file", "ccd example", "ccd file extension","extension", "format", "CloneCD Control", "img" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-   "toc" : true,
-  "description" : "সিসিডি ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা সিসিডি ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "সিসিডি - ক্লোনসিডি কন্ট্রোল ফাইল",
-  "linktitle" : "CCD",
-  "menu" : {
-    "docs" : {
-      "parent" : "disc-and-media"
-}
-},
-  "lastmod" : "2021-08-06"
+  "date": "2021-08-06",
+  "keywords": [
+    "ccd file",
+    "ccd file format",
+    "what is an ccd file",
+    "file",
+    "ccd example",
+    "ccd file extension",
+    "extension",
+    "format",
+    "CloneCD Control",
+    "img"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "সিসিডি ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা সিসিডি ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "সিসিডি - ক্লোনসিডি কন্ট্রোল ফাইল",
+  "linktitle": "CCD",
+  "menu": {
+    "docs": {
+      "parent": "disc-and-media",
+      "identifier": "disc-and-media-ccd-bn"
+    }
+  },
+  "lastmod": "2021-08-06"
 }
 
 ## একটি CCD ফাইল কি?

@@ -1,20 +1,29 @@
 {
-  "date" : "2021-06-23",
-  "keywords": [ "Bin file", "what is a bin file", "extension", "format", "disc image", "what is a bin file", "iso" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
- "toc" : true,	
-  "description" : "BIN ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি BIN ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "BIN - বাইনারি ডিস্ক ইমেজ ফাইল",
-  "linktitle" : "BIN",
-  "menu" : {
-    "docs" : {
-      "parent" : "disc-and-media"
-}
-},
-  "lastmod" : "2021-06-23"
+  "date": "2021-06-23",
+  "keywords": [
+    "Bin file",
+    "what is a bin file",
+    "extension",
+    "format",
+    "disc image",
+    "what is a bin file",
+    "iso"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "BIN ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি BIN ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "BIN - বাইনারি ডিস্ক ইমেজ ফাইল",
+  "linktitle": "BIN",
+  "menu": {
+    "docs": {
+      "parent": "disc-and-media",
+      "identifier": "disc-and-media-bin-bn"
+    }
+  },
+  "lastmod": "2021-06-23"
 }
 
 ## একটি BIN ফাইল কি?

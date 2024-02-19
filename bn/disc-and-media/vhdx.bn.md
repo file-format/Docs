@@ -1,19 +1,20 @@
 {
-  "date" : "2022-07-22",
-  "author" : {
-    "display_name" : "Sami Cheema"
-},
-  "draft" : "false",
-   "toc" : true,
-  "description" : "ভিএইচডিএক্স ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা ভিএইচডিএক্স ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "VHDX ফাইল ফরম্যাট - একটি VHDX ফাইল কি?",
-  "linktitle" : "VHDX",
-  "menu" : {
-    "docs" : {
-      "parent" : "disc-and-media"
-}
-},
-  "lastmod" : "2022-07-22"
+  "date": "2022-07-22",
+  "author": {
+    "display_name": "Sami Cheema"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "ভিএইচডিএক্স ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা ভিএইচডিএক্স ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "VHDX ফাইল ফরম্যাট - একটি VHDX ফাইল কি?",
+  "linktitle": "VHDX",
+  "menu": {
+    "docs": {
+      "parent": "disc-and-media",
+      "identifier": "disc-and-media-vhdx-bn"
+    }
+  },
+  "lastmod": "2022-07-22"
 }
 
 ## একটি VHDX ফাইল কি?

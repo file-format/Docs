@@ -1,20 +1,30 @@
 {
-  "date" : "2021-08-11",
-  "keywords" : [ "wim file", "wim file format", "what is a wim file", "file", "wim example", "wim file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-   "toc" : true,
-  "description" : "WIM ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি WIM ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "title" : "WIM - উইন্ডোজ ইমেজিং ফরম্যাট ফাইল",
-  "linktitle" : "WIM",
-  "menu" : {
-    "docs" : {
-      "parent" : "disc-and-media"
-}
-},
-  "lastmod" : "2021-08-11"
+  "date": "2021-08-11",
+  "keywords": [
+    "wim file",
+    "wim file format",
+    "what is a wim file",
+    "file",
+    "wim example",
+    "wim file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "WIM ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি WIM ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "title": "WIM - উইন্ডোজ ইমেজিং ফরম্যাট ফাইল",
+  "linktitle": "WIM",
+  "menu": {
+    "docs": {
+      "parent": "disc-and-media",
+      "identifier": "disc-and-media-wim-bn"
+    }
+  },
+  "lastmod": "2021-08-11"
 }
 
 ## একটি WIM ফাইল কি?

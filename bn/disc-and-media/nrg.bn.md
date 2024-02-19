@@ -1,20 +1,34 @@
 {
-  "date" : "2021-08-16",
-  "keywords" : [ "nrg file", "nrg file format", "what is a nrg file", "file", "nrg example", "nrg file extension","extension", "format", "nrg footer", "file format of nrg", "Nero Burning Rom", "Nero AG" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
-},
-  "draft" : "false",
-   "toc" : true,
-  "description" : "এনআরজি ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা এনআরজি ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "NRG - ডিস্ক ইমেজ ফাইল ফরম্যাট",
-  "linktitle" : "NRG",
-  "menu" : {
-    "docs" : {
-      "parent" : "disc-and-media"
-}
-},
-  "lastmod" : "2021-08-16"
+  "date": "2021-08-16",
+  "keywords": [
+    "nrg file",
+    "nrg file format",
+    "what is a nrg file",
+    "file",
+    "nrg example",
+    "nrg file extension",
+    "extension",
+    "format",
+    "nrg footer",
+    "file format of nrg",
+    "Nero Burning Rom",
+    "Nero AG"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "এনআরজি ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা এনআরজি ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "NRG - ডিস্ক ইমেজ ফাইল ফরম্যাট",
+  "linktitle": "NRG",
+  "menu": {
+    "docs": {
+      "parent": "disc-and-media",
+      "identifier": "disc-and-media-nrg-bn"
+    }
+  },
+  "lastmod": "2021-08-16"
 }
 
 ## একটি NRG ফাইল কি?

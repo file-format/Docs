@@ -1,20 +1,27 @@
 {
-  "date" : "2021-08-10",
-  "keywords" : [ ".ovf file", "file format", "what is an .ovf file", "file", "file extension"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-   "toc" : true,
-  "description" : ".ovf ফাইল ফরম্যাট এবং এপিআইগুলি কী তা সম্পর্কে জানুন যা OVF ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "title" : "OVF ফাইল ফরম্যাট - ভার্চুয়ালাইজেশন ফাইল খুলুন",
-  "linktitle" : "OVF",
-  "menu" : {
-    "docs" : {
-      "parent" : "disc-and-media"
-}
-},
-  "lastmod" : "2022-01-03"
+  "date": "2021-08-10",
+  "keywords": [
+    ".ovf file",
+    "file format",
+    "what is an .ovf file",
+    "file",
+    "file extension"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": ".ovf ফাইল ফরম্যাট এবং এপিআইগুলি কী তা সম্পর্কে জানুন যা OVF ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "title": "OVF ফাইল ফরম্যাট - ভার্চুয়ালাইজেশন ফাইল খুলুন",
+  "linktitle": "OVF",
+  "menu": {
+    "docs": {
+      "parent": "disc-and-media",
+      "identifier": "disc-and-media-ovf-bn"
+    }
+  },
+  "lastmod": "2022-01-03"
 }
 
 ## একটি OVF ফাইল কি?

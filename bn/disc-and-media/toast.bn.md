@@ -1,20 +1,27 @@
 {
-  "date" : "2021-06-23",
-  "keywords": [ "Roxio Toast","toast file", "what is a toast file", "extension", "format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
- "toc" : true,
-  "description" : "টোস্ট ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা টোস্ট ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "টোস্ট - টোস্ট ডিস্ক ইমেজ ফাইল",
-  "linktitle" : "Toast",
-  "menu" : {
-    "docs" : {
-      "parent" : "disc-and-media"
-}
-},
-  "lastmod" : "2021-06-23"
+  "date": "2021-06-23",
+  "keywords": [
+    "Roxio Toast",
+    "toast file",
+    "what is a toast file",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "টোস্ট ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা টোস্ট ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "টোস্ট - টোস্ট ডিস্ক ইমেজ ফাইল",
+  "linktitle": "Toast",
+  "menu": {
+    "docs": {
+      "parent": "disc-and-media",
+      "identifier": "disc-and-media-toast-bn"
+    }
+  },
+  "lastmod": "2021-06-23"
 }
 
 ## একটি টোস্ট ফাইল কি?

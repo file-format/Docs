@@ -1,20 +1,30 @@
 {
-  "date" : "2021-08-10",
-  "keywords" : [ "rom file", "rom file format", "what is an rom file", "file", "rom example", "rom file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-   "toc" : true,
-  "description" : "রম ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা রম ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "ROM - রিড অনলি মেমরি ইমেজ ফাইল",
-  "linktitle" : "ROM",
-  "menu" : {
-    "docs" : {
-      "parent" : "disc-and-media"
-}
-},
-  "lastmod" : "2021-08-10"
+  "date": "2021-08-10",
+  "keywords": [
+    "rom file",
+    "rom file format",
+    "what is an rom file",
+    "file",
+    "rom example",
+    "rom file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "রম ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা রম ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "ROM - রিড অনলি মেমরি ইমেজ ফাইল",
+  "linktitle": "ROM",
+  "menu": {
+    "docs": {
+      "parent": "disc-and-media",
+      "identifier": "disc-and-media-rom-bn"
+    }
+  },
+  "lastmod": "2021-08-10"
 }
 
 ## রম ফাইল কি?

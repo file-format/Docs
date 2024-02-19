@@ -1,20 +1,26 @@
 {
-  "date" : "2021-06-24",
-  "keywords": [ "VCD file", "what is a vcd file", "extension", "format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-   "toc" : true,
-  "description" : "ভিসিডি ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা ভিসিডি ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "ভিসিডি - ভার্চুয়াল সিডি ফাইল",
-  "linktitle" : "VCD",
-  "menu" : {
-    "docs" : {
-      "parent" : "disc-and-media"
-}
-},
-  "lastmod" : "2021-06-24"
+  "date": "2021-06-24",
+  "keywords": [
+    "VCD file",
+    "what is a vcd file",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "ভিসিডি ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা ভিসিডি ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "ভিসিডি - ভার্চুয়াল সিডি ফাইল",
+  "linktitle": "VCD",
+  "menu": {
+    "docs": {
+      "parent": "disc-and-media",
+      "identifier": "disc-and-media-vcd-bn"
+    }
+  },
+  "lastmod": "2021-06-24"
 }
 
 ## একটি VCD ফাইল কি?

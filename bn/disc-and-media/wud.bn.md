@@ -1,19 +1,20 @@
 {
-  "date" : "2022-03-13",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-   "toc" : true,
-  "description" : "WUD ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা WUD ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "WUD ফাইল ফরম্যাট - Wii U ডিস্ক ইমেজ ফাইল",
-  "linktitle" : "WUD",
-  "menu" : {
-    "docs" : {
-      "parent" : "disc-and-media"
-}
-},
-  "lastmod" : "2022-03-13"
+  "date": "2022-03-13",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "WUD ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা WUD ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "WUD ফাইল ফরম্যাট - Wii U ডিস্ক ইমেজ ফাইল",
+  "linktitle": "WUD",
+  "menu": {
+    "docs": {
+      "parent": "disc-and-media",
+      "identifier": "disc-and-media-wud-bn"
+    }
+  },
+  "lastmod": "2022-03-13"
 }
 
 ## একটি WUD ফাইল কি?

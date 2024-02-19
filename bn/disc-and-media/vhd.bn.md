@@ -1,20 +1,34 @@
 {
-  "date" : "2021-08-17",
-  "keywords" : [ "vhd file", "vhd file format", "what is a vhd file", "file", "vhd example", "vhd file extension","extension", "format", "Virtual Hard Disk", "Connectix", "VHDx", "Microsoft" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
-},
-  "draft" : "false",
-   "toc" : true,
-  "description" : "ভিএইচডি ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা ভিএইচডি ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "VHD - ভার্চুয়াল হার্ড ডিস্ক ফাইল ফরম্যাট",
-  "linktitle" : "VHD",
-  "menu" : {
-    "docs" : {
-      "parent" : "disc-and-media"
-}
-},
-  "lastmod" : "2021-08-17"
+  "date": "2021-08-17",
+  "keywords": [
+    "vhd file",
+    "vhd file format",
+    "what is a vhd file",
+    "file",
+    "vhd example",
+    "vhd file extension",
+    "extension",
+    "format",
+    "Virtual Hard Disk",
+    "Connectix",
+    "VHDx",
+    "Microsoft"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "ভিএইচডি ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা ভিএইচডি ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "VHD - ভার্চুয়াল হার্ড ডিস্ক ফাইল ফরম্যাট",
+  "linktitle": "VHD",
+  "menu": {
+    "docs": {
+      "parent": "disc-and-media",
+      "identifier": "disc-and-media-vhd-bn"
+    }
+  },
+  "lastmod": "2021-08-17"
 }
 
 ## একটি VHD ফাইল কি?

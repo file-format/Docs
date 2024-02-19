@@ -1,20 +1,28 @@
 {
-  "date" : "2021-06-24",
-  "keywords": [ "GADGET file", "what is a gadget file", "extension", "format", "what is a GADGET file", "archive" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-   "toc" : true,
-  "description" : "GADGET ফাইল ফরম্যাট এবং APIগুলি সম্পর্কে জানুন যা GADGET ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "title" : "গ্যাজেট - ভার্চুয়াল সিডি ফাইল",
-  "linktitle" : "GADGET",
-  "menu" : {
-    "docs" : {
-      "parent" : "disc-and-media"
-}
-},
-  "lastmod" : "2021-06-24"
+  "date": "2021-06-24",
+  "keywords": [
+    "GADGET file",
+    "what is a gadget file",
+    "extension",
+    "format",
+    "what is a GADGET file",
+    "archive"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "GADGET ফাইল ফরম্যাট এবং APIগুলি সম্পর্কে জানুন যা GADGET ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "title": "গ্যাজেট - ভার্চুয়াল সিডি ফাইল",
+  "linktitle": "GADGET",
+  "menu": {
+    "docs": {
+      "parent": "disc-and-media",
+      "identifier": "disc-and-media-gadget-bn"
+    }
+  },
+  "lastmod": "2021-06-24"
 }
 
 ## একটি GADGET ফাইল কি?

@@ -1,20 +1,30 @@
 {
-  "date" : "2021-08-13",
-  "keywords" : [ "sdi file", "sdi file format", "what is an sdi file", "file", "sdi example", "sdi file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-   "toc" : true,
-  "description" : "SDI ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি SDI ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "SDI - উইন্ডোজ সিস্টেম ডিপ্লয়মেন্ট ইমেজ ফাইল",
-  "linktitle" : "SDI",
-  "menu" : {
-    "docs" : {
-      "parent" : "disc-and-media"
-}
-},
-  "lastmod" : "2021-08-13"
+  "date": "2021-08-13",
+  "keywords": [
+    "sdi file",
+    "sdi file format",
+    "what is an sdi file",
+    "file",
+    "sdi example",
+    "sdi file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "SDI ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি SDI ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "SDI - উইন্ডোজ সিস্টেম ডিপ্লয়মেন্ট ইমেজ ফাইল",
+  "linktitle": "SDI",
+  "menu": {
+    "docs": {
+      "parent": "disc-and-media",
+      "identifier": "disc-and-media-sdi-bn"
+    }
+  },
+  "lastmod": "2021-08-13"
 }
 
 ## একটি SDI ফাইল কি?
