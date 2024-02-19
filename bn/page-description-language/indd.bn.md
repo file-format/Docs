@@ -1,20 +1,28 @@
 {
-  "date" : "2019-12-12",
-  "keywords" : [ "indd", "file", "extension", "file format", "Page Layout", "Adobe InDesign" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"INDD ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি INDD ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "title" : "INDD - Adobe InDesign পেজ লেআউট ফাইল",
-  "linktitle" : "INDD",
-  "menu" : {
-    "docs" : {
-      "parent" : "page-description-language"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-12-12",
+  "keywords": [
+    "indd",
+    "file",
+    "extension",
+    "file format",
+    "Page Layout",
+    "Adobe InDesign"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "INDD ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি INDD ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "title": "INDD - Adobe InDesign পেজ লেআউট ফাইল",
+  "linktitle": "INDD",
+  "menu": {
+    "docs": {
+      "parent": "page-description-language",
+      "identifier": "page-description-language-indd-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি INDD ফাইল কি?

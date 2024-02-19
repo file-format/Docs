@@ -1,19 +1,20 @@
 {
-  "date" : "2019-10-11",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "PCL",
-  "description":"Learn about পিসিএল file format and APIs that can create and open পিসিএল files.",
-  "linktitle" : "PCL",
-  "menu" : {
-    "docs" : {
-      "parent" : "page-description-language"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "PCL",
+  "description": "Learn about পিসিএল file format and APIs that can create and open পিসিএল files.",
+  "linktitle": "PCL",
+  "menu": {
+    "docs": {
+      "parent": "page-description-language",
+      "identifier": "page-description-language-pcl-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি পিসিএল ফাইল কি? ##

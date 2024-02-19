@@ -1,20 +1,29 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "XPS", "XML Paper Specifications", "File", "Extension", "File Format", "EMF", "PDF"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "XPS - পৃষ্ঠা বিন্যাস ফাইল বিন্যাস",
-  "description":"XPS ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি XPS ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "XPS",
-  "menu" : {
-    "docs" : {
-      "parent" : "page-description-language"
-}
-},
-  "lastmod" : "2021-04-23"
+  "date": "2019-10-11",
+  "keywords": [
+    "XPS",
+    "XML Paper Specifications",
+    "File",
+    "Extension",
+    "File Format",
+    "EMF",
+    "PDF"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "XPS - পৃষ্ঠা বিন্যাস ফাইল বিন্যাস",
+  "description": "XPS ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি XPS ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "XPS",
+  "menu": {
+    "docs": {
+      "parent": "page-description-language",
+      "identifier": "page-description-language-xps-bn"
+    }
+  },
+  "lastmod": "2021-04-23"
 }
 
 ## একটি XPS ফাইল কি?

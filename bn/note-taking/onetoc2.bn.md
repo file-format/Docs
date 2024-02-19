@@ -1,19 +1,20 @@
 {
-  "date" : "2019-10-11",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ONETOC2 - Microsoft OneNote ফাইল ফরম্যাট",
-  "description":"ONETOC2 ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা ONETOC2 ফাইল তৈরি করতে এবং খুলতে পারে।",
-  "linktitle" : "ONETOC2",
-  "menu" : {
-    "docs" : {
-      "parent" : "note-taking"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "ONETOC2 - Microsoft OneNote ফাইল ফরম্যাট",
+  "description": "ONETOC2 ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা ONETOC2 ফাইল তৈরি করতে এবং খুলতে পারে।",
+  "linktitle": "ONETOC2",
+  "menu": {
+    "docs": {
+      "parent": "note-taking",
+      "identifier": "note-taking-onetoc2-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## ONETOC2 কি? ##

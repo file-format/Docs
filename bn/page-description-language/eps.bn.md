@@ -1,20 +1,28 @@
 {
-  "date" : "2019-12-12",
-  "keywords" : [ "EPS", "file", "extension", "file format", "Page Layout", "Encapsulated PostScript" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"EPS ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি EPS ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "ইপিএস ফাইল ফরম্যাট - এনক্যাপসুলেটেড পোস্টস্ক্রিপ্ট ফাইল",
-  "linktitle" : "EPS",
-  "menu" : {
-    "docs" : {
-      "parent" : "page-description-language"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-12-12",
+  "keywords": [
+    "EPS",
+    "file",
+    "extension",
+    "file format",
+    "Page Layout",
+    "Encapsulated PostScript"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "EPS ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি EPS ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "ইপিএস ফাইল ফরম্যাট - এনক্যাপসুলেটেড পোস্টস্ক্রিপ্ট ফাইল",
+  "linktitle": "EPS",
+  "menu": {
+    "docs": {
+      "parent": "page-description-language",
+      "identifier": "page-description-language-eps-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি EPS ফাইল কি?

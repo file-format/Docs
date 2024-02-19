@@ -1,20 +1,28 @@
 {
-  "date" : "2019-12-12",
-  "keywords" : [ "indt", "file", "extension", "file format", "Page Layout", "Adobe InDesign Template" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"INDT ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা INDT ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "INDT - Adobe InDesign পৃষ্ঠা লেআউট টেমপ্লেট ফাইল",
-  "linktitle" : "INDT",
-  "menu" : {
-    "docs" : {
-      "parent" : "page-description-language"
-}
-},
-  "lastmod" : "2021-12-24"
+  "date": "2019-12-12",
+  "keywords": [
+    "indt",
+    "file",
+    "extension",
+    "file format",
+    "Page Layout",
+    "Adobe InDesign Template"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "INDT ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা INDT ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "INDT - Adobe InDesign পৃষ্ঠা লেআউট টেমপ্লেট ফাইল",
+  "linktitle": "INDT",
+  "menu": {
+    "docs": {
+      "parent": "page-description-language",
+      "identifier": "page-description-language-indt-bn"
+    }
+  },
+  "lastmod": "2021-12-24"
 }
 
 ## একটি INDT ফাইল কি?

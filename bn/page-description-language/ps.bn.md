@@ -1,19 +1,20 @@
 {
-  "date" : "2019-10-11",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "পিএস ফাইল ফরম্যাট",
-  "description":"পিএস ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা পিএস ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "PS",
-  "menu" : {
-    "docs" : {
-      "parent" : "page-description-language"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "পিএস ফাইল ফরম্যাট",
+  "description": "পিএস ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা পিএস ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "PS",
+  "menu": {
+    "docs": {
+      "parent": "page-description-language",
+      "identifier": "page-description-language-ps-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি .PS ফাইল কি? ##

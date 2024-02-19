@@ -1,19 +1,20 @@
 {
-  "date" : "2022-10-12",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "AVERY ফাইল - Avery ডিজাইন এবং প্রিন্ট লেবেল ফাইল ফরম্যাট",
-  "description":"একটি AVERY ফাইল কি?",
-  "linktitle" : "AVERY",
-  "menu" : {
-    "docs" : {
-      "parent" : "page-description-language"
-}
-},
-  "lastmod" : "2022-10-12"
+  "date": "2022-10-12",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "AVERY ফাইল - Avery ডিজাইন এবং প্রিন্ট লেবেল ফাইল ফরম্যাট",
+  "description": "একটি AVERY ফাইল কি?",
+  "linktitle": "AVERY",
+  "menu": {
+    "docs": {
+      "parent": "page-description-language",
+      "identifier": "page-description-language-avery-bn"
+    }
+  },
+  "lastmod": "2022-10-12"
 }
 
 ## একটি AVERY ফাইল কি?

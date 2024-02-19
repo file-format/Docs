@@ -1,19 +1,20 @@
 {
-  "date" : "2019-10-11",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ONE - Microsoft OneNote ফাইল ফরম্যাট",
-  "description":"ONE ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা একটি ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "ONE",
-  "menu" : {
-    "docs" : {
-      "parent" : "note-taking"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "ONE - Microsoft OneNote ফাইল ফরম্যাট",
+  "description": "ONE ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা একটি ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "ONE",
+  "menu": {
+    "docs": {
+      "parent": "note-taking",
+      "identifier": "note-taking-one-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি .ONE ফাইল কি? ##

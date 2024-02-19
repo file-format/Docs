@@ -1,20 +1,26 @@
 {
-  "date" : "2021-04-16",
-  "keywords" : [ "OXPS", "File", "Extension", "File Format"],
-  "author" : {
-    "display_name" : "Sami Cheema"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "OXPS ফাইল ফরম্যাট",
-  "description":"OXPS ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা OXPS ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "OXPS",
-  "menu" : {
-    "docs" : {
-      "parent" : "page-description-language"
-}
-},
-  "lastmod" : "2021-04-16"
+  "date": "2021-04-16",
+  "keywords": [
+    "OXPS",
+    "File",
+    "Extension",
+    "File Format"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "OXPS ফাইল ফরম্যাট",
+  "description": "OXPS ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা OXPS ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "OXPS",
+  "menu": {
+    "docs": {
+      "parent": "page-description-language",
+      "identifier": "page-description-language-oxps-bn"
+    }
+  },
+  "lastmod": "2021-04-16"
 }
 
 ## একটি OXPS ফাইল কি? ##

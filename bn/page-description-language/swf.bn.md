@@ -1,20 +1,31 @@
 {
-  "date" : "2019-10-11",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "keywords" : [ "SWF", "file", "extension", "format", "video format","What is an SWF file", "swf file format", "swf file player","how to open swf file"],
-  "title" : "SWF ফাইল - শকওয়েভ ফ্ল্যাশ মুভি ফাইল ফরম্যাট",
-  "description":"একটি SWF ফাইল এবং APIগুলি কী তা সম্পর্কে জানুন যেগুলি কীভাবে SWF ফাইল খুলতে পারে এবং দেখাতে পারে৷",
-  "linktitle" : "SWF",
-  "menu" : {
-    "docs" : {
-      "parent" : "page-description-language"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "keywords": [
+    "SWF",
+    "file",
+    "extension",
+    "format",
+    "video format",
+    "What is an SWF file",
+    "swf file format",
+    "swf file player",
+    "how to open swf file"
+  ],
+  "title": "SWF ফাইল - শকওয়েভ ফ্ল্যাশ মুভি ফাইল ফরম্যাট",
+  "description": "একটি SWF ফাইল এবং APIগুলি কী তা সম্পর্কে জানুন যেগুলি কীভাবে SWF ফাইল খুলতে পারে এবং দেখাতে পারে৷",
+  "linktitle": "SWF",
+  "menu": {
+    "docs": {
+      "parent": "page-description-language",
+      "identifier": "page-description-language-swf-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি SWF ফাইল কি?

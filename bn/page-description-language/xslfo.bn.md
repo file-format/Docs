@@ -1,20 +1,28 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "এক্সএসএলএফও", "XSL Formatting Objects", "File", "Extension", "File Format", "Extensible Stylesheet Language"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "XSLFO",
-  "description":"Learn about এক্সএসএলএফও file format and APIs that can create and open এক্সএসএলএফও files.",
-  "linktitle" : "XSLFO",
-  "menu" : {
-    "docs" : {
-      "parent" : "page-description-language"
-}
-},
-  "lastmod" : "2021-04-23"
+  "date": "2019-10-11",
+  "keywords": [
+    "এক্সএসএলএফও",
+    "XSL Formatting Objects",
+    "File",
+    "Extension",
+    "File Format",
+    "Extensible Stylesheet Language"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "XSLFO",
+  "description": "Learn about এক্সএসএলএফও file format and APIs that can create and open এক্সএসএলএফও files.",
+  "linktitle": "XSLFO",
+  "menu": {
+    "docs": {
+      "parent": "page-description-language",
+      "identifier": "page-description-language-xslfo-bn"
+    }
+  },
+  "lastmod": "2021-04-23"
 }
 
 ## একটি XSL-FO ফাইল কি? ##

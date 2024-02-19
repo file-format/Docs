@@ -1,20 +1,27 @@
 {
-  "date" : "2020-03-02",
-  "keywords" : [ "SVG", "file", "file format", "Page Description Language", "Scalar" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"SVG ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি SVG ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "title" : "একটি SVG ফাইল কি?",
-  "linktitle" : "SVG",
-  "menu" : {
-    "docs" : {
-      "parent" : "page-description-language"
-}
-},
-  "lastmod" : "2020-03-02"
+  "date": "2020-03-02",
+  "keywords": [
+    "SVG",
+    "file",
+    "file format",
+    "Page Description Language",
+    "Scalar"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "SVG ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি SVG ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "title": "একটি SVG ফাইল কি?",
+  "linktitle": "SVG",
+  "menu": {
+    "docs": {
+      "parent": "page-description-language",
+      "identifier": "page-description-language-svg-bn"
+    }
+  },
+  "lastmod": "2020-03-02"
 }
 
 ## একটি SVG ফাইল কি? ##
