@@ -1,19 +1,20 @@
 {
-  "date" : "2022-07-30",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "A4P ফাইল ফরম্যাট - একটি A4P ফাইল কি?",
-  "description" : "A4Desk Pro A4 ফাইল ফরম্যাট এবং A4P ফাইল তৈরি এবং খুলতে পারে এমন API সম্পর্কে জানতে শিখুন।",
-  "linktitle" : "A4P",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2022-07-30"
+  "date": "2022-07-30",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "A4P ফাইল ফরম্যাট - একটি A4P ফাইল কি?",
+  "description": "A4Desk Pro A4 ফাইল ফরম্যাট এবং A4P ফাইল তৈরি এবং খুলতে পারে এমন API সম্পর্কে জানতে শিখুন।",
+  "linktitle": "A4P",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-a4p-bn"
+    }
+  },
+  "lastmod": "2022-07-30"
 }
 
 ## একটি A4P ফাইল কি?

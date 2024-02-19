@@ -1,19 +1,20 @@
 {
-  "date" : "2019-10-11",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "HTC ফাইল - HTML কম্পোনেন্ট ফাইল ফরম্যাট",
-  "description" : "একটি HTC ফাইল কি তা জানতে আপনার ফাইল বিন্যাস নির্দেশিকা",
-  "linktitle" : "HTC",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "HTC ফাইল - HTML কম্পোনেন্ট ফাইল ফরম্যাট",
+  "description": "একটি HTC ফাইল কি তা জানতে আপনার ফাইল বিন্যাস নির্দেশিকা",
+  "linktitle": "HTC",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-htc-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি HTC ফাইল কি?

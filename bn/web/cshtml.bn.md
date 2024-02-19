@@ -1,20 +1,29 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "cshtml","cshtml file", "cshtml file format", "cshtml file type", "file", "type", "what is a cshtml file" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "CSHTML - ASP.NET রেজার ওয়েবপেজ",
-  "description":"সিএসএইচটিএমএল ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা CSHTML ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "CSHTML",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2021-04-29"
+  "date": "2019-10-11",
+  "keywords": [
+    "cshtml",
+    "cshtml file",
+    "cshtml file format",
+    "cshtml file type",
+    "file",
+    "type",
+    "what is a cshtml file"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "CSHTML - ASP.NET রেজার ওয়েবপেজ",
+  "description": "সিএসএইচটিএমএল ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা CSHTML ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "CSHTML",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-cshtml-bn"
+    }
+  },
+  "lastmod": "2021-04-29"
 }
 
 ## একটি CSHTML ফাইল কি?

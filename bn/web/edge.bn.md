@@ -1,19 +1,20 @@
 {
-  "date" : "2021-08-04",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "EDGE - Adobe Edge প্রকল্প ফাইল",
-  "description":"EDGE ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি EDGE ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "EDGE",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2021-08-04"
+  "date": "2021-08-04",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "EDGE - Adobe Edge প্রকল্প ফাইল",
+  "description": "EDGE ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি EDGE ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "EDGE",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-edge-bn"
+    }
+  },
+  "lastmod": "2021-08-04"
 }
 
 ## একটি EDGE ফাইল কি?

@@ -1,20 +1,29 @@
 {
-  "date" : "2021-05-24",
-  "keywords" : ["rjs", "File", "Extension", "File Format", "File Extension", "RJS", "Ruby Javascript File"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "RJS - রুবি জাভাস্ক্রিপ্ট ফাইল",
-  "description":"আরজেএস ফাইল ফরম্যাট এবং এপিআইগুলি কী তা সম্পর্কে জানুন যা আরজেএস ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "RJS",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2021-05-24"
+  "date": "2021-05-24",
+  "keywords": [
+    "rjs",
+    "File",
+    "Extension",
+    "File Format",
+    "File Extension",
+    "RJS",
+    "Ruby Javascript File"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "RJS - রুবি জাভাস্ক্রিপ্ট ফাইল",
+  "description": "আরজেএস ফাইল ফরম্যাট এবং এপিআইগুলি কী তা সম্পর্কে জানুন যা আরজেএস ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "RJS",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-RJS-bn"
+    }
+  },
+  "lastmod": "2021-05-24"
 }
 
 ## একটি RJS ফাইল কি?

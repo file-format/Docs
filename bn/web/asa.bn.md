@@ -1,20 +1,27 @@
 {
-  "date" : "2021-12-09",
-  "keywords" : [ "asa",".asa", "file format", "file type", "what is a .asa file" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ASA - ASP কনফিগারেশন ফাইল",
-  "description" : "একটি ASA ফাইল এবং APIগুলি কী যেগুলি ASA ফাইলগুলি তৈরি এবং খুলতে পারে সে সম্পর্কে জানুন৷",
-  "linktitle" : "ASA",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2021-12-09"
+  "date": "2021-12-09",
+  "keywords": [
+    "asa",
+    ".asa",
+    "file format",
+    "file type",
+    "what is a .asa file"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "ASA - ASP কনফিগারেশন ফাইল",
+  "description": "একটি ASA ফাইল এবং APIগুলি কী যেগুলি ASA ফাইলগুলি তৈরি এবং খুলতে পারে সে সম্পর্কে জানুন৷",
+  "linktitle": "ASA",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-asa-bn"
+    }
+  },
+  "lastmod": "2021-12-09"
 }
 
 ## একটি ASA ফাইল কি?

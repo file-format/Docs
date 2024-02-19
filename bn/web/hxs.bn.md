@@ -1,19 +1,20 @@
 {
-  "date" : "2019-10-11",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "HXS ফাইল - হেল্প 2 কম্পাইল করা হেল্প ফাইল ফরম্যাট",
-  "description" : "একটি HXS ফাইল এবং APIগুলি কী যা HXS ফাইল তৈরি এবং খুলতে পারে তা শিখতে আপনার ফাইল বিন্যাস নির্দেশিকা৷",
-  "linktitle" : "HXS",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "HXS ফাইল - হেল্প 2 কম্পাইল করা হেল্প ফাইল ফরম্যাট",
+  "description": "একটি HXS ফাইল এবং APIগুলি কী যা HXS ফাইল তৈরি এবং খুলতে পারে তা শিখতে আপনার ফাইল বিন্যাস নির্দেশিকা৷",
+  "linktitle": "HXS",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-hxs-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি HXS ফাইল কি?

@@ -1,20 +1,28 @@
 {
-  "date" : "2022-02-19",
-  "keywords" : ["xoj", "File", "Extension", "File Format", "File Extension", "Xournal notebook"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "XOJ ফাইল - Xournal নোটবুক ফাইল ফরম্যাট",
-  "description":"XOJ ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি XOJ ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "XOJ",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2022-02-19"
+  "date": "2022-02-19",
+  "keywords": [
+    "xoj",
+    "File",
+    "Extension",
+    "File Format",
+    "File Extension",
+    "Xournal notebook"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "XOJ ফাইল - Xournal নোটবুক ফাইল ফরম্যাট",
+  "description": "XOJ ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি XOJ ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "XOJ",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-xoj-bn"
+    }
+  },
+  "lastmod": "2022-02-19"
 }
 
 ## একটি XOJ ফাইল কি?

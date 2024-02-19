@@ -1,20 +1,28 @@
 {
-  "date" : "2021-05-24",
-  "keywords" : ["xd", "File", "Extension", "File Format", "File Extension", "adobe XD document"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "এক্সডি - অ্যাডোব এক্সডি ডকুমেন্ট",
-  "description":"XD ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি XD ফাইলগুলি তৈরি করতে এবং খুলতে পারে৷",
-  "linktitle" : "XD",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2021-05-24"
+  "date": "2021-05-24",
+  "keywords": [
+    "xd",
+    "File",
+    "Extension",
+    "File Format",
+    "File Extension",
+    "adobe XD document"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "এক্সডি - অ্যাডোব এক্সডি ডকুমেন্ট",
+  "description": "XD ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি XD ফাইলগুলি তৈরি করতে এবং খুলতে পারে৷",
+  "linktitle": "XD",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-xd-bn"
+    }
+  },
+  "lastmod": "2021-05-24"
 }
 
 ## একটি XD ফাইল কি?

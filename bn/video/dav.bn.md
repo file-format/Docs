@@ -1,20 +1,30 @@
 {
-  "date" : "2022-01-25",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "DAV ফাইল - CCTV DVR ভিডিও",
-  "keywords" : [ "dav file", "dav file format", "what is a dav file", "file", "dav example", "dav file extension","extension", "format" ],
-  "description":"DAV ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি DAV ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "DAV",
-  "menu" : {
-    "docs" : {
-      "parent" : "video"
-}
-},
-  "lastmod" : "2022-01-25"
+  "date": "2022-01-25",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "DAV ফাইল - CCTV DVR ভিডিও",
+  "keywords": [
+    "dav file",
+    "dav file format",
+    "what is a dav file",
+    "file",
+    "dav example",
+    "dav file extension",
+    "extension",
+    "format"
+  ],
+  "description": "DAV ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি DAV ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "DAV",
+  "menu": {
+    "docs": {
+      "parent": "video",
+      "identifier": "video-dav-bn"
+    }
+  },
+  "lastmod": "2022-01-25"
 }
 
 ## একটি DAV ফাইল কি?

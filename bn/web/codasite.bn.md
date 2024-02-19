@@ -1,19 +1,20 @@
 {
-  "date" : "2021-08-19",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "কোডাসাইট ফাইল ফরম্যাট - কোডা সাইট ফাইল",
-  "description" : "একটি CODASITE ফাইল এবং API যা CODASITE ফাইলগুলি তৈরি এবং খুলতে পারে সে সম্পর্কে জানুন৷",
-  "linktitle" : "CODASITE",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2021-08-19"
+  "date": "2021-08-19",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "কোডাসাইট ফাইল ফরম্যাট - কোডা সাইট ফাইল",
+  "description": "একটি CODASITE ফাইল এবং API যা CODASITE ফাইলগুলি তৈরি এবং খুলতে পারে সে সম্পর্কে জানুন৷",
+  "linktitle": "CODASITE",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-codasite-bn"
+    }
+  },
+  "lastmod": "2021-08-19"
 }
 
 ## একটি CODASITE ফাইল কি?

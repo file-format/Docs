@@ -1,19 +1,20 @@
 {
-  "date" : "2022-07-12",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "IFO ফাইল - একটি IFO ফাইল কি?",
-  "description":"IFO ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি IFO ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "IFO",
-  "menu" : {
-    "docs" : {
-      "parent" : "video"
-}
-},
-  "lastmod" : "2022-07-12"
+  "date": "2022-07-12",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "IFO ফাইল - একটি IFO ফাইল কি?",
+  "description": "IFO ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি IFO ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "IFO",
+  "menu": {
+    "docs": {
+      "parent": "video",
+      "identifier": "video-ifo-bn"
+    }
+  },
+  "lastmod": "2022-07-12"
 }
 
 ## একটি IFO ফাইল কি?

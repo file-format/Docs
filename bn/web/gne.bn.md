@@ -1,19 +1,20 @@
 {
-  "date" : "2022-01-24",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "GNE ফাইল - গুগল ড্রাইভ ডকুমেন্ট শর্টকাট",
-  "description":"একটি GNE ফাইল এবং API কি যা GNE ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "GNE",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2022-01-24"
+  "date": "2022-01-24",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "GNE ফাইল - গুগল ড্রাইভ ডকুমেন্ট শর্টকাট",
+  "description": "একটি GNE ফাইল এবং API কি যা GNE ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "GNE",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-gne-bn"
+    }
+  },
+  "lastmod": "2022-01-24"
 }
 
 ## একটি GNE ফাইল কি?

@@ -1,20 +1,29 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "aspx","aspx file", "aspx file format", "aspx file type", "file", "type", "what is an aspx file" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ASPX ফাইল ফরম্যাট",
-  "description" : "একটি ASPX ফাইল এবং API যা ASPX ফাইল তৈরি এবং খুলতে পারে তা জানতে আপনার ফাইল বিন্যাস নির্দেশিকা।",
-  "linktitle" : "ASPX",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2020-09-10"
+  "date": "2019-10-11",
+  "keywords": [
+    "aspx",
+    "aspx file",
+    "aspx file format",
+    "aspx file type",
+    "file",
+    "type",
+    "what is an aspx file"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "ASPX ফাইল ফরম্যাট",
+  "description": "একটি ASPX ফাইল এবং API যা ASPX ফাইল তৈরি এবং খুলতে পারে তা জানতে আপনার ফাইল বিন্যাস নির্দেশিকা।",
+  "linktitle": "ASPX",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-ASPX-bn"
+    }
+  },
+  "lastmod": "2020-09-10"
 }
 
 ## একটি ASPX ফাইল কি?

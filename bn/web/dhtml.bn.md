@@ -1,20 +1,29 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "dhtml","dhtml file", "dhtml file format", "dhtml file type", "file", "type", "what is a dhtml file" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "DHTML - ডাইনামিক HTML ফাইল ফরম্যাট",
-  "description":"DHTML ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি DHTML ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "DHTML",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "keywords": [
+    "dhtml",
+    "dhtml file",
+    "dhtml file format",
+    "dhtml file type",
+    "file",
+    "type",
+    "what is a dhtml file"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "DHTML - ডাইনামিক HTML ফাইল ফরম্যাট",
+  "description": "DHTML ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি DHTML ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "DHTML",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-dhtml-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি DHTML ফাইল কি?

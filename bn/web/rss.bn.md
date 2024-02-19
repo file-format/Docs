@@ -1,20 +1,30 @@
 {
-  "date" : "2021-06-24",
-  "keywords" : [ "RSS", "partial", "extension", "file", "format", "web", "Really Simple Syndication","Userland Software" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "আরএসএস - সত্যিই সহজ সিন্ডিকেশন",
-  "description":"আরএসএস ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা আরএসএস ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "RSS",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2021-06-24"
+  "date": "2021-06-24",
+  "keywords": [
+    "RSS",
+    "partial",
+    "extension",
+    "file",
+    "format",
+    "web",
+    "Really Simple Syndication",
+    "Userland Software"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "আরএসএস - সত্যিই সহজ সিন্ডিকেশন",
+  "description": "আরএসএস ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা আরএসএস ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "RSS",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-rss-bn"
+    }
+  },
+  "lastmod": "2021-06-24"
 }
 
 ## একটি RSS ফাইল কি? ##

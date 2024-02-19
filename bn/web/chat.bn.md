@@ -1,19 +1,20 @@
 {
-  "date" : "2022-08-22",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "চ্যাট ফাইল - আইআরসি চ্যাট কনফিগারেশন ফাইল ফরম্যাট",
-  "description" : "একটি CHAT ফাইল এবং API যা CHAT ফাইল তৈরি এবং খুলতে পারে সে সম্পর্কে জানুন৷",
-  "linktitle" : "CHAT",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2022-08-22"
+  "date": "2022-08-22",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "চ্যাট ফাইল - আইআরসি চ্যাট কনফিগারেশন ফাইল ফরম্যাট",
+  "description": "একটি CHAT ফাইল এবং API যা CHAT ফাইল তৈরি এবং খুলতে পারে সে সম্পর্কে জানুন৷",
+  "linktitle": "CHAT",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-chat-bn"
+    }
+  },
+  "lastmod": "2022-08-22"
 }
 
 ## একটি CHAT ফাইল কি?

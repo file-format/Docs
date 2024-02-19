@@ -1,19 +1,20 @@
 {
-  "date" : "2019-10-11",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "P7C - PKCS 7 সার্টিফিকেট ফাইল",
-  "description":"P7C ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি P7C ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "P7C",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "P7C - PKCS 7 সার্টিফিকেট ফাইল",
+  "description": "P7C ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি P7C ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "P7C",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-p7c-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি P7C ফাইল কি?

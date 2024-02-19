@@ -1,19 +1,20 @@
 {
-  "date" : "2019-10-11",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "WMV ফাইল ফরম্যাট",
-  "description":"WMV ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি WMV ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "WMV",
-  "menu" : {
-    "docs" : {
-      "parent" : "video"
-}
-},
-  "lastmod" : "2019-09-16"
+  "date": "2019-10-11",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "WMV ফাইল ফরম্যাট",
+  "description": "WMV ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি WMV ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "WMV",
+  "menu": {
+    "docs": {
+      "parent": "video",
+      "identifier": "video-wmv-bn"
+    }
+  },
+  "lastmod": "2019-09-16"
 }
 
 ## একটি WMV ফাইল কি?

@@ -1,20 +1,29 @@
 {
-  "date" : "2021-12-09",
-  "keywords" : [ "aro",".aro file", "aro file format", "an file type", "file", "type", "what is a .aro file" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ARO ফাইল ফরম্যাট - SteelArrow ওয়েব অ্যাপ্লিকেশন ফাইল",
-  "description" : "একটি ARO ফাইল এবং APIগুলি কী যা ARO ফাইলগুলি তৈরি এবং খুলতে পারে সে সম্পর্কে জানুন৷",
-  "linktitle" : "ARO",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2021-12-09"
+  "date": "2021-12-09",
+  "keywords": [
+    "aro",
+    ".aro file",
+    "aro file format",
+    "an file type",
+    "file",
+    "type",
+    "what is a .aro file"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "ARO ফাইল ফরম্যাট - SteelArrow ওয়েব অ্যাপ্লিকেশন ফাইল",
+  "description": "একটি ARO ফাইল এবং APIগুলি কী যা ARO ফাইলগুলি তৈরি এবং খুলতে পারে সে সম্পর্কে জানুন৷",
+  "linktitle": "ARO",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-aro-bn"
+    }
+  },
+  "lastmod": "2021-12-09"
 }
 
 ## একটি ARO ফাইল কি?

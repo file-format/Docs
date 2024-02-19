@@ -1,19 +1,20 @@
 {
-  "date" : "2022-05-17",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "FWTEMPLATE ফাইল ফরম্যাট - ফ্রিওয়ে টেমপ্লেট ফাইল",
-  "description" : "একটি FWTEMPLATE ফাইল এবং API যা FWTEMPLATE ফাইল তৈরি এবং খুলতে পারে তা শিখতে আপনার ফাইল বিন্যাস নির্দেশিকা৷",
-  "linktitle" : "FWTEMPLATE",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2022-05-17"
+  "date": "2022-05-17",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "FWTEMPLATE ফাইল ফরম্যাট - ফ্রিওয়ে টেমপ্লেট ফাইল",
+  "description": "একটি FWTEMPLATE ফাইল এবং API যা FWTEMPLATE ফাইল তৈরি এবং খুলতে পারে তা শিখতে আপনার ফাইল বিন্যাস নির্দেশিকা৷",
+  "linktitle": "FWTEMPLATE",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-fwtemplate-bn"
+    }
+  },
+  "lastmod": "2022-05-17"
 }
 
 ## একটি FWTEMPLATE ফাইল কি?

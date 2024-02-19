@@ -1,19 +1,20 @@
 {
-  "date" : "2022-05-17",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "FWTEMPLATEB ফাইল ফরম্যাট - ফ্রিওয়ে টেমপ্লেট ফাইল",
-  "description" : "একটি FWTEMPLATEB ফাইল এবং API যা FWTEMPLATEB ফাইল তৈরি এবং খুলতে পারে তা জানতে আপনার ফাইল বিন্যাস নির্দেশিকা৷",
-  "linktitle" : "FWTEMPLATEB",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2022-05-17"
+  "date": "2022-05-17",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "FWTEMPLATEB ফাইল ফরম্যাট - ফ্রিওয়ে টেমপ্লেট ফাইল",
+  "description": "একটি FWTEMPLATEB ফাইল এবং API যা FWTEMPLATEB ফাইল তৈরি এবং খুলতে পারে তা জানতে আপনার ফাইল বিন্যাস নির্দেশিকা৷",
+  "linktitle": "FWTEMPLATEB",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-fwtemplateb-bn"
+    }
+  },
+  "lastmod": "2022-05-17"
 }
 
 ## একটি FWTEMPLATEB ফাইল কি?

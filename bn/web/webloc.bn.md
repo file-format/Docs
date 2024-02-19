@@ -1,19 +1,20 @@
 {
-  "date" : "2022-01-13",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "WEBLOC - macOS ওয়েবসাইট লোকেশন ফাইল",
-  "description":"একটি WEBLOC ফাইল এবং API যা WEBLOC ফাইল তৈরি এবং খুলতে পারে সে সম্পর্কে জানুন৷",
-  "linktitle" : "WEBLOC",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2022-01-13"
+  "date": "2022-01-13",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "WEBLOC - macOS ওয়েবসাইট লোকেশন ফাইল",
+  "description": "একটি WEBLOC ফাইল এবং API যা WEBLOC ফাইল তৈরি এবং খুলতে পারে সে সম্পর্কে জানুন৷",
+  "linktitle": "WEBLOC",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-webloc-bn"
+    }
+  },
+  "lastmod": "2022-01-13"
 }
 
 ## WEBLOC কি?

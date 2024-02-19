@@ -1,20 +1,28 @@
 {
-  "date" : "2021-05-24",
-  "keywords" : ["xht", "File", "Extension", "File Format", "File Extension", "extended hypertext markup language"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "XHT",
-  "description":"Learn about এক্সএইচটি file format and APIs that can create and open এক্সএইচটি files.",
-  "linktitle" : "XHT",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2021-05-24"
+  "date": "2021-05-24",
+  "keywords": [
+    "xht",
+    "File",
+    "Extension",
+    "File Format",
+    "File Extension",
+    "extended hypertext markup language"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "XHT",
+  "description": "Learn about এক্সএইচটি file format and APIs that can create and open এক্সএইচটি files.",
+  "linktitle": "XHT",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-xht-bn"
+    }
+  },
+  "lastmod": "2021-05-24"
 }
 
 ## একটি এক্সএইচটি ফাইল কি?

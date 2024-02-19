@@ -1,19 +1,20 @@
 {
-  "date" : "2022-05-19",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "OBML ফাইল ফরম্যাট - অপেরা মিনি সংরক্ষিত ওয়েবপেজ ফাইল",
-  "description" : "একটি OBML ফাইল এবং API যা OBML ফাইল তৈরি এবং খুলতে পারে সে সম্পর্কে জানুন।",
-  "linktitle" : "OBML",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2022-05-19"
+  "date": "2022-05-19",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "OBML ফাইল ফরম্যাট - অপেরা মিনি সংরক্ষিত ওয়েবপেজ ফাইল",
+  "description": "একটি OBML ফাইল এবং API যা OBML ফাইল তৈরি এবং খুলতে পারে সে সম্পর্কে জানুন।",
+  "linktitle": "OBML",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-obml-bn"
+    }
+  },
+  "lastmod": "2022-05-19"
 }
 
 ## একটি OBML ফাইল কি?

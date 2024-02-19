@@ -1,19 +1,20 @@
 {
-  "date" : "2022-08-05",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ATT ফাইল - ওয়েব ফর্ম পোস্ট ডেটা ফাইল ফর্ম্যাট",
-  "description" : "একটি ATT ফাইল এবং APIগুলি কী যা ATT ফাইলগুলি তৈরি এবং খুলতে পারে সে সম্পর্কে জানুন৷",
-  "linktitle" : "ATT",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2022-08-05"
+  "date": "2022-08-05",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "ATT ফাইল - ওয়েব ফর্ম পোস্ট ডেটা ফাইল ফর্ম্যাট",
+  "description": "একটি ATT ফাইল এবং APIগুলি কী যা ATT ফাইলগুলি তৈরি এবং খুলতে পারে সে সম্পর্কে জানুন৷",
+  "linktitle": "ATT",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-att-bn"
+    }
+  },
+  "lastmod": "2022-08-05"
 }
 
 ## একটি ATT ফাইল কি?

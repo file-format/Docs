@@ -1,19 +1,20 @@
 {
-  "date" : "2022-04-09",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "কম ফাইল - কম স্টাইল শীট ফাইল",
-  "description" : "কম ফাইল তৈরি এবং খুলতে কম ফাইল ফরম্যাট এবং API সম্পর্কে জানুন।",
-  "linktitle" : "LESS",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2022-04-09"
+  "date": "2022-04-09",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "কম ফাইল - কম স্টাইল শীট ফাইল",
+  "description": "কম ফাইল তৈরি এবং খুলতে কম ফাইল ফরম্যাট এবং API সম্পর্কে জানুন।",
+  "linktitle": "LESS",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-less-bn"
+    }
+  },
+  "lastmod": "2022-04-09"
 }
 
 ## একটি কম ফাইল কি?

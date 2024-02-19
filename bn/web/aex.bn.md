@@ -1,20 +1,27 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "aex","aex file", "file format", "file type", "what is an aex file" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "AEX - আলফা ফাইভ কম্পাইল করা গ্লোবাল ফাংশন ফাইল",
-  "description" : "একটি AEX ফাইল এবং APIগুলি কী যা AEX ফাইল তৈরি এবং খুলতে পারে তা জানতে শিখুন৷",
-  "linktitle" : "AEX",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2021-12-07"
+  "date": "2019-10-11",
+  "keywords": [
+    "aex",
+    "aex file",
+    "file format",
+    "file type",
+    "what is an aex file"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "AEX - আলফা ফাইভ কম্পাইল করা গ্লোবাল ফাংশন ফাইল",
+  "description": "একটি AEX ফাইল এবং APIগুলি কী যা AEX ফাইল তৈরি এবং খুলতে পারে তা জানতে শিখুন৷",
+  "linktitle": "AEX",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-aex-bn"
+    }
+  },
+  "lastmod": "2021-12-07"
 }
 
 ## একটি AEX ফাইল কি?

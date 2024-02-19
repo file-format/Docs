@@ -1,19 +1,20 @@
 {
-  "date" : "2021-08-21",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "হ্যান্ডহেল্ড ডিভাইস মার্কআপ ল্যাঙ্গুয়েজ ফাইল",
-  "description":"এইচডিএমএল ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা এইচডিএমএল ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "HDML",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2021-08-21"
+  "date": "2021-08-21",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "হ্যান্ডহেল্ড ডিভাইস মার্কআপ ল্যাঙ্গুয়েজ ফাইল",
+  "description": "এইচডিএমএল ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা এইচডিএমএল ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "HDML",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-hdml-bn"
+    }
+  },
+  "lastmod": "2021-08-21"
 }
 
 ## একটি HDML ফাইল কি?

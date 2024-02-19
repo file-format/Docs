@@ -1,19 +1,20 @@
 {
-  "date" : "2022-07-21",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "PRO ফাইল ফরম্যাট - একটি PRO ফাইল কি?",
-  "description":"Adobe Proto Design File PRO ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা PRO ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "PRO",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2022-07-21"
+  "date": "2022-07-21",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "PRO ফাইল ফরম্যাট - একটি PRO ফাইল কি?",
+  "description": "Adobe Proto Design File PRO ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা PRO ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "PRO",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-pro-bn"
+    }
+  },
+  "lastmod": "2022-07-21"
 }
 
 ## একটি PRO ফাইল কি? ##

@@ -1,19 +1,20 @@
 {
-  "date" : "2022-09-18",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "DOTHTML ফাইল - মাইক্রোসফট ওয়ার্ড এইচটিএমএল ডকুমেন্ট টেমপ্লেট ফাইল ফরম্যাট",
-  "description" : "DOTHTML ফাইল ফরম্যাট এবং DOTHTML ফাইল তৈরি ও খোলার জন্য API সম্পর্কে জানুন।",
-  "linktitle" : "DOTHTML",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2022-09-18"
+  "date": "2022-09-18",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "DOTHTML ফাইল - মাইক্রোসফট ওয়ার্ড এইচটিএমএল ডকুমেন্ট টেমপ্লেট ফাইল ফরম্যাট",
+  "description": "DOTHTML ফাইল ফরম্যাট এবং DOTHTML ফাইল তৈরি ও খোলার জন্য API সম্পর্কে জানুন।",
+  "linktitle": "DOTHTML",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-dothtml-bn"
+    }
+  },
+  "lastmod": "2022-09-18"
 }
 
 ## একটি DOTHTML ফাইল কি?

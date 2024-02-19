@@ -1,20 +1,32 @@
 {
-  "date" : "2021-07-13",
-  "keywords" : [ "CFM", "extension", "file", "format", "system", "Cold Fusion Markup Language", "language", "CFM web pages", "CFML engine", "CFML" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "CFM - কোল্ড ফিউশন মার্কআপ",
-  "description":"CFM ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা CFM ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "CFM",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2021-07-13"
+  "date": "2021-07-13",
+  "keywords": [
+    "CFM",
+    "extension",
+    "file",
+    "format",
+    "system",
+    "Cold Fusion Markup Language",
+    "language",
+    "CFM web pages",
+    "CFML engine",
+    "CFML"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "CFM - কোল্ড ফিউশন মার্কআপ",
+  "description": "CFM ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা CFM ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "CFM",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-cfm-bn"
+    }
+  },
+  "lastmod": "2021-07-13"
 }
 
 ## একটি CFM ফাইল কি? ##

@@ -1,20 +1,29 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "xaml","xaml file", "xaml file format", "xaml file type", "file", "type", "what is an xaml file" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "XAML - XML ভিত্তিক মার্কআপ ভাষা",
-  "description":"XAML ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি XAML ফাইলগুলি তৈরি এবং খুলতে পারে।",
-  "linktitle" : "XAML ",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "keywords": [
+    "xaml",
+    "xaml file",
+    "xaml file format",
+    "xaml file type",
+    "file",
+    "type",
+    "what is an xaml file"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "XAML - XML ভিত্তিক মার্কআপ ভাষা",
+  "description": "XAML ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি XAML ফাইলগুলি তৈরি এবং খুলতে পারে।",
+  "linktitle": "XAML ",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-xaml-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি XAML ফাইল কি?

@@ -1,19 +1,20 @@
 {
-  "date" : "2022-05-19",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "OBML15 ফাইল ফরম্যাট - অপেরা মিনি সংরক্ষিত ওয়েবপেজ ফাইল",
-  "description" : "একটি OBML15 ফাইল এবং API যা OBML15 ফাইল তৈরি এবং খুলতে পারে সে সম্পর্কে জানুন।",
-  "linktitle" : "OBML15",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2022-05-19"
+  "date": "2022-05-19",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "OBML15 ফাইল ফরম্যাট - অপেরা মিনি সংরক্ষিত ওয়েবপেজ ফাইল",
+  "description": "একটি OBML15 ফাইল এবং API যা OBML15 ফাইল তৈরি এবং খুলতে পারে সে সম্পর্কে জানুন।",
+  "linktitle": "OBML15",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-obml15-bn"
+    }
+  },
+  "lastmod": "2022-05-19"
 }
 
 ## একটি OBML15 ফাইল কি?

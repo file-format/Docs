@@ -1,19 +1,20 @@
 {
-  "date" : "2022-07-12",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "IDX - উচ্চ দক্ষতা ভিডিও কোডেক",
-  "description":"IDX ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি IDX ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "IDX",
-  "menu" : {
-    "docs" : {
-      "parent" : "video"
-}
-},
-  "lastmod" : "2022-07-12"
+  "date": "2022-07-12",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "IDX - উচ্চ দক্ষতা ভিডিও কোডেক",
+  "description": "IDX ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি IDX ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "IDX",
+  "menu": {
+    "docs": {
+      "parent": "video",
+      "identifier": "video-idx-bn"
+    }
+  },
+  "lastmod": "2022-07-12"
 }
 
 ## একটি IDX ফাইল কি?

@@ -1,19 +1,20 @@
 {
-  "date" : "2022-07-18",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "M4S ফাইল - একটি M4S ফাইল কি?",
-  "description":"M4S ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি M4S ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "M4S",
-  "menu" : {
-    "docs" : {
-      "parent" : "video"
-}
-},
-  "lastmod" : "2022-07-18"
+  "date": "2022-07-18",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "M4S ফাইল - একটি M4S ফাইল কি?",
+  "description": "M4S ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি M4S ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "M4S",
+  "menu": {
+    "docs": {
+      "parent": "video",
+      "identifier": "video-m4s-bn"
+    }
+  },
+  "lastmod": "2022-07-18"
 }
 
 ## একটি M4S ফাইল কি?

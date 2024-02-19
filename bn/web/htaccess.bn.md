@@ -1,19 +1,20 @@
 {
-  "date" : "2019-10-11",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "HTACCESS ফাইল - Apache HTACCESS ফাইল ফরম্যাট",
-  "description" : "একটি HTACCESS ফাইল কি তা জানতে আপনার ফাইল ফরম্যাট গাইড",
-  "linktitle" : "HTACCESS",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "HTACCESS ফাইল - Apache HTACCESS ফাইল ফরম্যাট",
+  "description": "একটি HTACCESS ফাইল কি তা জানতে আপনার ফাইল ফরম্যাট গাইড",
+  "linktitle": "HTACCESS",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-htaccess-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি HTACCESS ফাইল কি?

@@ -1,19 +1,20 @@
 {
-  "date" : "2022-08-05",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ATOM ফাইল - এটম সিন্ডিকেশন ফরম্যাট",
-  "description" : "একটি ATOM ফাইল এবং API যা ATOM ফাইল তৈরি এবং খুলতে পারে সে সম্পর্কে জানুন৷",
-  "linktitle" : "ATOM",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2022-08-05"
+  "date": "2022-08-05",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "ATOM ফাইল - এটম সিন্ডিকেশন ফরম্যাট",
+  "description": "একটি ATOM ফাইল এবং API যা ATOM ফাইল তৈরি এবং খুলতে পারে সে সম্পর্কে জানুন৷",
+  "linktitle": "ATOM",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-atom-bn"
+    }
+  },
+  "lastmod": "2022-08-05"
 }
 
 ## একটি ATOM ফাইল কি?

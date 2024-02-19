@@ -1,20 +1,34 @@
 {
-  "date" : "2022-02-19",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "MPE ফাইল - MPEG মুভি ফাইল ফরম্যাট",
-  "keywords" : [ "MPE", "file", "extension", "format", "video format","what is an mpe file format", "mpe file format", "mpe file player","mpe compression", "video", "MPEG-1", "MPEG-2"],
-  "description":"MPG ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা তৈরি করতে পারে এবং দেখাতে পারে যে MPG ফাইলগুলি কীভাবে খুলতে হয়।",
-  "linktitle" : "MPE",
-  "menu" : {
-    "docs" : {
-      "parent" : "video"
-}
-},
-  "lastmod" : "2022-02-19"
+  "date": "2022-02-19",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "MPE ফাইল - MPEG মুভি ফাইল ফরম্যাট",
+  "keywords": [
+    "MPE",
+    "file",
+    "extension",
+    "format",
+    "video format",
+    "what is an mpe file format",
+    "mpe file format",
+    "mpe file player",
+    "mpe compression",
+    "video",
+    "MPEG-1",
+    "MPEG-2"
+  ],
+  "description": "MPG ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা তৈরি করতে পারে এবং দেখাতে পারে যে MPG ফাইলগুলি কীভাবে খুলতে হয়।",
+  "linktitle": "MPE",
+  "menu": {
+    "docs": {
+      "parent": "video",
+      "identifier": "video-mpe-bn"
+    }
+  },
+  "lastmod": "2022-02-19"
 }
 
 ## একটি MPE ফাইল কি?

@@ -1,19 +1,20 @@
 {
-  "date" : "2022-09-01",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "CRL ফাইল - সার্টিফিকেট প্রত্যাহার তালিকা",
-  "description":"CRL ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি CRL ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "CRL",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2022-09-01"
+  "date": "2022-09-01",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "CRL ফাইল - সার্টিফিকেট প্রত্যাহার তালিকা",
+  "description": "CRL ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি CRL ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "CRL",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-crl-bn"
+    }
+  },
+  "lastmod": "2022-09-01"
 }
 
 ## একটি CRL ফাইল কি?

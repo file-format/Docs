@@ -1,20 +1,28 @@
 {
-  "date" : "2021-05-24",
-  "keywords" : ["xul", "File", "Extension", "File Format", "File Extension", "XML User Interface Language"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "XUL - XML ইউজার ইন্টারফেস ল্যাঙ্গুয়েজ ফাইল",
-  "description":"XUL ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি XUL ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "XUL",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2021-05-24"
+  "date": "2021-05-24",
+  "keywords": [
+    "xul",
+    "File",
+    "Extension",
+    "File Format",
+    "File Extension",
+    "XML User Interface Language"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "XUL - XML ইউজার ইন্টারফেস ল্যাঙ্গুয়েজ ফাইল",
+  "description": "XUL ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি XUL ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "XUL",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-xul-bn"
+    }
+  },
+  "lastmod": "2021-05-24"
 }
 
 ## একটি XUL ফাইল কি?

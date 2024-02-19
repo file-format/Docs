@@ -1,20 +1,28 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : ["xoml", "File", "Extension", "File Format", "File Extension", "Extensible Object Markup Language"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "XOML - উইন্ডোজ ওয়ার্কফ্লো ফাইল ফরম্যাট",
-  "description":"XOML ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি XOML ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "XOML",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "keywords": [
+    "xoml",
+    "File",
+    "Extension",
+    "File Format",
+    "File Extension",
+    "Extensible Object Markup Language"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "XOML - উইন্ডোজ ওয়ার্কফ্লো ফাইল ফরম্যাট",
+  "description": "XOML ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি XOML ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "XOML",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-xoml-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি XOML ফাইল কি?

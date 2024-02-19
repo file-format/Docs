@@ -1,20 +1,29 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "html","html file", "html file format", "html file type", "file", "type", "what is an html file" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "এইচটিএমএল ফাইল ফরম্যাট",
-  "description":"এইচটিএমএল ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা এইচটিএমএল ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "HTML",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "keywords": [
+    "html",
+    "html file",
+    "html file format",
+    "html file type",
+    "file",
+    "type",
+    "what is an html file"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "এইচটিএমএল ফাইল ফরম্যাট",
+  "description": "এইচটিএমএল ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা এইচটিএমএল ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "HTML",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-html-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি HTML ফাইল কি?

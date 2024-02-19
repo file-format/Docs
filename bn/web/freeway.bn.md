@@ -1,19 +1,20 @@
 {
-  "date" : "2022-10-05",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ফ্রিওয়ে ফাইল - ফ্রিওয়ে ডকুমেন্ট ফাইল ফরম্যাট",
-  "description" : "ফ্রিওয়ে ফাইল এবং এপিআইগুলি কী যা ফ্রিওয়ে ফাইল তৈরি এবং খুলতে পারে তা শিখতে আপনার ফাইল বিন্যাস নির্দেশিকা৷",
-  "linktitle" : "FREEWAY",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2022-10-05"
+  "date": "2022-10-05",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "ফ্রিওয়ে ফাইল - ফ্রিওয়ে ডকুমেন্ট ফাইল ফরম্যাট",
+  "description": "ফ্রিওয়ে ফাইল এবং এপিআইগুলি কী যা ফ্রিওয়ে ফাইল তৈরি এবং খুলতে পারে তা শিখতে আপনার ফাইল বিন্যাস নির্দেশিকা৷",
+  "linktitle": "FREEWAY",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-freeway-bn"
+    }
+  },
+  "lastmod": "2022-10-05"
 }
 
 ## একটি FREEWAY ফাইল কি?

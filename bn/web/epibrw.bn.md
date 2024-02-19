@@ -1,19 +1,20 @@
 {
-  "date" : "2022-09-29",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "EPIBRW ফাইল - Adobe Edge প্রকল্প ফাইল",
-  "description":"EPIBRW ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি EPIBRW ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "EPIBRW",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2022-09-29"
+  "date": "2022-09-29",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "EPIBRW ফাইল - Adobe Edge প্রকল্প ফাইল",
+  "description": "EPIBRW ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি EPIBRW ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "EPIBRW",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-epibrw-bn"
+    }
+  },
+  "lastmod": "2022-09-29"
 }
 
 ## একটি EPIBRW ফাইল কি?

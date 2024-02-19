@@ -1,20 +1,29 @@
 {
-  "date" : "2021-07-13",
-  "keywords" : [ "CER", "extension", "file", "format", "web", "certificate", "language" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "CER - সার্টিফিকেট ফাইল ফরম্যাট",
-  "description":"CER ফাইল বিন্যাস এবং API সম্পর্কে জানুন যেগুলি CER ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "CER",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2021-07-13"
+  "date": "2021-07-13",
+  "keywords": [
+    "CER",
+    "extension",
+    "file",
+    "format",
+    "web",
+    "certificate",
+    "language"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "CER - সার্টিফিকেট ফাইল ফরম্যাট",
+  "description": "CER ফাইল বিন্যাস এবং API সম্পর্কে জানুন যেগুলি CER ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "CER",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-cer-bn"
+    }
+  },
+  "lastmod": "2021-07-13"
 }
 
 ## একটি CER ফাইল কি? ##

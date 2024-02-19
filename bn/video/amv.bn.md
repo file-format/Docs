@@ -1,20 +1,30 @@
 {
-  "date" : "2021-16-04",
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "AMV ফাইল ফরম্যাট",
-  "keywords" : [ "AMV", "file", "extension", "format", "video format","What is an AMV file", "amv file format", "amv video"],
-  "description":"AMV ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা তৈরি করতে পারে এবং দেখাতে পারে যে কিভাবে AMV ফাইল খুলতে হয়।",
-  "linktitle" : "AMV",
-  "menu" : {
-    "docs" : {
-      "parent" : "video"
-}
-},
-  "lastmod" : "2021-16-04"
+  "date": "2021-16-04",
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "AMV ফাইল ফরম্যাট",
+  "keywords": [
+    "AMV",
+    "file",
+    "extension",
+    "format",
+    "video format",
+    "What is an AMV file",
+    "amv file format",
+    "amv video"
+  ],
+  "description": "AMV ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা তৈরি করতে পারে এবং দেখাতে পারে যে কিভাবে AMV ফাইল খুলতে হয়।",
+  "linktitle": "AMV",
+  "menu": {
+    "docs": {
+      "parent": "video",
+      "identifier": "video-amv-bn"
+    }
+  },
+  "lastmod": "2021-16-04"
 }
 
 ## একটি AMV ফাইল কি? ##

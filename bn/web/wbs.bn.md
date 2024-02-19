@@ -1,19 +1,20 @@
 {
-  "date" : "2022-02-03",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "WBS ফাইল - ওয়েবব্লেন্ডার প্রজেক্ট ফাইল",
-  "description":"ডব্লিউবিএস ফাইল এবং এপিআই কী সে সম্পর্কে জানুন যা WBS ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "WBS",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2022-02-03"
+  "date": "2022-02-03",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "WBS ফাইল - ওয়েবব্লেন্ডার প্রজেক্ট ফাইল",
+  "description": "ডব্লিউবিএস ফাইল এবং এপিআই কী সে সম্পর্কে জানুন যা WBS ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "WBS",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-wbs-bn"
+    }
+  },
+  "lastmod": "2022-02-03"
 }
 
 ## একটি WBS ফাইল কি?

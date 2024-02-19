@@ -1,19 +1,20 @@
 {
-  "date" : "2023-05-23",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "AXD ফাইল - ASP.NET ওয়েব হ্যান্ডলার ফাইল ফরম্যাট",
-  "description" : "একটি AXD ফাইল এবং APIগুলি কী যা AXD ফাইলগুলি তৈরি এবং খুলতে পারে সে সম্পর্কে জানুন৷",
-  "linktitle" : "AXD",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2023-05-23"
+  "date": "2023-05-23",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "AXD ফাইল - ASP.NET ওয়েব হ্যান্ডলার ফাইল ফরম্যাট",
+  "description": "একটি AXD ফাইল এবং APIগুলি কী যা AXD ফাইলগুলি তৈরি এবং খুলতে পারে সে সম্পর্কে জানুন৷",
+  "linktitle": "AXD",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-axd-bn"
+    }
+  },
+  "lastmod": "2023-05-23"
 }
 
 ## একটি AXD ফাইল কি?

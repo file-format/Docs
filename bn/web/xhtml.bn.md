@@ -1,20 +1,28 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : ["xhtml", "File", "Extension", "File Format", "File Extension", "extensible html"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "এক্সএইচটিএমএল - এক্সটেনসিবল হাইপারটেক্সট মার্কআপ ল্যাঙ্গুয়েজ ফাইল ফরম্যাট",
-  "description":"এক্সএইচটিএমএল ফাইল ফরম্যাট এবং এপিআইগুলি কী সে সম্পর্কে জানুন যা এক্সএইচটিএমএল ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "XHTML",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "keywords": [
+    "xhtml",
+    "File",
+    "Extension",
+    "File Format",
+    "File Extension",
+    "extensible html"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "এক্সএইচটিএমএল - এক্সটেনসিবল হাইপারটেক্সট মার্কআপ ল্যাঙ্গুয়েজ ফাইল ফরম্যাট",
+  "description": "এক্সএইচটিএমএল ফাইল ফরম্যাট এবং এপিআইগুলি কী সে সম্পর্কে জানুন যা এক্সএইচটিএমএল ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "XHTML",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-xhtml-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি XHTML ফাইল কি?

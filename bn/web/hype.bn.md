@@ -1,19 +1,20 @@
 {
-  "date" : "2019-10-11",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "হাইপ ফাইল - হাইপ ডকুমেন্ট ফাইল ফরম্যাট",
-  "description" : "একটি HYPE ফাইল এবং APIগুলি কী যা HYPE ফাইল তৈরি এবং খুলতে পারে তা শিখতে আপনার ফাইল বিন্যাস নির্দেশিকা৷",
-  "linktitle" : "HYPE",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "হাইপ ফাইল - হাইপ ডকুমেন্ট ফাইল ফরম্যাট",
+  "description": "একটি HYPE ফাইল এবং APIগুলি কী যা HYPE ফাইল তৈরি এবং খুলতে পারে তা শিখতে আপনার ফাইল বিন্যাস নির্দেশিকা৷",
+  "linktitle": "HYPE",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-hype-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি HYPE ফাইল কি?

@@ -1,20 +1,32 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "mov file", "mov file format", "what is an mov file", "file", "mov example", "mov file extension","extension", "format", "QuickTime", "MPEG-4" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "MOV ফাইল - অ্যাপল কুইকটাইম মুভি ফাইল ফরম্যাট",
-  "description":"MOV ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি MOV ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "MOV",
-  "menu" : {
-    "docs" : {
-      "parent" : "video"
-}
-},
-  "lastmod" : "2021-07-29"
+  "date": "2019-10-11",
+  "keywords": [
+    "mov file",
+    "mov file format",
+    "what is an mov file",
+    "file",
+    "mov example",
+    "mov file extension",
+    "extension",
+    "format",
+    "QuickTime",
+    "MPEG-4"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "MOV ফাইল - অ্যাপল কুইকটাইম মুভি ফাইল ফরম্যাট",
+  "description": "MOV ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি MOV ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "MOV",
+  "menu": {
+    "docs": {
+      "parent": "video",
+      "identifier": "video-mov-bn"
+    }
+  },
+  "lastmod": "2021-07-29"
 }
 
 ## একটি MOV ফাইল কি?

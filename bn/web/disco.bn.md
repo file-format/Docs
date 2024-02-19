@@ -1,19 +1,20 @@
 {
-  "date" : "2022-09-17",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ডিসকো ফাইল - ডিসকো ডিসকভারি ডকুমেন্ট ফাইল ফরম্যাট",
-  "description":"একটি DISCO ফাইল এবং APIগুলি কী যা DISCO ফাইলগুলি তৈরি এবং খুলতে পারে সে সম্পর্কে জানুন৷",
-  "linktitle" : "DISCO",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2022-09-17"
+  "date": "2022-09-17",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "ডিসকো ফাইল - ডিসকো ডিসকভারি ডকুমেন্ট ফাইল ফরম্যাট",
+  "description": "একটি DISCO ফাইল এবং APIগুলি কী যা DISCO ফাইলগুলি তৈরি এবং খুলতে পারে সে সম্পর্কে জানুন৷",
+  "linktitle": "DISCO",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-disco-bn"
+    }
+  },
+  "lastmod": "2022-09-17"
 }
 
 ## একটি DISCO ফাইল কি?

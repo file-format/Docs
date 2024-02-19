@@ -1,20 +1,27 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "alx","alx file", "file format", "file type", "what is an alx file" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ALX - একটি ALX ফাইল কি?",
-  "description" : "একটি ActiveX ALX ফাইল এবং API যা ALX ফাইল তৈরি এবং খুলতে পারে তা জানতে শিখুন৷",
-  "linktitle" : "ALX",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2021-12-08"
+  "date": "2019-10-11",
+  "keywords": [
+    "alx",
+    "alx file",
+    "file format",
+    "file type",
+    "what is an alx file"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "ALX - একটি ALX ফাইল কি?",
+  "description": "একটি ActiveX ALX ফাইল এবং API যা ALX ফাইল তৈরি এবং খুলতে পারে তা জানতে শিখুন৷",
+  "linktitle": "ALX",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-alx-bn"
+    }
+  },
+  "lastmod": "2021-12-08"
 }
 
 ## একটি ALX ফাইল কি?

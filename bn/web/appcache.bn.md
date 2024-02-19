@@ -1,19 +1,20 @@
 {
-  "date" : "2022-08-05",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "APPCACHE ফাইল - HTML5 ক্যাশে ম্যানিফেস্ট ফাইল ফরম্যাট",
-  "description" : "একটি APPCACHE ফাইল এবং API যা APPCACHE ফাইলগুলি তৈরি এবং খুলতে পারে সে সম্পর্কে জানুন৷",
-  "linktitle" : "APPCACHE",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2022-08-05"
+  "date": "2022-08-05",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "APPCACHE ফাইল - HTML5 ক্যাশে ম্যানিফেস্ট ফাইল ফরম্যাট",
+  "description": "একটি APPCACHE ফাইল এবং API যা APPCACHE ফাইলগুলি তৈরি এবং খুলতে পারে সে সম্পর্কে জানুন৷",
+  "linktitle": "APPCACHE",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-appcache-bn"
+    }
+  },
+  "lastmod": "2022-08-05"
 }
 
 ## একটি APPCACHE ফাইল কি?

@@ -1,20 +1,29 @@
 {
-  "date" : "2021-05-20",
-  "keywords" : [ "shtml","shtml file", "shtml file format", "shtml file type", "file", "type", "what is an shtml file" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "SHTML - সার্ভার সাইড HTML ফাইল অন্তর্ভুক্ত করুন",
-  "description":"এসএইচটিএমএল ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা এসএইচটিএমএল ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "SHTML",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2021-05-20"
+  "date": "2021-05-20",
+  "keywords": [
+    "shtml",
+    "shtml file",
+    "shtml file format",
+    "shtml file type",
+    "file",
+    "type",
+    "what is an shtml file"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "SHTML - সার্ভার সাইড HTML ফাইল অন্তর্ভুক্ত করুন",
+  "description": "এসএইচটিএমএল ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা এসএইচটিএমএল ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "SHTML",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-shtml-bn"
+    }
+  },
+  "lastmod": "2021-05-20"
 }
 
 ## একটি SHTML ফাইল কি?

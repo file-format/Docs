@@ -1,20 +1,28 @@
 {
-  "date" : "2021-24-02",
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "MKS ফাইল ফরম্যাট",
-  "keywords" : [ "mks", "matroska video", "mkv format", "file", "format", "video"],
-  "description":"MKS ফাইল ফরম্যাট সম্পর্কে জানুন শুধুমাত্র Matroska এবং API দ্বারা তৈরি করা সাবটাইটেলগুলির জন্য যা MKS ফাইলগুলি তৈরি এবং খুলতে পারে।",
-  "linktitle" : "MKS",
-  "menu" : {
-    "docs" : {
-      "parent" : "video"
-}
-},
-  "lastmod" : "2021-25-02"
+  "date": "2021-24-02",
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "MKS ফাইল ফরম্যাট",
+  "keywords": [
+    "mks",
+    "matroska video",
+    "mkv format",
+    "file",
+    "format",
+    "video"
+  ],
+  "description": "MKS ফাইল ফরম্যাট সম্পর্কে জানুন শুধুমাত্র Matroska এবং API দ্বারা তৈরি করা সাবটাইটেলগুলির জন্য যা MKS ফাইলগুলি তৈরি এবং খুলতে পারে।",
+  "linktitle": "MKS",
+  "menu": {
+    "docs": {
+      "parent": "video",
+      "identifier": "video-mks-bn"
+    }
+  },
+  "lastmod": "2021-25-02"
 }
 
 ## একটি MKS ফাইল কি?

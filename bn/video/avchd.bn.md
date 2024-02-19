@@ -1,20 +1,29 @@
 {
-  "date" : "2021-14-04",
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "AVCHD ফাইল ফরম্যাট",
-  "keywords" : [ "avchd", "file", "extension", "format", "video format","what is an avchd file", "How to open AVCHD files"],
-  "description":"AVCHD ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা তৈরি করতে পারে এবং দেখায় যে কিভাবে AVCHD ফাইল খুলতে হয়।",
-  "linktitle" : "AVCHD",
-  "menu" : {
-    "docs" : {
-      "parent" : "video"
-}
-},
-  "lastmod" : "2021-14-04"
+  "date": "2021-14-04",
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "AVCHD ফাইল ফরম্যাট",
+  "keywords": [
+    "avchd",
+    "file",
+    "extension",
+    "format",
+    "video format",
+    "what is an avchd file",
+    "How to open AVCHD files"
+  ],
+  "description": "AVCHD ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা তৈরি করতে পারে এবং দেখায় যে কিভাবে AVCHD ফাইল খুলতে হয়।",
+  "linktitle": "AVCHD",
+  "menu": {
+    "docs": {
+      "parent": "video",
+      "identifier": "video-avchd-bn"
+    }
+  },
+  "lastmod": "2021-14-04"
 }
 
 ## একটি AVCHD ফাইল কি? ##

@@ -1,19 +1,20 @@
 {
-  "date" : "2022-03-08",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "NSV ফাইল ফরম্যাট - NullSoft স্ট্রিমিং ভিডিও ফাইল",
-  "description":"NSV ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি NSV ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "NSV",
-  "menu" : {
-    "docs" : {
-      "parent" : "video"
-}
-},
-  "lastmod" : "2022-03-08"
+  "date": "2022-03-08",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "NSV ফাইল ফরম্যাট - NullSoft স্ট্রিমিং ভিডিও ফাইল",
+  "description": "NSV ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি NSV ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "NSV",
+  "menu": {
+    "docs": {
+      "parent": "video",
+      "identifier": "video-nsv-bn"
+    }
+  },
+  "lastmod": "2022-03-08"
 }
 
 ## একটি NSV ফাইল কি?

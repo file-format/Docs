@@ -1,19 +1,20 @@
 {
-  "date" : "2021-08-19",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "CFML - কোল্ডফিউশন মার্কআপ ল্যাঙ্গুয়েজ ফাইল",
-  "description" : "একটি CFML ফাইল এবং API যা CFML ফাইল তৈরি এবং খুলতে পারে সে সম্পর্কে জানুন৷",
-  "linktitle" : "CFML",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2021-08-19"
+  "date": "2021-08-19",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "CFML - কোল্ডফিউশন মার্কআপ ল্যাঙ্গুয়েজ ফাইল",
+  "description": "একটি CFML ফাইল এবং API যা CFML ফাইল তৈরি এবং খুলতে পারে সে সম্পর্কে জানুন৷",
+  "linktitle": "CFML",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-cfml-bn"
+    }
+  },
+  "lastmod": "2021-08-19"
 }
 
 ## একটি CFML ফাইল কি?

@@ -1,20 +1,35 @@
 {
-  "date" : "2021-04-15",
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "MPG ফাইল ফরম্যাট",
-  "keywords" : [ "MPG", "file", "extension", "format", "video format","what is an mpg file format", "mpg file format", "mpg file player","mpeg compression", "video", "MPEG", "MPEG-1", "MPEG-2"],
-  "description":"MPG ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা তৈরি করতে পারে এবং দেখাতে পারে যে MPG ফাইলগুলি কিভাবে খুলতে হয়।",
-  "linktitle" : "MPG",
-  "menu" : {
-    "docs" : {
-      "parent" : "video"
-}
-},
-  "lastmod" : "2021-07-26"
+  "date": "2021-04-15",
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "MPG ফাইল ফরম্যাট",
+  "keywords": [
+    "MPG",
+    "file",
+    "extension",
+    "format",
+    "video format",
+    "what is an mpg file format",
+    "mpg file format",
+    "mpg file player",
+    "mpeg compression",
+    "video",
+    "MPEG",
+    "MPEG-1",
+    "MPEG-2"
+  ],
+  "description": "MPG ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা তৈরি করতে পারে এবং দেখাতে পারে যে MPG ফাইলগুলি কিভাবে খুলতে হয়।",
+  "linktitle": "MPG",
+  "menu": {
+    "docs": {
+      "parent": "video",
+      "identifier": "video-mpg-bn"
+    }
+  },
+  "lastmod": "2021-07-26"
 }
 
 ## একটি MPG ফাইল বিন্যাস কি? ##

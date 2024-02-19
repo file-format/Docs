@@ -1,20 +1,29 @@
 {
-  "date" : "2021-07-20",
-  "keywords" : ["FWP", "File", "Extension", "File Format", "File Extension", "Microsoft Expression Web", "Archive File"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "FWP - মাইক্রোসফট এক্সপ্রেশন ওয়েব প্যাকেজ",
-  "description" : "একটি FWP ফাইল এবং API যা FWP ফাইল তৈরি এবং খুলতে পারে তা শিখতে আপনার ফাইল বিন্যাস নির্দেশিকা৷",
-  "linktitle" : "FWP",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2021-07-20"
+  "date": "2021-07-20",
+  "keywords": [
+    "FWP",
+    "File",
+    "Extension",
+    "File Format",
+    "File Extension",
+    "Microsoft Expression Web",
+    "Archive File"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "FWP - মাইক্রোসফট এক্সপ্রেশন ওয়েব প্যাকেজ",
+  "description": "একটি FWP ফাইল এবং API যা FWP ফাইল তৈরি এবং খুলতে পারে তা শিখতে আপনার ফাইল বিন্যাস নির্দেশিকা৷",
+  "linktitle": "FWP",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-fwp-bn"
+    }
+  },
+  "lastmod": "2021-07-20"
 }
 
 ## একটি FWP ফাইল কি?

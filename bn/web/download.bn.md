@@ -1,19 +1,20 @@
 {
-  "date" : "2022-09-28",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ফাইল ডাউনলোড করুন - আংশিকভাবে ডাউনলোড করা ফাইল ফরম্যাট",
-  "description" : "ডাউনলোড ফাইল ফরম্যাট এবং ডাউনলোড ফাইল তৈরি এবং খুলতে API সম্পর্কে জানুন।",
-  "linktitle" : "DOWNLOAD",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2022-09-28"
+  "date": "2022-09-28",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "ফাইল ডাউনলোড করুন - আংশিকভাবে ডাউনলোড করা ফাইল ফরম্যাট",
+  "description": "ডাউনলোড ফাইল ফরম্যাট এবং ডাউনলোড ফাইল তৈরি এবং খুলতে API সম্পর্কে জানুন।",
+  "linktitle": "DOWNLOAD",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-download-bn"
+    }
+  },
+  "lastmod": "2022-09-28"
 }
 
 ## একটি ডাউনলোড ফাইল কি?

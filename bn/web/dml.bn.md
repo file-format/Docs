@@ -1,20 +1,29 @@
 {
-  "date" : "2021-05-25",
-  "keywords" : [ "DML","DML file", "DML file format", "DML file type", "file", "type", "what is a DML file" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "DML - DynaScript HTML ফাইল",
-  "description":"DML ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা DML ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "DML",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2021-05-25"
+  "date": "2021-05-25",
+  "keywords": [
+    "DML",
+    "DML file",
+    "DML file format",
+    "DML file type",
+    "file",
+    "type",
+    "what is a DML file"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "DML - DynaScript HTML ফাইল",
+  "description": "DML ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা DML ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "DML",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-dml-bn"
+    }
+  },
+  "lastmod": "2021-05-25"
 }
 
 ## একটি DML ফাইল কি?

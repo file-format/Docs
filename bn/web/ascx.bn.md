@@ -1,20 +1,29 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "ascx","ascx file", "ascx file format", "ascx file type", "file", "type", "what is an ascx file" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ASCX ফাইল ফরম্যাট",
-  "description" : "একটি ASCX ফাইল এবং APIগুলি কী যেগুলি ASCX ফাইলগুলি তৈরি এবং খুলতে পারে সে সম্পর্কে জানুন৷",
-  "linktitle" : "ASCX",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2020-09-10"
+  "date": "2019-10-11",
+  "keywords": [
+    "ascx",
+    "ascx file",
+    "ascx file format",
+    "ascx file type",
+    "file",
+    "type",
+    "what is an ascx file"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "ASCX ফাইল ফরম্যাট",
+  "description": "একটি ASCX ফাইল এবং APIগুলি কী যেগুলি ASCX ফাইলগুলি তৈরি এবং খুলতে পারে সে সম্পর্কে জানুন৷",
+  "linktitle": "ASCX",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-ascx-bn"
+    }
+  },
+  "lastmod": "2020-09-10"
 }
 
 ## একটি ASCX ফাইল কি?

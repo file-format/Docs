@@ -1,19 +1,20 @@
 {
-  "date" : "2022-06-01",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "DOCHTML ফাইল ফরম্যাট - মাইক্রোসফট ওয়ার্ড এইচটিএমএল ডকুমেন্ট ফাইল",
-  "description" : "DOCHTML ফাইল ফরম্যাট এবং DOCHTML ফাইল তৈরি ও খোলার জন্য API সম্পর্কে জানুন।",
-  "linktitle" : "DOCHTML",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2022-06-01"
+  "date": "2022-06-01",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "DOCHTML ফাইল ফরম্যাট - মাইক্রোসফট ওয়ার্ড এইচটিএমএল ডকুমেন্ট ফাইল",
+  "description": "DOCHTML ফাইল ফরম্যাট এবং DOCHTML ফাইল তৈরি ও খোলার জন্য API সম্পর্কে জানুন।",
+  "linktitle": "DOCHTML",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-dochtml-bn"
+    }
+  },
+  "lastmod": "2022-06-01"
 }
 
 ## একটি DOCHTML ফাইল কি?

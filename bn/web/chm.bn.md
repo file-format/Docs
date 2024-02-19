@@ -1,20 +1,29 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "chm","chm file", "chm file format", "chm file type", "file", "type", "what is a chm file" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "CHM - সংকলিত HTML সহায়তা ফাইল বিন্যাস",
-  "description" : "একটি CHM ফাইল এবং এপিআইগুলি কী সেগুলি তৈরি করতে এবং খুলতে পারে সে সম্পর্কে জানুন৷",
-  "linktitle" : "CHM",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "keywords": [
+    "chm",
+    "chm file",
+    "chm file format",
+    "chm file type",
+    "file",
+    "type",
+    "what is a chm file"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "CHM - সংকলিত HTML সহায়তা ফাইল বিন্যাস",
+  "description": "একটি CHM ফাইল এবং এপিআইগুলি কী সেগুলি তৈরি করতে এবং খুলতে পারে সে সম্পর্কে জানুন৷",
+  "linktitle": "CHM",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-chm-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি CHM ফাইল কি?

@@ -1,20 +1,30 @@
 {
-  "date" : "2021-02-15",
-  "keywords" : [ "asf file", "asf file format", "what is an asf file", "file", "asf example", "asf file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ASF - অ্যাডভান্সড সিস্টেম ফাইল ফরম্যাট",
-  "description":"ASF ফাইল বিন্যাস এবং API সম্পর্কে জানুন যেগুলি ASF ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "ASF",
-  "menu" : {
-    "docs" : {
-      "parent" : "video"
-}
-},
-  "lastmod" : "2021-02-16"
+  "date": "2021-02-15",
+  "keywords": [
+    "asf file",
+    "asf file format",
+    "what is an asf file",
+    "file",
+    "asf example",
+    "asf file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "ASF - অ্যাডভান্সড সিস্টেম ফাইল ফরম্যাট",
+  "description": "ASF ফাইল বিন্যাস এবং API সম্পর্কে জানুন যেগুলি ASF ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "ASF",
+  "menu": {
+    "docs": {
+      "parent": "video",
+      "identifier": "video-asf-bn"
+    }
+  },
+  "lastmod": "2021-02-16"
 }
 
 ## একটি ASF ফাইল কি?

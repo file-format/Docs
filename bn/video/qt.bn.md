@@ -1,20 +1,30 @@
 {
-  "date" : "2021-02-15",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "QT ফাইল ফরম্যাট - দ্রুত মুভি ফাইল",
-  "keywords" : [ "QT", "QuickTime video", "qt format", "how to play qt files", "Quick Movie File", "QTFF", "video", "Apple" ],
-  "description":"QT ফাইল বিন্যাস এবং API সম্পর্কে জানুন যেগুলি QT ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "QT",
-  "menu" : {
-    "docs" : {
-      "parent" : "video"
-}
-},
-  "lastmod" : "2021-02-16"
+  "date": "2021-02-15",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "QT ফাইল ফরম্যাট - দ্রুত মুভি ফাইল",
+  "keywords": [
+    "QT",
+    "QuickTime video",
+    "qt format",
+    "how to play qt files",
+    "Quick Movie File",
+    "QTFF",
+    "video",
+    "Apple"
+  ],
+  "description": "QT ফাইল বিন্যাস এবং API সম্পর্কে জানুন যেগুলি QT ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "QT",
+  "menu": {
+    "docs": {
+      "parent": "video",
+      "identifier": "video-qt-bn"
+    }
+  },
+  "lastmod": "2021-02-16"
 }
 
 ## একটি QT ফাইল কি?

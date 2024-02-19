@@ -1,20 +1,28 @@
 {
-  "date" : "2021-01-20",
-  "keywords" : ["xslt", "File", "Extension", "File Format", "File Extension", "Extensible Stylesheet Language"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "XSLT ফাইল ফরম্যাট",
-  "description":"XSLT ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা XSLT ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "XSLT",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2021-01-20"
+  "date": "2021-01-20",
+  "keywords": [
+    "xslt",
+    "File",
+    "Extension",
+    "File Format",
+    "File Extension",
+    "Extensible Stylesheet Language"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "XSLT ফাইল ফরম্যাট",
+  "description": "XSLT ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা XSLT ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "XSLT",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-xslt-bn"
+    }
+  },
+  "lastmod": "2021-01-20"
 }
 
 ## একটি XSLT ফাইল কি?

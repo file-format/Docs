@@ -1,20 +1,28 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : ["xml", "File", "Extension", "File Format", "File Extension", "extensible markup language"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "XML ফাইল ফরম্যাট",
-  "description":"XML ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি XML ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "XML",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "keywords": [
+    "xml",
+    "File",
+    "Extension",
+    "File Format",
+    "File Extension",
+    "extensible markup language"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "XML ফাইল ফরম্যাট",
+  "description": "XML ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি XML ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "XML",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-xml-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি XML ফাইল কি?

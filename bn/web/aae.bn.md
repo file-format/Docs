@@ -1,20 +1,27 @@
 {
-  "date" : "2021-12-29",
-  "keywords" : [ ".aae","file format", "extension", "file type", "what is a .aae file" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "AAE - একটি .aae ফাইল কি?",
-  "description" : "একটি AAe ফাইল এবং APIগুলি কী যা AAe ফাইলগুলি তৈরি এবং খুলতে পারে তা জানতে শিখুন৷",
-  "linktitle" : "AAE",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2021-12-29"
+  "date": "2021-12-29",
+  "keywords": [
+    ".aae",
+    "file format",
+    "extension",
+    "file type",
+    "what is a .aae file"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "AAE - একটি .aae ফাইল কি?",
+  "description": "একটি AAe ফাইল এবং APIগুলি কী যা AAe ফাইলগুলি তৈরি এবং খুলতে পারে তা জানতে শিখুন৷",
+  "linktitle": "AAE",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-aae-bn"
+    }
+  },
+  "lastmod": "2021-12-29"
 }
 
 ## একটি AAE ফাইল কি?

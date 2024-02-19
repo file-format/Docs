@@ -1,19 +1,20 @@
 {
-  "date" : "2022-05-19",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "OBML16 ফাইল ফরম্যাট - অপেরা মিনি সংরক্ষিত ওয়েবপেজ ফাইল",
-  "description" : "একটি OBML16 ফাইল এবং API যা OBML16 ফাইল তৈরি এবং খুলতে পারে সে সম্পর্কে জানুন।",
-  "linktitle" : "OBML16",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2022-05-19"
+  "date": "2022-05-19",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "OBML16 ফাইল ফরম্যাট - অপেরা মিনি সংরক্ষিত ওয়েবপেজ ফাইল",
+  "description": "একটি OBML16 ফাইল এবং API যা OBML16 ফাইল তৈরি এবং খুলতে পারে সে সম্পর্কে জানুন।",
+  "linktitle": "OBML16",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-obml16-bn"
+    }
+  },
+  "lastmod": "2022-05-19"
 }
 
 ## একটি OBML16 ফাইল কি?

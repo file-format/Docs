@@ -1,19 +1,20 @@
 {
-  "date" : "2022-02-03",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "WSDL ফাইল ফরম্যাট - ওয়েব পরিষেবার বর্ণনা ভাষা ফাইল",
-  "description":"একটি WSDL ফাইল এবং API যা WSDL ফাইল তৈরি এবং খুলতে পারে সে সম্পর্কে জানুন।",
-  "linktitle" : "WSDL",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2022-02-03"
+  "date": "2022-02-03",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "WSDL ফাইল ফরম্যাট - ওয়েব পরিষেবার বর্ণনা ভাষা ফাইল",
+  "description": "একটি WSDL ফাইল এবং API যা WSDL ফাইল তৈরি এবং খুলতে পারে সে সম্পর্কে জানুন।",
+  "linktitle": "WSDL",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-wsdl-bn"
+    }
+  },
+  "lastmod": "2022-02-03"
 }
 
 ## একটি WSDL ফাইল কি?

@@ -1,20 +1,30 @@
 {
-  "date" : "2021-02-15",
-  "keywords" : [ "MJPEG", "file", "extension", "format", "Motion JPEG", "compressing", "JPEG image", "video"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "MJPEG - মোশন JPEG ফাইল ফরম্যাট",
-  "description":"MJPEG ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি MJPEG ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "MJPEG",
-  "menu" : {
-    "docs" : {
-      "parent" : "video"
-}
-},
-  "lastmod" : "2021-02-16"
+  "date": "2021-02-15",
+  "keywords": [
+    "MJPEG",
+    "file",
+    "extension",
+    "format",
+    "Motion JPEG",
+    "compressing",
+    "JPEG image",
+    "video"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "MJPEG - মোশন JPEG ফাইল ফরম্যাট",
+  "description": "MJPEG ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি MJPEG ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "MJPEG",
+  "menu": {
+    "docs": {
+      "parent": "video",
+      "identifier": "video-mjpeg-bn"
+    }
+  },
+  "lastmod": "2021-02-16"
 }
 
 ## একটি MJPEG ফাইল কি? ##

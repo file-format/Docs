@@ -1,20 +1,30 @@
 {
-  "date" : "2021-26-08",
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "BIK - বিঙ্ক ভিডিও ফাইল",
-  "keywords" : [ "bik file", "bik file format", "what is a bik file", "file", "bik example", "bik file extension","extension", "format" ],
-  "description":"BIK ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি BIK ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "BIK",
-  "menu" : {
-    "docs" : {
-      "parent" : "video"
-}
-},
-  "lastmod" : "2023-02-07"
+  "date": "2021-26-08",
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "BIK - বিঙ্ক ভিডিও ফাইল",
+  "keywords": [
+    "bik file",
+    "bik file format",
+    "what is a bik file",
+    "file",
+    "bik example",
+    "bik file extension",
+    "extension",
+    "format"
+  ],
+  "description": "BIK ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি BIK ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "BIK",
+  "menu": {
+    "docs": {
+      "parent": "video",
+      "identifier": "video-bik-bn"
+    }
+  },
+  "lastmod": "2023-02-07"
 }
 
 ## একটি BIK ফাইল কি?

@@ -1,20 +1,29 @@
 {
-  "date" : "2019-10-11",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "MXF - উপাদান বিনিময় বিন্যাস",
-  "keywords" : [ "MXF", "matroska video", "mkv format", "how to play MXF files", "SMPTE", "multimedia", "video" ],
-  "description":"MXF ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি MXF ফাইল তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "MXF",
-  "menu" : {
-    "docs" : {
-      "parent" : "video"
-}
-},
-  "lastmod" : "2021-03-01"
+  "date": "2019-10-11",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "MXF - উপাদান বিনিময় বিন্যাস",
+  "keywords": [
+    "MXF",
+    "matroska video",
+    "mkv format",
+    "how to play MXF files",
+    "SMPTE",
+    "multimedia",
+    "video"
+  ],
+  "description": "MXF ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি MXF ফাইল তৈরি এবং খুলতে পারে৷",
+  "linktitle": "MXF",
+  "menu": {
+    "docs": {
+      "parent": "video",
+      "identifier": "video-mxf-bn"
+    }
+  },
+  "lastmod": "2021-03-01"
 }
 
 ## একটি MXF ফাইল কি?

@@ -1,19 +1,20 @@
 {
-  "date" : "2021-02-15",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "পিজেড ফাইল ফরম্যাট - প্যানজয়েড ভিডিও প্রজেক্ট ফাইল",
-  "description":"PZ ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি PZ ফাইলগুলি তৈরি এবং খুলতে পারে।",
-  "linktitle" : "PZ",
-  "menu" : {
-    "docs" : {
-      "parent" : "video"
-}
-},
-  "lastmod" : "2021-02-16"
+  "date": "2021-02-15",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "পিজেড ফাইল ফরম্যাট - প্যানজয়েড ভিডিও প্রজেক্ট ফাইল",
+  "description": "PZ ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি PZ ফাইলগুলি তৈরি এবং খুলতে পারে।",
+  "linktitle": "PZ",
+  "menu": {
+    "docs": {
+      "parent": "video",
+      "identifier": "video-pz-bn"
+    }
+  },
+  "lastmod": "2021-02-16"
 }
 
 ## একটি PZ ফাইল কি?

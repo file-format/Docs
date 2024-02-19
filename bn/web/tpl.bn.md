@@ -1,20 +1,29 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "tpl","tpl file", "tpl file format", "tpl file type", "file", "type", "what is an tpl file" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "TPL - HTTP ফাইল সার্ভার টেমপ্লেট",
-  "description" : "TPL ফাইল তৈরি এবং খোলার জন্য TPL ফাইল এবং APIগুলি কী তা সম্পর্কে জানুন।",
-  "linktitle" : "TPL",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2021-02-29"
+  "date": "2019-10-11",
+  "keywords": [
+    "tpl",
+    "tpl file",
+    "tpl file format",
+    "tpl file type",
+    "file",
+    "type",
+    "what is an tpl file"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "TPL - HTTP ফাইল সার্ভার টেমপ্লেট",
+  "description": "TPL ফাইল তৈরি এবং খোলার জন্য TPL ফাইল এবং APIগুলি কী তা সম্পর্কে জানুন।",
+  "linktitle": "TPL",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-tpl-bn"
+    }
+  },
+  "lastmod": "2021-02-29"
 }
 
 ## একটি TPL ফাইল কি?

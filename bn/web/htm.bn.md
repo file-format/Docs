@@ -1,20 +1,29 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "htm","htm file", "htm file format", "htm file type", "file", "type", "what is an htm file" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "HTM ফাইল ফরম্যাট",
-  "description" : "একটি HTM ফাইল এবং API যা সেগুলি তৈরি এবং খুলতে পারে তা শিখতে আপনার ফাইল বিন্যাস নির্দেশিকা৷",
-  "linktitle" : "HTM",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "keywords": [
+    "htm",
+    "htm file",
+    "htm file format",
+    "htm file type",
+    "file",
+    "type",
+    "what is an htm file"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "HTM ফাইল ফরম্যাট",
+  "description": "একটি HTM ফাইল এবং API যা সেগুলি তৈরি এবং খুলতে পারে তা শিখতে আপনার ফাইল বিন্যাস নির্দেশিকা৷",
+  "linktitle": "HTM",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-htm-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি HTM ফাইল কি?

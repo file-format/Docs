@@ -1,19 +1,20 @@
 {
-  "date" : "2022-08-05",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ASR ফাইল ফরম্যাট - সক্রিয় পৃষ্ঠা ফাইল",
-  "description" : "একটি ASR ফাইল এবং APIগুলি কী যেগুলি ASR ফাইলগুলি তৈরি এবং খুলতে পারে সে সম্পর্কে জানুন৷",
-  "linktitle" : "ASR",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2022-08-05"
+  "date": "2022-08-05",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "ASR ফাইল ফরম্যাট - সক্রিয় পৃষ্ঠা ফাইল",
+  "description": "একটি ASR ফাইল এবং APIগুলি কী যেগুলি ASR ফাইলগুলি তৈরি এবং খুলতে পারে সে সম্পর্কে জানুন৷",
+  "linktitle": "ASR",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-asr-bn"
+    }
+  },
+  "lastmod": "2022-08-05"
 }
 
 ## একটি ASR ফাইল কি?

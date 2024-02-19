@@ -1,20 +1,29 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "asax","asax file", "asax file format", "asax file type", "file", "type", "what is an asax file" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ASAX - ASP.NET সার্ভার অ্যাপ্লিকেশন ফাইল",
-  "description" : "একটি ASAX ফাইল এবং APIগুলি কী যা ASAX ফাইলগুলি তৈরি এবং খুলতে পারে তা জানতে শিখুন৷",
-  "linktitle" : "ASAX",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2021-06-07"
+  "date": "2019-10-11",
+  "keywords": [
+    "asax",
+    "asax file",
+    "asax file format",
+    "asax file type",
+    "file",
+    "type",
+    "what is an asax file"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "ASAX - ASP.NET সার্ভার অ্যাপ্লিকেশন ফাইল",
+  "description": "একটি ASAX ফাইল এবং APIগুলি কী যা ASAX ফাইলগুলি তৈরি এবং খুলতে পারে তা জানতে শিখুন৷",
+  "linktitle": "ASAX",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-asax-bn"
+    }
+  },
+  "lastmod": "2021-06-07"
 }
 
 ## একটি ASAX ফাইল কি?

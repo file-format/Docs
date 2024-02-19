@@ -1,19 +1,20 @@
 {
-  "date" : "2022-03-06",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "MPV ফাইল ফরম্যাট - MPEG প্রাথমিক স্ট্রীম ভিডিও ফাইল",
-  "description":"MPV ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা তৈরি করতে পারে এবং দেখাতে পারে যে MPV ফাইলগুলি কীভাবে খুলতে হয়।",
-  "linktitle" : "MPV",
-  "menu" : {
-    "docs" : {
-      "parent" : "video"
-}
-},
-  "lastmod" : "2022-03-06"
+  "date": "2022-03-06",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "MPV ফাইল ফরম্যাট - MPEG প্রাথমিক স্ট্রীম ভিডিও ফাইল",
+  "description": "MPV ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা তৈরি করতে পারে এবং দেখাতে পারে যে MPV ফাইলগুলি কীভাবে খুলতে হয়।",
+  "linktitle": "MPV",
+  "menu": {
+    "docs": {
+      "parent": "video",
+      "identifier": "video-mpv-bn"
+    }
+  },
+  "lastmod": "2022-03-06"
 }
 
 ## একটি MPV ফাইল কি?

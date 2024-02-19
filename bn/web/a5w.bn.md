@@ -1,20 +1,27 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "a5w","a5w file", "file format", "file type", "what is an a5w file" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "A5W - আলফা ফাইভ ওয়েবপেজ ফাইল",
-  "description" : "একটি A5W ফাইল এবং APIগুলি কী যা A5W ফাইলগুলি তৈরি এবং খুলতে পারে তা জানতে শিখুন৷",
-  "linktitle" : "A5W",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2021-12-06"
+  "date": "2019-10-11",
+  "keywords": [
+    "a5w",
+    "a5w file",
+    "file format",
+    "file type",
+    "what is an a5w file"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "A5W - আলফা ফাইভ ওয়েবপেজ ফাইল",
+  "description": "একটি A5W ফাইল এবং APIগুলি কী যা A5W ফাইলগুলি তৈরি এবং খুলতে পারে তা জানতে শিখুন৷",
+  "linktitle": "A5W",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-a5w-bn"
+    }
+  },
+  "lastmod": "2021-12-06"
 }
 
 ## একটি A5W ফাইল কি?

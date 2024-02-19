@@ -1,19 +1,20 @@
 {
-  "date" : "2022-09-29",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "FCGI ফাইল - FastCGI ফাইল ফরম্যাট",
-  "description" : "একটি FCGI ফাইল কি?",
-  "linktitle" : "FCGI",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2022-09-29"
+  "date": "2022-09-29",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "FCGI ফাইল - FastCGI ফাইল ফরম্যাট",
+  "description": "একটি FCGI ফাইল কি?",
+  "linktitle": "FCGI",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-fcgi-bn"
+    }
+  },
+  "lastmod": "2022-09-29"
 }
 
 ## একটি FCGI ফাইল কি?

@@ -1,20 +1,29 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "asmx","asmx file", "asmx file format", "asmx file type", "file", "type", "what is an asmx file" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ASMX - ASP.NET ওয়েব সার্ভিস ফাইল",
-  "description" : "একটি ASMX ফাইল এবং API গুলি কী তা সম্পর্কে জানুন যা ASMX ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "ASMX",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2021-06-10"
+  "date": "2019-10-11",
+  "keywords": [
+    "asmx",
+    "asmx file",
+    "asmx file format",
+    "asmx file type",
+    "file",
+    "type",
+    "what is an asmx file"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "ASMX - ASP.NET ওয়েব সার্ভিস ফাইল",
+  "description": "একটি ASMX ফাইল এবং API গুলি কী তা সম্পর্কে জানুন যা ASMX ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "ASMX",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-asmx-bn"
+    }
+  },
+  "lastmod": "2021-06-10"
 }
 
 ## একটি ASMX ফাইল কি?

@@ -1,19 +1,20 @@
 {
-  "date" : "2022-10-12",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "HDM ফাইল - হ্যান্ডহেল্ড ডিভাইস মার্কআপ ল্যাঙ্গুয়েজ ফাইল",
-  "description":"HDM ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা HDM ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "HDM",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2022-10-12"
+  "date": "2022-10-12",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "HDM ফাইল - হ্যান্ডহেল্ড ডিভাইস মার্কআপ ল্যাঙ্গুয়েজ ফাইল",
+  "description": "HDM ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা HDM ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "HDM",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-hdm-bn"
+    }
+  },
+  "lastmod": "2022-10-12"
 }
 
 ## একটি HDM ফাইল কি?

@@ -1,19 +1,20 @@
 {
-  "date" : "2021-05-26",
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "MTS ফাইল ফরম্যাট - AVCHD ভিডিও ফাইল",
-  "description":"MTS ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা তৈরি করতে পারে এবং দেখাতে পারে যে MTS ফাইলগুলি কিভাবে খুলতে হয়।",
-  "linktitle" : "MTS",
-  "menu" : {
-    "docs" : {
-      "parent" : "video"
-}
-},
-  "lastmod" : "2021-07-27"
+  "date": "2021-05-26",
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "MTS ফাইল ফরম্যাট - AVCHD ভিডিও ফাইল",
+  "description": "MTS ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা তৈরি করতে পারে এবং দেখাতে পারে যে MTS ফাইলগুলি কিভাবে খুলতে হয়।",
+  "linktitle": "MTS",
+  "menu": {
+    "docs": {
+      "parent": "video",
+      "identifier": "video-mts-bn"
+    }
+  },
+  "lastmod": "2021-07-27"
 }
 
 ## একটি MTS ফাইল কি?

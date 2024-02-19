@@ -1,20 +1,30 @@
 {
-  "date" : "2021-26-05",
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "M2TS ফাইল ফরম্যাট",
-  "keywords" : [ "avchd", "file", "extension", "format", "video format","m2ts file", "m2ts file format", "what is m2ts file"],
-  "description":"M2TS ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা তৈরি করতে পারে এবং দেখাতে পারে যে M2TS ফাইলগুলি কীভাবে খুলতে হয়।",
-  "linktitle" : "M2TS",
-  "menu" : {
-    "docs" : {
-      "parent" : "video"
-}
-},
-  "lastmod" : "2021-26-05"
+  "date": "2021-26-05",
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "M2TS ফাইল ফরম্যাট",
+  "keywords": [
+    "avchd",
+    "file",
+    "extension",
+    "format",
+    "video format",
+    "m2ts file",
+    "m2ts file format",
+    "what is m2ts file"
+  ],
+  "description": "M2TS ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা তৈরি করতে পারে এবং দেখাতে পারে যে M2TS ফাইলগুলি কীভাবে খুলতে হয়।",
+  "linktitle": "M2TS",
+  "menu": {
+    "docs": {
+      "parent": "video",
+      "identifier": "video-m2ts-bn"
+    }
+  },
+  "lastmod": "2021-26-05"
 }
 
 ## M2TS ফাইল কি? ##

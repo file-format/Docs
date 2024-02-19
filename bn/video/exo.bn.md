@@ -1,19 +1,20 @@
 {
-  "date" : "2022-04-28",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "EXO ফাইল ফরম্যাট - YouTube ভিডিও খণ্ড ফাইল",
-  "description":"EXO ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি EXO ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "EXO",
-  "menu" : {
-    "docs" : {
-      "parent" : "video"
-}
-},
-  "lastmod" : "2022-04-28"
+  "date": "2022-04-28",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "EXO ফাইল ফরম্যাট - YouTube ভিডিও খণ্ড ফাইল",
+  "description": "EXO ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি EXO ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "EXO",
+  "menu": {
+    "docs": {
+      "parent": "video",
+      "identifier": "video-exo-bn"
+    }
+  },
+  "lastmod": "2022-04-28"
 }
 
 ## একটি EXO ফাইল কি?

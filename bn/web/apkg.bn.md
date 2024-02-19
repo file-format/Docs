@@ -1,20 +1,29 @@
 {
-  "date" : "2019-10-11",
-   "keywords" : [ "apkg","apkg file", "apkg file format", "apkg file type", "file", "type", "What is an APKG file" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "APKG - Anki Flashcard ডেক ফাইল ফরম্যাট",
-  "description" : "একটি APKG ফাইল এবং এপিআই কী সেগুলি তৈরি করতে এবং খুলতে পারে সে সম্পর্কে জানুন৷",
-  "linktitle" : "APKG",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2021-06-16"
+  "date": "2019-10-11",
+  "keywords": [
+    "apkg",
+    "apkg file",
+    "apkg file format",
+    "apkg file type",
+    "file",
+    "type",
+    "What is an APKG file"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "APKG - Anki Flashcard ডেক ফাইল ফরম্যাট",
+  "description": "একটি APKG ফাইল এবং এপিআই কী সেগুলি তৈরি করতে এবং খুলতে পারে সে সম্পর্কে জানুন৷",
+  "linktitle": "APKG",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-apkg-bn"
+    }
+  },
+  "lastmod": "2021-06-16"
 }
 
 ## একটি APKG ফাইল কি?

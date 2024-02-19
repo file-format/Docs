@@ -1,19 +1,20 @@
 {
-  "date" : "2022-05-13",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ওয়েবসাইট ফাইল ফরম্যাট - ইন্টারনেট এক্সপ্লোরার পিন করা সাইট শর্টকাট ফাইল",
-  "description":"একটি WEBSITE ফাইল এবং API যা WEBSITE ফাইলগুলি তৈরি এবং খুলতে পারে সে সম্পর্কে জানুন৷",
-  "linktitle" : "WEBSITE",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2022-05-13"
+  "date": "2022-05-13",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "ওয়েবসাইট ফাইল ফরম্যাট - ইন্টারনেট এক্সপ্লোরার পিন করা সাইট শর্টকাট ফাইল",
+  "description": "একটি WEBSITE ফাইল এবং API যা WEBSITE ফাইলগুলি তৈরি এবং খুলতে পারে সে সম্পর্কে জানুন৷",
+  "linktitle": "WEBSITE",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-website-bn"
+    }
+  },
+  "lastmod": "2022-05-13"
 }
 
 ## একটি WEBSITE ফাইল কি?

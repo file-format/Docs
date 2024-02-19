@@ -1,19 +1,20 @@
 {
-  "date" : "2023-01-29",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "VDISCO ফাইল - DISCO ডাইনামিক ডিসকভারি ডকুমেন্ট ফাইল ফরম্যাট",
-  "description":"একটি VDISCO ফাইল কি সম্পর্কে জানুন?",
-  "linktitle" : "VDISCO",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2023-01-29"
+  "date": "2023-01-29",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "VDISCO ফাইল - DISCO ডাইনামিক ডিসকভারি ডকুমেন্ট ফাইল ফরম্যাট",
+  "description": "একটি VDISCO ফাইল কি সম্পর্কে জানুন?",
+  "linktitle": "VDISCO",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-vdisco-bn"
+    }
+  },
+  "lastmod": "2023-01-29"
 }
 
 ## একটি VDISCO ফাইল কি?

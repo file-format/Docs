@@ -1,20 +1,29 @@
 {
-  "date" : "2021-07-08",
-  "keywords" : ["HAR", "File", "Extension", "File Format", "File Extension", "JSON", "Archive File"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "HAR - HTTP আর্কাইভ ফাইল ফরম্যাট",
-  "description" : "একটি HAR ফাইল এবং APIগুলি কী যা HAR ফাইল তৈরি এবং খুলতে পারে তা শিখতে আপনার ফাইল বিন্যাস নির্দেশিকা৷",
-  "linktitle" : "HAR",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2021-07-08"
+  "date": "2021-07-08",
+  "keywords": [
+    "HAR",
+    "File",
+    "Extension",
+    "File Format",
+    "File Extension",
+    "JSON",
+    "Archive File"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "HAR - HTTP আর্কাইভ ফাইল ফরম্যাট",
+  "description": "একটি HAR ফাইল এবং APIগুলি কী যা HAR ফাইল তৈরি এবং খুলতে পারে তা শিখতে আপনার ফাইল বিন্যাস নির্দেশিকা৷",
+  "linktitle": "HAR",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-har-bn"
+    }
+  },
+  "lastmod": "2021-07-08"
 }
 
 ## একটি HAR ফাইল কি?

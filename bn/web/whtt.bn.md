@@ -1,19 +1,20 @@
 {
-  "date" : "2022-02-03",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "WHTT ফাইল - HTTrack ওয়েবসাইট কপিয়ার ফাইল",
-  "description":"একটি WHTT ফাইল এবং APIগুলি কী যেগুলি WHTT ফাইলগুলি তৈরি এবং খুলতে পারে সে সম্পর্কে জানুন৷",
-  "linktitle" : "WHTT",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2022-02-03"
+  "date": "2022-02-03",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "WHTT ফাইল - HTTrack ওয়েবসাইট কপিয়ার ফাইল",
+  "description": "একটি WHTT ফাইল এবং APIগুলি কী যেগুলি WHTT ফাইলগুলি তৈরি এবং খুলতে পারে সে সম্পর্কে জানুন৷",
+  "linktitle": "WHTT",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-whtt-bn"
+    }
+  },
+  "lastmod": "2022-02-03"
 }
 
 ## একটি WHTT ফাইল কি?

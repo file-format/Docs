@@ -1,20 +1,29 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "crt","crt file", "crt file format", "crt file type", "file", "type", "what is an crt file" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "CRT - নিরাপত্তা শংসাপত্র ফাইল বিন্যাস",
-  "description":"CRT ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি CRT ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "CRT",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "keywords": [
+    "crt",
+    "crt file",
+    "crt file format",
+    "crt file type",
+    "file",
+    "type",
+    "what is an crt file"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "CRT - নিরাপত্তা শংসাপত্র ফাইল বিন্যাস",
+  "description": "CRT ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি CRT ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "CRT",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-crt-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি CRT ফাইল কি?

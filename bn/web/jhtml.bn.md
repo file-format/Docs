@@ -1,20 +1,29 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "jhtml","jhtml file", "jhtml file format", "jhtml file type", "file", "type", "what is a jhtml file" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "JHTML - জাভা এইচটিএমএল ফাইল",
-  "description":"JHTML ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি JHTML ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "JHTML",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2021-06-09"
+  "date": "2019-10-11",
+  "keywords": [
+    "jhtml",
+    "jhtml file",
+    "jhtml file format",
+    "jhtml file type",
+    "file",
+    "type",
+    "what is a jhtml file"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "JHTML - জাভা এইচটিএমএল ফাইল",
+  "description": "JHTML ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি JHTML ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "JHTML",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-jhtml-bn"
+    }
+  },
+  "lastmod": "2021-06-09"
 }
 
 ## একটি JHTML ফাইল কি?

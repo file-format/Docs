@@ -1,20 +1,29 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "mhtml","mhtml file", "mhtml file format", "mhtml file type", "file", "type", "what is an mhtml file" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "MHTML - MIME HTML ফাইল",
-  "description":"MHTML ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি MHTML ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "MHTML",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "keywords": [
+    "mhtml",
+    "mhtml file",
+    "mhtml file format",
+    "mhtml file type",
+    "file",
+    "type",
+    "what is an mhtml file"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "MHTML - MIME HTML ফাইল",
+  "description": "MHTML ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি MHTML ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "MHTML",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-mhtml-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি MHTML ফাইল কি?

@@ -1,20 +1,31 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "M4V", "file", "extension", "format", "MPEG-4", "Digital Rights Management", "DRM", "Apple", "video"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "M4V",
-  "description":"M4V ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি M4V ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "M4V",
-  "menu" : {
-    "docs" : {
-      "parent" : "video"
-}
-},
-  "lastmod" : "2019-09-14"
+  "date": "2019-10-11",
+  "keywords": [
+    "M4V",
+    "file",
+    "extension",
+    "format",
+    "MPEG-4",
+    "Digital Rights Management",
+    "DRM",
+    "Apple",
+    "video"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "M4V",
+  "description": "M4V ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি M4V ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "M4V",
+  "menu": {
+    "docs": {
+      "parent": "video",
+      "identifier": "video-m4v-bn"
+    }
+  },
+  "lastmod": "2019-09-14"
 }
 
 ## একটি M4V ফাইল কি?

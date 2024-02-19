@@ -1,19 +1,20 @@
 {
-  "date" : "2019-10-11",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "বিএমএল ফাইল ফরম্যাট - বিন মার্কআপ ল্যাঙ্গুয়েজ ফাইল",
-  "description":"বিএমএল ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা বিএমএল ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "BML",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2021-08-12"
+  "date": "2019-10-11",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "বিএমএল ফাইল ফরম্যাট - বিন মার্কআপ ল্যাঙ্গুয়েজ ফাইল",
+  "description": "বিএমএল ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা বিএমএল ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "BML",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-bml-bn"
+    }
+  },
+  "lastmod": "2021-08-12"
 }
 
 ## একটি BML ফাইল কি?

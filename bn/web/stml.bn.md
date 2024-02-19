@@ -1,20 +1,29 @@
 {
-  "date" : "2021-05-20",
-  "keywords" : [ "stml","stml file", "stml file format", "stml file type", "file", "type", "what is an stml file" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "STML - SSI HTML ফাইল",
-  "description":"STML ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি STML ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "STML",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2021-05-20"
+  "date": "2021-05-20",
+  "keywords": [
+    "stml",
+    "stml file",
+    "stml file format",
+    "stml file type",
+    "file",
+    "type",
+    "what is an stml file"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "STML - SSI HTML ফাইল",
+  "description": "STML ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি STML ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "STML",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-stml-bn"
+    }
+  },
+  "lastmod": "2021-05-20"
 }
 
 ## একটি STML ফাইল কি?

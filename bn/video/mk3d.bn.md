@@ -1,20 +1,30 @@
 {
-  "date" : "2021-23-02",
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "MK3D ফাইল ফরম্যাট",
-  "keywords" : [ "mk3d", "matroska video", "mkv format", "stereoscopic 3d", "StereoMode", "video", "file", "format" ],
-  "description":"ম্যাট্রোস্কা এবং এপিআই দ্বারা তৈরি স্টেরিওস্কোপিক 3d ভিডিওগুলির জন্য MK3D ফাইল ফর্ম্যাট সম্পর্কে জানুন যা MK3D ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "MK3D",
-  "menu" : {
-    "docs" : {
-      "parent" : "video"
-}
-},
-  "lastmod" : "2021-23-02"
+  "date": "2021-23-02",
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "MK3D ফাইল ফরম্যাট",
+  "keywords": [
+    "mk3d",
+    "matroska video",
+    "mkv format",
+    "stereoscopic 3d",
+    "StereoMode",
+    "video",
+    "file",
+    "format"
+  ],
+  "description": "ম্যাট্রোস্কা এবং এপিআই দ্বারা তৈরি স্টেরিওস্কোপিক 3d ভিডিওগুলির জন্য MK3D ফাইল ফর্ম্যাট সম্পর্কে জানুন যা MK3D ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "MK3D",
+  "menu": {
+    "docs": {
+      "parent": "video",
+      "identifier": "video-mk3d-bn"
+    }
+  },
+  "lastmod": "2021-23-02"
 }
 
 ## একটি MK3D ফাইল কি? ##

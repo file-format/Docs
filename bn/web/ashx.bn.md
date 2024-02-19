@@ -1,20 +1,28 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "ashx", "file", "extension", "file format", "ASHX", "ASP.NET Web Handler File" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ASHX ফাইল এক্সটেনশন - একটি ASP.NET ওয়েব হ্যান্ডলার ফাইল",
-  "description" : "একটি ASHX ফাইল এবং APIগুলি কী যেগুলি ASHX ফাইলগুলি তৈরি এবং খুলতে পারে সে সম্পর্কে জানুন৷",
-  "linktitle" : "ASHX",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2021-06-10"
+  "date": "2019-10-11",
+  "keywords": [
+    "ashx",
+    "file",
+    "extension",
+    "file format",
+    "ASHX",
+    "ASP.NET Web Handler File"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "ASHX ফাইল এক্সটেনশন - একটি ASP.NET ওয়েব হ্যান্ডলার ফাইল",
+  "description": "একটি ASHX ফাইল এবং APIগুলি কী যেগুলি ASHX ফাইলগুলি তৈরি এবং খুলতে পারে সে সম্পর্কে জানুন৷",
+  "linktitle": "ASHX",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-ashx-bn"
+    }
+  },
+  "lastmod": "2021-06-10"
 }
 
 ## একটি ASHX ফাইল কি?

@@ -1,19 +1,20 @@
 {
-  "date" : "2019-10-11",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "HTX ফাইল - HTML এক্সটেনশন ফাইল ফরম্যাট",
-  "description" : "একটি HTX ফাইল এবং API যা HTX ফাইল তৈরি এবং খুলতে পারে তা জানতে আপনার ফাইল বিন্যাস নির্দেশিকা৷",
-  "linktitle" : "HTX",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "HTX ফাইল - HTML এক্সটেনশন ফাইল ফরম্যাট",
+  "description": "একটি HTX ফাইল এবং API যা HTX ফাইল তৈরি এবং খুলতে পারে তা জানতে আপনার ফাইল বিন্যাস নির্দেশিকা৷",
+  "linktitle": "HTX",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-htx-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি HTX ফাইল কি?

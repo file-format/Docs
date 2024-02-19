@@ -1,19 +1,20 @@
 {
-  "date" : "2022-01-23",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "GDOC ফাইল - Google ডক্স শর্টকাট",
-  "description":"একটি GDOC ফাইল এবং API গুলি কী যেগুলি GDOC ফাইলগুলি তৈরি এবং খুলতে পারে সে সম্পর্কে জানুন৷",
-  "linktitle" : "GDOC",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2022-01-23"
+  "date": "2022-01-23",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "GDOC ফাইল - Google ডক্স শর্টকাট",
+  "description": "একটি GDOC ফাইল এবং API গুলি কী যেগুলি GDOC ফাইলগুলি তৈরি এবং খুলতে পারে সে সম্পর্কে জানুন৷",
+  "linktitle": "GDOC",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-gdoc-bn"
+    }
+  },
+  "lastmod": "2022-01-23"
 }
 
 ## একটি GDOC ফাইল কি?

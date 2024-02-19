@@ -1,20 +1,29 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "mht","mht file", "mht file format", "mht file type", "file", "type", "what is an mht file" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "MHT - MIME HTML ফাইল ফরম্যাট",
-  "description" : "MHT ফাইল তৈরি এবং খুলতে MHT ফাইল ফরম্যাট এবং API সম্পর্কে জানুন।",
-  "linktitle" : "MHT",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2021-02-29"
+  "date": "2019-10-11",
+  "keywords": [
+    "mht",
+    "mht file",
+    "mht file format",
+    "mht file type",
+    "file",
+    "type",
+    "what is an mht file"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "MHT - MIME HTML ফাইল ফরম্যাট",
+  "description": "MHT ফাইল তৈরি এবং খুলতে MHT ফাইল ফরম্যাট এবং API সম্পর্কে জানুন।",
+  "linktitle": "MHT",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-mht-bn"
+    }
+  },
+  "lastmod": "2021-02-29"
 }
 
 ## একটি MHT ফাইল কি?

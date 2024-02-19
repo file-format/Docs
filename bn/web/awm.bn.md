@@ -1,19 +1,20 @@
 {
-  "date" : "2022-08-12",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "AWM ফাইল - AllWebMenus প্রজেক্ট ফাইল ফরম্যাট",
-  "description" : "একটি AWM ফাইল এবং APIগুলি কী যেগুলি AWM ফাইলগুলি তৈরি এবং খুলতে পারে সে সম্পর্কে জানুন৷",
-  "linktitle" : "AWM",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2022-08-12"
+  "date": "2022-08-12",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "AWM ফাইল - AllWebMenus প্রজেক্ট ফাইল ফরম্যাট",
+  "description": "একটি AWM ফাইল এবং APIগুলি কী যেগুলি AWM ফাইলগুলি তৈরি এবং খুলতে পারে সে সম্পর্কে জানুন৷",
+  "linktitle": "AWM",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-awm-bn"
+    }
+  },
+  "lastmod": "2022-08-12"
 }
 
 ## একটি AWM ফাইল কি?

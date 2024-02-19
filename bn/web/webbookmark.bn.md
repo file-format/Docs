@@ -1,19 +1,20 @@
 {
-  "date" : "2022-06-10",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ওয়েববুকমার্ক ফাইল ফরম্যাট - সাফারি ওয়েব বুকমার্ক ফাইল",
-  "description":"একটি WEBBOOKMARK ফাইল এবং API যা WEBBOOKMARK ফাইলগুলি তৈরি এবং খুলতে পারে সে সম্পর্কে জানুন৷",
-  "linktitle" : "WEBBOOKMARK",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2022-06-10"
+  "date": "2022-06-10",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "ওয়েববুকমার্ক ফাইল ফরম্যাট - সাফারি ওয়েব বুকমার্ক ফাইল",
+  "description": "একটি WEBBOOKMARK ফাইল এবং API যা WEBBOOKMARK ফাইলগুলি তৈরি এবং খুলতে পারে সে সম্পর্কে জানুন৷",
+  "linktitle": "WEBBOOKMARK",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-webbookmark-bn"
+    }
+  },
+  "lastmod": "2022-06-10"
 }
 
 ## একটি WEBBOOKMARK ফাইল কি?

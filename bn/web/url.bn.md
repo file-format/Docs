@@ -1,19 +1,20 @@
 {
-  "date" : "2019-10-11",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "URL - ইন্টারনেট শর্টকাট ফাইল",
-  "description":"একটি URL ফাইল এবং APIগুলি কী যা URL ফাইলগুলি তৈরি এবং খুলতে পারে সে সম্পর্কে জানুন৷",
-  "linktitle" : "URL",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2021-08-05"
+  "date": "2019-10-11",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "URL - ইন্টারনেট শর্টকাট ফাইল",
+  "description": "একটি URL ফাইল এবং APIগুলি কী যা URL ফাইলগুলি তৈরি এবং খুলতে পারে সে সম্পর্কে জানুন৷",
+  "linktitle": "URL",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-url-bn"
+    }
+  },
+  "lastmod": "2021-08-05"
 }
 
 ## একটি URL ফাইল কি?

@@ -1,19 +1,20 @@
 {
-  "date" : "2022-08-20",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "BOK ফাইল - প্রোস্টোরস ডায়নামিক ওয়েবপেজ ফাইল ফরম্যাট",
-  "description":"BOK ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি BOK ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "BOK",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2022-08-20"
+  "date": "2022-08-20",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "BOK ফাইল - প্রোস্টোরস ডায়নামিক ওয়েবপেজ ফাইল ফরম্যাট",
+  "description": "BOK ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি BOK ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "BOK",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-bok-bn"
+    }
+  },
+  "lastmod": "2022-08-20"
 }
 
 ## একটি BOK ফাইল কি?

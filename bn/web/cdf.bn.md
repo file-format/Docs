@@ -1,19 +1,20 @@
 {
-  "date" : "2019-10-11",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "CDF - চ্যানেল সংজ্ঞা বিন্যাস",
-  "description" : "একটি CDF ফাইল এবং API যা CDF ফাইল তৈরি এবং খুলতে পারে সে সম্পর্কে জানুন৷",
-  "linktitle" : "CDF",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2021-08-18"
+  "date": "2019-10-11",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "CDF - চ্যানেল সংজ্ঞা বিন্যাস",
+  "description": "একটি CDF ফাইল এবং API যা CDF ফাইল তৈরি এবং খুলতে পারে সে সম্পর্কে জানুন৷",
+  "linktitle": "CDF",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-cdf-bn"
+    }
+  },
+  "lastmod": "2021-08-18"
 }
 
 ## একটি CDF ফাইল কি?

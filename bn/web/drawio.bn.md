@@ -1,20 +1,29 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "drawio","drawio file", "drawio file format", "drawio file type", "file", "type", "what is a drawio file" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "DRAWIO - Diagram.net ডায়াগ্রাম ফাইল ফরম্যাট",
-  "description" : "DRAWIO ফাইল তৈরি এবং খোলার জন্য DRAWIO ফাইল ফরম্যাট এবং API সম্পর্কে জানুন।",
-  "linktitle" : "DRAWIO",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2021-05-16"
+  "date": "2019-10-11",
+  "keywords": [
+    "drawio",
+    "drawio file",
+    "drawio file format",
+    "drawio file type",
+    "file",
+    "type",
+    "what is a drawio file"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "DRAWIO - Diagram.net ডায়াগ্রাম ফাইল ফরম্যাট",
+  "description": "DRAWIO ফাইল তৈরি এবং খোলার জন্য DRAWIO ফাইল ফরম্যাট এবং API সম্পর্কে জানুন।",
+  "linktitle": "DRAWIO",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-drawio-bn"
+    }
+  },
+  "lastmod": "2021-05-16"
 }
 
 ## একটি DRAWIO ফাইল কি?

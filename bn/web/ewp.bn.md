@@ -1,19 +1,20 @@
 {
-  "date" : "2022-09-29",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "EWP ফাইল - Ewisoft ওয়েবসাইট প্রজেক্ট ফাইল ফরম্যাট",
-  "description":"EWP ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা EWP ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "EWP",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2022-09-29"
+  "date": "2022-09-29",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "EWP ফাইল - Ewisoft ওয়েবসাইট প্রজেক্ট ফাইল ফরম্যাট",
+  "description": "EWP ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা EWP ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "EWP",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-ewp-bn"
+    }
+  },
+  "lastmod": "2022-09-29"
 }
 
 ## একটি EWP ফাইল কি?

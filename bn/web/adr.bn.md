@@ -1,20 +1,27 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "adr",".adr file", "file format", "file type", "what is an adr file" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ADR - অপেরা বুকমার্কস ফাইল ফরম্যাট",
-  "description" : "একটি ADR ফাইল এবং API যা ADR ফাইল তৈরি এবং খুলতে পারে তা জানতে শিখুন।",
-  "linktitle" : "ADR",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2021-12-06"
+  "date": "2019-10-11",
+  "keywords": [
+    "adr",
+    ".adr file",
+    "file format",
+    "file type",
+    "what is an adr file"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "ADR - অপেরা বুকমার্কস ফাইল ফরম্যাট",
+  "description": "একটি ADR ফাইল এবং API যা ADR ফাইল তৈরি এবং খুলতে পারে তা জানতে শিখুন।",
+  "linktitle": "ADR",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-adr-bn"
+    }
+  },
+  "lastmod": "2021-12-06"
 }
 
 ## একটি ADR ফাইল কি?

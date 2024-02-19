@@ -1,19 +1,20 @@
 {
-  "date" : "2022-01-24",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "জিএসপি ফাইল - আইমেইল ত্রুটি বার্তা ফাইল বিন্যাস",
-  "description":"একটি জিএসপি ফাইল এবং এপিআই কী যা জিএসপি ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "GSP",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2022-01-24"
+  "date": "2022-01-24",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "জিএসপি ফাইল - আইমেইল ত্রুটি বার্তা ফাইল বিন্যাস",
+  "description": "একটি জিএসপি ফাইল এবং এপিআই কী যা জিএসপি ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "GSP",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-gsp-bn"
+    }
+  },
+  "lastmod": "2022-01-24"
 }
 
 ## একটি GSP ফাইল কি?

@@ -1,20 +1,29 @@
 {
-  "date" : "2021-05-24",
-  "keywords" : [ "rhtml","rhtml file", "rhtml file format", "rhtml file type", "file", "type", "what is an rhtml file" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "আরএইচটিএমএল - রুবি এইচটিএমএল পেজ",
-  "description":"আরএইচটিএমএল ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা আরএইচটিএমএল ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "RHTML",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2021-05-24"
+  "date": "2021-05-24",
+  "keywords": [
+    "rhtml",
+    "rhtml file",
+    "rhtml file format",
+    "rhtml file type",
+    "file",
+    "type",
+    "what is an rhtml file"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "আরএইচটিএমএল - রুবি এইচটিএমএল পেজ",
+  "description": "আরএইচটিএমএল ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা আরএইচটিএমএল ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "RHTML",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-rhtml-bn"
+    }
+  },
+  "lastmod": "2021-05-24"
 }
 
 ## একটি RHTML ফাইল কি?

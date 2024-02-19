@@ -1,19 +1,20 @@
 {
-  "date" : "2022-08-22",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "CHA ফাইল - IRC চ্যাট কনফিগারেশন ফাইল ফরম্যাট",
-  "description" : "একটি CHA ফাইল এবং API যা CHA ফাইল তৈরি এবং খুলতে পারে সে সম্পর্কে জানুন।",
-  "linktitle" : "CHA",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2022-08-22"
+  "date": "2022-08-22",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "CHA ফাইল - IRC চ্যাট কনফিগারেশন ফাইল ফরম্যাট",
+  "description": "একটি CHA ফাইল এবং API যা CHA ফাইল তৈরি এবং খুলতে পারে সে সম্পর্কে জানুন।",
+  "linktitle": "CHA",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-cha-bn"
+    }
+  },
+  "lastmod": "2022-08-22"
 }
 
 ## একটি CHA ফাইল কি?

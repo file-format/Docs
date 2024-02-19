@@ -1,19 +1,20 @@
 {
-  "date" : "2022-08-20",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "BWP ফাইল - ব্রটলি কম্প্রেসড ফাইল ফরম্যাট",
-  "description":"BWP ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা BWP ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "BWP",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2022-08-20"
+  "date": "2022-08-20",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "BWP ফাইল - ব্রটলি কম্প্রেসড ফাইল ফরম্যাট",
+  "description": "BWP ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা BWP ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "BWP",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-bwp-bn"
+    }
+  },
+  "lastmod": "2022-08-20"
 }
 
 ## একটি BWP ফাইল কি?

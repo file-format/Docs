@@ -1,19 +1,20 @@
 {
-  "date" : "2022-09-17",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "DISCOMAP ফাইল - DISCO আবিষ্কার আউটপুট ফাইল বিন্যাস",
-  "description":"একটি DISCOMAP ফাইল এবং APIগুলি কী যা DISCOMAP ফাইলগুলি তৈরি এবং খুলতে পারে সে সম্পর্কে জানুন৷",
-  "linktitle" : "DISCOMAP",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2022-09-17"
+  "date": "2022-09-17",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "DISCOMAP ফাইল - DISCO আবিষ্কার আউটপুট ফাইল বিন্যাস",
+  "description": "একটি DISCOMAP ফাইল এবং APIগুলি কী যা DISCOMAP ফাইলগুলি তৈরি এবং খুলতে পারে সে সম্পর্কে জানুন৷",
+  "linktitle": "DISCOMAP",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-discomap-bn"
+    }
+  },
+  "lastmod": "2022-09-17"
 }
 
 ## একটি DISCOMAP ফাইল কি?

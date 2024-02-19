@@ -1,20 +1,28 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ ".crdownload","file format", "file type", "file", "type", "what is an crt file" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "CRDOWNLOAD - Chrome আংশিকভাবে ডাউনলোড করা ফাইল",
-  "description":".crdownload ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা CRDOWNLOAD ফাইলগুলি তৈরি এবং খুলতে পারে।",
-  "linktitle" : "CRDOWNLOAD",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "keywords": [
+    ".crdownload",
+    "file format",
+    "file type",
+    "file",
+    "type",
+    "what is an crt file"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "CRDOWNLOAD - Chrome আংশিকভাবে ডাউনলোড করা ফাইল",
+  "description": ".crdownload ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা CRDOWNLOAD ফাইলগুলি তৈরি এবং খুলতে পারে।",
+  "linktitle": "CRDOWNLOAD",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-crdownload-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি CRDOWNLOAD ফাইল কি?

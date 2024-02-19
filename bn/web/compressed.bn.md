@@ -1,19 +1,20 @@
 {
-  "date" : "2023-05-23",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "কম্প্রেসড ফাইল - ওয়ার্ড কমপ্রেস কম্প্যাক্টেড ওয়েবপেজ ফাইল ফরম্যাট",
-  "description" : "একটি কম্প্রেসড ফাইল এবং এপিআইগুলি কী তা সম্পর্কে জানুন যা কম্প্রেসড ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "COMPRESSED",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2023-05-23"
+  "date": "2023-05-23",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "কম্প্রেসড ফাইল - ওয়ার্ড কমপ্রেস কম্প্যাক্টেড ওয়েবপেজ ফাইল ফরম্যাট",
+  "description": "একটি কম্প্রেসড ফাইল এবং এপিআইগুলি কী তা সম্পর্কে জানুন যা কম্প্রেসড ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "COMPRESSED",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-compressed-bn"
+    }
+  },
+  "lastmod": "2023-05-23"
 }
 
 ## একটি সংকুচিত ফাইল কি?

@@ -1,20 +1,29 @@
 {
-  "date" : "2021-06-24",
-  "keywords" : [ "PART", "partial", "extension", "file", "format", "web", "downloaded" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "PART - আংশিক ডাউনলোড করা ফাইল",
-  "description":"PART ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা PART ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "PART",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2021-06-24"
+  "date": "2021-06-24",
+  "keywords": [
+    "PART",
+    "partial",
+    "extension",
+    "file",
+    "format",
+    "web",
+    "downloaded"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "PART - আংশিক ডাউনলোড করা ফাইল",
+  "description": "PART ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা PART ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "PART",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-part-bn"
+    }
+  },
+  "lastmod": "2021-06-24"
 }
 
 ## একটি PART ফাইল কি? ##

@@ -1,20 +1,28 @@
 {
-  "date" : "2021-05-24",
-  "keywords" : ["zul", "File", "Extension", "File Format", "File Extension", "open"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ZUL - ZK ইউজার ইন্টারফেস ফাইল",
-  "description":"ZUL ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি ZUL ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "ZUL",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2021-05-24"
+  "date": "2021-05-24",
+  "keywords": [
+    "zul",
+    "File",
+    "Extension",
+    "File Format",
+    "File Extension",
+    "open"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "ZUL - ZK ইউজার ইন্টারফেস ফাইল",
+  "description": "ZUL ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি ZUL ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "ZUL",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-zul-bn"
+    }
+  },
+  "lastmod": "2021-05-24"
 }
 
 ## একটি ZUL ফাইল কি?

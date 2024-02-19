@@ -1,19 +1,20 @@
 {
-  "date" : "2022-01-24",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "GDOCX ফাইল - গুগল ড্রাইভ ডকুমেন্ট শর্টকাট",
-  "description":"একটি GDOCX ফাইল এবং APIগুলি কী তা সম্পর্কে জানুন যা GDOCX ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "GDOCX",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2022-01-24"
+  "date": "2022-01-24",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "GDOCX ফাইল - গুগল ড্রাইভ ডকুমেন্ট শর্টকাট",
+  "description": "একটি GDOCX ফাইল এবং APIগুলি কী তা সম্পর্কে জানুন যা GDOCX ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "GDOCX",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-gdocx-bn"
+    }
+  },
+  "lastmod": "2022-01-24"
 }
 
 ## একটি GDOCX ফাইল কি?

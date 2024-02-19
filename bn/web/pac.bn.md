@@ -1,20 +1,28 @@
 {
-  "date" : "2021-05-24",
-  "keywords" : ["pac", "File", "Extension", "File Format", "File Extension", "Proxy Auto-Configuration"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "PAC - প্রক্সি অটো-কনফিগারেশন (PAC) ফাইল",
-  "description":"PAC ফাইল ফরম্যাট এবং APIগুলি কী যেগুলি PAC ফাইলগুলি তৈরি এবং খুলতে পারে সে সম্পর্কে জানুন৷",
-  "linktitle" : "PAC",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2021-06-17"
+  "date": "2021-05-24",
+  "keywords": [
+    "pac",
+    "File",
+    "Extension",
+    "File Format",
+    "File Extension",
+    "Proxy Auto-Configuration"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "PAC - প্রক্সি অটো-কনফিগারেশন (PAC) ফাইল",
+  "description": "PAC ফাইল ফরম্যাট এবং APIগুলি কী যেগুলি PAC ফাইলগুলি তৈরি এবং খুলতে পারে সে সম্পর্কে জানুন৷",
+  "linktitle": "PAC",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-pac-bn"
+    }
+  },
+  "lastmod": "2021-06-17"
 }
 
 ## একটি PAC ফাইল কি?

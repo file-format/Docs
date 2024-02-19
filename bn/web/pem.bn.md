@@ -1,19 +1,20 @@
 {
-  "date" : "2022-09-14",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "PEM ফাইল - গোপনীয়তা উন্নত মেল সার্টিফিকেট ফাইল বিন্যাস",
-  "description":"PEM ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি PEM ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "PEM",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2022-09-14"
+  "date": "2022-09-14",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "PEM ফাইল - গোপনীয়তা উন্নত মেল সার্টিফিকেট ফাইল বিন্যাস",
+  "description": "PEM ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি PEM ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "PEM",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-pem-bn"
+    }
+  },
+  "lastmod": "2022-09-14"
 }
 
 ## একটি PEM ফাইল কি?

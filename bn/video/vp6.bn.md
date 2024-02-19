@@ -1,20 +1,30 @@
 {
-  "date" : "2021-02-15",
-  "keywords" : [ "vp6 file", "vp6 file format", "what is an vp6 file", "file", "vp6 example", "vp6 file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "VP6 - TrueMotion ভিডিও ফাইল",
-  "description":"VP6 ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা VP6 ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "VP6",
-  "menu" : {
-    "docs" : {
-      "parent" : "video"
-}
-},
-  "lastmod" : "2021-02-16"
+  "date": "2021-02-15",
+  "keywords": [
+    "vp6 file",
+    "vp6 file format",
+    "what is an vp6 file",
+    "file",
+    "vp6 example",
+    "vp6 file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "VP6 - TrueMotion ভিডিও ফাইল",
+  "description": "VP6 ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা VP6 ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "VP6",
+  "menu": {
+    "docs": {
+      "parent": "video",
+      "identifier": "video-vp6-bn"
+    }
+  },
+  "lastmod": "2021-02-16"
 }
 
 ## একটি VP6 ফাইল কি?

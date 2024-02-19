@@ -1,19 +1,20 @@
 {
-  "date" : "2021-08-04",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ECE ফাইল - Escenic ডাইনামিক ওয়েব পেজ ফাইল ফরম্যাট",
-  "description":"ECE ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা ECE ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "ECE",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2021-08-04"
+  "date": "2021-08-04",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "ECE ফাইল - Escenic ডাইনামিক ওয়েব পেজ ফাইল ফরম্যাট",
+  "description": "ECE ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা ECE ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "ECE",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-ece-bn"
+    }
+  },
+  "lastmod": "2021-08-04"
 }
 
 ## একটি ECE ফাইল কি?

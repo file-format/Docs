@@ -1,20 +1,33 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "AVI", "Compressed Audio Video", "File", "Extension", "File Format", "Multimedia Container", "XVid", "DivX", "Codecs", "Resource Interchange File Format", "RIFF"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "AVI ফাইল ফরম্যাট - একটি অডিও ভিডিও ইন্টারলিভ ফাইল",
-  "description":"AVI ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা AVI ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "AVI",
-  "menu" : {
-    "docs" : {
-      "parent" : "video"
-}
-},
-  "lastmod" : "2021-04-23"
+  "date": "2019-10-11",
+  "keywords": [
+    "AVI",
+    "Compressed Audio Video",
+    "File",
+    "Extension",
+    "File Format",
+    "Multimedia Container",
+    "XVid",
+    "DivX",
+    "Codecs",
+    "Resource Interchange File Format",
+    "RIFF"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "AVI ফাইল ফরম্যাট - একটি অডিও ভিডিও ইন্টারলিভ ফাইল",
+  "description": "AVI ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা AVI ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "AVI",
+  "menu": {
+    "docs": {
+      "parent": "video",
+      "identifier": "video-avi-bn"
+    }
+  },
+  "lastmod": "2021-04-23"
 }
 
 ## একটি AVI ফাইল কি? ##

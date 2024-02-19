@@ -1,20 +1,28 @@
 {
-  "date" : "2021-07-20",
-  "keywords" : ["FMP", "File", "Extension", "File Format", "File Extension", "123 Flash Menu"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "FMP - 123 ফ্ল্যাশ মেনু প্রকল্প",
-  "description" : "একটি FMP ফাইল এবং APIগুলি কী তা শিখতে আপনার ফাইল বিন্যাস নির্দেশিকা যা FMP ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "FMP",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2021-07-20"
+  "date": "2021-07-20",
+  "keywords": [
+    "FMP",
+    "File",
+    "Extension",
+    "File Format",
+    "File Extension",
+    "123 Flash Menu"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "FMP - 123 ফ্ল্যাশ মেনু প্রকল্প",
+  "description": "একটি FMP ফাইল এবং APIগুলি কী তা শিখতে আপনার ফাইল বিন্যাস নির্দেশিকা যা FMP ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "FMP",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-fmp-bn"
+    }
+  },
+  "lastmod": "2021-07-20"
 }
 
 ## একটি FMP ফাইল কি?

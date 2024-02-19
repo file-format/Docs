@@ -1,19 +1,20 @@
 {
-  "date" : "2022-09-18",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "DOCMHTML ফাইল ফরম্যাট - Microsoft Word MIME HTML ডকুমেন্ট ফাইল",
-  "description" : "DOCMHTML ফাইল ফরম্যাট এবং DOCMHTML ফাইল তৈরি ও খোলার জন্য API সম্পর্কে জানুন।",
-  "linktitle" : "DOCMHTML",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
-}
-},
-  "lastmod" : "2022-09-18"
+  "date": "2022-09-18",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "DOCMHTML ফাইল ফরম্যাট - Microsoft Word MIME HTML ডকুমেন্ট ফাইল",
+  "description": "DOCMHTML ফাইল ফরম্যাট এবং DOCMHTML ফাইল তৈরি ও খোলার জন্য API সম্পর্কে জানুন।",
+  "linktitle": "DOCMHTML",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-docmhtml-bn"
+    }
+  },
+  "lastmod": "2022-09-18"
 }
 
 ## একটি DOCMHTML ফাইল কি?
