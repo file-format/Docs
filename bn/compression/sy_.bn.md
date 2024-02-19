@@ -1,19 +1,20 @@
 {
-  "date" : "2022-06-24",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "SY_ ফাইল ফরম্যাট - সংকুচিত SYS ফাইল",
-  "description":"SY_ ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি SY_ ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "SY_",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
-}
-},
-  "lastmod" : "2022-06-24"
+  "date": "2022-06-24",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "SY_ ফাইল ফরম্যাট - সংকুচিত SYS ফাইল",
+  "description": "SY_ ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি SY_ ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "SY_",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-sy_-bn"
+    }
+  },
+  "lastmod": "2022-06-24"
 }
 
 ## একটি SY_ ফাইল কি?

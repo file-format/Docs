@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "mpkg file", "mpkg file format", "what is a mpkg file", "file", "mpkg example", "mpkg file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "MPKG ফাইল ফরম্যাট - মেটা প্যাকেজ ফাইল",
-  "description":"MPKG ফাইল ফরম্যাট এবং APIগুলি সম্পর্কে জানুন যা MPKG ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "MPKG",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
-}
-},
-  "lastmod" : "2021-04-02"
+  "date": "2019-10-11",
+  "keywords": [
+    "mpkg file",
+    "mpkg file format",
+    "what is a mpkg file",
+    "file",
+    "mpkg example",
+    "mpkg file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "MPKG ফাইল ফরম্যাট - মেটা প্যাকেজ ফাইল",
+  "description": "MPKG ফাইল ফরম্যাট এবং APIগুলি সম্পর্কে জানুন যা MPKG ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "MPKG",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-mpkg-bn"
+    }
+  },
+  "lastmod": "2021-04-02"
 }
 
 ## একটি MPKG ফাইল কি?

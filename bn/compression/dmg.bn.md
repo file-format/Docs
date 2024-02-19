@@ -1,20 +1,29 @@
 {
-  "date" : "2021-04-30",
-  "keywords" : [ "DMG", "Compressed", "File", "Extension", "File Format", "Apple Disk Image", "Macintosh" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "DMG - অ্যাপল ডিস্ক ইমেজ",
-  "description":"DMG ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা DMG ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "DMG",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
-}
-},
-  "lastmod" : "2021-04-30"
+  "date": "2021-04-30",
+  "keywords": [
+    "DMG",
+    "Compressed",
+    "File",
+    "Extension",
+    "File Format",
+    "Apple Disk Image",
+    "Macintosh"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "DMG - অ্যাপল ডিস্ক ইমেজ",
+  "description": "DMG ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা DMG ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "DMG",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-dmg-bn"
+    }
+  },
+  "lastmod": "2021-04-30"
 }
 
 ## একটি DMG ফাইল কি?

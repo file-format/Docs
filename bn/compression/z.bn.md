@@ -1,20 +1,29 @@
 {
-  "date" : "2021-06-22",
-  "keywords" : [ "Z", "Compressed", "File", "Extension", "File Format", "UNIX","Kartz" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "Z সংকুচিত ফাইল বিন্যাস",
-  "description":"Z ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি Z ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "Z",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
-}
-},
-  "lastmod" : "2021-06-22"
+  "date": "2021-06-22",
+  "keywords": [
+    "Z",
+    "Compressed",
+    "File",
+    "Extension",
+    "File Format",
+    "UNIX",
+    "Kartz"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "Z সংকুচিত ফাইল বিন্যাস",
+  "description": "Z ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি Z ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "Z",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-z-bn"
+    }
+  },
+  "lastmod": "2021-06-22"
 }
 
 ## একটি Z ফাইল কি? ##

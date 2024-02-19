@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "gz file", "gz file format", "what is a gz file", "file", "gz example", "gz file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "GZ ফাইল ফরম্যাট - GNU জিপ করা আর্কাইভ ফাইল",
-  "description":"একটি GZ ফাইল এবং API যা GZ ফাইল তৈরি এবং খুলতে পারে সে সম্পর্কে জানুন৷",
-  "linktitle" : "GZ",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "keywords": [
+    "gz file",
+    "gz file format",
+    "what is a gz file",
+    "file",
+    "gz example",
+    "gz file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "GZ ফাইল ফরম্যাট - GNU জিপ করা আর্কাইভ ফাইল",
+  "description": "একটি GZ ফাইল এবং API যা GZ ফাইল তৈরি এবং খুলতে পারে সে সম্পর্কে জানুন৷",
+  "linktitle": "GZ",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-gz-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি GZ ফাইল কি?

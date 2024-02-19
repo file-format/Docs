@@ -1,19 +1,20 @@
 {
-  "date" : "2022-03-01",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ভিপিকে ফাইল - প্লেস্টেশন ভিটা অ্যাপ্লিকেশন প্যাকেজ ফাইল ফর্ম্যাট",
-  "description":"ভিপিকে ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যেগুলি ভিপিকে ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "VPK",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
-}
-},
-  "lastmod" : "2022-03-01"
+  "date": "2022-03-01",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "ভিপিকে ফাইল - প্লেস্টেশন ভিটা অ্যাপ্লিকেশন প্যাকেজ ফাইল ফর্ম্যাট",
+  "description": "ভিপিকে ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যেগুলি ভিপিকে ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "VPK",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-vpk-bn"
+    }
+  },
+  "lastmod": "2022-03-01"
 }
 
 ## একটি VPK ফাইল কি?

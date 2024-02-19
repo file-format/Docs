@@ -1,19 +1,20 @@
 {
-  "date" : "2022-03-02",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "TGZ ফাইল - Gzipped Tar ফাইল",
-  "description":"TGZ ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি TGZ ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "TGZ",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
-}
-},
-  "lastmod" : "2022-03-02"
+  "date": "2022-03-02",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "TGZ ফাইল - Gzipped Tar ফাইল",
+  "description": "TGZ ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি TGZ ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "TGZ",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-tgz-bn"
+    }
+  },
+  "lastmod": "2022-03-02"
 }
 
 ## একটি TGZ ফাইল কি?

@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "rar file", "rar file format", "what is a rar file", "file", "rar example", "rar file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "RAR",
-  "description":"একটি RAR ফাইল এক্সটেনশন এবং APIগুলি কী যা RAR ফাইলগুলি তৈরি এবং খুলতে পারে।",
-  "linktitle" : "RAR",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "keywords": [
+    "rar file",
+    "rar file format",
+    "what is a rar file",
+    "file",
+    "rar example",
+    "rar file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "RAR",
+  "description": "একটি RAR ফাইল এক্সটেনশন এবং APIগুলি কী যা RAR ফাইলগুলি তৈরি এবং খুলতে পারে।",
+  "linktitle": "RAR",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-rar-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি RAR ফাইল কি?

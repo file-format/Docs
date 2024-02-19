@@ -1,20 +1,30 @@
 {
-  "date" : "2021-04-08",
-  "keywords" : [ "lzma file", "lzma file format", "what is an lzma file", "file", "lzma example", "lzma file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "LZMA - LZMA সংকুচিত ফাইল বিন্যাস",
-  "description":"একটি LZMA ফাইল এবং APIগুলি কী যা LZMA ফাইলগুলি তৈরি এবং খুলতে পারে।",
-  "linktitle" : "LZMA",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
-}
-},
-  "lastmod" : "2021-04-18"
+  "date": "2021-04-08",
+  "keywords": [
+    "lzma file",
+    "lzma file format",
+    "what is an lzma file",
+    "file",
+    "lzma example",
+    "lzma file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "LZMA - LZMA সংকুচিত ফাইল বিন্যাস",
+  "description": "একটি LZMA ফাইল এবং APIগুলি কী যা LZMA ফাইলগুলি তৈরি এবং খুলতে পারে।",
+  "linktitle": "LZMA",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-lzma-bn"
+    }
+  },
+  "lastmod": "2021-04-18"
 }
 
 ## একটি LZMA ফাইল কি?

@@ -1,20 +1,29 @@
 {
-  "date" : "2021-04-30",
-  "keywords" : [ "ALZ", "Compressed", "File", "Extension", "File Format", "ALZip", "Unarchiver by DagArgen" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ALZ ফাইল ফরম্যাট",
-  "description":"ALZ ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি ALZ ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "ALZ",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
-}
-},
-  "lastmod" : "2021-04-30"
+  "date": "2021-04-30",
+  "keywords": [
+    "ALZ",
+    "Compressed",
+    "File",
+    "Extension",
+    "File Format",
+    "ALZip",
+    "Unarchiver by DagArgen"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "ALZ ফাইল ফরম্যাট",
+  "description": "ALZ ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি ALZ ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "ALZ",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-alz-bn"
+    }
+  },
+  "lastmod": "2021-04-30"
 }
 
 ## একটি ALZ ফাইল কি? ##

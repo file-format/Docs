@@ -1,20 +1,30 @@
 {
-  "date" : "2021-04-08",
-  "keywords" : [ "deb file", "deb file format", "what is a deb file", "file", "deb example", "deb file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "DEB - Bzip কম্প্রেসড টার আর্কাইভ",
-  "description":"DEB ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি DEB ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "DEB",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
-}
-},
-  "lastmod" : "2021-04-09"
+  "date": "2021-04-08",
+  "keywords": [
+    "deb file",
+    "deb file format",
+    "what is a deb file",
+    "file",
+    "deb example",
+    "deb file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "DEB - Bzip কম্প্রেসড টার আর্কাইভ",
+  "description": "DEB ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি DEB ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "DEB",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-deb-bn"
+    }
+  },
+  "lastmod": "2021-04-09"
 }
 
 ## একটি DEB ফাইল কি?

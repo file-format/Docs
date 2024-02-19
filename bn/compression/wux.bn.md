@@ -1,19 +1,20 @@
 {
-  "date" : "2022-03-01",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "WUX ফাইল - সংকুচিত Wii U ডিস্ক চিত্র ফাইল বিন্যাস",
-  "description":"WUX ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা WUX ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "WUX",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
-}
-},
-  "lastmod" : "2022-03-01"
+  "date": "2022-03-01",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "WUX ফাইল - সংকুচিত Wii U ডিস্ক চিত্র ফাইল বিন্যাস",
+  "description": "WUX ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা WUX ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "WUX",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-wux-bn"
+    }
+  },
+  "lastmod": "2022-03-01"
 }
 
 ## একটি WUX ফাইল কি?

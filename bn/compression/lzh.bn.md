@@ -1,20 +1,30 @@
 {
-  "date" : "2021-06-16",
-  "keywords" : [ "LZH", "Compressed", "File", "Extension", "File Format", "Lempel-Ziv", "Haruyasu", "LHA" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "LZH ফাইল ফরম্যাট",
-  "description":"LZH ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি LZH ফাইলগুলি তৈরি এবং খুলতে পারে।",
-  "linktitle" : "LZH",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
-}
-},
-  "lastmod" : "2021-06-16"
+  "date": "2021-06-16",
+  "keywords": [
+    "LZH",
+    "Compressed",
+    "File",
+    "Extension",
+    "File Format",
+    "Lempel-Ziv",
+    "Haruyasu",
+    "LHA"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "LZH ফাইল ফরম্যাট",
+  "description": "LZH ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি LZH ফাইলগুলি তৈরি এবং খুলতে পারে।",
+  "linktitle": "LZH",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-lzh-bn"
+    }
+  },
+  "lastmod": "2021-06-16"
 }
 
 ## একটি LZH ফাইল কি? ##

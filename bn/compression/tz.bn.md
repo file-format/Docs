@@ -1,19 +1,20 @@
 {
-  "date" : "2022-03-24",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "TZ - জিপড টার আর্কাইভ ফাইল ফরম্যাট",
-  "description":"একটি TZ ফাইল এবং API যা TZ ফাইল তৈরি এবং খুলতে পারে সে সম্পর্কে জানুন।",
-  "linktitle" : "TZ",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
-}
-},
-  "lastmod" : "2022-03-24"
+  "date": "2022-03-24",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "TZ - জিপড টার আর্কাইভ ফাইল ফরম্যাট",
+  "description": "একটি TZ ফাইল এবং API যা TZ ফাইল তৈরি এবং খুলতে পারে সে সম্পর্কে জানুন।",
+  "linktitle": "TZ",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-tz-bn"
+    }
+  },
+  "lastmod": "2022-03-24"
 }
 
 ## একটি TZ ফাইল কি?

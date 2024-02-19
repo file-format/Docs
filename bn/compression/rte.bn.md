@@ -1,20 +1,30 @@
 {
-  "date" : "2021-04-08",
-  "keywords" : [ "rte file", "rte file format", "what is an rte file", "file", "rte example", "rte file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "RTE - RTE এনকোড করা ফাইল",
-  "description":"RTE ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি RTE ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "RTE",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
-}
-},
-  "lastmod" : "2021-04-14"
+  "date": "2021-04-08",
+  "keywords": [
+    "rte file",
+    "rte file format",
+    "what is an rte file",
+    "file",
+    "rte example",
+    "rte file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "RTE - RTE এনকোড করা ফাইল",
+  "description": "RTE ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি RTE ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "RTE",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-rte-bn"
+    }
+  },
+  "lastmod": "2021-04-14"
 }
 
 ## একটি RTE ফাইল কি?

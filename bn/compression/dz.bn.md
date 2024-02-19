@@ -1,20 +1,30 @@
 {
-  "date" : "2021-04-08",
-  "keywords" : [ "dz file", "dz file format", "what is a dz file", "file", "dz example", "dz file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ডিজেড - ডিজিপ কম্প্রেসড ফাইল ফরম্যাট",
-  "description":"DZ ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি DZ ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "DZ",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
-}
-},
-  "lastmod" : "2021-04-28"
+  "date": "2021-04-08",
+  "keywords": [
+    "dz file",
+    "dz file format",
+    "what is a dz file",
+    "file",
+    "dz example",
+    "dz file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "ডিজেড - ডিজিপ কম্প্রেসড ফাইল ফরম্যাট",
+  "description": "DZ ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি DZ ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "DZ",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-dz-bn"
+    }
+  },
+  "lastmod": "2021-04-28"
 }
 
 ## একটি DZ ফাইল কি?

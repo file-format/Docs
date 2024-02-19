@@ -1,19 +1,20 @@
 {
-  "date" : "2022-06-26",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "GZIP ফাইল ফরম্যাট - GNU জিপ করা আর্কাইভ ফাইল",
-  "description":"একটি GZIP ফাইল এবং API যা GZIP ফাইল তৈরি এবং খুলতে পারে সে সম্পর্কে জানুন৷",
-  "linktitle" : "GZIP",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
-}
-},
-  "lastmod" : "2022-06-26"
+  "date": "2022-06-26",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "GZIP ফাইল ফরম্যাট - GNU জিপ করা আর্কাইভ ফাইল",
+  "description": "একটি GZIP ফাইল এবং API যা GZIP ফাইল তৈরি এবং খুলতে পারে সে সম্পর্কে জানুন৷",
+  "linktitle": "GZIP",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-gzip-bn"
+    }
+  },
+  "lastmod": "2022-06-26"
 }
 
 ## একটি GZIP ফাইল কি?

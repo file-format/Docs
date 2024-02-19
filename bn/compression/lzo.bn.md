@@ -1,20 +1,28 @@
 {
-  "date" : "2021-06-16",
-  "keywords" : [ "LZO", "Compressed", "File", "Extension", "File Format", "Lempel-Ziv-Oberhume" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "LZO ফাইল ফরম্যাট",
-  "description":"LZO ফাইল বিন্যাস এবং API সম্পর্কে জানুন যেগুলি LZO ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "LZO",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
-}
-},
-  "lastmod" : "2021-06-16"
+  "date": "2021-06-16",
+  "keywords": [
+    "LZO",
+    "Compressed",
+    "File",
+    "Extension",
+    "File Format",
+    "Lempel-Ziv-Oberhume"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "LZO ফাইল ফরম্যাট",
+  "description": "LZO ফাইল বিন্যাস এবং API সম্পর্কে জানুন যেগুলি LZO ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "LZO",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-lzo-bn"
+    }
+  },
+  "lastmod": "2021-06-16"
 }
 
 ## একটি LZO ফাইল কি? ##

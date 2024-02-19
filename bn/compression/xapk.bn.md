@@ -1,20 +1,30 @@
 {
-  "date" : "2021-04-11",
-  "keywords" : [ "xapk file", "xapk file format", "what is a xapk file", "file", "xapk example", "xapk file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "XAPK - মেটা প্যাকেজ ফাইল ফরম্যাট",
-  "description":"XAPK ফাইল ফর্ম্যাট এবং APIগুলি সম্পর্কে জানুন যা XAPK ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "XAPK",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
-}
-},
-  "lastmod" : "2021-04-11"
+  "date": "2021-04-11",
+  "keywords": [
+    "xapk file",
+    "xapk file format",
+    "what is a xapk file",
+    "file",
+    "xapk example",
+    "xapk file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "XAPK - মেটা প্যাকেজ ফাইল ফরম্যাট",
+  "description": "XAPK ফাইল ফর্ম্যাট এবং APIগুলি সম্পর্কে জানুন যা XAPK ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "XAPK",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-xapk-bn"
+    }
+  },
+  "lastmod": "2021-04-11"
 }
 
 ## একটি XAPK ফাইল কি?

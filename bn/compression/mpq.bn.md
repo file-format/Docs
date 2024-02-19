@@ -1,20 +1,29 @@
 {
-  "date" : "2021-05-28",
-  "keywords" : [ "MPQ", "Blizzard Game", "file", "format", "extension", "compressed", "Blizzard Entertainment" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "MPQ ফাইল ফরম্যাট",
-  "description":"MPQ ফাইল ফরম্যাট এবং APIগুলি সম্পর্কে জানুন যা MPQ ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "MPQ",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
-}
-},
-  "lastmod" : "2021-05-28"
+  "date": "2021-05-28",
+  "keywords": [
+    "MPQ",
+    "Blizzard Game",
+    "file",
+    "format",
+    "extension",
+    "compressed",
+    "Blizzard Entertainment"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "MPQ ফাইল ফরম্যাট",
+  "description": "MPQ ফাইল ফরম্যাট এবং APIগুলি সম্পর্কে জানুন যা MPQ ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "MPQ",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-mpq-bn"
+    }
+  },
+  "lastmod": "2021-05-28"
 }
 
 ## একটি MPQ ফাইল কি? ##

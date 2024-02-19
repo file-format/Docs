@@ -1,19 +1,20 @@
 {
-  "date" : "2019-12-09",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ZIM ফাইল ফরম্যাট - OpenZIM আর্কাইভ ফাইল",
-  "description":"ZIM ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি ZIM ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "ZIM",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
-}
-},
-  "lastmod" : "2019-12-09"
+  "date": "2019-12-09",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "ZIM ফাইল ফরম্যাট - OpenZIM আর্কাইভ ফাইল",
+  "description": "ZIM ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি ZIM ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "ZIM",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-zim-bn"
+    }
+  },
+  "lastmod": "2019-12-09"
 }
 
 ## একটি ZIM ফাইল কি? ##

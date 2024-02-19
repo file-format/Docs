@@ -1,20 +1,30 @@
 {
-  "date" : "2021-04-08",
-  "keywords" : [ "dar file", "dar file format", "what is a dar file", "file", "dar example", "dar file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "DAR - ডিস্ক আর্কাইভার ফাইল ফরম্যাট",
-  "description":"DAR ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি DAR ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "DAR",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
-}
-},
-  "lastmod" : "2021-04-09"
+  "date": "2021-04-08",
+  "keywords": [
+    "dar file",
+    "dar file format",
+    "what is a dar file",
+    "file",
+    "dar example",
+    "dar file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "DAR - ডিস্ক আর্কাইভার ফাইল ফরম্যাট",
+  "description": "DAR ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি DAR ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "DAR",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-dar-bn"
+    }
+  },
+  "lastmod": "2021-04-09"
 }
 
 ## একটি DAR ফাইল কি?

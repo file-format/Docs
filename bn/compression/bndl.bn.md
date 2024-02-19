@@ -1,19 +1,20 @@
 {
-  "date" : "2022-06-28",
-  "author" : {
-    "display_name" : "Sami Cheema"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "BNDL ফাইল ফরম্যাট - গেম ডেটা বান্ডেল ফাইল",
-  "description":"BNDL ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি BNDL ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "BNDL",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
-}
-},
-  "lastmod" : "2022-06-28"
+  "date": "2022-06-28",
+  "author": {
+    "display_name": "Sami Cheema"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "BNDL ফাইল ফরম্যাট - গেম ডেটা বান্ডেল ফাইল",
+  "description": "BNDL ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি BNDL ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "BNDL",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-bndl-bn"
+    }
+  },
+  "lastmod": "2022-06-28"
 }
 
 ## একটি BNDL ফাইল কি?

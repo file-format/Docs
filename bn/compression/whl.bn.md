@@ -1,19 +1,20 @@
 {
-  "date" : "2022-06-29",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "WHL ফাইল ফরম্যাট - পাইথন হুইল প্যাকেজ ফাইল",
-  "description":"WHL ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা WHL ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "WHL",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
-}
-},
-  "lastmod" : "2022-06-29"
+  "date": "2022-06-29",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "WHL ফাইল ফরম্যাট - পাইথন হুইল প্যাকেজ ফাইল",
+  "description": "WHL ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা WHL ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "WHL",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-whl-bn"
+    }
+  },
+  "lastmod": "2022-06-29"
 }
 
 ## একটি WHL ফাইল কি?

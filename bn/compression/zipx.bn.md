@@ -1,19 +1,20 @@
 {
-  "date" : "2022-06-06",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ZIPX",
-  "description":"What is a ZIPX file and APIs that can create and open ZIPX files.",
-  "linktitle" : "ZIPX",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
-}
-},
-  "lastmod" : "2022-06-06"
+  "date": "2022-06-06",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "ZIPX",
+  "description": "What is a ZIPX file and APIs that can create and open ZIPX files.",
+  "linktitle": "ZIPX",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-zipx-bn"
+    }
+  },
+  "lastmod": "2022-06-06"
 }
 
 ## একটি জিপX ফাইল কি?

@@ -1,20 +1,30 @@
 {
-  "date" : "2021-04-21",
-  "keywords" : [ "pea file", "pea file format", "what is a pea file", "file", "pea example", "pea file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "PEA - PeaZip আর্কাইভ ফাইল ফরম্যাট",
-  "description":"PEA ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি PEA ফাইলগুলি তৈরি এবং খুলতে পারে।",
-  "linktitle" : "PEA",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
-}
-},
-  "lastmod" : "2021-04-21"
+  "date": "2021-04-21",
+  "keywords": [
+    "pea file",
+    "pea file format",
+    "what is a pea file",
+    "file",
+    "pea example",
+    "pea file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "PEA - PeaZip আর্কাইভ ফাইল ফরম্যাট",
+  "description": "PEA ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি PEA ফাইলগুলি তৈরি এবং খুলতে পারে।",
+  "linktitle": "PEA",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-pea-bn"
+    }
+  },
+  "lastmod": "2021-04-21"
 }
 
 ## একটি PEA ফাইল কি?

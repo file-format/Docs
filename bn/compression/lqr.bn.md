@@ -1,20 +1,30 @@
 {
-  "date" : "2021-04-30",
-  "keywords" : [ "LQR", "Compressed", "File", "Extension", "File Format", "LBR", "SQ","MSDOS" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "LQR ফাইল ফরম্যাট",
-  "description":"LQR ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি LQR ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "LQR",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
-}
-},
-  "lastmod" : "2021-06-01"
+  "date": "2021-04-30",
+  "keywords": [
+    "LQR",
+    "Compressed",
+    "File",
+    "Extension",
+    "File Format",
+    "LBR",
+    "SQ",
+    "MSDOS"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "LQR ফাইল ফরম্যাট",
+  "description": "LQR ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি LQR ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "LQR",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-lqr-bn"
+    }
+  },
+  "lastmod": "2021-06-01"
 }
 
 ## একটি LQR ফাইল কি? ##

@@ -1,20 +1,30 @@
 {
-  "date" : "2019-12-09",
-  "keywords" : [ "zl file", "zl file format", "what is a zl file", "file", "zl example", "zl file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ZL - ZLIP সংকুচিত ফাইল বিন্যাস",
-  "description":"ZL ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি ZL ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "ZL",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
-}
-},
-  "lastmod" : "2021-04-14"
+  "date": "2019-12-09",
+  "keywords": [
+    "zl file",
+    "zl file format",
+    "what is a zl file",
+    "file",
+    "zl example",
+    "zl file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "ZL - ZLIP সংকুচিত ফাইল বিন্যাস",
+  "description": "ZL ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি ZL ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "ZL",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-zl-bn"
+    }
+  },
+  "lastmod": "2021-04-14"
 }
 
 ## একটি ZL ফাইল কি?

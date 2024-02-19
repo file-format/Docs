@@ -1,20 +1,30 @@
 {
-  "date" : "2021-04-08",
-  "keywords" : [ "lz file", "lz file format", "what is a lz file", "file", "lz example", "lz file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "LZ - Lzip সংকুচিত ফাইল বিন্যাস",
-  "description":"LZ ফাইল বিন্যাস এবং API সম্পর্কে জানুন যেগুলি LZ ফাইলগুলি তৈরি এবং খুলতে পারে।",
-  "linktitle" : "LZ",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
-}
-},
-  "lastmod" : "2021-04-19"
+  "date": "2021-04-08",
+  "keywords": [
+    "lz file",
+    "lz file format",
+    "what is a lz file",
+    "file",
+    "lz example",
+    "lz file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "LZ - Lzip সংকুচিত ফাইল বিন্যাস",
+  "description": "LZ ফাইল বিন্যাস এবং API সম্পর্কে জানুন যেগুলি LZ ফাইলগুলি তৈরি এবং খুলতে পারে।",
+  "linktitle": "LZ",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-lz-bn"
+    }
+  },
+  "lastmod": "2021-04-19"
 }
 
 ## একটি LZ ফাইল কি?

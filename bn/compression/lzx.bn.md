@@ -1,20 +1,29 @@
 {
-  "date" : "2021-04-30",
-  "keywords" : [ "LZX", "Compressed", "File", "Extension", "File Format", "Amiga LZX", "Cabextract" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "LZX ফাইল ফরম্যাট",
-  "description":"LZX ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি LZX ফাইলগুলি তৈরি করতে এবং খুলতে পারে৷",
-  "linktitle" : "LZX",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
-}
-},
-  "lastmod" : "2021-04-30"
+  "date": "2021-04-30",
+  "keywords": [
+    "LZX",
+    "Compressed",
+    "File",
+    "Extension",
+    "File Format",
+    "Amiga LZX",
+    "Cabextract"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "LZX ফাইল ফরম্যাট",
+  "description": "LZX ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি LZX ফাইলগুলি তৈরি করতে এবং খুলতে পারে৷",
+  "linktitle": "LZX",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-lzx-bn"
+    }
+  },
+  "lastmod": "2021-04-30"
 }
 
 ## একটি LZX ফাইল কি? ##

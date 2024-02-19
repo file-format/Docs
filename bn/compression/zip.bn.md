@@ -1,20 +1,30 @@
 {
-  "date" : "2019-12-09",
-  "keywords" : [ "zip file", "zip file format", "what is a zip file", "file", "zip example", "zip file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ZIP",
-  "description":"What is a জিপ file and APIs that can create and open জিপ files.",
-  "linktitle" : "ZIP",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
-}
-},
-  "lastmod" : "2019-12-09"
+  "date": "2019-12-09",
+  "keywords": [
+    "zip file",
+    "zip file format",
+    "what is a zip file",
+    "file",
+    "zip example",
+    "zip file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "ZIP",
+  "description": "What is a জিপ file and APIs that can create and open জিপ files.",
+  "linktitle": "ZIP",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-zip-bn"
+    }
+  },
+  "lastmod": "2019-12-09"
 }
 
 ## একটি জিপ ফাইল কি? ##

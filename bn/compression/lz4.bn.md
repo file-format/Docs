@@ -1,20 +1,30 @@
 {
-  "date" : "2021-04-08",
-  "keywords" : [ "lz4 file", "lz4 file format", "what is an lz4 file", "file", "lz4 example", "lz4 file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "LZ4 - LZ4 সংকুচিত ফাইল বিন্যাস",
-  "description":"LBR ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা LZ4 ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "LZ4",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
-}
-},
-  "lastmod" : "2021-04-19"
+  "date": "2021-04-08",
+  "keywords": [
+    "lz4 file",
+    "lz4 file format",
+    "what is an lz4 file",
+    "file",
+    "lz4 example",
+    "lz4 file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "LZ4 - LZ4 সংকুচিত ফাইল বিন্যাস",
+  "description": "LBR ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা LZ4 ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "LZ4",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-lz4-bn"
+    }
+  },
+  "lastmod": "2021-04-19"
 }
 
 ## একটি LZ4 ফাইল কি?

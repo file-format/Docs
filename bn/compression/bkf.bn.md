@@ -1,20 +1,29 @@
 {
-  "date" : "2021-04-30",
-  "keywords" : [ "BKF", "Compressed", "File", "Extension", "File Format", "WindowsXP", "Moto Racer" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "BKF ফাইল ফরম্যাট",
-  "description":"BKF ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি BKF ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "BKF",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
-}
-},
-  "lastmod" : "2021-04-30"
+  "date": "2021-04-30",
+  "keywords": [
+    "BKF",
+    "Compressed",
+    "File",
+    "Extension",
+    "File Format",
+    "WindowsXP",
+    "Moto Racer"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "BKF ফাইল ফরম্যাট",
+  "description": "BKF ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি BKF ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "BKF",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-bkf-bn"
+    }
+  },
+  "lastmod": "2021-04-30"
 }
 
 ## একটি BKF ফাইল কি? ##

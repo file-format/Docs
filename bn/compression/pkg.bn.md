@@ -1,20 +1,30 @@
 {
-  "date" : "2021-04-08",
-  "keywords" : [ "pkg file", "pkg file format", "what is a pkg file", "file", "pkg example", "pkg file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "PKG - এক্সটেনসিবল আর্কাইভ ফাইল ফরম্যাট",
-  "description":"PKG ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি PKG ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "PKG",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
-}
-},
-  "lastmod" : "2021-04-13"
+  "date": "2021-04-08",
+  "keywords": [
+    "pkg file",
+    "pkg file format",
+    "what is a pkg file",
+    "file",
+    "pkg example",
+    "pkg file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "PKG - এক্সটেনসিবল আর্কাইভ ফাইল ফরম্যাট",
+  "description": "PKG ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি PKG ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "PKG",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-pkg-bn"
+    }
+  },
+  "lastmod": "2021-04-13"
 }
 
 ## একটি PKG ফাইল কি?

@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "tar file", "tar file format", "what is a tar file", "file", "tar example", "tar file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "TAR - ইউনিক্স আর্কাইভ ফাইল ফরম্যাট",
-  "description":"একটি TAR ফাইল এবং API যা TAR ফাইল তৈরি এবং খুলতে পারে সে সম্পর্কে জানুন।",
-  "linktitle" : "TAR",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "keywords": [
+    "tar file",
+    "tar file format",
+    "what is a tar file",
+    "file",
+    "tar example",
+    "tar file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "TAR - ইউনিক্স আর্কাইভ ফাইল ফরম্যাট",
+  "description": "একটি TAR ফাইল এবং API যা TAR ফাইল তৈরি এবং খুলতে পারে সে সম্পর্কে জানুন।",
+  "linktitle": "TAR",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-tar-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি TAR ফাইল কি?

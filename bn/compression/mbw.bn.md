@@ -1,20 +1,29 @@
 {
-  "date" : "2021-05-28",
-  "keywords" : [ "MBW", "MBRWizard", "file", "format", "extension", "compressed", "Firesage Solutions" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "MBW ফাইল ফরম্যাট",
-  "description":"MBW ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি MBW ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "MBW",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
-}
-},
-  "lastmod" : "2021-05-28"
+  "date": "2021-05-28",
+  "keywords": [
+    "MBW",
+    "MBRWizard",
+    "file",
+    "format",
+    "extension",
+    "compressed",
+    "Firesage Solutions"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "MBW ফাইল ফরম্যাট",
+  "description": "MBW ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি MBW ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "MBW",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-mbw-bn"
+    }
+  },
+  "lastmod": "2021-05-28"
 }
 
 ## একটি MBW ফাইল কি? ##

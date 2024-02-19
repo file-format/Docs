@@ -1,21 +1,30 @@
 {
-  "date" : "2021-04-08",
-  "keywords" : [ "mst file", "mst file format", "what is a mst file", "file", "mst example", "mst file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-	
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "LBR - LU লাইব্রেরি আর্কাইভ ফাইল ফরম্যাট",
-  "description":"এলবিআর ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা এলবিআর ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "LBR",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
-}
-},
-  "lastmod" : "2021-04-19"
+  "date": "2021-04-08",
+  "keywords": [
+    "mst file",
+    "mst file format",
+    "what is a mst file",
+    "file",
+    "mst example",
+    "mst file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "LBR - LU লাইব্রেরি আর্কাইভ ফাইল ফরম্যাট",
+  "description": "এলবিআর ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা এলবিআর ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "LBR",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-lbr-bn"
+    }
+  },
+  "lastmod": "2021-04-19"
 }
 
 ## একটি LBR ফাইল কি?

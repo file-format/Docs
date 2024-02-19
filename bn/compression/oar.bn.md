@@ -1,20 +1,30 @@
 {
-  "date" : "2021-04-08",
-  "keywords" : [ "oar file", "oar file format", "what is an oar file", "file", "oar example", "oar file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "OAR - OpenSimulator আর্কাইভ ফাইল ফরম্যাট",
-  "description":"OAR ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা OAR ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "OAR",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
-}
-},
-  "lastmod" : "2021-04-15"
+  "date": "2021-04-08",
+  "keywords": [
+    "oar file",
+    "oar file format",
+    "what is an oar file",
+    "file",
+    "oar example",
+    "oar file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "OAR - OpenSimulator আর্কাইভ ফাইল ফরম্যাট",
+  "description": "OAR ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা OAR ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "OAR",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-oar-bn"
+    }
+  },
+  "lastmod": "2021-04-15"
 }
 
 ## একটি OAR ফাইল কি?

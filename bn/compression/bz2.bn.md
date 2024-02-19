@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "bz2 file", "bz2 file format", "what is a bz2 file", "file", "bz2 example", "bz2 file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "BZ2 - সংকুচিত ফাইল বিন্যাস",
-  "description":"একটি BZ2 ফাইল এবং API যা BZ2 ফাইল তৈরি এবং খুলতে পারে তা জানতে শিখুন।",
-  "linktitle" : "BZ2",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
-}
-},
-  "lastmod" : "2020-09-05"
+  "date": "2019-10-11",
+  "keywords": [
+    "bz2 file",
+    "bz2 file format",
+    "what is a bz2 file",
+    "file",
+    "bz2 example",
+    "bz2 file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "BZ2 - সংকুচিত ফাইল বিন্যাস",
+  "description": "একটি BZ2 ফাইল এবং API যা BZ2 ফাইল তৈরি এবং খুলতে পারে তা জানতে শিখুন।",
+  "linktitle": "BZ2",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-bz2-bn"
+    }
+  },
+  "lastmod": "2020-09-05"
 }
 
 ## একটি BZ2 ফাইল কি?

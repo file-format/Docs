@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "tgs file", "tgs file format", "what is a tgs file", "file", "tgs example", "tgs file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "TGS - টেলিগ্রাম অ্যানিমেটেড স্টিকার ফাইল ফরম্যাট",
-  "description":"TGS ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা TGS ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "TGS",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
-}
-},
-  "lastmod" : "2021-04-02"
+  "date": "2019-10-11",
+  "keywords": [
+    "tgs file",
+    "tgs file format",
+    "what is a tgs file",
+    "file",
+    "tgs example",
+    "tgs file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "TGS - টেলিগ্রাম অ্যানিমেটেড স্টিকার ফাইল ফরম্যাট",
+  "description": "TGS ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা TGS ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "TGS",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-tgs-bn"
+    }
+  },
+  "lastmod": "2021-04-02"
 }
 
 ## একটি TGS ফাইল কি?

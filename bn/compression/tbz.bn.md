@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "tbz file", "tbz file format", "what is a tbz file", "file", "tbz example", "tbz file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "TBZ - Bzip কম্প্রেসড টার আর্কাইভ",
-  "description":"TBZ ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা TBZ ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "TBZ",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
-}
-},
-  "lastmod" : "2021-04-05"
+  "date": "2019-10-11",
+  "keywords": [
+    "tbz file",
+    "tbz file format",
+    "what is a tbz file",
+    "file",
+    "tbz example",
+    "tbz file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "TBZ - Bzip কম্প্রেসড টার আর্কাইভ",
+  "description": "TBZ ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা TBZ ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "TBZ",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-tbz-bn"
+    }
+  },
+  "lastmod": "2021-04-05"
 }
 
 ## একটি TBZ ফাইল কি?

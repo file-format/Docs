@@ -1,19 +1,20 @@
 {
-  "date" : "2022-06-30",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ECS ফাইল ফরম্যাট - Sony Ericsson ফোন ব্যাকআপ ফাইল",
-  "description":"ECS ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি ECS ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "ECS",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
-}
-},
-  "lastmod" : "2022-06-30"
+  "date": "2022-06-30",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "ECS ফাইল ফরম্যাট - Sony Ericsson ফোন ব্যাকআপ ফাইল",
+  "description": "ECS ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি ECS ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "ECS",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-ecs-bn"
+    }
+  },
+  "lastmod": "2022-06-30"
 }
 
 ## একটি ECS ফাইল কি?

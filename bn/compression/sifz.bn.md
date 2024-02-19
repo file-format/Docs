@@ -1,19 +1,20 @@
 {
-  "date" : "2021-04-30",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "SIFZ ফাইল বিন্যাস - Synfig স্টুডিও সংকুচিত প্রকল্প ফাইল",
-  "description":"SIFZ ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি SIFZ ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "SIFZ",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
-}
-},
-  "lastmod" : "2021-04-30"
+  "date": "2021-04-30",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "SIFZ ফাইল বিন্যাস - Synfig স্টুডিও সংকুচিত প্রকল্প ফাইল",
+  "description": "SIFZ ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি SIFZ ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "SIFZ",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-sifz-bn"
+    }
+  },
+  "lastmod": "2021-04-30"
 }
 
 ## একটি SIFZ ফাইল কি?

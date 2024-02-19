@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "b6z file", "b6z file format", "what is a b6z file", "file", "b6z example", "b6z file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "B6Z - B6ZIP আর্কাইভ ফাইল ফরম্যাট",
-  "description":"B6Z ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা B6Z ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "B6Z",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
-}
-},
-  "lastmod" : "2021-04-05"
+  "date": "2019-10-11",
+  "keywords": [
+    "b6z file",
+    "b6z file format",
+    "what is a b6z file",
+    "file",
+    "b6z example",
+    "b6z file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "B6Z - B6ZIP আর্কাইভ ফাইল ফরম্যাট",
+  "description": "B6Z ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা B6Z ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "B6Z",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-b6z-bn"
+    }
+  },
+  "lastmod": "2021-04-05"
 }
 
 ## একটি B6Z ফাইল কি?

@@ -1,19 +1,20 @@
 {
-  "date" : "2022-06-06",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "TPSR ফাইল ফরম্যাট - টিমভিউয়ার পাইলট সেশন রিপোর্ট ফাইল",
-  "description":"TPSR ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি TPSR ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "TPSR",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
-}
-},
-  "lastmod" : "2022-06-06"
+  "date": "2022-06-06",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "TPSR ফাইল ফরম্যাট - টিমভিউয়ার পাইলট সেশন রিপোর্ট ফাইল",
+  "description": "TPSR ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি TPSR ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "TPSR",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-tpsr-bn"
+    }
+  },
+  "lastmod": "2022-06-06"
 }
 
 ## একটি TPSR ফাইল কি?

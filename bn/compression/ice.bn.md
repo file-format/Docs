@@ -1,20 +1,30 @@
 {
-  "date" : "2021-04-08",
-  "keywords" : [ "ice file", "ice file format", "what is a ice file", "file", "ice example", "ice file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ICE - Bzip কম্প্রেসড টার আর্কাইভ",
-  "description":"ICE ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি ICE ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "ICE",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
-}
-},
-  "lastmod" : "2021-04-08"
+  "date": "2021-04-08",
+  "keywords": [
+    "ice file",
+    "ice file format",
+    "what is a ice file",
+    "file",
+    "ice example",
+    "ice file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "ICE - Bzip কম্প্রেসড টার আর্কাইভ",
+  "description": "ICE ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি ICE ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "ICE",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-ice-bn"
+    }
+  },
+  "lastmod": "2021-04-08"
 }
 
 ## একটি ICE ফাইল কি?

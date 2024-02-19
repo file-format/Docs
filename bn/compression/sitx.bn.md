@@ -1,20 +1,29 @@
 {
-  "date" : "2021-04-30",
-  "keywords" : [ "SITX", "Compressed", "File", "Extension", "File Format", "StuffIt X Archive", "SITX"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "SITX - StuffIt X আর্কাইভ ফাইল ফরম্যাট",
-  "description":"SITX ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি SITX ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "SITX",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
-}
-},
-  "lastmod" : "2021-04-30"
+  "date": "2021-04-30",
+  "keywords": [
+    "SITX",
+    "Compressed",
+    "File",
+    "Extension",
+    "File Format",
+    "StuffIt X Archive",
+    "SITX"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "SITX - StuffIt X আর্কাইভ ফাইল ফরম্যাট",
+  "description": "SITX ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি SITX ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "SITX",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-sitx-bn"
+    }
+  },
+  "lastmod": "2021-04-30"
 }
 
 ## একটি SITX ফাইল কি?

@@ -1,19 +1,20 @@
 {
-  "date" : "2022-06-20",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "FZPZ ফাইল ফরম্যাট - ফ্রিটজিং পার্ট ফাইল",
-  "description":"একটি FZPZ ফাইল এবং API যা FZPZ ফাইলগুলি তৈরি এবং খুলতে পারে সে সম্পর্কে জানুন৷",
-  "linktitle" : "FZPZ",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
-}
-},
-  "lastmod" : "2022-06-20"
+  "date": "2022-06-20",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "FZPZ ফাইল ফরম্যাট - ফ্রিটজিং পার্ট ফাইল",
+  "description": "একটি FZPZ ফাইল এবং API যা FZPZ ফাইলগুলি তৈরি এবং খুলতে পারে সে সম্পর্কে জানুন৷",
+  "linktitle": "FZPZ",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-fzpz-bn"
+    }
+  },
+  "lastmod": "2022-06-20"
 }
 
 ## একটি FZPZ ফাইল কি?

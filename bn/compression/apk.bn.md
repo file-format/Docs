@@ -1,19 +1,20 @@
 {
-  "date" : "2019-10-11",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "APK - একটি APK ফাইল কি?",
-  "description":"একটি APK ফাইল এবং APIগুলি কী তা জানতে শিখুন যা APK ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "APK",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
-}
-},
-  "lastmod" : "2021-04-27"
+  "date": "2019-10-11",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "APK - একটি APK ফাইল কি?",
+  "description": "একটি APK ফাইল এবং APIগুলি কী তা জানতে শিখুন যা APK ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "APK",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-apk-bn"
+    }
+  },
+  "lastmod": "2021-04-27"
 }
 
 ## একটি APK ফাইল কি?

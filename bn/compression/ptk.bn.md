@@ -1,20 +1,31 @@
 {
-  "date" : "2021-04-30",
-  "keywords" : [ "PTK", "Compressed", "File", "Extension", "File Format", "Intuit Quicken", "GIF", "Red Alert 2", "Puntotek" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "PTK ফাইল ফরম্যাট",
-  "description":"PTK ফাইল ফরম্যাট এবং API গুলি সম্পর্কে জানুন যা PTK ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "PTK",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
-}
-},
-  "lastmod" : "2021-04-30"
+  "date": "2021-04-30",
+  "keywords": [
+    "PTK",
+    "Compressed",
+    "File",
+    "Extension",
+    "File Format",
+    "Intuit Quicken",
+    "GIF",
+    "Red Alert 2",
+    "Puntotek"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "PTK ফাইল ফরম্যাট",
+  "description": "PTK ফাইল ফরম্যাট এবং API গুলি সম্পর্কে জানুন যা PTK ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "PTK",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-ptk-bn"
+    }
+  },
+  "lastmod": "2021-04-30"
 }
 
 ## একটি PTK ফাইল কি? ##

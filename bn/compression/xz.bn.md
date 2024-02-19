@@ -1,20 +1,30 @@
 {
-  "date" : "2022-01-23",
-  "keywords" : [ "xz file", "file format", "what is a xz file", "file", "xz example", "xz file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "XZ ফাইল - XZ সংকুচিত আর্কাইভ",
-  "description":"XZ ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি XZ ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "XZ",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
-}
-},
-  "lastmod" : "2022-01-23"
+  "date": "2022-01-23",
+  "keywords": [
+    "xz file",
+    "file format",
+    "what is a xz file",
+    "file",
+    "xz example",
+    "xz file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "XZ ফাইল - XZ সংকুচিত আর্কাইভ",
+  "description": "XZ ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি XZ ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "XZ",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-xz-bn"
+    }
+  },
+  "lastmod": "2022-01-23"
 }
 
 ## একটি XZ ফাইল কি?
