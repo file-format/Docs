@@ -1,20 +1,30 @@
 {
-  "date" : "2021-06-30",
-  "keywords" : [ "msi file", "MSI file format", "what is a msi file", "file", "msi example", "msi file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"MSI ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা MSI ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "MSI - উইন্ডোজ ইনস্টলার প্যাকেজ ফাইল",
-  "linktitle" : "MSI",
-  "menu" : {
-    "docs" : {
-      "parent" : "executable"
-}
-},
-  "lastmod" : "2021-06-30"
+  "date": "2021-06-30",
+  "keywords": [
+    "msi file",
+    "MSI file format",
+    "what is a msi file",
+    "file",
+    "msi example",
+    "msi file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "MSI ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা MSI ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "MSI - উইন্ডোজ ইনস্টলার প্যাকেজ ফাইল",
+  "linktitle": "MSI",
+  "menu": {
+    "docs": {
+      "parent": "executable",
+      "identifier": "executable-msi-bn"
+    }
+  },
+  "lastmod": "2021-06-30"
 }
 
 ## একটি MSI ফাইল কি?

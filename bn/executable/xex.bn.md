@@ -1,20 +1,30 @@
 {
-  "date" : "2022-03-23",
-  "keywords" : [ "xex file", "xex file format", "what is an xex file", "file", "xex example", "xex file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"XEX ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি XEX ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "title" : "XEX ফাইল ফরম্যাট- Xbox 360 এক্সিকিউটেবল ফাইল",
-  "linktitle" : "XEX",
-  "menu" : {
-    "docs" : {
-      "parent" : "executable"
-}
-},
-  "lastmod" : "2022-03-23"
+  "date": "2022-03-23",
+  "keywords": [
+    "xex file",
+    "xex file format",
+    "what is an xex file",
+    "file",
+    "xex example",
+    "xex file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "XEX ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি XEX ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "title": "XEX ফাইল ফরম্যাট- Xbox 360 এক্সিকিউটেবল ফাইল",
+  "linktitle": "XEX",
+  "menu": {
+    "docs": {
+      "parent": "executable",
+      "identifier": "executable-xex-bn"
+    }
+  },
+  "lastmod": "2022-03-23"
 }
 
 ## একটি XEX ফাইল কি?

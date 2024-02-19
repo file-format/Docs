@@ -1,20 +1,30 @@
 {
-  "date" : "2021-06-30",
-  "keywords" : [ "wsf file", "wsf file format", "what is a wsf file", "file", "wsf example", "wsf file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"WSF ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি WSF ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "WSF - উইন্ডোজ স্ক্রিপ্ট ফাইল",
-  "linktitle" : "WSF",
-  "menu" : {
-    "docs" : {
-      "parent" : "executable"
-}
-},
-  "lastmod" : "2021-06-30"
+  "date": "2021-06-30",
+  "keywords": [
+    "wsf file",
+    "wsf file format",
+    "what is a wsf file",
+    "file",
+    "wsf example",
+    "wsf file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "WSF ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি WSF ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "WSF - উইন্ডোজ স্ক্রিপ্ট ফাইল",
+  "linktitle": "WSF",
+  "menu": {
+    "docs": {
+      "parent": "executable",
+      "identifier": "executable-wsf-bn"
+    }
+  },
+  "lastmod": "2021-06-30"
 }
 
 ## একটি WSF ফাইল কি?

@@ -1,20 +1,30 @@
 {
-  "date" : "2021-06-30",
-  "keywords" : [ "exe file", "exe file format", "what is a exe file", "file", "exe example", "exe file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"একটি .exe ফাইল হল একটি মাইক্রোসফ্ট এক্সিকিউটেবল ফাইল যা উইন্ডোজ ওএসে চালানো হয়। EXE ফাইল ফরম্যাট সম্পর্কে আরও জানুন।",
-  "title" : "একটি এক্সিকিউটেবল EXE ফাইল কি?",
-  "linktitle" : "EXE",
-  "menu" : {
-    "docs" : {
-      "parent" : "executable"
-}
-},
-  "lastmod" : "2021-06-30"
+  "date": "2021-06-30",
+  "keywords": [
+    "exe file",
+    "exe file format",
+    "what is a exe file",
+    "file",
+    "exe example",
+    "exe file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "একটি .exe ফাইল হল একটি মাইক্রোসফ্ট এক্সিকিউটেবল ফাইল যা উইন্ডোজ ওএসে চালানো হয়। EXE ফাইল ফরম্যাট সম্পর্কে আরও জানুন।",
+  "title": "একটি এক্সিকিউটেবল EXE ফাইল কি?",
+  "linktitle": "EXE",
+  "menu": {
+    "docs": {
+      "parent": "executable",
+      "identifier": "executable-exe-bn"
+    }
+  },
+  "lastmod": "2021-06-30"
 }
 
 ## একটি EXE ফাইল কি?

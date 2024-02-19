@@ -1,20 +1,29 @@
 {
-  "date" : "2021-06-29",
-  "keywords" : [ "com file", "what is a com file", "file", "com example", "com file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"COM ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা COM ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "COM - DOS কমান্ড ফাইল ফরম্যাট",
-  "linktitle" : "COM",
-  "menu" : {
-    "docs" : {
-      "parent" : "executable"
-}
-},
-  "lastmod" : "2021-06-29"
+  "date": "2021-06-29",
+  "keywords": [
+    "com file",
+    "what is a com file",
+    "file",
+    "com example",
+    "com file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "COM ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা COM ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "COM - DOS কমান্ড ফাইল ফরম্যাট",
+  "linktitle": "COM",
+  "menu": {
+    "docs": {
+      "parent": "executable",
+      "identifier": "executable-com-bn"
+    }
+  },
+  "lastmod": "2021-06-29"
 }
 
 ## একটি COM ফাইল কি?

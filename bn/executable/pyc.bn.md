@@ -1,19 +1,20 @@
 {
-  "date" : "2022-05-09",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"PYC ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি PYC ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "PYC ফাইল ফরম্যাট- পাইথন কম্পাইল করা ফাইল",
-  "linktitle" : "PYC",
-  "menu" : {
-    "docs" : {
-      "parent" : "executable"
-}
-},
-  "lastmod" : "2022-05-09"
+  "date": "2022-05-09",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "PYC ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি PYC ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "PYC ফাইল ফরম্যাট- পাইথন কম্পাইল করা ফাইল",
+  "linktitle": "PYC",
+  "menu": {
+    "docs": {
+      "parent": "executable",
+      "identifier": "executable-pyc-bn"
+    }
+  },
+  "lastmod": "2022-05-09"
 }
 
 ## একটি PYC ফাইল কি?

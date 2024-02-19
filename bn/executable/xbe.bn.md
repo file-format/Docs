@@ -1,20 +1,30 @@
 {
-  "date" : "2021-08-31",
-  "keywords" : [ "xbe file", "xbe file format", "what is an xbe file", "file", "xbe example", "xbe file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"XBE ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি XBE ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "title" : "XBE - iOS অ্যাপ্লিকেশন প্যাকেজ ফাইল",
-  "linktitle" : "XBE",
-  "menu" : {
-    "docs" : {
-      "parent" : "executable"
-}
-},
-  "lastmod" : "2021-08-31"
+  "date": "2021-08-31",
+  "keywords": [
+    "xbe file",
+    "xbe file format",
+    "what is an xbe file",
+    "file",
+    "xbe example",
+    "xbe file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "XBE ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি XBE ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "title": "XBE - iOS অ্যাপ্লিকেশন প্যাকেজ ফাইল",
+  "linktitle": "XBE",
+  "menu": {
+    "docs": {
+      "parent": "executable",
+      "identifier": "executable-xbe-bn"
+    }
+  },
+  "lastmod": "2021-08-31"
 }
 
 ## একটি XBE ফাইল কি?

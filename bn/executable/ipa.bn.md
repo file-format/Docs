@@ -1,20 +1,30 @@
 {
-  "date" : "2021-08-30",
-  "keywords" : [ "ipa file", "ipa file format", "what is a ipa file", "file", "ipa example", "ipa file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"IPA ফাইল বিন্যাস এবং API সম্পর্কে জানুন যেগুলি IPA ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "title" : "IPA - iOS অ্যাপ্লিকেশন প্যাকেজ ফাইল",
-  "linktitle" : "IPA",
-  "menu" : {
-    "docs" : {
-      "parent" : "executable"
-}
-},
-  "lastmod" : "2021-08-30"
+  "date": "2021-08-30",
+  "keywords": [
+    "ipa file",
+    "ipa file format",
+    "what is a ipa file",
+    "file",
+    "ipa example",
+    "ipa file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "IPA ফাইল বিন্যাস এবং API সম্পর্কে জানুন যেগুলি IPA ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "title": "IPA - iOS অ্যাপ্লিকেশন প্যাকেজ ফাইল",
+  "linktitle": "IPA",
+  "menu": {
+    "docs": {
+      "parent": "executable",
+      "identifier": "executable-ipa-bn"
+    }
+  },
+  "lastmod": "2021-08-30"
 }
 
 ## একটি IPA ফাইল কি?

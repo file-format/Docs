@@ -1,20 +1,30 @@
 {
-  "date" : "2021-06-30",
-  "keywords" : [ "mst file", "mst file format", "what is a mst file", "file", "mst example", "mst file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"MST ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি MST ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "MST - উইন্ডোজ ইনস্টলার প্যাকেজ ফাইল",
-  "linktitle" : "MST",
-  "menu" : {
-    "docs" : {
-      "parent" : "executable"
-}
-},
-  "lastmod" : "2021-06-30"
+  "date": "2021-06-30",
+  "keywords": [
+    "mst file",
+    "mst file format",
+    "what is a mst file",
+    "file",
+    "mst example",
+    "mst file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "MST ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি MST ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "MST - উইন্ডোজ ইনস্টলার প্যাকেজ ফাইল",
+  "linktitle": "MST",
+  "menu": {
+    "docs": {
+      "parent": "executable",
+      "identifier": "executable-mst-bn"
+    }
+  },
+  "lastmod": "2021-06-30"
 }
 
 ## একটি MST ফাইল কি?

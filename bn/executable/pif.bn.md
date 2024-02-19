@@ -1,20 +1,30 @@
 {
-  "date" : "2021-08-02",
-  "keywords" : [ "pif file", "pif file format", "what is a pif file", "file", "pif example", "pif file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"PIF ফাইল বিন্যাস এবং API সম্পর্কে জানুন যেগুলি PIF ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "title" : "PIF - প্রোগ্রাম তথ্য ফাইল",
-  "linktitle" : "PIF",
-  "menu" : {
-    "docs" : {
-      "parent" : "executable"
-}
-},
-  "lastmod" : "2021-08-02"
+  "date": "2021-08-02",
+  "keywords": [
+    "pif file",
+    "pif file format",
+    "what is a pif file",
+    "file",
+    "pif example",
+    "pif file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "PIF ফাইল বিন্যাস এবং API সম্পর্কে জানুন যেগুলি PIF ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "title": "PIF - প্রোগ্রাম তথ্য ফাইল",
+  "linktitle": "PIF",
+  "menu": {
+    "docs": {
+      "parent": "executable",
+      "identifier": "executable-pif-bn"
+    }
+  },
+  "lastmod": "2021-08-02"
 }
 
 ## একটি PIF ফাইল কি?

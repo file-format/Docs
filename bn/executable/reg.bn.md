@@ -1,20 +1,30 @@
 {
-  "date" : "2021-08-02",
-  "keywords" : [ "reg file", "reg file format", "what is a reg file", "file", "reg example", "reg file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"REG ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি REG ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "REG - উইন্ডোজ রেজিস্ট্রি ফাইল",
-  "linktitle" : "REG",
-  "menu" : {
-    "docs" : {
-      "parent" : "executable"
-}
-},
-  "lastmod" : "2021-08-02"
+  "date": "2021-08-02",
+  "keywords": [
+    "reg file",
+    "reg file format",
+    "what is a reg file",
+    "file",
+    "reg example",
+    "reg file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "REG ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি REG ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "REG - উইন্ডোজ রেজিস্ট্রি ফাইল",
+  "linktitle": "REG",
+  "menu": {
+    "docs": {
+      "parent": "executable",
+      "identifier": "executable-reg-bn"
+    }
+  },
+  "lastmod": "2021-08-02"
 }
 
 ## একটি REG ফাইল কি?

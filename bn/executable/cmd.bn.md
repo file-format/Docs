@@ -1,20 +1,29 @@
 {
-  "date" : "2021-07-12",
-  "keywords" : [ "cmd file", "what is a cmd file", "file", "cmd example", "cmd file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"সিএমডি ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা সিএমডি ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "সিএমডি - উইন্ডোজ কমান্ড ফাইল ফরম্যাট",
-  "linktitle" : "CMD",
-  "menu" : {
-    "docs" : {
-      "parent" : "executable"
-}
-},
-  "lastmod" : "2021-07-12"
+  "date": "2021-07-12",
+  "keywords": [
+    "cmd file",
+    "what is a cmd file",
+    "file",
+    "cmd example",
+    "cmd file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "সিএমডি ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা সিএমডি ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "সিএমডি - উইন্ডোজ কমান্ড ফাইল ফরম্যাট",
+  "linktitle": "CMD",
+  "menu": {
+    "docs": {
+      "parent": "executable",
+      "identifier": "executable-cmd-bn"
+    }
+  },
+  "lastmod": "2021-07-12"
 }
 
 ## একটি CMD ফাইল কি?

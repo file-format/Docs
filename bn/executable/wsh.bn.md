@@ -1,20 +1,30 @@
 {
-  "date" : "2021-08-27",
-  "keywords" : [ "wsh file", "wsh file format", "what is a wsh file", "file", "wsh example", "wsh file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"WSH ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি WSH ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "WSH - উইন্ডোজ স্ক্রিপ্ট ফাইল",
-  "linktitle" : "WSH",
-  "menu" : {
-    "docs" : {
-      "parent" : "executable"
-}
-},
-  "lastmod" : "2021-08-27"
+  "date": "2021-08-27",
+  "keywords": [
+    "wsh file",
+    "wsh file format",
+    "what is a wsh file",
+    "file",
+    "wsh example",
+    "wsh file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "WSH ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি WSH ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "WSH - উইন্ডোজ স্ক্রিপ্ট ফাইল",
+  "linktitle": "WSH",
+  "menu": {
+    "docs": {
+      "parent": "executable",
+      "identifier": "executable-wsh-bn"
+    }
+  },
+  "lastmod": "2021-08-27"
 }
 
 ## একটি WSH ফাইল কি?

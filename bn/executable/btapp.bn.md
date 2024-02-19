@@ -1,19 +1,20 @@
 {
-  "date" : "2022-05-16",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"BTAPP ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা BTAPP ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "BTAPP ফাইল ফরম্যাট - uTorrent অ্যাপ",
-  "linktitle" : "BTAPP",
-  "menu" : {
-    "docs" : {
-      "parent" : "executable"
-}
-},
-  "lastmod" : "2022-05-16"
+  "date": "2022-05-16",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "BTAPP ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা BTAPP ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "BTAPP ফাইল ফরম্যাট - uTorrent অ্যাপ",
+  "linktitle": "BTAPP",
+  "menu": {
+    "docs": {
+      "parent": "executable",
+      "identifier": "executable-btapp-bn"
+    }
+  },
+  "lastmod": "2022-05-16"
 }
 
 ## একটি BTAPP ফাইল কি?

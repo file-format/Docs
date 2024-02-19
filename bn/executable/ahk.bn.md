@@ -1,19 +1,20 @@
 {
-  "date" : "2022-04-25",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"AHK ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি AHK ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "title" : "AHK ফাইল ফরম্যাট- অটোহটকি স্ক্রিপ্ট ফাইল",
-  "linktitle" : "AHK",
-  "menu" : {
-    "docs" : {
-      "parent" : "executable"
-}
-},
-  "lastmod" : "2022-04-25"
+  "date": "2022-04-25",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "AHK ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি AHK ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "title": "AHK ফাইল ফরম্যাট- অটোহটকি স্ক্রিপ্ট ফাইল",
+  "linktitle": "AHK",
+  "menu": {
+    "docs": {
+      "parent": "executable",
+      "identifier": "executable-ahk-bn"
+    }
+  },
+  "lastmod": "2022-04-25"
 }
 
 ## একটি AHK ফাইল কি?

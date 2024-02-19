@@ -1,20 +1,29 @@
 {
-  "date" : "2021-06-28",
-  "keywords" : [ "cgi file", "what is a cgi file", "file", "cgi example", "cgi file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"CGI ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি CGI ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "CGI - সাধারণ গেটওয়ে ইন্টারফেস স্ক্রিপ্ট ফাইল",
-  "linktitle" : "CGI",
-  "menu" : {
-    "docs" : {
-      "parent" : "executable"
-}
-},
-  "lastmod" : "2021-06-28"
+  "date": "2021-06-28",
+  "keywords": [
+    "cgi file",
+    "what is a cgi file",
+    "file",
+    "cgi example",
+    "cgi file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "CGI ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি CGI ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "CGI - সাধারণ গেটওয়ে ইন্টারফেস স্ক্রিপ্ট ফাইল",
+  "linktitle": "CGI",
+  "menu": {
+    "docs": {
+      "parent": "executable",
+      "identifier": "executable-cgi-bn"
+    }
+  },
+  "lastmod": "2021-06-28"
 }
 
 ## একটি CGI ফাইল কি?

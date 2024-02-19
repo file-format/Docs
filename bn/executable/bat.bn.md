@@ -1,20 +1,28 @@
 {
-  "date" : "2021-06-24",
-  "keywords" : [ "bat file", "what is a bat file", "file", "bat file example", "extension", "format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"BAT ফাইল বিন্যাস এবং API সম্পর্কে জানুন যেগুলি BAT ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "title" : "BAT - ব্যাচ ফাইল ফরম্যাট",
-  "linktitle" : "BAT",
-  "menu" : {
-    "docs" : {
-      "parent" : "executable"
-}
-},
-  "lastmod" : "2021-06-24"
+  "date": "2021-06-24",
+  "keywords": [
+    "bat file",
+    "what is a bat file",
+    "file",
+    "bat file example",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "BAT ফাইল বিন্যাস এবং API সম্পর্কে জানুন যেগুলি BAT ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "title": "BAT - ব্যাচ ফাইল ফরম্যাট",
+  "linktitle": "BAT",
+  "menu": {
+    "docs": {
+      "parent": "executable",
+      "identifier": "executable-bat-bn"
+    }
+  },
+  "lastmod": "2021-06-24"
 }
 
 ## একটি BAT ফাইল কি?
