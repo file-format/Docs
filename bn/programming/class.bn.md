@@ -1,20 +1,32 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "class", ".class","what is a class file","how to open a class file", "extension", "file", "class file","class file format", ".class extension", "class file in java" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ক্লাস - জাভা ক্লাস ফাইল ফরম্যাট",
-  "description":"ক্লাস ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা ক্লাস ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "Class",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
-}
-},
-  "lastmod" : "2020-09-10"
+  "date": "2019-10-11",
+  "keywords": [
+    "class",
+    ".class",
+    "what is a class file",
+    "how to open a class file",
+    "extension",
+    "file",
+    "class file",
+    "class file format",
+    ".class extension",
+    "class file in java"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "ক্লাস - জাভা ক্লাস ফাইল ফরম্যাট",
+  "description": "ক্লাস ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা ক্লাস ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "Class",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-class-bn"
+    }
+  },
+  "lastmod": "2020-09-10"
 }
 
 ## ক্লাস ফাইল কি?

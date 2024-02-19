@@ -1,20 +1,30 @@
 {
-  "date" : "2021-04-22",
-  "keywords": [ "addin file", "visual studio addin file", "extension", "format","addin file visual studio","addin file extension","how to open addin file","addin file format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ADDIN - ভিজ্যুয়াল স্টুডিও অ্যাড-ইন সংজ্ঞা ফাইল",
-  "description":"ADDIN ফাইল ফরম্যাট কি সে সম্পর্কে জানুন উদাহরণ সহ এবং API গুলি যা ADDIN ফাইল তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "ADDIN",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
-}
-},
-  "lastmod" : "2021-12-12"
+  "date": "2021-04-22",
+  "keywords": [
+    "addin file",
+    "visual studio addin file",
+    "extension",
+    "format",
+    "addin file visual studio",
+    "addin file extension",
+    "how to open addin file",
+    "addin file format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "ADDIN - ভিজ্যুয়াল স্টুডিও অ্যাড-ইন সংজ্ঞা ফাইল",
+  "description": "ADDIN ফাইল ফরম্যাট কি সে সম্পর্কে জানুন উদাহরণ সহ এবং API গুলি যা ADDIN ফাইল তৈরি এবং খুলতে পারে৷",
+  "linktitle": "ADDIN",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-addin-bn"
+    }
+  },
+  "lastmod": "2021-12-12"
 }
 
 ## একটি ADDIN ফাইল বিন্যাস কি?

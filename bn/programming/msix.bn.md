@@ -1,20 +1,27 @@
 {
-  "date" : "2021-04-22",
-  "keywords": [ "msix file", "extension", "format","how to open msix file","msix file format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "MSIX - একটি MSIX ফাইল কি?",
-  "description":"MSIX ফাইল এবং API সম্পর্কে জানুন যেগুলি MSIX ফাইল তৈরি করতে এবং খুলতে পারে৷",
-  "linktitle" : "MSIX",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
-}
-},
-  "lastmod" : "2021-12-16"
+  "date": "2021-04-22",
+  "keywords": [
+    "msix file",
+    "extension",
+    "format",
+    "how to open msix file",
+    "msix file format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "MSIX - একটি MSIX ফাইল কি?",
+  "description": "MSIX ফাইল এবং API সম্পর্কে জানুন যেগুলি MSIX ফাইল তৈরি করতে এবং খুলতে পারে৷",
+  "linktitle": "MSIX",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-msix-bn"
+    }
+  },
+  "lastmod": "2021-12-16"
 }
 
 ## একটি MSIX ফাইল কি?

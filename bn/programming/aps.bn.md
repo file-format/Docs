@@ -1,20 +1,30 @@
 {
-  "date" : "2021-04-22",
-  "keywords": [ "aps file", "visual studio aps file", "extension", "format","aps file visual studio","aps file extension","how to open aps file","APS file format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "APS - ভিজ্যুয়াল C++ রিসোর্স ফাইল",
-  "description":"APS উদাহরণ সহ APS ফাইল বিন্যাস সম্পর্কে জানুন এবং APS ফাইলগুলি তৈরি এবং খুলতে পারে এমন APIগুলি।",
-  "linktitle" : "APS",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
-}
-},
-  "lastmod" : "2021-04-22"
+  "date": "2021-04-22",
+  "keywords": [
+    "aps file",
+    "visual studio aps file",
+    "extension",
+    "format",
+    "aps file visual studio",
+    "aps file extension",
+    "how to open aps file",
+    "APS file format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "APS - ভিজ্যুয়াল C++ রিসোর্স ফাইল",
+  "description": "APS উদাহরণ সহ APS ফাইল বিন্যাস সম্পর্কে জানুন এবং APS ফাইলগুলি তৈরি এবং খুলতে পারে এমন APIগুলি।",
+  "linktitle": "APS",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-aps-bn"
+    }
+  },
+  "lastmod": "2021-04-22"
 }
 
 ## একটি APS ফাইল বিন্যাস কি?

@@ -1,20 +1,31 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "JAR", ".jar","what is a jar file","how to open a jar file", "extension", "file", "jar file","jar file format",  ".jar extension" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "JAR - জাভা আর্কাইভ ফাইল ফরম্যাট",
-  "description":"JAR ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা JAR ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "JAR",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
-}
-},
-  "lastmod" : "2020-09-10"
+  "date": "2019-10-11",
+  "keywords": [
+    "JAR",
+    ".jar",
+    "what is a jar file",
+    "how to open a jar file",
+    "extension",
+    "file",
+    "jar file",
+    "jar file format",
+    ".jar extension"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "JAR - জাভা আর্কাইভ ফাইল ফরম্যাট",
+  "description": "JAR ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা JAR ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "JAR",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-jar-bn"
+    }
+  },
+  "lastmod": "2020-09-10"
 }
 
 ## একটি JAR ফাইল কি?

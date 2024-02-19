@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "ppsx file", "ppsx file format", "what is a ppsx file", "file", "ppsx example", "ppsx file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "PPSX - পাওয়ারপয়েন্ট স্লাইড শো ফাইল",
-  "description":"PPSX ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি PPSX ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "PPSX",
-  "menu" : {
-    "docs" : {
-      "parent" : "presentation"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "keywords": [
+    "ppsx file",
+    "ppsx file format",
+    "what is a ppsx file",
+    "file",
+    "ppsx example",
+    "ppsx file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "PPSX - পাওয়ারপয়েন্ট স্লাইড শো ফাইল",
+  "description": "PPSX ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি PPSX ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "PPSX",
+  "menu": {
+    "docs": {
+      "parent": "presentation",
+      "identifier": "presentation-ppsx-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি PPSX ফাইল কি?

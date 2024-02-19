@@ -1,20 +1,28 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "vb", "file", "extension", "file format", "Visual Basic", "Programming Guide" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "VB - ভিজ্যুয়াল বেসিক কোড ফাইল",
-  "description":"VB ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি VB ফাইলগুলি তৈরি এবং খুলতে পারে।",
-  "linktitle" : "VB",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "keywords": [
+    "vb",
+    "file",
+    "extension",
+    "file format",
+    "Visual Basic",
+    "Programming Guide"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "VB - ভিজ্যুয়াল বেসিক কোড ফাইল",
+  "description": "VB ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি VB ফাইলগুলি তৈরি এবং খুলতে পারে।",
+  "linktitle": "VB",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-vb-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি VB ফাইল কি?

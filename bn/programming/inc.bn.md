@@ -1,19 +1,20 @@
 {
-  "date" : "2022-07-14",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "INC ফাইল এক্সটেনশন - একটি INC ফাইল কি?",
-  "description":"INC ইনক্লুড ফাইল ফরম্যাট এবং APIগুলি সম্পর্কে জানুন যা INC ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "INC",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
-}
-},
-  "lastmod" : "2022-07-14"
+  "date": "2022-07-14",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "INC ফাইল এক্সটেনশন - একটি INC ফাইল কি?",
+  "description": "INC ইনক্লুড ফাইল ফরম্যাট এবং APIগুলি সম্পর্কে জানুন যা INC ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "INC",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-inc-bn"
+    }
+  },
+  "lastmod": "2022-07-14"
 }
 
 ## একটি INC ফাইল কি?

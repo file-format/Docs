@@ -1,19 +1,20 @@
 {
-  "date" : "2022-11-06",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "AS2PROJ - FlashDevelop ActionScript 2 প্রজেক্ট ফাইল ফরম্যাট",
-  "description":"AS2PROJ ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি AS2PROJ ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "AS2PROJ",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
-}
-},
-  "lastmod" : "2022-11-06"
+  "date": "2022-11-06",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "AS2PROJ - FlashDevelop ActionScript 2 প্রজেক্ট ফাইল ফরম্যাট",
+  "description": "AS2PROJ ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি AS2PROJ ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "AS2PROJ",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-as2proj-bn"
+    }
+  },
+  "lastmod": "2022-11-06"
 }
 
 ## একটি AS2PROJ ফাইল কি?

@@ -1,20 +1,28 @@
 {
-  "date" : "2021-04-23",
-  "keywords": [ "RES File", "how to open a res file", "what is a res file", "extension", "format", "RES file format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "RES - C++ কম্পাইলড রিসোর্স স্ক্রিপ্ট",
-  "description":"RES উদাহরণ সহ RES ফাইল বিন্যাস সম্পর্কে জানুন এবং API গুলি যেগুলি RES ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "RES",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
-}
-},
-  "lastmod" : "2021-04-23"
+  "date": "2021-04-23",
+  "keywords": [
+    "RES File",
+    "how to open a res file",
+    "what is a res file",
+    "extension",
+    "format",
+    "RES file format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "RES - C++ কম্পাইলড রিসোর্স স্ক্রিপ্ট",
+  "description": "RES উদাহরণ সহ RES ফাইল বিন্যাস সম্পর্কে জানুন এবং API গুলি যেগুলি RES ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "RES",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-res-bn"
+    }
+  },
+  "lastmod": "2021-04-23"
 }
 
 ## একটি RES ফাইল কি?

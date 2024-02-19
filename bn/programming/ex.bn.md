@@ -1,19 +1,20 @@
 {
-  "date" : "2022-03-15",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "EX ফাইল ফরম্যাট - ইউফোরিয়া সোর্স কোড ফাইল",
-  "description":"EX ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি EX ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "EX",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
-}
-},
-  "lastmod" : "2022-03-15"
+  "date": "2022-03-15",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "EX ফাইল ফরম্যাট - ইউফোরিয়া সোর্স কোড ফাইল",
+  "description": "EX ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি EX ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "EX",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-ex-bn"
+    }
+  },
+  "lastmod": "2022-03-15"
 }
 
 ## একটি EX ফাইল কি?

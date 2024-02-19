@@ -1,20 +1,33 @@
 {
-  "date" : "2021-09-23", 
-  "keywords" : [ "NUT", "file", "extension", "file format", "NUT рrоgrаmming lаnguаge", "Programming Guide", "NUT example", "NUT file format", "squirrel language", ".nut extension file", "NUT files" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "NUT - কাঠবিড়ালি ভাষার ফাইল",
-  "description":"NUT ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি NUT ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "NUT",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
-}
-},
-  "lastmod" : "2021-09-23"
+  "date": "2021-09-23",
+  "keywords": [
+    "NUT",
+    "file",
+    "extension",
+    "file format",
+    "NUT рrоgrаmming lаnguаge",
+    "Programming Guide",
+    "NUT example",
+    "NUT file format",
+    "squirrel language",
+    ".nut extension file",
+    "NUT files"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "NUT - কাঠবিড়ালি ভাষার ফাইল",
+  "description": "NUT ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি NUT ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "NUT",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-nut-bn"
+    }
+  },
+  "lastmod": "2021-09-23"
 }
 
 ## একটি NUT ফাইল কি?

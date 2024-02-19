@@ -1,19 +1,20 @@
 {
-  "date" : "2022-06-03",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : " YPR ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি একটি YPR ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "YPR - BYOB প্রজেক্ট ফাইল ফরম্যাট",
-  "linktitle" : "YPR",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
-}
-},
-  "lastmod" : "2022-06-03"
+  "date": "2022-06-03",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": " YPR ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি একটি YPR ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "YPR - BYOB প্রজেক্ট ফাইল ফরম্যাট",
+  "linktitle": "YPR",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-ypr-bn"
+    }
+  },
+  "lastmod": "2022-06-03"
 }
 
 ## একটি YPR ফাইল কি?

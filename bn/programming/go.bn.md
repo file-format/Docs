@@ -1,20 +1,31 @@
 {
-  "date" : "2021-08-30",
-  "keywords" : [ "GO", "file", "extension", "file format", "Gо рrоgrаmming lаnguаge", "Programming Guide", "go example", "Google Go", "Gоlаng" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "GO - গোলাং ফাইল ফরম্যাট",
-  "description":"GO ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি GO ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "GO",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
-}
-},
-  "lastmod" : "2021-08-30"
+  "date": "2021-08-30",
+  "keywords": [
+    "GO",
+    "file",
+    "extension",
+    "file format",
+    "Gо рrоgrаmming lаnguаge",
+    "Programming Guide",
+    "go example",
+    "Google Go",
+    "Gоlаng"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "GO - গোলাং ফাইল ফরম্যাট",
+  "description": "GO ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি GO ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "GO",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-go-bn"
+    }
+  },
+  "lastmod": "2021-08-30"
 }
 
 ## একটি GO ফাইল কি?

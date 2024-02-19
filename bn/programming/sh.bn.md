@@ -1,20 +1,29 @@
 {
-  "date" : "2019-10-11",
-  "keywords": [ "sh file", ".sh file", "extension", "format", "sh file example", "sh file format", "how to run sh file" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "SH - ব্যাশ শেল স্ক্রিপ্ট ফাইল",
-  "description":"এসএইচ ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা এসএইচ ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "SH",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
-}
-},
-  "lastmod" : "2021-05-21"
+  "date": "2019-10-11",
+  "keywords": [
+    "sh file",
+    ".sh file",
+    "extension",
+    "format",
+    "sh file example",
+    "sh file format",
+    "how to run sh file"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "SH - ব্যাশ শেল স্ক্রিপ্ট ফাইল",
+  "description": "এসএইচ ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা এসএইচ ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "SH",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-sh-bn"
+    }
+  },
+  "lastmod": "2021-05-21"
 }
 
 ## একটি SH ফাইল কি?

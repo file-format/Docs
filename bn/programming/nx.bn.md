@@ -1,19 +1,20 @@
 {
-  "date" : "2023-01-05",
-  "author" : {
-    "display_name" : "Sami Cheema"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "NX ফাইল - LowRes NX অ্যাপ্লিকেশন ফাইল ফর্ম্যাট",
-  "description":"NX ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি NX ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "NX",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
-}
-},
-  "lastmod" : "2023-01-05"
+  "date": "2023-01-05",
+  "author": {
+    "display_name": "Sami Cheema"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "NX ফাইল - LowRes NX অ্যাপ্লিকেশন ফাইল ফর্ম্যাট",
+  "description": "NX ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি NX ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "NX",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-nx-bn"
+    }
+  },
+  "lastmod": "2023-01-05"
 }
 
 ## একটি NX ফাইল কি?

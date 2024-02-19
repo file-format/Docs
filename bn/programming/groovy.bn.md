@@ -1,19 +1,20 @@
 {
-  "date" : "2022-04-06",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "GROOVY ফাইল ফরম্যাট",
-  "description":"GROOVY ফাইল ফরম্যাট এবং APIগুলি সম্পর্কে জানুন যা GROOVY ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "GROOVY",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
-}
-},
-  "lastmod" : "2022-04-06"
+  "date": "2022-04-06",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "GROOVY ফাইল ফরম্যাট",
+  "description": "GROOVY ফাইল ফরম্যাট এবং APIগুলি সম্পর্কে জানুন যা GROOVY ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "GROOVY",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-groovy-bn"
+    }
+  },
+  "lastmod": "2022-04-06"
 }
 
 ## একটি GROOVY ফাইল কি?

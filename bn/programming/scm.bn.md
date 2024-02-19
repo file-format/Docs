@@ -1,19 +1,20 @@
 {
-  "date" : "2022-04-13",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "SCM ফাইল ফরম্যাট - স্কিম সোর্স কোড ফাইল",
-  "description":"SCM ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি SCM ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "SCM",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
-}
-},
-  "lastmod" : "2022-04-13"
+  "date": "2022-04-13",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "SCM ফাইল ফরম্যাট - স্কিম সোর্স কোড ফাইল",
+  "description": "SCM ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি SCM ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "SCM",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-scm-bn"
+    }
+  },
+  "lastmod": "2022-04-13"
 }
 
 ## একটি SCM ফাইল কি?

@@ -1,19 +1,20 @@
 {
-  "date" : "2021-09-08",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "এলজিও ফাইল ফরম্যাট - লোগো নির্দেশাবলী ফাইল",
-  "description":"এলজিও ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা এলজিও ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "LGO",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
-}
-},
-  "lastmod" : "2021-09-08"
+  "date": "2021-09-08",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "এলজিও ফাইল ফরম্যাট - লোগো নির্দেশাবলী ফাইল",
+  "description": "এলজিও ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা এলজিও ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "LGO",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-lgo-bn"
+    }
+  },
+  "lastmod": "2021-09-08"
 }
 
 ## একটি LGO ফাইল কি?

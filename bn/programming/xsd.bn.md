@@ -1,20 +1,32 @@
 {
-  "date" : "2022-02-06",
-  "keywords" : [ "xsd", ".xsd","what is a xsd file","how to open xsd file", "extension", "file", "xsd file","xsd file format",  ".xsd extension" ,"xsd file example"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : " XSD ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা একটি XSD ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "XSD ফাইল ফরম্যাট - XML স্কিমা সংজ্ঞা ফাইল",
-  "linktitle" : "XSD",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
-}
-},
-  "lastmod" : "2022-02-06"
+  "date": "2022-02-06",
+  "keywords": [
+    "xsd",
+    ".xsd",
+    "what is a xsd file",
+    "how to open xsd file",
+    "extension",
+    "file",
+    "xsd file",
+    "xsd file format",
+    ".xsd extension",
+    "xsd file example"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": " XSD ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা একটি XSD ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "XSD ফাইল ফরম্যাট - XML স্কিমা সংজ্ঞা ফাইল",
+  "linktitle": "XSD",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-xsd-bn"
+    }
+  },
+  "lastmod": "2022-02-06"
 }
 
 ## একটি XSD স্কিমা ফাইল কি?

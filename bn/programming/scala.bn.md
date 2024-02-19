@@ -1,19 +1,20 @@
 {
-  "date" : "2022-04-12",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "SCALA - স্কালা সোর্স কোড ফাইল",
-  "description":"SCALA ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি SCALA ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "SCALA",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
-}
-},
-  "lastmod" : "2022-04-12"
+  "date": "2022-04-12",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "SCALA - স্কালা সোর্স কোড ফাইল",
+  "description": "SCALA ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি SCALA ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "SCALA",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-scala-bn"
+    }
+  },
+  "lastmod": "2022-04-12"
 }
 
 ## একটি SCALA ফাইল কি?

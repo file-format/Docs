@@ -1,20 +1,30 @@
 {
-  "date" : "2021-04-20",
-  "keywords": [ "JSPF file", "jspf", "JSPF example", "extension", "format", "jspf tutorial", "jsp fragment", "JSPF file format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "JSPF - JSP ফ্র্যাগমেন্ট ফাইল ফরম্যাট",
-  "description":"JSPF ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি JSPF ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "JSPF",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
-}
-},
-  "lastmod" : "2021-04-21"
+  "date": "2021-04-20",
+  "keywords": [
+    "JSPF file",
+    "jspf",
+    "JSPF example",
+    "extension",
+    "format",
+    "jspf tutorial",
+    "jsp fragment",
+    "JSPF file format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "JSPF - JSP ফ্র্যাগমেন্ট ফাইল ফরম্যাট",
+  "description": "JSPF ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি JSPF ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "JSPF",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-jspf-bn"
+    }
+  },
+  "lastmod": "2021-04-21"
 }
 
 ## একটি JSPF ফাইল কি?

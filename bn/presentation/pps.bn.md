@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "pps file", "pps file format", "what is a pps file", "file", "pps example", "pps file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "PPS - পাওয়ারপয়েন্ট স্লাইড শো ফাইল",
-  "description":"PPS ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি PPS ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "PPS",
-  "menu" : {
-    "docs" : {
-      "parent" : "presentation"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "keywords": [
+    "pps file",
+    "pps file format",
+    "what is a pps file",
+    "file",
+    "pps example",
+    "pps file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "PPS - পাওয়ারপয়েন্ট স্লাইড শো ফাইল",
+  "description": "PPS ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি PPS ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "PPS",
+  "menu": {
+    "docs": {
+      "parent": "presentation",
+      "identifier": "presentation-pps-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি PPS ফাইল কি?

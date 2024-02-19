@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "potm file", "potm file format", "what is a potm file", "file", "potm example", "potm file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "POTM - ম্যাক্রো সহ মাইক্রোসফ্ট পাওয়ারপয়েন্ট টেমপ্লেট ফাইল",
-  "description":"POTM ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি POTM ফাইল তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "POTM",
-  "menu" : {
-    "docs" : {
-      "parent" : "presentation"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "keywords": [
+    "potm file",
+    "potm file format",
+    "what is a potm file",
+    "file",
+    "potm example",
+    "potm file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "POTM - ম্যাক্রো সহ মাইক্রোসফ্ট পাওয়ারপয়েন্ট টেমপ্লেট ফাইল",
+  "description": "POTM ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি POTM ফাইল তৈরি এবং খুলতে পারে৷",
+  "linktitle": "POTM",
+  "menu": {
+    "docs": {
+      "parent": "presentation",
+      "identifier": "presentation-potm-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি POTM ফাইল কি?

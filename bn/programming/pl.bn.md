@@ -1,20 +1,30 @@
 {
-  "date" : "2021-07-23",
-  "keywords" : [ "PL", "file", "extension", "format", "Perl", "Perl language", "PL files", "programming"],
-  "author" : {
-    "display_name" : "Sami Cheema"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"PL ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি PL ফাইল তৈরি করতে এবং খুলতে পারে।",
-  "title" : "PL ফাইল - পার্ল স্ক্রিপ্ট ফাইল ফরম্যাট",
-  "linktitle" : "PL",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
-}
-},
-  "lastmod" : "2021-07-23"
+  "date": "2021-07-23",
+  "keywords": [
+    "PL",
+    "file",
+    "extension",
+    "format",
+    "Perl",
+    "Perl language",
+    "PL files",
+    "programming"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "PL ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি PL ফাইল তৈরি করতে এবং খুলতে পারে।",
+  "title": "PL ফাইল - পার্ল স্ক্রিপ্ট ফাইল ফরম্যাট",
+  "linktitle": "PL",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-pl-bn"
+    }
+  },
+  "lastmod": "2021-07-23"
 }
 
 ## একটি PL ফাইল কি?

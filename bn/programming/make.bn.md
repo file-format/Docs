@@ -1,19 +1,20 @@
 {
-  "date" : "2019-10-11",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ফাইল তৈরি করুন - এক্সকোড মেকফাইল স্ক্রিপ্ট ফাইল",
-  "description":"XCode MakeFile ফরম্যাট এবং API সম্পর্কে জানুন যা MakeFile ফাইলগুলি তৈরি এবং খুলতে পারে।",
-  "linktitle" : "MAKE",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
-}
-},
-  "lastmod" : "2020-09-10"
+  "date": "2019-10-11",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "ফাইল তৈরি করুন - এক্সকোড মেকফাইল স্ক্রিপ্ট ফাইল",
+  "description": "XCode MakeFile ফরম্যাট এবং API সম্পর্কে জানুন যা MakeFile ফাইলগুলি তৈরি এবং খুলতে পারে।",
+  "linktitle": "MAKE",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-make-bn"
+    }
+  },
+  "lastmod": "2020-09-10"
 }
 
 

@@ -1,19 +1,20 @@
 {
-  "date" : "2023-10-26",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "CJS ফাইল - CommonJS কোড ফাইল",
-  "description":".cjs ফাইল কি এবং কিভাবে খুলতে হয়?",
-  "linktitle" : "CJS",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
-}
-},
-  "lastmod" : "2023-10-26"
+  "date": "2023-10-26",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "CJS ফাইল - CommonJS কোড ফাইল",
+  "description": ".cjs ফাইল কি এবং কিভাবে খুলতে হয়?",
+  "linktitle": "CJS",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-cjs-bn"
+    }
+  },
+  "lastmod": "2023-10-26"
 }
 
 ## একটি CJS ফাইল কি?

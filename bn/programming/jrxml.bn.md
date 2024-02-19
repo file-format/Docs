@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "jrxml", "jrxml file", "jrxml file format", "file format", "programming","jrxml file download", ".jrxml file", ".jrxml"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"JRXML ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা JRXML ফাইল খুলতে এবং তৈরি করতে পারে।",
-  "title" : "JRXML ফাইল ফরম্যাট",
-  "linktitle" : "JRXML",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "keywords": [
+    "jrxml",
+    "jrxml file",
+    "jrxml file format",
+    "file format",
+    "programming",
+    "jrxml file download",
+    ".jrxml file",
+    ".jrxml"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "JRXML ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা JRXML ফাইল খুলতে এবং তৈরি করতে পারে।",
+  "title": "JRXML ফাইল ফরম্যাট",
+  "linktitle": "JRXML",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-jrxml-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি JRXML ফাইল কি?

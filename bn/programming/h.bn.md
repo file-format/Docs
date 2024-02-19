@@ -1,20 +1,32 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "h", ".h","what is a h file","how to open h file", "extension", "file", "h file","h file format",  "h file extension","H File Example"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "H - C/C++ হেডার ফাইল ফরম্যাট",
-  "description":"H ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি H ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "H",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
-}
-},
-  "lastmod" : "2021-05-07"
+  "date": "2019-10-11",
+  "keywords": [
+    "h",
+    ".h",
+    "what is a h file",
+    "how to open h file",
+    "extension",
+    "file",
+    "h file",
+    "h file format",
+    "h file extension",
+    "H File Example"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "H - C/C++ হেডার ফাইল ফরম্যাট",
+  "description": "H ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি H ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "H",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-h-bn"
+    }
+  },
+  "lastmod": "2021-05-07"
 }
 
 ## একটি H ফাইল কি?

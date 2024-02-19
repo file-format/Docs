@@ -1,20 +1,32 @@
 {
-  "date" : "2021-08-27", 
-  "keywords" : [ "ts", "file", "extension", "file format", "TyрeSсriрt", "Programming Guide", "ts example", "Microsoft", "VBScript", "EСMАSсriрt" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "TS - TyрeSсrirt ফাইল ফরম্যাট",
-  "description":"TS ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা TS ফাইল তৈরি করতে এবং খুলতে পারে।",
-  "linktitle" : "TS",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
-}
-},
-  "lastmod" : "2021-08-27"
+  "date": "2021-08-27",
+  "keywords": [
+    "ts",
+    "file",
+    "extension",
+    "file format",
+    "TyрeSсriрt",
+    "Programming Guide",
+    "ts example",
+    "Microsoft",
+    "VBScript",
+    "EСMАSсriрt"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "TS - TyрeSсrirt ফাইল ফরম্যাট",
+  "description": "TS ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা TS ফাইল তৈরি করতে এবং খুলতে পারে।",
+  "linktitle": "TS",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-ts-bn"
+    }
+  },
+  "lastmod": "2021-08-27"
 }
 
 ## একটি TS ফাইল কি?

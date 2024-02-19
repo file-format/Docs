@@ -1,20 +1,31 @@
 {
-  "date" : "2020-01-10",
-  "keywords" : [ "cd", ".cd","what is a cd file","how to open cd file", "extension", "file", "cd file","cd file format",  "cd file extension"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "সিডি - ভিজ্যুয়াল স্টুডিও ক্লাস ডায়াগ্রাম ফাইল",
-  "description":"সিডি ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা সিডি ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "CD",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
-}
-},
-  "lastmod" : "2021-06-24"
+  "date": "2020-01-10",
+  "keywords": [
+    "cd",
+    ".cd",
+    "what is a cd file",
+    "how to open cd file",
+    "extension",
+    "file",
+    "cd file",
+    "cd file format",
+    "cd file extension"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "সিডি - ভিজ্যুয়াল স্টুডিও ক্লাস ডায়াগ্রাম ফাইল",
+  "description": "সিডি ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা সিডি ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "CD",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-cd-bn"
+    }
+  },
+  "lastmod": "2021-06-24"
 }
 
 ## সিডি ফাইল কি?

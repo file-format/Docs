@@ -1,20 +1,34 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "yml", ".yml","what is a yml file","how to open yml file", "extension", "file", "yml file","yml file format",  ".yaml extension", "yml vs json" ,"yml file example", "docker yml file example"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : " YML ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি একটি YML ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "YML - YAML ডকুমেন্ট ফাইল ফরম্যাট",
-  "linktitle" : "YML",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
-}
-},
-  "lastmod" : "2022-02-11"
+  "date": "2019-10-11",
+  "keywords": [
+    "yml",
+    ".yml",
+    "what is a yml file",
+    "how to open yml file",
+    "extension",
+    "file",
+    "yml file",
+    "yml file format",
+    ".yaml extension",
+    "yml vs json",
+    "yml file example",
+    "docker yml file example"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": " YML ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি একটি YML ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "YML - YAML ডকুমেন্ট ফাইল ফরম্যাট",
+  "linktitle": "YML",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-yml-bn"
+    }
+  },
+  "lastmod": "2022-02-11"
 }
 
 ## একটি YML ফাইল কি?

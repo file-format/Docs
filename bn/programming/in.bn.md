@@ -1,19 +1,20 @@
 {
-  "date" : "2022-04-26",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ফাইল ফরম্যাটে - অটোকনফ ইনপুট ফাইল",
-  "description":"IN ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি IN ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "IN",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
-}
-},
-  "lastmod" : "2022-04-26"
+  "date": "2022-04-26",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "ফাইল ফরম্যাটে - অটোকনফ ইনপুট ফাইল",
+  "description": "IN ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি IN ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "IN",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-in-bn"
+    }
+  },
+  "lastmod": "2022-04-26"
 }
 
 ## একটি IN ফাইল কি?

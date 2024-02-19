@@ -1,20 +1,28 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "c++", "file", "extension", "file format", "C++", "Programming Language" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "CPP - C++ সোর্স কোড ফাইল",
-  "description":"CPP ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি CPP ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "CPP",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "keywords": [
+    "c++",
+    "file",
+    "extension",
+    "file format",
+    "C++",
+    "Programming Language"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "CPP - C++ সোর্স কোড ফাইল",
+  "description": "CPP ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি CPP ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "CPP",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-cpp-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি C++ ফাইল কি?

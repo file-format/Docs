@@ -1,19 +1,20 @@
 {
-  "date" : "2022-11-06",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "AS3PROJ - FlashDevelop ActionScript 3 প্রজেক্ট ফাইল ফরম্যাট",
-  "description":"AS3PROJ ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা AS3PROJ ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "AS3PROJ",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
-}
-},
-  "lastmod" : "2022-11-06"
+  "date": "2022-11-06",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "AS3PROJ - FlashDevelop ActionScript 3 প্রজেক্ট ফাইল ফরম্যাট",
+  "description": "AS3PROJ ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা AS3PROJ ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "AS3PROJ",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-as3proj-bn"
+    }
+  },
+  "lastmod": "2022-11-06"
 }
 
 ## একটি AS3PROJ ফাইল কি?

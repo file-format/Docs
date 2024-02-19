@@ -1,20 +1,31 @@
 {
-  "date" : "2021-08-24", 
-  "keywords" : [ "vbs", "file", "extension", "file format", "Visual Basic Script", "Programming Guide", "vbs example", "Microsoft Visual Basic", "VBScript" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "VBS - ভিজ্যুয়াল বেসিক স্ক্রিপ্ট ফাইল",
-  "description":"ভিবিএস ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা ভিবিএস ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "VBS",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
-}
-},
-  "lastmod" : "2021-08-24"
+  "date": "2021-08-24",
+  "keywords": [
+    "vbs",
+    "file",
+    "extension",
+    "file format",
+    "Visual Basic Script",
+    "Programming Guide",
+    "vbs example",
+    "Microsoft Visual Basic",
+    "VBScript"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "VBS - ভিজ্যুয়াল বেসিক স্ক্রিপ্ট ফাইল",
+  "description": "ভিবিএস ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা ভিবিএস ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "VBS",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-vbs-bn"
+    }
+  },
+  "lastmod": "2021-08-24"
 }
 
 ## একটি VBS ফাইল কি?

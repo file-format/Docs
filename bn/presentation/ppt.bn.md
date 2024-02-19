@@ -1,20 +1,30 @@
 {
-  "date" : "2019-12-13",
-  "keywords" : [ "ppt file", "ppt file format", "what is a ppt file", "file", "ppt example", "ppt file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"পিপিটি ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা পিপিটি ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "PPT - পাওয়ারপয়েন্ট ফাইল ফরম্যাট",
-  "linktitle" : "PPT",
-  "menu" : {
-    "docs" : {
-      "parent" : "presentation"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-12-13",
+  "keywords": [
+    "ppt file",
+    "ppt file format",
+    "what is a ppt file",
+    "file",
+    "ppt example",
+    "ppt file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "পিপিটি ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা পিপিটি ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "PPT - পাওয়ারপয়েন্ট ফাইল ফরম্যাট",
+  "linktitle": "PPT",
+  "menu": {
+    "docs": {
+      "parent": "presentation",
+      "identifier": "presentation-ppt-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি PPT ফাইল কি?

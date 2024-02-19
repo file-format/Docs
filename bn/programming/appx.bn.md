@@ -1,20 +1,27 @@
 {
-  "date" : "2021-04-22",
-  "keywords": [ "appx file", "extension", "format","how to open appx file","appx file format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "APPX - একটি APPX ফাইল কি?",
-  "description":"APPX ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি APPX ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "APPX",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
-}
-},
-  "lastmod" : "2021-12-16"
+  "date": "2021-04-22",
+  "keywords": [
+    "appx file",
+    "extension",
+    "format",
+    "how to open appx file",
+    "appx file format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "APPX - একটি APPX ফাইল কি?",
+  "description": "APPX ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি APPX ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "APPX",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-appx-bn"
+    }
+  },
+  "lastmod": "2021-12-16"
 }
 
 ## একটি APPX ফাইল কি?

@@ -1,20 +1,28 @@
 {
-  "date" : "2022-03-21",
-  "keywords" : [ "cxx", "file", "extension", "file format", "Cxx", "Programming Language" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "CXX - C++ সোর্স কোড ফাইল",
-  "description":"CXX ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি CXX ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "CXX",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
-}
-},
-  "lastmod" : "2022-03-21"
+  "date": "2022-03-21",
+  "keywords": [
+    "cxx",
+    "file",
+    "extension",
+    "file format",
+    "Cxx",
+    "Programming Language"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "CXX - C++ সোর্স কোড ফাইল",
+  "description": "CXX ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি CXX ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "CXX",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-cxx-bn"
+    }
+  },
+  "lastmod": "2022-03-21"
 }
 
 ## একটি CXX ফাইল কি?

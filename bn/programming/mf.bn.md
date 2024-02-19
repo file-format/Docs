@@ -1,20 +1,27 @@
 {
-  "date" : "2019-10-11",
-  "keywords": [ "mf file", "mf", "extension", "format", "mf file format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "MF - জাভা ম্যানিফেস্ট ফাইল ফরম্যাট",
-  "description":"MF ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি MF ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "MF",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
-}
-},
-  "lastmod" : "2020-09-10"
+  "date": "2019-10-11",
+  "keywords": [
+    "mf file",
+    "mf",
+    "extension",
+    "format",
+    "mf file format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "MF - জাভা ম্যানিফেস্ট ফাইল ফরম্যাট",
+  "description": "MF ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি MF ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "MF",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-mf-bn"
+    }
+  },
+  "lastmod": "2020-09-10"
 }
 
 ## একটি MF ফাইল কি?

@@ -1,20 +1,28 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "vcxproj", "file", "extension", "file format", "Visual C++ Project", "Programming Guide" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "VCXPROJ",
-  "description":"VCXPROJ ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা VCXPROJ ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "VCXPROJ",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
-}
-},
-  "lastmod" : "2020-09-10"
+  "date": "2019-10-11",
+  "keywords": [
+    "vcxproj",
+    "file",
+    "extension",
+    "file format",
+    "Visual C++ Project",
+    "Programming Guide"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "VCXPROJ",
+  "description": "VCXPROJ ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা VCXPROJ ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "VCXPROJ",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-vcxproj-bn"
+    }
+  },
+  "lastmod": "2020-09-10"
 }
 
 ## একটি VCXPROJ ফাইল কি?

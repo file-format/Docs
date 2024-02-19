@@ -1,19 +1,20 @@
 {
-  "date" : "2022-04-11",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "আরএসটি ফাইল ফরম্যাট- পুনর্গঠিত পাঠ্য ফাইল",
-  "description":"আরএসটি ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা আরএসটি ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "RST",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
-}
-},
-  "lastmod" : "2022-04-11"
+  "date": "2022-04-11",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "আরএসটি ফাইল ফরম্যাট- পুনর্গঠিত পাঠ্য ফাইল",
+  "description": "আরএসটি ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা আরএসটি ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "RST",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-rst-bn"
+    }
+  },
+  "lastmod": "2022-04-11"
 }
 
 ## একটি RST ফাইল কি?

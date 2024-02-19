@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ ".swf", "SWF", "Apple swift", "file", "extension", "file format", "apple swift tutorial", "programming guide" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "SWIFT - অ্যাপল সোর্স কোড ফাইল",
-  "description":"SWIFT ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি SWIFT ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "SWIFT",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
-}
-},
-  "lastmod" : "2020-09-10"
+  "date": "2019-10-11",
+  "keywords": [
+    ".swf",
+    "SWF",
+    "Apple swift",
+    "file",
+    "extension",
+    "file format",
+    "apple swift tutorial",
+    "programming guide"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "SWIFT - অ্যাপল সোর্স কোড ফাইল",
+  "description": "SWIFT ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি SWIFT ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "SWIFT",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-swift-bn"
+    }
+  },
+  "lastmod": "2020-09-10"
 }
 
 ## একটি সুইফট ফাইল কি?

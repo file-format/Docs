@@ -1,19 +1,20 @@
 {
-  "date" : "2022-06-02",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "RBXM - রুবি জাভাস্ক্রিপ্ট ফাইল",
-  "description":"RBXM ফাইল ফরম্যাট কি সম্পর্কে জানুন?",
-  "linktitle" : "RBXM",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
-}
-},
-  "lastmod" : "2022-06-02"
+  "date": "2022-06-02",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "RBXM - রুবি জাভাস্ক্রিপ্ট ফাইল",
+  "description": "RBXM ফাইল ফরম্যাট কি সম্পর্কে জানুন?",
+  "linktitle": "RBXM",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-rbxm-bn"
+    }
+  },
+  "lastmod": "2022-06-02"
 }
 
 ## একটি RBXM ফাইল কি?

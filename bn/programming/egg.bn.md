@@ -1,19 +1,20 @@
 {
-  "date" : "2022-03-15",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "EGG ফাইল ফরম্যাট - পাইথন ডিস্ট্রিবিউশন ফাইল",
-  "description":"ইজিজি ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা ইজিজি ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "EGG",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
-}
-},
-  "lastmod" : "2022-03-15"
+  "date": "2022-03-15",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "EGG ফাইল ফরম্যাট - পাইথন ডিস্ট্রিবিউশন ফাইল",
+  "description": "ইজিজি ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা ইজিজি ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "EGG",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-egg-bn"
+    }
+  },
+  "lastmod": "2022-03-15"
 }
 
 ## একটি EGG ফাইল কি?

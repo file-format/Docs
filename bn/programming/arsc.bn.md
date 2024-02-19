@@ -1,20 +1,32 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "arsc", ".arsc","what is a arsc file","how to open arsc file", "extension", "file", "arsc file","arsc file format",  "arsc file extension","arsc File Example"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ARSC - অ্যান্ড্রয়েড প্যাকেজ রিসোর্স টেবিল ফাইল ",
-  "description":"ARSC ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা ARSC ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "ARSC",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
-}
-},
-  "lastmod" : "2021-06-22"
+  "date": "2019-10-11",
+  "keywords": [
+    "arsc",
+    ".arsc",
+    "what is a arsc file",
+    "how to open arsc file",
+    "extension",
+    "file",
+    "arsc file",
+    "arsc file format",
+    "arsc file extension",
+    "arsc File Example"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "ARSC - অ্যান্ড্রয়েড প্যাকেজ রিসোর্স টেবিল ফাইল ",
+  "description": "ARSC ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা ARSC ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "ARSC",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-arsc-bn"
+    }
+  },
+  "lastmod": "2021-06-22"
 }
 
 ## একটি ARSC ফাইল কি?

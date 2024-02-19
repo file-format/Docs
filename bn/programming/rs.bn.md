@@ -1,20 +1,31 @@
 {
-  "date" : "2021-09-01", 
-  "keywords" : [ "RS", "file", "extension", "file format", "Rust programming language", "Programming Guide", "RS example", "Rust", "VBScript" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "আরএস - মরিচা প্রোগ্রামিং ফাইল",
-  "description":"আরএস ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা আরএস ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "RS",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
-}
-},
-  "lastmod" : "2021-09-01"
+  "date": "2021-09-01",
+  "keywords": [
+    "RS",
+    "file",
+    "extension",
+    "file format",
+    "Rust programming language",
+    "Programming Guide",
+    "RS example",
+    "Rust",
+    "VBScript"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "আরএস - মরিচা প্রোগ্রামিং ফাইল",
+  "description": "আরএস ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা আরএস ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "RS",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-rs-bn"
+    }
+  },
+  "lastmod": "2021-09-01"
 }
 
 ## একটি RS ফাইল কি?

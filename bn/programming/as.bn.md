@@ -1,20 +1,32 @@
 {
-  "date" : "2021-08-31", 
-  "keywords" : [ "AS", "file", "extension", "file format", "", "Programming Guide", "AS example", "Аdоbe Flаsh", "ActionScript", "Mасrоmediа Flаsh" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "AS - অ্যাকশনস্ক্রিপ্ট ফাইল ফরম্যাট",
-  "description":"AS ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি AS ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "AS",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
-}
-},
-  "lastmod" : "2021-08-31"
+  "date": "2021-08-31",
+  "keywords": [
+    "AS",
+    "file",
+    "extension",
+    "file format",
+    "",
+    "Programming Guide",
+    "AS example",
+    "Аdоbe Flаsh",
+    "ActionScript",
+    "Mасrоmediа Flаsh"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "AS - অ্যাকশনস্ক্রিপ্ট ফাইল ফরম্যাট",
+  "description": "AS ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি AS ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "AS",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-as-bn"
+    }
+  },
+  "lastmod": "2021-08-31"
 }
 
 ## একটি AS ফাইল কি? ##

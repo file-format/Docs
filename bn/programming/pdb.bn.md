@@ -1,20 +1,29 @@
 {
-  "date" : "2019-10-11",
-  "keywords": [ "pdb file", "pdb", "extension", "format", "What is a pdb file", "pdb file format", "PDB metadata" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "PDB ফাইল ফরম্যাট - একটি প্রোগ্রাম ডাটাবেস ফাইল",
-  "description":"PDB ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি PDB ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "PDB",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
-}
-},
-  "lastmod" : "2020-09-10"
+  "date": "2019-10-11",
+  "keywords": [
+    "pdb file",
+    "pdb",
+    "extension",
+    "format",
+    "What is a pdb file",
+    "pdb file format",
+    "PDB metadata"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "PDB ফাইল ফরম্যাট - একটি প্রোগ্রাম ডাটাবেস ফাইল",
+  "description": "PDB ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি PDB ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "PDB",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-pdb-bn"
+    }
+  },
+  "lastmod": "2020-09-10"
 }
 
 ## একটি PDB ফাইল কি?

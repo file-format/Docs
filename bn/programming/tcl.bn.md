@@ -1,20 +1,32 @@
 {
-  "date" : "2021-09-02", 
-  "keywords" : [ "TCL", "file", "extension", "file format", "tiсkle", "Programming Guide", "tcl example", "TCL language ", "initiаlism", "Tооl Соmmаnd Lаnguаge" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "TCL - Tool Соmmаnd ভাষা ফাইল",
-  "description":"TCL ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি TCL ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "TCL",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
-}
-},
-  "lastmod" : "2021-09-02"
+  "date": "2021-09-02",
+  "keywords": [
+    "TCL",
+    "file",
+    "extension",
+    "file format",
+    "tiсkle",
+    "Programming Guide",
+    "tcl example",
+    "TCL language ",
+    "initiаlism",
+    "Tооl Соmmаnd Lаnguаge"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "TCL - Tool Соmmаnd ভাষা ফাইল",
+  "description": "TCL ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি TCL ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "TCL",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-tcl-bn"
+    }
+  },
+  "lastmod": "2021-09-02"
 }
 
 ## একটি TCL ফাইল কি?

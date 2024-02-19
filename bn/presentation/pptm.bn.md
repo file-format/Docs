@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "pptm file", "pptm file format", "what is an pptm file", "file", "pptm example", "pptm file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "PPTM - ম্যাক্রো-সক্ষম পাওয়ারপয়েন্ট প্রেজেন্টেশন ফাইল ফরম্যাট",
-  "description":"পিপিটিএম ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা পিপিটিএম ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "PPTM",
-  "menu" : {
-    "docs" : {
-      "parent" : "presentation"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "keywords": [
+    "pptm file",
+    "pptm file format",
+    "what is an pptm file",
+    "file",
+    "pptm example",
+    "pptm file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "PPTM - ম্যাক্রো-সক্ষম পাওয়ারপয়েন্ট প্রেজেন্টেশন ফাইল ফরম্যাট",
+  "description": "পিপিটিএম ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা পিপিটিএম ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "PPTM",
+  "menu": {
+    "docs": {
+      "parent": "presentation",
+      "identifier": "presentation-pptm-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 PPTM এক্সটেনশন সহ ফাইলগুলি হল ম্যাক্রো-সক্ষম প্রেজেন্টেশন ফাইল যা Microsoft PowerPoint 2007 বা উচ্চতর সংস্করণের সাথে তৈরি করা হয়। এগুলি [PPTX](/presentation/pptx/) ফাইলগুলির মত পার্থক্যের সাথে যে পাশ্বর্ীয় ম্যাক্রোগুলি চালাতে পারে না যদিও সেগুলিতে ম্যাক্রো থাকতে পারে৷ PPTM ফাইলগুলি মাইক্রোসফ্ট পাওয়ারপয়েন্টে খোলার মাধ্যমে এবং বিষয়বস্তু আপডেট করে সম্পাদনা করা যেতে পারে। আরেকটি অনুরূপ বিন্যাস হল PPSM কিন্তু এটি ডিফল্টরূপে শুধুমাত্র পঠনযোগ্য এবং খোলা হলে স্লাইডশো শুরু হয়। পিপিটিএম, পিপিটিএক্সের মতো, পাঠ্য, ছবি, ভিডিও, গ্রাফ এবং অন্যান্য সম্পর্কিত উপাদানের মতো বিভিন্ন উপস্থাপনা উপাদানগুলির জন্য স্লাইড রয়েছে।

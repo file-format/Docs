@@ -1,20 +1,34 @@
 {
-  "date" : "2021-09-13", 
-  "keywords" : [ "ici", "file", "extension", "file format", "ICI implementation", "Programming Guide", "ici example", "ICI programming language", "modules of ICI", "data model of ICI", "documentation of ICI", "ICI language" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ICI - প্রোগ্রামিং ল্যাঙ্গুয়েজ ফাইল",
-  "description":"আইসিআই ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা আইসিআই ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "ICI",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
-}
-},
-  "lastmod" : "2021-09-13"
+  "date": "2021-09-13",
+  "keywords": [
+    "ici",
+    "file",
+    "extension",
+    "file format",
+    "ICI implementation",
+    "Programming Guide",
+    "ici example",
+    "ICI programming language",
+    "modules of ICI",
+    "data model of ICI",
+    "documentation of ICI",
+    "ICI language"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "ICI - প্রোগ্রামিং ল্যাঙ্গুয়েজ ফাইল",
+  "description": "আইসিআই ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা আইসিআই ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "ICI",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-ici-bn"
+    }
+  },
+  "lastmod": "2021-09-13"
 }
 
 ## একটি ICI ফাইল কি?

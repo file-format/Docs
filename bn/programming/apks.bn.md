@@ -1,21 +1,29 @@
 
 {
-  "date" : "2022-02-06",
-  "keywords": [ ".apks file", "extension", "format","APK Set Archive", "how to open .apks file","apks file format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "APKS ফাইল - APK সেট আর্কাইভ",
-  "description":"একটি APKS ফাইল কি সম্পর্কে জানুন?",
-  "linktitle" : "APKS",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
-}
-},
-  "lastmod" : "2022-02-06"
+  "date": "2022-02-06",
+  "keywords": [
+    ".apks file",
+    "extension",
+    "format",
+    "APK Set Archive",
+    "how to open .apks file",
+    "apks file format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "APKS ফাইল - APK সেট আর্কাইভ",
+  "description": "একটি APKS ফাইল কি সম্পর্কে জানুন?",
+  "linktitle": "APKS",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-apks-bn"
+    }
+  },
+  "lastmod": "2022-02-06"
 }
 
 ## একটি APKS ফাইল কি?

@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "ppsm file", "ppsm file format", "what is a ppsm file", "file", "ppsm example", "ppsm file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "PPSM - ম্যাক্রো-সক্ষম পাওয়ারপয়েন্ট উপস্থাপনা ফাইল",
-  "description":"পিপিএসএম ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা PPSM ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "PPSM",
-  "menu" : {
-    "docs" : {
-      "parent" : "presentation"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "keywords": [
+    "ppsm file",
+    "ppsm file format",
+    "what is a ppsm file",
+    "file",
+    "ppsm example",
+    "ppsm file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "PPSM - ম্যাক্রো-সক্ষম পাওয়ারপয়েন্ট উপস্থাপনা ফাইল",
+  "description": "পিপিএসএম ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা PPSM ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "PPSM",
+  "menu": {
+    "docs": {
+      "parent": "presentation",
+      "identifier": "presentation-ppsm-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি PPSM ফাইল কি?

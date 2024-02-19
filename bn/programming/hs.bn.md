@@ -1,20 +1,34 @@
 {
-  "date" : "2021-04-21",
-  "keywords": [ "what is a HS file", "tutorials on HS","HS means","HS", "HS files", "extension", "format", "HS tutorial", ".hs", "HS example","hs file extension" ,"how to open a hs file"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "HS - হাসকেল স্ক্রিপ্ট ফাইল ফরম্যাট",
-  "description":"একটি HS ফাইল ফরম্যাট এবং APIগুলি কী তা সম্পর্কে জানুন যা HS ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "HS",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
-}
-},
-  "lastmod" : "2021-06-15"
+  "date": "2021-04-21",
+  "keywords": [
+    "what is a HS file",
+    "tutorials on HS",
+    "HS means",
+    "HS",
+    "HS files",
+    "extension",
+    "format",
+    "HS tutorial",
+    ".hs",
+    "HS example",
+    "hs file extension",
+    "how to open a hs file"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "HS - হাসকেল স্ক্রিপ্ট ফাইল ফরম্যাট",
+  "description": "একটি HS ফাইল ফরম্যাট এবং APIগুলি কী তা সম্পর্কে জানুন যা HS ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "HS",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-hs-bn"
+    }
+  },
+  "lastmod": "2021-06-15"
 }
 
 # HS - জাভা হেল্পসেট ফাইল ফরম্যাট

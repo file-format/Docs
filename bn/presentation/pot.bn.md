@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "pot file", "pot file format", "what is a pot file", "file", "pot example", "pot file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "POT - Microsoft PowerPOint Template File Format",
-  "description":"Learn about POT file format and APIs that can create and open POT files.",
-  "linktitle" : "POT",
-  "menu" : {
-    "docs" : {
-      "parent" : "presentation"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "keywords": [
+    "pot file",
+    "pot file format",
+    "what is a pot file",
+    "file",
+    "pot example",
+    "pot file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "POT - Microsoft PowerPOint Template File Format",
+  "description": "Learn about POT file format and APIs that can create and open POT files.",
+  "linktitle": "POT",
+  "menu": {
+    "docs": {
+      "parent": "presentation",
+      "identifier": "presentation-pot-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি POT ফাইল কি?

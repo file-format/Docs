@@ -1,20 +1,31 @@
 {
-  "date" : "2020-01-10",
-  "keywords" : [ "c", ".c","what is a c file","how to open c file", "extension", "file", "c file","c file format",  "c file extension"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "C - C ভাষা প্রোগ্রামিং ফাইল",
-  "description":"C ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি C ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "C",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
-}
-},
-  "lastmod" : "2020-01-10"
+  "date": "2020-01-10",
+  "keywords": [
+    "c",
+    ".c",
+    "what is a c file",
+    "how to open c file",
+    "extension",
+    "file",
+    "c file",
+    "c file format",
+    "c file extension"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "C - C ভাষা প্রোগ্রামিং ফাইল",
+  "description": "C ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি C ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "C",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-c-bn"
+    }
+  },
+  "lastmod": "2020-01-10"
 }
 
 ## একটি সি ফাইল কি?

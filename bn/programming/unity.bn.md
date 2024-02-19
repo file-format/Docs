@@ -1,19 +1,20 @@
 {
-  "date" : "2022-09-22",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ইউনিটি ফাইল - ইউনিটি সিন ফাইল",
-  "description":"UNITY ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি UNITY ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "UNITY",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
-}
-},
-  "lastmod" : "2022-09-22"
+  "date": "2022-09-22",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "ইউনিটি ফাইল - ইউনিটি সিন ফাইল",
+  "description": "UNITY ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি UNITY ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "UNITY",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-unity-bn"
+    }
+  },
+  "lastmod": "2022-09-22"
 }
 
 ## UNITY ফাইল কি?

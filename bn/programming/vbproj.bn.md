@@ -1,20 +1,28 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "vbproj", "file", "extension", "file format", "VB Project File", "Programming Guide" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "VBPROJ",
-  "description":"VBPROJ ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা VBPROJ ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "VBPROJ",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
-}
-},
-  "lastmod" : "2020-09-10"
+  "date": "2019-10-11",
+  "keywords": [
+    "vbproj",
+    "file",
+    "extension",
+    "file format",
+    "VB Project File",
+    "Programming Guide"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "VBPROJ",
+  "description": "VBPROJ ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা VBPROJ ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "VBPROJ",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-vbproj-bn"
+    }
+  },
+  "lastmod": "2020-09-10"
 }
 
 ## একটি VBPROJ ফাইল কি?

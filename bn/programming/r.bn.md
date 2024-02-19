@@ -1,20 +1,35 @@
 {
-  "date" : "2021-09-06", 
-  "keywords" : [ "R", "file", "extension", "file format", "libraries of R", "Programming Guide", "r example", "code of R", "libraries of R", "Microsoft R", "R code", "R language", "RStudio" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "R - প্রোগ্রামিং ল্যাঙ্গুয়েজ ফাইল",
-  "description":"R ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা R ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "R",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
-}
-},
-  "lastmod" : "2021-09-06"
+  "date": "2021-09-06",
+  "keywords": [
+    "R",
+    "file",
+    "extension",
+    "file format",
+    "libraries of R",
+    "Programming Guide",
+    "r example",
+    "code of R",
+    "libraries of R",
+    "Microsoft R",
+    "R code",
+    "R language",
+    "RStudio"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "R - প্রোগ্রামিং ল্যাঙ্গুয়েজ ফাইল",
+  "description": "R ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা R ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "R",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-r-bn"
+    }
+  },
+  "lastmod": "2021-09-06"
 }
 
 ## একটি R ফাইল কি?

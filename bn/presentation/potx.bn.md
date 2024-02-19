@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "potx file", "potx file format", "what is a potx file", "file", "potx example", "potx file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "POTX - মাইক্রোসফট পাওয়ারপয়েন্ট প্রেজেন্টেশন টেমপ্লেট",
-  "description":"POTX ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা POTX ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "POTX",
-  "menu" : {
-    "docs" : {
-      "parent" : "presentation"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "keywords": [
+    "potx file",
+    "potx file format",
+    "what is a potx file",
+    "file",
+    "potx example",
+    "potx file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "POTX - মাইক্রোসফট পাওয়ারপয়েন্ট প্রেজেন্টেশন টেমপ্লেট",
+  "description": "POTX ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা POTX ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "POTX",
+  "menu": {
+    "docs": {
+      "parent": "presentation",
+      "identifier": "presentation-potx-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি POTX ফাইল কি?

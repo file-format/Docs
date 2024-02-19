@@ -1,20 +1,26 @@
 {
-  "date" : "2021-04-22",
-  "keywords": [ ".pas file", "pas file format", "extension", "format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "PAS - ডেলফি ইউনিট সোর্স ফাইল",
-  "description":"PAS উদাহরণ সহ PAS ফাইল বিন্যাস সম্পর্কে জানুন এবং এপিআইগুলি যা PAS ফাইলগুলি তৈরি এবং খুলতে পারে।",
-  "linktitle" : "PAS",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
-}
-},
-  "lastmod" : "2021-04-22"
+  "date": "2021-04-22",
+  "keywords": [
+    ".pas file",
+    "pas file format",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "PAS - ডেলফি ইউনিট সোর্স ফাইল",
+  "description": "PAS উদাহরণ সহ PAS ফাইল বিন্যাস সম্পর্কে জানুন এবং এপিআইগুলি যা PAS ফাইলগুলি তৈরি এবং খুলতে পারে।",
+  "linktitle": "PAS",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-pas-bn"
+    }
+  },
+  "lastmod": "2021-04-22"
 }
 
 ## একটি PAS ফাইল কি?

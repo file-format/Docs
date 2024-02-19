@@ -1,20 +1,27 @@
 {
-  "date" : "2019-10-11",
-  "keywords": [ "M file", "M", "extension", "format", "M file format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "M - Matlab সোর্স কোড ফাইল",
-  "description":"Matlab .m সোর্স কোড ফাইল এবং API সম্পর্কে জানুন যেগুলি MF ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "M",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
-}
-},
-  "lastmod" : "2020-09-10"
+  "date": "2019-10-11",
+  "keywords": [
+    "M file",
+    "M",
+    "extension",
+    "format",
+    "M file format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "M - Matlab সোর্স কোড ফাইল",
+  "description": "Matlab .m সোর্স কোড ফাইল এবং API সম্পর্কে জানুন যেগুলি MF ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "M",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-m-bn"
+    }
+  },
+  "lastmod": "2020-09-10"
 }
 
 # M - Matlab সোর্স কোড ফাইল

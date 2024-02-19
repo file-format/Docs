@@ -1,19 +1,20 @@
 {
-  "date" : "2022-04-07",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "HAML ফাইল ফরম্যাট - হ্যামল সোর্স কোড ফাইল",
-  "description":"HAML ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা HAML ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "HAML",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
-}
-},
-  "lastmod" : "2022-04-07"
+  "date": "2022-04-07",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "HAML ফাইল ফরম্যাট - হ্যামল সোর্স কোড ফাইল",
+  "description": "HAML ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা HAML ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "HAML",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-haml-bn"
+    }
+  },
+  "lastmod": "2022-04-07"
 }
 
 ## একটি HAML ফাইল কি?

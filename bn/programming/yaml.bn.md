@@ -1,20 +1,34 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "yaml", ".yaml","what is a yaml file","how to open yaml file", "extension", "file", "yaml file","yaml file format",  ".yaml extension", "yaml vs json" ,"YAML file example", "docker yaml file example"],
-  "author" : {
-    "display_name" : "Muhammad Ahmad Chishti"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : " YAML ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা একটি YAML ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "YAML ফাইল ফরম্যাট",
-  "linktitle" : "YAML",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
-}
-},
-  "lastmod" : "2021-05-05"
+  "date": "2019-10-11",
+  "keywords": [
+    "yaml",
+    ".yaml",
+    "what is a yaml file",
+    "how to open yaml file",
+    "extension",
+    "file",
+    "yaml file",
+    "yaml file format",
+    ".yaml extension",
+    "yaml vs json",
+    "YAML file example",
+    "docker yaml file example"
+  ],
+  "author": {
+    "display_name": "Muhammad Ahmad Chishti"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": " YAML ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা একটি YAML ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "YAML ফাইল ফরম্যাট",
+  "linktitle": "YAML",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-yaml-bn"
+    }
+  },
+  "lastmod": "2021-05-05"
 }
 
 ## একটি YAML ফাইল কি? ##

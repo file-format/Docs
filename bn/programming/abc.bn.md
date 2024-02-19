@@ -1,21 +1,29 @@
 
 {
-  "date" : "2021-12-14",
-  "keywords": [ ".abc file", "extension", "format","ActionScript Byte Code File", "how to open .abc file","abc file format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ABC - অ্যাকশনস্ক্রিপ্ট বাইট কোড ফাইল",
-  "description":"উদাহরণ সহ এবিসি ফাইল ফরম্যাট কী এবং এবিসি ফাইলগুলি তৈরি এবং খুলতে পারে এমন APIগুলি সম্পর্কে জানুন৷",
-  "linktitle" : "ABC",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
-}
-},
-  "lastmod" : "2021-12-14"
+  "date": "2021-12-14",
+  "keywords": [
+    ".abc file",
+    "extension",
+    "format",
+    "ActionScript Byte Code File",
+    "how to open .abc file",
+    "abc file format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "ABC - অ্যাকশনস্ক্রিপ্ট বাইট কোড ফাইল",
+  "description": "উদাহরণ সহ এবিসি ফাইল ফরম্যাট কী এবং এবিসি ফাইলগুলি তৈরি এবং খুলতে পারে এমন APIগুলি সম্পর্কে জানুন৷",
+  "linktitle": "ABC",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-abc-bn"
+    }
+  },
+  "lastmod": "2021-12-14"
 }
 
 ## একটি ABC ফাইল কি?

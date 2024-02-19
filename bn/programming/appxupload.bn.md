@@ -1,20 +1,27 @@
 {
-  "date" : "2021-04-22",
-  "keywords": [ "appxupload file", "extension", "format","how to open appxupload file","appxupload file format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "APPXUPLOAD - একটি .appxupload ফাইল কি?",
-  "description":"APPXUPLOAD ফাইল ফরম্যাট এবং APIগুলি সম্পর্কে জানুন যা APPXUPLOAD ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "APPXUPLOAD",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
-}
-},
-  "lastmod" : "2021-12-20"
+  "date": "2021-04-22",
+  "keywords": [
+    "appxupload file",
+    "extension",
+    "format",
+    "how to open appxupload file",
+    "appxupload file format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "APPXUPLOAD - একটি .appxupload ফাইল কি?",
+  "description": "APPXUPLOAD ফাইল ফরম্যাট এবং APIগুলি সম্পর্কে জানুন যা APPXUPLOAD ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "APPXUPLOAD",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-appxupload-bn"
+    }
+  },
+  "lastmod": "2021-12-20"
 }
 
 ## একটি APPXUPLOAD ফাইল কি?

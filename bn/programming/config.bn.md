@@ -1,20 +1,34 @@
 {
-  "date" : "2021-04-23",
-  "keywords": [ "config File", "configuration files", "config File format", "extension", "format","git config file","Configuration files in Linux","what is a config file","Config file php", "ssh config file example", "aws config file example", "python config file example" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "CONFIG - কনফিগারেশন ফাইল",
-  "description":"CONFIG উদাহরণ সহ CONFIG ফাইল বিন্যাস সম্পর্কে জানুন এবং API গুলি যা CONFIG ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "CONFIG",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
-}
-},
-  "lastmod" : "2021-04-23"
+  "date": "2021-04-23",
+  "keywords": [
+    "config File",
+    "configuration files",
+    "config File format",
+    "extension",
+    "format",
+    "git config file",
+    "Configuration files in Linux",
+    "what is a config file",
+    "Config file php",
+    "ssh config file example",
+    "aws config file example",
+    "python config file example"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "CONFIG - কনফিগারেশন ফাইল",
+  "description": "CONFIG উদাহরণ সহ CONFIG ফাইল বিন্যাস সম্পর্কে জানুন এবং API গুলি যা CONFIG ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "CONFIG",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-config-bn"
+    }
+  },
+  "lastmod": "2021-04-23"
 }
 
 ## কনফিগ ফাইল কি?

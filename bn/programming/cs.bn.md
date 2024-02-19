@@ -1,20 +1,28 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "cs", "file", "extension", "file format", "CSharp", "Programming Language" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "CS - CSharp কোড ফাইল",
-  "description":"CS ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা CS ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "CS",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "keywords": [
+    "cs",
+    "file",
+    "extension",
+    "file format",
+    "CSharp",
+    "Programming Language"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "CS - CSharp কোড ফাইল",
+  "description": "CS ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা CS ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "CS",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-cs-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি CS ফাইল কি?

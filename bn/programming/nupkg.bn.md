@@ -1,19 +1,20 @@
 {
-  "date" : "2022-03-09",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "NUPKG ফাইল - NuGet প্যাকেজ ফাইল",
-  "description":"NUPKG ফাইল ফরম্যাট এবং APIগুলি সম্পর্কে জানুন যা NUPKG ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "NUPKG",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
-}
-},
-  "lastmod" : "2022-03-09"
+  "date": "2022-03-09",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "NUPKG ফাইল - NuGet প্যাকেজ ফাইল",
+  "description": "NUPKG ফাইল ফরম্যাট এবং APIগুলি সম্পর্কে জানুন যা NUPKG ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "NUPKG",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-nupkg-bn"
+    }
+  },
+  "lastmod": "2022-03-09"
 }
 
 ## একটি NUPKG ফাইল কি?

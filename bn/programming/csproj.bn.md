@@ -1,20 +1,28 @@
 {
-  "date" : "2019-10-11",
-  "keywords": [ "csproj file", "csproj", "extension", "format", "What is a csproj file", "csproj file format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "CSPROJ",
-  "description":"CSPROJ ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি CSPROJ ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "CSPROJ",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
-}
-},
-  "lastmod" : "2021-05-21"
+  "date": "2019-10-11",
+  "keywords": [
+    "csproj file",
+    "csproj",
+    "extension",
+    "format",
+    "What is a csproj file",
+    "csproj file format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "CSPROJ",
+  "description": "CSPROJ ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি CSPROJ ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "CSPROJ",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-csproj-bn"
+    }
+  },
+  "lastmod": "2021-05-21"
 }
 
 ## একটি CSProj ফাইল কি?

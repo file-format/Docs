@@ -1,20 +1,34 @@
 {
-  "date" : "2021-09-07", 
-  "keywords" : [ "PDE", "file", "extension", "file format", "proce55ing", "Programming Guide", "PDE example", "prосessing", "Processing Development Environment", "prосessing lаnguаge feаtures", "рrоgrаmming in prосessing", "language of prосessing" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "PDE - প্রসেসিং ডেভেলপমেন্ট এনভায়রনমেন্ট ফাইল",
-  "description":"PDE ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি PDE ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "PDE",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
-}
-},
-  "lastmod" : "2021-09-07"
+  "date": "2021-09-07",
+  "keywords": [
+    "PDE",
+    "file",
+    "extension",
+    "file format",
+    "proce55ing",
+    "Programming Guide",
+    "PDE example",
+    "prосessing",
+    "Processing Development Environment",
+    "prосessing lаnguаge feаtures",
+    "рrоgrаmming in prосessing",
+    "language of prосessing"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "PDE - প্রসেসিং ডেভেলপমেন্ট এনভায়রনমেন্ট ফাইল",
+  "description": "PDE ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি PDE ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "PDE",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-pde-bn"
+    }
+  },
+  "lastmod": "2021-09-07"
 }
 
 ## একটি PDE ফাইল কি?

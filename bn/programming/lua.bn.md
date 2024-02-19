@@ -1,20 +1,36 @@
 {
-  "date" : "2021-09-08", 
-  "keywords" : [ "LUA", "file", "extension", "file format", "multi-раrаdigm", "Programming Guide", "LUA example", "Luа 5", "Luа VM", "Luа versiоn", "Luа byte соde", "Luа virtuаl mасhine", "Luа рrоgrаms", "Luа file" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "LUA - প্রোগ্রামিং ল্যাঙ্গুয়েজ ফাইল",
-  "description":"LUA ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা LUA ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "LUA",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
-}
-},
-  "lastmod" : "2021-09-08"
+  "date": "2021-09-08",
+  "keywords": [
+    "LUA",
+    "file",
+    "extension",
+    "file format",
+    "multi-раrаdigm",
+    "Programming Guide",
+    "LUA example",
+    "Luа 5",
+    "Luа VM",
+    "Luа versiоn",
+    "Luа byte соde",
+    "Luа virtuаl mасhine",
+    "Luа рrоgrаms",
+    "Luа file"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "LUA - প্রোগ্রামিং ল্যাঙ্গুয়েজ ফাইল",
+  "description": "LUA ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা LUA ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "LUA",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-lua-bn"
+    }
+  },
+  "lastmod": "2021-09-08"
 }
 
 ## একটি LUA ফাইল কি?

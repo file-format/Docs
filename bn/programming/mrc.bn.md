@@ -1,20 +1,36 @@
 {
-  "date" : "2021-09-14", 
-  "keywords" : [ "mrc", "file", "extension", "file format", "mrc implementation", "Programming Guide", "mrc example", "mIRC", "mIRC scripting language", "files of INI", "mSL scripting language", "mIRC language", "mIRC scripts", "scripting language" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "MRC - mIRC স্ক্রিপ্ট ল্যাঙ্গুয়েজ ফাইল",
-  "description":"এমআরসি ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যেগুলি এমআরসি ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "MRC",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
-}
-},
-  "lastmod" : "2021-09-14"
+  "date": "2021-09-14",
+  "keywords": [
+    "mrc",
+    "file",
+    "extension",
+    "file format",
+    "mrc implementation",
+    "Programming Guide",
+    "mrc example",
+    "mIRC",
+    "mIRC scripting language",
+    "files of INI",
+    "mSL scripting language",
+    "mIRC language",
+    "mIRC scripts",
+    "scripting language"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "MRC - mIRC স্ক্রিপ্ট ল্যাঙ্গুয়েজ ফাইল",
+  "description": "এমআরসি ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যেগুলি এমআরসি ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "MRC",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-mrc-bn"
+    }
+  },
+  "lastmod": "2021-09-14"
 }
 
 ## একটি MRC ফাইল কি?

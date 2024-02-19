@@ -1,20 +1,33 @@
 {
-  "date" : "2021-09-16", 
-  "keywords" : [ "hta", "file", "extension", "file format", "hta implementation", "Programming Guide", "hta example", "HTML Application", "Hypertext Markup Language Application", "HTA files", "Microsoft HTML Application"],
-  "author" : {
-    "display_name" : "Sami Cheema"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "HTA - HTML অ্যাপ্লিকেশন ফাইল",
-  "description":"HTA ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি HTA ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "HTA",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
-}
-},
-  "lastmod" : "2021-09-16"
+  "date": "2021-09-16",
+  "keywords": [
+    "hta",
+    "file",
+    "extension",
+    "file format",
+    "hta implementation",
+    "Programming Guide",
+    "hta example",
+    "HTML Application",
+    "Hypertext Markup Language Application",
+    "HTA files",
+    "Microsoft HTML Application"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "HTA - HTML অ্যাপ্লিকেশন ফাইল",
+  "description": "HTA ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি HTA ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "HTA",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-hta-bn"
+    }
+  },
+  "lastmod": "2021-09-16"
 }
 
 ## একটি HTA ফাইল কি?

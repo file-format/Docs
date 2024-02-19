@@ -1,20 +1,34 @@
 {
-  "date" : "2021-04-21",
-  "keywords": [ "what is a jsp file", "tutorials on jsp","jsp means","jsp", "jsp files", "extension", "format", "jsp tutorial", ".jsp", "jsp example","jsp file extension" ,"how to open a jsp file"],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "JSP - জাভা সার্ভার পেজ ফাইল ফরম্যাট",
-  "description":"JSP উদাহরণ সহ JSP ফাইল বিন্যাস সম্পর্কে জানুন এবং JSP ফাইলগুলি তৈরি এবং খুলতে পারে এমন APIগুলি।",
-  "linktitle" : "JSP",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
-}
-},
-  "lastmod" : "2021-05-07"
+  "date": "2021-04-21",
+  "keywords": [
+    "what is a jsp file",
+    "tutorials on jsp",
+    "jsp means",
+    "jsp",
+    "jsp files",
+    "extension",
+    "format",
+    "jsp tutorial",
+    ".jsp",
+    "jsp example",
+    "jsp file extension",
+    "how to open a jsp file"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "JSP - জাভা সার্ভার পেজ ফাইল ফরম্যাট",
+  "description": "JSP উদাহরণ সহ JSP ফাইল বিন্যাস সম্পর্কে জানুন এবং JSP ফাইলগুলি তৈরি এবং খুলতে পারে এমন APIগুলি।",
+  "linktitle": "JSP",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-jsp-bn"
+    }
+  },
+  "lastmod": "2021-05-07"
 }
 
 ## একটি JSP ফাইল কি?

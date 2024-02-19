@@ -1,20 +1,27 @@
 {
-  "date" : "2021-04-22",
-  "keywords": [ "appxbundle file", "extension", "format","how to open appxbundle file","appxbundle file format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "appxbundle - একটি APPXBundle ফাইল কি?",
-  "description":"APPX ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা APPX ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "APPXBUNDLE",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
-}
-},
-  "lastmod" : "2021-12-19"
+  "date": "2021-04-22",
+  "keywords": [
+    "appxbundle file",
+    "extension",
+    "format",
+    "how to open appxbundle file",
+    "appxbundle file format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "appxbundle - একটি APPXBundle ফাইল কি?",
+  "description": "APPX ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা APPX ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "APPXBUNDLE",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-appxbundle-bn"
+    }
+  },
+  "lastmod": "2021-12-19"
 }
 
 ## একটি APPXBUNDLE ফাইল কি?

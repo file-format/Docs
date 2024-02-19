@@ -1,20 +1,30 @@
 {
-  "date" : "2019-12-13",
-  "keywords" : [ "pptx file", "pptx file format", "what is a pptx file", "file", "pptx example", "pptx file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"PPTX ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি PPTX ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "PPTX - পাওয়ারপয়েন্ট প্রেজেন্টেশন ফাইল ফরম্যাট",
-  "linktitle" : "PPTX",
-  "menu" : {
-    "docs" : {
-      "parent" : "presentation"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-12-13",
+  "keywords": [
+    "pptx file",
+    "pptx file format",
+    "what is a pptx file",
+    "file",
+    "pptx example",
+    "pptx file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "PPTX ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি PPTX ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "PPTX - পাওয়ারপয়েন্ট প্রেজেন্টেশন ফাইল ফরম্যাট",
+  "linktitle": "PPTX",
+  "menu": {
+    "docs": {
+      "parent": "presentation",
+      "identifier": "presentation-pptx-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি PPTX ফাইল কি?

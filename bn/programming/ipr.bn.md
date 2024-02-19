@@ -1,19 +1,20 @@
 {
-  "date" : "2021-09-13",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "আইপিআর ফাইল ফরম্যাট - ইন্টেলিজে আইডিইএ প্রকল্প ফাইল",
-  "description":"আইপিআর ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা আইপিআর ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "IPR",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
-}
-},
-  "lastmod" : "2021-09-13"
+  "date": "2021-09-13",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "আইপিআর ফাইল ফরম্যাট - ইন্টেলিজে আইডিইএ প্রকল্প ফাইল",
+  "description": "আইপিআর ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা আইপিআর ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "IPR",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-ipr-bn"
+    }
+  },
+  "lastmod": "2021-09-13"
 }
 
 ## একটি আইপিআর ফাইল কি? 

@@ -1,20 +1,36 @@
 {
-  "date" : "2021-09-15", 
-  "keywords" : [ "erb", "file", "extension", "file format", "erb implementation", "Programming Guide", "erb example", "eRuby", "eRuby file format", "eRuby language script", "eRuby templates", "erb language", "ERB Ruby language", "eRuby language" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ERB - eRuby ভাষা ফাইল",
-  "description":"ERB ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি ERB ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "ERB",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
-}
-},
-  "lastmod" : "2021-09-15"
+  "date": "2021-09-15",
+  "keywords": [
+    "erb",
+    "file",
+    "extension",
+    "file format",
+    "erb implementation",
+    "Programming Guide",
+    "erb example",
+    "eRuby",
+    "eRuby file format",
+    "eRuby language script",
+    "eRuby templates",
+    "erb language",
+    "ERB Ruby language",
+    "eRuby language"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "ERB - eRuby ভাষা ফাইল",
+  "description": "ERB ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি ERB ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "ERB",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-erb-bn"
+    }
+  },
+  "lastmod": "2021-09-15"
 }
 
 ## একটি ERB ফাইল কি?

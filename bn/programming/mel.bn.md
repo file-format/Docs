@@ -1,20 +1,29 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ ".mel", "Maya Embedded language","file", "extension", "file format", "Maya 3D", "Programming Guide" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "MEL - মায়া এমবেডেড ল্যাঙ্গুয়েজ ফাইল ফরম্যাট",
-  "description":"MEL ফাইল বিন্যাস এবং API সম্পর্কে জানুন যেগুলি MEL ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "MEL",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
-}
-},
-  "lastmod" : "2021-03-08"
+  "date": "2019-10-11",
+  "keywords": [
+    ".mel",
+    "Maya Embedded language",
+    "file",
+    "extension",
+    "file format",
+    "Maya 3D",
+    "Programming Guide"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "MEL - মায়া এমবেডেড ল্যাঙ্গুয়েজ ফাইল ফরম্যাট",
+  "description": "MEL ফাইল বিন্যাস এবং API সম্পর্কে জানুন যেগুলি MEL ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "MEL",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-mel-bn"
+    }
+  },
+  "lastmod": "2021-03-08"
 }
 
 ## একটি MEL ফাইল কি?

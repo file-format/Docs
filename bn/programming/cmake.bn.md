@@ -1,19 +1,20 @@
 {
-  "date" : "2022-04-04",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "CMAKE ফাইল ফরম্যাট",
-  "description":"CMAKE ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা CMAKE ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "CMAKE",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
-}
-},
-  "lastmod" : "2022-04-04"
+  "date": "2022-04-04",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "CMAKE ফাইল ফরম্যাট",
+  "description": "CMAKE ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা CMAKE ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "CMAKE",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-cmake-bn"
+    }
+  },
+  "lastmod": "2022-04-04"
 }
 
 ## একটি CMAKE ফাইল কি?

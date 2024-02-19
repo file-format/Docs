@@ -1,20 +1,31 @@
 {
-  "date" : "2019-10-11",
-   "keywords": [ "sln file", "how to run a sln file", "sln", "extension", "format", "What is sln file", "sln file format", "Visual Studio Solution", "Visual Studio solution VS project" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "SLN",
-  "description":"Learn about এসএলএন file format and APIs that can create and open এসএলএন files.",
-  "linktitle" : "SLN",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "keywords": [
+    "sln file",
+    "how to run a sln file",
+    "sln",
+    "extension",
+    "format",
+    "What is sln file",
+    "sln file format",
+    "Visual Studio Solution",
+    "Visual Studio solution VS project"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "SLN",
+  "description": "Learn about এসএলএন file format and APIs that can create and open এসএলএন files.",
+  "linktitle": "SLN",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-sln-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## এসএলএন ফাইল কি?

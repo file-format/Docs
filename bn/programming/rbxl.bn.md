@@ -1,19 +1,20 @@
 {
-  "date" : "2022-02-21",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"RBXL ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা RBXL ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "RBXL ফাইল - Roblox লোকেশন ফাইল",
-  "linktitle" : "RBXL",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
-}
-},
-  "lastmod" : "2022-02-21"
+  "date": "2022-02-21",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "RBXL ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা RBXL ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "RBXL ফাইল - Roblox লোকেশন ফাইল",
+  "linktitle": "RBXL",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-rbxl-bn"
+    }
+  },
+  "lastmod": "2022-02-21"
 }
 
 ## একটি RBXL ফাইল কি?
