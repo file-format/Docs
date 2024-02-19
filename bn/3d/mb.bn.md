@@ -1,20 +1,28 @@
 {
-  "date" : "2021-03-07",
-  "keywords" : [ "MB", "mb file", "mb file format", "file format", "3d","maya binary files free download"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"এমবি ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা এমবি ফাইল খুলতে এবং তৈরি করতে পারে।",
-  "title" : "MB - মায়া বাইনারি ফাইল ফরম্যাট",
-  "linktitle" : "MB",
-  "menu" : {
-    "docs" : {
-      "parent" : "3d"
-}
-},
-  "lastmod" : "2021-03-07"
+  "date": "2021-03-07",
+  "keywords": [
+    "MB",
+    "mb file",
+    "mb file format",
+    "file format",
+    "3d",
+    "maya binary files free download"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "এমবি ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা এমবি ফাইল খুলতে এবং তৈরি করতে পারে।",
+  "title": "MB - মায়া বাইনারি ফাইল ফরম্যাট",
+  "linktitle": "MB",
+  "menu": {
+    "docs": {
+      "parent": "3d",
+      "identifier": "3d-mb-bn"
+    }
+  },
+  "lastmod": "2021-03-07"
 }
 
 ## একটি MB ফাইল কি?

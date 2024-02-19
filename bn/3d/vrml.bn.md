@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "vrml file", "vrml file format", "what is an vrml file", "file", "vrml example", "vrml file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ভিআরএমএল ফাইল ফরম্যাট",
-  "description":"VRML ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা VRML ফাইল খুলতে এবং তৈরি করতে পারে।",
-  "linktitle" : "VRML",
-  "menu" : {
-    "docs" : {
-      "parent" : "3d"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "keywords": [
+    "vrml file",
+    "vrml file format",
+    "what is an vrml file",
+    "file",
+    "vrml example",
+    "vrml file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "ভিআরএমএল ফাইল ফরম্যাট",
+  "description": "VRML ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা VRML ফাইল খুলতে এবং তৈরি করতে পারে।",
+  "linktitle": "VRML",
+  "menu": {
+    "docs": {
+      "parent": "3d",
+      "identifier": "3d-vrml-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি VRML ফাইল কি?

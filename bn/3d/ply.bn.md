@@ -1,20 +1,27 @@
 {
-  "date" : "2019-12-12",
-  "keywords" : [ "PLY", "file", "extension", "format", "3D file format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "PLY ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি PLY ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "PLY - বহুভুজ 3D ফাইল বিন্যাস",
-  "linktitle" : "PLY",
-  "menu" : {
-    "docs" : {
-      "parent" : "3d"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-12-12",
+  "keywords": [
+    "PLY",
+    "file",
+    "extension",
+    "format",
+    "3D file format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "PLY ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি PLY ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "PLY - বহুভুজ 3D ফাইল বিন্যাস",
+  "linktitle": "PLY",
+  "menu": {
+    "docs": {
+      "parent": "3d",
+      "identifier": "3d-ply-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি PLY ফাইল কি?

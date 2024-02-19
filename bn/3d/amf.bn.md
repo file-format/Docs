@@ -1,20 +1,27 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "amf", "amf file", "amf file format", "file format", "3d"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"AMF ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা AMF ফাইল খুলতে এবং তৈরি করতে পারে।",
-  "title" : "AMF - অ্যাডেটিভ ম্যানুফ্যাকচারিং ফাইল",
-  "linktitle" : "AMF",
-  "menu" : {
-    "docs" : {
-      "parent" : "3d"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "keywords": [
+    "amf",
+    "amf file",
+    "amf file format",
+    "file format",
+    "3d"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "AMF ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা AMF ফাইল খুলতে এবং তৈরি করতে পারে।",
+  "title": "AMF - অ্যাডেটিভ ম্যানুফ্যাকচারিং ফাইল",
+  "linktitle": "AMF",
+  "menu": {
+    "docs": {
+      "parent": "3d",
+      "identifier": "3d-amf-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি AMF ফাইল কি?

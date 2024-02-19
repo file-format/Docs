@@ -1,20 +1,28 @@
 {
-  "date" : "2021-01-22",
-  "keywords" : [ "ASE","file", "format", "file type", "extension","what is an ASE file?" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"ASE ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা ASE ফাইল খুলতে এবং তৈরি করতে পারে।",
-  "title" : "ASE - Autodesk ASCII দৃশ্য রপ্তানি ফাইল",
-  "linktitle" : "ASE",
-  "menu" : {
-    "docs" : {
-      "parent" : "3d"
-}
-},
-  "lastmod" : "2021-01-22"
+  "date": "2021-01-22",
+  "keywords": [
+    "ASE",
+    "file",
+    "format",
+    "file type",
+    "extension",
+    "what is an ASE file?"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "ASE ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা ASE ফাইল খুলতে এবং তৈরি করতে পারে।",
+  "title": "ASE - Autodesk ASCII দৃশ্য রপ্তানি ফাইল",
+  "linktitle": "ASE",
+  "menu": {
+    "docs": {
+      "parent": "3d",
+      "identifier": "3d-ase-bn"
+    }
+  },
+  "lastmod": "2021-01-22"
 }
 
 ## একটি ASE ফাইল কি?

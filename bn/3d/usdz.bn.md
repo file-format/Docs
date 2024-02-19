@@ -1,20 +1,28 @@
 {
-  "date" : "2021-02-01",
-  "keywords" : [ "usdz", "usdz file", "usdz file format", "file format", "3d","usdz file download"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "USDZ - ইউনিভার্সাল দৃশ্য বর্ণনা জিপ বিন্যাস",
-  "description":"USDZ ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা USDZ ফাইল খুলতে এবং তৈরি করতে পারে।",
-  "linktitle" : "USDZ",
-  "menu" : {
-    "docs" : {
-      "parent" : "3d"
-}
-},
-  "lastmod" : "2021-02-01"
+  "date": "2021-02-01",
+  "keywords": [
+    "usdz",
+    "usdz file",
+    "usdz file format",
+    "file format",
+    "3d",
+    "usdz file download"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "USDZ - ইউনিভার্সাল দৃশ্য বর্ণনা জিপ বিন্যাস",
+  "description": "USDZ ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা USDZ ফাইল খুলতে এবং তৈরি করতে পারে।",
+  "linktitle": "USDZ",
+  "menu": {
+    "docs": {
+      "parent": "3d",
+      "identifier": "3d-usdz-bn"
+    }
+  },
+  "lastmod": "2021-02-01"
 }
 
 ## একটি USDZ ফাইল কি?

@@ -1,20 +1,30 @@
 {
-  "date" : "2021-02-01",
-  "keywords" : [ "drc file", "drc file format", "what is an drc file", "file", "drc example", "drc file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"DRC ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা DRC ফাইল খুলতে এবং তৈরি করতে পারে।",
-  "title" : "DRC - Google Draco ফাইল ফরম্যাট",
-  "linktitle" : "DRC",
-  "menu" : {
-    "docs" : {
-      "parent" : "3d"
-}
-},
-  "lastmod" : "2021-02-01"
+  "date": "2021-02-01",
+  "keywords": [
+    "drc file",
+    "drc file format",
+    "what is an drc file",
+    "file",
+    "drc example",
+    "drc file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "DRC ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা DRC ফাইল খুলতে এবং তৈরি করতে পারে।",
+  "title": "DRC - Google Draco ফাইল ফরম্যাট",
+  "linktitle": "DRC",
+  "menu": {
+    "docs": {
+      "parent": "3d",
+      "identifier": "3d-drc-bn"
+    }
+  },
+  "lastmod": "2021-02-01"
 }
 
 ## একটি DRC ফাইল কি?

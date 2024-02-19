@@ -1,20 +1,28 @@
 {
-  "date" : "2021-04-19",
-  "keywords": [ "Blitz3D", "b3d", "file", "extension", "format", "blitz3d games" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"B3D ফাইল ফরম্যাট সম্পর্কে জানুন; Blitz3d গেম এবং API-এ ব্যবহৃত হয় যা B3D ফাইল খুলতে এবং তৈরি করতে পারে।",
-  "title" : "B3D - Blitz3D সত্তা মডেল ফাইল",
-  "linktitle" : "B3D",
-  "menu" : {
-    "docs" : {
-      "parent" : "3d"
-}
-},
-  "lastmod" : "2021-04-19"
+  "date": "2021-04-19",
+  "keywords": [
+    "Blitz3D",
+    "b3d",
+    "file",
+    "extension",
+    "format",
+    "blitz3d games"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "B3D ফাইল ফরম্যাট সম্পর্কে জানুন; Blitz3d গেম এবং API-এ ব্যবহৃত হয় যা B3D ফাইল খুলতে এবং তৈরি করতে পারে।",
+  "title": "B3D - Blitz3D সত্তা মডেল ফাইল",
+  "linktitle": "B3D",
+  "menu": {
+    "docs": {
+      "parent": "3d",
+      "identifier": "3d-b3d-bn"
+    }
+  },
+  "lastmod": "2021-04-19"
 }
 
 ## একটি B3D ফাইল কি?

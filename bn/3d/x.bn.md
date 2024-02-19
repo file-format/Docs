@@ -1,20 +1,30 @@
 {
-  "date" : "2020-01-11",
-  "keywords" : [ "x file", "x file format", "what is an x file", "file", "x example", "x file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "X - DirectX 2.0 ফাইল ফরম্যাট",
-  "description":"DirectX X ফাইল ফরম্যাট এবং APIগুলি সম্পর্কে জানুন যা DirectX X ফাইলগুলি খুলতে এবং তৈরি করতে পারে৷",
-  "linktitle" : "X",
-  "menu" : {
-    "docs" : {
-      "parent" : "3d"
-}
-},
-  "lastmod" : "2020-01-11"
+  "date": "2020-01-11",
+  "keywords": [
+    "x file",
+    "x file format",
+    "what is an x file",
+    "file",
+    "x example",
+    "x file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "X - DirectX 2.0 ফাইল ফরম্যাট",
+  "description": "DirectX X ফাইল ফরম্যাট এবং APIগুলি সম্পর্কে জানুন যা DirectX X ফাইলগুলি খুলতে এবং তৈরি করতে পারে৷",
+  "linktitle": "X",
+  "menu": {
+    "docs": {
+      "parent": "3d",
+      "identifier": "3d-x-bn"
+    }
+  },
+  "lastmod": "2020-01-11"
 }
 
 ## একটি X ফাইল কি?

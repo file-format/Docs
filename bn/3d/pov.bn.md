@@ -1,21 +1,31 @@
 
 {
-  "date" : "2023-01-05",
-  "keywords" : [ "pov file", "pov file format", "what is a pov file", "file", "pov example", "pov file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Shakeel Faiz"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"POV ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা POV ফাইল খুলতে এবং তৈরি করতে পারে।",
-  "title" : "POV - দৃষ্টি ফাইলের অধ্যবসায়",
-  "linktitle" : "POV",
-  "menu" : {
-    "docs" : {
-      "parent" : "3d"
-}
-},
-  "lastmod" : "2023-01-05"
+  "date": "2023-01-05",
+  "keywords": [
+    "pov file",
+    "pov file format",
+    "what is a pov file",
+    "file",
+    "pov example",
+    "pov file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Shakeel Faiz"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "POV ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা POV ফাইল খুলতে এবং তৈরি করতে পারে।",
+  "title": "POV - দৃষ্টি ফাইলের অধ্যবসায়",
+  "linktitle": "POV",
+  "menu": {
+    "docs": {
+      "parent": "3d",
+      "identifier": "3d-pov-bn"
+    }
+  },
+  "lastmod": "2023-01-05"
 }
 
 ## একটি POV ফাইল কি?

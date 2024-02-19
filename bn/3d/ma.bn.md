@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "ma", "ma file", "ma file format", "file format", "3d","ma file download", ".ma file", ".ma"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"MA ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা MA ফাইল খুলতে এবং তৈরি করতে পারে।",
-  "title" : "এমএ ফাইল ফরম্যাট",
-  "linktitle" : "MA",
-  "menu" : {
-    "docs" : {
-      "parent" : "3d"
-}
-},
-  "lastmod" : "2021-06-04"
+  "date": "2019-10-11",
+  "keywords": [
+    "ma",
+    "ma file",
+    "ma file format",
+    "file format",
+    "3d",
+    "ma file download",
+    ".ma file",
+    ".ma"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "MA ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা MA ফাইল খুলতে এবং তৈরি করতে পারে।",
+  "title": "এমএ ফাইল ফরম্যাট",
+  "linktitle": "MA",
+  "menu": {
+    "docs": {
+      "parent": "3d",
+      "identifier": "3d-ma-bn"
+    }
+  },
+  "lastmod": "2021-06-04"
 }
 
 ## একটি MA ফাইল কি?

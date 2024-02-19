@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "dae file", "dae file format", "what is an dae file", "file", "dae example", "dae file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"DAE ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা DAE ফাইল খুলতে এবং তৈরি করতে পারে।",
-  "title" : "DAE - ডিজিটাল সম্পদ বিনিময় ফাইল বিন্যাস",
-  "linktitle" : "DAE",
-  "menu" : {
-    "docs" : {
-      "parent" : "3d"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "keywords": [
+    "dae file",
+    "dae file format",
+    "what is an dae file",
+    "file",
+    "dae example",
+    "dae file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "DAE ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা DAE ফাইল খুলতে এবং তৈরি করতে পারে।",
+  "title": "DAE - ডিজিটাল সম্পদ বিনিময় ফাইল বিন্যাস",
+  "linktitle": "DAE",
+  "menu": {
+    "docs": {
+      "parent": "3d",
+      "identifier": "3d-dae-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি DAE ফাইল কি?

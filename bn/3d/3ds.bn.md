@@ -1,20 +1,28 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "3DS","file", "format", "file type", "extension","what is an 3DS file?" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"3DS ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা 3DS ফাইল খুলতে এবং তৈরি করতে পারে।",
-  "title" : "3DS ফাইল ফরম্যাট",
-  "linktitle" : "3DS",
-  "menu" : {
-    "docs" : {
-      "parent" : "3d"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "keywords": [
+    "3DS",
+    "file",
+    "format",
+    "file type",
+    "extension",
+    "what is an 3DS file?"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "3DS ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা 3DS ফাইল খুলতে এবং তৈরি করতে পারে।",
+  "title": "3DS ফাইল ফরম্যাট",
+  "linktitle": "3DS",
+  "menu": {
+    "docs": {
+      "parent": "3d",
+      "identifier": "3d-3ds-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## 3DS ফাইল কি?

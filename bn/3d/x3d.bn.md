@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "x3d file", "x3d file format", "what is an x3d file", "file", "x3d example", "x3d file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "X3D - 3D চিত্র ফাইল",
-  "description":"X3D ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা X3D ফাইল খুলতে এবং তৈরি করতে পারে।",
-  "linktitle" : "X3D",
-  "menu" : {
-    "docs" : {
-      "parent" : "3d"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "keywords": [
+    "x3d file",
+    "x3d file format",
+    "what is an x3d file",
+    "file",
+    "x3d example",
+    "x3d file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "X3D - 3D চিত্র ফাইল",
+  "description": "X3D ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা X3D ফাইল খুলতে এবং তৈরি করতে পারে।",
+  "linktitle": "X3D",
+  "menu": {
+    "docs": {
+      "parent": "3d",
+      "identifier": "3d-x3d-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি X3D ফাইল কি?

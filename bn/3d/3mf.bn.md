@@ -1,20 +1,30 @@
 {
-  "date" : "2019-12-09",
-  "keywords" : [ "3mf file", "3mf file format", "what is an 3mf file", "file", "3mf example", "3mf file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "3MF",
-  "description":"3MF ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা 3MF ফাইল খুলতে এবং তৈরি করতে পারে।",
-  "linktitle" : "3MF",
-  "menu" : {
-    "docs" : {
-      "parent" : "3d"
-}
-},
-  "lastmod" : "2019-12-09"
+  "date": "2019-12-09",
+  "keywords": [
+    "3mf file",
+    "3mf file format",
+    "what is an 3mf file",
+    "file",
+    "3mf example",
+    "3mf file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "3MF",
+  "description": "3MF ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা 3MF ফাইল খুলতে এবং তৈরি করতে পারে।",
+  "linktitle": "3MF",
+  "menu": {
+    "docs": {
+      "parent": "3d",
+      "identifier": "3d-3mf-bn"
+    }
+  },
+  "lastmod": "2019-12-09"
 }
 
 ## একটি 3MF ফাইল কি?

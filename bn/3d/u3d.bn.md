@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "u3d file", "u3d file format", "what is an u3d file", "file", "u3d example", "u3d file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "U3D - ইউনিভার্সাল 3D ফাইল ফরম্যাট",
-  "description":"U3D ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা U3D ফাইল খুলতে এবং তৈরি করতে পারে।",
-  "linktitle" : "U3D",
-  "menu" : {
-    "docs" : {
-      "parent" : "3d"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "keywords": [
+    "u3d file",
+    "u3d file format",
+    "what is an u3d file",
+    "file",
+    "u3d example",
+    "u3d file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "U3D - ইউনিভার্সাল 3D ফাইল ফরম্যাট",
+  "description": "U3D ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা U3D ফাইল খুলতে এবং তৈরি করতে পারে।",
+  "linktitle": "U3D",
+  "menu": {
+    "docs": {
+      "parent": "3d",
+      "identifier": "3d-u3d-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি U3D ফাইল কি?

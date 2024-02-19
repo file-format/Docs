@@ -1,20 +1,28 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "IPT", "IPT file", "IPT file format", "file format", "3d","ipt file download"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description":"আইপিটি ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা আইপিটি ফাইল খুলতে এবং তৈরি করতে পারে।",
-  "title" : "IPT - Autodesk উদ্ভাবক অংশ ফাইল",
-  "linktitle" : "IPT",
-  "menu" : {
-    "docs" : {
-      "parent" : "3d"
-}
-},
-  "lastmod" : "2021-01-25"
+  "date": "2019-10-11",
+  "keywords": [
+    "IPT",
+    "IPT file",
+    "IPT file format",
+    "file format",
+    "3d",
+    "ipt file download"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "আইপিটি ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা আইপিটি ফাইল খুলতে এবং তৈরি করতে পারে।",
+  "title": "IPT - Autodesk উদ্ভাবক অংশ ফাইল",
+  "linktitle": "IPT",
+  "menu": {
+    "docs": {
+      "parent": "3d",
+      "identifier": "3d-ipt-bn"
+    }
+  },
+  "lastmod": "2021-01-25"
 }
 
 ## একটি IPT ফাইল কি?

@@ -1,20 +1,28 @@
 {
-  "date" : "2019-12-12",
-  "keywords" : [ "GLTF", "file", "extension", "format", "3D", "Khronos Group 3D" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "GLTF ফাইল এবং API সম্পর্কে জানুন যেগুলি GLTF ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "title" : "GLTF - GL ট্রান্সমিশন ফাইল ফরম্যাট",
-  "linktitle" : "GLTF",
-  "menu" : {
-    "docs" : {
-      "parent" : "3d"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-12-12",
+  "keywords": [
+    "GLTF",
+    "file",
+    "extension",
+    "format",
+    "3D",
+    "Khronos Group 3D"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "GLTF ফাইল এবং API সম্পর্কে জানুন যেগুলি GLTF ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "title": "GLTF - GL ট্রান্সমিশন ফাইল ফরম্যাট",
+  "linktitle": "GLTF",
+  "menu": {
+    "docs": {
+      "parent": "3d",
+      "identifier": "3d-gltf-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি GLTF ফাইল কি?

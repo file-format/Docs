@@ -1,20 +1,29 @@
 {
-  "date" : "2021-02-01",
-  "keywords" : [ "usd", "usd file", "usd file format", "file format", "file","extension", "3d"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "USD - সর্বজনীন দৃশ্য বর্ণনা বিন্যাস",
-  "description":"USD ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা USD ফাইল খুলতে এবং তৈরি করতে পারে।",
-  "linktitle" : "USD",
-  "menu" : {
-    "docs" : {
-      "parent" : "3d"
-}
-},
-  "lastmod" : "2021-02-01"
+  "date": "2021-02-01",
+  "keywords": [
+    "usd",
+    "usd file",
+    "usd file format",
+    "file format",
+    "file",
+    "extension",
+    "3d"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "USD - সর্বজনীন দৃশ্য বর্ণনা বিন্যাস",
+  "description": "USD ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা USD ফাইল খুলতে এবং তৈরি করতে পারে।",
+  "linktitle": "USD",
+  "menu": {
+    "docs": {
+      "parent": "3d",
+      "identifier": "3d-usd-bn"
+    }
+  },
+  "lastmod": "2021-02-01"
 }
 
 ## একটি USD ফাইল কি?

@@ -1,20 +1,28 @@
 {
-  "date" : "2019-12-12",
-  "keywords" : [ "JT", "file", "extension", "format", "3D fbx", "" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "জেটি ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা জেটি ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "JT - জুপিটার টেসেলেশন ফাইল ফরম্যাট",
-  "linktitle" : "JT",
-  "menu" : {
-    "docs" : {
-      "parent" : "3d"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-12-12",
+  "keywords": [
+    "JT",
+    "file",
+    "extension",
+    "format",
+    "3D fbx",
+    ""
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "জেটি ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা জেটি ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "JT - জুপিটার টেসেলেশন ফাইল ফরম্যাট",
+  "linktitle": "JT",
+  "menu": {
+    "docs": {
+      "parent": "3d",
+      "identifier": "3d-jt-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি JT ফাইল কি?

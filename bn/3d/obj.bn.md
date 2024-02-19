@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "obj file", "obj file format", "what is an obj file", "file", "obj example", "obj file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "OBJ ফাইল ফরম্যাট",
-  "description":"OBJ ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা OBJ ফাইল খুলতে এবং তৈরি করতে পারে।",
-  "linktitle" : "OBJ",
-  "menu" : {
-    "docs" : {
-      "parent" : "3d"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "keywords": [
+    "obj file",
+    "obj file format",
+    "what is an obj file",
+    "file",
+    "obj example",
+    "obj file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "OBJ ফাইল ফরম্যাট",
+  "description": "OBJ ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা OBJ ফাইল খুলতে এবং তৈরি করতে পারে।",
+  "linktitle": "OBJ",
+  "menu": {
+    "docs": {
+      "parent": "3d",
+      "identifier": "3d-obj-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি OBJ ফাইল কি?
