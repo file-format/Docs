@@ -1,19 +1,20 @@
 {
-  "date" : "2023-06-14",
-  "author" : {
-    "display_name" : "Sami Cheema"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "4DL ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা 4DL ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "4DL - 4র্থ মাত্রা ডাটাবেস লগ ফাইল",
-  "linktitle" : "4DL",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
-}
-},
-  "lastmod" : "2023-06-14"
+  "date": "2023-06-14",
+  "author": {
+    "display_name": "Sami Cheema"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "4DL ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা 4DL ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "4DL - 4র্থ মাত্রা ডাটাবেস লগ ফাইল",
+  "linktitle": "4DL",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-4dl-bn"
+    }
+  },
+  "lastmod": "2023-06-14"
 }
 
 ## একটি 4DL ফাইল কি?

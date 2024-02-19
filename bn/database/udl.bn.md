@@ -1,20 +1,29 @@
 {
-  "date" : "2021-06-21",
-  "keywords" : [ "UDL", "extension", "udl file", "udl file format", "Database File Type", "Database File Format", "what is a udl file" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "UDL ফাইল ফরম্যাট এবং APIগুলি সম্পর্কে জানুন যা UDL ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "title" : "ইউডিএল - মাইক্রোসফ্ট ইউনিভার্সাল ডেটা লিঙ্ক ফাইল",
-  "linktitle" : "UDL",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
-}
-},
-  "lastmod" : "2021-06-21"
+  "date": "2021-06-21",
+  "keywords": [
+    "UDL",
+    "extension",
+    "udl file",
+    "udl file format",
+    "Database File Type",
+    "Database File Format",
+    "what is a udl file"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "UDL ফাইল ফরম্যাট এবং APIগুলি সম্পর্কে জানুন যা UDL ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "title": "ইউডিএল - মাইক্রোসফ্ট ইউনিভার্সাল ডেটা লিঙ্ক ফাইল",
+  "linktitle": "UDL",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-udl-bn"
+    }
+  },
+  "lastmod": "2021-06-21"
 }
 
 ## একটি UDL ফাইল কি?

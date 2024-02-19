@@ -1,19 +1,20 @@
 {
-  "date" : "2022-05-08",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "GDB ফাইল ফরম্যাট - ESRI ফাইল জিওডাটাবেস ফাইল",
-  "description":"GDB ফাইল ফরম্যাট এবং APIগুলি সম্পর্কে জানুন যা GDB ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "GDB",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
-}
-},
-  "lastmod" : "2022-05-08"
+  "date": "2022-05-08",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "GDB ফাইল ফরম্যাট - ESRI ফাইল জিওডাটাবেস ফাইল",
+  "description": "GDB ফাইল ফরম্যাট এবং APIগুলি সম্পর্কে জানুন যা GDB ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "GDB",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-gdb-bn"
+    }
+  },
+  "lastmod": "2022-05-08"
 }
 
 ## একটি GDB ফাইল কি?

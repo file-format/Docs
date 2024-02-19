@@ -1,19 +1,20 @@
 {
-  "date" : "2022-05-11",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "ITW ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি ITW ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "title" : "ITW ফাইল ফরম্যাট- ডাটাবেস ফাইলের সাথে ইনটাচ",
-  "linktitle" : "ITW",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
-}
-},
-  "lastmod" : "2022-05-12"
+  "date": "2022-05-11",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "ITW ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি ITW ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "title": "ITW ফাইল ফরম্যাট- ডাটাবেস ফাইলের সাথে ইনটাচ",
+  "linktitle": "ITW",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-itw-bn"
+    }
+  },
+  "lastmod": "2022-05-12"
 }
 
 ## একটি ITW ফাইল কি?

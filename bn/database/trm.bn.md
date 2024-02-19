@@ -1,19 +1,20 @@
 {
-  "date" : "2022-05-23",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "TRM ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা TRM ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "TRM ফাইল ফরম্যাট - ওরাকল ট্রেস ম্যাপ ফাইল",
-  "linktitle" : "TRM",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
-}
-},
-  "lastmod" : "2021-08-24"
+  "date": "2022-05-23",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "TRM ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা TRM ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "TRM ফাইল ফরম্যাট - ওরাকল ট্রেস ম্যাপ ফাইল",
+  "linktitle": "TRM",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-trm-bn"
+    }
+  },
+  "lastmod": "2021-08-24"
 }
 
 ## Oracle TRM ফাইল কি?

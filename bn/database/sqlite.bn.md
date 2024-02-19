@@ -1,20 +1,29 @@
 {
-  "date" : "2019-12-12",
-  "keywords" : [ "SQLite", "extension", "file", "file format", "Database File Type", "Database File Format", "Database Files" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "SQLITE ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি SQLITE ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "SQLite ফাইল ফরম্যাট",
-  "linktitle" : "SQLITE",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
-}
-},
-  "lastmod" : "2020-11-09"
+  "date": "2019-12-12",
+  "keywords": [
+    "SQLite",
+    "extension",
+    "file",
+    "file format",
+    "Database File Type",
+    "Database File Format",
+    "Database Files"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "SQLITE ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি SQLITE ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "SQLite ফাইল ফরম্যাট",
+  "linktitle": "SQLITE",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-sqlite-bn"
+    }
+  },
+  "lastmod": "2020-11-09"
 }
 
 ## একটি SQLite ফাইল কি?

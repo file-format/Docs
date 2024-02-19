@@ -1,20 +1,32 @@
 {
-  "date" : "2021-05-03",
-  "keywords" : [ "SDF", "sdf file","what is sdf file","how to open an sdf file", "extension", "file", "sdf file format", "Database File Type", "Database File Format", "Database Files" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "SDF ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি SDF ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "title" : "SDF - SQL সার্ভার কমপ্যাক্ট ডেটাবেস ফাইল",
-  "linktitle" : "SDF",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
-}
-},
-  "lastmod" : "2021-05-03"
+  "date": "2021-05-03",
+  "keywords": [
+    "SDF",
+    "sdf file",
+    "what is sdf file",
+    "how to open an sdf file",
+    "extension",
+    "file",
+    "sdf file format",
+    "Database File Type",
+    "Database File Format",
+    "Database Files"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "SDF ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি SDF ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "title": "SDF - SQL সার্ভার কমপ্যাক্ট ডেটাবেস ফাইল",
+  "linktitle": "SDF",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-sdf-bn"
+    }
+  },
+  "lastmod": "2021-05-03"
 }
 
 ## একটি SDF ফাইল কি?

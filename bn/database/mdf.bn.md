@@ -1,20 +1,29 @@
 {
-  "date" : "2020-11-11",
-  "keywords" : [ "MDF", "extension", "file", "file format", "Database File Type", "Database File Format", "Database Files" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "MDF ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি MDF ফাইল তৈরি এবং খুলতে পারে৷",
-  "title" : "MDF ফাইল ফরম্যাট - SQL সার্ভার মাস্টার ডাটাবেস ফাইল",
-  "linktitle" : "MDF",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
-}
-},
-  "lastmod" : "2020-08-12"
+  "date": "2020-11-11",
+  "keywords": [
+    "MDF",
+    "extension",
+    "file",
+    "file format",
+    "Database File Type",
+    "Database File Format",
+    "Database Files"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "MDF ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি MDF ফাইল তৈরি এবং খুলতে পারে৷",
+  "title": "MDF ফাইল ফরম্যাট - SQL সার্ভার মাস্টার ডাটাবেস ফাইল",
+  "linktitle": "MDF",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-mdf-bn"
+    }
+  },
+  "lastmod": "2020-08-12"
 }
 
 ## একটি MDF ফাইল কি?

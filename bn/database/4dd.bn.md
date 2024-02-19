@@ -1,20 +1,32 @@
 {
-  "date" : "2021-07-28",
-  "keywords" : [ "4DD", "extension", "file", "file format", "Database File Type", "Database File Format", "Database Files", "4th Dimension", "4D database", "4DD file" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "4DD ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা 4DD ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "4DD - 4র্থ মাত্রা ডেটা ফাইল",
-  "linktitle" : "4DD",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
-}
-},
-  "lastmod" : "2021-07-28"
+  "date": "2021-07-28",
+  "keywords": [
+    "4DD",
+    "extension",
+    "file",
+    "file format",
+    "Database File Type",
+    "Database File Format",
+    "Database Files",
+    "4th Dimension",
+    "4D database",
+    "4DD file"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "4DD ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা 4DD ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "4DD - 4র্থ মাত্রা ডেটা ফাইল",
+  "linktitle": "4DD",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-4dd-bn"
+    }
+  },
+  "lastmod": "2021-07-28"
 }
 
 ## একটি 4DD ফাইল কি?

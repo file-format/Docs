@@ -1,20 +1,29 @@
 {
-  "date" : "2020-11-11",
-  "keywords" : [ "ACCDT", "extension", "file", "file format", "Database File Type", "Database File Format", "Database Files" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "ACCDT ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা ACCDT ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "ACCDT - Microsoft Access 2007 টেমপ্লেট ডাটাবেস ফাইল ফরম্যাট",
-  "linktitle" : "ACCDT",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
-}
-},
-  "lastmod" : "2020-11-12"
+  "date": "2020-11-11",
+  "keywords": [
+    "ACCDT",
+    "extension",
+    "file",
+    "file format",
+    "Database File Type",
+    "Database File Format",
+    "Database Files"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "ACCDT ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা ACCDT ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "ACCDT - Microsoft Access 2007 টেমপ্লেট ডাটাবেস ফাইল ফরম্যাট",
+  "linktitle": "ACCDT",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-accdt-bn"
+    }
+  },
+  "lastmod": "2020-11-12"
 }
 
 ## একটি ACCDT ফাইল কি?

@@ -1,20 +1,29 @@
 {
-  "date" : "2021-06-16",
-  "keywords" : [ "CDB", "extension", "cdb file", "cdb file format", "Database File Type", "Database File Format", "what is a cdb file" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "সিডিবি ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা সিডিবি ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "CDB - ধ্রুবক ডাটাবেস ফাইল",
-  "linktitle" : "CDB",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
-}
-},
-  "lastmod" : "2021-06-16"
+  "date": "2021-06-16",
+  "keywords": [
+    "CDB",
+    "extension",
+    "cdb file",
+    "cdb file format",
+    "Database File Type",
+    "Database File Format",
+    "what is a cdb file"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "সিডিবি ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা সিডিবি ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "CDB - ধ্রুবক ডাটাবেস ফাইল",
+  "linktitle": "CDB",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-cdb-bn"
+    }
+  },
+  "lastmod": "2021-06-16"
 }
 
 ## একটি CDB ফাইল কি?

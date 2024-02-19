@@ -1,19 +1,20 @@
 {
-  "date" : "2023-06-02",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "CHCK ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা CHCK ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "CHCK ফাইল - মাইক্রোসফট এক্সচেঞ্জ সার্ভার ডাটাবেস ফাইল ফরম্যাট চেক করুন",
-  "linktitle" : "CHCK",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
-}
-},
-  "lastmod" : "2021-06-02"
+  "date": "2023-06-02",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "CHCK ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা CHCK ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "CHCK ফাইল - মাইক্রোসফট এক্সচেঞ্জ সার্ভার ডাটাবেস ফাইল ফরম্যাট চেক করুন",
+  "linktitle": "CHCK",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-chck-bn"
+    }
+  },
+  "lastmod": "2021-06-02"
 }
 
 ## একটি CHCK ফাইল কি?

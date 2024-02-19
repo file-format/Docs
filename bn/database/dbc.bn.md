@@ -1,20 +1,29 @@
 {
-  "date" : "2021-06-17",
-  "keywords" : [ "DBC", "extension", "dbc file", "dbc file format", "Database File Type", "Database File Format", "what is a dbc file" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "DBC ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি DBC ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "DBC - CAN ডাটাবেস ফাইল",
-  "linktitle" : "DBC",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
-}
-},
-  "lastmod" : "2021-06-17"
+  "date": "2021-06-17",
+  "keywords": [
+    "DBC",
+    "extension",
+    "dbc file",
+    "dbc file format",
+    "Database File Type",
+    "Database File Format",
+    "what is a dbc file"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "DBC ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি DBC ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "DBC - CAN ডাটাবেস ফাইল",
+  "linktitle": "DBC",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-dbc-bn"
+    }
+  },
+  "lastmod": "2021-06-17"
 }
 
 ## একটি DBC ফাইল কি?

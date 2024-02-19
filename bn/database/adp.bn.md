@@ -1,20 +1,29 @@
 {
-  "date" : "2021-09-06",
-  "keywords" : [ "adp", "extension", "file", "file format", "Database File Type", "Database File Format", "Access Project" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "ADP ফাইল বিন্যাস এবং API সম্পর্কে জানুন যেগুলি ADP ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "title" : "ADP - অ্যাক্সেস ডাটাবেস ফাইল",
-  "linktitle" : "ADP",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
-}
-},
-  "lastmod" : "2021-09-06"
+  "date": "2021-09-06",
+  "keywords": [
+    "adp",
+    "extension",
+    "file",
+    "file format",
+    "Database File Type",
+    "Database File Format",
+    "Access Project"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "ADP ফাইল বিন্যাস এবং API সম্পর্কে জানুন যেগুলি ADP ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "title": "ADP - অ্যাক্সেস ডাটাবেস ফাইল",
+  "linktitle": "ADP",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-adp-bn"
+    }
+  },
+  "lastmod": "2021-09-06"
 }
 
 ## একটি ADP ফাইল কি?

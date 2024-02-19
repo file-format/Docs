@@ -1,20 +1,32 @@
 {
-  "date" : "2019-12-12",
-  "keywords" : [ "DB3", "DB3 ফাইল ফরম্যাট", "DB3 File","SQLite", "extension", "file", "file format", "Database File Type", "Database File Format", "Database Files" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "DB3 ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা DB3 ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "DB3 ফাইল ফরম্যাট",
-  "linktitle" : "DB3",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
-}
-},
-  "lastmod" : "2020-11-09"
+  "date": "2019-12-12",
+  "keywords": [
+    "DB3",
+    "DB3 ফাইল ফরম্যাট",
+    "DB3 File",
+    "SQLite",
+    "extension",
+    "file",
+    "file format",
+    "Database File Type",
+    "Database File Format",
+    "Database Files"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "DB3 ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা DB3 ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "DB3 ফাইল ফরম্যাট",
+  "linktitle": "DB3",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-db3-bn"
+    }
+  },
+  "lastmod": "2020-11-09"
 }
 
 ## একটি DB3 ফাইল কি?

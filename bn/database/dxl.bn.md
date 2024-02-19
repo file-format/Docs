@@ -1,19 +1,20 @@
 {
-  "date" : "2023-05-16",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "DXL ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি DTSX ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "DXL ফাইল ফরম্যাট - Domino XML ভাষা ফাইল ফরম্যাট",
-  "linktitle" : "DXL",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
-}
-},
-  "lastmod" : "2023-05-16"
+  "date": "2023-05-16",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "DXL ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি DTSX ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "DXL ফাইল ফরম্যাট - Domino XML ভাষা ফাইল ফরম্যাট",
+  "linktitle": "DXL",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-dxl-bn"
+    }
+  },
+  "lastmod": "2023-05-16"
 }
 
 ## একটি DXL ফাইল কি?

@@ -1,20 +1,29 @@
 {
-  "date" : "2020-11-11",
-  "keywords" : [ "ACCDE", "extension", "file", "file format", "Database File Type", "Database File Format", "Database Files" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "ACCDE ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা ACCDE ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "ACCDE ফাইল ফরম্যাট - Microsoft Access 2007 ডাটাবেস ফাইল",
-  "linktitle" : "ACCDE",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
-}
-},
-  "lastmod" : "2020-11-12"
+  "date": "2020-11-11",
+  "keywords": [
+    "ACCDE",
+    "extension",
+    "file",
+    "file format",
+    "Database File Type",
+    "Database File Format",
+    "Database Files"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "ACCDE ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা ACCDE ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "ACCDE ফাইল ফরম্যাট - Microsoft Access 2007 ডাটাবেস ফাইল",
+  "linktitle": "ACCDE",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-accde-bn"
+    }
+  },
+  "lastmod": "2020-11-12"
 }
 
 ## একটি ACCDE ফাইল কি?

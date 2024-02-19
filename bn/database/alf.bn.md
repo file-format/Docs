@@ -1,20 +1,29 @@
 {
-  "date" : "2021-09-06",
-  "keywords" : [ "alf", "extension", "file", "file format", "Database File Type", "Database File Format", "Act! Database Lookup" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "ALF ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি ALF ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "title" : "আইন! ফাইল দেখুন",
-  "linktitle" : "ALF",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
-}
-},
-  "lastmod" : "2021-09-06"
+  "date": "2021-09-06",
+  "keywords": [
+    "alf",
+    "extension",
+    "file",
+    "file format",
+    "Database File Type",
+    "Database File Format",
+    "Act! Database Lookup"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "ALF ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি ALF ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "title": "আইন! ফাইল দেখুন",
+  "linktitle": "ALF",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-alf-bn"
+    }
+  },
+  "lastmod": "2021-09-06"
 }
 
 ## একটি ALF ফাইল কি?

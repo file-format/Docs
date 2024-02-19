@@ -1,20 +1,29 @@
 {
-  "date" : "2021-08-30",
-  "keywords" : [ "ACCDW", "extension", "file", "file format", "Database File Type", "Database File Format", "Database Files" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "ACCDW ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি ACCDW ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "ACCDW - মাইক্রোসফ্ট অ্যাক্সেস ডেটাবেস লিঙ্ক ফাইল",
-  "linktitle" : "ACCDW",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
-}
-},
-  "lastmod" : "2021-08-30"
+  "date": "2021-08-30",
+  "keywords": [
+    "ACCDW",
+    "extension",
+    "file",
+    "file format",
+    "Database File Type",
+    "Database File Format",
+    "Database Files"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "ACCDW ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি ACCDW ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "ACCDW - মাইক্রোসফ্ট অ্যাক্সেস ডেটাবেস লিঙ্ক ফাইল",
+  "linktitle": "ACCDW",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-accdw-bn"
+    }
+  },
+  "lastmod": "2021-08-30"
 }
 
 ## একটি ACCDW ফাইল কি?

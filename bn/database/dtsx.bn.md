@@ -1,20 +1,29 @@
 {
-  "date" : "2020-11-11",
-  "keywords" : [ "DTSX", "extension", "file", "file format", "Database File Type", "Database File Format", "Database Files" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "DTSX ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি DTSX ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "DTSX ফাইল ফরম্যাট - SQL সার্ভার DTS সেটিংস ফাইল",
-  "linktitle" : "DTSX",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
-}
-},
-  "lastmod" : "2020-08-12"
+  "date": "2020-11-11",
+  "keywords": [
+    "DTSX",
+    "extension",
+    "file",
+    "file format",
+    "Database File Type",
+    "Database File Format",
+    "Database Files"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "DTSX ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি DTSX ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "DTSX ফাইল ফরম্যাট - SQL সার্ভার DTS সেটিংস ফাইল",
+  "linktitle": "DTSX",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-dtsx-bn"
+    }
+  },
+  "lastmod": "2020-08-12"
 }
 
 ## একটি DTSX ফাইল কি?

@@ -1,19 +1,20 @@
 {
-  "date" : "2022-05-25",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "FMP12 ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি FMP12 ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "FMP12 ফাইল ফরম্যাট - FileMaker Pro 12 ডেটাবেস ফাইল",
-  "linktitle" : "FMP12",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
-}
-},
-  "lastmod" : "2022-05-25"
+  "date": "2022-05-25",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "FMP12 ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি FMP12 ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "FMP12 ফাইল ফরম্যাট - FileMaker Pro 12 ডেটাবেস ফাইল",
+  "linktitle": "FMP12",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-fmp12-bn"
+    }
+  },
+  "lastmod": "2022-05-25"
 }
 
 ## একটি FMP12 ফাইল কি?

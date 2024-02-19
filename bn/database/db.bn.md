@@ -1,20 +1,30 @@
 {
-  "date" : "2021-06-15",
-  "keywords" : [ "db", "extension", "db file", "db file format", "Database File Type", "Database File Format", "what is a dbf file", "db" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "DB ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা DB ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "ডিবি ফাইল - জেনেরিক ডাটাবেস ফাইল",
-  "linktitle" : "DB",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
-}
-},
-  "lastmod" : "2021-06-15"
+  "date": "2021-06-15",
+  "keywords": [
+    "db",
+    "extension",
+    "db file",
+    "db file format",
+    "Database File Type",
+    "Database File Format",
+    "what is a dbf file",
+    "db"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "DB ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা DB ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "ডিবি ফাইল - জেনেরিক ডাটাবেস ফাইল",
+  "linktitle": "DB",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-db-bn"
+    }
+  },
+  "lastmod": "2021-06-15"
 }
 
 ## একটি DB ফাইল কি?

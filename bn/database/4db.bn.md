@@ -1,20 +1,32 @@
 {
-  "date" : "2021-07-29",
-  "keywords" : [ "4DB", "extension", "file", "file format", "Database File Type", "Database File Format", "Database Files", "4th Dimension", "4DB database", "4DB file" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "4DB ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা 4DB ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "4DB ফাইল ফরম্যাট",
-  "linktitle" : "4DB",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
-}
-},
-  "lastmod" : "2021-07-29"
+  "date": "2021-07-29",
+  "keywords": [
+    "4DB",
+    "extension",
+    "file",
+    "file format",
+    "Database File Type",
+    "Database File Format",
+    "Database Files",
+    "4th Dimension",
+    "4DB database",
+    "4DB file"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "4DB ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা 4DB ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "4DB ফাইল ফরম্যাট",
+  "linktitle": "4DB",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-4db-bn"
+    }
+  },
+  "lastmod": "2021-07-29"
 }
 
 ## একটি 4DB ফাইল কি?

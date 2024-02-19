@@ -1,20 +1,29 @@
 {
-  "date" : "2020-11-11",
-  "keywords" : [ "MDB", "extension", "file", "file format", "Database File Type", "Database File Format", "Database Files" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "MDB ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি MDB ফাইল তৈরি এবং খুলতে পারে৷",
-  "title" : "MDB ফাইল ফরম্যাট - একটি Microsoft Access Database ফাইল",
-  "linktitle" : "MDB",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
-}
-},
-  "lastmod" : "2020-11-11"
+  "date": "2020-11-11",
+  "keywords": [
+    "MDB",
+    "extension",
+    "file",
+    "file format",
+    "Database File Type",
+    "Database File Format",
+    "Database Files"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "MDB ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি MDB ফাইল তৈরি এবং খুলতে পারে৷",
+  "title": "MDB ফাইল ফরম্যাট - একটি Microsoft Access Database ফাইল",
+  "linktitle": "MDB",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-mdb-bn"
+    }
+  },
+  "lastmod": "2020-11-11"
 }
 
 ## একটি MDB ফাইল কি?

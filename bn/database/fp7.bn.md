@@ -1,19 +1,20 @@
 {
-  "date" : "2022-05-25",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "FP7 ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা FP7 ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "FP7 ফাইল ফরম্যাট - FileMaker Pro 7+ ডেটাবেস ফাইল",
-  "linktitle" : "FP7",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
-}
-},
-  "lastmod" : "2022-05-25"
+  "date": "2022-05-25",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "FP7 ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা FP7 ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "FP7 ফাইল ফরম্যাট - FileMaker Pro 7+ ডেটাবেস ফাইল",
+  "linktitle": "FP7",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-fp7-bn"
+    }
+  },
+  "lastmod": "2022-05-25"
 }
 
 ## একটি FP7 ফাইল কি?

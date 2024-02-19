@@ -1,20 +1,29 @@
 {
-  "date" : "2020-11-11",
-  "keywords" : [ "BCP", "extension", "file", "file format", "Database File Type", "Database File Format", "Database Files" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "BCP ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি BCP ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "BCP - SQL সার্ভার বাল্ক কপি ফাইল ফরম্যাট",
-  "linktitle" : "BCP",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
-}
-},
-  "lastmod" : "2020-08-12"
+  "date": "2020-11-11",
+  "keywords": [
+    "BCP",
+    "extension",
+    "file",
+    "file format",
+    "Database File Type",
+    "Database File Format",
+    "Database Files"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "BCP ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি BCP ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "BCP - SQL সার্ভার বাল্ক কপি ফাইল ফরম্যাট",
+  "linktitle": "BCP",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-bcp-bn"
+    }
+  },
+  "lastmod": "2020-08-12"
 }
 
 ## একটি BCP ফাইল কি?

@@ -1,20 +1,29 @@
 {
-  "date" : "2020-11-11",
-  "keywords" : [ "DDL", "extension", "file", "file format", "Database File Type", "Database File Format", "Database Files" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "DDL ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি DDL ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "DDL ফাইল ফরম্যাট - একটি ডেটা সংজ্ঞা ভাষা ফাইল",
-  "linktitle" : "DDL",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
-}
-},
-  "lastmod" : "2020-11-11"
+  "date": "2020-11-11",
+  "keywords": [
+    "DDL",
+    "extension",
+    "file",
+    "file format",
+    "Database File Type",
+    "Database File Format",
+    "Database Files"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "DDL ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি DDL ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "DDL ফাইল ফরম্যাট - একটি ডেটা সংজ্ঞা ভাষা ফাইল",
+  "linktitle": "DDL",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-ddl-bn"
+    }
+  },
+  "lastmod": "2020-11-11"
 }
 
 ## একটি DDL ফাইল কি?

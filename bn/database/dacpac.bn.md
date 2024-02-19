@@ -1,20 +1,29 @@
 {
-  "date" : "2021-09-06",
-  "keywords" : [ "dacpac", "extension", "file", "file format", "Database File Type", "Database File Format", "Data Tier AppliCation Package" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "DACPAC ফাইল ফরম্যাট এবং APIগুলি সম্পর্কে জানুন যা DACPAC ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "title" : "DACPAC - ডেটা টিয়ার অ্যাপ্লিকেশন প্যাকেজ",
-  "linktitle" : "DACPAC",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
-}
-},
-  "lastmod" : "2021-09-06"
+  "date": "2021-09-06",
+  "keywords": [
+    "dacpac",
+    "extension",
+    "file",
+    "file format",
+    "Database File Type",
+    "Database File Format",
+    "Data Tier AppliCation Package"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "DACPAC ফাইল ফরম্যাট এবং APIগুলি সম্পর্কে জানুন যা DACPAC ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "title": "DACPAC - ডেটা টিয়ার অ্যাপ্লিকেশন প্যাকেজ",
+  "linktitle": "DACPAC",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-dacpac-bn"
+    }
+  },
+  "lastmod": "2021-09-06"
 }
 
 ## একটি DACPAC ফাইল কি?

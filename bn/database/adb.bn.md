@@ -1,20 +1,29 @@
 {
-  "date" : "2021-08-29",
-  "keywords" : [ "adb", "extension", "file", "file format", "Database File Type", "Database File Format", "Alpha Anywhere" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "ADB ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি ADB ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "title" : "ADB - আলফা ফাইভ ডাটাবেস ফাইল",
-  "linktitle" : "ADB",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
-}
-},
-  "lastmod" : "2021-08-29"
+  "date": "2021-08-29",
+  "keywords": [
+    "adb",
+    "extension",
+    "file",
+    "file format",
+    "Database File Type",
+    "Database File Format",
+    "Alpha Anywhere"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "ADB ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি ADB ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "title": "ADB - আলফা ফাইভ ডাটাবেস ফাইল",
+  "linktitle": "ADB",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-adb-bn"
+    }
+  },
+  "lastmod": "2021-08-29"
 }
 
 ## একটি ADB ফাইল কি?

@@ -1,20 +1,29 @@
 {
-  "date" : "2021-09-06",
-  "keywords" : [ "aq", "extension", "file", "file format", "Database File Type", "Database File Format", "Ancestral Quest Database File" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "AQ ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা AQ ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "AQ - পূর্বপুরুষের কোয়েস্ট ডেটাবেস ফাইল",
-  "linktitle" : "AQ",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
-}
-},
-  "lastmod" : "2021-09-06"
+  "date": "2021-09-06",
+  "keywords": [
+    "aq",
+    "extension",
+    "file",
+    "file format",
+    "Database File Type",
+    "Database File Format",
+    "Ancestral Quest Database File"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "AQ ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা AQ ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "AQ - পূর্বপুরুষের কোয়েস্ট ডেটাবেস ফাইল",
+  "linktitle": "AQ",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-aq-bn"
+    }
+  },
+  "lastmod": "2021-09-06"
 }
 
 ## একটি AQ ফাইল কি?

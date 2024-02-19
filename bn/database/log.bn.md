@@ -1,20 +1,29 @@
 {
-  "date" : "2021-06-14",
-  "keywords" : [ "LOG", "extension", "log file", "log file format", "Database File Type", "Database File Format", "what is a log file" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "LOG ফাইল ফরম্যাট এবং APIগুলি সম্পর্কে জানুন যা LOG ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "title" : "LOG - লগ ফাইল ফরম্যাট",
-  "linktitle" : "LOG",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
-}
-},
-  "lastmod" : "2021-06-14"
+  "date": "2021-06-14",
+  "keywords": [
+    "LOG",
+    "extension",
+    "log file",
+    "log file format",
+    "Database File Type",
+    "Database File Format",
+    "what is a log file"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "LOG ফাইল ফরম্যাট এবং APIগুলি সম্পর্কে জানুন যা LOG ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "title": "LOG - লগ ফাইল ফরম্যাট",
+  "linktitle": "LOG",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-log-bn"
+    }
+  },
+  "lastmod": "2021-06-14"
 }
 
 ## একটি LOG ফাইল কি?

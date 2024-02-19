@@ -1,20 +1,29 @@
 {
-  "date" : "2021-08-29",
-  "keywords" : [ "ade", "extension", "file", "file format", "Database File Type", "Database File Format", "Microsoft Access" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "ADE ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি ADE ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "ADE - এক্সেস প্রজেক্ট এক্সটেনশন ফাইল",
-  "linktitle" : "ADE",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
-}
-},
-  "lastmod" : "2021-08-29"
+  "date": "2021-08-29",
+  "keywords": [
+    "ade",
+    "extension",
+    "file",
+    "file format",
+    "Database File Type",
+    "Database File Format",
+    "Microsoft Access"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "ADE ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি ADE ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "ADE - এক্সেস প্রজেক্ট এক্সটেনশন ফাইল",
+  "linktitle": "ADE",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-ade-bn"
+    }
+  },
+  "lastmod": "2021-08-29"
 }
 
 ## একটি ADE ফাইল কি?

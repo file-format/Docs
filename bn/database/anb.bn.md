@@ -1,20 +1,29 @@
 {
-  "date" : "2021-08-29",
-  "keywords" : [ "anb", "extension", "file", "file format", "Database File Type", "Database File Format", "Analyst's Notebook Chart" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "ANB ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি ANB ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "ANB - বিশ্লেষকের নোটবুক চার্ট",
-  "linktitle" : "ANB",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
-}
-},
-  "lastmod" : "2021-09-09"
+  "date": "2021-08-29",
+  "keywords": [
+    "anb",
+    "extension",
+    "file",
+    "file format",
+    "Database File Type",
+    "Database File Format",
+    "Analyst's Notebook Chart"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "ANB ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি ANB ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "ANB - বিশ্লেষকের নোটবুক চার্ট",
+  "linktitle": "ANB",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-anb-bn"
+    }
+  },
+  "lastmod": "2021-09-09"
 }
 
 ## একটি ANB ফাইল কি?

@@ -1,19 +1,20 @@
 {
-  "date" : "2022-05-25",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "FMPSL ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি FMPSL ফাইলগুলি তৈরি এবং খুলতে পারে।",
-  "title" : "FMPSL ফাইল ফরম্যাট - FileMaker Pro 12 স্ন্যাপশট লিঙ্ক ফাইল",
-  "linktitle" : "FMPSL",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
-}
-},
-  "lastmod" : "2022-05-25"
+  "date": "2022-05-25",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "FMPSL ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি FMPSL ফাইলগুলি তৈরি এবং খুলতে পারে।",
+  "title": "FMPSL ফাইল ফরম্যাট - FileMaker Pro 12 স্ন্যাপশট লিঙ্ক ফাইল",
+  "linktitle": "FMPSL",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-fmpsl-bn"
+    }
+  },
+  "lastmod": "2022-05-25"
 }
 
 ## একটি FMPSL ফাইল কি?

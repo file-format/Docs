@@ -1,20 +1,29 @@
 {
-  "date" : "2020-11-11",
-  "keywords" : [ "SQL", "extension", "file", "file format", "Database File Type", "Database File Format", "Database Files" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "এসকিউএল ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা এসকিউএল ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "SQL ফাইল ফরম্যাট - একটি স্ট্রাকচার্ড কোয়েরি ল্যাঙ্গুয়েজ ডেটা ফাইল",
-  "linktitle" : "SQL",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
-}
-},
-  "lastmod" : "2020-11-11"
+  "date": "2020-11-11",
+  "keywords": [
+    "SQL",
+    "extension",
+    "file",
+    "file format",
+    "Database File Type",
+    "Database File Format",
+    "Database Files"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "এসকিউএল ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা এসকিউএল ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "SQL ফাইল ফরম্যাট - একটি স্ট্রাকচার্ড কোয়েরি ল্যাঙ্গুয়েজ ডেটা ফাইল",
+  "linktitle": "SQL",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-sql-bn"
+    }
+  },
+  "lastmod": "2020-11-11"
 }
 
 ## একটি SQL ফাইল কি?

@@ -1,20 +1,29 @@
 {
-  "date" : "2020-11-11",
-  "keywords" : [ "ACCDB", "extension", "file", "file format", "Database File Type", "Database File Format", "Database Files" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "ACCDB ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি ACCDB ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "title" : "ACCDB ফাইল ফরম্যাট - Microsoft Access 2007 ডাটাবেস ফাইল",
-  "linktitle" : "ACCDB",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
-}
-},
-  "lastmod" : "2020-11-12"
+  "date": "2020-11-11",
+  "keywords": [
+    "ACCDB",
+    "extension",
+    "file",
+    "file format",
+    "Database File Type",
+    "Database File Format",
+    "Database Files"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "ACCDB ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি ACCDB ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "title": "ACCDB ফাইল ফরম্যাট - Microsoft Access 2007 ডাটাবেস ফাইল",
+  "linktitle": "ACCDB",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-accdb-bn"
+    }
+  },
+  "lastmod": "2020-11-12"
 }
 
 ## একটি ACCDB ফাইল কি?

@@ -1,20 +1,30 @@
 {
-  "date" : "2021-08-24",
-  "keywords" : [ "trc file", "trc file format", "what is a trc file", "file", "trc example", "trc file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "TRC ফাইল বিন্যাস এবং API সম্পর্কে জানুন যেগুলি TRC ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "title" : "TRC - SQL সার্ভার ট্রেস ফাইল",
-  "linktitle" : "TRC",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
-}
-},
-  "lastmod" : "2021-08-24"
+  "date": "2021-08-24",
+  "keywords": [
+    "trc file",
+    "trc file format",
+    "what is a trc file",
+    "file",
+    "trc example",
+    "trc file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "TRC ফাইল বিন্যাস এবং API সম্পর্কে জানুন যেগুলি TRC ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "title": "TRC - SQL সার্ভার ট্রেস ফাইল",
+  "linktitle": "TRC",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-trc-bn"
+    }
+  },
+  "lastmod": "2021-08-24"
 }
 
 ## একটি TRC ফাইল কি?

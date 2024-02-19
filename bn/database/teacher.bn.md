@@ -1,19 +1,20 @@
 {
-  "date" : "2022-05-23",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "TEACHER ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা TEACHER ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "টিচার ফাইল ফরম্যাট - স্মার্ট রেসপন্স টিচার ডাটাবেস ফাইল ফরম্যাট",
-  "linktitle" : "TEACHER",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
-}
-},
-  "lastmod" : "2021-08-24"
+  "date": "2022-05-23",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "TEACHER ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা TEACHER ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "টিচার ফাইল ফরম্যাট - স্মার্ট রেসপন্স টিচার ডাটাবেস ফাইল ফরম্যাট",
+  "linktitle": "TEACHER",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-teacher-bn"
+    }
+  },
+  "lastmod": "2021-08-24"
 }
 
 ## একটি TEACHER ফাইল কি?

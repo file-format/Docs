@@ -1,20 +1,29 @@
 {
-  "date" : "2021-09-06",
-  "keywords" : [ "adn", "extension", "file", "file format", "Database File Type", "Database File Format", "Access Blank Project Template" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "ADN ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা ADN ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "ADN - আলফা ফাইভ ডাটাবেস ফাইল",
-  "linktitle" : "ADN",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
-}
-},
-  "lastmod" : "2021-09-06"
+  "date": "2021-09-06",
+  "keywords": [
+    "adn",
+    "extension",
+    "file",
+    "file format",
+    "Database File Type",
+    "Database File Format",
+    "Access Blank Project Template"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "ADN ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা ADN ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "ADN - আলফা ফাইভ ডাটাবেস ফাইল",
+  "linktitle": "ADN",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-adn-bn"
+    }
+  },
+  "lastmod": "2021-09-06"
 }
 
 ## একটি ADN ফাইল কি?

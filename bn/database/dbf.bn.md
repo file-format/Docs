@@ -1,20 +1,30 @@
 {
-  "date" : "2021-06-15",
-  "keywords" : [ "DBF", "extension", "dbf file", "dbf file format", "Database File Type", "Database File Format", "what is a dbf file", "dBASE" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "DBF ফাইল ফর্ম্যাট এবং APIগুলি সম্পর্কে জানুন যা DBF ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "title" : "DBF - dBase ডেটাবেস ফাইল",
-  "linktitle" : "DBF",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
-}
-},
-  "lastmod" : "2021-06-15"
+  "date": "2021-06-15",
+  "keywords": [
+    "DBF",
+    "extension",
+    "dbf file",
+    "dbf file format",
+    "Database File Type",
+    "Database File Format",
+    "what is a dbf file",
+    "dBASE"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "DBF ফাইল ফর্ম্যাট এবং APIগুলি সম্পর্কে জানুন যা DBF ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "title": "DBF - dBase ডেটাবেস ফাইল",
+  "linktitle": "DBF",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-dbf-bn"
+    }
+  },
+  "lastmod": "2021-06-15"
 }
 
 ## একটি DBF ফাইল কি?

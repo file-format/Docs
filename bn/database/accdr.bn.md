@@ -1,20 +1,29 @@
 {
-  "date" : "2021-08-30",
-  "keywords" : [ "ACCDR", "extension", "file", "file format", "Database File Type", "Database File Format", "Database Files" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "ACCDR ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা ACCDR ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "ACCDR - রানটাইম অ্যাপ্লিকেশন অ্যাক্সেস করুন",
-  "linktitle" : "ACCDR",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
-}
-},
-  "lastmod" : "2021-08-30"
+  "date": "2021-08-30",
+  "keywords": [
+    "ACCDR",
+    "extension",
+    "file",
+    "file format",
+    "Database File Type",
+    "Database File Format",
+    "Database Files"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "ACCDR ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা ACCDR ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "ACCDR - রানটাইম অ্যাপ্লিকেশন অ্যাক্সেস করুন",
+  "linktitle": "ACCDR",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-accdr-bn"
+    }
+  },
+  "lastmod": "2021-08-30"
 }
 
 ## একটি ACCDR ফাইল কি?

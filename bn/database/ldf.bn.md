@@ -1,20 +1,29 @@
 {
-  "date" : "2020-11-11",
-  "keywords" : [ "LDF", "extension", "file", "file format", "Database File Type", "Database File Format", "Database Files" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "LDF ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি LDF ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "title" : "LDF - SQL সার্ভার মাস্টার ডাটাবেস ফাইল ফরম্যাট",
-  "linktitle" : "LDF",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
-}
-},
-  "lastmod" : "2020-08-12"
+  "date": "2020-11-11",
+  "keywords": [
+    "LDF",
+    "extension",
+    "file",
+    "file format",
+    "Database File Type",
+    "Database File Format",
+    "Database Files"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "LDF ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি LDF ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "title": "LDF - SQL সার্ভার মাস্টার ডাটাবেস ফাইল ফরম্যাট",
+  "linktitle": "LDF",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-ldf-bn"
+    }
+  },
+  "lastmod": "2020-08-12"
 }
 
 ## একটি LDF ফাইল কি?

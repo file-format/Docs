@@ -1,20 +1,29 @@
 {
-  "date" : "2021-06-14",
-  "keywords" : [ "DAT", "extension", "dat file", "dat file format", "Database File Type", "Database File Format", "what is a dat file" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "DAT ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা DAT ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "DAT - সাধারণ ডেটা ফাইল বিন্যাস",
-  "linktitle" : "DAT",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
-}
-},
-  "lastmod" : "2021-06-14"
+  "date": "2021-06-14",
+  "keywords": [
+    "DAT",
+    "extension",
+    "dat file",
+    "dat file format",
+    "Database File Type",
+    "Database File Format",
+    "what is a dat file"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "DAT ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা DAT ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "DAT - সাধারণ ডেটা ফাইল বিন্যাস",
+  "linktitle": "DAT",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-dat-bn"
+    }
+  },
+  "lastmod": "2021-06-14"
 }
 
 ## একটি DAT ফাইল কি?

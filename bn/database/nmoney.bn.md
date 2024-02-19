@@ -1,19 +1,20 @@
 {
-  "date" : "2023-05-17",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "NMONEY ফাইল ফর্ম্যাট এবং APIগুলি সম্পর্কে জানুন যা NMONEY ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "title" : "NMONEY ফাইল - Denaro অ্যাকাউন্ট ফাইল ফর্ম্যাট",
-  "linktitle" : "NMONEY",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
-}
-},
-  "lastmod" : "2023-05-17"
+  "date": "2023-05-17",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "NMONEY ফাইল ফর্ম্যাট এবং APIগুলি সম্পর্কে জানুন যা NMONEY ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "title": "NMONEY ফাইল - Denaro অ্যাকাউন্ট ফাইল ফর্ম্যাট",
+  "linktitle": "NMONEY",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-nmoney-bn"
+    }
+  },
+  "lastmod": "2023-05-17"
 }
 
 ## একটি NMONEY ফাইল কি?

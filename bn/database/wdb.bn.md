@@ -1,20 +1,30 @@
 {
-  "date" : "2021-08-24",
-  "keywords" : [ "wdb file", "wdb file format", "what is a wdb file", "file", "wdb example", "wdb file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "WDB ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি WDB ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "WDB - SQL সার্ভার ট্রেস ফাইল",
-  "linktitle" : "WDB",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
-}
-},
-  "lastmod" : "2021-08-24"
+  "date": "2021-08-24",
+  "keywords": [
+    "wdb file",
+    "wdb file format",
+    "what is a wdb file",
+    "file",
+    "wdb example",
+    "wdb file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "WDB ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি WDB ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "WDB - SQL সার্ভার ট্রেস ফাইল",
+  "linktitle": "WDB",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-wdb-bn"
+    }
+  },
+  "lastmod": "2021-08-24"
 }
 
 ## একটি WDB ফাইল কি?

@@ -1,20 +1,29 @@
 {
-  "date" : "2021-09-06",
-  "keywords" : [ "btr", "extension", "file", "file format", "Database File Type", "Database File Format", "Btrieve Database" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "বিটিআর ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা বিটিআর ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "BTR - Btrieve ডাটাবেস ফাইল",
-  "linktitle" : "BTR",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
-}
-},
-  "lastmod" : "2021-09-06"
+  "date": "2021-09-06",
+  "keywords": [
+    "btr",
+    "extension",
+    "file",
+    "file format",
+    "Database File Type",
+    "Database File Format",
+    "Btrieve Database"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "বিটিআর ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা বিটিআর ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "BTR - Btrieve ডাটাবেস ফাইল",
+  "linktitle": "BTR",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-btr-bn"
+    }
+  },
+  "lastmod": "2021-09-06"
 }
 
 ## একটি BTR ফাইল কি?

@@ -1,19 +1,20 @@
 {
-  "date" : "2022-05-23",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "TE ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি TE ফাইলগুলি তৈরি করতে এবং খুলতে পারে৷",
-  "title" : "TE ফাইল ফরম্যাট - Textease CT ডাটাবেস ফাইল",
-  "linktitle" : "TE",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
-}
-},
-  "lastmod" : "2021-08-24"
+  "date": "2022-05-23",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "TE ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি TE ফাইলগুলি তৈরি করতে এবং খুলতে পারে৷",
+  "title": "TE ফাইল ফরম্যাট - Textease CT ডাটাবেস ফাইল",
+  "linktitle": "TE",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-te-bn"
+    }
+  },
+  "lastmod": "2021-08-24"
 }
 
 ## একটি TE ফাইল কি?

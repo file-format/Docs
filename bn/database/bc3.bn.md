@@ -1,19 +1,20 @@
 {
-  "date" : "2023-05-29",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "একটি BC3 ফাইল কি এবং কিভাবে এটি খুলতে হয়?",
-  "title" : "BC3 ফাইল - FIEBDC-3 ডাটাবেস ফাইল ফরম্যাট",
-  "linktitle" : "BC3",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
-}
-},
-  "lastmod" : "2023-05-29"
+  "date": "2023-05-29",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "একটি BC3 ফাইল কি এবং কিভাবে এটি খুলতে হয়?",
+  "title": "BC3 ফাইল - FIEBDC-3 ডাটাবেস ফাইল ফরম্যাট",
+  "linktitle": "BC3",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-bc3-bn"
+    }
+  },
+  "lastmod": "2023-05-29"
 }
 
 ## একটি BC3 ফাইল কি?

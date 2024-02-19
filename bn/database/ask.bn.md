@@ -1,20 +1,29 @@
 {
-  "date" : "2021-09-06",
-  "keywords" : [ "ask", "extension", "file", "file format", "Database File Type", "Database File Format", "askSam Database" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "ASK ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা ASK ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "ASK - askSam ডাটাবেস ফাইল",
-  "linktitle" : "ASK",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
-}
-},
-  "lastmod" : "2021-09-06"
+  "date": "2021-09-06",
+  "keywords": [
+    "ask",
+    "extension",
+    "file",
+    "file format",
+    "Database File Type",
+    "Database File Format",
+    "askSam Database"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "ASK ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা ASK ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "ASK - askSam ডাটাবেস ফাইল",
+  "linktitle": "ASK",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-ask-bn"
+    }
+  },
+  "lastmod": "2021-09-06"
 }
 
 ## একটি ASK ফাইল কি?

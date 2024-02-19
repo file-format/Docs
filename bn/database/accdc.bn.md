@@ -1,20 +1,29 @@
 {
-  "date" : "2021-08-29",
-  "keywords" : [ "accdc", "extension", "file", "file format", "Database File Type", "Database File Format", "signed Database package" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "description" : "ACCDC ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা ACCDC ফাইল তৈরি এবং খুলতে পারে।",
-  "title" : "ACCDC - Microsoft Access স্বাক্ষরিত প্যাকেজ",
-  "linktitle" : "ACCDC",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
-}
-},
-  "lastmod" : "2021-08-29"
+  "date": "2021-08-29",
+  "keywords": [
+    "accdc",
+    "extension",
+    "file",
+    "file format",
+    "Database File Type",
+    "Database File Format",
+    "signed Database package"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "description": "ACCDC ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা ACCDC ফাইল তৈরি এবং খুলতে পারে।",
+  "title": "ACCDC - Microsoft Access স্বাক্ষরিত প্যাকেজ",
+  "linktitle": "ACCDC",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-accdc-bn"
+    }
+  },
+  "lastmod": "2021-08-29"
 }
 
 ## একটি ACCDC ফাইল কি?
