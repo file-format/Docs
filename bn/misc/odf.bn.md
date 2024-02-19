@@ -1,20 +1,30 @@
 {
-  "date" : "2021-07-29",
-  "keywords" : [ "odf file", "odf file format", "what is a odf file", "file", "odf example", "odf file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ODF - OpenDocument ফর্মুলা ফাইল",
-  "description":"ODF ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি ODF ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "ODF",
-  "menu" : {
-    "docs" : {
-      "parent" : "misc"
-}
-},
-  "lastmod" : "2021-07-29"
+  "date": "2021-07-29",
+  "keywords": [
+    "odf file",
+    "odf file format",
+    "what is a odf file",
+    "file",
+    "odf example",
+    "odf file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "ODF - OpenDocument ফর্মুলা ফাইল",
+  "description": "ODF ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি ODF ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "ODF",
+  "menu": {
+    "docs": {
+      "parent": "misc",
+      "identifier": "misc-odf-bn"
+    }
+  },
+  "lastmod": "2021-07-29"
 }
 
 ## একটি ODF ফাইল কি?

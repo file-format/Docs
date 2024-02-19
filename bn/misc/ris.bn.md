@@ -1,20 +1,30 @@
 {
-  "date" : "2022-01-12",
-  "keywords" : [ "ris file", "ris file format", "what is an ris file", "file", "ris example", "ris file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "RIS - গবেষণা তথ্য সিস্টেম উদ্ধৃতি ফাইল",
-  "description":"RIS ফাইল এবং API সম্পর্কে জানুন যেগুলি RIS ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "RIS",
-  "menu" : {
-    "docs" : {
-      "parent" : "misc"
-}
-},
-  "lastmod" : "2022-01-12"
+  "date": "2022-01-12",
+  "keywords": [
+    "ris file",
+    "ris file format",
+    "what is an ris file",
+    "file",
+    "ris example",
+    "ris file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "RIS - গবেষণা তথ্য সিস্টেম উদ্ধৃতি ফাইল",
+  "description": "RIS ফাইল এবং API সম্পর্কে জানুন যেগুলি RIS ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "RIS",
+  "menu": {
+    "docs": {
+      "parent": "misc",
+      "identifier": "misc-ris-bn"
+    }
+  },
+  "lastmod": "2022-01-12"
 }
 
 ## একটি RIS ফাইল কি?

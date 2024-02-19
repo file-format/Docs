@@ -1,19 +1,20 @@
 {
-  "date" : "2022-03-12",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "MSO - মাইক্রোসফট অফিস ম্যাক্রো রেফারেন্স ফাইল",
-  "description":"MSO ফাইল এবং API সম্পর্কে জানুন যেগুলি MSO ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "MSO",
-  "menu" : {
-    "docs" : {
-      "parent" : "misc"
-}
-},
-  "lastmod" : "2022-03-12"
+  "date": "2022-03-12",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "MSO - মাইক্রোসফট অফিস ম্যাক্রো রেফারেন্স ফাইল",
+  "description": "MSO ফাইল এবং API সম্পর্কে জানুন যেগুলি MSO ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "MSO",
+  "menu": {
+    "docs": {
+      "parent": "misc",
+      "identifier": "misc-mso-bn"
+    }
+  },
+  "lastmod": "2022-03-12"
 }
 
 ## একটি MSO ফাইল কি?

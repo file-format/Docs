@@ -1,19 +1,20 @@
 {
-  "date" : "2022-01-26",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "লক ফাইল ফরম্যাট - একটি লক ফাইল কি?",
-  "description":"LOCK ফাইল ফরম্যাট এবং এর সম্পর্কে জানুন।",
-  "linktitle" : "LOCK",
-  "menu" : {
-    "docs" : {
-      "parent" : "misc"
-}
-},
-  "lastmod" : "2022-01-26"
+  "date": "2022-01-26",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "লক ফাইল ফরম্যাট - একটি লক ফাইল কি?",
+  "description": "LOCK ফাইল ফরম্যাট এবং এর সম্পর্কে জানুন।",
+  "linktitle": "LOCK",
+  "menu": {
+    "docs": {
+      "parent": "misc",
+      "identifier": "misc-lock-bn"
+    }
+  },
+  "lastmod": "2022-01-26"
 }
 
 ## একটি LOCK ফাইল কি?

@@ -1,20 +1,30 @@
 {
-  "date" : "2021-07-29",
-  "keywords" : [ "pes file", "pes file format", "what is a pes file", "file", "pes example", "pes file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "PES ফাইল ফরম্যাট - ভাই PE এমব্রয়ডারি ফরম্যাট",
-  "description":"PES ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি PES ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "PES",
-  "menu" : {
-    "docs" : {
-      "parent" : "misc"
-}
-},
-  "lastmod" : "2021-07-29"
+  "date": "2021-07-29",
+  "keywords": [
+    "pes file",
+    "pes file format",
+    "what is a pes file",
+    "file",
+    "pes example",
+    "pes file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "PES ফাইল ফরম্যাট - ভাই PE এমব্রয়ডারি ফরম্যাট",
+  "description": "PES ফাইল ফর্ম্যাট এবং API সম্পর্কে জানুন যেগুলি PES ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "PES",
+  "menu": {
+    "docs": {
+      "parent": "misc",
+      "identifier": "misc-pes-bn"
+    }
+  },
+  "lastmod": "2021-07-29"
 }
 
 ## একটি PES এমব্রয়ডারি ফাইল কি?

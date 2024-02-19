@@ -1,19 +1,20 @@
 {
-  "date" : "2022-03-07",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ERR ফাইল ফরম্যাট - অটোক্যাড ত্রুটি লগ ফাইল",
-  "description":"ERR ফাইল এবং API সম্পর্কে জানুন যেগুলি ERR ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "ERR",
-  "menu" : {
-    "docs" : {
-      "parent" : "misc"
-}
-},
-  "lastmod" : "2022-03-07"
+  "date": "2022-03-07",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "ERR ফাইল ফরম্যাট - অটোক্যাড ত্রুটি লগ ফাইল",
+  "description": "ERR ফাইল এবং API সম্পর্কে জানুন যেগুলি ERR ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "ERR",
+  "menu": {
+    "docs": {
+      "parent": "misc",
+      "identifier": "misc-err-bn"
+    }
+  },
+  "lastmod": "2022-03-07"
 }
 
 ## একটি ERR ফাইল কি?

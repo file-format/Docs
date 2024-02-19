@@ -1,19 +1,20 @@
 {
-  "date" : "2022-03-07",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ENL ফাইল - এন্ডনোট লাইব্রেরি ফাইল",
-  "description":"ENL ফাইল এবং API সম্পর্কে জানুন যেগুলি ENL ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "ENL",
-  "menu" : {
-    "docs" : {
-      "parent" : "misc"
-}
-},
-  "lastmod" : "2022-03-07"
+  "date": "2022-03-07",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "ENL ফাইল - এন্ডনোট লাইব্রেরি ফাইল",
+  "description": "ENL ফাইল এবং API সম্পর্কে জানুন যেগুলি ENL ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "ENL",
+  "menu": {
+    "docs": {
+      "parent": "misc",
+      "identifier": "misc-enl-bn"
+    }
+  },
+  "lastmod": "2022-03-07"
 }
 
 ## একটি ENL ফাইল কি?

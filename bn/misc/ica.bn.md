@@ -1,20 +1,30 @@
 {
-  "date" : "2022-01-12",
-  "keywords" : [ "ica file", "ica file format", "what is an ica file", "file", "ica example", "ica file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ICA - Citrix ICA ফাইল",
-  "description":"ICA ফাইল এক্সটেনশন এবং API সম্পর্কে জানুন যেগুলি ICA ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "ICA",
-  "menu" : {
-    "docs" : {
-      "parent" : "misc"
-}
-},
-  "lastmod" : "2022-01-12"
+  "date": "2022-01-12",
+  "keywords": [
+    "ica file",
+    "ica file format",
+    "what is an ica file",
+    "file",
+    "ica example",
+    "ica file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "ICA - Citrix ICA ফাইল",
+  "description": "ICA ফাইল এক্সটেনশন এবং API সম্পর্কে জানুন যেগুলি ICA ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "ICA",
+  "menu": {
+    "docs": {
+      "parent": "misc",
+      "identifier": "misc-ica-bn"
+    }
+  },
+  "lastmod": "2022-01-12"
 }
 
 ## একটি ICA ফাইল কি?

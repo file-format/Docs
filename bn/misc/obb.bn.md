@@ -1,20 +1,30 @@
 {
-  "date" : "2022-02-16",
-  "keywords" : [ "obb file", "obb file format", "what is an obb file", "file", "obb example", "obb file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "OBB ফাইল ফরম্যাট - অ্যান্ড্রয়েড অস্বচ্ছ বাইনারি ব্লব ফাইল",
-  "description":"OBB ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা OBB ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "OBB",
-  "menu" : {
-    "docs" : {
-      "parent" : "misc"
-}
-},
-  "lastmod" : "2022-02-16"
+  "date": "2022-02-16",
+  "keywords": [
+    "obb file",
+    "obb file format",
+    "what is an obb file",
+    "file",
+    "obb example",
+    "obb file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "OBB ফাইল ফরম্যাট - অ্যান্ড্রয়েড অস্বচ্ছ বাইনারি ব্লব ফাইল",
+  "description": "OBB ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা OBB ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "OBB",
+  "menu": {
+    "docs": {
+      "parent": "misc",
+      "identifier": "misc-obb-bn"
+    }
+  },
+  "lastmod": "2022-02-16"
 }
 
 ## একটি OBB ফাইল কি?

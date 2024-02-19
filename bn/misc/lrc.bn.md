@@ -1,19 +1,20 @@
 {
-  "date" : "2022-01-26",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "LRC ফাইল ফরম্যাট - একটি LRC ফাইল কি?",
-  "description":"LRC লিরিক ফাইল এবং API সম্পর্কে জানুন যেগুলি LRC ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "LRC",
-  "menu" : {
-    "docs" : {
-      "parent" : "misc"
-}
-},
-  "lastmod" : "2022-01-26"
+  "date": "2022-01-26",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "LRC ফাইল ফরম্যাট - একটি LRC ফাইল কি?",
+  "description": "LRC লিরিক ফাইল এবং API সম্পর্কে জানুন যেগুলি LRC ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "LRC",
+  "menu": {
+    "docs": {
+      "parent": "misc",
+      "identifier": "misc-lrc-bn"
+    }
+  },
+  "lastmod": "2022-01-26"
 }
 
 ## একটি LRC ফাইল কি?

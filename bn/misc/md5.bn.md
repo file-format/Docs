@@ -1,20 +1,30 @@
 {
-  "date" : "2021-07-29",
-  "keywords" : [ "md5 file", "md5 file format", "what is an md5 file", "file", "md5 example", "md5 file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "MD5 - MD5 চেকসাম ফাইল",
-  "description":"MD5 ফাইল এবং API সম্পর্কে জানুন যেগুলি MD5 ফাইল তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "MD5",
-  "menu" : {
-    "docs" : {
-      "parent" : "misc"
-}
-},
-  "lastmod" : "2021-07-29"
+  "date": "2021-07-29",
+  "keywords": [
+    "md5 file",
+    "md5 file format",
+    "what is an md5 file",
+    "file",
+    "md5 example",
+    "md5 file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "MD5 - MD5 চেকসাম ফাইল",
+  "description": "MD5 ফাইল এবং API সম্পর্কে জানুন যেগুলি MD5 ফাইল তৈরি এবং খুলতে পারে৷",
+  "linktitle": "MD5",
+  "menu": {
+    "docs": {
+      "parent": "misc",
+      "identifier": "misc-md5-bn"
+    }
+  },
+  "lastmod": "2021-07-29"
 }
 
 ## একটি MD5 ফাইল কি?

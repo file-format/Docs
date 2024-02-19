@@ -1,20 +1,30 @@
 {
-  "date" : "2022-02-17",
-  "keywords" : ["gpg file", "gpg file format", "what is a gpg file", "file", "gpg example", "gpg file extension","extension", "format"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "GPG ফাইল - GNU প্রাইভেসি গার্ড পাবলিক কীরিং ফাইল",
-  "description":"GPG ফাইল এবং API সম্পর্কে জানুন যেগুলি GPG ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "GPG",
-  "menu" : {
-    "docs" : {
-      "parent" : "misc"
-}
-},
-  "lastmod" : "2022-02-17"
+  "date": "2022-02-17",
+  "keywords": [
+    "gpg file",
+    "gpg file format",
+    "what is a gpg file",
+    "file",
+    "gpg example",
+    "gpg file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "GPG ফাইল - GNU প্রাইভেসি গার্ড পাবলিক কীরিং ফাইল",
+  "description": "GPG ফাইল এবং API সম্পর্কে জানুন যেগুলি GPG ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "GPG",
+  "menu": {
+    "docs": {
+      "parent": "misc",
+      "identifier": "misc-gpg-bn"
+    }
+  },
+  "lastmod": "2022-02-17"
 }
 
 ## একটি GPG ফাইল কি?

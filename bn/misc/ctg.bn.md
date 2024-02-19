@@ -1,20 +1,30 @@
 {
-  "date" : "2022-01-12",
-  "keywords" : [ "ctg file", "ctg file format", "what is a ctg file", "file", "ctg example", "ctg file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "CTG - ক্যানন ডিজিটাল ক্যামেরা ক্যাটালগ ফাইল",
-  "description":"CTG ফাইল এবং API সম্পর্কে জানুন যেগুলি CTG ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "CTG",
-  "menu" : {
-    "docs" : {
-      "parent" : "misc"
-}
-},
-  "lastmod" : "2022-01-12"
+  "date": "2022-01-12",
+  "keywords": [
+    "ctg file",
+    "ctg file format",
+    "what is a ctg file",
+    "file",
+    "ctg example",
+    "ctg file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "CTG - ক্যানন ডিজিটাল ক্যামেরা ক্যাটালগ ফাইল",
+  "description": "CTG ফাইল এবং API সম্পর্কে জানুন যেগুলি CTG ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "CTG",
+  "menu": {
+    "docs": {
+      "parent": "misc",
+      "identifier": "misc-ctg-bn"
+    }
+  },
+  "lastmod": "2022-01-12"
 }
 
 ## একটি CTG ফাইল কি?

@@ -1,20 +1,30 @@
 {
-  "date" : "2022-01-26",
-  "keywords" : [ "klq file", "klq file format", "what is a klq file", "file", "klq example", "klq file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "KLQ - ক্যাসপারস্কি কোয়ারেন্টাইন ফাইল",
-  "description":"KLQ ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি KLQ ফাইলগুলি তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "KLQ",
-  "menu" : {
-    "docs" : {
-      "parent" : "misc"
-}
-},
-  "lastmod" : "2022-01-26"
+  "date": "2022-01-26",
+  "keywords": [
+    "klq file",
+    "klq file format",
+    "what is a klq file",
+    "file",
+    "klq example",
+    "klq file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "KLQ - ক্যাসপারস্কি কোয়ারেন্টাইন ফাইল",
+  "description": "KLQ ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি KLQ ফাইলগুলি তৈরি এবং খুলতে পারে৷",
+  "linktitle": "KLQ",
+  "menu": {
+    "docs": {
+      "parent": "misc",
+      "identifier": "misc-klq-bn"
+    }
+  },
+  "lastmod": "2022-01-26"
 }
 
 ## একটি KLQ ফাইল কি?
