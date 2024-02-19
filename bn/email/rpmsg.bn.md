@@ -1,19 +1,20 @@
 {
-  "date" : "2019-10-11",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "RPMSG ফাইল - আউটলুক সীমাবদ্ধ অনুমতি বার্তা ফাইল",
-  "description":"RPMSG ফাইল এবং API সম্পর্কে জানুন যেগুলি RPMSG ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "RPMSG",
-  "menu" : {
-    "docs" : {
-      "parent" : "email"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "RPMSG ফাইল - আউটলুক সীমাবদ্ধ অনুমতি বার্তা ফাইল",
+  "description": "RPMSG ফাইল এবং API সম্পর্কে জানুন যেগুলি RPMSG ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "RPMSG",
+  "menu": {
+    "docs": {
+      "parent": "email",
+      "identifier": "email-rpmsg-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি RPMSG ফাইল কি?

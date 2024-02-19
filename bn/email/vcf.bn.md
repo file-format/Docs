@@ -1,19 +1,20 @@
 {
-  "date" : "2019-10-11",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "VCF - ভার্চুয়াল যোগাযোগ ফাইল",
-  "description":"ভিসিএফ ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা ভিসিএফ ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "VCF",
-  "menu" : {
-    "docs" : {
-      "parent" : "email"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "VCF - ভার্চুয়াল যোগাযোগ ফাইল",
+  "description": "ভিসিএফ ফাইল ফরম্যাট এবং এপিআই সম্পর্কে জানুন যা ভিসিএফ ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "VCF",
+  "menu": {
+    "docs": {
+      "parent": "email",
+      "identifier": "email-vcf-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি VCF ফাইল কি?

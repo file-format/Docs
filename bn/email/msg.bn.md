@@ -1,19 +1,20 @@
 {
-  "date" : "2019-10-11",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "MSG - Microsoft Outlook ইমেল বিন্যাস",
-  "description":"MSG ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা MSG ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "MSG",
-  "menu" : {
-    "docs" : {
-      "parent" : "email"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "MSG - Microsoft Outlook ইমেল বিন্যাস",
+  "description": "MSG ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা MSG ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "MSG",
+  "menu": {
+    "docs": {
+      "parent": "email",
+      "identifier": "email-msg-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি MSG ফাইল কি?

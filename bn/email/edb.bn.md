@@ -1,19 +1,20 @@
 {
-  "date" : "2019-10-11",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "EDB ফাইল ফরম্যাট - একটি এক্সচেঞ্জ মেল ডাটাবেস ফাইল",
-  "description":"EDB ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি EDB ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "EDB",
-  "menu" : {
-    "docs" : {
-      "parent" : "email"
-}
-},
-  "lastmod" : "2020-09-16"
+  "date": "2019-10-11",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "EDB ফাইল ফরম্যাট - একটি এক্সচেঞ্জ মেল ডাটাবেস ফাইল",
+  "description": "EDB ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি EDB ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "EDB",
+  "menu": {
+    "docs": {
+      "parent": "email",
+      "identifier": "email-edb-bn"
+    }
+  },
+  "lastmod": "2020-09-16"
 }
 
 ## একটি EDB ফাইল কি?

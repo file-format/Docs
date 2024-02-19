@@ -1,19 +1,20 @@
 {
-  "date" : "2019-10-11",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ICS - iCalendar ফাইল ফরম্যাট",
-  "description":"ICS ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি ICS ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "ICS",
-  "menu" : {
-    "docs" : {
-      "parent" : "email"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "ICS - iCalendar ফাইল ফরম্যাট",
+  "description": "ICS ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি ICS ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "ICS",
+  "menu": {
+    "docs": {
+      "parent": "email",
+      "identifier": "email-ics-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি ICS ফাইল কি?

@@ -1,19 +1,20 @@
 {
-  "date" : "2022.01.31",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "P7S ফাইল - ডিজিটালি স্বাক্ষরিত ইমেল বার্তা",
-  "description":"P7S ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি P7S ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "P7S",
-  "menu" : {
-    "docs" : {
-      "parent" : "email"
-}
-},
-  "lastmod" : "2022.01.31"
+  "date": "2022.01.31",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "P7S ফাইল - ডিজিটালি স্বাক্ষরিত ইমেল বার্তা",
+  "description": "P7S ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি P7S ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "P7S",
+  "menu": {
+    "docs": {
+      "parent": "email",
+      "identifier": "email-p7s-bn"
+    }
+  },
+  "lastmod": "2022.01.31"
 }
 
 ## একটি P7S ফাইল কি?

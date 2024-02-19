@@ -1,19 +1,20 @@
 {
-  "date" : "2019-10-11",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "EMLX - অ্যাপল মেল ফাইল ফরম্যাট",
-  "description":"EMLX ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি EMLX ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "EMLX",
-  "menu" : {
-    "docs" : {
-      "parent" : "email"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "EMLX - অ্যাপল মেল ফাইল ফরম্যাট",
+  "description": "EMLX ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি EMLX ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "EMLX",
+  "menu": {
+    "docs": {
+      "parent": "email",
+      "identifier": "email-emlx-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি EMLX ফাইল কি?

@@ -1,19 +1,20 @@
 {
-  "date" : "2019-10-11",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "TNEF",
-  "description":"Learn about TNEF file format and APIs that can create and open TNEF files.",
-  "linktitle" : "TNEF",
-  "menu" : {
-    "docs" : {
-      "parent" : "email"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "TNEF",
+  "description": "Learn about TNEF file format and APIs that can create and open TNEF files.",
+  "linktitle": "TNEF",
+  "menu": {
+    "docs": {
+      "parent": "email",
+      "identifier": "email-tnef-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি টিএনইএফ ফাইল কি?

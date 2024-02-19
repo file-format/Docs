@@ -1,19 +1,20 @@
 {
-  "date" : "2019-10-11",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "OST - আউটলুক স্টোরেজ ফাইল ফরম্যাট",
-  "description":"OST ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা OST ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "OST",
-  "menu" : {
-    "docs" : {
-      "parent" : "email"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "OST - আউটলুক স্টোরেজ ফাইল ফরম্যাট",
+  "description": "OST ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা OST ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "OST",
+  "menu": {
+    "docs": {
+      "parent": "email",
+      "identifier": "email-ost-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি OST ফাইল কি?

@@ -1,19 +1,20 @@
 {
-  "date" : "2019-10-11",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "PST - আউটলুক ব্যক্তিগত তথ্য স্টোর ফাইল ফর্ম্যাট",
-  "description":"PST ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি PST ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "PST",
-  "menu" : {
-    "docs" : {
-      "parent" : "email"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "PST - আউটলুক ব্যক্তিগত তথ্য স্টোর ফাইল ফর্ম্যাট",
+  "description": "PST ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি PST ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "PST",
+  "menu": {
+    "docs": {
+      "parent": "email",
+      "identifier": "email-pst-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি PST ফাইল কি?

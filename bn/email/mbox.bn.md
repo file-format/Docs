@@ -1,19 +1,20 @@
 {
-  "date" : "2019-10-11",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "MBOX - ইমেল মেইলবক্স ফাইল",
-  "description":"MBOX ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি MBOX ফাইল তৈরি এবং খুলতে পারে৷",
-  "linktitle" : "MBOX",
-  "menu" : {
-    "docs" : {
-      "parent" : "email"
-}
-},
-  "lastmod" : "2019-09-10"
+  "date": "2019-10-11",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "MBOX - ইমেল মেইলবক্স ফাইল",
+  "description": "MBOX ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যেগুলি MBOX ফাইল তৈরি এবং খুলতে পারে৷",
+  "linktitle": "MBOX",
+  "menu": {
+    "docs": {
+      "parent": "email",
+      "identifier": "email-mbox-bn"
+    }
+  },
+  "lastmod": "2019-09-10"
 }
 
 ## একটি MBOX ফাইল কি?

@@ -1,19 +1,20 @@
 {
-  "date" : "2019-10-11",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-},
-  "draft" : "false",
-  "toc" : true,
-  "title" : "EML - ইমেইল বার্তা",
-  "description":"EML ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা EML ফাইল তৈরি এবং খুলতে পারে।",
-  "linktitle" : "EML",
-  "menu" : {
-    "docs" : {
-      "parent" : "email"
-}
-},
-  "lastmod" : "2019-09-16"
+  "date": "2019-10-11",
+  "author": {
+    "display_name": "Kashif Iqbal"
+  },
+  "draft": "false",
+  "toc": true,
+  "title": "EML - ইমেইল বার্তা",
+  "description": "EML ফাইল ফরম্যাট এবং API সম্পর্কে জানুন যা EML ফাইল তৈরি এবং খুলতে পারে।",
+  "linktitle": "EML",
+  "menu": {
+    "docs": {
+      "parent": "email",
+      "identifier": "email-eml-bn"
+    }
+  },
+  "lastmod": "2019-09-16"
 }
 
 ## একটি EML ফাইল কি?
