@@ -1,20 +1,30 @@
 {
-  "date" : "2020-08-20",
-  "keywords" : [ "otf file", "otf file format", "what is a otf file", "file", "otf example", "otf file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2020-08-20",
+  "keywords": [
+    "otf file",
+    "otf file format",
+    "what is a otf file",
+    "file",
+    "otf example",
+    "otf file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "OTF - TrueType Font File Format",
-  "description":"Learn about OTF file format and APIs that can create and open OTF files.",
-  "linktitle" : "OTF",
-  "menu" : {
-    "docs" : {
-      "parent" : "font"
+  "draft": "false",
+  "toc": true,
+  "title": "OTF - TrueType Font File Format",
+  "description": "Learn about OTF file format and APIs that can create and open OTF files.",
+  "linktitle": "OTF",
+  "menu": {
+    "docs": {
+      "parent": "font",
+      "identifier": "font-otf"
     }
   },
-  "lastmod" : "2020-09-21"
+  "lastmod": "2020-09-21"
 }
 
 ## What is a OTF file?

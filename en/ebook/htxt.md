@@ -1,20 +1,29 @@
 {
-  "date" : "2021-03-27",
-  "keywords" : [ "HTXT", "File", "Extension", "File Format", "File Extension", "eBook", "Hanvon WISEreader"],
-  "author" : {
-    "display_name" : "Sami Cheema"
+  "date": "2021-03-27",
+  "keywords": [
+    "HTXT",
+    "File",
+    "Extension",
+    "File Format",
+    "File Extension",
+    "eBook",
+    "Hanvon WISEreader"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about HTXT file format and APIs that can create and open HTXT files.",
-  "title" : "HTXT File Format",
-  "linktitle" : "HTXT",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about HTXT file format and APIs that can create and open HTXT files.",
+  "title": "HTXT File Format",
+  "linktitle": "HTXT",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-htxt"
     }
   },
-  "lastmod" : "2021-03-27"
+  "lastmod": "2021-03-27"
 }
 
 ## What is an HTXT file? ##

@@ -1,20 +1,31 @@
 {
-  "date" : "2021-03-16",
-  "keywords" : [ "DNL", "DNAML eBook File", "file", "extension", "format", "eBook", "DRM", "DNAML DNL Reader", "DNAML DeskTop Author" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-03-16",
+  "keywords": [
+    "DNL",
+    "DNAML eBook File",
+    "file",
+    "extension",
+    "format",
+    "eBook",
+    "DRM",
+    "DNAML DNL Reader",
+    "DNAML DeskTop Author"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about DNL file format and APIs that can create and open DNL files.",
-  "title" : "DNL - DNAML eBook File",
-  "linktitle" : "DNL",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about DNL file format and APIs that can create and open DNL files.",
+  "title": "DNL - DNAML eBook File",
+  "linktitle": "DNL",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-dnl"
     }
   },
-  "lastmod" : "2021-03-16"
+  "lastmod": "2021-03-16"
 }
 
 ## What is a DNL file?

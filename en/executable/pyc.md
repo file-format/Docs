@@ -1,19 +1,20 @@
 {
-  "date" : "2022-05-09",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-05-09",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about PYC file format and APIs that can create and open PYC files.",
-  "title" : "PYC File Format- Python Compiled File",
-  "linktitle" : "PYC",
-  "menu" : {
-    "docs" : {
-      "parent" : "executable"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about PYC file format and APIs that can create and open PYC files.",
+  "title": "PYC File Format- Python Compiled File",
+  "linktitle": "PYC",
+  "menu": {
+    "docs": {
+      "parent": "executable",
+      "identifier": "executable-pyc"
     }
   },
-  "lastmod" : "2022-05-09"
+  "lastmod": "2022-05-09"
 }
 
 ## What is a PYC file?

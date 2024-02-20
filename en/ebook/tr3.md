@@ -1,20 +1,29 @@
 {
-  "date" : "2021-04-10",
-  "keywords" : [ "TR3", "File", "Extension", "File Format", "eBook", "TomeRaider", "Yadabyte" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
+  "date": "2021-04-10",
+  "keywords": [
+    "TR3",
+    "File",
+    "Extension",
+    "File Format",
+    "eBook",
+    "TomeRaider",
+    "Yadabyte"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about TR3 file format and APIs that can create and open TR3 files.",
-  "title" : "TR3 - TomeRaider 3 eBook File",
-  "linktitle" : "TR3",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about TR3 file format and APIs that can create and open TR3 files.",
+  "title": "TR3 - TomeRaider 3 eBook File",
+  "linktitle": "TR3",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-tr3"
     }
   },
-  "lastmod" : "2021-04-10"
+  "lastmod": "2021-04-10"
 }
 
 ## What is a TR3 file? ##

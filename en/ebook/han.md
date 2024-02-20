@@ -1,20 +1,29 @@
 {
-  "date" : "2021-03-27",
-  "keywords" : [ "HAN", "File", "Extension", "File Format", "File Extension", "eBook", "Amazon"],
-  "author" : {
-    "display_name" : "Sami Cheema"
+  "date": "2021-03-27",
+  "keywords": [
+    "HAN",
+    "File",
+    "Extension",
+    "File Format",
+    "File Extension",
+    "eBook",
+    "Amazon"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about HAN file format and APIs that can create and open HAN files.",
-  "title" : "HAN File Format",
-  "linktitle" : "HAN",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about HAN file format and APIs that can create and open HAN files.",
+  "title": "HAN File Format",
+  "linktitle": "HAN",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-han"
     }
   },
-  "lastmod" : "2021-03-27"
+  "lastmod": "2021-03-27"
 }
 
 ## What is a HAN file? ##

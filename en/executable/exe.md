@@ -1,20 +1,30 @@
 {
-  "date" : "2021-06-30",
-  "keywords" : [ "exe file", "exe file format", "what is a exe file", "file", "exe example", "exe file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-06-30",
+  "keywords": [
+    "exe file",
+    "exe file format",
+    "what is a exe file",
+    "file",
+    "exe example",
+    "exe file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"A .exe file is a Microsoft Executable file that is run on Windows OS. Know more about EXE file format.",
-  "title" : "What is an Executable EXE file?",
-  "linktitle" : "EXE",
-  "menu" : {
-    "docs" : {
-      "parent" : "executable"
+  "draft": "false",
+  "toc": true,
+  "description": "A .exe file is a Microsoft Executable file that is run on Windows OS. Know more about EXE file format.",
+  "title": "What is an Executable EXE file?",
+  "linktitle": "EXE",
+  "menu": {
+    "docs": {
+      "parent": "executable",
+      "identifier": "executable-exe"
     }
   },
-  "lastmod" : "2021-06-30"
+  "lastmod": "2021-06-30"
 }
 
 ## What is an EXE file?

@@ -1,19 +1,20 @@
 {
-  "date" : "2019-10-11",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "VCF - Virtual Contact File",
-  "description":"Learn about VCF file format and APIs that can create and open VCF files.",
-  "linktitle" : "VCF",
-  "menu" : {
-    "docs" : {
-      "parent" : "email"
+  "draft": "false",
+  "toc": true,
+  "title": "VCF - Virtual Contact File",
+  "description": "Learn about VCF file format and APIs that can create and open VCF files.",
+  "linktitle": "VCF",
+  "menu": {
+    "docs": {
+      "parent": "email",
+      "identifier": "email-vcf"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is a VCF file?

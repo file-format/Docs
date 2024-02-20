@@ -1,20 +1,29 @@
 {
-  "date" : "2021-04-05",
-  "keywords" : [ "BPNUEB", "PNU eBook File", "File" ,"extension", "format", "eBook", "file type"],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-04-05",
+  "keywords": [
+    "BPNUEB",
+    "PNU eBook File",
+    "File",
+    "extension",
+    "format",
+    "eBook",
+    "file type"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about BPNUEB file format and APIs that can create and open BPNUEB files.",
-  "title" : "BPNUEB - PNU eBook File",
-  "linktitle" : "BPNUEB",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about BPNUEB file format and APIs that can create and open BPNUEB files.",
+  "title": "BPNUEB - PNU eBook File",
+  "linktitle": "BPNUEB",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-bpnueb"
     }
   },
-  "lastmod" : "2021-04-05"
+  "lastmod": "2021-04-05"
 }
 
 ## What is a BPNUEB file?

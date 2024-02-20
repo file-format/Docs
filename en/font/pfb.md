@@ -1,20 +1,30 @@
 {
-  "date" : "2020-08-20",
-  "keywords" : [ "pfb file", "pfb file format", "what is a pfb file", "file", "pfb example", "pfb file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2020-08-20",
+  "keywords": [
+    "pfb file",
+    "pfb file format",
+    "what is a pfb file",
+    "file",
+    "pfb example",
+    "pfb file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "PFB - Printer Font Binary File Format",
-  "description":"Learn about PFB file format and APIs that can create and open PFB files.",
-  "linktitle" : "PFB",
-  "menu" : {
-    "docs" : {
-      "parent" : "font"
+  "draft": "false",
+  "toc": true,
+  "title": "PFB - Printer Font Binary File Format",
+  "description": "Learn about PFB file format and APIs that can create and open PFB files.",
+  "linktitle": "PFB",
+  "menu": {
+    "docs": {
+      "parent": "font",
+      "identifier": "font-pfb"
     }
   },
-  "lastmod" : "2020-09-30"
+  "lastmod": "2020-09-30"
 }
 
 ## What is a PFB file?

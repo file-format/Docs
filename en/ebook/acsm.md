@@ -1,20 +1,29 @@
 {
-  "date" : "2021-03-10",
-  "keywords" : [ "ACSM", "Adobe Content Server Message", "extension", "format", "eBook", "file", "Adobe Digital Editions" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-03-10",
+  "keywords": [
+    "ACSM",
+    "Adobe Content Server Message",
+    "extension",
+    "format",
+    "eBook",
+    "file",
+    "Adobe Digital Editions"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about ACSM file format by Adobe and APIs that can create and open ACSM files.",
-  "title" : "ACSM - Adobe Content Server Message File Format",
-  "linktitle" : "ACSM",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about ACSM file format by Adobe and APIs that can create and open ACSM files.",
+  "title": "ACSM - Adobe Content Server Message File Format",
+  "linktitle": "ACSM",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-acsm"
     }
   },
-  "lastmod" : "2021-05-28"
+  "lastmod": "2021-05-28"
 }
 
 ## What is an ACSM file?

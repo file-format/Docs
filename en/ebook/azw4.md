@@ -1,20 +1,31 @@
 {
-  "date" : "2021-03-12",
-  "keywords" : [ "AZW4", " Amazon Print Replica eBook", "extension", "file", "format", "eBook", "Kindle eReader" ,"Textbooks", "PDF"],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-03-12",
+  "keywords": [
+    "AZW4",
+    " Amazon Print Replica eBook",
+    "extension",
+    "file",
+    "format",
+    "eBook",
+    "Kindle eReader",
+    "Textbooks",
+    "PDF"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about Amazon AZW4 file format and APIs that can create and open AZW1 files.",
-  "title" : "AZW4 - Amazon Print Replica eBook",
-  "linktitle" : "AZW4",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about Amazon AZW4 file format and APIs that can create and open AZW1 files.",
+  "title": "AZW4 - Amazon Print Replica eBook",
+  "linktitle": "AZW4",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-azw4"
     }
   },
-  "lastmod" : "2021-03-12"
+  "lastmod": "2021-03-12"
 }
 
 ## What is an AZW4 file?

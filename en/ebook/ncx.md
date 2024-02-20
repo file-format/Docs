@@ -1,20 +1,29 @@
 {
-  "date" : "2021-03-23",
-  "keywords" : [ "NCX", "EPUB Navigation Control XML File", "extension", "format", "E-Book", "TOC", "DAISY Consortium"],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-03-23",
+  "keywords": [
+    "NCX",
+    "EPUB Navigation Control XML File",
+    "extension",
+    "format",
+    "E-Book",
+    "TOC",
+    "DAISY Consortium"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about EPUB Navigation Control XML File(NCX)file format and APIs that can create and open NCX files.",
-  "title" : "NCX - EPUB Navigation Control XML File",
-  "linktitle" : "NCX",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about EPUB Navigation Control XML File(NCX)file format and APIs that can create and open NCX files.",
+  "title": "NCX - EPUB Navigation Control XML File",
+  "linktitle": "NCX",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-ncx"
     }
   },
-  "lastmod" : "2021-03-22"
+  "lastmod": "2021-03-22"
 }
 
 ## What is an NCX file? ##

@@ -1,20 +1,27 @@
 {
-  "date" : "2021-08-10",
-  "keywords" : [ ".wbfs file", "file format", "what is a .wbfs file", "file", "file extension"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-08-10",
+  "keywords": [
+    ".wbfs file",
+    "file format",
+    "what is a .wbfs file",
+    "file",
+    "file extension"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-   "toc" : true,
-  "description" : "Learn about what is a .wbfs file and APIs that can create and open wbfs files.",
-  "title" : "WBFS File Format - Wii Backup File System File",
-  "linktitle" : "WBFS",
-  "menu" : {
-    "docs" : {
-      "parent" : "disc-and-media"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about what is a .wbfs file and APIs that can create and open wbfs files.",
+  "title": "WBFS File Format - Wii Backup File System File",
+  "linktitle": "WBFS",
+  "menu": {
+    "docs": {
+      "parent": "disc-and-media",
+      "identifier": "disc-and-media-wbfs"
     }
   },
-  "lastmod" : "2022-01-03"
+  "lastmod": "2022-01-03"
 }
 
 ## What is a WBFS file?

@@ -1,20 +1,26 @@
 {
-  "date" : "2021-02-25",
-  "keywords": [ "ttc file", "ttc file format", "extension", "format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-02-25",
+  "keywords": [
+    "ttc file",
+    "ttc file format",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "TTC - TrueType Collection File Format",
-  "description":"A TrueType Collection (TTC) file combines multiple fonts into a single file. Both Apple and Microsoft used TTF on Mac and Windows Operating systems.",
-  "linktitle" : "TTC",
-  "menu" : {
-    "docs" : {
-      "parent" : "font"
+  "draft": "false",
+  "toc": true,
+  "title": "TTC - TrueType Collection File Format",
+  "description": "A TrueType Collection (TTC) file combines multiple fonts into a single file. Both Apple and Microsoft used TTF on Mac and Windows Operating systems.",
+  "linktitle": "TTC",
+  "menu": {
+    "docs": {
+      "parent": "font",
+      "identifier": "font-ttc"
     }
   },
-  "lastmod" : "2021-02-25"
+  "lastmod": "2021-02-25"
 }
 
 ## What is a TTC file?

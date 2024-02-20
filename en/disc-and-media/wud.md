@@ -1,19 +1,20 @@
 {
-  "date" : "2022-03-13",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-03-13",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-   "toc" : true,
-  "description" : "Learn about WUD file format and APIs that can create and open WUD files.",
-  "title" : "WUD File Format - Wii U Disk Image File",
-  "linktitle" : "WUD",
-  "menu" : {
-    "docs" : {
-      "parent" : "disc-and-media"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about WUD file format and APIs that can create and open WUD files.",
+  "title": "WUD File Format - Wii U Disk Image File",
+  "linktitle": "WUD",
+  "menu": {
+    "docs": {
+      "parent": "disc-and-media",
+      "identifier": "disc-and-media-wud"
     }
   },
-  "lastmod" : "2022-03-13"
+  "lastmod": "2022-03-13"
 }
 
 ## What is a WUD file?

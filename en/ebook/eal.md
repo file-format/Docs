@@ -1,20 +1,28 @@
 {
-  "date" : "2021-03-16",
-  "keywords" : [ "EAL", "Kindle End Actions File", "extension", "format", "eBook", "Amazon Kindle e-reading device"],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-03-16",
+  "keywords": [
+    "EAL",
+    "Kindle End Actions File",
+    "extension",
+    "format",
+    "eBook",
+    "Amazon Kindle e-reading device"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about EAL file format and APIs that can create and open EAL files.",
-  "title" : "EAL - Kindle End Actions File",
-  "linktitle" : "EAL",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about EAL file format and APIs that can create and open EAL files.",
+  "title": "EAL - Kindle End Actions File",
+  "linktitle": "EAL",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-eal"
     }
   },
-  "lastmod" : "2021-03-16"
+  "lastmod": "2021-03-16"
 }
 
 ## What is an EAL File? ##

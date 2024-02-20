@@ -1,20 +1,30 @@
 {
-  "date" : "2021-08-31",
-  "keywords" : [ "xbe file", "xbe file format", "what is an xbe file", "file", "xbe example", "xbe file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-08-31",
+  "keywords": [
+    "xbe file",
+    "xbe file format",
+    "what is an xbe file",
+    "file",
+    "xbe example",
+    "xbe file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about XBE file format and APIs that can create and open XBE files.",
-  "title" : "XBE - iOS Application Package File",
-  "linktitle" : "XBE",
-  "menu" : {
-    "docs" : {
-      "parent" : "executable"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about XBE file format and APIs that can create and open XBE files.",
+  "title": "XBE - iOS Application Package File",
+  "linktitle": "XBE",
+  "menu": {
+    "docs": {
+      "parent": "executable",
+      "identifier": "executable-xbe"
     }
   },
-  "lastmod" : "2021-08-31"
+  "lastmod": "2021-08-31"
 }
 
 ## What is an XBE file?

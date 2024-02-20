@@ -1,20 +1,27 @@
 {
-  "date" : "2021-03-09",
-  "keywords" : [ "TCR", "Psion", "extension", "format", "eBook" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-03-09",
+  "keywords": [
+    "TCR",
+    "Psion",
+    "extension",
+    "format",
+    "eBook"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about TCR file format for the Psion 3 series and APIs that can create and open tcr files.",
-  "title" : "TCR - Psion Series 3 eBook File",
-  "linktitle" : "TCR",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about TCR file format for the Psion 3 series and APIs that can create and open tcr files.",
+  "title": "TCR - Psion Series 3 eBook File",
+  "linktitle": "TCR",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-tcr"
     }
   },
-  "lastmod" : "2021-03-09"
+  "lastmod": "2021-03-09"
 }
 
 ## What is a TCR file?

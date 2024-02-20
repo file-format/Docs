@@ -1,20 +1,30 @@
 {
-  "date" : "2020-08-20",
-  "keywords" : [ "ttf file", "ttf file format", "what is a ttf file", "file", "ttf example", "ttf file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2020-08-20",
+  "keywords": [
+    "ttf file",
+    "ttf file format",
+    "what is a ttf file",
+    "file",
+    "ttf example",
+    "ttf file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "TTF - TrueType Font File Format",
-  "description":"TrueType fonts (TTF)are based on digital font technology specifications initially designed by Apple, Inc. Both Apple and Microsoft used TTF on Mac and Windows Operating systems.",
-  "linktitle" : "TTF",
-  "menu" : {
-    "docs" : {
-      "parent" : "font"
+  "draft": "false",
+  "toc": true,
+  "title": "TTF - TrueType Font File Format",
+  "description": "TrueType fonts (TTF)are based on digital font technology specifications initially designed by Apple, Inc. Both Apple and Microsoft used TTF on Mac and Windows Operating systems.",
+  "linktitle": "TTF",
+  "menu": {
+    "docs": {
+      "parent": "font",
+      "identifier": "font-ttf"
     }
   },
-  "lastmod" : "2020-09-21"
+  "lastmod": "2020-09-21"
 }
 
 ## What is a TTF file?

@@ -1,20 +1,29 @@
 {
-  "date" : "2021-03-15",
-  "keywords" : [ "CEB", "Apabi eBook Files", "extension", "format", "eBook", "Chinese eBook", "Apabi Reader 4.5" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-03-15",
+  "keywords": [
+    "CEB",
+    "Apabi eBook Files",
+    "extension",
+    "format",
+    "eBook",
+    "Chinese eBook",
+    "Apabi Reader 4.5"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about CEB file format and APIs that can create and open CEB files.",
-  "title" : "CEB - Apabi eBook File",
-  "linktitle" : "CEB",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about CEB file format and APIs that can create and open CEB files.",
+  "title": "CEB - Apabi eBook File",
+  "linktitle": "CEB",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-ceb"
     }
   },
-  "lastmod" : "2021-03-15"
+  "lastmod": "2021-03-15"
 }
 
 ## What is a CEB file?

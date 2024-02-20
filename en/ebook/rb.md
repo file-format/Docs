@@ -1,20 +1,28 @@
 {
-  "date" : "2021-03-08",
-  "keywords" : [ "RB", "Nuvo Media’s Rocket eBook device", "file", "extension", "format", "eBook" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-03-08",
+  "keywords": [
+    "RB",
+    "Nuvo Media’s Rocket eBook device",
+    "file",
+    "extension",
+    "format",
+    "eBook"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about RB file format for Nuvo Media’s Rocket eBook device and APIs that can create and open RB files.",
-  "title" : "RB - Rocket eBook File",
-  "linktitle" : "RB",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about RB file format for Nuvo Media’s Rocket eBook device and APIs that can create and open RB files.",
+  "title": "RB - Rocket eBook File",
+  "linktitle": "RB",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-rb"
     }
   },
-  "lastmod" : "2021-03-08"
+  "lastmod": "2021-03-08"
 }
 
 ## What is an RB file?

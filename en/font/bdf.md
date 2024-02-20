@@ -1,20 +1,30 @@
 {
-  "date" : "2021-02-25",
-  "keywords" : [ "bdf file", "bdf file format", "what is a bdf file", "file", "bdf example", "bdf file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-02-25",
+  "keywords": [
+    "bdf file",
+    "bdf file format",
+    "what is a bdf file",
+    "file",
+    "bdf example",
+    "bdf file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "BDF - Glyph Bitmap Distribution Format",
-  "description":"Learn about BDF file format and APIs that can create and open BDF files.",
-  "linktitle" : "BDF",
-  "menu" : {
-    "docs" : {
-      "parent" : "font"
+  "draft": "false",
+  "toc": true,
+  "title": "BDF - Glyph Bitmap Distribution Format",
+  "description": "Learn about BDF file format and APIs that can create and open BDF files.",
+  "linktitle": "BDF",
+  "menu": {
+    "docs": {
+      "parent": "font",
+      "identifier": "font-bdf"
     }
   },
-  "lastmod" : "2021-02-25"
+  "lastmod": "2021-02-25"
 }
 
 ## What is a BDF file?

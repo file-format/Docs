@@ -1,20 +1,32 @@
 {
-  "date" : "2021-08-06",
-  "keywords" : [ "ccd file", "ccd file format", "what is an ccd file", "file", "ccd example", "ccd file extension","extension", "format", "CloneCD Control", "img" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-08-06",
+  "keywords": [
+    "ccd file",
+    "ccd file format",
+    "what is an ccd file",
+    "file",
+    "ccd example",
+    "ccd file extension",
+    "extension",
+    "format",
+    "CloneCD Control",
+    "img"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-   "toc" : true,
-  "description" : "Learn about CCD file format and APIs that can create and open CCD files.",
-  "title" : "CCD - CloneCD Control File",
-  "linktitle" : "CCD",
-  "menu" : {
-    "docs" : {
-      "parent" : "disc-and-media"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about CCD file format and APIs that can create and open CCD files.",
+  "title": "CCD - CloneCD Control File",
+  "linktitle": "CCD",
+  "menu": {
+    "docs": {
+      "parent": "disc-and-media",
+      "identifier": "disc-and-media-ccd"
     }
   },
-  "lastmod" : "2021-08-06"
+  "lastmod": "2021-08-06"
 }
 
 ## What is a CCD file?

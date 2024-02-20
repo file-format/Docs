@@ -1,20 +1,29 @@
 {
-  "date" : "2021-04-10",
-  "keywords" : [ "TR", "File", "Extension", "File Format", "eBook", "TomeRaider", "Yadabyte" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
+  "date": "2021-04-10",
+  "keywords": [
+    "TR",
+    "File",
+    "Extension",
+    "File Format",
+    "eBook",
+    "TomeRaider",
+    "Yadabyte"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about TR file format and APIs that can create and open TR files.",
-  "title" : "TR File Format - TomeRaider eBook File",
-  "linktitle" : "TR",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about TR file format and APIs that can create and open TR files.",
+  "title": "TR File Format - TomeRaider eBook File",
+  "linktitle": "TR",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-tr"
     }
   },
-  "lastmod" : "2021-04-10"
+  "lastmod": "2021-04-10"
 }
 
 ## What is a TR file? ##

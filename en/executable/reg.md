@@ -1,20 +1,30 @@
 {
-  "date" : "2021-08-02",
-  "keywords" : [ "reg file", "reg file format", "what is a reg file", "file", "reg example", "reg file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-08-02",
+  "keywords": [
+    "reg file",
+    "reg file format",
+    "what is a reg file",
+    "file",
+    "reg example",
+    "reg file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about REG file format and APIs that can create and open REG files.",
-  "title" : "REG - Windows Registry File",
-  "linktitle" : "REG",
-  "menu" : {
-    "docs" : {
-      "parent" : "executable"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about REG file format and APIs that can create and open REG files.",
+  "title": "REG - Windows Registry File",
+  "linktitle": "REG",
+  "menu": {
+    "docs": {
+      "parent": "executable",
+      "identifier": "executable-reg"
     }
   },
-  "lastmod" : "2021-08-02"
+  "lastmod": "2021-08-02"
 }
 
 ## What is a REG file?

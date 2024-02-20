@@ -1,20 +1,29 @@
 {
-  "date" : "2021-04-05",
-  "keywords" : [ "AVA", "AvaaBook eBook File", "file" ,"extension", "format", "eBook", "file type"],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-04-05",
+  "keywords": [
+    "AVA",
+    "AvaaBook eBook File",
+    "file",
+    "extension",
+    "format",
+    "eBook",
+    "file type"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about AVA file format and APIs that can create and open AVA files.",
-  "title" : "AVA - AvaaBook eBook File",
-  "linktitle" : "AVA",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about AVA file format and APIs that can create and open AVA files.",
+  "title": "AVA - AvaaBook eBook File",
+  "linktitle": "AVA",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-ava"
     }
   },
-  "lastmod" : "2021-05-28"
+  "lastmod": "2021-05-28"
 }
 
 ## What is an AVA file?

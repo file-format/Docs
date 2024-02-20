@@ -1,20 +1,27 @@
 {
-  "date" : "2021-03-20",
-  "keywords" : [ "WEBZ", "File", "Extension", "File Format", "eBook"],
-  "author" : {
-    "display_name" : "Sami Cheema"
+  "date": "2021-03-20",
+  "keywords": [
+    "WEBZ",
+    "File",
+    "Extension",
+    "File Format",
+    "eBook"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about WEBZ file format and APIs that can create and open WEBZ files.",
-  "title" : "WEBZ File Format",
-  "linktitle" : "WEBZ",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about WEBZ file format and APIs that can create and open WEBZ files.",
+  "title": "WEBZ File Format",
+  "linktitle": "WEBZ",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-webz"
     }
   },
-  "lastmod" : "2021-03-20"
+  "lastmod": "2021-03-20"
 }
 
 ## What is a WEBZ file? ##

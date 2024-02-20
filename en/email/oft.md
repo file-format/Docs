@@ -1,19 +1,20 @@
 {
-  "date" : "2019-10-11",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "OFT - Microsoft Outlook Email Template File",
-  "description":"Learn about OFT file format and APIs that can create and open OFT files.",
-  "linktitle" : "OFT",
-  "menu" : {
-    "docs" : {
-      "parent" : "email"
+  "draft": "false",
+  "toc": true,
+  "title": "OFT - Microsoft Outlook Email Template File",
+  "description": "Learn about OFT file format and APIs that can create and open OFT files.",
+  "linktitle": "OFT",
+  "menu": {
+    "docs": {
+      "parent": "email",
+      "identifier": "email-oft"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is an OFT file?

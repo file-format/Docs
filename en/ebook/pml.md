@@ -1,20 +1,28 @@
 {
-  "date" : "2021-03-08",
-  "keywords" : [ "PML", "eReader", "extension", "format", "eBook", "Palm Markup Language" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-03-08",
+  "keywords": [
+    "PML",
+    "eReader",
+    "extension",
+    "format",
+    "eBook",
+    "Palm Markup Language"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about PML file format, Palm Markup Language and APIs that can create and open PML files.",
-  "title" : "PML - Palm Markup Language File",
-  "linktitle" : "PML",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about PML file format, Palm Markup Language and APIs that can create and open PML files.",
+  "title": "PML - Palm Markup Language File",
+  "linktitle": "PML",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-pml"
     }
   },
-  "lastmod" : "2021-03-08"
+  "lastmod": "2021-03-08"
 }
 
 ## What is a PML file?

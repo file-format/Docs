@@ -1,20 +1,29 @@
 {
-  "date" : "2021-07-12",
-  "keywords" : [ "cmd file", "what is a cmd file", "file", "cmd example", "cmd file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-07-12",
+  "keywords": [
+    "cmd file",
+    "what is a cmd file",
+    "file",
+    "cmd example",
+    "cmd file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about CMD file format and APIs that can create and open CMD files.",
-  "title" : "CMD - Windows Command File Format",
-  "linktitle" : "CMD",
-  "menu" : {
-    "docs" : {
-      "parent" : "executable"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about CMD file format and APIs that can create and open CMD files.",
+  "title": "CMD - Windows Command File Format",
+  "linktitle": "CMD",
+  "menu": {
+    "docs": {
+      "parent": "executable",
+      "identifier": "executable-cmd"
     }
   },
-  "lastmod" : "2021-07-12"
+  "lastmod": "2021-07-12"
 }
 
 ## What is a CMD file?

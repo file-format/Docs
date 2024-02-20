@@ -1,20 +1,28 @@
 {
-  "date" : "2019-12-12",
-  "keywords" : [ "MOBI", "file", "extension", "format", "eBook", "MobiPocket" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-12-12",
+  "keywords": [
+    "MOBI",
+    "file",
+    "extension",
+    "format",
+    "eBook",
+    "MobiPocket"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about MOBI file format and APIs that can create and open MOBI files.",
-  "title" : "MOBI File Format",
-  "linktitle" : "MOBI",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about MOBI file format and APIs that can create and open MOBI files.",
+  "title": "MOBI File Format",
+  "linktitle": "MOBI",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-mobi"
     }
   },
-  "lastmod" : "2019-12-12"
+  "lastmod": "2019-12-12"
 }
 
 ## What is a MOBI file?

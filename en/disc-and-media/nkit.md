@@ -1,20 +1,32 @@
 {
-  "date" : "2022-04-01",
-  "keywords" : [ "nkit file", "nkit file format", "what is an nkit file", "file", "nkit example", "nkit file extension","extension", "format", "nkit footer", "file format of nkit"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-04-01",
+  "keywords": [
+    "nkit file",
+    "nkit file format",
+    "what is an nkit file",
+    "file",
+    "nkit example",
+    "nkit file extension",
+    "extension",
+    "format",
+    "nkit footer",
+    "file format of nkit"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-   "toc" : true,
-  "description" : "Learn about NKIT file format and APIs that can create and open NKIT files.",
-  "title" : "NKIT - Disk Image File Format",
-  "linktitle" : "NKIT",
-  "menu" : {
-    "docs" : {
-      "parent" : "disc-and-media"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about NKIT file format and APIs that can create and open NKIT files.",
+  "title": "NKIT - Disk Image File Format",
+  "linktitle": "NKIT",
+  "menu": {
+    "docs": {
+      "parent": "disc-and-media",
+      "identifier": "disc-and-media-nkit"
     }
   },
-  "lastmod" : "2022-04-01"
+  "lastmod": "2022-04-01"
 }
 
 ## What is an NKIT file?

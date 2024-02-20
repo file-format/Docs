@@ -1,20 +1,29 @@
 {
-  "date" : "2021-03-11",
-  "keywords" : [ "APNX", "Amazon Page Number Index", "extension", "file", "format", "eBook", "Amazon Kindle" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-03-11",
+  "keywords": [
+    "APNX",
+    "Amazon Page Number Index",
+    "extension",
+    "file",
+    "format",
+    "eBook",
+    "Amazon Kindle"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about Amazon APNX file format and APIs that can create and open APNX files.",
-  "title" : "APNX - Amazon Page Number Index",
-  "linktitle" : "APNX",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about Amazon APNX file format and APIs that can create and open APNX files.",
+  "title": "APNX - Amazon Page Number Index",
+  "linktitle": "APNX",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-apnx"
     }
   },
-  "lastmod" : "2021-05-28"
+  "lastmod": "2021-05-28"
 }
 
 ## What is an APNX file? ##

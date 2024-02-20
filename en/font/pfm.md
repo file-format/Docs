@@ -1,20 +1,30 @@
 {
-  "date" : "2020-08-20",
-  "keywords" : [ "pfm file", "pfm file format", "what is a pfm file", "file", "pfm example", "pfm file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2020-08-20",
+  "keywords": [
+    "pfm file",
+    "pfm file format",
+    "what is a pfm file",
+    "file",
+    "pfm example",
+    "pfm file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "PFM - Printer Font Metrics File Format",
-  "description":"Learn about PFM file format and APIs that can create and open PFM files.",
-  "linktitle" : "PFM",
-  "menu" : {
-    "docs" : {
-      "parent" : "font"
+  "draft": "false",
+  "toc": true,
+  "title": "PFM - Printer Font Metrics File Format",
+  "description": "Learn about PFM file format and APIs that can create and open PFM files.",
+  "linktitle": "PFM",
+  "menu": {
+    "docs": {
+      "parent": "font",
+      "identifier": "font-pfm"
     }
   },
-  "lastmod" : "2020-09-30"
+  "lastmod": "2020-09-30"
 }
 
 ## What is a PFM file?

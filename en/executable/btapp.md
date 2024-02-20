@@ -1,19 +1,20 @@
 {
-  "date" : "2022-05-16",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-05-16",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about BTAPP file format and APIs that can create and open BTAPP files.",
-  "title" : "BTAPP File Format - uTorrent App",
-  "linktitle" : "BTAPP",
-  "menu" : {
-    "docs" : {
-      "parent" : "executable"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about BTAPP file format and APIs that can create and open BTAPP files.",
+  "title": "BTAPP File Format - uTorrent App",
+  "linktitle": "BTAPP",
+  "menu": {
+    "docs": {
+      "parent": "executable",
+      "identifier": "executable-btapp"
     }
   },
-  "lastmod" : "2022-05-16"
+  "lastmod": "2022-05-16"
 }
 
 ## What is a BTAPP file?

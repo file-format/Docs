@@ -1,20 +1,29 @@
 {
-  "date" : "2021-03-12",
-  "keywords" : [ "BKK", "BookBuddi eBook File", "extension", "format", "eBook", "BookBuddi" ,"Microsoft Text to Speech Agent"],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-03-12",
+  "keywords": [
+    "BKK",
+    "BookBuddi eBook File",
+    "extension",
+    "format",
+    "eBook",
+    "BookBuddi",
+    "Microsoft Text to Speech Agent"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about Amazon BKK file format and APIs that can create and open BKK files.",
-  "title" : "BKK - BookBuddi eBook File",
-  "linktitle" : "BKK",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about Amazon BKK file format and APIs that can create and open BKK files.",
+  "title": "BKK - BookBuddi eBook File",
+  "linktitle": "BKK",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-bkk"
     }
   },
-  "lastmod" : "2021-03-12"
+  "lastmod": "2021-03-12"
 }
 
 ## What is a BKK file?

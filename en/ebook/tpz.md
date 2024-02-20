@@ -1,20 +1,30 @@
 {
-  "date" : "2021-04-10",
-  "keywords" : [ "TPZ", "File", "Extension", "File Format", "eBook", "Kindle Topaz eBook", "Amazon Kindle", "Caliber"],
-  "author" : {
-    "display_name" : "Sami Cheema"
+  "date": "2021-04-10",
+  "keywords": [
+    "TPZ",
+    "File",
+    "Extension",
+    "File Format",
+    "eBook",
+    "Kindle Topaz eBook",
+    "Amazon Kindle",
+    "Caliber"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about TPZ file format and APIs that can create and open TPZ files.",
-  "title" : "TPZ File Format",
-  "linktitle" : "TPZ",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about TPZ file format and APIs that can create and open TPZ files.",
+  "title": "TPZ File Format",
+  "linktitle": "TPZ",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-tpz"
     }
   },
-  "lastmod" : "2021-04-10"
+  "lastmod": "2021-04-10"
 }
 
 ## What is a TPZ file? ##

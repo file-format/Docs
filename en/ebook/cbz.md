@@ -1,20 +1,29 @@
 {
-  "date" : "2019-12-12",
-  "keywords" : [ "CBZ", "extension", "file", "file format", "Comic books", "Comic Books File Format", "eBook Files" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-12-12",
+  "keywords": [
+    "CBZ",
+    "extension",
+    "file",
+    "file format",
+    "Comic books",
+    "Comic Books File Format",
+    "eBook Files"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about CBZ file format and APIs that can create and open CBZ files.",
-  "title" : "CBZ - Comic Book ZIP Archive File Format",
-  "linktitle" : "CBZ",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about CBZ file format and APIs that can create and open CBZ files.",
+  "title": "CBZ - Comic Book ZIP Archive File Format",
+  "linktitle": "CBZ",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-cbz"
     }
   },
-  "lastmod" : "2021-03-03"
+  "lastmod": "2021-03-03"
 }
 
 ## What is a CBZ file?

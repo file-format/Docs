@@ -1,20 +1,30 @@
 {
-  "date" : "2021-04-10",
-  "keywords" : [ "TK3", "File", "Extension", "File Format", "eBook", "TK3 Reader", "Night Kitchen, Inc", "Wintec's WBT-201" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
+  "date": "2021-04-10",
+  "keywords": [
+    "TK3",
+    "File",
+    "Extension",
+    "File Format",
+    "eBook",
+    "TK3 Reader",
+    "Night Kitchen, Inc",
+    "Wintec's WBT-201"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about TK3 file format and APIs that can create and open TK3 files.",
-  "title" : "TK3 File Format",
-  "linktitle" : "TK3",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about TK3 file format and APIs that can create and open TK3 files.",
+  "title": "TK3 File Format",
+  "linktitle": "TK3",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-tk3"
     }
   },
-  "lastmod" : "2021-04-10"
+  "lastmod": "2021-04-10"
 }
 
 ## What is a TK3 file? ##

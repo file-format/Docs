@@ -1,20 +1,29 @@
 {
-  "date" : "2019-12-12",
-  "keywords" : [ "CBR", "extension", "file", "format", "Comic books", "Comic Books File Format", "eBook" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-12-12",
+  "keywords": [
+    "CBR",
+    "extension",
+    "file",
+    "format",
+    "Comic books",
+    "Comic Books File Format",
+    "eBook"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about CBR file format and APIs that can create and open CBR files.",
-  "title" : "CBR - Comic Book RAR Archive File Format",
-  "linktitle" : "CBR",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about CBR file format and APIs that can create and open CBR files.",
+  "title": "CBR - Comic Book RAR Archive File Format",
+  "linktitle": "CBR",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-cbr"
     }
   },
-  "lastmod" : "2021-03-03"
+  "lastmod": "2021-03-03"
 }
 
 ## What is a CBR file?

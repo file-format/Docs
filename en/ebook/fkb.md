@@ -1,20 +1,29 @@
 {
-  "date" : "2021-04-03",
-  "keywords" : [ "FKB", "File", "Extension", "File Format", "File Extension", "eBook", "Flipkart"],
-  "author" : {
-    "display_name" : "Sami Cheema"
+  "date": "2021-04-03",
+  "keywords": [
+    "FKB",
+    "File",
+    "Extension",
+    "File Format",
+    "File Extension",
+    "eBook",
+    "Flipkart"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about FKB file format and APIs that can create and open FKB files.",
-  "title" : "FKB File Format",
-  "linktitle" : "FKB",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about FKB file format and APIs that can create and open FKB files.",
+  "title": "FKB File Format",
+  "linktitle": "FKB",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-fkb"
     }
   },
-  "lastmod" : "2021-04-03"
+  "lastmod": "2021-04-03"
 }
 
 ## What is an FKB file? ##

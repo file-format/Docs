@@ -1,20 +1,30 @@
 {
-  "date" : "2021-03-28",
-  "keywords" : [ "POBI", "orb reader", "File" ,"extension", "format", "eBook", "Original eBook Reader File", "file type"],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-03-28",
+  "keywords": [
+    "POBI",
+    "orb reader",
+    "File",
+    "extension",
+    "format",
+    "eBook",
+    "Original eBook Reader File",
+    "file type"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about POBI file format and APIs that can create and open POBI files.",
-  "title" : "POBI - Kindle Touch Periodical File",
-  "linktitle" : "POBI",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about POBI file format and APIs that can create and open POBI files.",
+  "title": "POBI - Kindle Touch Periodical File",
+  "linktitle": "POBI",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-pobi"
     }
   },
-  "lastmod" : "2021-03-28"
+  "lastmod": "2021-03-28"
 }
 
 ## What is a POBI file?

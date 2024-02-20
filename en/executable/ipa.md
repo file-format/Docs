@@ -1,20 +1,30 @@
 {
-  "date" : "2021-08-30",
-  "keywords" : [ "ipa file", "ipa file format", "what is a ipa file", "file", "ipa example", "ipa file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-08-30",
+  "keywords": [
+    "ipa file",
+    "ipa file format",
+    "what is a ipa file",
+    "file",
+    "ipa example",
+    "ipa file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about IPA file format and APIs that can create and open IPA files.",
-  "title" : "IPA - iOS Application Package File",
-  "linktitle" : "IPA",
-  "menu" : {
-    "docs" : {
-      "parent" : "executable"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about IPA file format and APIs that can create and open IPA files.",
+  "title": "IPA - iOS Application Package File",
+  "linktitle": "IPA",
+  "menu": {
+    "docs": {
+      "parent": "executable",
+      "identifier": "executable-ipa"
     }
   },
-  "lastmod" : "2021-08-30"
+  "lastmod": "2021-08-30"
 }
 
 ## What is a IPA file?

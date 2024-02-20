@@ -1,20 +1,29 @@
 {
-  "date" : "2021-06-23",
-  "keywords": [ "Bin file", "what is a bin file", "extension", "format", "disc image", "what is a bin file", "iso" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-06-23",
+  "keywords": [
+    "Bin file",
+    "what is a bin file",
+    "extension",
+    "format",
+    "disc image",
+    "what is a bin file",
+    "iso"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
- "toc" : true,	
-  "description" : "Learn about BIN file format and APIs that can create and open BIN files.",
-  "title" : "BIN - Binary Disc Image File",
-  "linktitle" : "BIN",
-  "menu" : {
-    "docs" : {
-      "parent" : "disc-and-media"
-     }
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about BIN file format and APIs that can create and open BIN files.",
+  "title": "BIN - Binary Disc Image File",
+  "linktitle": "BIN",
+  "menu": {
+    "docs": {
+      "parent": "disc-and-media",
+      "identifier": "disc-and-media-bin"
+    }
   },
-  "lastmod" : "2021-06-23"
+  "lastmod": "2021-06-23"
 }
 
 ## What is a BIN file?

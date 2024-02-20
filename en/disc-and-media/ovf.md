@@ -1,20 +1,27 @@
 {
-  "date" : "2021-08-10",
-  "keywords" : [ ".ovf file", "file format", "what is an .ovf file", "file", "file extension"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-08-10",
+  "keywords": [
+    ".ovf file",
+    "file format",
+    "what is an .ovf file",
+    "file",
+    "file extension"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-   "toc" : true,
-  "description" : "Learn about what is a .ovf file format and APIs that can create and open OVF files.",
-  "title" : "OVF File Format - Open Virtualization File",
-  "linktitle" : "OVF",
-  "menu" : {
-    "docs" : {
-      "parent" : "disc-and-media"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about what is a .ovf file format and APIs that can create and open OVF files.",
+  "title": "OVF File Format - Open Virtualization File",
+  "linktitle": "OVF",
+  "menu": {
+    "docs": {
+      "parent": "disc-and-media",
+      "identifier": "disc-and-media-ovf"
     }
   },
-  "lastmod" : "2022-01-03"
+  "lastmod": "2022-01-03"
 }
 
 ## What is an OVF file?

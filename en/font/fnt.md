@@ -1,20 +1,30 @@
 {
-  "date" : "2020-08-20",
-  "keywords" : [ "fnt file", "fnt file format", "what is a fnt file", "file", "fnt example", "fnt file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2020-08-20",
+  "keywords": [
+    "fnt file",
+    "fnt file format",
+    "what is a fnt file",
+    "file",
+    "fnt example",
+    "fnt file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "FNT - Windows Font File",
-  "description":"Learn about FNT file format and APIs that can create and open FNT files.",
-  "linktitle" : "FNT",
-  "menu" : {
-    "docs" : {
-      "parent" : "font"
+  "draft": "false",
+  "toc": true,
+  "title": "FNT - Windows Font File",
+  "description": "Learn about FNT file format and APIs that can create and open FNT files.",
+  "linktitle": "FNT",
+  "menu": {
+    "docs": {
+      "parent": "font",
+      "identifier": "font-fnt"
     }
   },
-  "lastmod" : "2020-10-30"
+  "lastmod": "2020-10-30"
 }
 
 ## What is a FNT file?

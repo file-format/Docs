@@ -1,20 +1,26 @@
 {
-  "date" : "2021-06-24",
-  "keywords": [ "VCD file", "what is a vcd file", "extension", "format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-06-24",
+  "keywords": [
+    "VCD file",
+    "what is a vcd file",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-   "toc" : true,
-  "description" : "Learn about VCD file format and APIs that can create and open VCD files.",
-  "title" : "VCD - Virtual CD File",
-  "linktitle" : "VCD",
-  "menu" : {
-    "docs" : {
-      "parent" : "disc-and-media"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about VCD file format and APIs that can create and open VCD files.",
+  "title": "VCD - Virtual CD File",
+  "linktitle": "VCD",
+  "menu": {
+    "docs": {
+      "parent": "disc-and-media",
+      "identifier": "disc-and-media-vcd"
     }
   },
-  "lastmod" : "2021-06-24"
+  "lastmod": "2021-06-24"
 }
 
 ## What is a VCD file?

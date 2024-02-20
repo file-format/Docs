@@ -1,20 +1,29 @@
 {
-  "date" : "2021-03-11",
-  "keywords" : [ "AEP", "Activ E-Book Project", "extension", "file", "format", "eBook", "Adobe Digital Editions" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-03-11",
+  "keywords": [
+    "AEP",
+    "Activ E-Book Project",
+    "extension",
+    "file",
+    "format",
+    "eBook",
+    "Adobe Digital Editions"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
+  "draft": "false",
+  "toc": true,
   "description": "Learn about AEP file format by Adobe and APIs that can create and open AEP files.",
-  "title" : "AEP - Activ E-Book Project",
-  "linktitle" : "AEP",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
+  "title": "AEP - Activ E-Book Project",
+  "linktitle": "AEP",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-aep"
     }
   },
-  "lastmod" : "2021-05-28"
+  "lastmod": "2021-05-28"
 }
 
 ## What is an AEP file? ##

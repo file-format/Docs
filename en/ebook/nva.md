@@ -1,20 +1,28 @@
 {
-  "date" : "2021-03-23",
-  "keywords" : [ "NVA", "NVA Reader File", "extension", "format", "eBook", "NVA Reader"],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-03-23",
+  "keywords": [
+    "NVA",
+    "NVA Reader File",
+    "extension",
+    "format",
+    "eBook",
+    "NVA Reader"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about NVA file format and APIs that can create and open NVA files.",
-  "title" : "NVA -  NVA Reader File",
-  "linktitle" : "NVA",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about NVA file format and APIs that can create and open NVA files.",
+  "title": "NVA -  NVA Reader File",
+  "linktitle": "NVA",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-nva"
     }
   },
-  "lastmod" : "2021-03-22"
+  "lastmod": "2021-03-22"
 }
 
 ## What is an NVA file?

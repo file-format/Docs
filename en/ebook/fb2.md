@@ -1,20 +1,30 @@
 {
-  "date" : "2019-12-12",
-  "keywords" : [ "FB2", "File", "Extension", "File Format", "eBook", "open", "XML", "read" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-12-12",
+  "keywords": [
+    "FB2",
+    "File",
+    "Extension",
+    "File Format",
+    "eBook",
+    "open",
+    "XML",
+    "read"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about FB2 file format and APIs that can create and open FB2 files.",
-  "title" : "What is a FB2 File?",
-  "linktitle" : "FB2",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about FB2 file format and APIs that can create and open FB2 files.",
+  "title": "What is a FB2 File?",
+  "linktitle": "FB2",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-fb2"
     }
   },
-  "lastmod" : "2019-11-22"
+  "lastmod": "2019-11-22"
 }
 
 ## What is a FB2 file?

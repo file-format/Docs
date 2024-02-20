@@ -1,20 +1,30 @@
 {
-  "date" : "2021-08-10",
-  "keywords" : [ "rom file", "rom file format", "what is an rom file", "file", "rom example", "rom file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-08-10",
+  "keywords": [
+    "rom file",
+    "rom file format",
+    "what is an rom file",
+    "file",
+    "rom example",
+    "rom file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-   "toc" : true,
-  "description" : "Learn about ROM file format and APIs that can create and open ROM files.",
-  "title" : "ROM - Read Only Memory Image File",
-  "linktitle" : "ROM",
-  "menu" : {
-    "docs" : {
-      "parent" : "disc-and-media"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about ROM file format and APIs that can create and open ROM files.",
+  "title": "ROM - Read Only Memory Image File",
+  "linktitle": "ROM",
+  "menu": {
+    "docs": {
+      "parent": "disc-and-media",
+      "identifier": "disc-and-media-rom"
     }
   },
-  "lastmod" : "2021-08-10"
+  "lastmod": "2021-08-10"
 }
 
 ## What is a ROM file?

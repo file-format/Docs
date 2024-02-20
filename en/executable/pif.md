@@ -1,20 +1,30 @@
 {
-  "date" : "2021-08-02",
-  "keywords" : [ "pif file", "pif file format", "what is a pif file", "file", "pif example", "pif file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-08-02",
+  "keywords": [
+    "pif file",
+    "pif file format",
+    "what is a pif file",
+    "file",
+    "pif example",
+    "pif file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about PIF file format and APIs that can create and open PIF files.",
-  "title" : "PIF - Program Information File",
-  "linktitle" : "PIF",
-  "menu" : {
-    "docs" : {
-      "parent" : "executable"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about PIF file format and APIs that can create and open PIF files.",
+  "title": "PIF - Program Information File",
+  "linktitle": "PIF",
+  "menu": {
+    "docs": {
+      "parent": "executable",
+      "identifier": "executable-pif"
     }
   },
-  "lastmod" : "2021-08-02"
+  "lastmod": "2021-08-02"
 }
 
 ## What is a PIF file?

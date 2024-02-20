@@ -1,20 +1,29 @@
 {
-  "date" : "2021-06-28",
-  "keywords" : [ "cgi file", "what is a cgi file", "file", "cgi example", "cgi file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-06-28",
+  "keywords": [
+    "cgi file",
+    "what is a cgi file",
+    "file",
+    "cgi example",
+    "cgi file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about CGI file format and APIs that can create and open CGI files.",
-  "title" : "CGI - Common Gateway Interface Script File",
-  "linktitle" : "CGI",
-  "menu" : {
-    "docs" : {
-      "parent" : "executable"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about CGI file format and APIs that can create and open CGI files.",
+  "title": "CGI - Common Gateway Interface Script File",
+  "linktitle": "CGI",
+  "menu": {
+    "docs": {
+      "parent": "executable",
+      "identifier": "executable-cgi"
     }
   },
-  "lastmod" : "2021-06-28"
+  "lastmod": "2021-06-28"
 }
 
 ## What is a CGI file?

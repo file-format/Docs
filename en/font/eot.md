@@ -1,20 +1,30 @@
 {
-  "date" : "2020-08-20",
-  "keywords" : [ "eot file", "eot file format", "what is a eot file", "file", "eot example", "eot file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2020-08-20",
+  "keywords": [
+    "eot file",
+    "eot file format",
+    "what is a eot file",
+    "file",
+    "eot example",
+    "eot file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "EOT - TrueType Font File Format",
-  "description":"Learn about EOT File Format and APIs to create and open EOT files.",
-  "linktitle" : "EOT",
-  "menu" : {
-    "docs" : {
-      "parent" : "font"
+  "draft": "false",
+  "toc": true,
+  "title": "EOT - TrueType Font File Format",
+  "description": "Learn about EOT File Format and APIs to create and open EOT files.",
+  "linktitle": "EOT",
+  "menu": {
+    "docs": {
+      "parent": "font",
+      "identifier": "font-eot"
     }
   },
-  "lastmod" : "2020-10-21"
+  "lastmod": "2020-10-21"
 }
 
 ## What is an EOT file?

@@ -1,20 +1,28 @@
 {
-  "date" : "2019-12-12",
-  "keywords" : [ "LRS", "file", "extension", "format", "E-Book", "Digital book" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-12-12",
+  "keywords": [
+    "LRS",
+    "file",
+    "extension",
+    "format",
+    "E-Book",
+    "Digital book"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about LRS file format and APIs that can create and open LRS files.",
-  "title" : "LRS - Librie Reader Source File Format",
-  "linktitle" : "LRS",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about LRS file format and APIs that can create and open LRS files.",
+  "title": "LRS - Librie Reader Source File Format",
+  "linktitle": "LRS",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-lrs"
     }
   },
-  "lastmod" : "2020-11-04"
+  "lastmod": "2020-11-04"
 }
 
 ## What is an LRS file?

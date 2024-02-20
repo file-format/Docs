@@ -1,20 +1,28 @@
 {
-  "date" : "2019-12-12",
-  "keywords" : [ "LRX", "file", "extension", "format", "E-Book", "Digital book" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-12-12",
+  "keywords": [
+    "LRX",
+    "file",
+    "extension",
+    "format",
+    "E-Book",
+    "Digital book"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about LRX file format and APIs that can create and open LRX files.",
-  "title" : "LRX - Librie Reader Source File Format",
-  "linktitle" : "LRX",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about LRX file format and APIs that can create and open LRX files.",
+  "title": "LRX - Librie Reader Source File Format",
+  "linktitle": "LRX",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-lrx"
     }
   },
-  "lastmod" : "2020-11-04"
+  "lastmod": "2020-11-04"
 }
 
 ## What is an LRX file?

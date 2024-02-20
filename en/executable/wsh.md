@@ -1,20 +1,30 @@
 {
-  "date" : "2021-08-27",
-  "keywords" : [ "wsh file", "wsh file format", "what is a wsh file", "file", "wsh example", "wsh file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-08-27",
+  "keywords": [
+    "wsh file",
+    "wsh file format",
+    "what is a wsh file",
+    "file",
+    "wsh example",
+    "wsh file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about WSH file format and APIs that can create and open WSH files.",
-  "title" : "WSH - Windows Script File",
-  "linktitle" : "WSH",
-  "menu" : {
-    "docs" : {
-      "parent" : "executable"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about WSH file format and APIs that can create and open WSH files.",
+  "title": "WSH - Windows Script File",
+  "linktitle": "WSH",
+  "menu": {
+    "docs": {
+      "parent": "executable",
+      "identifier": "executable-wsh"
     }
   },
-  "lastmod" : "2021-08-27"
+  "lastmod": "2021-08-27"
 }
 
 ## What is a WSH file?

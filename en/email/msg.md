@@ -1,19 +1,20 @@
 {
-  "date" : "2019-10-11",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "MSG - Microsoft Outlook Email Format",
-  "description":"Learn about MSG file format and APIs that can create and open MSG files.",
-  "linktitle" : "MSG",
-  "menu" : {
-    "docs" : {
-      "parent" : "email"
+  "draft": "false",
+  "toc": true,
+  "title": "MSG - Microsoft Outlook Email Format",
+  "description": "Learn about MSG file format and APIs that can create and open MSG files.",
+  "linktitle": "MSG",
+  "menu": {
+    "docs": {
+      "parent": "email",
+      "identifier": "email-msg"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is a MSG file?

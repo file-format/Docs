@@ -1,20 +1,29 @@
 {
-  "date" : "2019-12-12",
-  "keywords" : [ "KF8", "extension", "file", "format", "eBook", "Kindle File Format", "AZW3 File Structure" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-12-12",
+  "keywords": [
+    "KF8",
+    "extension",
+    "file",
+    "format",
+    "eBook",
+    "Kindle File Format",
+    "AZW3 File Structure"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about AZW3 file format and APIs that can create and open AZW3 files.",
-  "title" : "What is an AZW3 file?",
-  "linktitle" : "AZW3",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about AZW3 file format and APIs that can create and open AZW3 files.",
+  "title": "What is an AZW3 file?",
+  "linktitle": "AZW3",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-azw3"
     }
   },
-  "lastmod" : "2021-06-04"
+  "lastmod": "2021-06-04"
 }
 
 ## What is an AZW3 file?

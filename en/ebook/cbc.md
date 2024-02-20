@@ -1,20 +1,29 @@
 {
-  "date" : "2019-12-12",
-  "keywords" : [ "CBC", "extension", "file", "format", "Comic books", "Comic Books File Format", "eBook" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-12-12",
+  "keywords": [
+    "CBC",
+    "extension",
+    "file",
+    "format",
+    "Comic books",
+    "Comic Books File Format",
+    "eBook"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about CBC file format and APIs that can create and open CBC files.",
-  "title" : "CBC - Comic Book Collection File Format",
-  "linktitle" : "CBC",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about CBC file format and APIs that can create and open CBC files.",
+  "title": "CBC - Comic Book Collection File Format",
+  "linktitle": "CBC",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-cbc"
     }
   },
-  "lastmod" : "2021-03-03"
+  "lastmod": "2021-03-03"
 }
 
 ## What is a CBC file?

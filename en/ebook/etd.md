@@ -1,20 +1,30 @@
 {
-  "date" : "2021-04-03",
-  "keywords" : [ "ETD", "File", "Extension", "File Format", "File Extension", "eBook", "Adobe Reader", "EBX Transfer Data Format"],
-  "author" : {
-    "display_name" : "Sami Cheema"
+  "date": "2021-04-03",
+  "keywords": [
+    "ETD",
+    "File",
+    "Extension",
+    "File Format",
+    "File Extension",
+    "eBook",
+    "Adobe Reader",
+    "EBX Transfer Data Format"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about ETD file format and APIs that can create and open ETD files.",
-  "title" : "ETD File Format",
-  "linktitle" : "ETD",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about ETD file format and APIs that can create and open ETD files.",
+  "title": "ETD File Format",
+  "linktitle": "ETD",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-etd"
     }
   },
-  "lastmod" : "2021-04-03"
+  "lastmod": "2021-04-03"
 }
 
 ## What is an ETD file? ##

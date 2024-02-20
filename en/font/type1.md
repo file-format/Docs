@@ -1,20 +1,30 @@
 {
-  "date" : "2021-02-26",
-  "keywords" : [ "type1 file", "type1 file format", "what is a type1 file", "file", "type1 example", "type1 file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-02-26",
+  "keywords": [
+    "type1 file",
+    "type1 file format",
+    "what is a type1 file",
+    "file",
+    "type1 example",
+    "type1 file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "Type 1 - PostScript Type 1 fonts",
-  "description":"Type 1 font is a deprecated Adobe product which was widely used in the desktop based publishing softwares and printers that could use PostScript",
-  "linktitle" : "Type1",
-  "menu" : {
-    "docs" : {
-      "parent" : "font"
+  "draft": "false",
+  "toc": true,
+  "title": "Type 1 - PostScript Type 1 fonts",
+  "description": "Type 1 font is a deprecated Adobe product which was widely used in the desktop based publishing softwares and printers that could use PostScript",
+  "linktitle": "Type1",
+  "menu": {
+    "docs": {
+      "parent": "font",
+      "identifier": "font-type1"
     }
   },
-  "lastmod" : "2021-02-26"
+  "lastmod": "2021-02-26"
 }
 
 ## What are Type 1 Fonts?

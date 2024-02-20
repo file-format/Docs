@@ -1,20 +1,30 @@
 {
-  "date" : "2021-06-30",
-  "keywords" : [ "msi file", "MSI file format", "what is a msi file", "file", "msi example", "msi file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-06-30",
+  "keywords": [
+    "msi file",
+    "MSI file format",
+    "what is a msi file",
+    "file",
+    "msi example",
+    "msi file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about MSI file format and APIs that can create and open MSI files.",
-  "title" : "MSI - Windows Installer Package File",
-  "linktitle" : "MSI",
-  "menu" : {
-    "docs" : {
-      "parent" : "executable"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about MSI file format and APIs that can create and open MSI files.",
+  "title": "MSI - Windows Installer Package File",
+  "linktitle": "MSI",
+  "menu": {
+    "docs": {
+      "parent": "executable",
+      "identifier": "executable-msi"
     }
   },
-  "lastmod" : "2021-06-30"
+  "lastmod": "2021-06-30"
 }
 
 ## What is an MSI file?

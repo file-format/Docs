@@ -1,20 +1,28 @@
 {
-  "date" : "2021-06-24",
-  "keywords": [ "GADGET file", "what is a gadget file", "extension", "format", "what is a GADGET file", "archive" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-06-24",
+  "keywords": [
+    "GADGET file",
+    "what is a gadget file",
+    "extension",
+    "format",
+    "what is a GADGET file",
+    "archive"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-   "toc" : true,
-  "description" : "Learn about GADGET file format and APIs that can create and open GADGET files.",
-  "title" : "GADGET - Virtual CD File",
-  "linktitle" : "GADGET",
-  "menu" : {
-    "docs" : {
-      "parent" : "disc-and-media"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about GADGET file format and APIs that can create and open GADGET files.",
+  "title": "GADGET - Virtual CD File",
+  "linktitle": "GADGET",
+  "menu": {
+    "docs": {
+      "parent": "disc-and-media",
+      "identifier": "disc-and-media-gadget"
     }
   },
-  "lastmod" : "2021-06-24"
+  "lastmod": "2021-06-24"
 }
 
 ## What is a GADGET file?

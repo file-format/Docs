@@ -1,19 +1,20 @@
 {
-  "date" : "2020-08-20",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2020-08-20",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "WOFF - Web Open File Format",
-  "description":"A WOFF file is an open font format created in the Web Open Font Format.",
-  "linktitle" : "WOFF",
-  "menu" : {
-    "docs" : {
-      "parent" : "font"
+  "draft": "false",
+  "toc": true,
+  "title": "WOFF - Web Open File Format",
+  "description": "A WOFF file is an open font format created in the Web Open Font Format.",
+  "linktitle": "WOFF",
+  "menu": {
+    "docs": {
+      "parent": "font",
+      "identifier": "font-woff"
     }
   },
-  "lastmod" : "2020-09-30"
+  "lastmod": "2020-09-30"
 }
 
 ## What is a WOFF file?

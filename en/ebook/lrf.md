@@ -1,20 +1,28 @@
 {
-  "date" : "2019-12-12",
-  "keywords" : [ "LRF", "file", "extension", "format", "eBook", "Digital book" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-12-12",
+  "keywords": [
+    "LRF",
+    "file",
+    "extension",
+    "format",
+    "eBook",
+    "Digital book"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about LRF file format and APIs that can create and open LRF files.",
-  "title" : "LRF File Format - A Sony Portable Reader File",
-  "linktitle" : "LRF",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about LRF file format and APIs that can create and open LRF files.",
+  "title": "LRF File Format - A Sony Portable Reader File",
+  "linktitle": "LRF",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-lrf"
     }
   },
-  "lastmod" : "2019-12-12"
+  "lastmod": "2019-12-12"
 }
 
 ## What is an LRF file?

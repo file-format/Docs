@@ -1,20 +1,30 @@
 {
-  "date" : "2021-08-11",
-  "keywords" : [ "wim file", "wim file format", "what is a wim file", "file", "wim example", "wim file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-08-11",
+  "keywords": [
+    "wim file",
+    "wim file format",
+    "what is a wim file",
+    "file",
+    "wim example",
+    "wim file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-   "toc" : true,
-  "description" : "Learn about WIM file format and APIs that can create and open WIM files.",
-  "title" : "WIM - Windows Imaging Format File",
-  "linktitle" : "WIM",
-  "menu" : {
-    "docs" : {
-      "parent" : "disc-and-media"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about WIM file format and APIs that can create and open WIM files.",
+  "title": "WIM - Windows Imaging Format File",
+  "linktitle": "WIM",
+  "menu": {
+    "docs": {
+      "parent": "disc-and-media",
+      "identifier": "disc-and-media-wim"
     }
   },
-  "lastmod" : "2021-08-11"
+  "lastmod": "2021-08-11"
 }
 
 ## What is a WIM file?

@@ -1,20 +1,30 @@
 {
-  "date" : "2021-08-11",
-  "keywords" : [ "vdi file", "vdi file format", "what is a vdi file", "file", "vdi example", "vdi file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-08-11",
+  "keywords": [
+    "vdi file",
+    "vdi file format",
+    "what is a vdi file",
+    "file",
+    "vdi example",
+    "vdi file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-   "toc" : true,
-  "description" : "Learn about VDI file format and APIs that can create and open VDI files.",
-  "title" : "VDI - VirtualBox Virtual Disk Image File",
-  "linktitle" : "VDI",
-  "menu" : {
-    "docs" : {
-      "parent" : "disc-and-media"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about VDI file format and APIs that can create and open VDI files.",
+  "title": "VDI - VirtualBox Virtual Disk Image File",
+  "linktitle": "VDI",
+  "menu": {
+    "docs": {
+      "parent": "disc-and-media",
+      "identifier": "disc-and-media-vdi"
     }
   },
-  "lastmod" : "2021-08-11"
+  "lastmod": "2021-08-11"
 }
 
 ## What is a VDI file?

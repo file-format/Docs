@@ -1,20 +1,28 @@
 {
-  "date" : "2021-03-17",
-  "keywords" : [ "EBK", "eBook Pro eBook File", "extension", "format", "eBook", "Ebook Pro Viewer"],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-03-17",
+  "keywords": [
+    "EBK",
+    "eBook Pro eBook File",
+    "extension",
+    "format",
+    "eBook",
+    "Ebook Pro Viewer"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about EBK file format and APIs that can create and open EBK files.",
-  "title" : "EBK - eBook Pro eBook File",
-  "linktitle" : "EBK",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about EBK file format and APIs that can create and open EBK files.",
+  "title": "EBK - eBook Pro eBook File",
+  "linktitle": "EBK",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-ebk"
     }
   },
-  "lastmod" : "2021-03-17"
+  "lastmod": "2021-03-17"
 }
 
 ## What is an EBK file?

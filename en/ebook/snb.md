@@ -1,20 +1,29 @@
 {
-  "date" : "2021-04-05",
-  "keywords" : [ "SNB", "S Note File", "File" ,"extension", "format", "eBook", "file type"],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-04-05",
+  "keywords": [
+    "SNB",
+    "S Note File",
+    "File",
+    "extension",
+    "format",
+    "eBook",
+    "file type"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about SNB file format and APIs that can create and open SNB files.",
-  "title" : "SNB - S Note File",
-  "linktitle" : "SNB",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about SNB file format and APIs that can create and open SNB files.",
+  "title": "SNB - S Note File",
+  "linktitle": "SNB",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-snb"
     }
   },
-  "lastmod" : "2021-04-05"
+  "lastmod": "2021-04-05"
 }
 
 ## What is an SNB file?

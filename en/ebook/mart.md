@@ -1,20 +1,29 @@
 {
-  "date" : "2021-03-22",
-  "keywords" : [ "MART", "MartView eBook File", "extension", "format", "eBook", "e-publication", "martview reader"],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-03-22",
+  "keywords": [
+    "MART",
+    "MartView eBook File",
+    "extension",
+    "format",
+    "eBook",
+    "e-publication",
+    "martview reader"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about MartView eBook File(MartView eBook File)file format and APIs that can create and open MART files.",
-  "title" : "MART - MartView eBook File",
-  "linktitle" : "MART",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about MartView eBook File(MartView eBook File)file format and APIs that can create and open MART files.",
+  "title": "MART - MartView eBook File",
+  "linktitle": "MART",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-mart"
     }
   },
-  "lastmod" : "2021-03-22"
+  "lastmod": "2021-03-22"
 }
 
 ## What is a MART file? ##

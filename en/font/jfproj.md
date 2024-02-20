@@ -1,20 +1,30 @@
 {
-  "date" : "2020-08-20",
-  "keywords" : [ "jfproj file", "jfproj file format", "what is a jfproj file", "file", "jfproj example", "jfproj file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2020-08-20",
+  "keywords": [
+    "jfproj file",
+    "jfproj file format",
+    "what is a jfproj file",
+    "file",
+    "jfproj example",
+    "jfproj file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "JFPROJ - JSON Font Project File Format",
-  "description":"JFPROJ files are hand-created font files with pen device using Microsoft Font Maker on Windows.",
-  "linktitle" : "JFPROJ",
-  "menu" : {
-    "docs" : {
-      "parent" : "font"
+  "draft": "false",
+  "toc": true,
+  "title": "JFPROJ - JSON Font Project File Format",
+  "description": "JFPROJ files are hand-created font files with pen device using Microsoft Font Maker on Windows.",
+  "linktitle": "JFPROJ",
+  "menu": {
+    "docs": {
+      "parent": "font",
+      "identifier": "font-jfproj"
     }
   },
-  "lastmod" : "2020-09-24"
+  "lastmod": "2020-09-24"
 }
 
 ## What is a JFPROJ file?

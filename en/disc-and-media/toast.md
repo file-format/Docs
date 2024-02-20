@@ -1,20 +1,27 @@
 {
-  "date" : "2021-06-23",
-  "keywords": [ "Roxio Toast","toast file", "what is a toast file", "extension", "format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-06-23",
+  "keywords": [
+    "Roxio Toast",
+    "toast file",
+    "what is a toast file",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
- "toc" : true,
-  "description" : "Learn about Toast file format and APIs that can create and open Toast files.",
-  "title" : "Toast - Toast Disc Image File",
-  "linktitle" : "Toast",
-  "menu" : {
-    "docs" : {
-      "parent" : "disc-and-media"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about Toast file format and APIs that can create and open Toast files.",
+  "title": "Toast - Toast Disc Image File",
+  "linktitle": "Toast",
+  "menu": {
+    "docs": {
+      "parent": "disc-and-media",
+      "identifier": "disc-and-media-toast"
     }
   },
-  "lastmod" : "2021-06-23"
+  "lastmod": "2021-06-23"
 }
 
 ## What is a Toast file?

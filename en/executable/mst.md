@@ -1,20 +1,30 @@
 {
-  "date" : "2021-06-30",
-  "keywords" : [ "mst file", "mst file format", "what is a mst file", "file", "mst example", "mst file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-06-30",
+  "keywords": [
+    "mst file",
+    "mst file format",
+    "what is a mst file",
+    "file",
+    "mst example",
+    "mst file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about MST file format and APIs that can create and open MST files.",
-  "title" : "MST - Windows Installer Package File",
-  "linktitle" : "MST",
-  "menu" : {
-    "docs" : {
-      "parent" : "executable"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about MST file format and APIs that can create and open MST files.",
+  "title": "MST - Windows Installer Package File",
+  "linktitle": "MST",
+  "menu": {
+    "docs": {
+      "parent": "executable",
+      "identifier": "executable-mst"
     }
   },
-  "lastmod" : "2021-06-30"
+  "lastmod": "2021-06-30"
 }
 
 ## What is an MST file?

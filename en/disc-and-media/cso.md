@@ -1,20 +1,32 @@
 {
-  "date" : "2021-08-09",
-  "keywords" : [ "cso file", "cso file format", "what is an cso file", "file", "cso example", "cso file extension","extension", "format", "iso", "DAX compression" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-08-09",
+  "keywords": [
+    "cso file",
+    "cso file format",
+    "what is an cso file",
+    "file",
+    "cso example",
+    "cso file extension",
+    "extension",
+    "format",
+    "iso",
+    "DAX compression"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-   "toc" : true,
-  "description" : "Learn about CSO file format and APIs that can create and open CSO files.",
-  "title" : "CSO - Compressed ISO Disk Image",
-  "linktitle" : "CSO",
-  "menu" : {
-    "docs" : {
-      "parent" : "disc-and-media"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about CSO file format and APIs that can create and open CSO files.",
+  "title": "CSO - Compressed ISO Disk Image",
+  "linktitle": "CSO",
+  "menu": {
+    "docs": {
+      "parent": "disc-and-media",
+      "identifier": "disc-and-media-cso"
     }
   },
-  "lastmod" : "2021-08-09"
+  "lastmod": "2021-08-09"
 }
 
 ## What is a CSO file?

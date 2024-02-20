@@ -1,20 +1,30 @@
 {
-  "date" : "2022-03-23",
-  "keywords" : [ "xex file", "xex file format", "what is an xex file", "file", "xex example", "xex file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2022-03-23",
+  "keywords": [
+    "xex file",
+    "xex file format",
+    "what is an xex file",
+    "file",
+    "xex example",
+    "xex file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about XEX file format and APIs that can create and open XEX files.",
-  "title" : "XEX File Format- Xbox 360 Executable File",
-  "linktitle" : "XEX",
-  "menu" : {
-    "docs" : {
-      "parent" : "executable"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about XEX file format and APIs that can create and open XEX files.",
+  "title": "XEX File Format- Xbox 360 Executable File",
+  "linktitle": "XEX",
+  "menu": {
+    "docs": {
+      "parent": "executable",
+      "identifier": "executable-xex"
     }
   },
-  "lastmod" : "2022-03-23"
+  "lastmod": "2022-03-23"
 }
 
 ## What is an XEX file?

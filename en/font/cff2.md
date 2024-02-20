@@ -1,20 +1,30 @@
 {
-  "date" : "2020-08-20",
-  "keywords" : [ "cff2 file", "cff2 file format", "what is a cff2 file", "file", "cff2 example", "cff2 file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2020-08-20",
+  "keywords": [
+    "cff2 file",
+    "cff2 file format",
+    "what is a cff2 file",
+    "file",
+    "cff2 example",
+    "cff2 file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "CFF2 - Compact Font File Format version 2",
-  "description":"Learn about CFF2 File Format and APIs to create and open CFF2 files.",
-  "linktitle" : "CFF2",
-  "menu" : {
-    "docs" : {
-      "parent" : "font"
+  "draft": "false",
+  "toc": true,
+  "title": "CFF2 - Compact Font File Format version 2",
+  "description": "Learn about CFF2 File Format and APIs to create and open CFF2 files.",
+  "linktitle": "CFF2",
+  "menu": {
+    "docs": {
+      "parent": "font",
+      "identifier": "font-cff2"
     }
   },
-  "lastmod" : "2020-10-21"
+  "lastmod": "2020-10-21"
 }
 
 ## What is a CFF2 file?

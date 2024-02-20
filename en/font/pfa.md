@@ -1,20 +1,30 @@
 {
-  "date" : "2020-08-20",
-  "keywords" : [ "pfa file", "pfa file format", "what is a pfa file", "file", "pfa example", "pfa file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2020-08-20",
+  "keywords": [
+    "pfa file",
+    "pfa file format",
+    "what is a pfa file",
+    "file",
+    "pfa example",
+    "pfa file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "PFA - Printer Font Ascii File Format",
-  "description":"Learn about PFA file format and APIs that can create and open PFA files.",
-  "linktitle" : "PFA",
-  "menu" : {
-    "docs" : {
-      "parent" : "font"
+  "draft": "false",
+  "toc": true,
+  "title": "PFA - Printer Font Ascii File Format",
+  "description": "Learn about PFA file format and APIs that can create and open PFA files.",
+  "linktitle": "PFA",
+  "menu": {
+    "docs": {
+      "parent": "font",
+      "identifier": "font-pfa"
     }
   },
-  "lastmod" : "2020-09-30"
+  "lastmod": "2020-09-30"
 }
 
 ## What is a PFA file?

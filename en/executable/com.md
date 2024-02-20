@@ -1,20 +1,29 @@
 {
-  "date" : "2021-06-29",
-  "keywords" : [ "com file", "what is a com file", "file", "com example", "com file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-06-29",
+  "keywords": [
+    "com file",
+    "what is a com file",
+    "file",
+    "com example",
+    "com file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about COM file format and APIs that can create and open COM files.",
-  "title" : "COM - DOS Command File Format",
-  "linktitle" : "COM",
-  "menu" : {
-    "docs" : {
-      "parent" : "executable"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about COM file format and APIs that can create and open COM files.",
+  "title": "COM - DOS Command File Format",
+  "linktitle": "COM",
+  "menu": {
+    "docs": {
+      "parent": "executable",
+      "identifier": "executable-com"
     }
   },
-  "lastmod" : "2021-06-29"
+  "lastmod": "2021-06-29"
 }
 
 ## What is a COM file?

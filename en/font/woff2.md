@@ -1,19 +1,20 @@
 {
-  "date" : "2023-01-10",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2023-01-10",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "WOFF2 File - Web Open Font Format 2.0 File",
-  "description":"Learn about what is a WOFF2 file and APIs that can create and open WOFF2 file.",
-  "linktitle" : "WOFF2",
-  "menu" : {
-    "docs" : {
-      "parent" : "font"
+  "draft": "false",
+  "toc": true,
+  "title": "WOFF2 File - Web Open Font Format 2.0 File",
+  "description": "Learn about what is a WOFF2 file and APIs that can create and open WOFF2 file.",
+  "linktitle": "WOFF2",
+  "menu": {
+    "docs": {
+      "parent": "font",
+      "identifier": "font-woff2"
     }
   },
-  "lastmod" : "2023-01-10"
+  "lastmod": "2023-01-10"
 }
 
 ## What is a WOFF2 file?

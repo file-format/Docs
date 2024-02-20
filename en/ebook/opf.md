@@ -1,20 +1,29 @@
 {
-  "date" : "2021-03-23",
-  "keywords" : [ "OPF", "Open Package Format", "extension", "format", "eBook", "Flipbook", "FlipAlbum"],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-03-23",
+  "keywords": [
+    "OPF",
+    "Open Package Format",
+    "extension",
+    "format",
+    "eBook",
+    "Flipbook",
+    "FlipAlbum"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about OPF file format and APIs that can create and open OPF files.",
-  "title" : "OPF - Open Package Format",
-  "linktitle" : "OPF",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about OPF file format and APIs that can create and open OPF files.",
+  "title": "OPF - Open Package Format",
+  "linktitle": "OPF",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-opf"
     }
   },
-  "lastmod" : "2021-03-22"
+  "lastmod": "2021-03-22"
 }
 
 ## What is an OPF file? ##

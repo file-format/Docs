@@ -1,20 +1,21 @@
 {
-  "date" : "2023-01-08",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2023-01-08",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "VFB File - FontLab Studio Font File Format",
-  "description":"What is a VFB file?",
-  "linktitle" : "VFB",
-  "menu" : {
-    "docs" : {
-      "identifer":"font-vfb",
-      "parent" : "font"
+  "draft": "false",
+  "toc": true,
+  "title": "VFB File - FontLab Studio Font File Format",
+  "description": "What is a VFB file?",
+  "linktitle": "VFB",
+  "menu": {
+    "docs": {
+      "identifer": "font-vfb",
+      "parent": "font",
+      "identifier": "font-vfb"
     }
   },
-  "lastmod" : "2023-01-08"
+  "lastmod": "2023-01-08"
 }
 
 ## What is a VFB file?

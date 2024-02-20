@@ -1,19 +1,20 @@
 {
-  "date" : "2022.01.31",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022.01.31",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "P7S File - Digitally Signed Email Message",
-  "description":"Learn about P7S file format and APIs that can create and open P7S files.",
-  "linktitle" : "P7S",
-  "menu" : {
-    "docs" : {
-      "parent" : "email"
+  "draft": "false",
+  "toc": true,
+  "title": "P7S File - Digitally Signed Email Message",
+  "description": "Learn about P7S file format and APIs that can create and open P7S files.",
+  "linktitle": "P7S",
+  "menu": {
+    "docs": {
+      "parent": "email",
+      "identifier": "email-p7s"
     }
   },
-  "lastmod" : "2022.01.31"
+  "lastmod": "2022.01.31"
 }
 
 ## What is a P7S file?

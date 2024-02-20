@@ -1,19 +1,20 @@
 {
-  "date" : "2019-10-11",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "EML - EMail Message",
-  "description":"Learn about EML file format and APIs that can create and open EML files.",
-  "linktitle" : "EML",
-  "menu" : {
-    "docs" : {
-      "parent" : "email"
+  "draft": "false",
+  "toc": true,
+  "title": "EML - EMail Message",
+  "description": "Learn about EML file format and APIs that can create and open EML files.",
+  "linktitle": "EML",
+  "menu": {
+    "docs": {
+      "parent": "email",
+      "identifier": "email-eml"
     }
   },
-  "lastmod" : "2019-09-16"
+  "lastmod": "2019-09-16"
 }
 
 ## What is an EML file?

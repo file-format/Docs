@@ -1,20 +1,31 @@
 {
-  "date" : "2021-04-03",
-  "keywords" : [ "KOOB", "File", "Extension", "File Format", "File Extension", "eBook", "Koober", "Koob Readers", "Koob eBook Format"],
-  "author" : {
-    "display_name" : "Sami Cheema"
+  "date": "2021-04-03",
+  "keywords": [
+    "KOOB",
+    "File",
+    "Extension",
+    "File Format",
+    "File Extension",
+    "eBook",
+    "Koober",
+    "Koob Readers",
+    "Koob eBook Format"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about KOOB file format and APIs that can create and open KOOB files.",
-  "title" : "KOOB File Format",
-  "linktitle" : "KOOB",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about KOOB file format and APIs that can create and open KOOB files.",
+  "title": "KOOB File Format",
+  "linktitle": "KOOB",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-koob"
     }
   },
-  "lastmod" : "2021-04-03"
+  "lastmod": "2021-04-03"
 }
 
 ## What is a KOOB file? ##

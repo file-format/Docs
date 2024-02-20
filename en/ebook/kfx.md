@@ -1,20 +1,30 @@
 {
-  "date" : "2019-12-12",
-  "keywords" : [ "KFX", "File", "Extesion", "Format", "Specifications", "eBook", "Amazon KF10 eBook File", "open" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-12-12",
+  "keywords": [
+    "KFX",
+    "File",
+    "Extesion",
+    "Format",
+    "Specifications",
+    "eBook",
+    "Amazon KF10 eBook File",
+    "open"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about KFX file format and APIs that can create and open KFX files.",
-  "title" : "What is a KFX file?",
-  "linktitle" : "KFX",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about KFX file format and APIs that can create and open KFX files.",
+  "title": "What is a KFX file?",
+  "linktitle": "KFX",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-kfx"
     }
   },
-  "lastmod" : "2019-11-22"
+  "lastmod": "2019-11-22"
 }
 
 ## What is a KFX file?

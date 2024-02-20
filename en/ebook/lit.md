@@ -1,20 +1,28 @@
 {
-  "date" : "2021-03-04",
-  "keywords" : [ "lit", "Microsoft Reader", "extension", "format", "eBook", "Literature" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-03-04",
+  "keywords": [
+    "lit",
+    "Microsoft Reader",
+    "extension",
+    "format",
+    "eBook",
+    "Literature"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about LIT file format which belongs to the ancient Microsoft Reader and APIs that can create and open LIT files.",
-  "title" : "LIT (Litrature) - Microsoft Reader e-books File Format",
-  "linktitle" : "LIT",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about LIT file format which belongs to the ancient Microsoft Reader and APIs that can create and open LIT files.",
+  "title": "LIT (Litrature) - Microsoft Reader e-books File Format",
+  "linktitle": "LIT",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-lit"
     }
   },
-  "lastmod" : "2021-03-04"
+  "lastmod": "2021-03-04"
 }
 
 ## What is a LIT file?

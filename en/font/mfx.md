@@ -1,20 +1,30 @@
 {
-  "date" : "2022-02-14",
-  "keywords" : [ "mfx file", "mfx file format", "what is an mfx file", "file", "mfx example", "mfx file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-02-14",
+  "keywords": [
+    "mfx file",
+    "mfx file format",
+    "what is an mfx file",
+    "file",
+    "mfx example",
+    "mfx file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "MFX File - Maxis Font File Format",
-  "description":"Learn about MFX File Format and APIs to create and open MFX files.",
-  "linktitle" : "MFX",
-  "menu" : {
-    "docs" : {
-      "parent" : "font"
+  "draft": "false",
+  "toc": true,
+  "title": "MFX File - Maxis Font File Format",
+  "description": "Learn about MFX File Format and APIs to create and open MFX files.",
+  "linktitle": "MFX",
+  "menu": {
+    "docs": {
+      "parent": "font",
+      "identifier": "font-mfx"
     }
   },
-  "lastmod" : "2022-02-14"
+  "lastmod": "2022-02-14"
 }
 
 ## What is an MFX file?

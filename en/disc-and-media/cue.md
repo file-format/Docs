@@ -1,20 +1,32 @@
 {
-  "date" : "2021-06-09",
-  "keywords" : [ "cue", "file", "extension", "format", "what is a cue file", "music", "cue file format", "cue file format specification", "cue sheet", "CDRWIN"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-06-09",
+  "keywords": [
+    "cue",
+    "file",
+    "extension",
+    "format",
+    "what is a cue file",
+    "music",
+    "cue file format",
+    "cue file format specification",
+    "cue sheet",
+    "CDRWIN"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about CUE file format and APIs that can create, convert and open CUE files.",
-  "title" : "CUE - Cue Sheet File",
-  "linktitle" : "CUE",
-  "menu" : {
-    "docs" : {
-      "parent" : "disc-and-media"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about CUE file format and APIs that can create, convert and open CUE files.",
+  "title": "CUE - Cue Sheet File",
+  "linktitle": "CUE",
+  "menu": {
+    "docs": {
+      "parent": "disc-and-media",
+      "identifier": "disc-and-media-cue"
     }
   },
-  "lastmod" : "2021-07-01"
+  "lastmod": "2021-07-01"
 }
 
 ## What is a CUE file?

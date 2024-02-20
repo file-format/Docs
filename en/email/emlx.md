@@ -1,19 +1,20 @@
 {
-  "date" : "2019-10-11",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "EMLX - Apple Mail File Format",
-  "description":"Learn about EMLX file format and APIs that can create and open EMLX files.",
-  "linktitle" : "EMLX",
-  "menu" : {
-    "docs" : {
-      "parent" : "email"
+  "draft": "false",
+  "toc": true,
+  "title": "EMLX - Apple Mail File Format",
+  "description": "Learn about EMLX file format and APIs that can create and open EMLX files.",
+  "linktitle": "EMLX",
+  "menu": {
+    "docs": {
+      "parent": "email",
+      "identifier": "email-emlx"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is an EMLX file?

@@ -1,20 +1,28 @@
 {
-  "date" : "2021-03-20",
-  "keywords" : [ "YBK", "File", "Extension", "File Format", "eBook", "YanCEyWare"],
-  "author" : {
-    "display_name" : "Sami Cheema"
+  "date": "2021-03-20",
+  "keywords": [
+    "YBK",
+    "File",
+    "Extension",
+    "File Format",
+    "eBook",
+    "YanCEyWare"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about YBK file format and APIs that can create and open YBK files.",
-  "title" : "YBK File Format",
-  "linktitle" : "YBK",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about YBK file format and APIs that can create and open YBK files.",
+  "title": "YBK File Format",
+  "linktitle": "YBK",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-ybk"
     }
   },
-  "lastmod" : "2021-03-20"
+  "lastmod": "2021-03-20"
 }
 
 ## What is a YBK file? ##

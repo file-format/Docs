@@ -1,20 +1,29 @@
 {
-  "date" : "2021-03-30",
-  "keywords" : [ "PHL", "Amazon Kindle Popular Highlights File", "File", "extension", "format", "eBook", "Popular Highlights"],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-03-30",
+  "keywords": [
+    "PHL",
+    "Amazon Kindle Popular Highlights File",
+    "File",
+    "extension",
+    "format",
+    "eBook",
+    "Popular Highlights"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about PHL file format for orb reader and APIs that can create and open PHL files.",
-  "title" : "PHL - Amazon Kindle Popular Highlights File",
-  "linktitle" : "PHL",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about PHL file format for orb reader and APIs that can create and open PHL files.",
+  "title": "PHL - Amazon Kindle Popular Highlights File",
+  "linktitle": "PHL",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-phl"
     }
   },
-  "lastmod" : "2021-03-30"
+  "lastmod": "2021-03-30"
 }
 
 ## What is a PHL file?

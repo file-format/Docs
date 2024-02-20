@@ -1,20 +1,30 @@
 {
-  "date" : "2021-06-30",
-  "keywords" : [ "wsf file", "wsf file format", "what is a wsf file", "file", "wsf example", "wsf file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-06-30",
+  "keywords": [
+    "wsf file",
+    "wsf file format",
+    "what is a wsf file",
+    "file",
+    "wsf example",
+    "wsf file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about WSF file format and APIs that can create and open WSF files.",
-  "title" : "WSF - Windows Script File",
-  "linktitle" : "WSF",
-  "menu" : {
-    "docs" : {
-      "parent" : "executable"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about WSF file format and APIs that can create and open WSF files.",
+  "title": "WSF - Windows Script File",
+  "linktitle": "WSF",
+  "menu": {
+    "docs": {
+      "parent": "executable",
+      "identifier": "executable-wsf"
     }
   },
-  "lastmod" : "2021-06-30"
+  "lastmod": "2021-06-30"
 }
 
 ## What is a WSF file?

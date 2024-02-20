@@ -1,20 +1,29 @@
 {
-  "date" : "2019-12-12",
-  "keywords" : [ "AZW", "extension", "file", "format", "Kindle File Type", "Kindle File Format", "eBook" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-12-12",
+  "keywords": [
+    "AZW",
+    "extension",
+    "file",
+    "format",
+    "Kindle File Type",
+    "Kindle File Format",
+    "eBook"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about AZW file format and APIs that can create and open AZW files.",
-  "title" : "AZW File Format",
-  "linktitle" : "AZW",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about AZW file format and APIs that can create and open AZW files.",
+  "title": "AZW File Format",
+  "linktitle": "AZW",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-azw"
     }
   },
-  "lastmod" : "2021-05-28"
+  "lastmod": "2021-05-28"
 }
 
 ## Waht is an AZW file?

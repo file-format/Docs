@@ -1,19 +1,20 @@
 {
-  "date" : "2019-10-11",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "RPMSG File - Outlook Restricted Permission Message File",
-  "description":"Learn about RPMSG file and APIs that can create and open RPMSG files.",
-  "linktitle" : "RPMSG",
-  "menu" : {
-    "docs" : {
-      "parent" : "email"
+  "draft": "false",
+  "toc": true,
+  "title": "RPMSG File - Outlook Restricted Permission Message File",
+  "description": "Learn about RPMSG file and APIs that can create and open RPMSG files.",
+  "linktitle": "RPMSG",
+  "menu": {
+    "docs": {
+      "parent": "email",
+      "identifier": "email-rpmsg"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is a RPMSG file?

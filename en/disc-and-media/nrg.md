@@ -1,20 +1,34 @@
 {
-  "date" : "2021-08-16",
-  "keywords" : [ "nrg file", "nrg file format", "what is a nrg file", "file", "nrg example", "nrg file extension","extension", "format", "nrg footer", "file format of nrg", "Nero Burning Rom", "Nero AG" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
+  "date": "2021-08-16",
+  "keywords": [
+    "nrg file",
+    "nrg file format",
+    "what is a nrg file",
+    "file",
+    "nrg example",
+    "nrg file extension",
+    "extension",
+    "format",
+    "nrg footer",
+    "file format of nrg",
+    "Nero Burning Rom",
+    "Nero AG"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
   },
-  "draft" : "false",
-   "toc" : true,
-  "description" : "Learn about NRG file format and APIs that can create and open NRG files.",
-  "title" : "NRG - Disk Image File Format",
-  "linktitle" : "NRG",
-  "menu" : {
-    "docs" : {
-      "parent" : "disc-and-media"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about NRG file format and APIs that can create and open NRG files.",
+  "title": "NRG - Disk Image File Format",
+  "linktitle": "NRG",
+  "menu": {
+    "docs": {
+      "parent": "disc-and-media",
+      "identifier": "disc-and-media-nrg"
     }
   },
-  "lastmod" : "2021-08-16"
+  "lastmod": "2021-08-16"
 }
 
 ## What is an NRG file?

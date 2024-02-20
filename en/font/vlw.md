@@ -1,20 +1,21 @@
 {
-  "date" : "2023-01-08",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2023-01-08",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "VLW - Processing Font File Format",
-  "description":"A VLW file is an open font format created in the Web Open Font Format.",
-  "linktitle" : "VLW",
-  "menu" : {
-    "docs" : {
-      "identifer":"font-vlw",
-      "parent" : "font"
+  "draft": "false",
+  "toc": true,
+  "title": "VLW - Processing Font File Format",
+  "description": "A VLW file is an open font format created in the Web Open Font Format.",
+  "linktitle": "VLW",
+  "menu": {
+    "docs": {
+      "identifer": "font-vlw",
+      "parent": "font",
+      "identifier": "font-vlw"
     }
   },
-  "lastmod" : "2023-01-08"
+  "lastmod": "2023-01-08"
 }
 
 ## What is a VLW file?

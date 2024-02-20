@@ -1,19 +1,20 @@
 {
-  "date" : "2022-07-22",
-  "author" : {
-    "display_name" : "Sami Cheema"
+  "date": "2022-07-22",
+  "author": {
+    "display_name": "Sami Cheema"
   },
-  "draft" : "false",
-   "toc" : true,
-  "description" : "Learn about VHDX file format and APIs that can create and open VHDX files.",
-  "title" : "VHDX File Format - What is a VHDX file?",
-  "linktitle" : "VHDX",
-  "menu" : {
-    "docs" : {
-      "parent" : "disc-and-media"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about VHDX file format and APIs that can create and open VHDX files.",
+  "title": "VHDX File Format - What is a VHDX file?",
+  "linktitle": "VHDX",
+  "menu": {
+    "docs": {
+      "parent": "disc-and-media",
+      "identifier": "disc-and-media-vhdx"
     }
   },
-  "lastmod" : "2022-07-22"
+  "lastmod": "2022-07-22"
 }
 
 ## What is a VHDX file?

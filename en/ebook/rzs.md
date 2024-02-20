@@ -1,20 +1,29 @@
 {
-  "date" : "2021-04-01",
-  "keywords" : [ "RZB", "Red Zion Security File", "File" ,"extension", "format", "eBook", "file type"],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-04-01",
+  "keywords": [
+    "RZB",
+    "Red Zion Security File",
+    "File",
+    "extension",
+    "format",
+    "eBook",
+    "file type"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about RZS file format and APIs that can create and open RZS files.",
-  "title" : "RZS - Red Zion Security File",
-  "linktitle" : "RZS",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about RZS file format and APIs that can create and open RZS files.",
+  "title": "RZS - Red Zion Security File",
+  "linktitle": "RZS",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-rzs"
     }
   },
-  "lastmod" : "2021-04-01"
+  "lastmod": "2021-04-01"
 }
 
 ## What is an RZS file?

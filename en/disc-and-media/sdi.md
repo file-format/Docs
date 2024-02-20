@@ -1,20 +1,30 @@
 {
-  "date" : "2021-08-13",
-  "keywords" : [ "sdi file", "sdi file format", "what is an sdi file", "file", "sdi example", "sdi file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-08-13",
+  "keywords": [
+    "sdi file",
+    "sdi file format",
+    "what is an sdi file",
+    "file",
+    "sdi example",
+    "sdi file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-   "toc" : true,
-  "description" : "Learn about SDI file format and APIs that can create and open SDI files.",
-  "title" : "SDI - Windows System Deployment Image File",
-  "linktitle" : "SDI",
-  "menu" : {
-    "docs" : {
-      "parent" : "disc-and-media"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about SDI file format and APIs that can create and open SDI files.",
+  "title": "SDI - Windows System Deployment Image File",
+  "linktitle": "SDI",
+  "menu": {
+    "docs": {
+      "parent": "disc-and-media",
+      "identifier": "disc-and-media-sdi"
     }
   },
-  "lastmod" : "2021-08-13"
+  "lastmod": "2021-08-13"
 }
 
 ## What is an SDI file?

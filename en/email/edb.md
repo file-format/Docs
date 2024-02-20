@@ -1,19 +1,20 @@
 {
-  "date" : "2019-10-11",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "EDB File Format - An Exchange Mail Database File",
-  "description":"Learn about EDB file format and APIs that can create and open EDB files.",
-  "linktitle" : "EDB",
-  "menu" : {
-    "docs" : {
-      "parent" : "email"
+  "draft": "false",
+  "toc": true,
+  "title": "EDB File Format - An Exchange Mail Database File",
+  "description": "Learn about EDB file format and APIs that can create and open EDB files.",
+  "linktitle": "EDB",
+  "menu": {
+    "docs": {
+      "parent": "email",
+      "identifier": "email-edb"
     }
   },
-  "lastmod" : "2020-09-16"
+  "lastmod": "2020-09-16"
 }
 
 ## What is an EDB file?

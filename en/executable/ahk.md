@@ -1,19 +1,20 @@
 {
-  "date" : "2022-04-25",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-04-25",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about AHK file format and APIs that can create and open AHK files.",
-  "title" : "AHK File Format- AutoHotkey Script File",
-  "linktitle" : "AHK",
-  "menu" : {
-    "docs" : {
-      "parent" : "executable"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about AHK file format and APIs that can create and open AHK files.",
+  "title": "AHK File Format- AutoHotkey Script File",
+  "linktitle": "AHK",
+  "menu": {
+    "docs": {
+      "parent": "executable",
+      "identifier": "executable-ahk"
     }
   },
-  "lastmod" : "2022-04-25"
+  "lastmod": "2022-04-25"
 }
 
 ## What is a AHK file?

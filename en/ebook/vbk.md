@@ -1,20 +1,30 @@
 {
-  "date" : "2021-04-03",
-  "keywords" : [ "VBK", "File", "Extension", "File Format", "File Extension", "eBook", "Veeam Backup File", "VitalSource eBook"],
-  "author" : {
-    "display_name" : "Sami Cheema"
+  "date": "2021-04-03",
+  "keywords": [
+    "VBK",
+    "File",
+    "Extension",
+    "File Format",
+    "File Extension",
+    "eBook",
+    "Veeam Backup File",
+    "VitalSource eBook"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about VBK file format and APIs that can create and open VBK files.",
-  "title" : "VBK File Format",
-  "linktitle" : "VBK",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about VBK file format and APIs that can create and open VBK files.",
+  "title": "VBK File Format",
+  "linktitle": "VBK",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-vbk"
     }
   },
-  "lastmod" : "2021-04-03"
+  "lastmod": "2021-04-03"
 }
 
 ## What is a VBK file? ##

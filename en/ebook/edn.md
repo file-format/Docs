@@ -1,20 +1,29 @@
 {
-  "date" : "2021-04-03",
-  "keywords" : [ "EDN", "File", "Extension", "File Format", "File Extension", "eBook", "Adobe"],
-  "author" : {
-    "display_name" : "Sami Cheema"
+  "date": "2021-04-03",
+  "keywords": [
+    "EDN",
+    "File",
+    "Extension",
+    "File Format",
+    "File Extension",
+    "eBook",
+    "Adobe"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about EDN file format and APIs that can create and open EDN files.",
-  "title" : "EDN File Format",
-  "linktitle" : "EDN",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about EDN file format and APIs that can create and open EDN files.",
+  "title": "EDN File Format",
+  "linktitle": "EDN",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-edn"
     }
   },
-  "lastmod" : "2021-04-03"
+  "lastmod": "2021-04-03"
 }
 
 ## What is an EDN file? ##

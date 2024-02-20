@@ -1,20 +1,29 @@
 {
-  "date" : "2021-03-31",
-  "keywords" : [ "QMK", "YanceyDesktop Quickmarks File", "File" ,"extension", "format", "eBook", "file type"],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-03-31",
+  "keywords": [
+    "QMK",
+    "YanceyDesktop Quickmarks File",
+    "File",
+    "extension",
+    "format",
+    "eBook",
+    "file type"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about QMK file format and APIs that can create and open QMK files.",
-  "title" : "QMK - YanceyDesktop Quickmarks File",
-  "linktitle" : "QMK",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about QMK file format and APIs that can create and open QMK files.",
+  "title": "QMK - YanceyDesktop Quickmarks File",
+  "linktitle": "QMK",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-qmk"
     }
   },
-  "lastmod" : "2021-03-31"
+  "lastmod": "2021-03-31"
 }
 
 ## What is a QMK file?

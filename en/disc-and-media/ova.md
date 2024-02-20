@@ -1,20 +1,27 @@
 {
-  "date" : "2021-08-10",
-  "keywords" : [ ".ova file", "file format", "what is an .ova file", "file", "file extension"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-08-10",
+  "keywords": [
+    ".ova file",
+    "file format",
+    "what is an .ova file",
+    "file",
+    "file extension"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-   "toc" : true,
-  "description" : "Learn about what is a .ova file format and APIs that can create and open ova files.",
-  "title" : "OVA File Format - Open Virtual Appliance File",
-  "linktitle" : "OVA",
-  "menu" : {
-    "docs" : {
-      "parent" : "disc-and-media"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about what is a .ova file format and APIs that can create and open ova files.",
+  "title": "OVA File Format - Open Virtual Appliance File",
+  "linktitle": "OVA",
+  "menu": {
+    "docs": {
+      "parent": "disc-and-media",
+      "identifier": "disc-and-media-ova"
     }
   },
-  "lastmod" : "2022-01-03"
+  "lastmod": "2022-01-03"
 }
 
 ## What is an OVA file?

@@ -1,20 +1,30 @@
 {
-  "date" : "2020-08-20",
-  "keywords" : [ "cff file", "cff file format", "what is a cff file", "file", "cff example", "cff file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2020-08-20",
+  "keywords": [
+    "cff file",
+    "cff file format",
+    "what is a cff file",
+    "file",
+    "cff example",
+    "cff file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "CFF - Compact Font File Format",
-  "description":"Learn about CFF File Format and APIs to create and open CFF files.",
-  "linktitle" : "CFF",
-  "menu" : {
-    "docs" : {
-      "parent" : "font"
+  "draft": "false",
+  "toc": true,
+  "title": "CFF - Compact Font File Format",
+  "description": "Learn about CFF File Format and APIs to create and open CFF files.",
+  "linktitle": "CFF",
+  "menu": {
+    "docs": {
+      "parent": "font",
+      "identifier": "font-cff"
     }
   },
-  "lastmod" : "2020-10-21"
+  "lastmod": "2020-10-21"
 }
 
 ## What is a CFF file?

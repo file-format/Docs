@@ -1,20 +1,29 @@
 {
-  "date" : "2021-03-30",
-  "keywords" : [ "PMLZ", "Zipped Palm Markup Language File", "extension", "File", "format", "eBook", "Palm Markup Language" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-03-30",
+  "keywords": [
+    "PMLZ",
+    "Zipped Palm Markup Language File",
+    "extension",
+    "File",
+    "format",
+    "eBook",
+    "Palm Markup Language"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about PMLZ file format, Palm Markup Language and APIs that can create and open PMLZ files.",
-  "title" : "PMLZ - Zipped Palm Markup Language File",
-  "linktitle" : "PMLZ",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about PMLZ file format, Palm Markup Language and APIs that can create and open PMLZ files.",
+  "title": "PMLZ - Zipped Palm Markup Language File",
+  "linktitle": "PMLZ",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-pmlz"
     }
   },
-  "lastmod" : "2021-03-30"
+  "lastmod": "2021-03-30"
 }
 
 ## What is a PMLZ file?

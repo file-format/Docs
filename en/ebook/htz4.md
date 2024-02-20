@@ -1,20 +1,28 @@
 {
-  "date" : "2021-03-20",
-  "keywords" : [ "HTZ4", "File", "Extension", "File Format", "eBook", "HyperMaker"],
-  "author" : {
-    "display_name" : "Sami Cheema"
+  "date": "2021-03-20",
+  "keywords": [
+    "HTZ4",
+    "File",
+    "Extension",
+    "File Format",
+    "eBook",
+    "HyperMaker"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about HTZ4 file format and APIs that can create and open HTZ4 files.",
-  "title" : "HTZ4 File Format",
-  "linktitle" : "HTZ4",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about HTZ4 file format and APIs that can create and open HTZ4 files.",
+  "title": "HTZ4 File Format",
+  "linktitle": "HTZ4",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-htz4"
     }
   },
-  "lastmod" : "2021-03-20"
+  "lastmod": "2021-03-20"
 }
 
 ## What is an HTZ4 file? ##

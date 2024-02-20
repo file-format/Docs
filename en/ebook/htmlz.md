@@ -1,20 +1,29 @@
 {
-  "date" : "2021-03-27",
-  "keywords" : [ "HTMLZ", "File", "Extension", "File Format", "File Extension", "eBook", "Zipped HTML"],
-  "author" : {
-    "display_name" : "Sami Cheema"
+  "date": "2021-03-27",
+  "keywords": [
+    "HTMLZ",
+    "File",
+    "Extension",
+    "File Format",
+    "File Extension",
+    "eBook",
+    "Zipped HTML"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about HTMLZ file format and APIs that can create and open HTMLZ files.",
-  "title" : "HTMLZ File Format",
-  "linktitle" : "HTMLZ",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about HTMLZ file format and APIs that can create and open HTMLZ files.",
+  "title": "HTMLZ File Format",
+  "linktitle": "HTMLZ",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-htmlz"
     }
   },
-  "lastmod" : "2021-03-27"
+  "lastmod": "2021-03-27"
 }
 
 ## What is a HTMLZ file? ##

@@ -1,20 +1,29 @@
 {
-  "date" : "2021-03-23",
-  "keywords" : [ "MBP", "Mobipocket Notes File", "extension", "format", "E-Book", "MBP reader", "Mobipocket"],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-03-23",
+  "keywords": [
+    "MBP",
+    "Mobipocket Notes File",
+    "extension",
+    "format",
+    "E-Book",
+    "MBP reader",
+    "Mobipocket"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about Mobipocket Notes(MBP)file format and APIs that can create and open MBP files.",
-  "title" : "MBP - Mobipocket Notes File",
-  "linktitle" : "MBP",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about Mobipocket Notes(MBP)file format and APIs that can create and open MBP files.",
+  "title": "MBP - Mobipocket Notes File",
+  "linktitle": "MBP",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-mbp"
     }
   },
-  "lastmod" : "2021-03-22"
+  "lastmod": "2021-03-22"
 }
 
 ## What is an MBP file?

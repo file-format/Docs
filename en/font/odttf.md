@@ -1,19 +1,20 @@
 {
-  "date" : "2023-01-13",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2023-01-13",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ODTTF File - Obfuscated OpenType Font File Format",
-  "description":"Learn about ODTTF file format and APIs that can create and open ODTTF files.",
-  "linktitle" : "ODTTF",
-  "menu" : {
-    "docs" : {
-      "parent" : "font"
+  "draft": "false",
+  "toc": true,
+  "title": "ODTTF File - Obfuscated OpenType Font File Format",
+  "description": "Learn about ODTTF file format and APIs that can create and open ODTTF files.",
+  "linktitle": "ODTTF",
+  "menu": {
+    "docs": {
+      "parent": "font",
+      "identifier": "font-odttf"
     }
   },
-  "lastmod" : "2023-01-13"
+  "lastmod": "2023-01-13"
 }
 
 ## What is a ODTTF file?

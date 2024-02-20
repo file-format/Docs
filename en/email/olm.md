@@ -1,19 +1,20 @@
 {
-  "date" : "2019-10-11",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "OLM - Outlook for Mac File Format",
-  "description":"Learn about OLM file format and APIs that can create and open OLM files.",
-  "linktitle" : "OLM",
-  "menu" : {
-    "docs" : {
-      "parent" : "email"
+  "draft": "false",
+  "toc": true,
+  "title": "OLM - Outlook for Mac File Format",
+  "description": "Learn about OLM file format and APIs that can create and open OLM files.",
+  "linktitle": "OLM",
+  "menu": {
+    "docs": {
+      "parent": "email",
+      "identifier": "email-olm"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is an OLM file?

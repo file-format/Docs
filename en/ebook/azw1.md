@@ -1,20 +1,29 @@
 {
-  "date" : "2021-03-11",
-  "keywords" : [ "AZW1", "Amazon Kindle Topaz eBook", "extension", "file", "format", "eBook", "Whispernet" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-03-11",
+  "keywords": [
+    "AZW1",
+    "Amazon Kindle Topaz eBook",
+    "extension",
+    "file",
+    "format",
+    "eBook",
+    "Whispernet"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about Amazon AZW1 file format and APIs that can create and open AZW1 files.",
-  "title" : "AZW1 - Amazon Kindle Topaz eBook",
-  "linktitle" : "AZW1",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about Amazon AZW1 file format and APIs that can create and open AZW1 files.",
+  "title": "AZW1 - Amazon Kindle Topaz eBook",
+  "linktitle": "AZW1",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-azw1"
     }
   },
-  "lastmod" : "2021-05-28"
+  "lastmod": "2021-05-28"
 }
 
 ## What is an AZW1 file? ##

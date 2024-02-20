@@ -1,19 +1,20 @@
 {
-  "date" : "2019-10-11",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ICS - iCalendar File Format",
-  "description":"Learn about ICS file format and APIs that can create and open ICS files.",
-  "linktitle" : "ICS",
-  "menu" : {
-    "docs" : {
-      "parent" : "email"
+  "draft": "false",
+  "toc": true,
+  "title": "ICS - iCalendar File Format",
+  "description": "Learn about ICS file format and APIs that can create and open ICS files.",
+  "linktitle": "ICS",
+  "menu": {
+    "docs": {
+      "parent": "email",
+      "identifier": "email-ics"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is an ICS file?

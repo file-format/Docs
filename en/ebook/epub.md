@@ -1,20 +1,28 @@
 {
-  "date" : "2019-12-12",
-  "keywords" : [ "EPUB", "file", "extension", "format", "E-Book", "Digital book" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-12-12",
+  "keywords": [
+    "EPUB",
+    "file",
+    "extension",
+    "format",
+    "E-Book",
+    "Digital book"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about EPUB file format and APIs that can create and open EPUB files.",
-  "title" : "What is an EPUB file?",
-  "linktitle" : "EPUB",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about EPUB file format and APIs that can create and open EPUB files.",
+  "title": "What is an EPUB file?",
+  "linktitle": "EPUB",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-epub"
     }
   },
-  "lastmod" : "2019-12-12"
+  "lastmod": "2019-12-12"
 }
 
 ## What is an EPUB file?

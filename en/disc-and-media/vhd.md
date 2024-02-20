@@ -1,20 +1,34 @@
 {
-  "date" : "2021-08-17",
-  "keywords" : [ "vhd file", "vhd file format", "what is a vhd file", "file", "vhd example", "vhd file extension","extension", "format", "Virtual Hard Disk", "Connectix", "VHDx", "Microsoft" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
+  "date": "2021-08-17",
+  "keywords": [
+    "vhd file",
+    "vhd file format",
+    "what is a vhd file",
+    "file",
+    "vhd example",
+    "vhd file extension",
+    "extension",
+    "format",
+    "Virtual Hard Disk",
+    "Connectix",
+    "VHDx",
+    "Microsoft"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
   },
-  "draft" : "false",
-   "toc" : true,
-  "description" : "Learn about VHD file format and APIs that can create and open VHD files.",
-  "title" : "VHD - Virtual Hard Disk File Format",
-  "linktitle" : "VHD",
-  "menu" : {
-    "docs" : {
-      "parent" : "disc-and-media"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about VHD file format and APIs that can create and open VHD files.",
+  "title": "VHD - Virtual Hard Disk File Format",
+  "linktitle": "VHD",
+  "menu": {
+    "docs": {
+      "parent": "disc-and-media",
+      "identifier": "disc-and-media-vhd"
     }
   },
-  "lastmod" : "2021-08-17"
+  "lastmod": "2021-08-17"
 }
 
 ## What is a VHD file?

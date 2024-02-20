@@ -1,20 +1,30 @@
 {
-  "date" : "2020-08-20",
-  "keywords" : [ "sdf file", "sdf file format", "what is a sdf file", "file", "sdf example", "sdf file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2020-08-20",
+  "keywords": [
+    "sdf file",
+    "sdf file format",
+    "what is a sdf file",
+    "file",
+    "sdf example",
+    "sdf file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "SFD - Spline Font Database Format",
-  "description":"Learn about SFD file format and APIs that can create and open SFD files.",
-  "linktitle" : "SFD",
-  "menu" : {
-    "docs" : {
-      "parent" : "font"
+  "draft": "false",
+  "toc": true,
+  "title": "SFD - Spline Font Database Format",
+  "description": "Learn about SFD file format and APIs that can create and open SFD files.",
+  "linktitle": "SFD",
+  "menu": {
+    "docs": {
+      "parent": "font",
+      "identifier": "font-sfd"
     }
   },
-  "lastmod" : "2020-09-24"
+  "lastmod": "2020-09-24"
 }
 
 ## What is a SFD file?

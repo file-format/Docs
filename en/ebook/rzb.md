@@ -1,20 +1,29 @@
 {
-  "date" : "2021-04-01",
-  "keywords" : [ "RZB", "Red Zion Book File", "File" ,"extension", "format", "eBook", "file type"],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-04-01",
+  "keywords": [
+    "RZB",
+    "Red Zion Book File",
+    "File",
+    "extension",
+    "format",
+    "eBook",
+    "file type"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about RZB file format and APIs that can create and open RZB files.",
-  "title" : "RZB - Red Zion Book File",
-  "linktitle" : "RZB",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about RZB file format and APIs that can create and open RZB files.",
+  "title": "RZB - Red Zion Book File",
+  "linktitle": "RZB",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-rzb"
     }
   },
-  "lastmod" : "2021-04-01"
+  "lastmod": "2021-04-01"
 }
 
 ## What is an RZB file?

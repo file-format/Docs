@@ -1,20 +1,30 @@
 {
-  "date" : "2021-03-16",
-  "keywords" : [ "EA", "Kindle End Actions File", "extension", "format", "eBook", "Amazon Kindle e-reading device", "ASIN","Kindle file format"],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-03-16",
+  "keywords": [
+    "EA",
+    "Kindle End Actions File",
+    "extension",
+    "format",
+    "eBook",
+    "Amazon Kindle e-reading device",
+    "ASIN",
+    "Kindle file format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about EA file format and APIs that can create and open EA files.",
-  "title" : "EA - Kindle End Actions File",
-  "linktitle" : "EA",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about EA file format and APIs that can create and open EA files.",
+  "title": "EA - Kindle End Actions File",
+  "linktitle": "EA",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-ea"
     }
   },
-  "lastmod" : "2021-03-16"
+  "lastmod": "2021-03-16"
 }
 
 ## What is an EA file? ##

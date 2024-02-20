@@ -1,20 +1,27 @@
 {
-  "date" : "2021-03-20",
-  "keywords" : [ "IBOOKS", "File", "Extension", "File Format", "eBook"],
-  "author" : {
-    "display_name" : "Sami Cheema"
+  "date": "2021-03-20",
+  "keywords": [
+    "IBOOKS",
+    "File",
+    "Extension",
+    "File Format",
+    "eBook"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about IBOOKS file format and APIs that can create and open IBOOKS files.",
-  "title" : "IBOOKS File Format",
-  "linktitle" : "IBOOKS",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about IBOOKS file format and APIs that can create and open IBOOKS files.",
+  "title": "IBOOKS File Format",
+  "linktitle": "IBOOKS",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-ibooks"
     }
   },
-  "lastmod" : "2021-03-20"
+  "lastmod": "2021-03-20"
 }
 
 ## What is an IBOOKS file? ##

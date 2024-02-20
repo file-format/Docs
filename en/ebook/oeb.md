@@ -1,20 +1,29 @@
 {
-  "date" : "2021-03-23",
-  "keywords" : [ "OEB", "Open eBook Publication Structure", "extension", "format", "eBook", "OEBPS","IDPF"],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-03-23",
+  "keywords": [
+    "OEB",
+    "Open eBook Publication Structure",
+    "extension",
+    "format",
+    "eBook",
+    "OEBPS",
+    "IDPF"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about OEB file format and APIs that can create and open OEB files.",
-  "title" : "OEB - Open eBook Publication Structure",
-  "linktitle" : "OEB",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about OEB file format and APIs that can create and open OEB files.",
+  "title": "OEB - Open eBook Publication Structure",
+  "linktitle": "OEB",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-oeb"
     }
   },
-  "lastmod" : "2021-03-22"
+  "lastmod": "2021-03-22"
 }
 
 ## What is an OEB file?

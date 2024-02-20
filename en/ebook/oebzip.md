@@ -1,20 +1,29 @@
 {
-  "date" : "2021-03-23",
-  "keywords" : [ "OEBZIP", "Open eBook Publication Structure", "extension", "format", "eBook", "OEBPS","IDPF"],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-03-23",
+  "keywords": [
+    "OEBZIP",
+    "Open eBook Publication Structure",
+    "extension",
+    "format",
+    "eBook",
+    "OEBPS",
+    "IDPF"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about OEBZIP file format and APIs that can create and open OEBZIP files.",
-  "title" : "OEBZIP - Compressed Open eBook Publication Structure",
-  "linktitle" : "OEBZIP",
-  "menu" : {
-    "docs" : {
-      "parent" : "ebook"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about OEBZIP file format and APIs that can create and open OEBZIP files.",
+  "title": "OEBZIP - Compressed Open eBook Publication Structure",
+  "linktitle": "OEBZIP",
+  "menu": {
+    "docs": {
+      "parent": "ebook",
+      "identifier": "ebook-oebzip"
     }
   },
-  "lastmod" : "2021-03-22"
+  "lastmod": "2021-03-22"
 }
 
 ## What is an OEBZIP file? ##
