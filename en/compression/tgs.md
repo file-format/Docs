@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "tgs file", "tgs file format", "what is a tgs file", "file", "tgs example", "tgs file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "tgs file",
+    "tgs file format",
+    "what is a tgs file",
+    "file",
+    "tgs example",
+    "tgs file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "TGS - Telegram Animated Sticker File Format",
-  "description":"Learn about TGS file format and APIs that can create and open TGS files.",
-  "linktitle" : "TGS",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
+  "draft": "false",
+  "toc": true,
+  "title": "TGS - Telegram Animated Sticker File Format",
+  "description": "Learn about TGS file format and APIs that can create and open TGS files.",
+  "linktitle": "TGS",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-tgs"
     }
   },
-  "lastmod" : "2021-04-02"
+  "lastmod": "2021-04-02"
 }
 
 ## What is a TGS file?

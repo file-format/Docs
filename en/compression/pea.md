@@ -1,20 +1,30 @@
 {
-  "date" : "2021-04-21",
-  "keywords" : [ "pea file", "pea file format", "what is a pea file", "file", "pea example", "pea file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-04-21",
+  "keywords": [
+    "pea file",
+    "pea file format",
+    "what is a pea file",
+    "file",
+    "pea example",
+    "pea file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "PEA - PeaZip Archive File Format",
-  "description":"Learn about PEA file format and APIs that can create and open PEA files.",
-  "linktitle" : "PEA",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
+  "draft": "false",
+  "toc": true,
+  "title": "PEA - PeaZip Archive File Format",
+  "description": "Learn about PEA file format and APIs that can create and open PEA files.",
+  "linktitle": "PEA",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-pea"
     }
   },
-  "lastmod" : "2021-04-21"
+  "lastmod": "2021-04-21"
 }
 
 ## What is a PEA file?

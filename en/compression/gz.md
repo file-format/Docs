@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "gz file", "gz file format", "what is a gz file", "file", "gz example", "gz file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "gz file",
+    "gz file format",
+    "what is a gz file",
+    "file",
+    "gz example",
+    "gz file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "GZ File Format - GNU Zipped Archive File",
-  "description":"Learn about what is a GZ file and APIs that can create and open GZ files.",
-  "linktitle" : "GZ",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
+  "draft": "false",
+  "toc": true,
+  "title": "GZ File Format - GNU Zipped Archive File",
+  "description": "Learn about what is a GZ file and APIs that can create and open GZ files.",
+  "linktitle": "GZ",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-gz"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is a GZ file?

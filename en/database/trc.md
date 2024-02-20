@@ -1,20 +1,30 @@
 {
-  "date" : "2021-08-24",
-  "keywords" : [ "trc file", "trc file format", "what is a trc file", "file", "trc example", "trc file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-08-24",
+  "keywords": [
+    "trc file",
+    "trc file format",
+    "what is a trc file",
+    "file",
+    "trc example",
+    "trc file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about TRC file format and APIs that can create and open TRC files.",
-  "title" : "TRC - SQL Server Trace File",
-  "linktitle" : "TRC",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about TRC file format and APIs that can create and open TRC files.",
+  "title": "TRC - SQL Server Trace File",
+  "linktitle": "TRC",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-trc"
     }
   },
-  "lastmod" : "2021-08-24"
+  "lastmod": "2021-08-24"
 }
 
 ## What is a TRC file?

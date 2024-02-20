@@ -1,20 +1,20 @@
 {
-  "date" : "2021-04-30",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-04-30",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "SIT File Format - StuffIt Archive File",
-  "description":"Learn about SIT file format and APIs that can create and open SIT files.",
-  "linktitle" : "SIT",
-  "menu" : {
-    "docs" : {
-      "Identifier":"compression-sit",
-      "parent" : "compression"
+  "draft": "false",
+  "toc": true,
+  "title": "SIT File Format - StuffIt Archive File",
+  "description": "Learn about SIT file format and APIs that can create and open SIT files.",
+  "linktitle": "SIT",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-sit"
     }
   },
-  "lastmod" : "2021-04-30"
+  "lastmod": "2021-04-30"
 }
 
 ## What is a SIT file?

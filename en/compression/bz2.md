@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "bz2 file", "bz2 file format", "what is a bz2 file", "file", "bz2 example", "bz2 file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "bz2 file",
+    "bz2 file format",
+    "what is a bz2 file",
+    "file",
+    "bz2 example",
+    "bz2 file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "BZ2 - Compressed File Format",
-  "description":"Learn to know what is a BZ2 file and APIs that can create and open BZ2 files.",
-  "linktitle" : "BZ2",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
+  "draft": "false",
+  "toc": true,
+  "title": "BZ2 - Compressed File Format",
+  "description": "Learn to know what is a BZ2 file and APIs that can create and open BZ2 files.",
+  "linktitle": "BZ2",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-bz2"
     }
   },
-  "lastmod" : "2020-09-05"
+  "lastmod": "2020-09-05"
 }
 
 ## What is a BZ2 file?

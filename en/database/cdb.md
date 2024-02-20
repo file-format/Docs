@@ -1,20 +1,29 @@
 {
-  "date" : "2021-06-16",
-  "keywords" : [ "CDB", "extension", "cdb file", "cdb file format", "Database File Type", "Database File Format", "what is a cdb file" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-06-16",
+  "keywords": [
+    "CDB",
+    "extension",
+    "cdb file",
+    "cdb file format",
+    "Database File Type",
+    "Database File Format",
+    "what is a cdb file"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about CDB file format and APIs that can create and open CDB files.",
-  "title" : "CDB - Constant Database File",
-  "linktitle" : "CDB",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about CDB file format and APIs that can create and open CDB files.",
+  "title": "CDB - Constant Database File",
+  "linktitle": "CDB",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-cdb"
     }
   },
-  "lastmod" : "2021-06-16"
+  "lastmod": "2021-06-16"
 }
 
 ## What is a CDB file?

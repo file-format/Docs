@@ -1,20 +1,25 @@
 {
-  "date" : "2020-03-16",
-  "keywords" : [ "NWD File", "Format", "CAD" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2020-03-16",
+  "keywords": [
+    "NWD File",
+    "Format",
+    "CAD"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about NWD file format and APIs that can create and open NWD files.",
-  "title" : "NWD File Format",
-  "linktitle" : "NWD",
-  "menu" : {
-    "docs" : {
-      "parent" : "cad"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about NWD file format and APIs that can create and open NWD files.",
+  "title": "NWD File Format",
+  "linktitle": "NWD",
+  "menu": {
+    "docs": {
+      "parent": "cad",
+      "identifier": "cad-nwd"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is an NWD file?

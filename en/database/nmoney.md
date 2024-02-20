@@ -1,19 +1,20 @@
 {
-  "date" : "2023-05-17",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2023-05-17",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about NMONEY file format and APIs that can create and open NMONEY files.",
-  "title" : "NMONEY File - Denaro Account File Format",
-  "linktitle" : "NMONEY",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about NMONEY file format and APIs that can create and open NMONEY files.",
+  "title": "NMONEY File - Denaro Account File Format",
+  "linktitle": "NMONEY",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-nmoney"
     }
   },
-  "lastmod" : "2023-05-17"
+  "lastmod": "2023-05-17"
 }
 
 ## What is an NMONEY file?

@@ -1,19 +1,20 @@
 {
-  "date" : "2022-05-23",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-05-23",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about TEACHER file format and APIs that can create and open TEACHER files.",
-  "title" : "TEACHER File Format - SMART Response Teacher Database File Format",
-  "linktitle" : "TEACHER",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about TEACHER file format and APIs that can create and open TEACHER files.",
+  "title": "TEACHER File Format - SMART Response Teacher Database File Format",
+  "linktitle": "TEACHER",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-teacher"
     }
   },
-  "lastmod" : "2021-08-24"
+  "lastmod": "2021-08-24"
 }
 
 ## What is a TEACHER file?

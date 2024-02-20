@@ -1,20 +1,32 @@
 {
-  "date" : "2021-07-28",
-  "keywords" : [ "4DD", "extension", "file", "file format", "Database File Type", "Database File Format", "Database Files", "4th Dimension", "4D database", "4DD file" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
+  "date": "2021-07-28",
+  "keywords": [
+    "4DD",
+    "extension",
+    "file",
+    "file format",
+    "Database File Type",
+    "Database File Format",
+    "Database Files",
+    "4th Dimension",
+    "4D database",
+    "4DD file"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about 4DD file format and APIs that can create and open 4DD files.",
-  "title" : "4DD - 4th Dimension Data File",
-  "linktitle" : "4DD",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about 4DD file format and APIs that can create and open 4DD files.",
+  "title": "4DD - 4th Dimension Data File",
+  "linktitle": "4DD",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-4dd"
     }
   },
-  "lastmod" : "2021-07-28"
+  "lastmod": "2021-07-28"
 }
 
 ## What is a 4DD file?

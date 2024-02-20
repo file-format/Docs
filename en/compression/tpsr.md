@@ -1,19 +1,20 @@
 {
-  "date" : "2022-06-06",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-06-06",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "TPSR File Format - TeamViewer Pilot Session Report File",
-  "description":"Learn about TPSR file format and APIs that can create and open TPSR files.",
-  "linktitle" : "TPSR",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
+  "draft": "false",
+  "toc": true,
+  "title": "TPSR File Format - TeamViewer Pilot Session Report File",
+  "description": "Learn about TPSR file format and APIs that can create and open TPSR files.",
+  "linktitle": "TPSR",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-tpsr"
     }
   },
-  "lastmod" : "2022-06-06"
+  "lastmod": "2022-06-06"
 }
 
 ## What is a TPSR file?

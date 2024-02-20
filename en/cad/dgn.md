@@ -1,20 +1,30 @@
  {
-  "date" : "2020-01-12",
-  "keywords" : [ "DGN", "File", "Format", "Open", "Read", "API", "MicroStation", "Intergraph Interactive Graphics Design System" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2020-01-12",
+  "keywords": [
+    "DGN",
+    "File",
+    "Format",
+    "Open",
+    "Read",
+    "API",
+    "MicroStation",
+    "Intergraph Interactive Graphics Design System"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "DGN - MicroStation CAD Design File Format",
-  "description" : "Learn about DGN file format and APIs that can create and open DGN files.",
-  "linktitle" : "DGN",
-  "menu" : {
-    "docs" : {
-      "parent" : "cad"
+  "draft": "false",
+  "toc": true,
+  "title": "DGN - MicroStation CAD Design File Format",
+  "description": "Learn about DGN file format and APIs that can create and open DGN files.",
+  "linktitle": "DGN",
+  "menu": {
+    "docs": {
+      "parent": "cad",
+      "identifier": "cad-dgn"
     }
   },
-  "lastmod" : "2020-01-12"
+  "lastmod": "2020-01-12"
 }
 
 ## What is a DGN file?

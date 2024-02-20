@@ -1,20 +1,30 @@
 {
-  "date" : "2021-04-08",
-  "keywords" : [ "rte file", "rte file format", "what is an rte file", "file", "rte example", "rte file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-04-08",
+  "keywords": [
+    "rte file",
+    "rte file format",
+    "what is an rte file",
+    "file",
+    "rte example",
+    "rte file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "RTE - RTE Encoded File",
-  "description":"Learn about RTE file format and APIs that can create and open RTE files.",
-  "linktitle" : "RTE",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
+  "draft": "false",
+  "toc": true,
+  "title": "RTE - RTE Encoded File",
+  "description": "Learn about RTE file format and APIs that can create and open RTE files.",
+  "linktitle": "RTE",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-rte"
     }
   },
-  "lastmod" : "2021-04-14"
+  "lastmod": "2021-04-14"
 }
 
 ## What is an RTE file?

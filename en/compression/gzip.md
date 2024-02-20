@@ -1,19 +1,20 @@
 {
-  "date" : "2022-06-26",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-06-26",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "GZIP File Format - GNU Zipped Archive File",
-  "description":"Learn about what is a GZIP file and APIs that can create and open GZIP files.",
-  "linktitle" : "GZIP",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
+  "draft": "false",
+  "toc": true,
+  "title": "GZIP File Format - GNU Zipped Archive File",
+  "description": "Learn about what is a GZIP file and APIs that can create and open GZIP files.",
+  "linktitle": "GZIP",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-gzip"
     }
   },
-  "lastmod" : "2022-06-26"
+  "lastmod": "2022-06-26"
 }
 
 ## What is a GZIP file?

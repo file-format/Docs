@@ -1,20 +1,31 @@
 {
-  "date" : "2021-04-30",
-  "keywords" : [ "PTK", "Compressed", "File", "Extension", "File Format", "Intuit Quicken", "GIF", "Red Alert 2", "Puntotek" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
+  "date": "2021-04-30",
+  "keywords": [
+    "PTK",
+    "Compressed",
+    "File",
+    "Extension",
+    "File Format",
+    "Intuit Quicken",
+    "GIF",
+    "Red Alert 2",
+    "Puntotek"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "PTK File Format",
-  "description":"Learn about PTK file format and APIs that can create and open PTK files.",
-  "linktitle" : "PTK",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
+  "draft": "false",
+  "toc": true,
+  "title": "PTK File Format",
+  "description": "Learn about PTK file format and APIs that can create and open PTK files.",
+  "linktitle": "PTK",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-ptk"
     }
   },
-  "lastmod" : "2021-04-30"
+  "lastmod": "2021-04-30"
 }
 
 ## What is a PTK file? ##

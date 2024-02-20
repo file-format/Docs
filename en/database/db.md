@@ -1,20 +1,30 @@
 {
-  "date" : "2021-06-15",
-  "keywords" : [ "db", "extension", "db file", "db file format", "Database File Type", "Database File Format", "what is a dbf file", "db" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-06-15",
+  "keywords": [
+    "db",
+    "extension",
+    "db file",
+    "db file format",
+    "Database File Type",
+    "Database File Format",
+    "what is a dbf file",
+    "db"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about DB file format and APIs that can create and open DB files.",
-  "title" : "DB File -  Generic Database File",
-  "linktitle" : "DB",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about DB file format and APIs that can create and open DB files.",
+  "title": "DB File -  Generic Database File",
+  "linktitle": "DB",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-db"
     }
   },
-  "lastmod" : "2021-06-15"
+  "lastmod": "2021-06-15"
 }
 
 ## What is a DB file?

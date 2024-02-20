@@ -1,20 +1,29 @@
 {
-  "date" : "2021-06-22",
-  "keywords" : [ "Z", "Compressed", "File", "Extension", "File Format", "UNIX","Kartz" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
+  "date": "2021-06-22",
+  "keywords": [
+    "Z",
+    "Compressed",
+    "File",
+    "Extension",
+    "File Format",
+    "UNIX",
+    "Kartz"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "Z Compressed File Format",
-  "description":"Learn about Z file format and APIs that can create and open Z files.",
-  "linktitle" : "Z",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
+  "draft": "false",
+  "toc": true,
+  "title": "Z Compressed File Format",
+  "description": "Learn about Z file format and APIs that can create and open Z files.",
+  "linktitle": "Z",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-z"
     }
   },
-  "lastmod" : "2021-06-22"
+  "lastmod": "2021-06-22"
 }
 
 ## What is a Z file? ##

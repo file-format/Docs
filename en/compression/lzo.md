@@ -1,20 +1,28 @@
 {
-  "date" : "2021-06-16",
-  "keywords" : [ "LZO", "Compressed", "File", "Extension", "File Format", "Lempel-Ziv-Oberhume" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
+  "date": "2021-06-16",
+  "keywords": [
+    "LZO",
+    "Compressed",
+    "File",
+    "Extension",
+    "File Format",
+    "Lempel-Ziv-Oberhume"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "LZO File Format",
-  "description":"Learn about LZO file format and APIs that can create and open LZO files.",
-  "linktitle" : "LZO",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
+  "draft": "false",
+  "toc": true,
+  "title": "LZO File Format",
+  "description": "Learn about LZO file format and APIs that can create and open LZO files.",
+  "linktitle": "LZO",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-lzo"
     }
   },
-  "lastmod" : "2021-06-16"
+  "lastmod": "2021-06-16"
 }
 
 ## What is an LZO file? ##

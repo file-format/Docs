@@ -1,19 +1,20 @@
 {
-  "date" : "2022-05-23",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-05-23",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about TE file format and APIs that can create and open TE files.",
-  "title" : "TE File Format - Textease CT Database File",
-  "linktitle" : "TE",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about TE file format and APIs that can create and open TE files.",
+  "title": "TE File Format - Textease CT Database File",
+  "linktitle": "TE",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-te"
     }
   },
-  "lastmod" : "2021-08-24"
+  "lastmod": "2021-08-24"
 }
 
 ## What is a TE file?

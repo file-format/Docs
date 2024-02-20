@@ -1,20 +1,29 @@
 {
-  "date" : "2021-05-28",
-  "keywords" : [ "MPQ", "Blizzard Game", "file", "format", "extension", "compressed", "Blizzard Entertainment" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
+  "date": "2021-05-28",
+  "keywords": [
+    "MPQ",
+    "Blizzard Game",
+    "file",
+    "format",
+    "extension",
+    "compressed",
+    "Blizzard Entertainment"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "MPQ File Format",
-  "description":"Learn about MPQ file format and APIs that can create and open MPQ files.",
-  "linktitle" : "MPQ",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
+  "draft": "false",
+  "toc": true,
+  "title": "MPQ File Format",
+  "description": "Learn about MPQ file format and APIs that can create and open MPQ files.",
+  "linktitle": "MPQ",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-mpq"
     }
   },
-  "lastmod" : "2021-05-28"
+  "lastmod": "2021-05-28"
 }
 
 ## What is an MPQ file? ##

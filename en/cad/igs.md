@@ -1,20 +1,25 @@
 {
-  "date" : "2020-03-16",
-  "keywords" : [ "IGS File", "File Format", "CAD" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2020-03-16",
+  "keywords": [
+    "IGS File",
+    "File Format",
+    "CAD"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about IGS file format and APIs that can create and open IGS files.",
-  "title" : "IGS File Format: 2D-3D Design Exchange File",
-  "linktitle" : "IGS",
-  "menu" : {
-    "docs" : {
-      "parent" : "cad"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about IGS file format and APIs that can create and open IGS files.",
+  "title": "IGS File Format: 2D-3D Design Exchange File",
+  "linktitle": "IGS",
+  "menu": {
+    "docs": {
+      "parent": "cad",
+      "identifier": "cad-igs"
     }
   },
-  "lastmod" : "2020-10-28"
+  "lastmod": "2020-10-28"
 }
 
 ## What is an IGS file?

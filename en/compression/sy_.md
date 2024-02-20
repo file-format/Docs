@@ -1,19 +1,20 @@
 {
-  "date" : "2022-06-24",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-06-24",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "SY_ File Format - Compressed SYS File",
-  "description":"Learn about SY_ file format and APIs that can create and open SY_ files.",
-  "linktitle" : "SY_",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
+  "draft": "false",
+  "toc": true,
+  "title": "SY_ File Format - Compressed SYS File",
+  "description": "Learn about SY_ file format and APIs that can create and open SY_ files.",
+  "linktitle": "SY_",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-sy_"
     }
   },
-  "lastmod" : "2022-06-24"
+  "lastmod": "2022-06-24"
 }
 
 ## What is a SY_ file?

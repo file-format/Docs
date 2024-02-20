@@ -1,20 +1,25 @@
 {
-  "date" : "2020-03-16",
-  "keywords" : [ "IFC File", "Format", "CAD" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2020-03-16",
+  "keywords": [
+    "IFC File",
+    "Format",
+    "CAD"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about IFC file format and APIs that can create and open IFC files.",
-  "title" : "IFC File Format",
-  "linktitle" : "IFC",
-  "menu" : {
-    "docs" : {
-      "parent" : "cad"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about IFC file format and APIs that can create and open IFC files.",
+  "title": "IFC File Format",
+  "linktitle": "IFC",
+  "menu": {
+    "docs": {
+      "parent": "cad",
+      "identifier": "cad-ifc"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is an IFC file?

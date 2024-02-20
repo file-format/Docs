@@ -1,20 +1,29 @@
 {
-  "date" : "2021-06-21",
-  "keywords" : [ "UDL", "extension", "udl file", "udl file format", "Database File Type", "Database File Format", "what is a udl file" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-06-21",
+  "keywords": [
+    "UDL",
+    "extension",
+    "udl file",
+    "udl file format",
+    "Database File Type",
+    "Database File Format",
+    "what is a udl file"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about UDL file format and APIs that can create and open UDL files.",
-  "title" : "UDL - Microsoft Universal Data Link File",
-  "linktitle" : "UDL",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about UDL file format and APIs that can create and open UDL files.",
+  "title": "UDL - Microsoft Universal Data Link File",
+  "linktitle": "UDL",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-udl"
     }
   },
-  "lastmod" : "2021-06-21"
+  "lastmod": "2021-06-21"
 }
 
 ## What is a UDL file?

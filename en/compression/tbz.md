@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "tbz file", "tbz file format", "what is a tbz file", "file", "tbz example", "tbz file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "tbz file",
+    "tbz file format",
+    "what is a tbz file",
+    "file",
+    "tbz example",
+    "tbz file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "TBZ - Bzip Compressed Tar Archive",
-  "description":"Learn about TBZ file format and APIs that can create and open TBZ files.",
-  "linktitle" : "TBZ",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
+  "draft": "false",
+  "toc": true,
+  "title": "TBZ - Bzip Compressed Tar Archive",
+  "description": "Learn about TBZ file format and APIs that can create and open TBZ files.",
+  "linktitle": "TBZ",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-tbz"
     }
   },
-  "lastmod" : "2021-04-05"
+  "lastmod": "2021-04-05"
 }
 
 ## What is a TBZ file?

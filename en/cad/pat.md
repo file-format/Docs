@@ -1,20 +1,25 @@
 {
-  "date" : "2020-03-16",
-  "keywords" : [ "PAT File", "Format", "CAD" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2020-03-16",
+  "keywords": [
+    "PAT File",
+    "Format",
+    "CAD"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about PAT file format and APIs that can create and open PAT files.",
-  "title" : "PAT File Format",
-  "linktitle" : "PAT",
-  "menu" : {
-    "docs" : {
-      "parent" : "cad"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about PAT file format and APIs that can create and open PAT files.",
+  "title": "PAT File Format",
+  "linktitle": "PAT",
+  "menu": {
+    "docs": {
+      "parent": "cad",
+      "identifier": "cad-pat"
     }
   },
-  "lastmod" : "2020-10-25"
+  "lastmod": "2020-10-25"
 }
 
 ## What is a PAT file?

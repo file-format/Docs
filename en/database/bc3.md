@@ -1,19 +1,20 @@
 {
-  "date" : "2023-05-29",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2023-05-29",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "What is a BC3 file and how to open it?",
-  "title" : "BC3 File - FIEBDC-3 Database File Format",
-  "linktitle" : "BC3",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
+  "draft": "false",
+  "toc": true,
+  "description": "What is a BC3 file and how to open it?",
+  "title": "BC3 File - FIEBDC-3 Database File Format",
+  "linktitle": "BC3",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-bc3"
     }
   },
-  "lastmod" : "2023-05-29"
+  "lastmod": "2023-05-29"
 }
 
 ## What is a BC3 file?

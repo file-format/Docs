@@ -1,19 +1,20 @@
 {
-  "date" : "2022-05-25",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-05-25",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about FMP12 file format and APIs that can create and open FMP12 files.",
-  "title" : "FMP12 File Format - FileMaker Pro 12 Database File",
-  "linktitle" : "FMP12",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about FMP12 file format and APIs that can create and open FMP12 files.",
+  "title": "FMP12 File Format - FileMaker Pro 12 Database File",
+  "linktitle": "FMP12",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-fmp12"
     }
   },
-  "lastmod" : "2022-05-25"
+  "lastmod": "2022-05-25"
 }
 
 ## What is a FMP12 file?

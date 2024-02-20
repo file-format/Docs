@@ -1,20 +1,29 @@
 {
-  "date" : "2021-04-30",
-  "keywords" : [ "SITX", "Compressed", "File", "Extension", "File Format", "StuffIt X Archive", "SITX"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-04-30",
+  "keywords": [
+    "SITX",
+    "Compressed",
+    "File",
+    "Extension",
+    "File Format",
+    "StuffIt X Archive",
+    "SITX"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "SITX - StuffIt X Archive File Format",
-  "description":"Learn about SITX file format and APIs that can create and open SITX files.",
-  "linktitle" : "SITX",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
+  "draft": "false",
+  "toc": true,
+  "title": "SITX - StuffIt X Archive File Format",
+  "description": "Learn about SITX file format and APIs that can create and open SITX files.",
+  "linktitle": "SITX",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-sitx"
     }
   },
-  "lastmod" : "2021-04-30"
+  "lastmod": "2021-04-30"
 }
 
 ## What is a SITX file?

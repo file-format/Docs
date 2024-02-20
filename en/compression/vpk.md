@@ -1,19 +1,20 @@
 {
-  "date" : "2022-03-01",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-03-01",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "VPK File - PlayStation Vita Application Package File Format",
-  "description":"Learn about VPK file format and APIs that can create and open VPK files.",
-  "linktitle" : "VPK",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
+  "draft": "false",
+  "toc": true,
+  "title": "VPK File - PlayStation Vita Application Package File Format",
+  "description": "Learn about VPK file format and APIs that can create and open VPK files.",
+  "linktitle": "VPK",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-vpk"
     }
   },
-  "lastmod" : "2022-03-01"
+  "lastmod": "2022-03-01"
 }
 
 ## What is a VPK file?

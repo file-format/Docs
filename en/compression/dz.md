@@ -1,20 +1,30 @@
 {
-  "date" : "2021-04-08",
-  "keywords" : [ "dz file", "dz file format", "what is a dz file", "file", "dz example", "dz file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-04-08",
+  "keywords": [
+    "dz file",
+    "dz file format",
+    "what is a dz file",
+    "file",
+    "dz example",
+    "dz file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "DZ - Dzip Compressed File Format",
-  "description":"Learn about DZ file format and APIs that can create and open DZ files.",
-  "linktitle" : "DZ",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
+  "draft": "false",
+  "toc": true,
+  "title": "DZ - Dzip Compressed File Format",
+  "description": "Learn about DZ file format and APIs that can create and open DZ files.",
+  "linktitle": "DZ",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-dz"
     }
   },
-  "lastmod" : "2021-04-28"
+  "lastmod": "2021-04-28"
 }
 
 ## What is a DZ file?

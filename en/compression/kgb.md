@@ -1,20 +1,30 @@
 {
-  "date" : "2021-04-08",
-  "keywords" : [ "kgb file", "kgb file format", "what is a kgb file", "file", "kgb example", "kgb file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-04-08",
+  "keywords": [
+    "kgb file",
+    "kgb file format",
+    "what is a kgb file",
+    "file",
+    "kgb example",
+    "kgb file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "KGB - KGB Archive File Format",
-  "description":"Learn about KGB file format and APIs that can create and open KGB files.",
-  "linktitle" : "KGB",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
+  "draft": "false",
+  "toc": true,
+  "title": "KGB - KGB Archive File Format",
+  "description": "Learn about KGB file format and APIs that can create and open KGB files.",
+  "linktitle": "KGB",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-kgb"
     }
   },
-  "lastmod" : "2021-04-18"
+  "lastmod": "2021-04-18"
 }
 
 ## What is a KGB file?

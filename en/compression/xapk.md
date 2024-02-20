@@ -1,20 +1,30 @@
 {
-  "date" : "2021-04-11",
-  "keywords" : [ "xapk file", "xapk file format", "what is a xapk file", "file", "xapk example", "xapk file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-04-11",
+  "keywords": [
+    "xapk file",
+    "xapk file format",
+    "what is a xapk file",
+    "file",
+    "xapk example",
+    "xapk file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "XAPK - Meta Package File Format",
-  "description":"Learn about XAPK file format and APIs that can create and open XAPK files.",
-  "linktitle" : "XAPK",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
+  "draft": "false",
+  "toc": true,
+  "title": "XAPK - Meta Package File Format",
+  "description": "Learn about XAPK file format and APIs that can create and open XAPK files.",
+  "linktitle": "XAPK",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-xapk"
     }
   },
-  "lastmod" : "2021-04-11"
+  "lastmod": "2021-04-11"
 }
 
 ## What is a XAPK file?

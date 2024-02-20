@@ -1,20 +1,29 @@
 {
-  "date" : "2021-06-17",
-  "keywords" : [ "DBC", "extension", "dbc file", "dbc file format", "Database File Type", "Database File Format", "what is a dbc file" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-06-17",
+  "keywords": [
+    "DBC",
+    "extension",
+    "dbc file",
+    "dbc file format",
+    "Database File Type",
+    "Database File Format",
+    "what is a dbc file"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about DBC file format and APIs that can create and open DBC files.",
-  "title" : "DBC - CAN Database File",
-  "linktitle" : "DBC",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about DBC file format and APIs that can create and open DBC files.",
+  "title": "DBC - CAN Database File",
+  "linktitle": "DBC",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-dbc"
     }
   },
-  "lastmod" : "2021-06-17"
+  "lastmod": "2021-06-17"
 }
 
 ## What is a DBC file?

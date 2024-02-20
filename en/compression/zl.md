@@ -1,20 +1,30 @@
 {
-  "date" : "2019-12-09",
-  "keywords" : [ "zl file", "zl file format", "what is a zl file", "file", "zl example", "zl file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-12-09",
+  "keywords": [
+    "zl file",
+    "zl file format",
+    "what is a zl file",
+    "file",
+    "zl example",
+    "zl file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ZL - ZLIP Compressed File Format",
-  "description":"Learn about ZL file format and APIs that can create and open ZL files.",
-  "linktitle" : "ZL",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
+  "draft": "false",
+  "toc": true,
+  "title": "ZL - ZLIP Compressed File Format",
+  "description": "Learn about ZL file format and APIs that can create and open ZL files.",
+  "linktitle": "ZL",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-zl"
     }
   },
-  "lastmod" : "2021-04-14"
+  "lastmod": "2021-04-14"
 }
 
 ## What is a ZL file?

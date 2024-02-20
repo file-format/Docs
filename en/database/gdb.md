@@ -1,19 +1,20 @@
 {
-  "date" : "2022-05-08",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-05-08",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "GDB File Format - ESRI File Geodatabase File",
-  "description":"Learn about GDB file format and APIs that can create and open GDB files.",
-  "linktitle" : "GDB",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
+  "draft": "false",
+  "toc": true,
+  "title": "GDB File Format - ESRI File Geodatabase File",
+  "description": "Learn about GDB file format and APIs that can create and open GDB files.",
+  "linktitle": "GDB",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-gdb"
     }
   },
-  "lastmod" : "2022-05-08"
+  "lastmod": "2022-05-08"
 }
 
 ## What is a GDB file?

@@ -1,20 +1,21 @@
 {
-  "date" : "2022-02-27",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-02-27",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about RML file format and APIs that can create and open RML files.",
-  "title" : "RML - Redline Markup Language File",
-  "linktitle" : "RML",
-  "menu" : {
-    "docs" : {
-      "identifeir":"cad-rml",
-      "parent" : "cad"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about RML file format and APIs that can create and open RML files.",
+  "title": "RML - Redline Markup Language File",
+  "linktitle": "RML",
+  "menu": {
+    "docs": {
+      "identifeir": "cad-rml",
+      "parent": "cad",
+      "identifier": "cad-rml"
     }
   },
-  "lastmod" : "2022-02-27"
+  "lastmod": "2022-02-27"
 }
 
 ## What is an RML file?

@@ -1,20 +1,30 @@
 {
-  "date" : "2021-06-16",
-  "keywords" : [ "LZH", "Compressed", "File", "Extension", "File Format", "Lempel-Ziv", "Haruyasu", "LHA" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
+  "date": "2021-06-16",
+  "keywords": [
+    "LZH",
+    "Compressed",
+    "File",
+    "Extension",
+    "File Format",
+    "Lempel-Ziv",
+    "Haruyasu",
+    "LHA"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "LZH File Format",
-  "description":"Learn about LZH file format and APIs that can create and open LZH files.",
-  "linktitle" : "LZH",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
+  "draft": "false",
+  "toc": true,
+  "title": "LZH File Format",
+  "description": "Learn about LZH file format and APIs that can create and open LZH files.",
+  "linktitle": "LZH",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-lzh"
     }
   },
-  "lastmod" : "2021-06-16"
+  "lastmod": "2021-06-16"
 }
 
 ## What is an LZH file? ##

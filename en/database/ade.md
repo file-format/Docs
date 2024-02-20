@@ -1,20 +1,29 @@
 {
-  "date" : "2021-08-29",
-  "keywords" : [ "ade", "extension", "file", "file format", "Database File Type", "Database File Format", "Microsoft Access" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-08-29",
+  "keywords": [
+    "ade",
+    "extension",
+    "file",
+    "file format",
+    "Database File Type",
+    "Database File Format",
+    "Microsoft Access"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about ADE file format and APIs that can create and open ADE files.",
-  "title" : "ADE - Access Project Extension File",
-  "linktitle" : "ADE",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about ADE file format and APIs that can create and open ADE files.",
+  "title": "ADE - Access Project Extension File",
+  "linktitle": "ADE",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-ade"
     }
   },
-  "lastmod" : "2021-08-29"
+  "lastmod": "2021-08-29"
 }
 
 ## What is an ADE file?

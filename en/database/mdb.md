@@ -1,20 +1,29 @@
 {
-  "date" : "2020-11-11",
-  "keywords" : [ "MDB", "extension", "file", "file format", "Database File Type", "Database File Format", "Database Files" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2020-11-11",
+  "keywords": [
+    "MDB",
+    "extension",
+    "file",
+    "file format",
+    "Database File Type",
+    "Database File Format",
+    "Database Files"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about MDB file format and APIs that can create and open MDB files.",
-  "title" : "MDB File Format - A Microsoft Access Database File",
-  "linktitle" : "MDB",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about MDB file format and APIs that can create and open MDB files.",
+  "title": "MDB File Format - A Microsoft Access Database File",
+  "linktitle": "MDB",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-mdb"
     }
   },
-  "lastmod" : "2020-11-11"
+  "lastmod": "2020-11-11"
 }
 
 ## What is a MDB file?

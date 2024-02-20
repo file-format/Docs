@@ -1,20 +1,30 @@
 {
-  "date" : "2021-04-08",
-  "keywords" : [ "rpm file", "rpm file format", "what is a rpm file", "file", "rpm example", "rpm file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-04-08",
+  "keywords": [
+    "rpm file",
+    "rpm file format",
+    "what is a rpm file",
+    "file",
+    "rpm example",
+    "rpm file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "RPM - Red Hat Package Manager File",
-  "description":"Learn about RPM file format and APIs that can create and open RPM files.",
-  "linktitle" : "RPM",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
+  "draft": "false",
+  "toc": true,
+  "title": "RPM - Red Hat Package Manager File",
+  "description": "Learn about RPM file format and APIs that can create and open RPM files.",
+  "linktitle": "RPM",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-rpm"
     }
   },
-  "lastmod" : "2021-04-09"
+  "lastmod": "2021-04-09"
 }
 
 ## What is a RPM file?

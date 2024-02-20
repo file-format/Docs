@@ -1,20 +1,30 @@
 {
-  "date" : "2021-08-24",
-  "keywords" : [ "wdb file", "wdb file format", "what is a wdb file", "file", "wdb example", "wdb file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-08-24",
+  "keywords": [
+    "wdb file",
+    "wdb file format",
+    "what is a wdb file",
+    "file",
+    "wdb example",
+    "wdb file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about WDB file format and APIs that can create and open WDB files.",
-  "title" : "WDB - SQL Server Trace File",
-  "linktitle" : "WDB",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about WDB file format and APIs that can create and open WDB files.",
+  "title": "WDB - SQL Server Trace File",
+  "linktitle": "WDB",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-wdb"
     }
   },
-  "lastmod" : "2021-08-24"
+  "lastmod": "2021-08-24"
 }
 
 ## What is a WDB file?

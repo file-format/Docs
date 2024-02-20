@@ -1,19 +1,20 @@
 {
-  "date" : "2022-03-01",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-03-01",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "WUX File - Compressed Wii U Disk Image File Format",
-  "description":"Learn about WUX file format and APIs that can create and open WUX files.",
-  "linktitle" : "WUX",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
+  "draft": "false",
+  "toc": true,
+  "title": "WUX File - Compressed Wii U Disk Image File Format",
+  "description": "Learn about WUX file format and APIs that can create and open WUX files.",
+  "linktitle": "WUX",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-wux"
     }
   },
-  "lastmod" : "2022-03-01"
+  "lastmod": "2022-03-01"
 }
 
 ## What is a WUX file?

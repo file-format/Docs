@@ -1,20 +1,29 @@
 {
-  "date" : "2020-11-11",
-  "keywords" : [ "NDF", "extension", "file", "file format", "Database File Type", "Database File Format", "Database Files" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2020-11-11",
+  "keywords": [
+    "NDF",
+    "extension",
+    "file",
+    "file format",
+    "Database File Type",
+    "Database File Format",
+    "Database Files"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about MDF file format and APIs that can create and open NDF files.",
-  "title" : "NDF File Format - SQL Server Master Database File",
-  "linktitle" : "NDF",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about MDF file format and APIs that can create and open NDF files.",
+  "title": "NDF File Format - SQL Server Master Database File",
+  "linktitle": "NDF",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-ndf"
     }
   },
-  "lastmod" : "2020-08-12"
+  "lastmod": "2020-08-12"
 }
 
 ## What is a NDF file?

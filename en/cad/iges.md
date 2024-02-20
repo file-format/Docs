@@ -1,20 +1,25 @@
 {
-  "date" : "2020-03-16",
-  "keywords" : [ "IGES File", "File Format", "CAD" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2020-03-16",
+  "keywords": [
+    "IGES File",
+    "File Format",
+    "CAD"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about IGES file format and APIs that can create and open IGES files.",
-  "title" : "IGES File Format",
-  "linktitle" : "IGES",
-  "menu" : {
-    "docs" : {
-      "parent" : "cad"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about IGES file format and APIs that can create and open IGES files.",
+  "title": "IGES File Format",
+  "linktitle": "IGES",
+  "menu": {
+    "docs": {
+      "parent": "cad",
+      "identifier": "cad-iges"
     }
   },
-  "lastmod" : "2020-07-28"
+  "lastmod": "2020-07-28"
 }
 
 ## What is an IGES file?

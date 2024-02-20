@@ -1,20 +1,30 @@
 {
-  "date" : "2021-06-15",
-  "keywords" : [ "DBF", "extension", "dbf file", "dbf file format", "Database File Type", "Database File Format", "what is a dbf file", "dBASE" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-06-15",
+  "keywords": [
+    "DBF",
+    "extension",
+    "dbf file",
+    "dbf file format",
+    "Database File Type",
+    "Database File Format",
+    "what is a dbf file",
+    "dBASE"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about DBF file format and APIs that can create and open DBF files.",
-  "title" : "DBF -  dBase Database File",
-  "linktitle" : "DBF",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about DBF file format and APIs that can create and open DBF files.",
+  "title": "DBF -  dBase Database File",
+  "linktitle": "DBF",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-dbf"
     }
   },
-  "lastmod" : "2021-06-15"
+  "lastmod": "2021-06-15"
 }
 
 ## What is a DBF file?

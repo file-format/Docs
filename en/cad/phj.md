@@ -1,20 +1,25 @@
 {
-  "date" : "2020-03-16",
-  "keywords" : [ "PHJ File", "Format", "CAD" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2020-03-16",
+  "keywords": [
+    "PHJ File",
+    "Format",
+    "CAD"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about PHJ file format and APIs that can create and open PHJ files.",
-  "title" : "PHJ - PhCNC Project File Format",
-  "linktitle" : "PHJ",
-  "menu" : {
-    "docs" : {
-      "parent" : "cad"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about PHJ file format and APIs that can create and open PHJ files.",
+  "title": "PHJ - PhCNC Project File Format",
+  "linktitle": "PHJ",
+  "menu": {
+    "docs": {
+      "parent": "cad",
+      "identifier": "cad-phj"
     }
   },
-  "lastmod" : "2020-10-25"
+  "lastmod": "2020-10-25"
 }
 
 ## What is a PHJ file?

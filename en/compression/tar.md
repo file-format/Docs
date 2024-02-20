@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "tar file", "tar file format", "what is a tar file", "file", "tar example", "tar file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "tar file",
+    "tar file format",
+    "what is a tar file",
+    "file",
+    "tar example",
+    "tar file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "TAR - Unix Archive File Format",
-  "description":"Learn about what is a TAR file and APIs that can create and open TAR files.",
-  "linktitle" : "TAR",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
+  "draft": "false",
+  "toc": true,
+  "title": "TAR - Unix Archive File Format",
+  "description": "Learn about what is a TAR file and APIs that can create and open TAR files.",
+  "linktitle": "TAR",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-tar"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is a TAR file?

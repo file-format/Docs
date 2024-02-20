@@ -1,20 +1,27 @@
 {
-  "date" : "2020-01-11",
-  "keywords" : [ "DWG", "File", "Format", "AutoCAD Drawing Template", "Open" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2020-01-11",
+  "keywords": [
+    "DWG",
+    "File",
+    "Format",
+    "AutoCAD Drawing Template",
+    "Open"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about DWT file format and APIs that can create and open DWT files.",
-  "title" : "DWT File Format",
-  "linktitle" : "DWT",
-  "menu" : {
-    "docs" : {
-      "parent" : "cad"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about DWT file format and APIs that can create and open DWT files.",
+  "title": "DWT File Format",
+  "linktitle": "DWT",
+  "menu": {
+    "docs": {
+      "parent": "cad",
+      "identifier": "cad-dwt"
     }
   },
-  "lastmod" : "2020-09-04"
+  "lastmod": "2020-09-04"
 }
 
 ## What is a DWT file?

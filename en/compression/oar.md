@@ -1,20 +1,30 @@
 {
-  "date" : "2021-04-08",
-  "keywords" : [ "oar file", "oar file format", "what is an oar file", "file", "oar example", "oar file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-04-08",
+  "keywords": [
+    "oar file",
+    "oar file format",
+    "what is an oar file",
+    "file",
+    "oar example",
+    "oar file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "OAR - OpenSimulator Archive File Format",
-  "description":"Learn about OAR file format and APIs that can create and open OAR files.",
-  "linktitle" : "OAR",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
+  "draft": "false",
+  "toc": true,
+  "title": "OAR - OpenSimulator Archive File Format",
+  "description": "Learn about OAR file format and APIs that can create and open OAR files.",
+  "linktitle": "OAR",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-oar"
     }
   },
-  "lastmod" : "2021-04-15"
+  "lastmod": "2021-04-15"
 }
 
 ## What is an OAR file?

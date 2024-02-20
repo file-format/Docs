@@ -1,20 +1,30 @@
 {
-  "date" : "2021-04-08",
-  "keywords" : [ "deb file", "deb file format", "what is a deb file", "file", "deb example", "deb file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-04-08",
+  "keywords": [
+    "deb file",
+    "deb file format",
+    "what is a deb file",
+    "file",
+    "deb example",
+    "deb file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "DEB - Bzip Compressed Tar Archive",
-  "description":"Learn about DEB file format and APIs that can create and open DEB files.",
-  "linktitle" : "DEB",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
+  "draft": "false",
+  "toc": true,
+  "title": "DEB - Bzip Compressed Tar Archive",
+  "description": "Learn about DEB file format and APIs that can create and open DEB files.",
+  "linktitle": "DEB",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-deb"
     }
   },
-  "lastmod" : "2021-04-09"
+  "lastmod": "2021-04-09"
 }
 
 ## What is a DEB file?

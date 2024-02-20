@@ -1,20 +1,25 @@
 {
-  "date" : "2020-03-16",
-  "keywords" : [ "DC3 File", "File Format", "CAD" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2020-03-16",
+  "keywords": [
+    "DC3 File",
+    "File Format",
+    "CAD"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about DC3 file format and APIs that can create and open DC3 files.",
-  "title" : "DC3 File Format",
-  "linktitle" : "DC3",
-  "menu" : {
-    "docs" : {
-      "parent" : "cad"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about DC3 file format and APIs that can create and open DC3 files.",
+  "title": "DC3 File Format",
+  "linktitle": "DC3",
+  "menu": {
+    "docs": {
+      "parent": "cad",
+      "identifier": "cad-dc3"
     }
   },
-  "lastmod" : "2020-09-10"
+  "lastmod": "2020-09-10"
 }
 
 ## What is a DC3 file?

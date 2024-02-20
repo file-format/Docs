@@ -1,20 +1,29 @@
 {
-  "date" : "2020-11-11",
-  "keywords" : [ "ACCDT", "extension", "file", "file format", "Database File Type", "Database File Format", "Database Files" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2020-11-11",
+  "keywords": [
+    "ACCDT",
+    "extension",
+    "file",
+    "file format",
+    "Database File Type",
+    "Database File Format",
+    "Database Files"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about ACCDT file format and APIs that can create and open ACCDT files.",
-  "title" : "ACCDT - Microsoft Access 2007 Template Database File Format",
-  "linktitle" : "ACCDT",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about ACCDT file format and APIs that can create and open ACCDT files.",
+  "title": "ACCDT - Microsoft Access 2007 Template Database File Format",
+  "linktitle": "ACCDT",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-accdt"
     }
   },
-  "lastmod" : "2020-11-12"
+  "lastmod": "2020-11-12"
 }
 
 ## What is an ACCDT file?

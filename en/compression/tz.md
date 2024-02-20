@@ -1,19 +1,20 @@
 {
-  "date" : "2022-03-24",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-03-24",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "TZ - Zipped Tar Archive File Format",
-  "description":"Learn about what is a TZ file and APIs that can create and open TZ files.",
-  "linktitle" : "TZ",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
+  "draft": "false",
+  "toc": true,
+  "title": "TZ - Zipped Tar Archive File Format",
+  "description": "Learn about what is a TZ file and APIs that can create and open TZ files.",
+  "linktitle": "TZ",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-tz"
     }
   },
-  "lastmod" : "2022-03-24"
+  "lastmod": "2022-03-24"
 }
 
 ## What is a TZ file?

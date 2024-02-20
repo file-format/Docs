@@ -1,20 +1,29 @@
 {
-  "date" : "2021-09-06",
-  "keywords" : [ "btr", "extension", "file", "file format", "Database File Type", "Database File Format", "Btrieve Database" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-09-06",
+  "keywords": [
+    "btr",
+    "extension",
+    "file",
+    "file format",
+    "Database File Type",
+    "Database File Format",
+    "Btrieve Database"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about BTR file format and APIs that can create and open BTR files.",
-  "title" : "BTR - Btrieve Database File",
-  "linktitle" : "BTR",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about BTR file format and APIs that can create and open BTR files.",
+  "title": "BTR - Btrieve Database File",
+  "linktitle": "BTR",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-btr"
     }
   },
-  "lastmod" : "2021-09-06"
+  "lastmod": "2021-09-06"
 }
 
 ## What is a BTR file?

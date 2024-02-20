@@ -1,20 +1,28 @@
  {
-  "date" : "2022-01-04",
-  "keywords" : [ ".dst", "file", "format", "extension", "API", "AutoCAD Sheet Set" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-01-04",
+  "keywords": [
+    ".dst",
+    "file",
+    "format",
+    "extension",
+    "API",
+    "AutoCAD Sheet Set"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "DST - AutoCAD Sheet Set File",
-  "description" : "Learn about .dst file and APIs that can create and open DST files.",
-  "linktitle" : "DST",
-  "menu" : {
-    "docs" : {
-      "parent" : "cad"
+  "draft": "false",
+  "toc": true,
+  "title": "DST - AutoCAD Sheet Set File",
+  "description": "Learn about .dst file and APIs that can create and open DST files.",
+  "linktitle": "DST",
+  "menu": {
+    "docs": {
+      "parent": "cad",
+      "identifier": "cad-dst"
     }
   },
-  "lastmod" : "2022-01-04"
+  "lastmod": "2022-01-04"
 }
 
 ## What is a DST file?

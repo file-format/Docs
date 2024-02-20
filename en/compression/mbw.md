@@ -1,20 +1,29 @@
 {
-  "date" : "2021-05-28",
-  "keywords" : [ "MBW", "MBRWizard", "file", "format", "extension", "compressed", "Firesage Solutions" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
+  "date": "2021-05-28",
+  "keywords": [
+    "MBW",
+    "MBRWizard",
+    "file",
+    "format",
+    "extension",
+    "compressed",
+    "Firesage Solutions"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "MBW File Format",
-  "description":"Learn about MBW file format and APIs that can create and open MBW files.",
-  "linktitle" : "MBW",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
+  "draft": "false",
+  "toc": true,
+  "title": "MBW File Format",
+  "description": "Learn about MBW file format and APIs that can create and open MBW files.",
+  "linktitle": "MBW",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-mbw"
     }
   },
-  "lastmod" : "2021-05-28"
+  "lastmod": "2021-05-28"
 }
 
 ## What is an MBW file? ##

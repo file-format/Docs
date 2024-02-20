@@ -1,19 +1,20 @@
 {
-  "date" : "2021-04-30",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-04-30",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "SIFZ File Format - Synfig Studio Compressed Project File",
-  "description":"Learn about SIFZ file format and APIs that can create and open SIFZ files.",
-  "linktitle" : "SIFZ",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
+  "draft": "false",
+  "toc": true,
+  "title": "SIFZ File Format - Synfig Studio Compressed Project File",
+  "description": "Learn about SIFZ file format and APIs that can create and open SIFZ files.",
+  "linktitle": "SIFZ",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-sifz"
     }
   },
-  "lastmod" : "2021-04-30"
+  "lastmod": "2021-04-30"
 }
 
 ## What is a SIFZ file?

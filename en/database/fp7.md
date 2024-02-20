@@ -1,19 +1,20 @@
 {
-  "date" : "2022-05-25",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-05-25",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about FP7 file format and APIs that can create and open FP7 files.",
-  "title" : "FP7 File Format - FileMaker Pro 7+ Database File",
-  "linktitle" : "FP7",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about FP7 file format and APIs that can create and open FP7 files.",
+  "title": "FP7 File Format - FileMaker Pro 7+ Database File",
+  "linktitle": "FP7",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-fp7"
     }
   },
-  "lastmod" : "2022-05-25"
+  "lastmod": "2022-05-25"
 }
 
 ## What is a FP7 file?

@@ -1,20 +1,29 @@
 {
-  "date" : "2020-11-11",
-  "keywords" : [ "SQL", "extension", "file", "file format", "Database File Type", "Database File Format", "Database Files" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2020-11-11",
+  "keywords": [
+    "SQL",
+    "extension",
+    "file",
+    "file format",
+    "Database File Type",
+    "Database File Format",
+    "Database Files"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about SQL file format and APIs that can create and open SQL files.",
-  "title" : "SQL File Format - A Structured Query Language Data File",
-  "linktitle" : "SQL",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about SQL file format and APIs that can create and open SQL files.",
+  "title": "SQL File Format - A Structured Query Language Data File",
+  "linktitle": "SQL",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-sql"
     }
   },
-  "lastmod" : "2020-11-11"
+  "lastmod": "2020-11-11"
 }
 
 ## What is an SQL file?

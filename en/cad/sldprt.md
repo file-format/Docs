@@ -1,19 +1,20 @@
 {
-  "date" : "2020-03-16",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2020-03-16",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about SLDPRT file format and APIs that can create and open SLDPRT files.",
-  "title" : "SLDPRT - SolidWorks Part File Type",
-  "linktitle" : "SLDPRT",
-  "menu" : {
-    "docs" : {
-      "parent" : "cad"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about SLDPRT file format and APIs that can create and open SLDPRT files.",
+  "title": "SLDPRT - SolidWorks Part File Type",
+  "linktitle": "SLDPRT",
+  "menu": {
+    "docs": {
+      "parent": "cad",
+      "identifier": "cad-sldprt"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is SLDPRT file?

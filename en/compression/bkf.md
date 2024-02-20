@@ -1,20 +1,29 @@
 {
-  "date" : "2021-04-30",
-  "keywords" : [ "BKF", "Compressed", "File", "Extension", "File Format", "WindowsXP", "Moto Racer" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
+  "date": "2021-04-30",
+  "keywords": [
+    "BKF",
+    "Compressed",
+    "File",
+    "Extension",
+    "File Format",
+    "WindowsXP",
+    "Moto Racer"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "BKF File Format",
-  "description":"Learn about BKF file format and APIs that can create and open BKF files.",
-  "linktitle" : "BKF",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
+  "draft": "false",
+  "toc": true,
+  "title": "BKF File Format",
+  "description": "Learn about BKF file format and APIs that can create and open BKF files.",
+  "linktitle": "BKF",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-bkf"
     }
   },
-  "lastmod" : "2021-04-30"
+  "lastmod": "2021-04-30"
 }
 
 ## What is a BKF file? ##

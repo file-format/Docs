@@ -1,20 +1,30 @@
 {
-  "date" : "2021-04-08",
-  "keywords" : [ "lz file", "lz file format", "what is a lz file", "file", "lz example", "lz file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-04-08",
+  "keywords": [
+    "lz file",
+    "lz file format",
+    "what is a lz file",
+    "file",
+    "lz example",
+    "lz file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "LZ - Lzip Compressed File Format",
-  "description":"Learn about LZ file format and APIs that can create and open LZ files.",
-  "linktitle" : "LZ",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
+  "draft": "false",
+  "toc": true,
+  "title": "LZ - Lzip Compressed File Format",
+  "description": "Learn about LZ file format and APIs that can create and open LZ files.",
+  "linktitle": "LZ",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-lz"
     }
   },
-  "lastmod" : "2021-04-19"
+  "lastmod": "2021-04-19"
 }
 
 ## What is an LZ file?

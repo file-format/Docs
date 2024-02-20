@@ -1,20 +1,28 @@
 {
-  "date" : "2021-12-30",
-  "keywords" : [ ".catpart", "File Format", "extension", "Read", "Create", "CAD" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-12-30",
+  "keywords": [
+    ".catpart",
+    "File Format",
+    "extension",
+    "Read",
+    "Create",
+    "CAD"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about .catpart file format and APIs that can create and open CATPART files.",
-  "title" : "CATPART File Format - CATIA V5 Part File",
-  "linktitle" : "CATPART",
-  "menu" : {
-    "docs" : {
-      "parent" : "cad"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about .catpart file format and APIs that can create and open CATPART files.",
+  "title": "CATPART File Format - CATIA V5 Part File",
+  "linktitle": "CATPART",
+  "menu": {
+    "docs": {
+      "parent": "cad",
+      "identifier": "cad-catpart"
     }
   },
-  "lastmod" : "2021-12-30"
+  "lastmod": "2021-12-30"
 }
 
 ## What is a CATPART file?

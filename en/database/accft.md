@@ -1,20 +1,29 @@
 {
-  "date" : "2020-11-11",
-  "keywords" : [ "ACCFT", "extension", "file", "file format", "Database File Type", "Database File Format", "Database Files" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2020-11-11",
+  "keywords": [
+    "ACCFT",
+    "extension",
+    "file",
+    "file format",
+    "Database File Type",
+    "Database File Format",
+    "Database Files"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about ACCFT file format and APIs that can create and open ACCFT files.",
-  "title" : "ACCFT - Microsoft Access 2007 Database Field Template File",
-  "linktitle" : "ACCFT",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about ACCFT file format and APIs that can create and open ACCFT files.",
+  "title": "ACCFT - Microsoft Access 2007 Database Field Template File",
+  "linktitle": "ACCFT",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-accft"
     }
   },
-  "lastmod" : "2020-11-12"
+  "lastmod": "2020-11-12"
 }
 
 ## What is an ACCFT file?

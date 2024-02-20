@@ -1,19 +1,20 @@
 {
-  "date" : "2022-06-20",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-06-20",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "FZPZ File Format - Fritzing Part File",
-  "description":"Learn about what is a FZPZ file and APIs that can create and open FZPZ files.",
-  "linktitle" : "FZPZ",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
+  "draft": "false",
+  "toc": true,
+  "title": "FZPZ File Format - Fritzing Part File",
+  "description": "Learn about what is a FZPZ file and APIs that can create and open FZPZ files.",
+  "linktitle": "FZPZ",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-fzpz"
     }
   },
-  "lastmod" : "2022-06-20"
+  "lastmod": "2022-06-20"
 }
 
 ## What is a FZPZ file?

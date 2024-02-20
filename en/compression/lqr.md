@@ -1,20 +1,30 @@
 {
-  "date" : "2021-04-30",
-  "keywords" : [ "LQR", "Compressed", "File", "Extension", "File Format", "LBR", "SQ","MSDOS" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
+  "date": "2021-04-30",
+  "keywords": [
+    "LQR",
+    "Compressed",
+    "File",
+    "Extension",
+    "File Format",
+    "LBR",
+    "SQ",
+    "MSDOS"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "LQR File Format",
-  "description":"Learn about LQR file format and APIs that can create and open LQR files.",
-  "linktitle" : "LQR",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
+  "draft": "false",
+  "toc": true,
+  "title": "LQR File Format",
+  "description": "Learn about LQR file format and APIs that can create and open LQR files.",
+  "linktitle": "LQR",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-lqr"
     }
   },
-  "lastmod" : "2021-06-01"
+  "lastmod": "2021-06-01"
 }
 
 ## What is an LQR file? ##

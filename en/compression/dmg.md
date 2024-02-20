@@ -1,20 +1,29 @@
 {
-  "date" : "2021-04-30",
-  "keywords" : [ "DMG", "Compressed", "File", "Extension", "File Format", "Apple Disk Image", "Macintosh" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
+  "date": "2021-04-30",
+  "keywords": [
+    "DMG",
+    "Compressed",
+    "File",
+    "Extension",
+    "File Format",
+    "Apple Disk Image",
+    "Macintosh"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "DMG - Apple Disk Image",
-  "description":"Learn about DMG file format and APIs that can create and open DMG files.",
-  "linktitle" : "DMG",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
+  "draft": "false",
+  "toc": true,
+  "title": "DMG - Apple Disk Image",
+  "description": "Learn about DMG file format and APIs that can create and open DMG files.",
+  "linktitle": "DMG",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-dmg"
     }
   },
-  "lastmod" : "2021-04-30"
+  "lastmod": "2021-04-30"
 }
 
 ## What is a DMG file?

@@ -1,20 +1,30 @@
 {
-  "date" : "2021-04-08",
-  "keywords" : [ "pkg file", "pkg file format", "what is a pkg file", "file", "pkg example", "pkg file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-04-08",
+  "keywords": [
+    "pkg file",
+    "pkg file format",
+    "what is a pkg file",
+    "file",
+    "pkg example",
+    "pkg file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "PKG - Extensible Archive File Format",
-  "description":"Learn about PKG file format and APIs that can create and open PKG files.",
-  "linktitle" : "PKG",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
+  "draft": "false",
+  "toc": true,
+  "title": "PKG - Extensible Archive File Format",
+  "description": "Learn about PKG file format and APIs that can create and open PKG files.",
+  "linktitle": "PKG",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-pkg"
     }
   },
-  "lastmod" : "2021-04-13"
+  "lastmod": "2021-04-13"
 }
 
 ## What is a PKG file?

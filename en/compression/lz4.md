@@ -1,20 +1,30 @@
 {
-  "date" : "2021-04-08",
-  "keywords" : [ "lz4 file", "lz4 file format", "what is an lz4 file", "file", "lz4 example", "lz4 file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-04-08",
+  "keywords": [
+    "lz4 file",
+    "lz4 file format",
+    "what is an lz4 file",
+    "file",
+    "lz4 example",
+    "lz4 file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "LZ4 - LZ4 Compressed File Format",
-  "description":"Learn about LBR file format and APIs that can create and open LZ4 files.",
-  "linktitle" : "LZ4",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
+  "draft": "false",
+  "toc": true,
+  "title": "LZ4 - LZ4 Compressed File Format",
+  "description": "Learn about LBR file format and APIs that can create and open LZ4 files.",
+  "linktitle": "LZ4",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-lz4"
     }
   },
-  "lastmod" : "2021-04-19"
+  "lastmod": "2021-04-19"
 }
 
 ## What is an LZ4 file?

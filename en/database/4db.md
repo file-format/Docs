@@ -1,20 +1,32 @@
 {
-  "date" : "2021-07-29",
-  "keywords" : [ "4DB", "extension", "file", "file format", "Database File Type", "Database File Format", "Database Files", "4th Dimension", "4DB database", "4DB file" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
+  "date": "2021-07-29",
+  "keywords": [
+    "4DB",
+    "extension",
+    "file",
+    "file format",
+    "Database File Type",
+    "Database File Format",
+    "Database Files",
+    "4th Dimension",
+    "4DB database",
+    "4DB file"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about 4DB file format and APIs that can create and open 4DB files.",
-  "title" : "4DB File Format",
-  "linktitle" : "4DB",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about 4DB file format and APIs that can create and open 4DB files.",
+  "title": "4DB File Format",
+  "linktitle": "4DB",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-4db"
     }
   },
-  "lastmod" : "2021-07-29"
+  "lastmod": "2021-07-29"
 }
 
 ## What is a 4DB file?

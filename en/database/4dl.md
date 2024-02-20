@@ -1,19 +1,20 @@
 {
-  "date" : "2023-06-14",
-  "author" : {
-    "display_name" : "Sami Cheema"
+  "date": "2023-06-14",
+  "author": {
+    "display_name": "Sami Cheema"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about 4DL file format and APIs that can create and open 4DL files.",
-  "title" : "4DL - 4th Dimension Database Log File",
-  "linktitle" : "4DL",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about 4DL file format and APIs that can create and open 4DL files.",
+  "title": "4DL - 4th Dimension Database Log File",
+  "linktitle": "4DL",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-4dl"
     }
   },
-  "lastmod" : "2023-06-14"
+  "lastmod": "2023-06-14"
 }
 
 ## What is a 4DL file?

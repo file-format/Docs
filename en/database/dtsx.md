@@ -1,20 +1,29 @@
 {
-  "date" : "2020-11-11",
-  "keywords" : [ "DTSX", "extension", "file", "file format", "Database File Type", "Database File Format", "Database Files" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2020-11-11",
+  "keywords": [
+    "DTSX",
+    "extension",
+    "file",
+    "file format",
+    "Database File Type",
+    "Database File Format",
+    "Database Files"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about DTSX file format and APIs that can create and open DTSX files.",
-  "title" : "DTSX File Format - SQL Server DTS Settings File",
-  "linktitle" : "DTSX",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about DTSX file format and APIs that can create and open DTSX files.",
+  "title": "DTSX File Format - SQL Server DTS Settings File",
+  "linktitle": "DTSX",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-dtsx"
     }
   },
-  "lastmod" : "2020-08-12"
+  "lastmod": "2020-08-12"
 }
 
 ## What is a DTSX file?

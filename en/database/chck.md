@@ -1,19 +1,20 @@
 {
-  "date" : "2023-06-02",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2023-06-02",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about CHCK file format and APIs that can create and open CHCK files.",
-  "title" : "CHCK File - Microsoft Exchange Server Database Check File Format",
-  "linktitle" : "CHCK",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about CHCK file format and APIs that can create and open CHCK files.",
+  "title": "CHCK File - Microsoft Exchange Server Database Check File Format",
+  "linktitle": "CHCK",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-chck"
     }
   },
-  "lastmod" : "2021-06-02"
+  "lastmod": "2021-06-02"
 }
 
 ## What is a CHCK File?

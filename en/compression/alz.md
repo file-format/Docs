@@ -1,20 +1,29 @@
 {
-  "date" : "2021-04-30",
-  "keywords" : [ "ALZ", "Compressed", "File", "Extension", "File Format", "ALZip", "Unarchiver by DagArgen" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
+  "date": "2021-04-30",
+  "keywords": [
+    "ALZ",
+    "Compressed",
+    "File",
+    "Extension",
+    "File Format",
+    "ALZip",
+    "Unarchiver by DagArgen"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ALZ File Format",
-  "description":"Learn about ALZ file format and APIs that can create and open ALZ files.",
-  "linktitle" : "ALZ",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
+  "draft": "false",
+  "toc": true,
+  "title": "ALZ File Format",
+  "description": "Learn about ALZ file format and APIs that can create and open ALZ files.",
+  "linktitle": "ALZ",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-alz"
     }
   },
-  "lastmod" : "2021-04-30"
+  "lastmod": "2021-04-30"
 }
 
 ## What is an ALZ file? ##

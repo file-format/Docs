@@ -1,19 +1,20 @@
 {
-  "date" : "2022-06-28",
-  "author" : {
-    "display_name" : "Sami Cheema"
+  "date": "2022-06-28",
+  "author": {
+    "display_name": "Sami Cheema"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "BNDL File Format - Game Data Bundle File",
-  "description":"Learn about BNDL file format and APIs that can create and open BNDL files.",
-  "linktitle" : "BNDL",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
+  "draft": "false",
+  "toc": true,
+  "title": "BNDL File Format - Game Data Bundle File",
+  "description": "Learn about BNDL file format and APIs that can create and open BNDL files.",
+  "linktitle": "BNDL",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-bndl"
     }
   },
-  "lastmod" : "2022-06-28"
+  "lastmod": "2022-06-28"
 }
 
 ## What is a BNDL file?

@@ -1,20 +1,31 @@
 {
-  "date" : "2020-11-11",
-  "keywords" : [ "BAK", "extension", "file", "file format", "BAK File Type", "BAK File Extension", "Database File Type", "Database File Format", "Database Files" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2020-11-11",
+  "keywords": [
+    "BAK",
+    "extension",
+    "file",
+    "file format",
+    "BAK File Type",
+    "BAK File Extension",
+    "Database File Type",
+    "Database File Format",
+    "Database Files"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about BAK file format and APIs that can create and open BAK files.",
-  "title" : "BAK File Format - Database Backup File",
-  "linktitle" : "BAK",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about BAK file format and APIs that can create and open BAK files.",
+  "title": "BAK File Format - Database Backup File",
+  "linktitle": "BAK",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-bak"
     }
   },
-  "lastmod" : "2020-12-04"
+  "lastmod": "2020-12-04"
 }
 
 ## What is a BAK file?

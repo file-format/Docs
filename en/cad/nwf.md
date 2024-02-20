@@ -1,20 +1,25 @@
 {
-  "date" : "2020-03-16",
-  "keywords" : [ "NWF File", "Format", "CAD" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2020-03-16",
+  "keywords": [
+    "NWF File",
+    "Format",
+    "CAD"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about NWF file format and APIs that can create and open NWF files.",
-  "title" : "NWF File Format",
-  "linktitle" : "NWF",
-  "menu" : {
-    "docs" : {
-      "parent" : "cad"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about NWF file format and APIs that can create and open NWF files.",
+  "title": "NWF File Format",
+  "linktitle": "NWF",
+  "menu": {
+    "docs": {
+      "parent": "cad",
+      "identifier": "cad-nwf"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is an NWF file?

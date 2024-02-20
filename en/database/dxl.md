@@ -1,19 +1,20 @@
 {
-  "date" : "2023-05-16",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2023-05-16",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about DXL file format and APIs that can create and open DTSX files.",
-  "title" : "DXL File Format - Domino XML Language File Format",
-  "linktitle" : "DXL",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about DXL file format and APIs that can create and open DTSX files.",
+  "title": "DXL File Format - Domino XML Language File Format",
+  "linktitle": "DXL",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-dxl"
     }
   },
-  "lastmod" : "2023-05-16"
+  "lastmod": "2023-05-16"
 }
 
 ## What is a DXL file?

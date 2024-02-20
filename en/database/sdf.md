@@ -1,20 +1,32 @@
 {
-  "date" : "2021-05-03",
-  "keywords" : [ "SDF", "sdf file","what is sdf file","how to open an sdf file", "extension", "file", "sdf file format", "Database File Type", "Database File Format", "Database Files" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-05-03",
+  "keywords": [
+    "SDF",
+    "sdf file",
+    "what is sdf file",
+    "how to open an sdf file",
+    "extension",
+    "file",
+    "sdf file format",
+    "Database File Type",
+    "Database File Format",
+    "Database Files"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about SDF file format and APIs that can create and open SDF files.",
-  "title" : "SDF - SQL Server Compact Database File",
-  "linktitle" : "SDF",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about SDF file format and APIs that can create and open SDF files.",
+  "title": "SDF - SQL Server Compact Database File",
+  "linktitle": "SDF",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-sdf"
     }
   },
-  "lastmod" : "2021-05-03"
+  "lastmod": "2021-05-03"
 }
 
 ## What is an SDF file?

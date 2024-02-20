@@ -1,20 +1,29 @@
 {
-  "date" : "2021-09-06",
-  "keywords" : [ "adn", "extension", "file", "file format", "Database File Type", "Database File Format", "Access Blank Project Template" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-09-06",
+  "keywords": [
+    "adn",
+    "extension",
+    "file",
+    "file format",
+    "Database File Type",
+    "Database File Format",
+    "Access Blank Project Template"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about ADN file format and APIs that can create and open ADN files.",
-  "title" : "ADN - Alpha Five Database File",
-  "linktitle" : "ADN",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about ADN file format and APIs that can create and open ADN files.",
+  "title": "ADN - Alpha Five Database File",
+  "linktitle": "ADN",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-adn"
     }
   },
-  "lastmod" : "2021-09-06"
+  "lastmod": "2021-09-06"
 }
 
 ## What is an ADN file?

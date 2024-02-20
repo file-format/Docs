@@ -1,20 +1,25 @@
 {
-  "date" : "2020-03-16",
-  "keywords" : [ "DXF File", "File Format", "CAD" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2020-03-16",
+  "keywords": [
+    "DXF File",
+    "File Format",
+    "CAD"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about DXF file format and APIs that can create and open DXF files.",
-  "title" : "DXF File Format",
-  "linktitle" : "DXF",
-  "menu" : {
-    "docs" : {
-      "parent" : "cad"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about DXF file format and APIs that can create and open DXF files.",
+  "title": "DXF File Format",
+  "linktitle": "DXF",
+  "menu": {
+    "docs": {
+      "parent": "cad",
+      "identifier": "cad-dxf"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is a DXF file?

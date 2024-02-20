@@ -1,19 +1,20 @@
 {
-  "date" : "2022-03-02",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-03-02",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "TGZ File - Gzipped Tar File",
-  "description":"Learn about TGZ file format and APIs that can create and open TGZ files.",
-  "linktitle" : "TGZ",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
+  "draft": "false",
+  "toc": true,
+  "title": "TGZ File - Gzipped Tar File",
+  "description": "Learn about TGZ file format and APIs that can create and open TGZ files.",
+  "linktitle": "TGZ",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-tgz"
     }
   },
-  "lastmod" : "2022-03-02"
+  "lastmod": "2022-03-02"
 }
 
 ## What is a TGZ file?

@@ -1,20 +1,30 @@
 {
-  "date" : "2021-09-10",
-  "keywords" : [ "rft file", "rft file format", "what is an rft file", "file", "rft example", "rft file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-09-10",
+  "keywords": [
+    "rft file",
+    "rft file format",
+    "what is an rft file",
+    "file",
+    "rft example",
+    "rft file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about RFT file format and APIs that can create and open RFT files.",
-  "title" : "RFT - Revit Family Template File",
-  "linktitle" : "RFT",
-  "menu" : {
-    "docs" : {
-      "parent" : "cad"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about RFT file format and APIs that can create and open RFT files.",
+  "title": "RFT - Revit Family Template File",
+  "linktitle": "RFT",
+  "menu": {
+    "docs": {
+      "parent": "cad",
+      "identifier": "cad-rft"
     }
   },
-  "lastmod" : "2021-09-10"
+  "lastmod": "2021-09-10"
 }
 
 ## What is an RFT file?

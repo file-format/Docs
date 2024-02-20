@@ -1,20 +1,29 @@
 {
-  "date" : "2021-08-29",
-  "keywords" : [ "accdc", "extension", "file", "file format", "Database File Type", "Database File Format", "signed Database package" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-08-29",
+  "keywords": [
+    "accdc",
+    "extension",
+    "file",
+    "file format",
+    "Database File Type",
+    "Database File Format",
+    "signed Database package"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about ACCDC file format and APIs that can create and open ACCDC files.",
-  "title" : "ACCDC - Microsoft Access Signed Package",
-  "linktitle" : "ACCDC",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about ACCDC file format and APIs that can create and open ACCDC files.",
+  "title": "ACCDC - Microsoft Access Signed Package",
+  "linktitle": "ACCDC",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-accdc"
     }
   },
-  "lastmod" : "2021-08-29"
+  "lastmod": "2021-08-29"
 }
 
 ## What is an ACCDC file?

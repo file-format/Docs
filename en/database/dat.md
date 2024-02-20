@@ -1,20 +1,29 @@
 {
-  "date" : "2021-06-14",
-  "keywords" : [ "DAT", "extension", "dat file", "dat file format", "Database File Type", "Database File Format", "what is a dat file" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-06-14",
+  "keywords": [
+    "DAT",
+    "extension",
+    "dat file",
+    "dat file format",
+    "Database File Type",
+    "Database File Format",
+    "what is a dat file"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about DAT file format and APIs that can create and open DAT files.",
-  "title" : "DAT - General Data File Format",
-  "linktitle" : "DAT",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about DAT file format and APIs that can create and open DAT files.",
+  "title": "DAT - General Data File Format",
+  "linktitle": "DAT",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-dat"
     }
   },
-  "lastmod" : "2021-06-14"
+  "lastmod": "2021-06-14"
 }
 
 ## What is a DAT file?

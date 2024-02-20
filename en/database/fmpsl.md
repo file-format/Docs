@@ -1,19 +1,20 @@
 {
-  "date" : "2022-05-25",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-05-25",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about FMPSL file format and APIs that can create and open FMPSL files.",
-  "title" : "FMPSL File Format - FileMaker Pro 12 Snapshot Link File",
-  "linktitle" : "FMPSL",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about FMPSL file format and APIs that can create and open FMPSL files.",
+  "title": "FMPSL File Format - FileMaker Pro 12 Snapshot Link File",
+  "linktitle": "FMPSL",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-fmpsl"
     }
   },
-  "lastmod" : "2022-05-25"
+  "lastmod": "2022-05-25"
 }
 
 ## What is an FMPSL file?

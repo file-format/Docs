@@ -1,20 +1,30 @@
 {
-  "date" : "2021-04-08",
-  "keywords" : [ "lzma file", "lzma file format", "what is an lzma file", "file", "lzma example", "lzma file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-04-08",
+  "keywords": [
+    "lzma file",
+    "lzma file format",
+    "what is an lzma file",
+    "file",
+    "lzma example",
+    "lzma file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "LZMA - LZMA Compressed File Format",
-  "description":"What is an LZMA file and APIs that can create and open LZMA files.",
-  "linktitle" : "LZMA",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
+  "draft": "false",
+  "toc": true,
+  "title": "LZMA - LZMA Compressed File Format",
+  "description": "What is an LZMA file and APIs that can create and open LZMA files.",
+  "linktitle": "LZMA",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-lzma"
     }
   },
-  "lastmod" : "2021-04-18"
+  "lastmod": "2021-04-18"
 }
 
 ## What is a LZMA file?

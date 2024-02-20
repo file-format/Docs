@@ -1,20 +1,25 @@
 {
-  "date" : "2020-03-16",
-  "keywords" : [ "NWC File", "Format", "CAD" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2020-03-16",
+  "keywords": [
+    "NWC File",
+    "Format",
+    "CAD"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about NWC file format and APIs that can create and open NWC files.",
-  "title" : "NWC File Format",
-  "linktitle" : "NWC",
-  "menu" : {
-    "docs" : {
-      "parent" : "cad"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about NWC file format and APIs that can create and open NWC files.",
+  "title": "NWC File Format",
+  "linktitle": "NWC",
+  "menu": {
+    "docs": {
+      "parent": "cad",
+      "identifier": "cad-nwc"
     }
   },
-  "lastmod" : "2020-10-24"
+  "lastmod": "2020-10-24"
 }
 
 ## What is an NWC file?

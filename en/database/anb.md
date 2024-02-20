@@ -1,20 +1,29 @@
 {
-  "date" : "2021-08-29",
-  "keywords" : [ "anb", "extension", "file", "file format", "Database File Type", "Database File Format", "Analyst's Notebook Chart" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-08-29",
+  "keywords": [
+    "anb",
+    "extension",
+    "file",
+    "file format",
+    "Database File Type",
+    "Database File Format",
+    "Analyst's Notebook Chart"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about ANB file format and APIs that can create and open ANB files.",
-  "title" : "ANB - Analyst's Notebook Chart",
-  "linktitle" : "ANB",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about ANB file format and APIs that can create and open ANB files.",
+  "title": "ANB - Analyst's Notebook Chart",
+  "linktitle": "ANB",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-anb"
     }
   },
-  "lastmod" : "2021-09-09"
+  "lastmod": "2021-09-09"
 }
 
 ## What is an ANB file?

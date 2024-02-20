@@ -1,20 +1,30 @@
 {
-  "date" : "2022-01-23",
-  "keywords" : [ "xz file", "file format", "what is a xz file", "file", "xz example", "xz file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-01-23",
+  "keywords": [
+    "xz file",
+    "file format",
+    "what is a xz file",
+    "file",
+    "xz example",
+    "xz file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "XZ File - XZ Compressed Archive",
-  "description":"Learn about XZ file format and APIs that can create and open XZ files.",
-  "linktitle" : "XZ",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
+  "draft": "false",
+  "toc": true,
+  "title": "XZ File - XZ Compressed Archive",
+  "description": "Learn about XZ file format and APIs that can create and open XZ files.",
+  "linktitle": "XZ",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-xz"
     }
   },
-  "lastmod" : "2022-01-23"
+  "lastmod": "2022-01-23"
 }
 
 ## What is an XZ file?

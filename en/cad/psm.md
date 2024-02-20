@@ -1,20 +1,25 @@
 {
-  "date" : "2020-03-16",
-  "keywords" : [ "PSM File", "Format", "CAD" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2020-03-16",
+  "keywords": [
+    "PSM File",
+    "Format",
+    "CAD"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about PSM file format and APIs that can create and open PSM files.",
-  "title" : "PSM File Format - Solid Edge Sheet Meta File",
-  "linktitle" : "PSM",
-  "menu" : {
-    "docs" : {
-      "parent" : "cad"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about PSM file format and APIs that can create and open PSM files.",
+  "title": "PSM File Format - Solid Edge Sheet Meta File",
+  "linktitle": "PSM",
+  "menu": {
+    "docs": {
+      "parent": "cad",
+      "identifier": "cad-psm"
     }
   },
-  "lastmod" : "2020-10-25"
+  "lastmod": "2020-10-25"
 }
 
 ## What is a PSM file?

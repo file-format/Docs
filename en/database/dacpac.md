@@ -1,20 +1,29 @@
 {
-  "date" : "2021-09-06",
-  "keywords" : [ "dacpac", "extension", "file", "file format", "Database File Type", "Database File Format", "Data Tier AppliCation Package" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-09-06",
+  "keywords": [
+    "dacpac",
+    "extension",
+    "file",
+    "file format",
+    "Database File Type",
+    "Database File Format",
+    "Data Tier AppliCation Package"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about DACPAC file format and APIs that can create and open DACPAC files.",
-  "title" : "DACPAC - Data Tier AppliCation Package",
-  "linktitle" : "DACPAC",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about DACPAC file format and APIs that can create and open DACPAC files.",
+  "title": "DACPAC - Data Tier AppliCation Package",
+  "linktitle": "DACPAC",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-dacpac"
     }
   },
-  "lastmod" : "2021-09-06"
+  "lastmod": "2021-09-06"
 }
 
 ## What is a DACPAC file?

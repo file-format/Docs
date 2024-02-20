@@ -1,19 +1,20 @@
 {
-  "date" : "2022-05-25",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-05-25",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about FP5 file format and APIs that can create and open FP5 files.",
-  "title" : "FP5 File Format - FileMaker Pro 5 Database File",
-  "linktitle" : "FP5",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about FP5 file format and APIs that can create and open FP5 files.",
+  "title": "FP5 File Format - FileMaker Pro 5 Database File",
+  "linktitle": "FP5",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-fp5"
     }
   },
-  "lastmod" : "2022-05-25"
+  "lastmod": "2022-05-25"
 }
 
 ## What is a FP5 file?

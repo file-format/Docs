@@ -1,21 +1,30 @@
 {
-  "date" : "2021-04-08",
-  "keywords" : [ "mst file", "mst file format", "what is a mst file", "file", "mst example", "mst file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
-	
+  "date": "2021-04-08",
+  "keywords": [
+    "mst file",
+    "mst file format",
+    "what is a mst file",
+    "file",
+    "mst example",
+    "mst file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "LBR - LU Library Archive File Format",
-  "description":"Learn about LBR file format and APIs that can create and open LBR files.",
-  "linktitle" : "LBR",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
+  "draft": "false",
+  "toc": true,
+  "title": "LBR - LU Library Archive File Format",
+  "description": "Learn about LBR file format and APIs that can create and open LBR files.",
+  "linktitle": "LBR",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-lbr"
     }
   },
-  "lastmod" : "2021-04-19"
+  "lastmod": "2021-04-19"
 }
 
 ## What is a LBR file?

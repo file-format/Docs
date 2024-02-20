@@ -1,20 +1,29 @@
 {
-  "date" : "2021-04-30",
-  "keywords" : [ "LZX", "Compressed", "File", "Extension", "File Format", "Amiga LZX", "Cabextract" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
+  "date": "2021-04-30",
+  "keywords": [
+    "LZX",
+    "Compressed",
+    "File",
+    "Extension",
+    "File Format",
+    "Amiga LZX",
+    "Cabextract"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "LZX File Format",
-  "description":"Learn about LZX file format and APIs that can create and open LZX files.",
-  "linktitle" : "LZX",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
+  "draft": "false",
+  "toc": true,
+  "title": "LZX File Format",
+  "description": "Learn about LZX file format and APIs that can create and open LZX files.",
+  "linktitle": "LZX",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-lzx"
     }
   },
-  "lastmod" : "2021-04-30"
+  "lastmod": "2021-04-30"
 }
 
 ## What is an LZX file? ##

@@ -1,19 +1,20 @@
 {
-  "date" : "2019-12-09",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-12-09",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ZIM File Format - OpenZIM Archive File",
-  "description":"Learn about ZIM file format and APIs that can create and open ZIM files.",
-  "linktitle" : "ZIM",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
+  "draft": "false",
+  "toc": true,
+  "title": "ZIM File Format - OpenZIM Archive File",
+  "description": "Learn about ZIM file format and APIs that can create and open ZIM files.",
+  "linktitle": "ZIM",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-zim"
     }
   },
-  "lastmod" : "2019-12-09"
+  "lastmod": "2019-12-09"
 }
 
 ## What is a ZIM file? ##

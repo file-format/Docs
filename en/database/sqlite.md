@@ -1,20 +1,29 @@
 {
-  "date" : "2019-12-12",
-  "keywords" : [ "SQLite", "extension", "file", "file format", "Database File Type", "Database File Format", "Database Files" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-12-12",
+  "keywords": [
+    "SQLite",
+    "extension",
+    "file",
+    "file format",
+    "Database File Type",
+    "Database File Format",
+    "Database Files"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about SQLITE file format and APIs that can create and open SQLITE files.",
-  "title" : "SQLite File Format",
-  "linktitle" : "SQLITE",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about SQLITE file format and APIs that can create and open SQLITE files.",
+  "title": "SQLite File Format",
+  "linktitle": "SQLITE",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-sqlite"
     }
   },
-  "lastmod" : "2020-11-09"
+  "lastmod": "2020-11-09"
 }
 
 ## What is a SQLite File?

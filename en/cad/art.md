@@ -1,20 +1,28 @@
 {
-  "date" : "2021-12-30",
-  "keywords" : [ ".art", "File Format", "extension", "Read", "Create", "CAD" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-12-30",
+  "keywords": [
+    ".art",
+    "File Format",
+    "extension",
+    "Read",
+    "Create",
+    "CAD"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about ART file format and APIs that can create and open ART files.",
-  "title" : "ART File Format - ArtCAM Model File",
-  "linktitle" : "ART",
-  "menu" : {
-    "docs" : {
-      "parent" : "cad"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about ART file format and APIs that can create and open ART files.",
+  "title": "ART File Format - ArtCAM Model File",
+  "linktitle": "ART",
+  "menu": {
+    "docs": {
+      "parent": "cad",
+      "identifier": "cad-art"
     }
   },
-  "lastmod" : "2021-12-30"
+  "lastmod": "2021-12-30"
 }
 
 ## What is an ART file?

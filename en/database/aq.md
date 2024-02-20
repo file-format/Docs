@@ -1,20 +1,29 @@
 {
-  "date" : "2021-09-06",
-  "keywords" : [ "aq", "extension", "file", "file format", "Database File Type", "Database File Format", "Ancestral Quest Database File" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-09-06",
+  "keywords": [
+    "aq",
+    "extension",
+    "file",
+    "file format",
+    "Database File Type",
+    "Database File Format",
+    "Ancestral Quest Database File"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about AQ file format and APIs that can create and open AQ files.",
-  "title" : "AQ - Ancestral Quest Database File",
-  "linktitle" : "AQ",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about AQ file format and APIs that can create and open AQ files.",
+  "title": "AQ - Ancestral Quest Database File",
+  "linktitle": "AQ",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-aq"
     }
   },
-  "lastmod" : "2021-09-06"
+  "lastmod": "2021-09-06"
 }
 
 ## What is an AQ file?

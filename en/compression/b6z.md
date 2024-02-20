@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "b6z file", "b6z file format", "what is a b6z file", "file", "b6z example", "b6z file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "b6z file",
+    "b6z file format",
+    "what is a b6z file",
+    "file",
+    "b6z example",
+    "b6z file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "B6Z - B6ZIP Archive File Format",
-  "description":"Learn about B6Z file format and APIs that can create and open B6Z files.",
-  "linktitle" : "B6Z",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
+  "draft": "false",
+  "toc": true,
+  "title": "B6Z - B6ZIP Archive File Format",
+  "description": "Learn about B6Z file format and APIs that can create and open B6Z files.",
+  "linktitle": "B6Z",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-b6z"
     }
   },
-  "lastmod" : "2021-04-05"
+  "lastmod": "2021-04-05"
 }
 
 ## What is a B6Z file?

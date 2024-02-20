@@ -1,19 +1,20 @@
 {
-  "date" : "2022-06-30",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-06-30",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ECS File Format - Sony Ericsson Phone Backup File",
-  "description":"Learn about ECS file format and APIs that can create and open ECS files.",
-  "linktitle" : "ECS",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
+  "draft": "false",
+  "toc": true,
+  "title": "ECS File Format - Sony Ericsson Phone Backup File",
+  "description": "Learn about ECS file format and APIs that can create and open ECS files.",
+  "linktitle": "ECS",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-ecs"
     }
   },
-  "lastmod" : "2022-06-30"
+  "lastmod": "2022-06-30"
 }
 
 ## What is an ECS file?

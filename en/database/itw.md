@@ -1,19 +1,20 @@
 {
-  "date" : "2022-05-11",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-05-11",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about ITW file format and APIs that can create and open ITW files.",
-  "title" : "ITW File Format- InTouch With Database File",
-  "linktitle" : "ITW",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about ITW file format and APIs that can create and open ITW files.",
+  "title": "ITW File Format- InTouch With Database File",
+  "linktitle": "ITW",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-itw"
     }
   },
-  "lastmod" : "2022-05-12"
+  "lastmod": "2022-05-12"
 }
 
 ## What is a ITW file?

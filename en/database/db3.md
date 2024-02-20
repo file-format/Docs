@@ -1,20 +1,32 @@
 {
-  "date" : "2019-12-12",
-  "keywords" : [ "DB3", "DB3 File Format", "DB3 File","SQLite", "extension", "file", "file format", "Database File Type", "Database File Format", "Database Files" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-12-12",
+  "keywords": [
+    "DB3",
+    "DB3 File Format",
+    "DB3 File",
+    "SQLite",
+    "extension",
+    "file",
+    "file format",
+    "Database File Type",
+    "Database File Format",
+    "Database Files"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about DB3 file format and APIs that can create and open DB3 files.",
-  "title" : "DB3 File Format",
-  "linktitle" : "DB3",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about DB3 file format and APIs that can create and open DB3 files.",
+  "title": "DB3 File Format",
+  "linktitle": "DB3",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-db3"
     }
   },
-  "lastmod" : "2020-11-09"
+  "lastmod": "2020-11-09"
 }
 
 ## What is a DB3 File?

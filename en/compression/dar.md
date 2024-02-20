@@ -1,20 +1,30 @@
 {
-  "date" : "2021-04-08",
-  "keywords" : [ "dar file", "dar file format", "what is a dar file", "file", "dar example", "dar file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-04-08",
+  "keywords": [
+    "dar file",
+    "dar file format",
+    "what is a dar file",
+    "file",
+    "dar example",
+    "dar file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "DAR - Disk Archiver File Format",
-  "description":"Learn about DAR file format and APIs that can create and open DAR files.",
-  "linktitle" : "DAR",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
+  "draft": "false",
+  "toc": true,
+  "title": "DAR - Disk Archiver File Format",
+  "description": "Learn about DAR file format and APIs that can create and open DAR files.",
+  "linktitle": "DAR",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-dar"
     }
   },
-  "lastmod" : "2021-04-09"
+  "lastmod": "2021-04-09"
 }
 
 ## What is a DAR file?

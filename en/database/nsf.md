@@ -1,20 +1,29 @@
 {
-  "date" : "2020-11-11",
-  "keywords" : [ "NSF", "extension", "file", "file format", "Database File Type", "Database File Format", "Database Files" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2020-11-11",
+  "keywords": [
+    "NSF",
+    "extension",
+    "file",
+    "file format",
+    "Database File Type",
+    "Database File Format",
+    "Database Files"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about NSF file format and APIs that can create and open NSF files.",
-  "title" : "NSF File Format - Lotus Notes Database Format",
-  "linktitle" : "NSF",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about NSF file format and APIs that can create and open NSF files.",
+  "title": "NSF File Format - Lotus Notes Database Format",
+  "linktitle": "NSF",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-nsf"
     }
   },
-  "lastmod" : "2020-08-12"
+  "lastmod": "2020-08-12"
 }
 
 ## What is an NSF file?

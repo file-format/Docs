@@ -1,20 +1,29 @@
 {
-  "date" : "2021-08-29",
-  "keywords" : [ "adb", "extension", "file", "file format", "Database File Type", "Database File Format", "Alpha Anywhere" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-08-29",
+  "keywords": [
+    "adb",
+    "extension",
+    "file",
+    "file format",
+    "Database File Type",
+    "Database File Format",
+    "Alpha Anywhere"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about ADB file format and APIs that can create and open ADB files.",
-  "title" : "ADB - Alpha Five Database File",
-  "linktitle" : "ADB",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about ADB file format and APIs that can create and open ADB files.",
+  "title": "ADB - Alpha Five Database File",
+  "linktitle": "ADB",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-adb"
     }
   },
-  "lastmod" : "2021-08-29"
+  "lastmod": "2021-08-29"
 }
 
 ## What is an ADB file?

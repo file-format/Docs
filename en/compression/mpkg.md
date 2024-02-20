@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "mpkg file", "mpkg file format", "what is a mpkg file", "file", "mpkg example", "mpkg file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "mpkg file",
+    "mpkg file format",
+    "what is a mpkg file",
+    "file",
+    "mpkg example",
+    "mpkg file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "MPKG File Format - Meta Package File",
-  "description":"Learn about MPKG file format and APIs that can create and open MPKG files.",
-  "linktitle" : "MPKG",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
+  "draft": "false",
+  "toc": true,
+  "title": "MPKG File Format - Meta Package File",
+  "description": "Learn about MPKG file format and APIs that can create and open MPKG files.",
+  "linktitle": "MPKG",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-mpkg"
     }
   },
-  "lastmod" : "2021-04-02"
+  "lastmod": "2021-04-02"
 }
 
 ## What is a MPKG file?

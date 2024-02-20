@@ -1,19 +1,20 @@
 {
-  "date" : "2022-06-20",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-06-20",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about FZP file format and APIs that can create and open FZP files.",
-  "title" : "FZP File Format - Fritzing XML Part Description File",
-  "linktitle" : "FZP",
-  "menu" : {
-    "docs" : {
-      "parent" : "cad"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about FZP file format and APIs that can create and open FZP files.",
+  "title": "FZP File Format - Fritzing XML Part Description File",
+  "linktitle": "FZP",
+  "menu": {
+    "docs": {
+      "parent": "cad",
+      "identifier": "cad-fzp"
     }
   },
-  "lastmod" : "2022-06-20"
+  "lastmod": "2022-06-20"
 }
 
 ## What is a FZP file?

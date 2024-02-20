@@ -1,20 +1,29 @@
 {
-  "date" : "2020-11-11",
-  "keywords" : [ "DDL", "extension", "file", "file format", "Database File Type", "Database File Format", "Database Files" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2020-11-11",
+  "keywords": [
+    "DDL",
+    "extension",
+    "file",
+    "file format",
+    "Database File Type",
+    "Database File Format",
+    "Database Files"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about DDL file format and APIs that can create and open DDL files.",
-  "title" : "DDL File Format - A Data Definition Language File",
-  "linktitle" : "DDL",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about DDL file format and APIs that can create and open DDL files.",
+  "title": "DDL File Format - A Data Definition Language File",
+  "linktitle": "DDL",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-ddl"
     }
   },
-  "lastmod" : "2020-11-11"
+  "lastmod": "2020-11-11"
 }
 
 ## What is an DDL file?

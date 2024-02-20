@@ -1,20 +1,29 @@
 {
-  "date" : "2020-11-11",
-  "keywords" : [ "ACCDE", "extension", "file", "file format", "Database File Type", "Database File Format", "Database Files" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2020-11-11",
+  "keywords": [
+    "ACCDE",
+    "extension",
+    "file",
+    "file format",
+    "Database File Type",
+    "Database File Format",
+    "Database Files"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about ACCDE file format and APIs that can create and open ACCDE files.",
-  "title" : "ACCDE File Format - Microsoft Access 2007 Database File",
-  "linktitle" : "ACCDE",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about ACCDE file format and APIs that can create and open ACCDE files.",
+  "title": "ACCDE File Format - Microsoft Access 2007 Database File",
+  "linktitle": "ACCDE",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-accde"
     }
   },
-  "lastmod" : "2020-11-12"
+  "lastmod": "2020-11-12"
 }
 
 ## What is an ACCDE file?

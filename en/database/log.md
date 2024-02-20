@@ -1,20 +1,29 @@
 {
-  "date" : "2021-06-14",
-  "keywords" : [ "LOG", "extension", "log file", "log file format", "Database File Type", "Database File Format", "what is a log file" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-06-14",
+  "keywords": [
+    "LOG",
+    "extension",
+    "log file",
+    "log file format",
+    "Database File Type",
+    "Database File Format",
+    "what is a log file"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about LOG file format and APIs that can create and open LOG files.",
-  "title" : "LOG - Log File Format",
-  "linktitle" : "LOG",
-  "menu" : {
-    "docs" : {
-      "parent" : "database"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about LOG file format and APIs that can create and open LOG files.",
+  "title": "LOG - Log File Format",
+  "linktitle": "LOG",
+  "menu": {
+    "docs": {
+      "parent": "database",
+      "identifier": "database-log"
     }
   },
-  "lastmod" : "2021-06-14"
+  "lastmod": "2021-06-14"
 }
 
 ## What is a LOG file?

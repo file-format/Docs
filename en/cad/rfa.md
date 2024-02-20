@@ -1,20 +1,30 @@
 {
-  "date" : "2021-09-10",
-  "keywords" : [ "rfa file", "rfa file format", "what is an rfa file", "file", "rfa example", "rfa file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-09-10",
+  "keywords": [
+    "rfa file",
+    "rfa file format",
+    "what is an rfa file",
+    "file",
+    "rfa example",
+    "rfa file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about RFA file format and APIs that can create and open RFA files.",
-  "title" : "RFA - Revit Family File",
-  "linktitle" : "RFA",
-  "menu" : {
-    "docs" : {
-      "parent" : "cad"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about RFA file format and APIs that can create and open RFA files.",
+  "title": "RFA - Revit Family File",
+  "linktitle": "RFA",
+  "menu": {
+    "docs": {
+      "parent": "cad",
+      "identifier": "cad-rfa"
     }
   },
-  "lastmod" : "2021-09-10"
+  "lastmod": "2021-09-10"
 }
 
 ## What is an RFA file?

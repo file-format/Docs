@@ -1,19 +1,20 @@
 {
-  "date" : "2019-10-11",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "APK - What is an APK file?",
-  "description":"Learn to know what is an APK file and APIs that can create and open APK files.",
-  "linktitle" : "APK",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
+  "draft": "false",
+  "toc": true,
+  "title": "APK - What is an APK file?",
+  "description": "Learn to know what is an APK file and APIs that can create and open APK files.",
+  "linktitle": "APK",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-apk"
     }
   },
-  "lastmod" : "2021-04-27"
+  "lastmod": "2021-04-27"
 }
 
 ## What is an APK file?

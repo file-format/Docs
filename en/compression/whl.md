@@ -1,19 +1,20 @@
 {
-  "date" : "2022-06-29",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-06-29",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "WHL File Format - Python Wheel Package File",
-  "description":"Learn about WHL file format and APIs that can create and open WHL files.",
-  "linktitle" : "WHL",
-  "menu" : {
-    "docs" : {
-      "parent" : "compression"
+  "draft": "false",
+  "toc": true,
+  "title": "WHL File Format - Python Wheel Package File",
+  "description": "Learn about WHL file format and APIs that can create and open WHL files.",
+  "linktitle": "WHL",
+  "menu": {
+    "docs": {
+      "parent": "compression",
+      "identifier": "compression-whl"
     }
   },
-  "lastmod" : "2022-06-29"
+  "lastmod": "2022-06-29"
 }
 
 ## What is a WHL file?
