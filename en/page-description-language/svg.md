@@ -1,20 +1,27 @@
 {
-  "date" : "2020-03-02",
-  "keywords" : [ "SVG", "file", "file format", "Page Description Language", "Scalar" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2020-03-02",
+  "keywords": [
+    "SVG",
+    "file",
+    "file format",
+    "Page Description Language",
+    "Scalar"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about SVG file format and APIs that can create and open SVG files.",
-  "title" : "What is an SVG file?",
-  "linktitle" : "SVG",
-  "menu" : {
-    "docs" : {
-      "parent" : "page-description-language"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about SVG file format and APIs that can create and open SVG files.",
+  "title": "What is an SVG file?",
+  "linktitle": "SVG",
+  "menu": {
+    "docs": {
+      "parent": "page-description-language",
+      "identifier": "page-description-language-svg"
     }
   },
-  "lastmod" : "2020-03-02"
+  "lastmod": "2020-03-02"
 }
 
 ## What is an SVG file? ##

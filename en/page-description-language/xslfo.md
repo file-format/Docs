@@ -1,20 +1,28 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "XSLFO", "XSL Formatting Objects", "File", "Extension", "File Format", "Extensible Stylesheet Language"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "XSLFO",
+    "XSL Formatting Objects",
+    "File",
+    "Extension",
+    "File Format",
+    "Extensible Stylesheet Language"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "XSLFO",
-  "description":"Learn about XSLFO file format and APIs that can create and open XSLFO files.",
-  "linktitle" : "XSLFO",
-  "menu" : {
-    "docs" : {
-      "parent" : "page-description-language"
+  "draft": "false",
+  "toc": true,
+  "title": "XSLFO",
+  "description": "Learn about XSLFO file format and APIs that can create and open XSLFO files.",
+  "linktitle": "XSLFO",
+  "menu": {
+    "docs": {
+      "parent": "page-description-language",
+      "identifier": "page-description-language-xslfo"
     }
   },
-  "lastmod" : "2021-04-23"
+  "lastmod": "2021-04-23"
 }
 
 ## What is an XSL-FO file? ##

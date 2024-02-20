@@ -1,20 +1,28 @@
 {
-  "date" : "2019-12-12",
-  "keywords" : [ "EPS", "file", "extension", "file format", "Page Layout", "Encapsulated PostScript" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-12-12",
+  "keywords": [
+    "EPS",
+    "file",
+    "extension",
+    "file format",
+    "Page Layout",
+    "Encapsulated PostScript"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about EPS file format and APIs that can create and open EPS files.",
-  "title" : "EPS File Format - Encapsulated PostScript File",
-  "linktitle" : "EPS",
-  "menu" : {
-    "docs" : {
-      "parent" : "page-description-language"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about EPS file format and APIs that can create and open EPS files.",
+  "title": "EPS File Format - Encapsulated PostScript File",
+  "linktitle": "EPS",
+  "menu": {
+    "docs": {
+      "parent": "page-description-language",
+      "identifier": "page-description-language-eps"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is an EPS file?

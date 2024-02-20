@@ -1,20 +1,31 @@
 {
-  "date" : "2019-10-11",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "keywords" : [ "SWF", "file", "extension", "format", "video format","What is an SWF file", "swf file format", "swf file player","how to open swf file"],
-  "title" : "SWF File - Shockwave Flash Movie File Format",
-  "description":"Learn about what is a SWF file and APIs that can create and show how to open the SWF file.",
-  "linktitle" : "SWF",
-  "menu" : {
-    "docs" : {
-      "parent" : "page-description-language"
+  "draft": "false",
+  "toc": true,
+  "keywords": [
+    "SWF",
+    "file",
+    "extension",
+    "format",
+    "video format",
+    "What is an SWF file",
+    "swf file format",
+    "swf file player",
+    "how to open swf file"
+  ],
+  "title": "SWF File - Shockwave Flash Movie File Format",
+  "description": "Learn about what is a SWF file and APIs that can create and show how to open the SWF file.",
+  "linktitle": "SWF",
+  "menu": {
+    "docs": {
+      "parent": "page-description-language",
+      "identifier": "page-description-language-swf"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is an SWF file?

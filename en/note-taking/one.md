@@ -1,19 +1,20 @@
 {
-  "date" : "2019-10-11",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ONE - Microsoft OneNote File Format",
-  "description":"Learn about ONE file format and APIs that can create and open ONE files.",
-  "linktitle" : "ONE",
-  "menu" : {
-    "docs" : {
-      "parent" : "note-taking"
+  "draft": "false",
+  "toc": true,
+  "title": "ONE - Microsoft OneNote File Format",
+  "description": "Learn about ONE file format and APIs that can create and open ONE files.",
+  "linktitle": "ONE",
+  "menu": {
+    "docs": {
+      "parent": "note-taking",
+      "identifier": "note-taking-one"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is a .ONE file? ##

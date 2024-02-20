@@ -1,19 +1,20 @@
 {
-  "date" : "2019-10-11",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "TEX File Format",
-  "description":"Learn about TEX file format and APIs that can create and open TEX files.",
-  "linktitle" : "TEX",
-  "menu" : {
-    "docs" : {
-      "parent" : "page-description-language"
+  "draft": "false",
+  "toc": true,
+  "title": "TEX File Format",
+  "description": "Learn about TEX file format and APIs that can create and open TEX files.",
+  "linktitle": "TEX",
+  "menu": {
+    "docs": {
+      "parent": "page-description-language",
+      "identifier": "page-description-language-tex"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is a TEX File? ##

@@ -1,20 +1,28 @@
 {
-  "date" : "2019-12-12",
-  "keywords" : [ "indd", "file", "extension", "file format", "Page Layout", "Adobe InDesign" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-12-12",
+  "keywords": [
+    "indd",
+    "file",
+    "extension",
+    "file format",
+    "Page Layout",
+    "Adobe InDesign"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about INDD file format and APIs that can create and open INDD files.",
-  "title" : "INDD - Adobe InDesign Page Layout File",
-  "linktitle" : "INDD",
-  "menu" : {
-    "docs" : {
-      "parent" : "page-description-language"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about INDD file format and APIs that can create and open INDD files.",
+  "title": "INDD - Adobe InDesign Page Layout File",
+  "linktitle": "INDD",
+  "menu": {
+    "docs": {
+      "parent": "page-description-language",
+      "identifier": "page-description-language-indd"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is an INDD file?

@@ -1,20 +1,29 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "CGM", "Computer Graphics Metafile", "File", "Extension", "File Format", "Vector Graphics", "Metafile Descriptor"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "CGM",
+    "Computer Graphics Metafile",
+    "File",
+    "Extension",
+    "File Format",
+    "Vector Graphics",
+    "Metafile Descriptor"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "CGM File Format",
-  "description":"Learn about CGM file format and APIs that can create and open CGM files.",
-  "linktitle" : "CGM",
-  "menu" : {
-    "docs" : {
-      "parent" : "page-description-language"
+  "draft": "false",
+  "toc": true,
+  "title": "CGM File Format",
+  "description": "Learn about CGM file format and APIs that can create and open CGM files.",
+  "linktitle": "CGM",
+  "menu": {
+    "docs": {
+      "parent": "page-description-language",
+      "identifier": "page-description-language-cgm"
     }
   },
-  "lastmod" : "2021-04-23"
+  "lastmod": "2021-04-23"
 }
 
 ## What is a CGM file? ##

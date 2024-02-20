@@ -1,20 +1,29 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "XPS", "XML Paper Specifications", "File", "Extension", "File Format", "EMF", "PDF"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "XPS",
+    "XML Paper Specifications",
+    "File",
+    "Extension",
+    "File Format",
+    "EMF",
+    "PDF"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "XPS - Page Layout File Format",
-  "description":"Learn about XPS file format and APIs that can create and open XPS files.",
-  "linktitle" : "XPS",
-  "menu" : {
-    "docs" : {
-      "parent" : "page-description-language"
+  "draft": "false",
+  "toc": true,
+  "title": "XPS - Page Layout File Format",
+  "description": "Learn about XPS file format and APIs that can create and open XPS files.",
+  "linktitle": "XPS",
+  "menu": {
+    "docs": {
+      "parent": "page-description-language",
+      "identifier": "page-description-language-xps"
     }
   },
-  "lastmod" : "2021-04-23"
+  "lastmod": "2021-04-23"
 }
 
 ## What is an XPS file?

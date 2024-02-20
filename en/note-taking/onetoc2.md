@@ -1,19 +1,20 @@
 {
-  "date" : "2019-10-11",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ONETOC2 - Microsoft OneNote File Format",
-  "description":"Learn about ONETOC2 file format and APIs that can create and open ONETOC2 files.",
-  "linktitle" : "ONETOC2",
-  "menu" : {
-    "docs" : {
-      "parent" : "note-taking"
+  "draft": "false",
+  "toc": true,
+  "title": "ONETOC2 - Microsoft OneNote File Format",
+  "description": "Learn about ONETOC2 file format and APIs that can create and open ONETOC2 files.",
+  "linktitle": "ONETOC2",
+  "menu": {
+    "docs": {
+      "parent": "note-taking",
+      "identifier": "note-taking-onetoc2"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is ONETOC2? ##

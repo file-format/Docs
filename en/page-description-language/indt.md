@@ -1,20 +1,28 @@
 {
-  "date" : "2019-12-12",
-  "keywords" : [ "indt", "file", "extension", "file format", "Page Layout", "Adobe InDesign Template" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-12-12",
+  "keywords": [
+    "indt",
+    "file",
+    "extension",
+    "file format",
+    "Page Layout",
+    "Adobe InDesign Template"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about INDT file format and APIs that can create and open INDT files.",
-  "title" : "INDT - Adobe InDesign Page Layout Template File",
-  "linktitle" : "INDT",
-  "menu" : {
-    "docs" : {
-      "parent" : "page-description-language"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about INDT file format and APIs that can create and open INDT files.",
+  "title": "INDT - Adobe InDesign Page Layout Template File",
+  "linktitle": "INDT",
+  "menu": {
+    "docs": {
+      "parent": "page-description-language",
+      "identifier": "page-description-language-indt"
     }
   },
-  "lastmod" : "2021-12-24"
+  "lastmod": "2021-12-24"
 }
 
 ## What is an INDT file?

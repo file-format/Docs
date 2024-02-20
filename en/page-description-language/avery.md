@@ -1,19 +1,20 @@
 {
-  "date" : "2022-10-12",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-10-12",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "AVERY File - Avery Design & Print Label File Format",
-  "description":"What is an AVERY file?",
-  "linktitle" : "AVERY",
-  "menu" : {
-    "docs" : {
-      "parent" : "page-description-language"
+  "draft": "false",
+  "toc": true,
+  "title": "AVERY File - Avery Design & Print Label File Format",
+  "description": "What is an AVERY file?",
+  "linktitle": "AVERY",
+  "menu": {
+    "docs": {
+      "parent": "page-description-language",
+      "identifier": "page-description-language-avery"
     }
   },
-  "lastmod" : "2022-10-12"
+  "lastmod": "2022-10-12"
 }
 
 ## What is a AVERY file?
