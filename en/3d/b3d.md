@@ -1,20 +1,28 @@
 {
-  "date" : "2021-04-19",
-  "keywords": [ "Blitz3D", "b3d", "file", "extension", "format", "blitz3d games" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-04-19",
+  "keywords": [
+    "Blitz3D",
+    "b3d",
+    "file",
+    "extension",
+    "format",
+    "blitz3d games"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about B3D file format; used in blitz3d games and APIs that can open and create B3D files.",
-  "title" : "B3D - Blitz3D Entity Model File",
-  "linktitle" : "B3D",
-  "menu" : {
-    "docs" : {
-      "parent" : "3d"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about B3D file format; used in blitz3d games and APIs that can open and create B3D files.",
+  "title": "B3D - Blitz3D Entity Model File",
+  "linktitle": "B3D",
+  "menu": {
+    "docs": {
+      "parent": "3d",
+      "identifier": "3d-b3d"
     }
   },
-  "lastmod" : "2021-04-19"
+  "lastmod": "2021-04-19"
 }
 
 ## What is a B3D file?

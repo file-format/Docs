@@ -1,20 +1,28 @@
 {
-  "date" : "2019-12-12",
-  "keywords" : [ "GLTF", "file", "extension", "format", "3D", "Khronos Group 3D" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-12-12",
+  "keywords": [
+    "GLTF",
+    "file",
+    "extension",
+    "format",
+    "3D",
+    "Khronos Group 3D"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about GLTF files and APIs that can create and open GLTF files.",
-  "title" : "GLTF - GL Transmission File Format",
-  "linktitle" : "GLTF",
-  "menu" : {
-    "docs" : {
-      "parent" : "3d"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about GLTF files and APIs that can create and open GLTF files.",
+  "title": "GLTF - GL Transmission File Format",
+  "linktitle": "GLTF",
+  "menu": {
+    "docs": {
+      "parent": "3d",
+      "identifier": "3d-gltf"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is a GLTF file?

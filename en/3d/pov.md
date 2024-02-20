@@ -1,21 +1,31 @@
 
 {
-  "date" : "2023-01-05",
-  "keywords" : [ "pov file", "pov file format", "what is a pov file", "file", "pov example", "pov file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Shakeel Faiz"
+  "date": "2023-01-05",
+  "keywords": [
+    "pov file",
+    "pov file format",
+    "what is a pov file",
+    "file",
+    "pov example",
+    "pov file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Shakeel Faiz"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about POV file format and APIs that can open and create POV files.",
-  "title" : "POV - Persistence of Vision File",
-  "linktitle" : "POV",
-  "menu" : {
-    "docs" : {
-      "parent" : "3d"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about POV file format and APIs that can open and create POV files.",
+  "title": "POV - Persistence of Vision File",
+  "linktitle": "POV",
+  "menu": {
+    "docs": {
+      "parent": "3d",
+      "identifier": "3d-pov"
     }
   },
-  "lastmod" : "2023-01-05"
+  "lastmod": "2023-01-05"
 }
 
 ## What is a POV file?

@@ -1,19 +1,20 @@
 {
-  "date" : "2023-08-30",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2023-08-30",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "Convert GLB to GLTF online for FREE",
-  "description":"Learn about GLB to GLTF conversion and convert GLB to GLTF for FREE online.",
-  "linktitle" : "GLB to GLTF",
-  "menu" : {
-    "docs" : {
-      "parent" : "3d"
+  "draft": "false",
+  "toc": true,
+  "title": "Convert GLB to GLTF online for FREE",
+  "description": "Learn about GLB to GLTF conversion and convert GLB to GLTF for FREE online.",
+  "linktitle": "GLB to GLTF",
+  "menu": {
+    "docs": {
+      "parent": "3d",
+      "identifier": "3d-glb-to-gltf"
     }
   },
-  "lastmod" : "2023-08-30"
+  "lastmod": "2023-08-30"
 }
 
 ## About GLB to GLTF

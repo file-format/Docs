@@ -1,19 +1,20 @@
 {
-  "date" : "2023-08-31",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2023-08-31",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "Convert GLB to DAE online for FREE",
-  "description":"Learn about GLB to DAE conversion and convert GLB to DAE for FREE online.",
-  "linktitle" : "GLB to DAE",
-  "menu" : {
-    "docs" : {
-      "parent" : "3d"
+  "draft": "false",
+  "toc": true,
+  "title": "Convert GLB to DAE online for FREE",
+  "description": "Learn about GLB to DAE conversion and convert GLB to DAE for FREE online.",
+  "linktitle": "GLB to DAE",
+  "menu": {
+    "docs": {
+      "parent": "3d",
+      "identifier": "3d-glb-to-dae"
     }
   },
-  "lastmod" : "2023-08-31"
+  "lastmod": "2023-08-31"
 }
 
 ## About GLB to DAE

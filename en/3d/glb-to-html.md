@@ -1,19 +1,20 @@
 {
-  "date" : "2023-09-04",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2023-09-04",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "Convert GLB to HTML online for FREE",
-  "description":"Learn about GLB to HTML conversion and convert GLB to HTML for FREE online.",
-  "linktitle" : "GLB to HTML",
-  "menu" : {
-    "docs" : {
-      "parent" : "3d"
+  "draft": "false",
+  "toc": true,
+  "title": "Convert GLB to HTML online for FREE",
+  "description": "Learn about GLB to HTML conversion and convert GLB to HTML for FREE online.",
+  "linktitle": "GLB to HTML",
+  "menu": {
+    "docs": {
+      "parent": "3d",
+      "identifier": "3d-glb-to-html"
     }
   },
-  "lastmod" : "2023-09-04"
+  "lastmod": "2023-09-04"
 }
 
 ## About GLB to HTML

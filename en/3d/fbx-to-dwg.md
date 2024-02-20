@@ -1,19 +1,20 @@
 {
-  "date" : "2023-09-11",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2023-09-11",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "Convert FBX to DWG online for FREE",
-  "description":"Learn about FBX to DWG file format and convert FBX to DWG for FREE online.",
-  "linktitle" : "FBX to DWG",
-  "menu" : {
-    "docs" : {
-      "parent" : "3d"
+  "draft": "false",
+  "toc": true,
+  "title": "Convert FBX to DWG online for FREE",
+  "description": "Learn about FBX to DWG file format and convert FBX to DWG for FREE online.",
+  "linktitle": "FBX to DWG",
+  "menu": {
+    "docs": {
+      "parent": "3d",
+      "identifier": "3d-fbx-to-dwg"
     }
   },
-  "lastmod" : "2023-09-11"
+  "lastmod": "2023-09-11"
 }
 
 ## About FBX to DWG

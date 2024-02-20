@@ -1,19 +1,20 @@
 {
-  "date" : "2023-08-27",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2023-08-27",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "Convert GLB to OBJ online for FREE",
-  "description":"Learn about GLB to OBJ file format and convert GLB to OBJ for FREE online.",
-  "linktitle" : "GLB to OBJ",
-  "menu" : {
-    "docs" : {
-      "parent" : "3d"
+  "draft": "false",
+  "toc": true,
+  "title": "Convert GLB to OBJ online for FREE",
+  "description": "Learn about GLB to OBJ file format and convert GLB to OBJ for FREE online.",
+  "linktitle": "GLB to OBJ",
+  "menu": {
+    "docs": {
+      "parent": "3d",
+      "identifier": "3d-glb-to-obj"
     }
   },
-  "lastmod" : "2023-08-27"
+  "lastmod": "2023-08-27"
 }
 
 ## About GLB to OBJ

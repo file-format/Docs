@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "obj file", "obj file format", "what is an obj file", "file", "obj example", "obj file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "obj file",
+    "obj file format",
+    "what is an obj file",
+    "file",
+    "obj example",
+    "obj file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "OBJ File Format",
-  "description":"Learn about OBJ file format and APIs that can open and create OBJ files.",
-  "linktitle" : "OBJ",
-  "menu" : {
-    "docs" : {
-      "parent" : "3d"
+  "draft": "false",
+  "toc": true,
+  "title": "OBJ File Format",
+  "description": "Learn about OBJ file format and APIs that can open and create OBJ files.",
+  "linktitle": "OBJ",
+  "menu": {
+    "docs": {
+      "parent": "3d",
+      "identifier": "3d-obj"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is an OBJ File?

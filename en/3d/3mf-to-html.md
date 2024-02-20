@@ -1,19 +1,20 @@
 {
-  "date" : "2023-10-15",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2023-10-15",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "Convert 3MF to HTML online for FREE",
-  "description":"Learn about 3MF to HTML file format and convert 3MF to HTML for FREE online.",
-  "linktitle" : "3MF to HTML",
-  "menu" : {
-    "docs" : {
-      "parent" : "3d"
+  "draft": "false",
+  "toc": true,
+  "title": "Convert 3MF to HTML online for FREE",
+  "description": "Learn about 3MF to HTML file format and convert 3MF to HTML for FREE online.",
+  "linktitle": "3MF to HTML",
+  "menu": {
+    "docs": {
+      "parent": "3d",
+      "identifier": "3d-3mf-to-html"
     }
   },
-  "lastmod" : "2023-10-15"
+  "lastmod": "2023-10-15"
 }
 
 ## About 3MF to HTML

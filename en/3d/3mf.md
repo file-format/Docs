@@ -1,20 +1,30 @@
 {
-  "date" : "2019-12-09",
-  "keywords" : [ "3mf file", "3mf file format", "what is an 3mf file", "file", "3mf example", "3mf file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-12-09",
+  "keywords": [
+    "3mf file",
+    "3mf file format",
+    "what is an 3mf file",
+    "file",
+    "3mf example",
+    "3mf file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "3MF",
-  "description":"Learn about 3MF file format and APIs that can open and create 3MF files.",
-  "linktitle" : "3MF",
-  "menu" : {
-    "docs" : {
-      "parent" : "3d"
+  "draft": "false",
+  "toc": true,
+  "title": "3MF",
+  "description": "Learn about 3MF file format and APIs that can open and create 3MF files.",
+  "linktitle": "3MF",
+  "menu": {
+    "docs": {
+      "parent": "3d",
+      "identifier": "3d-3mf"
     }
   },
-  "lastmod" : "2019-12-09"
+  "lastmod": "2019-12-09"
 }
 
 ## What is a 3MF file?

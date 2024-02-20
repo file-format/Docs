@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "vrml file", "vrml file format", "what is an vrml file", "file", "vrml example", "vrml file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "vrml file",
+    "vrml file format",
+    "what is an vrml file",
+    "file",
+    "vrml example",
+    "vrml file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "VRML File Format",
-  "description":"Learn about VRML file format and APIs that can open and create VRML files.",
-  "linktitle" : "VRML",
-  "menu" : {
-    "docs" : {
-      "parent" : "3d"
+  "draft": "false",
+  "toc": true,
+  "title": "VRML File Format",
+  "description": "Learn about VRML file format and APIs that can open and create VRML files.",
+  "linktitle": "VRML",
+  "menu": {
+    "docs": {
+      "parent": "3d",
+      "identifier": "3d-vrml"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is a VRML file?

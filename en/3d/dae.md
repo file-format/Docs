@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "dae file", "dae file format", "what is an dae file", "file", "dae example", "dae file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "dae file",
+    "dae file format",
+    "what is an dae file",
+    "file",
+    "dae example",
+    "dae file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about DAE file format and APIs that can open and create DAE files.",
-  "title" : "DAE - Digital Asset Exchange File Format",
-  "linktitle" : "DAE",
-  "menu" : {
-    "docs" : {
-      "parent" : "3d"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about DAE file format and APIs that can open and create DAE files.",
+  "title": "DAE - Digital Asset Exchange File Format",
+  "linktitle": "DAE",
+  "menu": {
+    "docs": {
+      "parent": "3d",
+      "identifier": "3d-dae"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is a DAE file?

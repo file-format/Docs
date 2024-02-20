@@ -1,20 +1,30 @@
 {
-  "date" : "2020-01-11",
-  "keywords" : [ "x file", "x file format", "what is an x file", "file", "x example", "x file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2020-01-11",
+  "keywords": [
+    "x file",
+    "x file format",
+    "what is an x file",
+    "file",
+    "x example",
+    "x file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "X - DirectX 2.0 File Format",
-  "description":"Learn about DirectX X file format and APIs that can open and create DirectX X files.",
-  "linktitle" : "X",
-  "menu" : {
-    "docs" : {
-      "parent" : "3d"
+  "draft": "false",
+  "toc": true,
+  "title": "X - DirectX 2.0 File Format",
+  "description": "Learn about DirectX X file format and APIs that can open and create DirectX X files.",
+  "linktitle": "X",
+  "menu": {
+    "docs": {
+      "parent": "3d",
+      "identifier": "3d-x"
     }
   },
-  "lastmod" : "2020-01-11"
+  "lastmod": "2020-01-11"
 }
 
 ## What is a X file?

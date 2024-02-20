@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "ma", "ma file", "ma file format", "file format", "3d","ma file download", ".ma file", ".ma"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "ma",
+    "ma file",
+    "ma file format",
+    "file format",
+    "3d",
+    "ma file download",
+    ".ma file",
+    ".ma"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about MA file format and APIs that can open and create MA files.",
-  "title" : "MA File Format",
-  "linktitle" : "MA",
-  "menu" : {
-    "docs" : {
-      "parent" : "3d"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about MA file format and APIs that can open and create MA files.",
+  "title": "MA File Format",
+  "linktitle": "MA",
+  "menu": {
+    "docs": {
+      "parent": "3d",
+      "identifier": "3d-ma"
     }
   },
-  "lastmod" : "2021-06-04"
+  "lastmod": "2021-06-04"
 }
 
 ## What is an MA file?

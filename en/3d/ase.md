@@ -1,20 +1,28 @@
 {
-  "date" : "2021-01-22",
-  "keywords" : [ "ASE","file", "format", "file type", "extension","what is an ASE file?" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-01-22",
+  "keywords": [
+    "ASE",
+    "file",
+    "format",
+    "file type",
+    "extension",
+    "what is an ASE file?"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about ASE file format and APIs that can open and create ASE files.",
-  "title" : "ASE - Autodesk ASCII Scene Export File",
-  "linktitle" : "ASE",
-  "menu" : {
-    "docs" : {
-      "parent" : "3d"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about ASE file format and APIs that can open and create ASE files.",
+  "title": "ASE - Autodesk ASCII Scene Export File",
+  "linktitle": "ASE",
+  "menu": {
+    "docs": {
+      "parent": "3d",
+      "identifier": "3d-ase"
     }
   },
-  "lastmod" : "2021-01-22"
+  "lastmod": "2021-01-22"
 }
 
 ## What is an ASE file?

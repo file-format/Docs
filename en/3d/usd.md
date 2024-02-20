@@ -1,20 +1,29 @@
 {
-  "date" : "2021-02-01",
-  "keywords" : [ "usd", "usd file", "usd file format", "file format", "file","extension", "3d"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-02-01",
+  "keywords": [
+    "usd",
+    "usd file",
+    "usd file format",
+    "file format",
+    "file",
+    "extension",
+    "3d"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "USD - Universal Scene Description Format",
-  "description":"Learn about USD file format and APIs that can open and create USD files.",
-  "linktitle" : "USD",
-  "menu" : {
-    "docs" : {
-      "parent" : "3d"
+  "draft": "false",
+  "toc": true,
+  "title": "USD - Universal Scene Description Format",
+  "description": "Learn about USD file format and APIs that can open and create USD files.",
+  "linktitle": "USD",
+  "menu": {
+    "docs": {
+      "parent": "3d",
+      "identifier": "3d-usd"
     }
   },
-  "lastmod" : "2021-02-01"
+  "lastmod": "2021-02-01"
 }
 
 ## What is a USD file?

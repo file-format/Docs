@@ -1,19 +1,20 @@
 {
-  "date" : "2023-09-13",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2023-09-13",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "Convert FBX to 3DS online for FREE",
-  "description":"Learn about FBX to 3DS file format and convert FBX to 3DS for FREE online.",
-  "linktitle" : "FBX to 3DS",
-  "menu" : {
-    "docs" : {
-      "parent" : "3d"
+  "draft": "false",
+  "toc": true,
+  "title": "Convert FBX to 3DS online for FREE",
+  "description": "Learn about FBX to 3DS file format and convert FBX to 3DS for FREE online.",
+  "linktitle": "FBX to 3DS",
+  "menu": {
+    "docs": {
+      "parent": "3d",
+      "identifier": "3d-fbx-to-3ds"
     }
   },
-  "lastmod" : "2023-09-13"
+  "lastmod": "2023-09-13"
 }
 
 ## About FBX to 3DS

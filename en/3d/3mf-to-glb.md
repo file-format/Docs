@@ -1,19 +1,20 @@
 {
-  "date" : "2023-09-29",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2023-09-29",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "Convert 3MF to GLB online for FREE",
-  "description":"Learn about 3MF to GLB file format and convert 3MF to GLB for FREE online.",
-  "linktitle" : "3MF to GLB",
-  "menu" : {
-    "docs" : {
-      "parent" : "3d"
+  "draft": "false",
+  "toc": true,
+  "title": "Convert 3MF to GLB online for FREE",
+  "description": "Learn about 3MF to GLB file format and convert 3MF to GLB for FREE online.",
+  "linktitle": "3MF to GLB",
+  "menu": {
+    "docs": {
+      "parent": "3d",
+      "identifier": "3d-3mf-to-glb"
     }
   },
-  "lastmod" : "2023-09-29"
+  "lastmod": "2023-09-29"
 }
 
 ## About 3MF to GLB

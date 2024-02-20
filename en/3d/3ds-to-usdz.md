@@ -1,19 +1,20 @@
 {
-  "date" : "2023-09-27",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2023-09-27",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "Convert 3DS to USDZ online for FREE",
-  "description":"Learn about 3DS to USDZ file format and convert 3DS to USDZ for FREE online.",
-  "linktitle" : "3DS to USDZ",
-  "menu" : {
-    "docs" : {
-      "parent" : "3d"
+  "draft": "false",
+  "toc": true,
+  "title": "Convert 3DS to USDZ online for FREE",
+  "description": "Learn about 3DS to USDZ file format and convert 3DS to USDZ for FREE online.",
+  "linktitle": "3DS to USDZ",
+  "menu": {
+    "docs": {
+      "parent": "3d",
+      "identifier": "3d-3ds-to-usdz"
     }
   },
-  "lastmod" : "2023-09-27"
+  "lastmod": "2023-09-27"
 }
 
 ## About 3DS to USDZ

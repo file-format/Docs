@@ -1,20 +1,30 @@
 {
-  "date" : "2021-02-01",
-  "keywords" : [ "drc file", "drc file format", "what is an drc file", "file", "drc example", "drc file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-02-01",
+  "keywords": [
+    "drc file",
+    "drc file format",
+    "what is an drc file",
+    "file",
+    "drc example",
+    "drc file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about DRC file format and APIs that can open and create DRC files.",
-  "title" : "DRC - Google Draco File Format",
-  "linktitle" : "DRC",
-  "menu" : {
-    "docs" : {
-      "parent" : "3d"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about DRC file format and APIs that can open and create DRC files.",
+  "title": "DRC - Google Draco File Format",
+  "linktitle": "DRC",
+  "menu": {
+    "docs": {
+      "parent": "3d",
+      "identifier": "3d-drc"
     }
   },
-  "lastmod" : "2021-02-01"
+  "lastmod": "2021-02-01"
 }
 
 ## What is a DRC file?

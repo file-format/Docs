@@ -1,19 +1,20 @@
 {
-  "date" : "2023-09-11",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2023-09-11",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "Convert FBX to STL online for FREE",
-  "description":"Learn about FBX to STL file format and convert FBX to STL for FREE online.",
-  "linktitle" : "FBX to STL",
-  "menu" : {
-    "docs" : {
-      "parent" : "3d"
+  "draft": "false",
+  "toc": true,
+  "title": "Convert FBX to STL online for FREE",
+  "description": "Learn about FBX to STL file format and convert FBX to STL for FREE online.",
+  "linktitle": "FBX to STL",
+  "menu": {
+    "docs": {
+      "parent": "3d",
+      "identifier": "3d-fbx-to-stl"
     }
   },
-  "lastmod" : "2023-09-11"
+  "lastmod": "2023-09-11"
 }
 
 ## About FBX to STL

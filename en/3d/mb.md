@@ -1,20 +1,28 @@
 {
-  "date" : "2021-03-07",
-  "keywords" : [ "MB", "mb file", "mb file format", "file format", "3d","maya binary files free download"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-03-07",
+  "keywords": [
+    "MB",
+    "mb file",
+    "mb file format",
+    "file format",
+    "3d",
+    "maya binary files free download"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about MB file format and APIs that can open and create MB files.",
-  "title" : "MB - Maya Binary File Format",
-  "linktitle" : "MB",
-  "menu" : {
-    "docs" : {
-      "parent" : "3d"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about MB file format and APIs that can open and create MB files.",
+  "title": "MB - Maya Binary File Format",
+  "linktitle": "MB",
+  "menu": {
+    "docs": {
+      "parent": "3d",
+      "identifier": "3d-mb"
     }
   },
-  "lastmod" : "2021-03-07"
+  "lastmod": "2021-03-07"
 }
 
 ## What is an MB file?

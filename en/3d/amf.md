@@ -1,20 +1,27 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "amf", "amf file", "amf file format", "file format", "3d"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "amf",
+    "amf file",
+    "amf file format",
+    "file format",
+    "3d"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about AMF file format and APIs that can open and create AMF files.",
-  "title" : "AMF - Additive Manufacturing File",
-  "linktitle" : "AMF",
-  "menu" : {
-    "docs" : {
-      "parent" : "3d"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about AMF file format and APIs that can open and create AMF files.",
+  "title": "AMF - Additive Manufacturing File",
+  "linktitle": "AMF",
+  "menu": {
+    "docs": {
+      "parent": "3d",
+      "identifier": "3d-amf"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is an AMF file?

@@ -1,19 +1,20 @@
 {
-  "date" : "2023-09-08",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2023-09-08",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "Convert GLB to USDZ online for FREE",
-  "description":"Learn about GLB to USDZ file format and convert GLB to USDZ for FREE online.",
-  "linktitle" : "GLB to USDZ",
-  "menu" : {
-    "docs" : {
-      "parent" : "3d"
+  "draft": "false",
+  "toc": true,
+  "title": "Convert GLB to USDZ online for FREE",
+  "description": "Learn about GLB to USDZ file format and convert GLB to USDZ for FREE online.",
+  "linktitle": "GLB to USDZ",
+  "menu": {
+    "docs": {
+      "parent": "3d",
+      "identifier": "3d-glb-to-usdz"
     }
   },
-  "lastmod" : "2023-09-08"
+  "lastmod": "2023-09-08"
 }
 
 ## About GLB to USDZ

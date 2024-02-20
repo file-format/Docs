@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "rvm file", "rvm file format", "what is an rvm file", "file", "rvm example", "rvm file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "rvm file",
+    "rvm file format",
+    "what is an rvm file",
+    "file",
+    "rvm example",
+    "rvm file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "RVM - AVEVA PDMS Project File",
-  "description":"Learn about RVM file format and APIs that can open and create RVM files.",
-  "linktitle" : "RVM",
-  "menu" : {
-    "docs" : {
-      "parent" : "3d"
+  "draft": "false",
+  "toc": true,
+  "title": "RVM - AVEVA PDMS Project File",
+  "description": "Learn about RVM file format and APIs that can open and create RVM files.",
+  "linktitle": "RVM",
+  "menu": {
+    "docs": {
+      "parent": "3d",
+      "identifier": "3d-rvm"
     }
   },
-  "lastmod" : "2021-01-22"
+  "lastmod": "2021-01-22"
 }
 
 ## What is RVM file?

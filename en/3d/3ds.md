@@ -1,20 +1,28 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "3DS","file", "format", "file type", "extension","what is an 3DS file?" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "3DS",
+    "file",
+    "format",
+    "file type",
+    "extension",
+    "what is an 3DS file?"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about 3DS file format and APIs that can open and create 3DS files.",
-  "title" : "3DS File Format",
-  "linktitle" : "3DS",
-  "menu" : {
-    "docs" : {
-      "parent" : "3d"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about 3DS file format and APIs that can open and create 3DS files.",
+  "title": "3DS File Format",
+  "linktitle": "3DS",
+  "menu": {
+    "docs": {
+      "parent": "3d",
+      "identifier": "3d-3ds"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is 3DS file?

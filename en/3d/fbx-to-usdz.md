@@ -1,19 +1,20 @@
 {
-  "date" : "2023-09-19",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2023-09-19",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "Convert FBX to USDZ online for FREE",
-  "description":"Learn about FBX to USDZ file format and convert FBX to USDZ for FREE online.",
-  "linktitle" : "FBX to USDZ",
-  "menu" : {
-    "docs" : {
-      "parent" : "3d"
+  "draft": "false",
+  "toc": true,
+  "title": "Convert FBX to USDZ online for FREE",
+  "description": "Learn about FBX to USDZ file format and convert FBX to USDZ for FREE online.",
+  "linktitle": "FBX to USDZ",
+  "menu": {
+    "docs": {
+      "parent": "3d",
+      "identifier": "3d-fbx-to-usdz"
     }
   },
-  "lastmod" : "2023-09-19"
+  "lastmod": "2023-09-19"
 }
 
 ## About FBX to USDZ

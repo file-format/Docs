@@ -1,20 +1,28 @@
 {
-  "date" : "2021-02-01",
-  "keywords" : [ "usdz", "usdz file", "usdz file format", "file format", "3d","usdz file download"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-02-01",
+  "keywords": [
+    "usdz",
+    "usdz file",
+    "usdz file format",
+    "file format",
+    "3d",
+    "usdz file download"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "USDZ - Universal Scene Description ZIP Format",
-  "description":"Learn about USDZ file format and APIs that can open and create USDZ files.",
-  "linktitle" : "USDZ",
-  "menu" : {
-    "docs" : {
-      "parent" : "3d"
+  "draft": "false",
+  "toc": true,
+  "title": "USDZ - Universal Scene Description ZIP Format",
+  "description": "Learn about USDZ file format and APIs that can open and create USDZ files.",
+  "linktitle": "USDZ",
+  "menu": {
+    "docs": {
+      "parent": "3d",
+      "identifier": "3d-usdz"
     }
   },
-  "lastmod" : "2021-02-01"
+  "lastmod": "2021-02-01"
 }
 
 ## What is a USDZ file?

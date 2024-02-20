@@ -1,19 +1,20 @@
 {
-  "date" : "2023-08-31",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2023-08-31",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "Convert GLB to 3DS online for FREE",
-  "description":"Learn about GLB to 3DS conversion and convert GLB to 3DS for FREE online.",
-  "linktitle" : "GLB to 3DS",
-  "menu" : {
-    "docs" : {
-      "parent" : "3d"
+  "draft": "false",
+  "toc": true,
+  "title": "Convert GLB to 3DS online for FREE",
+  "description": "Learn about GLB to 3DS conversion and convert GLB to 3DS for FREE online.",
+  "linktitle": "GLB to 3DS",
+  "menu": {
+    "docs": {
+      "parent": "3d",
+      "identifier": "3d-glb-to-3ds"
     }
   },
-  "lastmod" : "2023-08-31"
+  "lastmod": "2023-08-31"
 }
 
 ## About GLB to 3DS

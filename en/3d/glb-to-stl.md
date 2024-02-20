@@ -1,20 +1,28 @@
 {
-  "date" : "2023-08-23",
-  "keywords" : [ "GLB","file", "format", "file type", "extension","what is a GLB file?" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2023-08-23",
+  "keywords": [
+    "GLB",
+    "file",
+    "format",
+    "file type",
+    "extension",
+    "what is a GLB file?"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "Convert GLB to STL online for FREE",
-  "description":"Learn about GLB to STL file format and convert GLB to STL for FREE online.",
-  "linktitle" : "GLB to STL",
-  "menu" : {
-    "docs" : {
-      "parent" : "3d"
+  "draft": "false",
+  "toc": true,
+  "title": "Convert GLB to STL online for FREE",
+  "description": "Learn about GLB to STL file format and convert GLB to STL for FREE online.",
+  "linktitle": "GLB to STL",
+  "menu": {
+    "docs": {
+      "parent": "3d",
+      "identifier": "3d-glb-to-stl"
     }
   },
-  "lastmod" : "2023-08-23"
+  "lastmod": "2023-08-23"
 }
 
 ## About GLB to STL

@@ -1,20 +1,27 @@
 {
-  "date" : "2019-12-12",
-  "keywords" : [ "PLY", "file", "extension", "format", "3D file format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-12-12",
+  "keywords": [
+    "PLY",
+    "file",
+    "extension",
+    "format",
+    "3D file format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about PLY file format and APIs that can create and open PLY files.",
-  "title" : "PLY - Polygon 3D File Format",
-  "linktitle" : "PLY",
-  "menu" : {
-    "docs" : {
-      "parent" : "3d"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about PLY file format and APIs that can create and open PLY files.",
+  "title": "PLY - Polygon 3D File Format",
+  "linktitle": "PLY",
+  "menu": {
+    "docs": {
+      "parent": "3d",
+      "identifier": "3d-ply"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is a PLY file?

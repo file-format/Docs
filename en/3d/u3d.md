@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "u3d file", "u3d file format", "what is an u3d file", "file", "u3d example", "u3d file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "u3d file",
+    "u3d file format",
+    "what is an u3d file",
+    "file",
+    "u3d example",
+    "u3d file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "U3D - Universal 3D File Format",
-  "description":"Learn about U3D file format and APIs that can open and create U3D files.",
-  "linktitle" : "U3D",
-  "menu" : {
-    "docs" : {
-      "parent" : "3d"
+  "draft": "false",
+  "toc": true,
+  "title": "U3D - Universal 3D File Format",
+  "description": "Learn about U3D file format and APIs that can open and create U3D files.",
+  "linktitle": "U3D",
+  "menu": {
+    "docs": {
+      "parent": "3d",
+      "identifier": "3d-u3d"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is a U3D file?

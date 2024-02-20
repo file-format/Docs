@@ -1,19 +1,20 @@
 {
-  "date" : "2023-09-13",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2023-09-13",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "Convert 3DS to PLY online for FREE",
-  "description":"Learn about 3DS to PLY file format and convert 3DS to PLY for FREE online.",
-  "linktitle" : "3DS to PLY",
-  "menu" : {
-    "docs" : {
-      "parent" : "3d"
+  "draft": "false",
+  "toc": true,
+  "title": "Convert 3DS to PLY online for FREE",
+  "description": "Learn about 3DS to PLY file format and convert 3DS to PLY for FREE online.",
+  "linktitle": "3DS to PLY",
+  "menu": {
+    "docs": {
+      "parent": "3d",
+      "identifier": "3d-3ds-to-ply"
     }
   },
-  "lastmod" : "2023-09-13"
+  "lastmod": "2023-09-13"
 }
 
 ## About 3DS to PLY

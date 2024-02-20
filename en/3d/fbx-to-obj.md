@@ -1,19 +1,20 @@
 {
-  "date" : "2023-09-11",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2023-09-11",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "Convert FBX to OBJ online for FREE",
-  "description":"Learn about FBX to OBJ file format and convert FBX to OBJ for FREE online.",
-  "linktitle" : "FBX to OBJ",
-  "menu" : {
-    "docs" : {
-      "parent" : "3d"
+  "draft": "false",
+  "toc": true,
+  "title": "Convert FBX to OBJ online for FREE",
+  "description": "Learn about FBX to OBJ file format and convert FBX to OBJ for FREE online.",
+  "linktitle": "FBX to OBJ",
+  "menu": {
+    "docs": {
+      "parent": "3d",
+      "identifier": "3d-fbx-to-obj"
     }
   },
-  "lastmod" : "2023-09-11"
+  "lastmod": "2023-09-11"
 }
 
 ## About FBX to OBJ

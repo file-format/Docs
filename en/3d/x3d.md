@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "x3d file", "x3d file format", "what is an x3d file", "file", "x3d example", "x3d file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "x3d file",
+    "x3d file format",
+    "what is an x3d file",
+    "file",
+    "x3d example",
+    "x3d file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "X3D - 3D Image File",
-  "description":"Learn about X3D file format and APIs that can open and create X3D files.",
-  "linktitle" : "X3D",
-  "menu" : {
-    "docs" : {
-      "parent" : "3d"
+  "draft": "false",
+  "toc": true,
+  "title": "X3D - 3D Image File",
+  "description": "Learn about X3D file format and APIs that can open and create X3D files.",
+  "linktitle": "X3D",
+  "menu": {
+    "docs": {
+      "parent": "3d",
+      "identifier": "3d-x3d"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is a X3D file?

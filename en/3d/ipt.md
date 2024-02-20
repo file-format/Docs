@@ -1,20 +1,28 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "IPT", "IPT file", "IPT file format", "file format", "3d","ipt file download"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "IPT",
+    "IPT file",
+    "IPT file format",
+    "file format",
+    "3d",
+    "ipt file download"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about IPT file format and APIs that can open and create IPT files.",
-  "title" : "IPT - Autodesk Inventor Part File",
-  "linktitle" : "IPT",
-  "menu" : {
-    "docs" : {
-      "parent" : "3d"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about IPT file format and APIs that can open and create IPT files.",
+  "title": "IPT - Autodesk Inventor Part File",
+  "linktitle": "IPT",
+  "menu": {
+    "docs": {
+      "parent": "3d",
+      "identifier": "3d-ipt"
     }
   },
-  "lastmod" : "2021-01-25"
+  "lastmod": "2021-01-25"
 }
 
 ## What is an IPT file?

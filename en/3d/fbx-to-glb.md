@@ -1,19 +1,20 @@
 {
-  "date" : "2023-09-13",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2023-09-13",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "Convert FBX to GLB online for FREE",
-  "description":"Learn about FBX to GLB file format and convert FBX to GLB for FREE online.",
-  "linktitle" : "FBX to GLB",
-  "menu" : {
-    "docs" : {
-      "parent" : "3d"
+  "draft": "false",
+  "toc": true,
+  "title": "Convert FBX to GLB online for FREE",
+  "description": "Learn about FBX to GLB file format and convert FBX to GLB for FREE online.",
+  "linktitle": "FBX to GLB",
+  "menu": {
+    "docs": {
+      "parent": "3d",
+      "identifier": "3d-fbx-to-glb"
     }
   },
-  "lastmod" : "2023-09-13"
+  "lastmod": "2023-09-13"
 }
 
 ## About FBX to GLB

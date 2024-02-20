@@ -1,19 +1,20 @@
 {
-  "date" : "2023-09-21",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2023-09-21",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "Convert FBX to XLSX online for FREE",
-  "description":"Learn about FBX to XLSX file format and convert FBX to XLSX for FREE online.",
-  "linktitle" : "FBX to XLSX",
-  "menu" : {
-    "docs" : {
-      "parent" : "3d"
+  "draft": "false",
+  "toc": true,
+  "title": "Convert FBX to XLSX online for FREE",
+  "description": "Learn about FBX to XLSX file format and convert FBX to XLSX for FREE online.",
+  "linktitle": "FBX to XLSX",
+  "menu": {
+    "docs": {
+      "parent": "3d",
+      "identifier": "3d-fbx-to-xlsx"
     }
   },
-  "lastmod" : "2023-09-21"
+  "lastmod": "2023-09-21"
 }
 
 ## About FBX to XLSX

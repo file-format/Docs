@@ -1,20 +1,28 @@
 {
-  "date" : "2019-12-12",
-  "keywords" : [ "JT", "file", "extension", "format", "3D fbx", "" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-12-12",
+  "keywords": [
+    "JT",
+    "file",
+    "extension",
+    "format",
+    "3D fbx",
+    ""
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about JT file format and APIs that can create and open JT files.",
-  "title" : "JT - Jupiter Tessellation File Format",
-  "linktitle" : "JT",
-  "menu" : {
-    "docs" : {
-      "parent" : "3d"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about JT file format and APIs that can create and open JT files.",
+  "title": "JT - Jupiter Tessellation File Format",
+  "linktitle": "JT",
+  "menu": {
+    "docs": {
+      "parent": "3d",
+      "identifier": "3d-jt"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is a JT file?

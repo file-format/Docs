@@ -1,20 +1,27 @@
 {
-  "date" : "2019-12-12",
-  "keywords" : [ "FBX", "file", "extension", "format", "3D File Format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-12-12",
+  "keywords": [
+    "FBX",
+    "file",
+    "extension",
+    "format",
+    "3D File Format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Your file format guide to know what is an FBX file and APIs that can create and open them.",
-  "title" : "FBX - FilmBox 3D File Format",
-  "linktitle" : "FBX",
-  "menu" : {
-    "docs" : {
-      "parent" : "3d"
+  "draft": "false",
+  "toc": true,
+  "description": "Your file format guide to know what is an FBX file and APIs that can create and open them.",
+  "title": "FBX - FilmBox 3D File Format",
+  "linktitle": "FBX",
+  "menu": {
+    "docs": {
+      "parent": "3d",
+      "identifier": "3d-fbx"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is an FBX file?

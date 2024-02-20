@@ -1,20 +1,28 @@
 {
-  "date" : "2023-08-23",
-  "keywords" : [ "GLB","file", "format", "file type", "extension","what is an GLB file?" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2023-08-23",
+  "keywords": [
+    "GLB",
+    "file",
+    "format",
+    "file type",
+    "extension",
+    "what is an GLB file?"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "Convert GLB to FBX online for FREE",
-  "description":"Learn about GLB to FBX conversions and convert GLB to FBX for FREE online.",
-  "linktitle" : "GLB to FBX",
-  "menu" : {
-    "docs" : {
-      "parent" : "3d"
+  "draft": "false",
+  "toc": true,
+  "title": "Convert GLB to FBX online for FREE",
+  "description": "Learn about GLB to FBX conversions and convert GLB to FBX for FREE online.",
+  "linktitle": "GLB to FBX",
+  "menu": {
+    "docs": {
+      "parent": "3d",
+      "identifier": "3d-glb-to-fbx"
     }
   },
-  "lastmod" : "2023-08-23"
+  "lastmod": "2023-08-23"
 }
 
 ## About GLB to FBX
