@@ -1,19 +1,20 @@
 {
-  "date" : "2022-12-08",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-12-08",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "NMC - Navitel Map File",
-  "description":"Learn about NMC file format and APIs that can create and open NMC files.",
-  "linktitle" : "NMC",
-  "menu" : {
-    "docs" : {
-      "parent" : "gis"
+  "draft": "false",
+  "toc": true,
+  "title": "NMC - Navitel Map File",
+  "description": "Learn about NMC file format and APIs that can create and open NMC files.",
+  "linktitle": "NMC",
+  "menu": {
+    "docs": {
+      "parent": "gis",
+      "identifier": "gis-nmc"
     }
   },
-  "lastmod" : "2022-12-08"
+  "lastmod": "2022-12-08"
 }
 
 ## What is an NMC file?

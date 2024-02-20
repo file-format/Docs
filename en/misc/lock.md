@@ -1,19 +1,20 @@
 {
-  "date" : "2022-01-26",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-01-26",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "LOCK File Format - What is a Lock file?",
-  "description":"Learn about the LOCK file format and its .",
-  "linktitle" : "LOCK",
-  "menu" : {
-    "docs" : {
-      "parent" : "misc"
+  "draft": "false",
+  "toc": true,
+  "title": "LOCK File Format - What is a Lock file?",
+  "description": "Learn about the LOCK file format and its .",
+  "linktitle": "LOCK",
+  "menu": {
+    "docs": {
+      "parent": "misc",
+      "identifier": "misc-lock"
     }
   },
-  "lastmod" : "2022-01-26"
+  "lastmod": "2022-01-26"
 }
 
 ## What is a LOCK file?

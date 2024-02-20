@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "j2c file", "j2c file format", "what is a j2c file", "file", "j2c example", "j2c file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "j2c file",
+    "j2c file format",
+    "what is a j2c file",
+    "file",
+    "j2c example",
+    "j2c file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "J2C",
-  "description":"Learn about J2C file format and APIs that can create and open J2C files.",
-  "linktitle" : "J2C",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
+  "draft": "false",
+  "toc": true,
+  "title": "J2C",
+  "description": "Learn about J2C file format and APIs that can create and open J2C files.",
+  "linktitle": "J2C",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-j2c"
     }
   },
-  "lastmod" : "2021-02-14"
+  "lastmod": "2021-02-14"
 }
 
 ## What is a J2C file?

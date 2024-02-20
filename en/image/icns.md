@@ -1,20 +1,31 @@
 {
-  "date" : "2021-06-29",
-  "keywords" : [ "ICNS", "extension", "file", "format", "image", "Apple Icon Image", "macOS", "Apple", "Icon" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
+  "date": "2021-06-29",
+  "keywords": [
+    "ICNS",
+    "extension",
+    "file",
+    "format",
+    "image",
+    "Apple Icon Image",
+    "macOS",
+    "Apple",
+    "Icon"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ICNS - Apple Icon Image",
-  "description":"Learn about ICNS file format and APIs that can create and open ICNS files.",
-  "linktitle" : "ICNS",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
+  "draft": "false",
+  "toc": true,
+  "title": "ICNS - Apple Icon Image",
+  "description": "Learn about ICNS file format and APIs that can create and open ICNS files.",
+  "linktitle": "ICNS",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-icns"
     }
   },
-  "lastmod" : "2021-06-29"
+  "lastmod": "2021-06-29"
 }
 
 ## What is an ICNS file? ##

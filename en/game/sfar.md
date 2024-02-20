@@ -1,20 +1,30 @@
 {
-  "date" : "2021-10-20",
-  "keywords" : [ "sfar file", "sfar file format", "what is an sfar file", "file", "sfar example", "Mass Effect 3 DLC File extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-10-20",
+  "keywords": [
+    "sfar file",
+    "sfar file format",
+    "what is an sfar file",
+    "file",
+    "sfar example",
+    "Mass Effect 3 DLC File extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about Mass Effect 3 SFAR file format and APIs that can create and open SFAR files.",
-  "title" : "SFAR - Mass Effect 3 DLC File",
-  "linktitle" : "SFAR",
-  "menu" : {
-    "docs" : {
-      "parent" : "game"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about Mass Effect 3 SFAR file format and APIs that can create and open SFAR files.",
+  "title": "SFAR - Mass Effect 3 DLC File",
+  "linktitle": "SFAR",
+  "menu": {
+    "docs": {
+      "parent": "game",
+      "identifier": "game-sfar"
     }
   },
-  "lastmod" : "2021-10-20"
+  "lastmod": "2021-10-20"
 }
 
 ## What is an SFAR file?

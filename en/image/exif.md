@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "exif file", "exif file format", "what is a exif file", "file", "exif example", "exif file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "exif file",
+    "exif file format",
+    "what is a exif file",
+    "file",
+    "exif example",
+    "exif file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "EXIF",
-  "description":"Learn about EXIF file format and APIs that can create and open EXIF files.",
-  "linktitle" : "EXIF",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
+  "draft": "false",
+  "toc": true,
+  "title": "EXIF",
+  "description": "Learn about EXIF file format and APIs that can create and open EXIF files.",
+  "linktitle": "EXIF",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-exif"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is an EXIF file?

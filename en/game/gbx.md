@@ -1,19 +1,20 @@
 {
-  "date" : "2022-12-11",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-12-11",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about GBX file format and APIs that can create and open GBX files.",
-  "title" : "GBX File - Nadeo Game File Format",
-  "linktitle" : "GBX",
-  "menu" : {
-    "docs" : {
-      "parent" : "game"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about GBX file format and APIs that can create and open GBX files.",
+  "title": "GBX File - Nadeo Game File Format",
+  "linktitle": "GBX",
+  "menu": {
+    "docs": {
+      "parent": "game",
+      "identifier": "game-gbx"
     }
   },
-  "lastmod" : "2022-12-11"
+  "lastmod": "2022-12-11"
 }
 
 ## What is a GBX file?

@@ -1,20 +1,30 @@
 {
-  "date" : "2020-01-10",
-  "keywords" : [ "dib file", "dib file format", "what is a dib file", "file", "dib example", "dib file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2020-01-10",
+  "keywords": [
+    "dib file",
+    "dib file format",
+    "what is a dib file",
+    "file",
+    "dib example",
+    "dib file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "DIB",
-  "description":"Learn about DIB file format and APIs that can create and open DIB files.",
-  "linktitle" : "DIB",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
+  "draft": "false",
+  "toc": true,
+  "title": "DIB",
+  "description": "Learn about DIB file format and APIs that can create and open DIB files.",
+  "linktitle": "DIB",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-dib"
     }
   },
-  "lastmod" : "2020-01-10"
+  "lastmod": "2020-01-10"
 }
 
 ## What is a DIB file?

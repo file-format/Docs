@@ -1,19 +1,20 @@
 {
-  "date" : "2022-05-06",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-05-06",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "FIT File Format- Garmin Activity File",
-  "description":"Learn about FIT file format and APIs that can create and open FIT files.",
-  "linktitle" : "FIT",
-  "menu" : {
-    "docs" : {
-      "parent" : "gis"
+  "draft": "false",
+  "toc": true,
+  "title": "FIT File Format- Garmin Activity File",
+  "description": "Learn about FIT file format and APIs that can create and open FIT files.",
+  "linktitle": "FIT",
+  "menu": {
+    "docs": {
+      "parent": "gis",
+      "identifier": "gis-fit"
     }
   },
-  "lastmod" : "2022-05-06"
+  "lastmod": "2022-05-06"
 }
 
 ## What is a FIT file?

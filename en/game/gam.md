@@ -1,20 +1,30 @@
 {
-  "date" : "2021-09-08",
-  "keywords" : [ "gam file", "gam file format", "what is a gam file", "file", "gam example", "gam file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-09-08",
+  "keywords": [
+    "gam file",
+    "gam file format",
+    "what is a gam file",
+    "file",
+    "gam example",
+    "gam file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about GAM file format and APIs that can create and open GAM files.",
-  "title" : "GAM - Saved Game File",
-  "linktitle" : "GAM",
-  "menu" : {
-    "docs" : {
-      "parent" : "game"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about GAM file format and APIs that can create and open GAM files.",
+  "title": "GAM - Saved Game File",
+  "linktitle": "GAM",
+  "menu": {
+    "docs": {
+      "parent": "game",
+      "identifier": "game-gam"
     }
   },
-  "lastmod" : "2021-09-08"
+  "lastmod": "2021-09-08"
 }
 
 ## What is a GAM file?

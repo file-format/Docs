@@ -1,20 +1,30 @@
 {
-  "date" : "2021-07-29",
-  "keywords" : [ "gpkg file", "gpkg file format", "what is a gpkg file", "file", "gpkg example", "gpkg file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-07-29",
+  "keywords": [
+    "gpkg file",
+    "gpkg file format",
+    "what is a gpkg file",
+    "file",
+    "gpkg example",
+    "gpkg file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "GPKG - GeoPackage Format Files",
-  "description":"Learn about GPKG file format and APIs that can create and open GPKG files.",
-  "linktitle" : "GPKG",
-  "menu" : {
-    "docs" : {
-      "parent" : "gis"
+  "draft": "false",
+  "toc": true,
+  "title": "GPKG - GeoPackage Format Files",
+  "description": "Learn about GPKG file format and APIs that can create and open GPKG files.",
+  "linktitle": "GPKG",
+  "menu": {
+    "docs": {
+      "parent": "gis",
+      "identifier": "gis-gpkg"
     }
   },
-  "lastmod" : "2021-07-29"
+  "lastmod": "2021-07-29"
 }
 
 ## What is a GPKG file?

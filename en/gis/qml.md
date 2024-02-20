@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "qml file", "qml file format", "what is an qml file", "file", "qml example", "qml file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "qml file",
+    "qml file format",
+    "what is an qml file",
+    "file",
+    "qml example",
+    "qml file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "QML - The QGIS Style File Format",
-  "description":"Learn about QML file format and APIs that can create and open QML files.",
-  "linktitle" : "QML",
-  "menu" : {
-    "docs" : {
-      "parent" : "gis"
+  "draft": "false",
+  "toc": true,
+  "title": "QML - The QGIS Style File Format",
+  "description": "Learn about QML file format and APIs that can create and open QML files.",
+  "linktitle": "QML",
+  "menu": {
+    "docs": {
+      "parent": "gis",
+      "identifier": "gis-qml"
     }
   },
-  "lastmod" : "2021-03-14"
+  "lastmod": "2021-03-14"
 }
 
 ## What is a QML file?

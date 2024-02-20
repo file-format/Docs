@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "psd file", "psd file format", "what is a psd file", "file", "psd example", "psd file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "psd file",
+    "psd file format",
+    "what is a psd file",
+    "file",
+    "psd example",
+    "psd file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "PSD - Photoshop Image File Format",
-  "description":"Learn about PSD file format and APIs that can create and open PSD files.",
-  "linktitle" : "PSD",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
+  "draft": "false",
+  "toc": true,
+  "title": "PSD - Photoshop Image File Format",
+  "description": "Learn about PSD file format and APIs that can create and open PSD files.",
+  "linktitle": "PSD",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-psd"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is a PSD file?

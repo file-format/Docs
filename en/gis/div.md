@@ -1,19 +1,20 @@
 {
-  "date" : "2021-08-24",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-08-24",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "DIV - DIVA-GIS Project File",
-  "description":"Learn about DIV file format and APIs that can create and open DIV files.",
-  "linktitle" : "DIV",
-  "menu" : {
-    "docs" : {
-      "parent" : "gis"
+  "draft": "false",
+  "toc": true,
+  "title": "DIV - DIVA-GIS Project File",
+  "description": "Learn about DIV file format and APIs that can create and open DIV files.",
+  "linktitle": "DIV",
+  "menu": {
+    "docs": {
+      "parent": "gis",
+      "identifier": "gis-div"
     }
   },
-  "lastmod" : "2021-08-24"
+  "lastmod": "2021-08-24"
 }
 
 ## What is a DIV file?

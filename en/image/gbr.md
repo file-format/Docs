@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "gbr file", "gbr file format", "what is a gbr file", "file", "gbr example", "gbr file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "gbr file",
+    "gbr file format",
+    "what is a gbr file",
+    "file",
+    "gbr example",
+    "gbr file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "GBR File Format - Gerber File Format for PCB",
-  "description":"Learn about GBR file format and APIs that can create and open GBR files.",
-  "linktitle" : "GBR",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
+  "draft": "false",
+  "toc": true,
+  "title": "GBR File Format - Gerber File Format for PCB",
+  "description": "Learn about GBR file format and APIs that can create and open GBR files.",
+  "linktitle": "GBR",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-gbr"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is a GBR file?

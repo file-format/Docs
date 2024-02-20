@@ -1,19 +1,20 @@
 {
-  "date" : "2022-03-12",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-03-12",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "MSO - Microsoft Office Macro Reference File",
-  "description":"Learn about MSO file and APIs that can create and open MSO files.",
-  "linktitle" : "MSO",
-  "menu" : {
-    "docs" : {
-      "parent" : "misc"
+  "draft": "false",
+  "toc": true,
+  "title": "MSO - Microsoft Office Macro Reference File",
+  "description": "Learn about MSO file and APIs that can create and open MSO files.",
+  "linktitle": "MSO",
+  "menu": {
+    "docs": {
+      "parent": "misc",
+      "identifier": "misc-mso"
     }
   },
-  "lastmod" : "2022-03-12"
+  "lastmod": "2022-03-12"
 }
 
 ## What is an MSO file?

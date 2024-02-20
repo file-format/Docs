@@ -1,19 +1,20 @@
 {
-  "date" : "2021-08-24",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-08-24",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ATX - ArcGIS Attribute Index File",
-  "description":"Learn about ATX file format and APIs that can create and open ATX files.",
-  "linktitle" : "ATX",
-  "menu" : {
-    "docs" : {
-      "parent" : "gis"
+  "draft": "false",
+  "toc": true,
+  "title": "ATX - ArcGIS Attribute Index File",
+  "description": "Learn about ATX file format and APIs that can create and open ATX files.",
+  "linktitle": "ATX",
+  "menu": {
+    "docs": {
+      "parent": "gis",
+      "identifier": "gis-atx"
     }
   },
-  "lastmod" : "2021-08-24"
+  "lastmod": "2021-08-24"
 }
 
 ## What is a ATX file?

@@ -1,19 +1,20 @@
 {
-  "date" : "2022-07-21",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-07-21",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "HDR File Format - What is an HDR image file?",
-  "description":"Learn about HDR file format and APIs that can create and open HDR files.",
-  "linktitle" : "HDR",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
+  "draft": "false",
+  "toc": true,
+  "title": "HDR File Format - What is an HDR image file?",
+  "description": "Learn about HDR file format and APIs that can create and open HDR files.",
+  "linktitle": "HDR",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-hdr"
     }
   },
-  "lastmod" : "2022-07-21"
+  "lastmod": "2022-07-21"
 }
 
 ## What is an HDR file?

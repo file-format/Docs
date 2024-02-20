@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "mng file", "mng file format", "what is a mng file", "file", "mng example", "mng file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "mng file",
+    "mng file format",
+    "what is a mng file",
+    "file",
+    "mng example",
+    "mng file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "MNG File Format - Multiple Image Network Graphics File Format",
-  "description":"Learn about MNG file format and APIs that can create and open MNG files.",
-  "linktitle" : "MNG",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
+  "draft": "false",
+  "toc": true,
+  "title": "MNG File Format - Multiple Image Network Graphics File Format",
+  "description": "Learn about MNG file format and APIs that can create and open MNG files.",
+  "linktitle": "MNG",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-mng"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is a MNG file?

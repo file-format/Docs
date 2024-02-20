@@ -1,20 +1,30 @@
 {
-  "date" : "2022-02-16",
-  "keywords" : [ "obb file", "obb file format", "what is an obb file", "file", "obb example", "obb file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-02-16",
+  "keywords": [
+    "obb file",
+    "obb file format",
+    "what is an obb file",
+    "file",
+    "obb example",
+    "obb file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "OBB File Format - Android Opaque Binary Blob File",
-  "description":"Learn about OBB file format and APIs that can create and open OBB files.",
-  "linktitle" : "OBB",
-  "menu" : {
-    "docs" : {
-      "parent" : "misc"
+  "draft": "false",
+  "toc": true,
+  "title": "OBB File Format - Android Opaque Binary Blob File",
+  "description": "Learn about OBB file format and APIs that can create and open OBB files.",
+  "linktitle": "OBB",
+  "menu": {
+    "docs": {
+      "parent": "misc",
+      "identifier": "misc-obb"
     }
   },
-  "lastmod" : "2022-02-16"
+  "lastmod": "2022-02-16"
 }
 
 ## What is an OBB file?

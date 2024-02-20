@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "emf file", "emf file format", "what is a emf file", "file", "emf example", "emf file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "emf file",
+    "emf file format",
+    "what is a emf file",
+    "file",
+    "emf example",
+    "emf file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "EMF - Enhanced Metafile Format",
-  "description":"Learn about EMF file format and APIs that can create and open EMF files.",
-  "linktitle" : "EMF",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
+  "draft": "false",
+  "toc": true,
+  "title": "EMF - Enhanced Metafile Format",
+  "description": "Learn about EMF file format and APIs that can create and open EMF files.",
+  "linktitle": "EMF",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-emf"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is an EMF file?

@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "skp file", "skp file format", "what is an skp file", "file", "skp example", "skp file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "skp file",
+    "skp file format",
+    "what is an skp file",
+    "file",
+    "skp example",
+    "skp file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "SKP File Format - SketchUp Document File",
-  "description":"Learn about .skp file and APIs that can create and open SKP files.",
-  "linktitle" : "SKP",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
+  "draft": "false",
+  "toc": true,
+  "title": "SKP File Format - SketchUp Document File",
+  "description": "Learn about .skp file and APIs that can create and open SKP files.",
+  "linktitle": "SKP",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-skp"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is an SKP file?

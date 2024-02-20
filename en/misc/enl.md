@@ -1,19 +1,20 @@
 {
-  "date" : "2022-03-07",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-03-07",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ENL File - EndNote Library File",
-  "description":"Learn about ENL file and APIs that can create and open ENL files.",
-  "linktitle" : "ENL",
-  "menu" : {
-    "docs" : {
-      "parent" : "misc"
+  "draft": "false",
+  "toc": true,
+  "title": "ENL File - EndNote Library File",
+  "description": "Learn about ENL file and APIs that can create and open ENL files.",
+  "linktitle": "ENL",
+  "menu": {
+    "docs": {
+      "parent": "misc",
+      "identifier": "misc-enl"
     }
   },
-  "lastmod" : "2022-03-07"
+  "lastmod": "2022-03-07"
 }
 
 ## What is an ENL file?

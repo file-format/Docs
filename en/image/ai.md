@@ -1,20 +1,30 @@
 {
-  "date" : "2021-01-21",
-  "keywords" : [ "ai file", "ai file format", "what is a ai file", "file", "ai example", "ai file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-01-21",
+  "keywords": [
+    "ai file",
+    "ai file format",
+    "what is a ai file",
+    "file",
+    "ai example",
+    "ai file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "AI - Adobe Illustrator Artwork File",
-  "description":"Learn about AI file format and APIs that can create and open AI files.",
-  "linktitle" : "AI",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
+  "draft": "false",
+  "toc": true,
+  "title": "AI - Adobe Illustrator Artwork File",
+  "description": "Learn about AI file format and APIs that can create and open AI files.",
+  "linktitle": "AI",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-ai"
     }
   },
-  "lastmod" : "2021-01-21"
+  "lastmod": "2021-01-21"
 }
 
 ## What is an AI file?

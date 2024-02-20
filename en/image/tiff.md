@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "tiff file", "tiff file format", "what is a tiff file", "file", "tiff example", "tiff file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "tiff file",
+    "tiff file format",
+    "what is a tiff file",
+    "file",
+    "tiff example",
+    "tiff file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "TIFF - Image File Format",
-  "description":"Learn about TIFF file format and APIs that can create and open TIFF files.",
-  "linktitle" : "TIFF",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
+  "draft": "false",
+  "toc": true,
+  "title": "TIFF - Image File Format",
+  "description": "Learn about TIFF file format and APIs that can create and open TIFF files.",
+  "linktitle": "TIFF",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-tiff"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is a TIFF file?

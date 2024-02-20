@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "dicom file", "dicom file format", "what is a dicom file", "file", "dicom example", "dicom file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "dicom file",
+    "dicom file format",
+    "what is a dicom file",
+    "file",
+    "dicom example",
+    "dicom file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "DICOM - Digital Imaging and Communications File Format",
-  "description":"Learn about DICOM file format and APIs that can create and open DICOM files.",
-  "linktitle" : "DICOM",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
+  "draft": "false",
+  "toc": true,
+  "title": "DICOM - Digital Imaging and Communications File Format",
+  "description": "Learn about DICOM file format and APIs that can create and open DICOM files.",
+  "linktitle": "DICOM",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-dicom"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is a DICOM file?

@@ -1,19 +1,20 @@
 {
-  "date" : "2022-04-20",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-04-20",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "NEF File Format - Nikon Electronic Format RAW Image",
-  "description":"Learn about NEF file format and APIs that can create and open NEF files.",
-  "linktitle" : "NEF",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
+  "draft": "false",
+  "toc": true,
+  "title": "NEF File Format - Nikon Electronic Format RAW Image",
+  "description": "Learn about NEF file format and APIs that can create and open NEF files.",
+  "linktitle": "NEF",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-nef"
     }
   },
-  "lastmod" : "2022-04-20"
+  "lastmod": "2022-04-20"
 }
 
 ## What is an NEF file?

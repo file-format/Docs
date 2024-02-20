@@ -1,20 +1,28 @@
 {
-  "date" : "2021-07-18",
-  "keywords" : [ "LOC", "file", "extension", "file format", "GPS Location", "Waypoint" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-07-18",
+  "keywords": [
+    "LOC",
+    "file",
+    "extension",
+    "file format",
+    "GPS Location",
+    "Waypoint"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "LOC - GPS Location File Format",
-  "description":"Learn about LOC file format and APIs that can create and open LOC files.",
-  "linktitle" : "LOC",
-  "menu" : {
-    "docs" : {
-      "parent" : "gis"
+  "draft": "false",
+  "toc": true,
+  "title": "LOC - GPS Location File Format",
+  "description": "Learn about LOC file format and APIs that can create and open LOC files.",
+  "linktitle": "LOC",
+  "menu": {
+    "docs": {
+      "parent": "gis",
+      "identifier": "gis-loc"
     }
   },
-  "lastmod" : "2021-07-18"
+  "lastmod": "2021-07-18"
 }
 
 ## What is an LOC file?

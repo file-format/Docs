@@ -1,19 +1,20 @@
 {
-  "date" : "2022-03-07",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-03-07",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ERR File Format - AutoCAD Error Log File",
-  "description":"Learn about ERR file and APIs that can create and open ERR files.",
-  "linktitle" : "ERR",
-  "menu" : {
-    "docs" : {
-      "parent" : "misc"
+  "draft": "false",
+  "toc": true,
+  "title": "ERR File Format - AutoCAD Error Log File",
+  "description": "Learn about ERR file and APIs that can create and open ERR files.",
+  "linktitle": "ERR",
+  "menu": {
+    "docs": {
+      "parent": "misc",
+      "identifier": "misc-err"
     }
   },
-  "lastmod" : "2022-03-07"
+  "lastmod": "2022-03-07"
 }
 
 ## What is an ERR file?

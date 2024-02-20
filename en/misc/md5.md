@@ -1,20 +1,30 @@
 {
-  "date" : "2021-07-29",
-  "keywords" : [ "md5 file", "md5 file format", "what is an md5 file", "file", "md5 example", "md5 file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-07-29",
+  "keywords": [
+    "md5 file",
+    "md5 file format",
+    "what is an md5 file",
+    "file",
+    "md5 example",
+    "md5 file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "MD5 - MD5 Checksum File",
-  "description":"Learn about MD5 file and APIs that can create and open MD5 files.",
-  "linktitle" : "MD5",
-  "menu" : {
-    "docs" : {
-      "parent" : "misc"
+  "draft": "false",
+  "toc": true,
+  "title": "MD5 - MD5 Checksum File",
+  "description": "Learn about MD5 file and APIs that can create and open MD5 files.",
+  "linktitle": "MD5",
+  "menu": {
+    "docs": {
+      "parent": "misc",
+      "identifier": "misc-md5"
     }
   },
-  "lastmod" : "2021-07-29"
+  "lastmod": "2021-07-29"
 }
 
 ## What is an MD5 file?

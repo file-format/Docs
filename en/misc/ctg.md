@@ -1,20 +1,30 @@
 {
-  "date" : "2022-01-12",
-  "keywords" : [ "ctg file", "ctg file format", "what is a ctg file", "file", "ctg example", "ctg file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-01-12",
+  "keywords": [
+    "ctg file",
+    "ctg file format",
+    "what is a ctg file",
+    "file",
+    "ctg example",
+    "ctg file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "CTG - Canon Digital Camera Catalog File",
-  "description":"Learn about CTG file and APIs that can create and open CTG files.",
-  "linktitle" : "CTG",
-  "menu" : {
-    "docs" : {
-      "parent" : "misc"
+  "draft": "false",
+  "toc": true,
+  "title": "CTG - Canon Digital Camera Catalog File",
+  "description": "Learn about CTG file and APIs that can create and open CTG files.",
+  "linktitle": "CTG",
+  "menu": {
+    "docs": {
+      "parent": "misc",
+      "identifier": "misc-ctg"
     }
   },
-  "lastmod" : "2022-01-12"
+  "lastmod": "2022-01-12"
 }
 
 ## What is a CTG file?

@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "dcm file", "dcm file format", "what is a dcm file", "file", "dcm example", "dcm file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "dcm file",
+    "dcm file format",
+    "what is a dcm file",
+    "file",
+    "dcm example",
+    "dcm file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "DCM File Format - Digital Medical Information File",
-  "description":"Learn about DCM file format and APIs that can create and open DCM files.",
-  "linktitle" : "DCM",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
+  "draft": "false",
+  "toc": true,
+  "title": "DCM File Format - Digital Medical Information File",
+  "description": "Learn about DCM file format and APIs that can create and open DCM files.",
+  "linktitle": "DCM",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-dcm"
     }
   },
-  "lastmod" : "2021-07-03"
+  "lastmod": "2021-07-03"
 }
 
 ## What is a DCM file?

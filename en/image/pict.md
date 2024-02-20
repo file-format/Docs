@@ -1,19 +1,20 @@
 {
-  "date" : "2022-03-16",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-03-16",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "PICT File Format - What is a PICT file?",
-  "description":"Learn about PICT file format and APIs that can create and open PICT files.",
-  "linktitle" : "PICT",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
+  "draft": "false",
+  "toc": true,
+  "title": "PICT File Format - What is a PICT file?",
+  "description": "Learn about PICT file format and APIs that can create and open PICT files.",
+  "linktitle": "PICT",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-pict"
     }
   },
-  "lastmod" : "2022-03-16"
+  "lastmod": "2022-03-16"
 }
 
 ## What is a PICT file?

@@ -1,19 +1,20 @@
 {
-  "date" : "2021-08-26",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-08-26",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "APL - ArcPad Layer File",
-  "description":"Learn about APL file format and APIs that can create and open APL files.",
-  "linktitle" : "APL",
-  "menu" : {
-    "docs" : {
-      "parent" : "gis"
+  "draft": "false",
+  "toc": true,
+  "title": "APL - ArcPad Layer File",
+  "description": "Learn about APL file format and APIs that can create and open APL files.",
+  "linktitle": "APL",
+  "menu": {
+    "docs": {
+      "parent": "gis",
+      "identifier": "gis-apl"
     }
   },
-  "lastmod" : "2021-08-26"
+  "lastmod": "2021-08-26"
 }
 
 ## What is an APL file?

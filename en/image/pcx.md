@@ -1,19 +1,20 @@
 {
-  "date" : "2022-03-16",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-03-16",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "PCX File Format - Paintbrush Bitmap Image File",
-  "description":"Learn about PCX file format and APIs that can create and open PCX files.",
-  "linktitle" : "PCX",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
+  "draft": "false",
+  "toc": true,
+  "title": "PCX File Format - Paintbrush Bitmap Image File",
+  "description": "Learn about PCX file format and APIs that can create and open PCX files.",
+  "linktitle": "PCX",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-pcx"
     }
   },
-  "lastmod" : "2022-03-16"
+  "lastmod": "2022-03-16"
 }
 
 ## What is a PCX file?

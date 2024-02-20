@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "shp file", "shp file format", "what is an shp file", "file", "shp example", "shp file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "shp file",
+    "shp file format",
+    "what is an shp file",
+    "file",
+    "shp example",
+    "shp file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "SHP - ESRI Shapefile",
-  "description":"Learn about SHP file format and APIs that can create and open SHP files.",
-  "linktitle" : "SHP",
-  "menu" : {
-    "docs" : {
-      "parent" : "gis"
+  "draft": "false",
+  "toc": true,
+  "title": "SHP - ESRI Shapefile",
+  "description": "Learn about SHP file format and APIs that can create and open SHP files.",
+  "linktitle": "SHP",
+  "menu": {
+    "docs": {
+      "parent": "gis",
+      "identifier": "gis-shp"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is a SHP file?

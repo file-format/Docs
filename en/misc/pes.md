@@ -1,20 +1,30 @@
 {
-  "date" : "2021-07-29",
-  "keywords" : [ "pes file", "pes file format", "what is a pes file", "file", "pes example", "pes file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-07-29",
+  "keywords": [
+    "pes file",
+    "pes file format",
+    "what is a pes file",
+    "file",
+    "pes example",
+    "pes file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "PES File Format - Brother PE Embroidery Format",
-  "description":"Learn about PES file format and APIs that can create and open PES files.",
-  "linktitle" : "PES",
-  "menu" : {
-    "docs" : {
-      "parent" : "misc"
+  "draft": "false",
+  "toc": true,
+  "title": "PES File Format - Brother PE Embroidery Format",
+  "description": "Learn about PES file format and APIs that can create and open PES files.",
+  "linktitle": "PES",
+  "menu": {
+    "docs": {
+      "parent": "misc",
+      "identifier": "misc-pes"
     }
   },
-  "lastmod" : "2021-07-29"
+  "lastmod": "2021-07-29"
 }
 
 ## What is a PES Embroidery file?

@@ -1,20 +1,30 @@
 {
-  "date" : "2021-09-08",
-  "keywords" : [ "pwf file", "pwf file format", "what is a pwf file", "file", "pwf example", "pwf file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-09-08",
+  "keywords": [
+    "pwf file",
+    "pwf file format",
+    "what is a pwf file",
+    "file",
+    "pwf example",
+    "pwf file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about Counter-Strike PODBot Waypoint PWF file format and APIs that can create and open PWF files.",
-  "title" : "PWF - Counter-Strike PODBot Waypoint File",
-  "linktitle" : "PWF",
-  "menu" : {
-    "docs" : {
-      "parent" : "game"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about Counter-Strike PODBot Waypoint PWF file format and APIs that can create and open PWF files.",
+  "title": "PWF - Counter-Strike PODBot Waypoint File",
+  "linktitle": "PWF",
+  "menu": {
+    "docs": {
+      "parent": "game",
+      "identifier": "game-pwf"
     }
   },
-  "lastmod" : "2021-10-17"
+  "lastmod": "2021-10-17"
 }
 
 ## What is a PWF file?

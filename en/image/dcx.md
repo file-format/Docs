@@ -1,19 +1,20 @@
 {
-  "date" : "2022-03-16",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-03-16",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "DCX - Zsoft Multi-Page Paintbrush File",
-  "description":"Learn about DCX file format and APIs that can create and open DCX files.",
-  "linktitle" : "DCX",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
+  "draft": "false",
+  "toc": true,
+  "title": "DCX - Zsoft Multi-Page Paintbrush File",
+  "description": "Learn about DCX file format and APIs that can create and open DCX files.",
+  "linktitle": "DCX",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-dcx"
     }
   },
-  "lastmod" : "2022-03-16"
+  "lastmod": "2022-03-16"
 }
 
 ## What is a DCX file?

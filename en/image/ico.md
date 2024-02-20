@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "ico file", "ico file format", "what is a ico file", "file", "ico example", "ico file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "ico file",
+    "ico file format",
+    "what is a ico file",
+    "file",
+    "ico example",
+    "ico file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ICO - Image File Format",
-  "description":"Learn about ICO file format and APIs that can create and open ICO files.",
-  "linktitle" : "ICO",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
+  "draft": "false",
+  "toc": true,
+  "title": "ICO - Image File Format",
+  "description": "Learn about ICO file format and APIs that can create and open ICO files.",
+  "linktitle": "ICO",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-ico"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is a ICO file?

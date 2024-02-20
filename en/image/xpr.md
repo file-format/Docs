@@ -1,20 +1,30 @@
 {
-  "date" : "2022-03-21",
-  "keywords" : [ "xpr file", "xpr file format", "what is an xpr file", "file", "xpr example", "xpr file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-03-21",
+  "keywords": [
+    "xpr file",
+    "xpr file format",
+    "what is an xpr file",
+    "file",
+    "xpr example",
+    "xpr file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "XPR File Format - Microsoft Expression Design Graphic File",
-  "description":"Learn about XPR file format and APIs that can create and open XPR files.",
-  "linktitle" : "XPR",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
+  "draft": "false",
+  "toc": true,
+  "title": "XPR File Format - Microsoft Expression Design Graphic File",
+  "description": "Learn about XPR file format and APIs that can create and open XPR files.",
+  "linktitle": "XPR",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-xpr"
     }
   },
-  "lastmod" : "2022-03-21"
+  "lastmod": "2022-03-21"
 }
 
 ## What is an XPR file?

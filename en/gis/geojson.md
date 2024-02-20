@@ -1,20 +1,29 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "geojson file", "what is an geojson file", "file", "geojson example", "geojson file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "geojson file",
+    "what is an geojson file",
+    "file",
+    "geojson example",
+    "geojson file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "GeoJSON - JSON based Geographic File Format",
-  "description":"Learn about GeoJSON file format and APIs that can create and open GeoJSON files.",
-  "linktitle" : "GeoJSON",
-  "menu" : {
-    "docs" : {
-      "parent" : "gis"
+  "draft": "false",
+  "toc": true,
+  "title": "GeoJSON - JSON based Geographic File Format",
+  "description": "Learn about GeoJSON file format and APIs that can create and open GeoJSON files.",
+  "linktitle": "GeoJSON",
+  "menu": {
+    "docs": {
+      "parent": "gis",
+      "identifier": "gis-geojson"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is a GeoJSON file?

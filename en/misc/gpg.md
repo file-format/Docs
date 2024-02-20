@@ -1,20 +1,30 @@
 {
-  "date" : "2022-02-17",
-  "keywords" : ["gpg file", "gpg file format", "what is a gpg file", "file", "gpg example", "gpg file extension","extension", "format"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-02-17",
+  "keywords": [
+    "gpg file",
+    "gpg file format",
+    "what is a gpg file",
+    "file",
+    "gpg example",
+    "gpg file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "GPG File - GNU Privacy Guard Public Keyring File",
-  "description":"Learn about GPG file and APIs that can create and open GPG files.",
-  "linktitle" : "GPG",
-  "menu" : {
-    "docs" : {
-      "parent" : "misc"
+  "draft": "false",
+  "toc": true,
+  "title": "GPG File - GNU Privacy Guard Public Keyring File",
+  "description": "Learn about GPG file and APIs that can create and open GPG files.",
+  "linktitle": "GPG",
+  "menu": {
+    "docs": {
+      "parent": "misc",
+      "identifier": "misc-gpg"
     }
   },
-  "lastmod" : "2022-02-17"
+  "lastmod": "2022-02-17"
 }
 
 ## What is a GPG file?

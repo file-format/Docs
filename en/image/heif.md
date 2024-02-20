@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "heif file", "heif file format", "what is a heif file", "file", "heif example", "heif file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "heif file",
+    "heif file format",
+    "what is a heif file",
+    "file",
+    "heif example",
+    "heif file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "HEIF - High-Efficiency Image File Format",
-  "description":"Learn about HEIF file format and APIs that can create and open HEIF files.",
-  "linktitle" : "HEIF",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
+  "draft": "false",
+  "toc": true,
+  "title": "HEIF - High-Efficiency Image File Format",
+  "description": "Learn about HEIF file format and APIs that can create and open HEIF files.",
+  "linktitle": "HEIF",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-heif"
     }
   },
-  "lastmod" : "2021-03-29"
+  "lastmod": "2021-03-29"
 }
 
 ## What is a HEIF file?

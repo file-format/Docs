@@ -1,20 +1,30 @@
 {
-  "date" : "2021-09-08",
-  "keywords" : [ "kodu file", "kodu file format", "what is a kodu file", "file", "kodu example", "kodu file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-09-08",
+  "keywords": [
+    "kodu file",
+    "kodu file format",
+    "what is a kodu file",
+    "file",
+    "kodu example",
+    "kodu file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about Microsfot Kodu file format and APIs that can create and open Kodu files.",
-  "title" : "KODU - Microsoft Kodu Game File",
-  "linktitle" : "KODU",
-  "menu" : {
-    "docs" : {
-      "parent" : "game"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about Microsfot Kodu file format and APIs that can create and open Kodu files.",
+  "title": "KODU - Microsoft Kodu Game File",
+  "linktitle": "KODU",
+  "menu": {
+    "docs": {
+      "parent": "game",
+      "identifier": "game-kodu"
     }
   },
-  "lastmod" : "2021-09-08"
+  "lastmod": "2021-09-08"
 }
 
 ## What is a KODU file?

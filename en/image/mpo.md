@@ -1,19 +1,20 @@
 {
-  "date" : "2022-02-23",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-02-23",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "MPO File - Multi Picture Object File",
-  "description":"Learn about MPO file format and APIs that can create and open MPO files.",
-  "linktitle" : "MPO",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
+  "draft": "false",
+  "toc": true,
+  "title": "MPO File - Multi Picture Object File",
+  "description": "Learn about MPO file format and APIs that can create and open MPO files.",
+  "linktitle": "MPO",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-mpo"
     }
   },
-  "lastmod" : "2022-02-23"
+  "lastmod": "2022-02-23"
 }
 
 ## What is a MPO file?

@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "bmp file", "bmp file format", "what is a bmp file", "file", "bmp example", "bmp file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "bmp file",
+    "bmp file format",
+    "what is a bmp file",
+    "file",
+    "bmp example",
+    "bmp file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "BMP - Image File Format",
-  "description":"Learn about BMP file format and APIs that can create and open BMP files.",
-  "linktitle" : "BMP",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
+  "draft": "false",
+  "toc": true,
+  "title": "BMP - Image File Format",
+  "description": "Learn about BMP file format and APIs that can create and open BMP files.",
+  "linktitle": "BMP",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-bmp"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 # What is a BMP file? #

@@ -1,19 +1,20 @@
 {
-  "date" : "2021-08-26",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-08-26",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "APR - ArcView Project File",
-  "description":"Learn about what is an APR file and APIs that can create and open APL files.",
-  "linktitle" : "APR",
-  "menu" : {
-    "docs" : {
-      "parent" : "gis"
+  "draft": "false",
+  "toc": true,
+  "title": "APR - ArcView Project File",
+  "description": "Learn about what is an APR file and APIs that can create and open APL files.",
+  "linktitle": "APR",
+  "menu": {
+    "docs": {
+      "parent": "gis",
+      "identifier": "gis-apr"
     }
   },
-  "lastmod" : "2021-09-26"
+  "lastmod": "2021-09-26"
 }
 
 ## What is an APR file?

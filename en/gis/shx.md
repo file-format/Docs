@@ -1,20 +1,30 @@
 {
-  "date" : "2021-07-29",
-  "keywords" : [ "shx file", "shx file format", "what is an shx file", "file", "shx example", "shx file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-07-29",
+  "keywords": [
+    "shx file",
+    "shx file format",
+    "what is an shx file",
+    "file",
+    "shx example",
+    "shx file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "SHX - Shapefile Shape Index Format",
-  "description":"Learn about SHX file format and APIs that can create and open SHX files.",
-  "linktitle" : "SHX",
-  "menu" : {
-    "docs" : {
-      "parent" : "gis"
+  "draft": "false",
+  "toc": true,
+  "title": "SHX - Shapefile Shape Index Format",
+  "description": "Learn about SHX file format and APIs that can create and open SHX files.",
+  "linktitle": "SHX",
+  "menu": {
+    "docs": {
+      "parent": "gis",
+      "identifier": "gis-shx"
     }
   },
-  "lastmod" : "2021-07-29"
+  "lastmod": "2021-07-29"
 }
 
 ## What is an SHX file?

@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "apng file", "apng file format", "what is a apng file", "file", "apng example", "apng file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "apng file",
+    "apng file format",
+    "what is a apng file",
+    "file",
+    "apng example",
+    "apng file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "APNG File Format - Animated Portable Network Graphic File",
-  "description":"Learn about APNG file format and APIs that can create and open APNG files.",
-  "linktitle" : "APNG",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
+  "draft": "false",
+  "toc": true,
+  "title": "APNG File Format - Animated Portable Network Graphic File",
+  "description": "Learn about APNG file format and APIs that can create and open APNG files.",
+  "linktitle": "APNG",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-apng"
     }
   },
-  "lastmod" : "2020-09-10"
+  "lastmod": "2020-09-10"
 }
 
 ## What is a APNG file?

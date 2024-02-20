@@ -1,20 +1,30 @@
 {
-  "date" : "2019-11-25",
-  "keywords" : [ "jpeg file", "jpeg file format", "what is a jpeg file", "file", "jpeg example", "jpeg file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-11-25",
+  "keywords": [
+    "jpeg file",
+    "jpeg file format",
+    "what is a jpeg file",
+    "file",
+    "jpeg example",
+    "jpeg file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "JPEG - Image File Format",
-  "description":"Learn about JPEG file format and APIs that can create and open JPEG files.",
-  "linktitle" : "JPEG",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
+  "draft": "false",
+  "toc": true,
+  "title": "JPEG - Image File Format",
+  "description": "Learn about JPEG file format and APIs that can create and open JPEG files.",
+  "linktitle": "JPEG",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-jpeg"
     }
   },
-  "lastmod" : "2020-08-08"
+  "lastmod": "2020-08-08"
 }
 
 ## What is a JPEG file? ##

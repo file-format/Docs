@@ -1,19 +1,20 @@
 {
-  "date" : "2021-10-20",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-10-20",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about RPX file format and APIs that can create and open RPX files.",
-  "title" : "RPX - Wii U Game File",
-  "linktitle" : "RPX",
-  "menu" : {
-    "docs" : {
-      "parent" : "game"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about RPX file format and APIs that can create and open RPX files.",
+  "title": "RPX - Wii U Game File",
+  "linktitle": "RPX",
+  "menu": {
+    "docs": {
+      "parent": "game",
+      "identifier": "game-rpx"
     }
   },
-  "lastmod" : "2021-10-20"
+  "lastmod": "2021-10-20"
 }
 
 ## What is a RPX file?

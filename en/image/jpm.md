@@ -1,20 +1,30 @@
 {
-  "date" : "2019-11-25",
-  "keywords" : [ "jpm file", "jpm file format", "what is a jpm file", "file", "jpm example", "jpm file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-11-25",
+  "keywords": [
+    "jpm file",
+    "jpm file format",
+    "what is a jpm file",
+    "file",
+    "jpm example",
+    "jpm file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "JPM - JPEG 2000 Compound File Format",
-  "description":"Learn about JPM file format and APIs that can create and open JPM files.",
-  "linktitle" : "JPM",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
+  "draft": "false",
+  "toc": true,
+  "title": "JPM - JPEG 2000 Compound File Format",
+  "description": "Learn about JPM file format and APIs that can create and open JPM files.",
+  "linktitle": "JPM",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-jpm"
     }
   },
-  "lastmod" : "2021-02-08"
+  "lastmod": "2021-02-08"
 }
 
 ## What is a JPM file?

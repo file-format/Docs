@@ -1,19 +1,20 @@
 {
-  "date" : "2021-08-24",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-08-24",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "NM2 - Navitel Map File",
-  "description":"Learn about NM2 file format and APIs that can create and open NM2 files.",
-  "linktitle" : "NM2",
-  "menu" : {
-    "docs" : {
-      "parent" : "gis"
+  "draft": "false",
+  "toc": true,
+  "title": "NM2 - Navitel Map File",
+  "description": "Learn about NM2 file format and APIs that can create and open NM2 files.",
+  "linktitle": "NM2",
+  "menu": {
+    "docs": {
+      "parent": "gis",
+      "identifier": "gis-nm2"
     }
   },
-  "lastmod" : "2021-08-24"
+  "lastmod": "2021-08-24"
 }
 
 ## What is an NM2 file?

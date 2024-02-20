@@ -1,19 +1,20 @@
 {
-  "date" : "2022-03-07",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-03-07",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "MPS File Format - Pocket Streets Map File",
-  "description":"Learn about MPS file format and APIs that can create and open MPS files.",
-  "linktitle" : "MPS",
-  "menu" : {
-    "docs" : {
-      "parent" : "gis"
+  "draft": "false",
+  "toc": true,
+  "title": "MPS File Format - Pocket Streets Map File",
+  "description": "Learn about MPS file format and APIs that can create and open MPS files.",
+  "linktitle": "MPS",
+  "menu": {
+    "docs": {
+      "parent": "gis",
+      "identifier": "gis-mps"
     }
   },
-  "lastmod" : "2022-03-07"
+  "lastmod": "2022-03-07"
 }
 
 ## What is an MPS file?

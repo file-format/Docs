@@ -1,19 +1,20 @@
 {
-  "date" : "2021-08-24",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-08-24",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "DEM - Digital Elevation Model File",
-  "description":"Learn about DEM file format and APIs that can create and open DEM files.",
-  "linktitle" : "DEM",
-  "menu" : {
-    "docs" : {
-      "parent" : "gis"
+  "draft": "false",
+  "toc": true,
+  "title": "DEM - Digital Elevation Model File",
+  "description": "Learn about DEM file format and APIs that can create and open DEM files.",
+  "linktitle": "DEM",
+  "menu": {
+    "docs": {
+      "parent": "gis",
+      "identifier": "gis-dem"
     }
   },
-  "lastmod" : "2021-08-24"
+  "lastmod": "2021-08-24"
 }
 
 ## What is a DEM file?

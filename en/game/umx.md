@@ -1,20 +1,30 @@
 {
-  "date" : "2021-10-20",
-  "keywords" : [ "umx file", "umx file format", "what is a umx file", "file", "umx example", "Portal Bonus Map Script file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-10-20",
+  "keywords": [
+    "umx file",
+    "umx file format",
+    "what is a umx file",
+    "file",
+    "umx example",
+    "Portal Bonus Map Script file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about Unreal Music Package UMX file format and APIs that can create and open UMX files.",
-  "title" : "UMX - Unreal Music Package File",
-  "linktitle" : "UMX",
-  "menu" : {
-    "docs" : {
-      "parent" : "game"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about Unreal Music Package UMX file format and APIs that can create and open UMX files.",
+  "title": "UMX - Unreal Music Package File",
+  "linktitle": "UMX",
+  "menu": {
+    "docs": {
+      "parent": "game",
+      "identifier": "game-umx"
     }
   },
-  "lastmod" : "2021-10-27"
+  "lastmod": "2021-10-27"
 }
 
 ## What is a UMX file?

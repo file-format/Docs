@@ -1,20 +1,30 @@
 {
-  "date" : "2021-02-10",
-  "keywords" : [ "jpx file", "jpx file format", "what is a jpx file", "file", "jpx example", "jpx file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-02-10",
+  "keywords": [
+    "jpx file",
+    "jpx file format",
+    "what is a jpx file",
+    "file",
+    "jpx example",
+    "jpx file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "JPX - Image File Format",
-  "description":"Learn about JPX file format and APIs that can create and open JPX files.",
-  "linktitle" : "JPX",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
+  "draft": "false",
+  "toc": true,
+  "title": "JPX - Image File Format",
+  "description": "Learn about JPX file format and APIs that can create and open JPX files.",
+  "linktitle": "JPX",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-jpx"
     }
   },
-  "lastmod" : "2021-02-10"
+  "lastmod": "2021-02-10"
 }
 
 ## What is a JPX file? ##

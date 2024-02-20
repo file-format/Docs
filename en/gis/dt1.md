@@ -1,19 +1,20 @@
 {
-  "date" : "2022-12-07",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-12-07",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "DT1 File - DTED Level 1 File Format",
-  "description":"Learn about DT1 file format and APIs that can create and open DT1 files.",
-  "linktitle" : "DT1",
-  "menu" : {
-    "docs" : {
-      "parent" : "gis"
+  "draft": "false",
+  "toc": true,
+  "title": "DT1 File - DTED Level 1 File Format",
+  "description": "Learn about DT1 file format and APIs that can create and open DT1 files.",
+  "linktitle": "DT1",
+  "menu": {
+    "docs": {
+      "parent": "gis",
+      "identifier": "gis-dt1"
     }
   },
-  "lastmod" : "2022-12-07"
+  "lastmod": "2022-12-07"
 }
 
 ## What is a DT1 file?

@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "dng file", "dng file format", "what is a dng file", "file", "dng example", "dng file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "dng file",
+    "dng file format",
+    "what is a dng file",
+    "file",
+    "dng example",
+    "dng file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "DNG - Digital Camera Image File Format",
-  "description":"Learn about DNG file format and APIs that can create and open DNG files.",
-  "linktitle" : "DNG",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
+  "draft": "false",
+  "toc": true,
+  "title": "DNG - Digital Camera Image File Format",
+  "description": "Learn about DNG file format and APIs that can create and open DNG files.",
+  "linktitle": "DNG",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-dng"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is a DNG file?

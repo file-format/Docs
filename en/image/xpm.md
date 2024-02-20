@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "xpm file", "xpm file format", "what is a xpm file", "file", "xpm example", "xpm file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "xpm file",
+    "xpm file format",
+    "what is a xpm file",
+    "file",
+    "xpm example",
+    "xpm file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "XPM - X PixMap File Format",
-  "description":"Learn about XPM file format and APIs that can create and open XPM files.",
-  "linktitle" : "XPM",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
+  "draft": "false",
+  "toc": true,
+  "title": "XPM - X PixMap File Format",
+  "description": "Learn about XPM file format and APIs that can create and open XPM files.",
+  "linktitle": "XPM",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-xpm"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is an XPM file?

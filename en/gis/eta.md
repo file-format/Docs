@@ -1,19 +1,20 @@
 {
-  "date" : "2021-08-24",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-08-24",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ETA - Google Earth Placemark File",
-  "description":"Learn about ETA file format and APIs that can create and open ETA files.",
-  "linktitle" : "ETA",
-  "menu" : {
-    "docs" : {
-      "parent" : "gis"
+  "draft": "false",
+  "toc": true,
+  "title": "ETA - Google Earth Placemark File",
+  "description": "Learn about ETA file format and APIs that can create and open ETA files.",
+  "linktitle": "ETA",
+  "menu": {
+    "docs": {
+      "parent": "gis",
+      "identifier": "gis-eta"
     }
   },
-  "lastmod" : "2021-08-24"
+  "lastmod": "2021-08-24"
 }
 
 ## What is an ETA file?

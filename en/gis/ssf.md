@@ -1,19 +1,20 @@
 {
-  "date" : "2021-08-24",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-08-24",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "SSF - Trimble Standard Storage Format File",
-  "description":"Learn about SSF file format and APIs that can create and open SSF files.",
-  "linktitle" : "SSF",
-  "menu" : {
-    "docs" : {
-      "parent" : "gis"
+  "draft": "false",
+  "toc": true,
+  "title": "SSF - Trimble Standard Storage Format File",
+  "description": "Learn about SSF file format and APIs that can create and open SSF files.",
+  "linktitle": "SSF",
+  "menu": {
+    "docs": {
+      "parent": "gis",
+      "identifier": "gis-ssf"
     }
   },
-  "lastmod" : "2021-08-24"
+  "lastmod": "2021-08-24"
 }
 
 ## What is an SSF file?

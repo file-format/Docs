@@ -1,20 +1,32 @@
 {
-  "date" : "2021-06-29",
-  "keywords" : [ "CUR", "extension", "file", "format", "image", "Device-Independent Bitmap", "Cursor File Format", "Cursor", "Windows", "application" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
+  "date": "2021-06-29",
+  "keywords": [
+    "CUR",
+    "extension",
+    "file",
+    "format",
+    "image",
+    "Device-Independent Bitmap",
+    "Cursor File Format",
+    "Cursor",
+    "Windows",
+    "application"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "CUR - Cursor File Format",
-  "description":"Learn about CUR file format and APIs that can create and open CUR files.",
-  "linktitle" : "CUR",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
+  "draft": "false",
+  "toc": true,
+  "title": "CUR - Cursor File Format",
+  "description": "Learn about CUR file format and APIs that can create and open CUR files.",
+  "linktitle": "CUR",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-cur"
     }
   },
-  "lastmod" : "2021-06-29"
+  "lastmod": "2021-06-29"
 }
 
 ## What is a CUR file? ##

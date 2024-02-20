@@ -1,20 +1,30 @@
 {
-  "date" : "2021-09-08",
-  "keywords" : [ "dek file", "dek file format", "what is a dek file", "file", "dek example", "dek file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-09-08",
+  "keywords": [
+    "dek file",
+    "dek file format",
+    "what is a dek file",
+    "file",
+    "dek example",
+    "dek file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about DEK file format and APIs that can create and open DEK files.",
-  "title" : "DEK - Magic: The Gathering Deck File",
-  "linktitle" : "DEK",
-  "menu" : {
-    "docs" : {
-      "parent" : "game"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about DEK file format and APIs that can create and open DEK files.",
+  "title": "DEK - Magic: The Gathering Deck File",
+  "linktitle": "DEK",
+  "menu": {
+    "docs": {
+      "parent": "game",
+      "identifier": "game-dek"
     }
   },
-  "lastmod" : "2021-10-24"
+  "lastmod": "2021-10-24"
 }
 
 ## What is a DEK file?

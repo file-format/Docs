@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "qgs file", "qgs file format", "what is a qgs file", "file", "qgs example", "qgs file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "qgs file",
+    "qgs file format",
+    "what is a qgs file",
+    "file",
+    "qgs example",
+    "qgs file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "QGS - QGIS Project File Format",
-  "description":"Learn about QGS file format and APIs that can create and open QGS files.",
-  "linktitle" : "QGS",
-  "menu" : {
-    "docs" : {
-      "parent" : "gis"
+  "draft": "false",
+  "toc": true,
+  "title": "QGS - QGIS Project File Format",
+  "description": "Learn about QGS file format and APIs that can create and open QGS files.",
+  "linktitle": "QGS",
+  "menu": {
+    "docs": {
+      "parent": "gis",
+      "identifier": "gis-qgs"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is a QGS file?

@@ -1,19 +1,20 @@
 {
-  "date" : "2022-12-11",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-12-11",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"What is a BO2 file?",
-  "title" : "BO2 - Minecraft BO2 Object File Format",
-  "linktitle" : "BO2",
-  "menu" : {
-    "docs" : {
-      "parent" : "game"
+  "draft": "false",
+  "toc": true,
+  "description": "What is a BO2 file?",
+  "title": "BO2 - Minecraft BO2 Object File Format",
+  "linktitle": "BO2",
+  "menu": {
+    "docs": {
+      "parent": "game",
+      "identifier": "game-bo2"
     }
   },
-  "lastmod" : "2022-12-11"
+  "lastmod": "2022-12-11"
 }
 
 ## What is a BO2 file?

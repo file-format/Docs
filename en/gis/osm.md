@@ -1,20 +1,29 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "osm file", "what is an osm file", "file", "osm example", "osm file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "osm file",
+    "what is an osm file",
+    "file",
+    "osm example",
+    "osm file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "OSM - OpenStreetMap File Format",
-  "description":"Learn about OSM file format and APIs that can create and open OSM files.",
-  "linktitle" : "OSM",
-  "menu" : {
-    "docs" : {
-      "parent" : "gis"
+  "draft": "false",
+  "toc": true,
+  "title": "OSM - OpenStreetMap File Format",
+  "description": "Learn about OSM file format and APIs that can create and open OSM files.",
+  "linktitle": "OSM",
+  "menu": {
+    "docs": {
+      "parent": "gis",
+      "identifier": "gis-osm"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is an OSM file?

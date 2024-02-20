@@ -1,19 +1,20 @@
 {
-  "date" : "2022-12-13",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-12-13",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about MCR file format and APIs that can create and open MCR files.",
-  "title" : "MCR - Minecraft Region File Format",
-  "linktitle" : "MCR",
-  "menu" : {
-    "docs" : {
-      "parent" : "game"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about MCR file format and APIs that can create and open MCR files.",
+  "title": "MCR - Minecraft Region File Format",
+  "linktitle": "MCR",
+  "menu": {
+    "docs": {
+      "parent": "game",
+      "identifier": "game-mcr"
     }
   },
-  "lastmod" : "2022-12-14"
+  "lastmod": "2022-12-14"
 }
 
 ## What is an MCR file?

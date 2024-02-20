@@ -1,20 +1,30 @@
 {
-  "date" : "2021-07-30",
-  "keywords" : [ "dlg file", "dlg file format", "what is a dlg file", "file", "dlg example", "dlg file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-07-30",
+  "keywords": [
+    "dlg file",
+    "dlg file format",
+    "what is a dlg file",
+    "file",
+    "dlg example",
+    "dlg file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "DLG - Shapefile Shape Index Format",
-  "description":"Learn about DLG file format and APIs that can create and open DLG files.",
-  "linktitle" : "DLG",
-  "menu" : {
-    "docs" : {
-      "parent" : "gis"
+  "draft": "false",
+  "toc": true,
+  "title": "DLG - Shapefile Shape Index Format",
+  "description": "Learn about DLG file format and APIs that can create and open DLG files.",
+  "linktitle": "DLG",
+  "menu": {
+    "docs": {
+      "parent": "gis",
+      "identifier": "gis-dlg"
     }
   },
-  "lastmod" : "2021-07-30"
+  "lastmod": "2021-07-30"
 }
 
 ## What is a DLG file?

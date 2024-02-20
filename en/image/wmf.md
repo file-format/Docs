@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "wmf file", "wmf file format", "what is a wmf file", "file", "wmf example", "wmf file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "wmf file",
+    "wmf file format",
+    "what is a wmf file",
+    "file",
+    "wmf example",
+    "wmf file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "WMF - Microsoft Windows Metafile Format",
-  "description":"Learn about WMF file format and APIs that can create and open WMF files.",
-  "linktitle" : "WMF",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
+  "draft": "false",
+  "toc": true,
+  "title": "WMF - Microsoft Windows Metafile Format",
+  "description": "Learn about WMF file format and APIs that can create and open WMF files.",
+  "linktitle": "WMF",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-wmf"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is a WMF file?

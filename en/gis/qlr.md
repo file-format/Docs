@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "qlr file", "qlr file format", "what is an qlr file", "file", "qlr example", "qlr file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "qlr file",
+    "qlr file format",
+    "what is an qlr file",
+    "file",
+    "qlr example",
+    "qlr file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "QLR - QGIS Layer Definition File",
-  "description":"Learn about QLR file format and APIs that can create and open QLR files.",
-  "linktitle" : "QLR",
-  "menu" : {
-    "docs" : {
-      "parent" : "gis"
+  "draft": "false",
+  "toc": true,
+  "title": "QLR - QGIS Layer Definition File",
+  "description": "Learn about QLR file format and APIs that can create and open QLR files.",
+  "linktitle": "QLR",
+  "menu": {
+    "docs": {
+      "parent": "gis",
+      "identifier": "gis-qlr"
     }
   },
-  "lastmod" : "2021-03-14"
+  "lastmod": "2021-03-14"
 }
 
 ## What is a QLR file?

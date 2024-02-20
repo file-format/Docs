@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "png file", "png file format", "what is a png file", "file", "png example", "png file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "png file",
+    "png file format",
+    "what is a png file",
+    "file",
+    "png example",
+    "png file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "PNG File Format - Raster Image File",
-  "description":"Learn about PNG file format and APIs that can create and open PNG files.",
-  "linktitle" : "PNG",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
+  "draft": "false",
+  "toc": true,
+  "title": "PNG File Format - Raster Image File",
+  "description": "Learn about PNG file format and APIs that can create and open PNG files.",
+  "linktitle": "PNG",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-png"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is a PNG file?

@@ -1,19 +1,20 @@
 {
-  "date" : "2022-01-26",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-01-26",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "LRC File Format - What is an LRC file?",
-  "description":"Learn about the LRC Lyric file and APIs that can create and open LRC files.",
-  "linktitle" : "LRC",
-  "menu" : {
-    "docs" : {
-      "parent" : "misc"
+  "draft": "false",
+  "toc": true,
+  "title": "LRC File Format - What is an LRC file?",
+  "description": "Learn about the LRC Lyric file and APIs that can create and open LRC files.",
+  "linktitle": "LRC",
+  "menu": {
+    "docs": {
+      "parent": "misc",
+      "identifier": "misc-lrc"
     }
   },
-  "lastmod" : "2022-01-26"
+  "lastmod": "2022-01-26"
 }
 
 ## What is an LRC file?

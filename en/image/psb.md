@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "psb file", "psb file format", "what is a psb file", "file", "psb example", "psb file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "psb file",
+    "psb file format",
+    "what is a psb file",
+    "file",
+    "psb example",
+    "psb file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "PSB - Photoshop Big Image File Format",
-  "description":"Learn about PSB file format and APIs that can create and open PSB files.",
-  "linktitle" : "PSB",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
+  "draft": "false",
+  "toc": true,
+  "title": "PSB - Photoshop Big Image File Format",
+  "description": "Learn about PSB file format and APIs that can create and open PSB files.",
+  "linktitle": "PSB",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-psb"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is a PSB file?

@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "wmz file", "wmz file format", "what is a wmz file", "file", "wmz example", "wmz file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "wmz file",
+    "wmz file format",
+    "what is a wmz file",
+    "file",
+    "wmz example",
+    "wmz file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "WMZ File Format - Compressed Windows Metafile",
-  "description":"Learn about WMZ file format and APIs that can create and open WMZ files.",
-  "linktitle" : "WMZ",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
+  "draft": "false",
+  "toc": true,
+  "title": "WMZ File Format - Compressed Windows Metafile",
+  "description": "Learn about WMZ file format and APIs that can create and open WMZ files.",
+  "linktitle": "WMZ",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-wmz"
     }
   },
-  "lastmod" : "2020-10-24"
+  "lastmod": "2020-10-24"
 }
 
 ## What is an WMZ file?

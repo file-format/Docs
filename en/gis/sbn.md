@@ -1,19 +1,20 @@
 {
-  "date" : "2021-08-24",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-08-24",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "SBN - ESRI Spatial Index Binary File",
-  "description":"Learn about SBN file format and APIs that can create and open SBN files.",
-  "linktitle" : "SBN",
-  "menu" : {
-    "docs" : {
-      "parent" : "gis"
+  "draft": "false",
+  "toc": true,
+  "title": "SBN - ESRI Spatial Index Binary File",
+  "description": "Learn about SBN file format and APIs that can create and open SBN files.",
+  "linktitle": "SBN",
+  "menu": {
+    "docs": {
+      "parent": "gis",
+      "identifier": "gis-sbn"
     }
   },
-  "lastmod" : "2021-09-29"
+  "lastmod": "2021-09-29"
 }
 
 ## What is an SBN file?

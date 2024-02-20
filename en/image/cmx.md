@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "cmx file", "cmx file format", "what is a cmx file", "file", "cmx example", "cmx file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "cmx file",
+    "cmx file format",
+    "what is a cmx file",
+    "file",
+    "cmx example",
+    "cmx file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "CMX - Corel Metafile Exchange Image",
-  "description":"Learn about CMX file format and APIs that can create and open CMX files.",
-  "linktitle" : "CMX",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
+  "draft": "false",
+  "toc": true,
+  "title": "CMX - Corel Metafile Exchange Image",
+  "description": "Learn about CMX file format and APIs that can create and open CMX files.",
+  "linktitle": "CMX",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-cmx"
     }
   },
-  "lastmod" : "2020-08-03"
+  "lastmod": "2020-08-03"
 }
 
 ## What is a CMX file?

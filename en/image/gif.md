@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "gif file", "gif file format", "what is a gif file", "file", "gif example", "gif file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "gif file",
+    "gif file format",
+    "what is a gif file",
+    "file",
+    "gif example",
+    "gif file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "GIF - Image File Format",
-  "description":"Learn about GIF file format and APIs that can create and open GIF files.",
-  "linktitle" : "GIF",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
+  "draft": "false",
+  "toc": true,
+  "title": "GIF - Image File Format",
+  "description": "Learn about GIF file format and APIs that can create and open GIF files.",
+  "linktitle": "GIF",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-gif"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is a GIF file? ##

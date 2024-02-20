@@ -1,19 +1,20 @@
 {
-  "date" : "2022-12-21",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-12-21",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "PTM File - MapPoint Map File Format",
-  "description":"Learn about PTM file format and APIs that can create and open PTM files.",
-  "linktitle" : "PTM",
-  "menu" : {
-    "docs" : {
-      "parent" : "gis"
+  "draft": "false",
+  "toc": true,
+  "title": "PTM File - MapPoint Map File Format",
+  "description": "Learn about PTM file format and APIs that can create and open PTM files.",
+  "linktitle": "PTM",
+  "menu": {
+    "docs": {
+      "parent": "gis",
+      "identifier": "gis-ptm"
     }
   },
-  "lastmod" : "2022-12-21"
+  "lastmod": "2022-12-21"
 }
 
 ## What is a PTM file?

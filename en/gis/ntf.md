@@ -1,20 +1,30 @@
 {
-  "date" : "2021-07-28",
-  "keywords" : [ "ntf file", "ntf file format", "what is an ntf file", "file", "ntf example", "ntf file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-07-28",
+  "keywords": [
+    "ntf file",
+    "ntf file format",
+    "what is an ntf file",
+    "file",
+    "ntf example",
+    "ntf file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "NTF - National Transfer Format Files",
-  "description":"Learn about NTF file format and APIs that can create and open NTF files.",
-  "linktitle" : "NTF",
-  "menu" : {
-    "docs" : {
-      "parent" : "gis"
+  "draft": "false",
+  "toc": true,
+  "title": "NTF - National Transfer Format Files",
+  "description": "Learn about NTF file format and APIs that can create and open NTF files.",
+  "linktitle": "NTF",
+  "menu": {
+    "docs": {
+      "parent": "gis",
+      "identifier": "gis-ntf"
     }
   },
-  "lastmod" : "2021-07-28"
+  "lastmod": "2021-07-28"
 }
 
 ## What is an NTF file?

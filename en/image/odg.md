@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "odg file", "odg file format", "what is an odg file", "file", "odg example", "odg file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "odg file",
+    "odg file format",
+    "what is an odg file",
+    "file",
+    "odg example",
+    "odg file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ODG File Format",
-  "description":"Learn about ODG file format and APIs that can create and open ODG files.",
-  "linktitle" : "ODG",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
+  "draft": "false",
+  "toc": true,
+  "title": "ODG File Format",
+  "description": "Learn about ODG file format and APIs that can create and open ODG files.",
+  "linktitle": "ODG",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-odg"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is an ODG file?

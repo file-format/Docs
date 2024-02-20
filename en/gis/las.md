@@ -1,19 +1,20 @@
 {
-  "date" : "2023-07-18",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2023-07-18",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "LAS - Lidar LASer File Format",
-  "description":"Learn about LAS file format and APIs that can create and open LAS files.",
-  "linktitle" : "LAS",
-  "menu" : {
-    "docs" : {
-      "parent" : "gis"
+  "draft": "false",
+  "toc": true,
+  "title": "LAS - Lidar LASer File Format",
+  "description": "Learn about LAS file format and APIs that can create and open LAS files.",
+  "linktitle": "LAS",
+  "menu": {
+    "docs": {
+      "parent": "gis",
+      "identifier": "gis-las"
     }
   },
-  "lastmod" : "2023-07-18"
+  "lastmod": "2023-07-18"
 }
 
 ## What is a LAS File?

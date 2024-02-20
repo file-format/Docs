@@ -1,20 +1,30 @@
 {
-  "date" : "2021-26-08",
-  "keywords" : [ "ecw file", "ecw file format", "what is a ecw file", "file", "ecw example", "ecw file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-26-08",
+  "keywords": [
+    "ecw file",
+    "ecw file format",
+    "what is a ecw file",
+    "file",
+    "ecw example",
+    "ecw file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ECW - Enhanced Compression Wavelet Image File",
-  "description":"Learn about ECW file format and APIs that can create and open ECW files.",
-  "linktitle" : "ECW",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
+  "draft": "false",
+  "toc": true,
+  "title": "ECW - Enhanced Compression Wavelet Image File",
+  "description": "Learn about ECW file format and APIs that can create and open ECW files.",
+  "linktitle": "ECW",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-ecw"
     }
   },
-  "lastmod" : "2021-26-08"
+  "lastmod": "2021-26-08"
 }
 
 ## What is a ECW file? ##

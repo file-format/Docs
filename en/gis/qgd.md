@@ -1,20 +1,29 @@
 {
-  "date" : "2021-03-18",
-  "author" : {
-    "display_name" : "Muhammad Umar",
-	"keywords" : [ "QGD", "Sqlite Database of the QGIS Project", "extension", "format", "QGIS", "Auxilary Database", "What is a QGD file"]
+  "date": "2021-03-18",
+  "author": {
+    "display_name": "Muhammad Umar",
+    "keywords": [
+      "QGD",
+      "Sqlite Database of the QGIS Project",
+      "extension",
+      "format",
+      "QGIS",
+      "Auxilary Database",
+      "What is a QGD file"
+    ]
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "QGD - Sqlite Database of the QGIS Project",
-  "description":"Learn about QGD which is an sqlite database of the QGIS project and APIs that can create and open QGD files.",
-  "linktitle" : "QGD",
-  "menu" : {
-    "docs" : {
-      "parent" : "gis"
+  "draft": "false",
+  "toc": true,
+  "title": "QGD - Sqlite Database of the QGIS Project",
+  "description": "Learn about QGD which is an sqlite database of the QGIS project and APIs that can create and open QGD files.",
+  "linktitle": "QGD",
+  "menu": {
+    "docs": {
+      "parent": "gis",
+      "identifier": "gis-qgd"
     }
   },
-  "lastmod" : "2021-03-18"
+  "lastmod": "2021-03-18"
 }
 
 ## What is a QGD file?

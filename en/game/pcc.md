@@ -1,20 +1,30 @@
 {
-  "date" : "2021-09-08",
-  "keywords" : [ "pcc file", "pcc file format", "what is a pcc file", "file", "pcc example", "pcc file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-09-08",
+  "keywords": [
+    "pcc file",
+    "pcc file format",
+    "what is a pcc file",
+    "file",
+    "pcc example",
+    "pcc file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about Mass Effect PCC file format and APIs that can create and open PCC files.",
-  "title" : "PCC - Mass Effect Package File",
-  "linktitle" : "PCC",
-  "menu" : {
-    "docs" : {
-      "parent" : "game"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about Mass Effect PCC file format and APIs that can create and open PCC files.",
+  "title": "PCC - Mass Effect Package File",
+  "linktitle": "PCC",
+  "menu": {
+    "docs": {
+      "parent": "game",
+      "identifier": "game-pcc"
     }
   },
-  "lastmod" : "2021-09-08"
+  "lastmod": "2021-09-08"
 }
 
 ## What is a PCC file?

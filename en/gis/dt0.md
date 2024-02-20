@@ -1,19 +1,20 @@
 {
-  "date" : "2022-12-07",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-12-07",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "DT0 File - DTED Level 0 File Format",
-  "description":"Learn about DT0 file format and APIs that can create and open DT0 files.",
-  "linktitle" : "DT0",
-  "menu" : {
-    "docs" : {
-      "parent" : "gis"
+  "draft": "false",
+  "toc": true,
+  "title": "DT0 File - DTED Level 0 File Format",
+  "description": "Learn about DT0 file format and APIs that can create and open DT0 files.",
+  "linktitle": "DT0",
+  "menu": {
+    "docs": {
+      "parent": "gis",
+      "identifier": "gis-dt0"
     }
   },
-  "lastmod" : "2022-12-07"
+  "lastmod": "2022-12-07"
 }
 
 ## What is a DT0 file?

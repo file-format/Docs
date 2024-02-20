@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "webp file", "webp file format", "what is a webp file", "file", "webp example", "webp file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "webp file",
+    "webp file format",
+    "what is a webp file",
+    "file",
+    "webp example",
+    "webp file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "WEBP - Google Raster Image File Format",
-  "description":"Learn about WEBP file format and APIs that can create and open WEBP files.",
-  "linktitle" : "WEBP",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
+  "draft": "false",
+  "toc": true,
+  "title": "WEBP - Google Raster Image File Format",
+  "description": "Learn about WEBP file format and APIs that can create and open WEBP files.",
+  "linktitle": "WEBP",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-webp"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is a WEBP file?

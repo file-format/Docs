@@ -1,20 +1,30 @@
 {
-  "date" : "2022-01-26",
-  "keywords" : [ "klq file", "klq file format", "what is a klq file", "file", "klq example", "klq file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-01-26",
+  "keywords": [
+    "klq file",
+    "klq file format",
+    "what is a klq file",
+    "file",
+    "klq example",
+    "klq file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "KLQ - Kaspersky Quarantine File",
-  "description":"Learn about KLQ file format and APIs that can create and open KLQ files.",
-  "linktitle" : "KLQ",
-  "menu" : {
-    "docs" : {
-      "parent" : "misc"
+  "draft": "false",
+  "toc": true,
+  "title": "KLQ - Kaspersky Quarantine File",
+  "description": "Learn about KLQ file format and APIs that can create and open KLQ files.",
+  "linktitle": "KLQ",
+  "menu": {
+    "docs": {
+      "parent": "misc",
+      "identifier": "misc-klq"
     }
   },
-  "lastmod" : "2022-01-26"
+  "lastmod": "2022-01-26"
 }
 
 ## What is a KLQ file?

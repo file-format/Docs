@@ -1,20 +1,30 @@
 {
-  "date" : "2020-01-10",
-  "keywords" : [ "otg file", "otg file format", "what is a otg file", "file", "otg example", "otg file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2020-01-10",
+  "keywords": [
+    "otg file",
+    "otg file format",
+    "what is a otg file",
+    "file",
+    "otg example",
+    "otg file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "OTG - OpenDocument Drawing Template File Format",
-  "description":"Learn about OTG file format and APIs that can create and open OTG files.",
-  "linktitle" : "OTG",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
+  "draft": "false",
+  "toc": true,
+  "title": "OTG - OpenDocument Drawing Template File Format",
+  "description": "Learn about OTG file format and APIs that can create and open OTG files.",
+  "linktitle": "OTG",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-otg"
     }
   },
-  "lastmod" : "2020-01-10"
+  "lastmod": "2020-01-10"
 }
 
 ## What is an OTG file?

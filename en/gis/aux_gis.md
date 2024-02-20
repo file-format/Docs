@@ -1,19 +1,20 @@
 {
-  "date" : "2021-08-24",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-08-24",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "AUX - Auxiliary File",
-  "description":"Learn about AUX file format and APIs that can create and open AUX files.",
-  "linktitle" : "AUX",
-  "menu" : {
-    "docs" : {
-      "parent" : "gis"
+  "draft": "false",
+  "toc": true,
+  "title": "AUX - Auxiliary File",
+  "description": "Learn about AUX file format and APIs that can create and open AUX files.",
+  "linktitle": "AUX",
+  "menu": {
+    "docs": {
+      "parent": "gis",
+      "identifier": "gis-aux_gis"
     }
   },
-  "lastmod" : "2021-08-24"
+  "lastmod": "2021-08-24"
 }
 
 ## What is an AUX file?

@@ -1,20 +1,29 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "kmz file", "what is an kmz file", "file", "kmz example", "kmz file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "kmz file",
+    "what is an kmz file",
+    "file",
+    "kmz example",
+    "kmz file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "KMZ - KML Zipped File Format",
-  "description":"Learn about KMZ file format and APIs that can create and open KMZ files.",
-  "linktitle" : "KMZ",
-  "menu" : {
-    "docs" : {
-      "parent" : "gis"
+  "draft": "false",
+  "toc": true,
+  "title": "KMZ - KML Zipped File Format",
+  "description": "Learn about KMZ file format and APIs that can create and open KMZ files.",
+  "linktitle": "KMZ",
+  "menu": {
+    "docs": {
+      "parent": "gis",
+      "identifier": "gis-kmz"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is a KMZ file?

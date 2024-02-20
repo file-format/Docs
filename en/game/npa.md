@@ -1,19 +1,20 @@
 {
-  "date" : "2022-11-24",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-11-24",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about Steins;Gate Archive NPA file format and APIs that can create and open NPA files.",
-  "title" : "NPA File - Steins;Gate Archive File Format",
-  "linktitle" : "NPA",
-  "menu" : {
-    "docs" : {
-      "parent" : "game"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about Steins;Gate Archive NPA file format and APIs that can create and open NPA files.",
+  "title": "NPA File - Steins;Gate Archive File Format",
+  "linktitle": "NPA",
+  "menu": {
+    "docs": {
+      "parent": "game",
+      "identifier": "game-npa"
     }
   },
-  "lastmod" : "2022-11-24"
+  "lastmod": "2022-11-24"
 }
 
 ## What is an NPA file?

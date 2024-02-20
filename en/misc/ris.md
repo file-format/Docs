@@ -1,20 +1,30 @@
 {
-  "date" : "2022-01-12",
-  "keywords" : [ "ris file", "ris file format", "what is an ris file", "file", "ris example", "ris file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-01-12",
+  "keywords": [
+    "ris file",
+    "ris file format",
+    "what is an ris file",
+    "file",
+    "ris example",
+    "ris file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "RIS - Research Information Systems Citation File",
-  "description":"Learn about RIS file and APIs that can create and open RIS files.",
-  "linktitle" : "RIS",
-  "menu" : {
-    "docs" : {
-      "parent" : "misc"
+  "draft": "false",
+  "toc": true,
+  "title": "RIS - Research Information Systems Citation File",
+  "description": "Learn about RIS file and APIs that can create and open RIS files.",
+  "linktitle": "RIS",
+  "menu": {
+    "docs": {
+      "parent": "misc",
+      "identifier": "misc-ris"
     }
   },
-  "lastmod" : "2022-01-12"
+  "lastmod": "2022-01-12"
 }
 
 ## What is an RIS file?

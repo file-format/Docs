@@ -1,20 +1,30 @@
 {
-  "date" : "2022-01-12",
-  "keywords" : [ "ica file", "ica file format", "what is an ica file", "file", "ica example", "ica file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-01-12",
+  "keywords": [
+    "ica file",
+    "ica file format",
+    "what is an ica file",
+    "file",
+    "ica example",
+    "ica file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ICA - Citrix ICA File",
-  "description":"Learn about ICA file extension and APIs that can create and open ICA files.",
-  "linktitle" : "ICA",
-  "menu" : {
-    "docs" : {
-      "parent" : "misc"
+  "draft": "false",
+  "toc": true,
+  "title": "ICA - Citrix ICA File",
+  "description": "Learn about ICA file extension and APIs that can create and open ICA files.",
+  "linktitle": "ICA",
+  "menu": {
+    "docs": {
+      "parent": "misc",
+      "identifier": "misc-ica"
     }
   },
-  "lastmod" : "2022-01-12"
+  "lastmod": "2022-01-12"
 }
 
 ## What is an ICA file?

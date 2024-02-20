@@ -1,20 +1,29 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "kml file", "what is an kml file", "file", "kml example", "kml file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "kml file",
+    "what is an kml file",
+    "file",
+    "kml example",
+    "kml file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "KML - Keyhole Markup Language",
-  "description":"Learn about KML file format and APIs that can create and open KML files.",
-  "linktitle" : "KML",
-  "menu" : {
-    "docs" : {
-      "parent" : "gis"
+  "draft": "false",
+  "toc": true,
+  "title": "KML - Keyhole Markup Language",
+  "description": "Learn about KML file format and APIs that can create and open KML files.",
+  "linktitle": "KML",
+  "menu": {
+    "docs": {
+      "parent": "gis",
+      "identifier": "gis-kml"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is a KML file?

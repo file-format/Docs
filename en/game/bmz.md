@@ -1,20 +1,30 @@
 {
-  "date" : "2021-10-20",
-  "keywords" : [ "bmz file", "bmz file format", "what is a bmz file", "file", "bmz example", "Portal Bonus Map Zip File","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-10-20",
+  "keywords": [
+    "bmz file",
+    "bmz file format",
+    "what is a bmz file",
+    "file",
+    "bmz example",
+    "Portal Bonus Map Zip File",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about Portal Bonus Map ZIP BMZ file format and APIs that can create and open BMZ files.",
-  "title" : "BMZ - Portal Bonus Map ZIP File",
-  "linktitle" : "BMZ",
-  "menu" : {
-    "docs" : {
-      "parent" : "game"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about Portal Bonus Map ZIP BMZ file format and APIs that can create and open BMZ files.",
+  "title": "BMZ - Portal Bonus Map ZIP File",
+  "linktitle": "BMZ",
+  "menu": {
+    "docs": {
+      "parent": "game",
+      "identifier": "game-bmz"
     }
   },
-  "lastmod" : "2021-10-20"
+  "lastmod": "2021-10-20"
 }
 
 ## What is a BMZ file?

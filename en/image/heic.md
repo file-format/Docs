@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "heic file", "heic file format", "what is a heic file", "file", "heic example", "heic file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "heic file",
+    "heic file format",
+    "what is a heic file",
+    "file",
+    "heic example",
+    "heic file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "HEIC - High-Efficiency Image File Format",
-  "description":"Learn about .heic file and APIs that can create and open HEIC files.",
-  "linktitle" : "HEIC",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
+  "draft": "false",
+  "toc": true,
+  "title": "HEIC - High-Efficiency Image File Format",
+  "description": "Learn about .heic file and APIs that can create and open HEIC files.",
+  "linktitle": "HEIC",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-heic"
     }
   },
-  "lastmod" : "2021-03-29"
+  "lastmod": "2021-03-29"
 }
 
 ## What is an HEIC file?

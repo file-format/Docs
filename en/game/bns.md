@@ -1,20 +1,30 @@
 {
-  "date" : "2021-10-20",
-  "keywords" : [ "bns file", "bns file format", "what is a bns file", "file", "bns example", "Portal Bonus Map Script file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-10-20",
+  "keywords": [
+    "bns file",
+    "bns file format",
+    "what is a bns file",
+    "file",
+    "bns example",
+    "Portal Bonus Map Script file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about ortal Bonus Map Script BNS file format and APIs that can create and open BNS files.",
-  "title" : "BNS - Portal Bonus Map Script File",
-  "linktitle" : "BNS",
-  "menu" : {
-    "docs" : {
-      "parent" : "game"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about ortal Bonus Map Script BNS file format and APIs that can create and open BNS files.",
+  "title": "BNS - Portal Bonus Map Script File",
+  "linktitle": "BNS",
+  "menu": {
+    "docs": {
+      "parent": "game",
+      "identifier": "game-bns"
     }
   },
-  "lastmod" : "2021-10-20"
+  "lastmod": "2021-10-20"
 }
 
 ## What is a BNS file?

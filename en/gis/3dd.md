@@ -1,19 +1,20 @@
 {
-  "date" : "2021-09-19",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-09-19",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "3DD - ArcGlobe Document",
-  "description":"Learn about 3DD GIS file format and APIs that can create and open 3DD files.",
-  "linktitle" : "3DD",
-  "menu" : {
-    "docs" : {
-      "parent" : "gis"
+  "draft": "false",
+  "toc": true,
+  "title": "3DD - ArcGlobe Document",
+  "description": "Learn about 3DD GIS file format and APIs that can create and open 3DD files.",
+  "linktitle": "3DD",
+  "menu": {
+    "docs": {
+      "parent": "gis",
+      "identifier": "gis-3dd"
     }
   },
-  "lastmod" : "2021-09-19"
+  "lastmod": "2021-09-19"
 }
 
 ## What is a 3DD file?

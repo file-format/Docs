@@ -1,19 +1,20 @@
 {
-  "date" : "2022-12-07",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-12-07",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "DT2 File - DTED Level 2 File Format",
-  "description":"Learn about DT2 file format and APIs that can create and open DT2 files.",
-  "linktitle" : "DT2",
-  "menu" : {
-    "docs" : {
-      "parent" : "gis"
+  "draft": "false",
+  "toc": true,
+  "title": "DT2 File - DTED Level 2 File Format",
+  "description": "Learn about DT2 file format and APIs that can create and open DT2 files.",
+  "linktitle": "DT2",
+  "menu": {
+    "docs": {
+      "parent": "gis",
+      "identifier": "gis-dt2"
     }
   },
-  "lastmod" : "2022-12-07"
+  "lastmod": "2022-12-07"
 }
 
 ## What is a DT2 file?

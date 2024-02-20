@@ -1,19 +1,20 @@
 {
-  "date" : "2022-03-06",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-03-06",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "PPP File - PhotoPad Project File Format",
-  "description":"Learn about PSD file format and APIs that can create and open PSD files.",
-  "linktitle" : "PPP",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
+  "draft": "false",
+  "toc": true,
+  "title": "PPP File - PhotoPad Project File Format",
+  "description": "Learn about PSD file format and APIs that can create and open PSD files.",
+  "linktitle": "PPP",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-ppp"
     }
   },
-  "lastmod" : "2022-03-06"
+  "lastmod": "2022-03-06"
 }
 
 ## What is a PPP file?

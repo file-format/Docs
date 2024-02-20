@@ -1,19 +1,20 @@
 {
-  "date" : "2022-11-20",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-11-20",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about Age of Empires 3 Map AI Generator file format and APIs that can create and open XS files.",
-  "title" : "XS File - Age of Empires 3 Map AI Generator File Format",
-  "linktitle" : "XS",
-  "menu" : {
-    "docs" : {
-      "parent" : "game"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about Age of Empires 3 Map AI Generator file format and APIs that can create and open XS files.",
+  "title": "XS File - Age of Empires 3 Map AI Generator File Format",
+  "linktitle": "XS",
+  "menu": {
+    "docs": {
+      "parent": "game",
+      "identifier": "game-xs"
     }
   },
-  "lastmod" : "2022-11-20"
+  "lastmod": "2022-11-20"
 }
 
 ## What is an XS file?

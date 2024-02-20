@@ -1,19 +1,20 @@
 {
-  "date" : "2022-04-17",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-04-17",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "JPC File Format - JPEG 2000 Code Stream File",
-  "description":"Learn about JPC file format and APIs that can create and open JPC files.",
-  "linktitle" : "JPC",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
+  "draft": "false",
+  "toc": true,
+  "title": "JPC File Format - JPEG 2000 Code Stream File",
+  "description": "Learn about JPC file format and APIs that can create and open JPC files.",
+  "linktitle": "JPC",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-jpc"
     }
   },
-  "lastmod" : "2022-04-17"
+  "lastmod": "2022-04-17"
 }
 
 ## What is a JPC file?

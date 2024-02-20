@@ -1,19 +1,20 @@
 {
-  "date" : "2021-08-24",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-08-24",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "SP3 - NGS SP3 File",
-  "description":"Learn about SP3 file format and APIs that can create and open SP3 files.",
-  "linktitle" : "SP3",
-  "menu" : {
-    "docs" : {
-      "parent" : "gis"
+  "draft": "false",
+  "toc": true,
+  "title": "SP3 - NGS SP3 File",
+  "description": "Learn about SP3 file format and APIs that can create and open SP3 files.",
+  "linktitle": "SP3",
+  "menu": {
+    "docs": {
+      "parent": "gis",
+      "identifier": "gis-sp3"
     }
   },
-  "lastmod" : "2021-09-29"
+  "lastmod": "2021-09-29"
 }
 
 ## What is an SP3 file?

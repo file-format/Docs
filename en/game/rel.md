@@ -1,20 +1,30 @@
 {
-  "date" : "2021-09-08",
-  "keywords" : [ "rel file", "rel file format", "what is a rel file", "file", "rel example", "rel file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-09-08",
+  "keywords": [
+    "rel file",
+    "rel file format",
+    "what is a rel file",
+    "file",
+    "rel example",
+    "rel file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about REL file format and APIs that can create and open REL files.",
-  "title" : "REL - Relocatable Module File",
-  "linktitle" : "REL",
-  "menu" : {
-    "docs" : {
-      "parent" : "game"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about REL file format and APIs that can create and open REL files.",
+  "title": "REL - Relocatable Module File",
+  "linktitle": "REL",
+  "menu": {
+    "docs": {
+      "parent": "game",
+      "identifier": "game-rel"
     }
   },
-  "lastmod" : "2021-09-08"
+  "lastmod": "2021-09-08"
 }
 
 ## What is a REL file?

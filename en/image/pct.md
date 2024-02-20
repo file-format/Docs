@@ -1,19 +1,20 @@
 {
-  "date" : "2022-03-16",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-03-16",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "PCT File Format - What is a PCT file?",
-  "description":"Learn about PCT file format and APIs that can create and open PCT files.",
-  "linktitle" : "PCT",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
+  "draft": "false",
+  "toc": true,
+  "title": "PCT File Format - What is a PCT file?",
+  "description": "Learn about PCT file format and APIs that can create and open PCT files.",
+  "linktitle": "PCT",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-pct"
     }
   },
-  "lastmod" : "2022-03-16"
+  "lastmod": "2022-03-16"
 }
 
 ## What is a PCT file?

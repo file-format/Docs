@@ -1,20 +1,30 @@
 {
-  "date" : "2021-09-08",
-  "keywords" : [ "w3n file", "w3n file format", "what is a w3n file", "file", "w3n example", "w3n file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-09-08",
+  "keywords": [
+    "w3n file",
+    "w3n file format",
+    "what is a w3n file",
+    "file",
+    "w3n example",
+    "w3n file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about Warcraft III Frozen Throne W3N file format and APIs that can create and open W3N files.",
-  "title" : "W3N - Warcraft 3 Expansion Campaign Map File",
-  "linktitle" : "W3N",
-  "menu" : {
-    "docs" : {
-      "parent" : "game"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about Warcraft III Frozen Throne W3N file format and APIs that can create and open W3N files.",
+  "title": "W3N - Warcraft 3 Expansion Campaign Map File",
+  "linktitle": "W3N",
+  "menu": {
+    "docs": {
+      "parent": "game",
+      "identifier": "game-w3n"
     }
   },
-  "lastmod" : "2021-09-08"
+  "lastmod": "2021-09-08"
 }
 
 ## What is a W3N file?

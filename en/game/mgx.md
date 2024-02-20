@@ -1,20 +1,30 @@
 {
-  "date" : "2021-09-08",
-  "keywords" : [ "mgx file", "mgx file format", "what is a mgx file", "file", "mgx example", "mgx file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-09-08",
+  "keywords": [
+    "mgx file",
+    "mgx file format",
+    "what is a mgx file",
+    "file",
+    "mgx example",
+    "mgx file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about Age of Empires 2 Expansion Replay MGX file format and APIs that can create and open MGX files.",
-  "title" : "MGX - Age of Empires 2 Expansion Replay",
-  "linktitle" : "MGX",
-  "menu" : {
-    "docs" : {
-      "parent" : "game"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about Age of Empires 2 Expansion Replay MGX file format and APIs that can create and open MGX files.",
+  "title": "MGX - Age of Empires 2 Expansion Replay",
+  "linktitle": "MGX",
+  "menu": {
+    "docs": {
+      "parent": "game",
+      "identifier": "game-mgx"
     }
   },
-  "lastmod" : "2021-09-08"
+  "lastmod": "2021-09-08"
 }
 
 ## What is an MGX file?

@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "j2k file", "j2k file format", "what is a j2k file", "file", "j2k example", "j2k file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "j2k file",
+    "j2k file format",
+    "what is a j2k file",
+    "file",
+    "j2k example",
+    "j2k file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "J2K",
-  "description":"Learn about J2K file format and APIs that can create and open J2K files.",
-  "linktitle" : "J2K",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
+  "draft": "false",
+  "toc": true,
+  "title": "J2K",
+  "description": "Learn about J2K file format and APIs that can create and open J2K files.",
+  "linktitle": "J2K",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-j2k"
     }
   },
-  "lastmod" : "2020-08-03"
+  "lastmod": "2020-08-03"
 }
 
 ## What is a J2K file?

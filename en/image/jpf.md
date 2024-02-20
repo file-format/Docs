@@ -1,20 +1,30 @@
 {
-  "date" : "2021-02-10",
-  "keywords" : [ "jpf file", "jpf file format", "what is a jpf file", "file", "jpf example", "jpf file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-02-10",
+  "keywords": [
+    "jpf file",
+    "jpf file format",
+    "what is a jpf file",
+    "file",
+    "jpf example",
+    "jpf file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "JPF - Image File Format",
-  "description":"Learn about JPF file format and APIs that can create and open JPF files.",
-  "linktitle" : "JPF",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
+  "draft": "false",
+  "toc": true,
+  "title": "JPF - Image File Format",
+  "description": "Learn about JPF file format and APIs that can create and open JPF files.",
+  "linktitle": "JPF",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-jpf"
     }
   },
-  "lastmod" : "2021-02-10"
+  "lastmod": "2021-02-10"
 }
 
 ## What is a JPF file? ##

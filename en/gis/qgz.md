@@ -1,20 +1,30 @@
 {
-  "date" : "2021-03-18",
-  "keywords" : [ "qgz file", "qgz file format", "what is an qgz file", "file", "qgz example", "qgz file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-03-18",
+  "keywords": [
+    "qgz file",
+    "qgz file format",
+    "what is an qgz file",
+    "file",
+    "qgz example",
+    "qgz file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "QGZ - Quantum GIS Compressed Project",
-  "description":"Learn about QGZ file format which is just a compressed QGS and APIs that can create and open QGZ files.",
-  "linktitle" : "QGZ",
-  "menu" : {
-    "docs" : {
-      "parent" : "gis"
+  "draft": "false",
+  "toc": true,
+  "title": "QGZ - Quantum GIS Compressed Project",
+  "description": "Learn about QGZ file format which is just a compressed QGS and APIs that can create and open QGZ files.",
+  "linktitle": "QGZ",
+  "menu": {
+    "docs": {
+      "parent": "gis",
+      "identifier": "gis-qgz"
     }
   },
-  "lastmod" : "2021-03-18"
+  "lastmod": "2021-03-18"
 }
 
 ## What is a QGZ file?

@@ -1,20 +1,30 @@
 {
-  "date" : "2021-10-20",
-  "keywords" : [ "rep file", "rep file format", "what is a rep file", "file", "rep example", "Grand Theft Auto Replay file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-10-20",
+  "keywords": [
+    "rep file",
+    "rep file format",
+    "what is a rep file",
+    "file",
+    "rep example",
+    "Grand Theft Auto Replay file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about Grand Theft Auto REP file format and APIs that can create and open REP files.",
-  "title" : "REP - Grand Theft Auto Replay File",
-  "linktitle" : "REP",
-  "menu" : {
-    "docs" : {
-      "parent" : "game"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about Grand Theft Auto REP file format and APIs that can create and open REP files.",
+  "title": "REP - Grand Theft Auto Replay File",
+  "linktitle": "REP",
+  "menu": {
+    "docs": {
+      "parent": "game",
+      "identifier": "game-rep"
     }
   },
-  "lastmod" : "2021-10-20"
+  "lastmod": "2021-10-20"
 }
 
 ## What is a REP file?

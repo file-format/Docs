@@ -1,19 +1,20 @@
 {
-  "date" : "2022-04-02",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-04-02",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "DDS File Format- DirectDraw Surface Image File",
-  "description":"Learn about DDS file format and APIs that can create and open DDS files.",
-  "linktitle" : "DDS",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
+  "draft": "false",
+  "toc": true,
+  "title": "DDS File Format- DirectDraw Surface Image File",
+  "description": "Learn about DDS file format and APIs that can create and open DDS files.",
+  "linktitle": "DDS",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-dds"
     }
   },
-  "lastmod" : "2022-04-02"
+  "lastmod": "2022-04-02"
 }
 
 ## What is a DDS file?

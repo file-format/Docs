@@ -1,20 +1,30 @@
 {
-  "date" : "2021-09-07",
-  "keywords" : [ "mcworld file", "mcworld file format", "what is a mcworld file", "file", "mcworld example", "mcworld file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-09-07",
+  "keywords": [
+    "mcworld file",
+    "mcworld file format",
+    "what is a mcworld file",
+    "file",
+    "mcworld example",
+    "mcworld file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about MCWORLD file format and APIs that can create and open MCWORLD files.",
-  "title" : "MCWORLD - Minecraft World Backup File",
-  "linktitle" : "MCWORLD",
-  "menu" : {
-    "docs" : {
-      "parent" : "game"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about MCWORLD file format and APIs that can create and open MCWORLD files.",
+  "title": "MCWORLD - Minecraft World Backup File",
+  "linktitle": "MCWORLD",
+  "menu": {
+    "docs": {
+      "parent": "game",
+      "identifier": "game-mcworld"
     }
   },
-  "lastmod" : "2021-09-07"
+  "lastmod": "2021-09-07"
 }
 
 ## What is a MCWORLD file?

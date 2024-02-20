@@ -1,20 +1,28 @@
 {
-  "date" : "2021-09-08",
-  "keywords" : [ "fomod file", "format", "what is a fomod file", "file", "fomod example","extension"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-09-08",
+  "keywords": [
+    "fomod file",
+    "format",
+    "what is a fomod file",
+    "file",
+    "fomod example",
+    "extension"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about FOMOD file format and APIs that can create and open FOMOD files.",
-  "title" : "FOMOD - Fallout Mod Archive File",
-  "linktitle" : "FOMOD",
-  "menu" : {
-    "docs" : {
-      "parent" : "game"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about FOMOD file format and APIs that can create and open FOMOD files.",
+  "title": "FOMOD - Fallout Mod Archive File",
+  "linktitle": "FOMOD",
+  "menu": {
+    "docs": {
+      "parent": "game",
+      "identifier": "game-fomod"
     }
   },
-  "lastmod" : "2022-01-06"
+  "lastmod": "2022-01-06"
 }
 
 ## What is a FOMOD file?

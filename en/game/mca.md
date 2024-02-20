@@ -1,19 +1,20 @@
 {
-  "date" : "2022-12-13",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-12-13",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about MCA file format and APIs that can create and open MCA files.",
-  "title" : "MCA - Minecraft Anvil Region File Format",
-  "linktitle" : "MCA",
-  "menu" : {
-    "docs" : {
-      "parent" : "game"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about MCA file format and APIs that can create and open MCA files.",
+  "title": "MCA - Minecraft Anvil Region File Format",
+  "linktitle": "MCA",
+  "menu": {
+    "docs": {
+      "parent": "game",
+      "identifier": "game-mca"
     }
   },
-  "lastmod" : "2022-12-13"
+  "lastmod": "2022-12-13"
 }
 
 ## What is an MCA file?

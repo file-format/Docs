@@ -1,19 +1,20 @@
 {
-  "date" : "2022-04-27",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-04-27",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "PSPIMAGE File Format - PaintShop Pro Image File",
-  "description":"Learn about PSPIMAGE file format and APIs that can create and open PSPIMAGE files.",
-  "linktitle" : "PSPIMAGE",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
+  "draft": "false",
+  "toc": true,
+  "title": "PSPIMAGE File Format - PaintShop Pro Image File",
+  "description": "Learn about PSPIMAGE file format and APIs that can create and open PSPIMAGE files.",
+  "linktitle": "PSPIMAGE",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-pspimage"
     }
   },
-  "lastmod" : "2022-04-27"
+  "lastmod": "2022-04-27"
 }
 ## What is a PSPIMAGE file?
 

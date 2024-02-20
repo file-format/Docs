@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "jp2 file", "jp2 file format", "what is a jp2 file", "file", "jp2 example", "jp2 file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "jp2 file",
+    "jp2 file format",
+    "what is a jp2 file",
+    "file",
+    "jp2 example",
+    "jp2 file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "JP2 - Image File Format",
-  "description":"Learn about JP2 file format and APIs that can create and open JP2 files.",
-  "linktitle" : "JP2",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
+  "draft": "false",
+  "toc": true,
+  "title": "JP2 - Image File Format",
+  "description": "Learn about JP2 file format and APIs that can create and open JP2 files.",
+  "linktitle": "JP2",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-jp2"
     }
   },
-  "lastmod" : "2020-08-10"
+  "lastmod": "2020-08-10"
 }
 
 ## What is a JP2 file? ##

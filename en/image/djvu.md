@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "djvu file", "djvu file format", "what is a djvu file", "file", "djvu example", "djvu file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "djvu file",
+    "djvu file format",
+    "what is a djvu file",
+    "file",
+    "djvu example",
+    "djvu file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "DJVU File Format",
-  "description":"Learn about DJVU file format and APIs that can create and open DJVU files.",
-  "linktitle" : "DJVU",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
+  "draft": "false",
+  "toc": true,
+  "title": "DJVU File Format",
+  "description": "Learn about DJVU file format and APIs that can create and open DJVU files.",
+  "linktitle": "DJVU",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-djvu"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is a DJVU file?

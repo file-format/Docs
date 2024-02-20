@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "emz file", "emz file format", "what is a emz file", "file", "emz example", "emz file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "emz file",
+    "emz file format",
+    "what is a emz file",
+    "file",
+    "emz example",
+    "emz file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "EMZ File Format - A Windows Compressed Enhanced Meta file",
-  "description":"Learn about EMZ file format and APIs that can create and open EMZ files.",
-  "linktitle" : "EMZ",
-  "menu" : {
-    "docs" : {
-      "parent" : "image"
+  "draft": "false",
+  "toc": true,
+  "title": "EMZ File Format - A Windows Compressed Enhanced Meta file",
+  "description": "Learn about EMZ file format and APIs that can create and open EMZ files.",
+  "linktitle": "EMZ",
+  "menu": {
+    "docs": {
+      "parent": "image",
+      "identifier": "image-emz"
     }
   },
-  "lastmod" : "2020-10-24"
+  "lastmod": "2020-10-24"
 }
 
 ## What is an EMZ file?
