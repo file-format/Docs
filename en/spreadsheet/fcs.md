@@ -1,20 +1,28 @@
 {
-  "date" : "2021-02-26",
-  "keywords" : [ "fcs", "file", "extension", "file format", "firstchoice", "Spreadsheet" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-02-26",
+  "keywords": [
+    "fcs",
+    "file",
+    "extension",
+    "file format",
+    "firstchoice",
+    "Spreadsheet"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"What is an FCS file and APIs that can create and open FCS files.",
-  "title" : "FCS - First Choice Spreadsheet File",
-  "linktitle" : "FCS",
-  "menu" : {
-    "docs" : {
-      "parent" : "spreadsheet"
+  "draft": "false",
+  "toc": true,
+  "description": "What is an FCS file and APIs that can create and open FCS files.",
+  "title": "FCS - First Choice Spreadsheet File",
+  "linktitle": "FCS",
+  "menu": {
+    "docs": {
+      "parent": "spreadsheet",
+      "identifier": "spreadsheet-fcs"
     }
   },
-  "lastmod" : "2021-11-30"
+  "lastmod": "2021-11-30"
 }
 
 ## What is an FCS file?

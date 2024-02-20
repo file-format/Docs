@@ -1,20 +1,32 @@
 {
-  "date" : "2021-07-07",
-  "keywords" : [ "DMP", "extension", "file", "format", "system", "MemoryDump", "Minidump", "programs", "computer", "application" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
+  "date": "2021-07-07",
+  "keywords": [
+    "DMP",
+    "extension",
+    "file",
+    "format",
+    "system",
+    "MemoryDump",
+    "Minidump",
+    "programs",
+    "computer",
+    "application"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "DMP - MemoryDump File Format",
-  "description":"Learn about DMP file format and APIs that can create and open DMP files.",
-  "linktitle" : "DMP",
-  "menu" : {
-    "docs" : {
-      "parent" : "system"
+  "draft": "false",
+  "toc": true,
+  "title": "DMP - MemoryDump File Format",
+  "description": "Learn about DMP file format and APIs that can create and open DMP files.",
+  "linktitle": "DMP",
+  "menu": {
+    "docs": {
+      "parent": "system",
+      "identifier": "system-dmp"
     }
   },
-  "lastmod" : "2021-07-07"
+  "lastmod": "2021-07-07"
 }
 
 ## What is a DMP file? ##

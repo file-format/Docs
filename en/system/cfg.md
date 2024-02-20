@@ -1,20 +1,32 @@
 {
-  "date" : "2021-06-29",
-  "keywords" : [ "CFG", "extension", "file", "format", "system", "configuration", "settings", "programs", "computer", "application" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
+  "date": "2021-06-29",
+  "keywords": [
+    "CFG",
+    "extension",
+    "file",
+    "format",
+    "system",
+    "configuration",
+    "settings",
+    "programs",
+    "computer",
+    "application"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "CFG - File Format",
-  "description":"Learn about CFG file format and APIs that can create and open CFG files.",
-  "linktitle" : "CFG",
-  "menu" : {
-    "docs" : {
-      "parent" : "system"
+  "draft": "false",
+  "toc": true,
+  "title": "CFG - File Format",
+  "description": "Learn about CFG file format and APIs that can create and open CFG files.",
+  "linktitle": "CFG",
+  "menu": {
+    "docs": {
+      "parent": "system",
+      "identifier": "system-cfg"
     }
   },
-  "lastmod" : "2021-06-29"
+  "lastmod": "2021-06-29"
 }
 
 ## What is a CFG file? ##

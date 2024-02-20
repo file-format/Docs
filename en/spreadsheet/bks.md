@@ -1,20 +1,28 @@
 {
-  "date" : "2021-02-26",
-  "keywords" : [ "bks", "file", "extension", "file format", "Microsoft Works Spreadsheet Backup File", "Spreadsheet" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-02-26",
+  "keywords": [
+    "bks",
+    "file",
+    "extension",
+    "file format",
+    "Microsoft Works Spreadsheet Backup File",
+    "Spreadsheet"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about BKS Spreadsheet file and APIs that can create and open BKS files.",
-  "title" : "BKS - Microsoft Works Spreadsheet Backup File",
-  "linktitle" : "BKS",
-  "menu" : {
-    "docs" : {
-      "parent" : "spreadsheet"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about BKS Spreadsheet file and APIs that can create and open BKS files.",
+  "title": "BKS - Microsoft Works Spreadsheet Backup File",
+  "linktitle": "BKS",
+  "menu": {
+    "docs": {
+      "parent": "spreadsheet",
+      "identifier": "spreadsheet-bks"
     }
   },
-  "lastmod" : "2021-11-09"
+  "lastmod": "2021-11-09"
 }
 
 ## What is a BKS file? ##

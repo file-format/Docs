@@ -1,20 +1,28 @@
 {
-  "date" : "2021-02-26",
-  "keywords" : [ "imp", "file", "extension", "file format", "Lotus Improv Spreadsheet", "Spreadsheet" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-02-26",
+  "keywords": [
+    "imp",
+    "file",
+    "extension",
+    "file format",
+    "Lotus Improv Spreadsheet",
+    "Spreadsheet"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about Lotus IMP Spreadsheet file and APIs that can create and open IMP files.",
-  "title" : "IMP - Lotus Improv Spreadsheet File Format",
-  "linktitle" : "IMP",
-  "menu" : {
-    "docs" : {
-      "parent" : "spreadsheet"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about Lotus IMP Spreadsheet file and APIs that can create and open IMP files.",
+  "title": "IMP - Lotus Improv Spreadsheet File Format",
+  "linktitle": "IMP",
+  "menu": {
+    "docs": {
+      "parent": "spreadsheet",
+      "identifier": "spreadsheet-imp"
     }
   },
-  "lastmod" : "2021-11-09"
+  "lastmod": "2021-11-09"
 }
 
 ## What is an IMP file? ##

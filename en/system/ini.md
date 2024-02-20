@@ -1,20 +1,32 @@
 {
-  "date" : "2021-07-07",
-  "keywords" : [ "INI", "extension", "file", "format", "system", "Initiation", "directory extension", "programs", "computer", "application" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
+  "date": "2021-07-07",
+  "keywords": [
+    "INI",
+    "extension",
+    "file",
+    "format",
+    "system",
+    "Initiation",
+    "directory extension",
+    "programs",
+    "computer",
+    "application"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "INI - Initiation File Format",
-  "description":"Learn about INI file format and APIs that can create and open INI files.",
-  "linktitle" : "INI",
-  "menu" : {
-    "docs" : {
-      "parent" : "system"
+  "draft": "false",
+  "toc": true,
+  "title": "INI - Initiation File Format",
+  "description": "Learn about INI file format and APIs that can create and open INI files.",
+  "linktitle": "INI",
+  "menu": {
+    "docs": {
+      "parent": "system",
+      "identifier": "system-ini"
     }
   },
-  "lastmod" : "2021-07-07"
+  "lastmod": "2021-07-07"
 }
 
 ## What is an INI file? ##

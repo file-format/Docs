@@ -1,20 +1,28 @@
 {
-  "date" : "2021-01-29",
-  "keywords" : [ ".pmvx file", "planmaker file", "file", "extension", "file format", "OpenDocument Spreadsheet" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-01-29",
+  "keywords": [
+    ".pmvx file",
+    "planmaker file",
+    "file",
+    "extension",
+    "file format",
+    "OpenDocument Spreadsheet"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about PMVX file format and APIs that can create and open PMVX files.",
-  "title" : "PMVX - PlanMaker Spreadsheet Template File",
-  "linktitle" : "PMVX",
-  "menu" : {
-    "docs" : {
-      "parent" : "spreadsheet"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about PMVX file format and APIs that can create and open PMVX files.",
+  "title": "PMVX - PlanMaker Spreadsheet Template File",
+  "linktitle": "PMVX",
+  "menu": {
+    "docs": {
+      "parent": "spreadsheet",
+      "identifier": "spreadsheet-pmvx"
     }
   },
-  "lastmod" : "2021-01-29"
+  "lastmod": "2021-01-29"
 }
 
 ## What is a PMVX file?

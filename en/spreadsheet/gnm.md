@@ -1,20 +1,28 @@
 {
-  "date" : "2021-12-01",
-  "keywords" : [ "gnm", "file", "extension", "file format", "gnumeric", "Spreadsheet" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-12-01",
+  "keywords": [
+    "gnm",
+    "file",
+    "extension",
+    "file format",
+    "gnumeric",
+    "Spreadsheet"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"What is a GNM file and APIs that can create and open GNM files.",
-  "title" : "GNM - Gnumeric Spreadsheet File Format",
-  "linktitle" : "GNM",
-  "menu" : {
-    "docs" : {
-      "parent" : "spreadsheet"
+  "draft": "false",
+  "toc": true,
+  "description": "What is a GNM file and APIs that can create and open GNM files.",
+  "title": "GNM - Gnumeric Spreadsheet File Format",
+  "linktitle": "GNM",
+  "menu": {
+    "docs": {
+      "parent": "spreadsheet",
+      "identifier": "spreadsheet-gnm"
     }
   },
-  "lastmod" : "2021-12-01"
+  "lastmod": "2021-12-01"
 }
 
 ## What is a GNM file?

@@ -1,20 +1,28 @@
 {
-  "date" : "2021-12-01",
-  "keywords" : [ ".gnumeric", "file", "extension", "file format", "gnumeric", "Spreadsheet" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-12-01",
+  "keywords": [
+    ".gnumeric",
+    "file",
+    "extension",
+    "file format",
+    "gnumeric",
+    "Spreadsheet"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"What is a GNUMERIC file and APIs that can create and open .gnumeric files.",
-  "title" : "GNUMERIC - Gnumeric Spreadsheet File Format",
-  "linktitle" : "GNUMERIC",
-  "menu" : {
-    "docs" : {
-      "parent" : "spreadsheet"
+  "draft": "false",
+  "toc": true,
+  "description": "What is a GNUMERIC file and APIs that can create and open .gnumeric files.",
+  "title": "GNUMERIC - Gnumeric Spreadsheet File Format",
+  "linktitle": "GNUMERIC",
+  "menu": {
+    "docs": {
+      "parent": "spreadsheet",
+      "identifier": "spreadsheet-gnumeric"
     }
   },
-  "lastmod" : "2021-12-01"
+  "lastmod": "2021-12-01"
 }
 
 ## What is a GNUMERIC file?

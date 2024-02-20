@@ -1,20 +1,28 @@
 {
-  "date" : "2019-12-10",
-  "keywords" : [ "XLM", "file", "extension", "file format", "Microsoft Excel Macro File", "Spreadsheet" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-12-10",
+  "keywords": [
+    "XLM",
+    "file",
+    "extension",
+    "file format",
+    "Microsoft Excel Macro File",
+    "Spreadsheet"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Your file format guide to know what is an XLM Macros file and APIs that can create and open XLM files.",
-  "title" : "What is an XLM file?",
-  "linktitle" : "XLM",
-  "menu" : {
-    "docs" : {
-      "parent" : "spreadsheet"
+  "draft": "false",
+  "toc": true,
+  "description": "Your file format guide to know what is an XLM Macros file and APIs that can create and open XLM files.",
+  "title": "What is an XLM file?",
+  "linktitle": "XLM",
+  "menu": {
+    "docs": {
+      "parent": "spreadsheet",
+      "identifier": "spreadsheet-xlm"
     }
   },
-  "lastmod" : "2019-12-10"
+  "lastmod": "2019-12-10"
 }
 
 ## What is an XLM file?

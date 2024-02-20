@@ -1,20 +1,28 @@
 {
-  "date" : "2021-02-26",
-  "keywords" : [ "pmd", "file", "extension", "file format", "SoftMaker PlanMaker File", "Spreadsheet" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-02-26",
+  "keywords": [
+    "pmd",
+    "file",
+    "extension",
+    "file format",
+    "SoftMaker PlanMaker File",
+    "Spreadsheet"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about PlanMaker PMD file and APIs that can create and open PMD files.",
-  "title" : "PMD - PlanMaker Spreadsheet File",
-  "linktitle" : "PMD",
-  "menu" : {
-    "docs" : {
-      "parent" : "spreadsheet"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about PlanMaker PMD file and APIs that can create and open PMD files.",
+  "title": "PMD - PlanMaker Spreadsheet File",
+  "linktitle": "PMD",
+  "menu": {
+    "docs": {
+      "parent": "spreadsheet",
+      "identifier": "spreadsheet-pmd"
     }
   },
-  "lastmod" : "2021-11-09"
+  "lastmod": "2021-11-09"
 }
 
 ## What is a PMD file?

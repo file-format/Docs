@@ -1,20 +1,28 @@
 {
-  "date" : "2021-01-25",
-  "keywords" : [ "XLA", "file", "extension", "file format", "Excel", "Spreadsheet" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-01-25",
+  "keywords": [
+    "XLA",
+    "file",
+    "extension",
+    "file format",
+    "Excel",
+    "Spreadsheet"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about what is an XLA file format and APIs that can create and open XLA files.",
-  "title" : "XLA - Excel Add-In File",
-  "linktitle" : "XLA",
-  "menu" : {
-    "docs" : {
-      "parent" : "spreadsheet"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about what is an XLA file format and APIs that can create and open XLA files.",
+  "title": "XLA - Excel Add-In File",
+  "linktitle": "XLA",
+  "menu": {
+    "docs": {
+      "parent": "spreadsheet",
+      "identifier": "spreadsheet-xla"
     }
   },
-  "lastmod" : "2021-01-25"
+  "lastmod": "2021-01-25"
 }
 
 ## What is an XLA file?

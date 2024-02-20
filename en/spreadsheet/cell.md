@@ -1,20 +1,28 @@
 {
-  "date" : "2021-02-26",
-  "keywords" : [ "cell", "file", "extension", "file format", "Thinkfree Office NEO Cell", "Spreadsheet" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-02-26",
+  "keywords": [
+    "cell",
+    "file",
+    "extension",
+    "file format",
+    "Thinkfree Office NEO Cell",
+    "Spreadsheet"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about CELL Spreadsheet file and APIs that can create and open CELL files.",
-  "title" : "CELL - Thinkfree Office NEO Cell Workbook File",
-  "linktitle" : "CELL",
-  "menu" : {
-    "docs" : {
-      "parent" : "spreadsheet"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about CELL Spreadsheet file and APIs that can create and open CELL files.",
+  "title": "CELL - Thinkfree Office NEO Cell Workbook File",
+  "linktitle": "CELL",
+  "menu": {
+    "docs": {
+      "parent": "spreadsheet",
+      "identifier": "spreadsheet-cell"
     }
   },
-  "lastmod" : "2021-11-18"
+  "lastmod": "2021-11-18"
 }
 
 ## What is a CELL file?

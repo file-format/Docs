@@ -1,20 +1,33 @@
 {
-  "date" : "2021-07-15",
-  "keywords" : [ "LNK", "extension", "file", "format", "system", "LNK file", "link", "LNK files", "LNK documents", "application", "programs" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
+  "date": "2021-07-15",
+  "keywords": [
+    "LNK",
+    "extension",
+    "file",
+    "format",
+    "system",
+    "LNK file",
+    "link",
+    "LNK files",
+    "LNK documents",
+    "application",
+    "programs"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "LNK - Link File Format",
-  "description":"Learn about LNK file format and APIs that can create and open LNK files.",
-  "linktitle" : "LNK",
-  "menu" : {
-    "docs" : {
-      "parent" : "system"
+  "draft": "false",
+  "toc": true,
+  "title": "LNK - Link File Format",
+  "description": "Learn about LNK file format and APIs that can create and open LNK files.",
+  "linktitle": "LNK",
+  "menu": {
+    "docs": {
+      "parent": "system",
+      "identifier": "system-lnk"
     }
   },
-  "lastmod" : "2021-07-15"
+  "lastmod": "2021-07-15"
 }
 
 ## What is an LNK file? ##

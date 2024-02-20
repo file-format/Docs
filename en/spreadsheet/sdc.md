@@ -1,20 +1,30 @@
 {
-  "date" : "2021-02-26",
-  "keywords" : [ "SDC", "file", "extension", "file format", "SDC Calc", "Apache", "OpenOffice", "Spreadsheet" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-02-26",
+  "keywords": [
+    "SDC",
+    "file",
+    "extension",
+    "file format",
+    "SDC Calc",
+    "Apache",
+    "OpenOffice",
+    "Spreadsheet"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about SDC file format and APIs that can create and open SDC files.",
-  "title" : "SDC - Apache OpenOffice Calc Spreadsheet",
-  "linktitle" : "SDC",
-  "menu" : {
-    "docs" : {
-      "parent" : "spreadsheet"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about SDC file format and APIs that can create and open SDC files.",
+  "title": "SDC - Apache OpenOffice Calc Spreadsheet",
+  "linktitle": "SDC",
+  "menu": {
+    "docs": {
+      "parent": "spreadsheet",
+      "identifier": "spreadsheet-sdc"
     }
   },
-  "lastmod" : "2021-11-16"
+  "lastmod": "2021-11-16"
 }
 
 ## What is an SDC file? ##

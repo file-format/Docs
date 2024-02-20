@@ -1,19 +1,20 @@
 {
-  "date" : "2022-08-19",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-08-19",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "HDMP File - Windows Heap Dump File Format",
-  "description":"Learn about HDMP file format and APIs that can create and open HDMP files.",
-  "linktitle" : "HDMP",
-  "menu" : {
-    "docs" : {
-      "parent" : "system"
+  "draft": "false",
+  "toc": true,
+  "title": "HDMP File - Windows Heap Dump File Format",
+  "description": "Learn about HDMP file format and APIs that can create and open HDMP files.",
+  "linktitle": "HDMP",
+  "menu": {
+    "docs": {
+      "parent": "system",
+      "identifier": "system-hdmp"
     }
   },
-  "lastmod" : "2022-08-19"
+  "lastmod": "2022-08-19"
 }
 
 ## What is a HDMP file?

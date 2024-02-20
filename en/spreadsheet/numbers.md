@@ -1,20 +1,31 @@
 {
-  "date" : "2021-03-03",
-  "keywords" : [ "Apple iWork", ".numbers", "File", "extension", "file format", ".xlsx", "Spreadsheet" , "Convert Numbers to XLSX", "convert numbers file to excel"],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-03-03",
+  "keywords": [
+    "Apple iWork",
+    ".numbers",
+    "File",
+    "extension",
+    "file format",
+    ".xlsx",
+    "Spreadsheet",
+    "Convert Numbers to XLSX",
+    "convert numbers file to excel"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "File format knowledge about Numbers file and APIs that can create, open and convert Numbers to XLSX or other spreadsheets.",
-  "title" : "NUMBERS - Apple iWork Numbers spreadsheet ",
-  "linktitle" : "NUMBERS",
-  "menu" : {
-    "docs" : {
-      "parent" : "spreadsheet"
+  "draft": "false",
+  "toc": true,
+  "description": "File format knowledge about Numbers file and APIs that can create, open and convert Numbers to XLSX or other spreadsheets.",
+  "title": "NUMBERS - Apple iWork Numbers spreadsheet ",
+  "linktitle": "NUMBERS",
+  "menu": {
+    "docs": {
+      "parent": "spreadsheet",
+      "identifier": "spreadsheet-numbers"
     }
   },
-  "lastmod" : "2021-03-03"
+  "lastmod": "2021-03-03"
 }
 
 ## What is a NUMBERS file? ##

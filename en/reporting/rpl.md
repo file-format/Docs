@@ -1,20 +1,27 @@
 {
-  "date" : "2021-03-02",
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-03-02",
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "RPL - Report Page Layout",
-  "keywords" : [ "rpl", "Report Page Layout", "XSD", "SQL Server", "reporting"],
-  "description":"Learn about RPL stream format which is an internal binary format used by Microsoft SQL Server Reporting Services when contacting with viewer controls.",
-  "linktitle" : "RPL",
-  "menu" : {
-    "docs" : {
-      "parent" : "reporting"
+  "draft": "false",
+  "toc": true,
+  "title": "RPL - Report Page Layout",
+  "keywords": [
+    "rpl",
+    "Report Page Layout",
+    "XSD",
+    "SQL Server",
+    "reporting"
+  ],
+  "description": "Learn about RPL stream format which is an internal binary format used by Microsoft SQL Server Reporting Services when contacting with viewer controls.",
+  "linktitle": "RPL",
+  "menu": {
+    "docs": {
+      "parent": "reporting",
+      "identifier": "reporting-rpl"
     }
   },
-  "lastmod" : "2021-03-02"
+  "lastmod": "2021-03-02"
 }
 
 ## What is an RPL file? ##

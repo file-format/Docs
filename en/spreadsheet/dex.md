@@ -1,20 +1,28 @@
 {
-  "date" : "2021-02-26",
-  "keywords" : [ "dex", "file", "extension", "file format", "Microsoft Excel", "Spreadsheet" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-02-26",
+  "keywords": [
+    "dex",
+    "file",
+    "extension",
+    "file format",
+    "Microsoft Excel",
+    "Spreadsheet"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about DEX Spreadsheet file and APIs that can create and open DEX files.",
-  "title" : "DEX - Microsoft Excel Spreadsheet File",
-  "linktitle" : "DEX",
-  "menu" : {
-    "docs" : {
-      "parent" : "spreadsheet"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about DEX Spreadsheet file and APIs that can create and open DEX files.",
+  "title": "DEX - Microsoft Excel Spreadsheet File",
+  "linktitle": "DEX",
+  "menu": {
+    "docs": {
+      "parent": "spreadsheet",
+      "identifier": "spreadsheet-dex"
     }
   },
-  "lastmod" : "2021-11-21"
+  "lastmod": "2021-11-21"
 }
 
 ## What is a DEX file?

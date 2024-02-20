@@ -1,20 +1,28 @@
 {
-  "date" : "2021-02-26",
-  "keywords" : [ "fp", "file", "extension", "file format", "filemaker pro", "Spreadsheet" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-02-26",
+  "keywords": [
+    "fp",
+    "file",
+    "extension",
+    "file format",
+    "filemaker pro",
+    "Spreadsheet"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about FileMaker Pro FP file format and APIs that can create and open FP files.",
-  "title" : "FP - FileMaker Pro Spreadsheet File",
-  "linktitle" : "FP",
-  "menu" : {
-    "docs" : {
-      "parent" : "spreadsheet"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about FileMaker Pro FP file format and APIs that can create and open FP files.",
+  "title": "FP - FileMaker Pro Spreadsheet File",
+  "linktitle": "FP",
+  "menu": {
+    "docs": {
+      "parent": "spreadsheet",
+      "identifier": "spreadsheet-fp"
     }
   },
-  "lastmod" : "2021-11-16"
+  "lastmod": "2021-11-16"
 }
 
 ## What is an FP file?

@@ -1,20 +1,32 @@
 {
-  "date" : "2021-07-08",
-  "keywords" : [ "SYS", "extension", "file", "format", "system", "Driver", "System File", "programs", "computer", "application" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
+  "date": "2021-07-08",
+  "keywords": [
+    "SYS",
+    "extension",
+    "file",
+    "format",
+    "system",
+    "Driver",
+    "System File",
+    "programs",
+    "computer",
+    "application"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "SYS - System File Format",
-  "description":"Learn about SYS file format and APIs that can create and open SYS files.",
-  "linktitle" : "SYS",
-  "menu" : {
-    "docs" : {
-      "parent" : "system"
+  "draft": "false",
+  "toc": true,
+  "title": "SYS - System File Format",
+  "description": "Learn about SYS file format and APIs that can create and open SYS files.",
+  "linktitle": "SYS",
+  "menu": {
+    "docs": {
+      "parent": "system",
+      "identifier": "system-sys"
     }
   },
-  "lastmod" : "2021-07-08"
+  "lastmod": "2021-07-08"
 }
 
 ## What is an SYS file? ##

@@ -1,20 +1,28 @@
 {
-  "date" : "2019-12-10",
-  "keywords" : [ "XLTX", "file", "extension", "file format", "Excel Open XML", "Spreadsheet" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-12-10",
+  "keywords": [
+    "XLTX",
+    "file",
+    "extension",
+    "file format",
+    "Excel Open XML",
+    "Spreadsheet"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Your file format guide to know what is an XLTX file and APIs that can create and open them.",
-  "title" : "What is an XLTX file?",
-  "linktitle" : "XLTX",
-  "menu" : {
-    "docs" : {
-      "parent" : "spreadsheet"
+  "draft": "false",
+  "toc": true,
+  "description": "Your file format guide to know what is an XLTX file and APIs that can create and open them.",
+  "title": "What is an XLTX file?",
+  "linktitle": "XLTX",
+  "menu": {
+    "docs": {
+      "parent": "spreadsheet",
+      "identifier": "spreadsheet-xltx"
     }
   },
-  "lastmod" : "2019-12-10"
+  "lastmod": "2019-12-10"
 }
 
 ## What is an XLTX file?

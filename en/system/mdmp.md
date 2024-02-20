@@ -1,19 +1,20 @@
 {
-  "date" : "2022-08-19",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-08-19",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "MDMP File - Windows Minidump File Format",
-  "description":"Learn about MDMP file format and APIs that can create and open MDMP files.",
-  "linktitle" : "MDMP",
-  "menu" : {
-    "docs" : {
-      "parent" : "system"
+  "draft": "false",
+  "toc": true,
+  "title": "MDMP File - Windows Minidump File Format",
+  "description": "Learn about MDMP file format and APIs that can create and open MDMP files.",
+  "linktitle": "MDMP",
+  "menu": {
+    "docs": {
+      "parent": "system",
+      "identifier": "system-mdmp"
     }
   },
-  "lastmod" : "2022-08-19"
+  "lastmod": "2022-08-19"
 }
 
 ## What is an MDMP file?

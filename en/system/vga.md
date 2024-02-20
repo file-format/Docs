@@ -1,19 +1,20 @@
 {
-  "date" : "2023-02-15",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2023-02-15",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "VGA File - VGA Display Driver File Format",
-  "description":"Learn about what is a VGA file.",
-  "linktitle" : "VGA",
-  "menu" : {
-    "docs" : {
-      "parent" : "system"
+  "draft": "false",
+  "toc": true,
+  "title": "VGA File - VGA Display Driver File Format",
+  "description": "Learn about what is a VGA file.",
+  "linktitle": "VGA",
+  "menu": {
+    "docs": {
+      "parent": "system",
+      "identifier": "system-vga"
     }
   },
-  "lastmod" : "2023-02-15"
+  "lastmod": "2023-02-15"
 }
 
 ## What is a VGA file?

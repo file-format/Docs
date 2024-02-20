@@ -1,20 +1,28 @@
 {
-  "date" : "2021-02-26",
-  "keywords" : [ "ast", "file", "extension", "file format", "Ability Spreadsheet", "Template" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-02-26",
+  "keywords": [
+    "ast",
+    "file",
+    "extension",
+    "file format",
+    "Ability Spreadsheet",
+    "Template"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about AST Spreadsheet file and APIs that can create and open AST files.",
-  "title" : "AST - Ability Spreadsheet Template File",
-  "linktitle" : "AST",
-  "menu" : {
-    "docs" : {
-      "parent" : "spreadsheet"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about AST Spreadsheet file and APIs that can create and open AST files.",
+  "title": "AST - Ability Spreadsheet Template File",
+  "linktitle": "AST",
+  "menu": {
+    "docs": {
+      "parent": "spreadsheet",
+      "identifier": "spreadsheet-ast"
     }
   },
-  "lastmod" : "2021-11-25"
+  "lastmod": "2021-11-25"
 }
 
 ## What is an AST file?

@@ -1,20 +1,29 @@
 {
-  "date" : "2021-07-13",
-  "keywords" : [ "scr file", "what is an scr file", "file", "scr example", "scr file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-07-13",
+  "keywords": [
+    "scr file",
+    "what is an scr file",
+    "file",
+    "scr example",
+    "scr file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "SCR - Windows Screensaver File",
-  "description":"Learn about SCR file format and APIs that can create and open SCR files.",
-  "linktitle" : "SCR",
-  "menu" : {
-    "docs" : {
-      "parent" : "system"
+  "draft": "false",
+  "toc": true,
+  "title": "SCR - Windows Screensaver File",
+  "description": "Learn about SCR file format and APIs that can create and open SCR files.",
+  "linktitle": "SCR",
+  "menu": {
+    "docs": {
+      "parent": "system",
+      "identifier": "system-scr"
     }
   },
-  "lastmod" : "2021-07-13"
+  "lastmod": "2021-07-13"
 }
 
 ## What is an SCR file? 

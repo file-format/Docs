@@ -1,20 +1,28 @@
 {
-  "date" : "2021-02-26",
-  "keywords" : [ "fm", "file", "extension", "file format", "filemaker pro", "Spreadsheet" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-02-26",
+  "keywords": [
+    "fm",
+    "file",
+    "extension",
+    "file format",
+    "filemaker pro",
+    "Spreadsheet"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"What is an FM file and APIs that can create and open FM files.",
-  "title" : "FM - FileMaker Pro Spreadsheet File",
-  "linktitle" : "FM",
-  "menu" : {
-    "docs" : {
-      "parent" : "spreadsheet"
+  "draft": "false",
+  "toc": true,
+  "description": "What is an FM file and APIs that can create and open FM files.",
+  "title": "FM - FileMaker Pro Spreadsheet File",
+  "linktitle": "FM",
+  "menu": {
+    "docs": {
+      "parent": "spreadsheet",
+      "identifier": "spreadsheet-fm"
     }
   },
-  "lastmod" : "2021-11-16"
+  "lastmod": "2021-11-16"
 }
 
 ## What is an FM file?

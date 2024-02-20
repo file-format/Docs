@@ -1,20 +1,27 @@
 {
-  "date" : "2021-03-01",
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-03-01",
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "RDL - Report Definition Language File",
-  "keywords" : [ "rdl", "report definition language", "XmlTextWriter", "XSD", "RDL element"],
-  "description":"Learn about RDL file format which is an XML representation of a SQL Server Reporting Services report definition.",
-  "linktitle" : "RDL",
-  "menu" : {
-    "docs" : {
-      "parent" : "reporting"
+  "draft": "false",
+  "toc": true,
+  "title": "RDL - Report Definition Language File",
+  "keywords": [
+    "rdl",
+    "report definition language",
+    "XmlTextWriter",
+    "XSD",
+    "RDL element"
+  ],
+  "description": "Learn about RDL file format which is an XML representation of a SQL Server Reporting Services report definition.",
+  "linktitle": "RDL",
+  "menu": {
+    "docs": {
+      "parent": "reporting",
+      "identifier": "reporting-rdl"
     }
   },
-  "lastmod" : "2021-03-01"
+  "lastmod": "2021-03-01"
 }
 
 ## What is an RDL file? ##

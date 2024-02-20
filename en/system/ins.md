@@ -1,20 +1,30 @@
 {
-  "date" : "2021-07-16",
-  "keywords" : [ "ins file", "ins file format", "what is an ins file", "file", "ins example", "ins file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-07-16",
+  "keywords": [
+    "ins file",
+    "ins file format",
+    "what is an ins file",
+    "file",
+    "ins example",
+    "ins file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about INS file format and APIs that can create and open INS files.",
-  "title" : "INS - Internet Settings File",
-  "linktitle" : "INS",
-  "menu" : {
-    "docs" : {
-      "parent" : "system"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about INS file format and APIs that can create and open INS files.",
+  "title": "INS - Internet Settings File",
+  "linktitle": "INS",
+  "menu": {
+    "docs": {
+      "parent": "system",
+      "identifier": "system-ins"
     }
   },
-  "lastmod" : "2021-07-16"
+  "lastmod": "2021-07-16"
 }
 
 ## What is an INS file?

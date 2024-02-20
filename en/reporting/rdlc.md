@@ -1,20 +1,27 @@
 {
-  "date" : "2021-03-02",
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-03-02",
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "RDLC - Report Definition Language Client-side",
-  "keywords" : [ "rdlc", "report definition language", "mkv format", "XSD", "report definition language client side"],
-  "description":"Learn about RDLC file format which is an XML representation of a SQL Server Reporting Services report definition.",
-  "linktitle" : "RDLC",
-  "menu" : {
-    "docs" : {
-      "parent" : "reporting"
+  "draft": "false",
+  "toc": true,
+  "title": "RDLC - Report Definition Language Client-side",
+  "keywords": [
+    "rdlc",
+    "report definition language",
+    "mkv format",
+    "XSD",
+    "report definition language client side"
+  ],
+  "description": "Learn about RDLC file format which is an XML representation of a SQL Server Reporting Services report definition.",
+  "linktitle": "RDLC",
+  "menu": {
+    "docs": {
+      "parent": "reporting",
+      "identifier": "reporting-rdlc"
     }
   },
-  "lastmod" : "2021-03-02"
+  "lastmod": "2021-03-02"
 }
 
 ## What is an RDLC file? ##

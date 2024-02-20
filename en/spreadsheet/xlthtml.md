@@ -1,20 +1,29 @@
 {
-  "date" : "2021-07-13",
-  "keywords" : [ "XLTHTML", "file", "extension", "file format", "Excel Template", "Open", "Spreadsheet" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-07-13",
+  "keywords": [
+    "XLTHTML",
+    "file",
+    "extension",
+    "file format",
+    "Excel Template",
+    "Open",
+    "Spreadsheet"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Your file format guide to know what is an XLT file and APIs that can create and open them.",
-  "title" : "What is an XLTHTML file?",
-  "linktitle" : "XLTHTML",
-  "menu" : {
-    "docs" : {
-      "parent" : "spreadsheet"
+  "draft": "false",
+  "toc": true,
+  "description": "Your file format guide to know what is an XLT file and APIs that can create and open them.",
+  "title": "What is an XLTHTML file?",
+  "linktitle": "XLTHTML",
+  "menu": {
+    "docs": {
+      "parent": "spreadsheet",
+      "identifier": "spreadsheet-xlthtml"
     }
   },
-  "lastmod" : "2021-07-13"
+  "lastmod": "2021-07-13"
 }
 
 ## What is an XLTHTML file?

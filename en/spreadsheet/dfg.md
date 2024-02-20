@@ -1,20 +1,28 @@
 {
-  "date" : "2021-07-04",
-  "keywords" : [ "DFG", "file", "extension", "file format", "Data Flask Grid", "Spreadsheet" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-07-04",
+  "keywords": [
+    "DFG",
+    "file",
+    "extension",
+    "file format",
+    "Data Flask Grid",
+    "Spreadsheet"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Your file format guide to know what is a DFG file and APIs that can create and open DFG files.",
-  "title" : "DFG - Data Flask Grid File",
-  "linktitle" : "DFG",
-  "menu" : {
-    "docs" : {
-      "parent" : "spreadsheet"
+  "draft": "false",
+  "toc": true,
+  "description": "Your file format guide to know what is a DFG file and APIs that can create and open DFG files.",
+  "title": "DFG - Data Flask Grid File",
+  "linktitle": "DFG",
+  "menu": {
+    "docs": {
+      "parent": "spreadsheet",
+      "identifier": "spreadsheet-dfg"
     }
   },
-  "lastmod" : "2021-07-04"
+  "lastmod": "2021-07-04"
 }
 
 ## What is a DFG file?

@@ -1,20 +1,32 @@
 {
-  "date" : "2021-06-29",
-  "keywords" : [ "CAB", "extension", "file", "format", "system", "Windows Cabinet File", "Microsoft", "Installer", "SetUp", "AdvPak" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
+  "date": "2021-06-29",
+  "keywords": [
+    "CAB",
+    "extension",
+    "file",
+    "format",
+    "system",
+    "Windows Cabinet File",
+    "Microsoft",
+    "Installer",
+    "SetUp",
+    "AdvPak"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "CAB - Windows Cabinet File",
-  "description":"Learn about CAB file format and APIs that can create and open CAB files.",
-  "linktitle" : "CAB",
-  "menu" : {
-    "docs" : {
-      "parent" : "system"
+  "draft": "false",
+  "toc": true,
+  "title": "CAB - Windows Cabinet File",
+  "description": "Learn about CAB file format and APIs that can create and open CAB files.",
+  "linktitle": "CAB",
+  "menu": {
+    "docs": {
+      "parent": "system",
+      "identifier": "system-cab"
     }
   },
-  "lastmod" : "2021-06-29"
+  "lastmod": "2021-06-29"
 }
 
 ## What is a CAB file? ##

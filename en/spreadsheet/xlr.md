@@ -1,20 +1,28 @@
 {
-  "date" : "2019-12-16",
-  "keywords" : [ "XLR", "file", "extension", "file format", "Excel", "Spreadsheet" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-12-16",
+  "keywords": [
+    "XLR",
+    "file",
+    "extension",
+    "file format",
+    "Excel",
+    "Spreadsheet"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about what is an XLR file APIs that can create and open XLR files.",
-  "title" : "XLR - Microsoft Works Spreadsheet File Format",
-  "linktitle" : "XLR",
-  "menu" : {
-    "docs" : {
-      "parent" : "spreadsheet"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about what is an XLR file APIs that can create and open XLR files.",
+  "title": "XLR - Microsoft Works Spreadsheet File Format",
+  "linktitle": "XLR",
+  "menu": {
+    "docs": {
+      "parent": "spreadsheet",
+      "identifier": "spreadsheet-xlr"
     }
   },
-  "lastmod" : "2019-12-16"
+  "lastmod": "2019-12-16"
 }
 
 ## What is an XLR file?

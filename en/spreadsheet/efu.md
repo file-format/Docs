@@ -1,20 +1,29 @@
 {
-  "date" : "2021-02-26",
-  "keywords" : [ "EFU", "file", "extension", "file format", "Everything File List", "Everything File", "Spreadsheet" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-02-26",
+  "keywords": [
+    "EFU",
+    "file",
+    "extension",
+    "file format",
+    "Everything File List",
+    "Everything File",
+    "Spreadsheet"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about EFU file format and APIs that can create and open EFU files.",
-  "title" : "EFU - Everything File List Spreadsheet File",
-  "linktitle" : "EFU",
-  "menu" : {
-    "docs" : {
-      "parent" : "spreadsheet"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about EFU file format and APIs that can create and open EFU files.",
+  "title": "EFU - Everything File List Spreadsheet File",
+  "linktitle": "EFU",
+  "menu": {
+    "docs": {
+      "parent": "spreadsheet",
+      "identifier": "spreadsheet-efu"
     }
   },
-  "lastmod" : "2021-11-16"
+  "lastmod": "2021-11-16"
 }
 
 ## What is an EFU file?

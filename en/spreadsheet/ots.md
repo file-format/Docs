@@ -1,20 +1,28 @@
 {
-  "date" : "2019-12-16",
-  "keywords" : [ "OTS", "file", "extension", "file format", "Excel", "Spreadsheet" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-12-16",
+  "keywords": [
+    "OTS",
+    "file",
+    "extension",
+    "file format",
+    "Excel",
+    "Spreadsheet"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about OTS file format and APIs that can create and open OTS files.",
-  "title" : "OTS - OpenDocument Spreadsheet Template File Format",
-  "linktitle" : "OTS",
-  "menu" : {
-    "docs" : {
-      "parent" : "spreadsheet"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about OTS file format and APIs that can create and open OTS files.",
+  "title": "OTS - OpenDocument Spreadsheet Template File Format",
+  "linktitle": "OTS",
+  "menu": {
+    "docs": {
+      "parent": "spreadsheet",
+      "identifier": "spreadsheet-ots"
     }
   },
-  "lastmod" : "2021-01-19"
+  "lastmod": "2021-01-19"
 }
 
 ## What is an OTS file?

@@ -1,20 +1,28 @@
 {
-  "date" : "2019-12-10",
-  "keywords" : [ "XLSX", "file", "extension", "file format", "Excel", "Spreadsheet" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-12-10",
+  "keywords": [
+    "XLSX",
+    "file",
+    "extension",
+    "file format",
+    "Excel",
+    "Spreadsheet"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about what is an XLSX file and APIs that can create and open XLSX files.",
-  "title" : "XLSX File Format - What is an XLSX file?",
-  "linktitle" : "XLSX",
-  "menu" : {
-    "docs" : {
-      "parent" : "spreadsheet"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about what is an XLSX file and APIs that can create and open XLSX files.",
+  "title": "XLSX File Format - What is an XLSX file?",
+  "linktitle": "XLSX",
+  "menu": {
+    "docs": {
+      "parent": "spreadsheet",
+      "identifier": "spreadsheet-xlsx"
     }
   },
-  "lastmod" : "2019-12-10"
+  "lastmod": "2019-12-10"
 }
 
 ## What is an XLSX file?

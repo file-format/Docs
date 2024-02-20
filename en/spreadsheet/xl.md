@@ -1,20 +1,28 @@
 {
-  "date" : "2021-07-11",
-  "keywords" : [ "XL", "file", "extension", "file format", "Excel", "Spreadsheet" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-07-11",
+  "keywords": [
+    "XL",
+    "file",
+    "extension",
+    "file format",
+    "Excel",
+    "Spreadsheet"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about what is an XL file and APIs that can create and open XL files.",
-  "title" : "XL - Microsoft Excel Spreadsheet File Format",
-  "linktitle" : "XL",
-  "menu" : {
-    "docs" : {
-      "parent" : "spreadsheet"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about what is an XL file and APIs that can create and open XL files.",
+  "title": "XL - Microsoft Excel Spreadsheet File Format",
+  "linktitle": "XL",
+  "menu": {
+    "docs": {
+      "parent": "spreadsheet",
+      "identifier": "spreadsheet-xl"
     }
   },
-  "lastmod" : "2021-07-11"
+  "lastmod": "2021-07-11"
 }
 
 ## What is an XL file?

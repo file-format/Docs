@@ -1,20 +1,27 @@
 {
-  "date" : "2021-01-29",
-  "keywords" : [ "FODS", "file", "extension", "file format", "OpenDocument Spreadsheet" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-01-29",
+  "keywords": [
+    "FODS",
+    "file",
+    "extension",
+    "file format",
+    "OpenDocument Spreadsheet"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about FODS file format and APIs that can create and open FODS files.",
-  "title" : "FODS - OpenDocument XML Spreadsheet File Format",
-  "linktitle" : "FODS",
-  "menu" : {
-    "docs" : {
-      "parent" : "spreadsheet"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about FODS file format and APIs that can create and open FODS files.",
+  "title": "FODS - OpenDocument XML Spreadsheet File Format",
+  "linktitle": "FODS",
+  "menu": {
+    "docs": {
+      "parent": "spreadsheet",
+      "identifier": "spreadsheet-fods"
     }
   },
-  "lastmod" : "2021-01-29"
+  "lastmod": "2021-01-29"
 }
 
 ## What is a FODS file?

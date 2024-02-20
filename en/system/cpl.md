@@ -1,20 +1,32 @@
 {
-  "date" : "2021-06-29",
-  "keywords" : [ "CPL", "extension", "file", "format", "system", "Control Panel File", "Windows", "programs", "computer", "application" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
+  "date": "2021-06-29",
+  "keywords": [
+    "CPL",
+    "extension",
+    "file",
+    "format",
+    "system",
+    "Control Panel File",
+    "Windows",
+    "programs",
+    "computer",
+    "application"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "CPL - Control Panel File",
-  "description":"Learn about CPL file format and APIs that can create and open CPL files.",
-  "linktitle" : "CPL",
-  "menu" : {
-    "docs" : {
-      "parent" : "system"
+  "draft": "false",
+  "toc": true,
+  "title": "CPL - Control Panel File",
+  "description": "Learn about CPL file format and APIs that can create and open CPL files.",
+  "linktitle": "CPL",
+  "menu": {
+    "docs": {
+      "parent": "system",
+      "identifier": "system-cpl"
     }
   },
-  "lastmod" : "2021-06-29"
+  "lastmod": "2021-06-29"
 }
 
 ## What is a CPL file? ##

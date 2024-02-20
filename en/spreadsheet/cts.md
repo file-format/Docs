@@ -1,19 +1,20 @@
 {
-  "date" : "2022-07-08",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-07-08",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about CTS file format and APIs that can create and open CTS files.",
-  "title" : "CTS File Format - TreeSheets Hierarchical Spreadsheet File",
-  "linktitle" : "CTS",
-  "menu" : {
-    "docs" : {
-      "parent" : "spreadsheet"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about CTS file format and APIs that can create and open CTS files.",
+  "title": "CTS File Format - TreeSheets Hierarchical Spreadsheet File",
+  "linktitle": "CTS",
+  "menu": {
+    "docs": {
+      "parent": "spreadsheet",
+      "identifier": "spreadsheet-cts"
     }
   },
-  "lastmod" : "2022-07-08"
+  "lastmod": "2022-07-08"
 }
 
 ## What is a CTS file?

@@ -1,20 +1,28 @@
 {
-  "date" : "2021-02-26",
-  "keywords" : [ "aws", "file", "extension", "file format", "Ability Spreadsheet", "Spreadsheet" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-02-26",
+  "keywords": [
+    "aws",
+    "file",
+    "extension",
+    "file format",
+    "Ability Spreadsheet",
+    "Spreadsheet"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"What is an AWS file and APIs that can create and open AWS files.",
-  "title" : "AWS - Ability Spreadsheet File",
-  "linktitle" : "AWS",
-  "menu" : {
-    "docs" : {
-      "parent" : "spreadsheet"
+  "draft": "false",
+  "toc": true,
+  "description": "What is an AWS file and APIs that can create and open AWS files.",
+  "title": "AWS - Ability Spreadsheet File",
+  "linktitle": "AWS",
+  "menu": {
+    "docs": {
+      "parent": "spreadsheet",
+      "identifier": "spreadsheet-aws"
     }
   },
-  "lastmod" : "2021-11-25"
+  "lastmod": "2021-11-25"
 }
 
 ## What is an AWS file?

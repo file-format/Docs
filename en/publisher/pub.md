@@ -1,19 +1,20 @@
 {
-  "date" : "2021-12-18",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-12-18",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "PUB - What is a .pub file?",
-  "description":"Learn about PUB file format and APIs that can create and open PUB files.",
-  "linktitle" : "PUB",
-  "menu" : {
-    "docs" : {
-      "parent" : "publisher"
+  "draft": "false",
+  "toc": true,
+  "title": "PUB - What is a .pub file?",
+  "description": "Learn about PUB file format and APIs that can create and open PUB files.",
+  "linktitle": "PUB",
+  "menu": {
+    "docs": {
+      "parent": "publisher",
+      "identifier": "publisher-pub"
     }
   },
-  "lastmod" : "2021-12-18"
+  "lastmod": "2021-12-18"
 }
 
 ## What is a PUB file?

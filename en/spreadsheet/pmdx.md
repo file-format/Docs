@@ -1,20 +1,28 @@
 {
-  "date" : "2021-02-26",
-  "keywords" : [ "pmdx", "file", "extension", "file format", "SoftMaker PlanMaker File", "Spreadsheet" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-02-26",
+  "keywords": [
+    "pmdx",
+    "file",
+    "extension",
+    "file format",
+    "SoftMaker PlanMaker File",
+    "Spreadsheet"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about PlanMaker PMDX file and APIs that can create and open PMDX files.",
-  "title" : "PMDX - PlanMaker Spreadsheet File",
-  "linktitle" : "PMDX",
-  "menu" : {
-    "docs" : {
-      "parent" : "spreadsheet"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about PlanMaker PMDX file and APIs that can create and open PMDX files.",
+  "title": "PMDX - PlanMaker Spreadsheet File",
+  "linktitle": "PMDX",
+  "menu": {
+    "docs": {
+      "parent": "spreadsheet",
+      "identifier": "spreadsheet-pmdx"
     }
   },
-  "lastmod" : "2021-11-09"
+  "lastmod": "2021-11-09"
 }
 
 ## What is a PMDX file?

@@ -1,20 +1,28 @@
 {
-  "date" : "2021-02-26",
-  "keywords" : [ "SXC", "file", "extension", "file format", "Sun XML Calc", "Spreadsheet" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
+  "date": "2021-02-26",
+  "keywords": [
+    "SXC",
+    "file",
+    "extension",
+    "file format",
+    "Sun XML Calc",
+    "Spreadsheet"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about SXC file format and APIs that can create and open SXC files.",
-  "title" : "SXC File Format",
-  "linktitle" : "SXC",
-  "menu" : {
-    "docs" : {
-      "parent" : "spreadsheet"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about SXC file format and APIs that can create and open SXC files.",
+  "title": "SXC File Format",
+  "linktitle": "SXC",
+  "menu": {
+    "docs": {
+      "parent": "spreadsheet",
+      "identifier": "spreadsheet-sxc"
     }
   },
-  "lastmod" : "2021-02-26"
+  "lastmod": "2021-02-26"
 }
 
 ## What is a SXC file? ##

@@ -1,20 +1,27 @@
 {
-  "date" : "2021-27-05",
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-27-05",
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "RPT - Crystal Reports File",
-  "keywords" : [ "rpt", "rpt file", "rpt file format", "Crystal Reports File", "reporting"],
-  "description":"Learn about RPT stream format used by the Crystal Reports software to save the design or pattern for fetching data from a source into a file along with or without data.",
-  "linktitle" : "RPT",
-  "menu" : {
-    "docs" : {
-      "parent" : "reporting"
+  "draft": "false",
+  "toc": true,
+  "title": "RPT - Crystal Reports File",
+  "keywords": [
+    "rpt",
+    "rpt file",
+    "rpt file format",
+    "Crystal Reports File",
+    "reporting"
+  ],
+  "description": "Learn about RPT stream format used by the Crystal Reports software to save the design or pattern for fetching data from a source into a file along with or without data.",
+  "linktitle": "RPT",
+  "menu": {
+    "docs": {
+      "parent": "reporting",
+      "identifier": "reporting-rpt"
     }
   },
-  "lastmod" : "2021-27-05"
+  "lastmod": "2021-27-05"
 }
 
 ## What is RPT file? ##

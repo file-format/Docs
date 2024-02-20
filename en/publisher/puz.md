@@ -1,19 +1,20 @@
 {
-  "date" : "2022-02-23",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-02-23",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "PUZ File - Packed Publisher File",
-  "description":"Learn about what is a PUZ file and APIs that can create and open PUZ files.",
-  "linktitle" : "PUZ",
-  "menu" : {
-    "docs" : {
-      "parent" : "publisher"
+  "draft": "false",
+  "toc": true,
+  "title": "PUZ File - Packed Publisher File",
+  "description": "Learn about what is a PUZ file and APIs that can create and open PUZ files.",
+  "linktitle": "PUZ",
+  "menu": {
+    "docs": {
+      "parent": "publisher",
+      "identifier": "publisher-puz"
     }
   },
-  "lastmod" : "2022-02-23"
+  "lastmod": "2022-02-23"
 }
 
 ## What is a PUZ file?

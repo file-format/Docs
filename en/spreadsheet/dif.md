@@ -1,20 +1,28 @@
 {
-  "date" : "2019-12-10",
-  "keywords" : [ "DIF", "file", "extension", "file format", "Data Interchange File", "Spreadsheet" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-12-10",
+  "keywords": [
+    "DIF",
+    "file",
+    "extension",
+    "file format",
+    "Data Interchange File",
+    "Spreadsheet"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Your file format guide to know what is a DIF file extension and APIs that can create and open DIF files.",
-  "title" : "DIF - Data Interchange File Format",
-  "linktitle" : "DIF",
-  "menu" : {
-    "docs" : {
-      "parent" : "spreadsheet"
+  "draft": "false",
+  "toc": true,
+  "description": "Your file format guide to know what is a DIF file extension and APIs that can create and open DIF files.",
+  "title": "DIF - Data Interchange File Format",
+  "linktitle": "DIF",
+  "menu": {
+    "docs": {
+      "parent": "spreadsheet",
+      "identifier": "spreadsheet-dif"
     }
   },
-  "lastmod" : "2019-12-10"
+  "lastmod": "2019-12-10"
 }
 
 ## What is a DIF file?

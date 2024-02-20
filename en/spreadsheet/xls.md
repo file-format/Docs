@@ -1,20 +1,28 @@
 {
-  "date" : "2019-12-16",
-  "keywords" : [ "XLS", "file", "extension", "file format", "Excel", "Spreadsheet" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-12-16",
+  "keywords": [
+    "XLS",
+    "file",
+    "extension",
+    "file format",
+    "Excel",
+    "Spreadsheet"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Your file format guide to know what is an XLS file and APIs that can create and open them.",
-  "title" : "What is XLS file format? Learn from File Format Experts!",
-  "linktitle" : "XLS",
-  "menu" : {
-    "docs" : {
-      "parent" : "spreadsheet"
+  "draft": "false",
+  "toc": true,
+  "description": "Your file format guide to know what is an XLS file and APIs that can create and open them.",
+  "title": "What is XLS file format? Learn from File Format Experts!",
+  "linktitle": "XLS",
+  "menu": {
+    "docs": {
+      "parent": "spreadsheet",
+      "identifier": "spreadsheet-xls"
     }
   },
-  "lastmod" : "2019-12-16"
+  "lastmod": "2019-12-16"
 }
 
 ## What is an XLS file?

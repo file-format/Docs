@@ -1,20 +1,28 @@
 {
-  "date" : "2019-12-16",
-  "keywords" : [ "NB", "file", "extension", "file format", "Mathematica", "Spreadsheet" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-12-16",
+  "keywords": [
+    "NB",
+    "file",
+    "extension",
+    "file format",
+    "Mathematica",
+    "Spreadsheet"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about what is an NB file APIs that can create and open NB files.",
-  "title" : "NB - Mathematica Notebook File Format",
-  "linktitle" : "NB",
-  "menu" : {
-    "docs" : {
-      "parent" : "spreadsheet"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about what is an NB file APIs that can create and open NB files.",
+  "title": "NB - Mathematica Notebook File Format",
+  "linktitle": "NB",
+  "menu": {
+    "docs": {
+      "parent": "spreadsheet",
+      "identifier": "spreadsheet-nb"
     }
   },
-  "lastmod" : "2021-07-16"
+  "lastmod": "2021-07-16"
 }
 
 ## What is an NB file?

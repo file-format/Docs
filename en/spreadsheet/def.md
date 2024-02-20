@@ -1,20 +1,28 @@
 {
-  "date" : "2021-02-26",
-  "keywords" : [ "def", "file", "extension", "file format", "SmartWare II", "Spreadsheet" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-02-26",
+  "keywords": [
+    "def",
+    "file",
+    "extension",
+    "file format",
+    "SmartWare II",
+    "Spreadsheet"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about what is a DEF file and APIs that can create and open DEF files.",
-  "title" : "DEF - SmartWare II Spreadsheet Data File",
-  "linktitle" : "DEF",
-  "menu" : {
-    "docs" : {
-      "parent" : "spreadsheet"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about what is a DEF file and APIs that can create and open DEF files.",
+  "title": "DEF - SmartWare II Spreadsheet Data File",
+  "linktitle": "DEF",
+  "menu": {
+    "docs": {
+      "parent": "spreadsheet",
+      "identifier": "spreadsheet-def"
     }
   },
-  "lastmod" : "2021-11-23"
+  "lastmod": "2021-11-23"
 }
 
 ## What is a DEF file?

@@ -1,20 +1,32 @@
 {
-  "date" : "2021-06-29",
-  "keywords" : [ "DLL", "extension", "file", "format", "system", "Dynamic Link Library", "settings", "programs", "computer", "application" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
+  "date": "2021-06-29",
+  "keywords": [
+    "DLL",
+    "extension",
+    "file",
+    "format",
+    "system",
+    "Dynamic Link Library",
+    "settings",
+    "programs",
+    "computer",
+    "application"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "DLL - Dynamic Link Library",
-  "description":"Learn about DLL file format and APIs that can create and open DLL files.",
-  "linktitle" : "DLL",
-  "menu" : {
-    "docs" : {
-      "parent" : "system"
+  "draft": "false",
+  "toc": true,
+  "title": "DLL - Dynamic Link Library",
+  "description": "Learn about DLL file format and APIs that can create and open DLL files.",
+  "linktitle": "DLL",
+  "menu": {
+    "docs": {
+      "parent": "system",
+      "identifier": "system-dll"
     }
   },
-  "lastmod" : "2021-06-29"
+  "lastmod": "2021-06-29"
 }
 
 ## What is a DLL file? ##

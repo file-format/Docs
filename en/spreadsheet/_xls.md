@@ -1,19 +1,20 @@
 {
-  "date" : "2022-06-13",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-06-13",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Your file format guide to know what is an _XLS file and APIs that can create and open _XLS files.",
-  "title" : "_XLS File Format - What is an _XLS file?",
-  "linktitle" : "_XLS",
-  "menu" : {
-    "docs" : {
-      "parent" : "spreadsheet"
+  "draft": "false",
+  "toc": true,
+  "description": "Your file format guide to know what is an _XLS file and APIs that can create and open _XLS files.",
+  "title": "_XLS File Format - What is an _XLS file?",
+  "linktitle": "_XLS",
+  "menu": {
+    "docs": {
+      "parent": "spreadsheet",
+      "identifier": "spreadsheet-_xls"
     }
   },
-  "lastmod" : "2022-06-13"
+  "lastmod": "2022-06-13"
 }
 
 ## What is a \_XLS file?

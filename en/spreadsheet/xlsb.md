@@ -1,20 +1,27 @@
 {
-  "date" : "2019-12-10",
-  "keywords" : [ "XLSB", "file", "extension", "file format", "Excel Binary Spreadsheet File" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-12-10",
+  "keywords": [
+    "XLSB",
+    "file",
+    "extension",
+    "file format",
+    "Excel Binary Spreadsheet File"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Your file format guide to know what is an XLSB file and APIs that can create and open them.",
-  "title" : "What is an XLSB file?",
-  "linktitle" : "XLSB",
-  "menu" : {
-    "docs" : {
-      "parent" : "spreadsheet"
+  "draft": "false",
+  "toc": true,
+  "description": "Your file format guide to know what is an XLSB file and APIs that can create and open them.",
+  "title": "What is an XLSB file?",
+  "linktitle": "XLSB",
+  "menu": {
+    "docs": {
+      "parent": "spreadsheet",
+      "identifier": "spreadsheet-xlsb"
     }
   },
-  "lastmod" : "2019-12-10"
+  "lastmod": "2019-12-10"
 }
 
 ## What is an XLSB file?
