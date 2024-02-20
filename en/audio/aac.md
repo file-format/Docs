@@ -1,20 +1,28 @@
 {
-  "date" : "2019-12-13",
-  "keywords" : [ "AAC", "file", "extension", "format", "Audio Coding", "MPEG" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-12-13",
+  "keywords": [
+    "AAC",
+    "file",
+    "extension",
+    "format",
+    "Audio Coding",
+    "MPEG"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about AAC file format and APIs that can create and open AAC files.",
-  "title" : "AAC - Advanced Audio Coding File",
-  "linktitle" : "AAC",
-  "menu" : {
-    "docs" : {
-      "parent" : "audio"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about AAC file format and APIs that can create and open AAC files.",
+  "title": "AAC - Advanced Audio Coding File",
+  "linktitle": "AAC",
+  "menu": {
+    "docs": {
+      "parent": "audio",
+      "identifier": "audio-aac"
     }
   },
-  "lastmod" : "2021-03-03"
+  "lastmod": "2021-03-03"
 }
 
 ## What is an AAC file?

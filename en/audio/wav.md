@@ -1,20 +1,28 @@
 {
-  "date" : "2019-12-13",
-  "keywords" : [ "WAV", "file", "extension", "format", "audio interchange file format", "music" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-12-13",
+  "keywords": [
+    "WAV",
+    "file",
+    "extension",
+    "format",
+    "audio interchange file format",
+    "music"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about WAV file format and APIs that can create and open WAV files.",
-  "title" : "WAV - Waveform Audio File Format",
-  "linktitle" : "WAV",
-  "menu" : {
-    "docs" : {
-      "parent" : "audio"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about WAV file format and APIs that can create and open WAV files.",
+  "title": "WAV - Waveform Audio File Format",
+  "linktitle": "WAV",
+  "menu": {
+    "docs": {
+      "parent": "audio",
+      "identifier": "audio-wav"
     }
   },
-  "lastmod" : "2019-12-13"
+  "lastmod": "2019-12-13"
 }
 
 ## What is a WAV file?

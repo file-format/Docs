@@ -1,20 +1,32 @@
 {
-  "date" : "2021-04-26",
-  "keywords" : [ "m4a", "mp3", "file", "extension", "format", "what is m4a file format", "music", "m4a file format", "M4A vs MP3", "m4a file format specification"],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-04-26",
+  "keywords": [
+    "m4a",
+    "mp3",
+    "file",
+    "extension",
+    "format",
+    "what is m4a file format",
+    "music",
+    "m4a file format",
+    "M4A vs MP3",
+    "m4a file format specification"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about M4A file format and APIs that can create, convert and open M4A files.",
-  "title" : "M4A - MPEG-4 Audio File",
-  "linktitle" : "M4A",
-  "menu" : {
-    "docs" : {
-      "parent" : "audio"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about M4A file format and APIs that can create, convert and open M4A files.",
+  "title": "M4A - MPEG-4 Audio File",
+  "linktitle": "M4A",
+  "menu": {
+    "docs": {
+      "parent": "audio",
+      "identifier": "audio-m4a"
     }
   },
-  "lastmod" : "2021-04-26"
+  "lastmod": "2021-04-26"
 }
 
 ## What is an M4A file?

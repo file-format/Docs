@@ -1,20 +1,32 @@
 {
-  "date" : "2021-08-04",
-  "keywords" : [ "mod", "mp3", "file", "extension", "format", "what is mod file format", "music", "mod file format", "mod vs MP3", "mod file format specification"],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-08-04",
+  "keywords": [
+    "mod",
+    "mp3",
+    "file",
+    "extension",
+    "format",
+    "what is mod file format",
+    "music",
+    "mod file format",
+    "mod vs MP3",
+    "mod file format specification"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about MOD file format and APIs that can create, convert and open MOD files.",
-  "title" : "MOD - Music Module File",
-  "linktitle" : "MOD",
-  "menu" : {
-    "docs" : {
-      "parent" : "audio"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about MOD file format and APIs that can create, convert and open MOD files.",
+  "title": "MOD - Music Module File",
+  "linktitle": "MOD",
+  "menu": {
+    "docs": {
+      "parent": "audio",
+      "identifier": "audio-mod"
     }
   },
-  "lastmod" : "2021-08-04"
+  "lastmod": "2021-08-04"
 }
 
 ## What is an MOD file?

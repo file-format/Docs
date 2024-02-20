@@ -1,20 +1,29 @@
 {
-  "date" : "2021-06-11",
-  "keywords" : [ "wpl", "wpl file", "extension", "format", "what is a wpl file", "music", "wpl file format"],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-06-11",
+  "keywords": [
+    "wpl",
+    "wpl file",
+    "extension",
+    "format",
+    "what is a wpl file",
+    "music",
+    "wpl file format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about WPL file format and APIs that can create, convert and open WPL files.",
-  "title" : "WPL - Windows Media Player Playlist File",
-  "linktitle" : "WPL",
-  "menu" : {
-    "docs" : {
-      "parent" : "audio"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about WPL file format and APIs that can create, convert and open WPL files.",
+  "title": "WPL - Windows Media Player Playlist File",
+  "linktitle": "WPL",
+  "menu": {
+    "docs": {
+      "parent": "audio",
+      "identifier": "audio-wpl"
     }
   },
-  "lastmod" : "2021-06-11"
+  "lastmod": "2021-06-11"
 }
 
 ## What is a WPL file?

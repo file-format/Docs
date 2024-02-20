@@ -1,20 +1,32 @@
 {
-  "date" : "2021-08-09",
-  "keywords" : [ "mmf", "file", "extension", "format", "audio", "smaf", "mmf extension", "mmf files", "mobile music file", "yamaha"],
-  "author" : {
-    "display_name" : "Sami Cheema"
+  "date": "2021-08-09",
+  "keywords": [
+    "mmf",
+    "file",
+    "extension",
+    "format",
+    "audio",
+    "smaf",
+    "mmf extension",
+    "mmf files",
+    "mobile music file",
+    "yamaha"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about MMF file format and APIs that can create and open MMF files.",
-  "title" : "MMF - Mobile Music File Format",
-  "linktitle" : "MMF",
-  "menu" : {
-    "docs" : {
-      "parent" : "audio"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about MMF file format and APIs that can create and open MMF files.",
+  "title": "MMF - Mobile Music File Format",
+  "linktitle": "MMF",
+  "menu": {
+    "docs": {
+      "parent": "audio",
+      "identifier": "audio-mmf"
     }
   },
-  "lastmod" : "2021-08-09"
+  "lastmod": "2021-08-09"
 }
 
 ## What is an MMF file?

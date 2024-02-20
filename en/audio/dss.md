@@ -1,20 +1,33 @@
 {
-  "date" : "2021-04-26",
-  "keywords" : [ "dss", ".dss", "file", "extension", "format", "What is a DSS file", "music", "dss file format", "DSS file","convert dss to mp3", "How to play DSS files" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-04-26",
+  "keywords": [
+    "dss",
+    ".dss",
+    "file",
+    "extension",
+    "format",
+    "What is a DSS file",
+    "music",
+    "dss file format",
+    "DSS file",
+    "convert dss to mp3",
+    "How to play DSS files"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about DSS file format and APIs that can create, convert and open DSS files.",
-  "title" : "DSS - Digital Speech Standard File",
-  "linktitle" : "DSS",
-  "menu" : {
-    "docs" : {
-      "parent" : "audio"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about DSS file format and APIs that can create, convert and open DSS files.",
+  "title": "DSS - Digital Speech Standard File",
+  "linktitle": "DSS",
+  "menu": {
+    "docs": {
+      "parent": "audio",
+      "identifier": "audio-dss"
     }
   },
-  "lastmod" : "2021-28-05"
+  "lastmod": "2021-28-05"
 }
 
 ## What is a DSS file?

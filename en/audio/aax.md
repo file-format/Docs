@@ -1,20 +1,31 @@
 {
-  "date" : "2021-06-08",
-  "keywords" : [ "AAX", "file", "extension", "format", "AAX file", "audio", "AAX file format", "what is an aax file", "AAX file format specifications" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-06-08",
+  "keywords": [
+    "AAX",
+    "file",
+    "extension",
+    "format",
+    "AAX file",
+    "audio",
+    "AAX file format",
+    "what is an aax file",
+    "AAX file format specifications"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about AAX file format and APIs that can create and open AAX files.",
-  "title" : "AAX - Advanced Audio Coding File",
-  "linktitle" : "AAX",
-  "menu" : {
-    "docs" : {
-      "parent" : "audio"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about AAX file format and APIs that can create and open AAX files.",
+  "title": "AAX - Advanced Audio Coding File",
+  "linktitle": "AAX",
+  "menu": {
+    "docs": {
+      "parent": "audio",
+      "identifier": "audio-aax"
     }
   },
-  "lastmod" : "2021-06-08"
+  "lastmod": "2021-06-08"
 }
 
 ## What is an AAX file?

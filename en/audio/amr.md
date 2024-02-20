@@ -1,20 +1,33 @@
 {
-  "date" : "2021-04-29",
-  "keywords" : [ "amr", ".amr", "file", "extension", "format", "what is an amr file", "music", "amr file format", "amr file","convert amr file to mp3", "play amr file" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-04-29",
+  "keywords": [
+    "amr",
+    ".amr",
+    "file",
+    "extension",
+    "format",
+    "what is an amr file",
+    "music",
+    "amr file format",
+    "amr file",
+    "convert amr file to mp3",
+    "play amr file"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about AMR file format and APIs that can create, convert and open AMR files.",
-  "title" : "AMR - Adaptive Multi-Rate Codec File",
-  "linktitle" : "AMR",
-  "menu" : {
-    "docs" : {
-      "parent" : "audio"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about AMR file format and APIs that can create, convert and open AMR files.",
+  "title": "AMR - Adaptive Multi-Rate Codec File",
+  "linktitle": "AMR",
+  "menu": {
+    "docs": {
+      "parent": "audio",
+      "identifier": "audio-amr"
     }
   },
-  "lastmod" : "2021-04-29"
+  "lastmod": "2021-04-29"
 }
 
 ## What is an AMR file?

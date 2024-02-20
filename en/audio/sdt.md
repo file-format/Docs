@@ -1,20 +1,28 @@
 {
-  "date" : "2019-12-13",
-  "keywords" : [ "SDT", "file", "extension", "format", "Audio", "MPEG" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-12-13",
+  "keywords": [
+    "SDT",
+    "file",
+    "extension",
+    "format",
+    "Audio",
+    "MPEG"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about SDT file format and APIs that can create and open SDT files.",
-  "title" : "SDT File Format",
-  "linktitle" : "SDT",
-  "menu" : {
-    "docs" : {
-      "parent" : "audio"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about SDT file format and APIs that can create and open SDT files.",
+  "title": "SDT File Format",
+  "linktitle": "SDT",
+  "menu": {
+    "docs": {
+      "parent": "audio",
+      "identifier": "audio-sdt"
     }
   },
-  "lastmod" : "2020-10-04"
+  "lastmod": "2020-10-04"
 }
 
 ## What is a SDT file?

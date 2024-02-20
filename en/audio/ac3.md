@@ -1,20 +1,28 @@
 {
-  "date" : "2019-12-13",
-  "keywords" : [ "AC3", "file", "extension", "format", "Audio Coding", "MPEG" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-12-13",
+  "keywords": [
+    "AC3",
+    "file",
+    "extension",
+    "format",
+    "Audio Coding",
+    "MPEG"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about AC3 file format and APIs that can create and open AC3 files.",
-  "title" : "AC3 - Audio Codec 3 File",
-  "linktitle" : "AC3",
-  "menu" : {
-    "docs" : {
-      "parent" : "audio"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about AC3 file format and APIs that can create and open AC3 files.",
+  "title": "AC3 - Audio Codec 3 File",
+  "linktitle": "AC3",
+  "menu": {
+    "docs": {
+      "parent": "audio",
+      "identifier": "audio-ac3"
     }
   },
-  "lastmod" : "2019-12-13"
+  "lastmod": "2019-12-13"
 }
 
 ## What is an AC3 file?

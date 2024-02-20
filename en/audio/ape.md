@@ -1,20 +1,33 @@
 {
-  "date" : "2021-04-30",
-  "keywords" : [ "ape", ".ape", "file", "extension", "format", "what is ape file", "music", "ape file format", "ape file","ape file extension", "how to open ape file" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-04-30",
+  "keywords": [
+    "ape",
+    ".ape",
+    "file",
+    "extension",
+    "format",
+    "what is ape file",
+    "music",
+    "ape file format",
+    "ape file",
+    "ape file extension",
+    "how to open ape file"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about APE file format and APIs that can create, convert and open APE files.",
-  "title" : "APE - Monkey's Audio Lossless Audio File",
-  "linktitle" : "APE",
-  "menu" : {
-    "docs" : {
-      "parent" : "audio"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about APE file format and APIs that can create, convert and open APE files.",
+  "title": "APE - Monkey's Audio Lossless Audio File",
+  "linktitle": "APE",
+  "menu": {
+    "docs": {
+      "parent": "audio",
+      "identifier": "audio-ape"
     }
   },
-  "lastmod" : "2021-04-30"
+  "lastmod": "2021-04-30"
 }
 
 ## What is APE file?

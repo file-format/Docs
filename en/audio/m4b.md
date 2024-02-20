@@ -1,20 +1,32 @@
 {
-  "date" : "2021-06-09",
-  "keywords" : [ "m4b", "mp3", "file", "extension", "format", "what is m4b file format", "music", "m4b file format", "M4b vs MP3", "m4b file format specification"],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-06-09",
+  "keywords": [
+    "m4b",
+    "mp3",
+    "file",
+    "extension",
+    "format",
+    "what is m4b file format",
+    "music",
+    "m4b file format",
+    "M4b vs MP3",
+    "m4b file format specification"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about M4B file format and APIs that can create, convert and open M4B files.",
-  "title" : "M4B - MPEG-4 Audiobook File Format",
-  "linktitle" : "M4B",
-  "menu" : {
-    "docs" : {
-      "parent" : "audio"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about M4B file format and APIs that can create, convert and open M4B files.",
+  "title": "M4B - MPEG-4 Audiobook File Format",
+  "linktitle": "M4B",
+  "menu": {
+    "docs": {
+      "parent": "audio",
+      "identifier": "audio-m4b"
     }
   },
-  "lastmod" : "2021-06-09"
+  "lastmod": "2021-06-09"
 }
 
 ## What is an M4B file?

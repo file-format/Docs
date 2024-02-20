@@ -1,19 +1,20 @@
 {
-  "date" : "2022-07-13",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-07-13",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about WEBA file format and APIs that can create and open WEBA files.",
-  "title" : "WEBA - What is a WebA file?",
-  "linktitle" : "WEBA",
-  "menu" : {
-    "docs" : {
-      "parent" : "audio"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about WEBA file format and APIs that can create and open WEBA files.",
+  "title": "WEBA - What is a WebA file?",
+  "linktitle": "WEBA",
+  "menu": {
+    "docs": {
+      "parent": "audio",
+      "identifier": "audio-weba"
     }
   },
-  "lastmod" : "2022-07-13"
+  "lastmod": "2022-07-13"
 }
 
 ## What is a WEBA file?

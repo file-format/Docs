@@ -1,20 +1,30 @@
 {
-  "date" : "2021-08-05",
-  "keywords" : [ "gsm", "file", "extension", "format", "Audio", "Global System for Mobile Audio", "gsm extension", "gsm files"],
-  "author" : {
-    "display_name" : "Sami Cheema"
+  "date": "2021-08-05",
+  "keywords": [
+    "gsm",
+    "file",
+    "extension",
+    "format",
+    "Audio",
+    "Global System for Mobile Audio",
+    "gsm extension",
+    "gsm files"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about GSM file format and APIs that can create and open GSM files.",
-  "title" : "GSM - Global System for Mobile Audio File Format",
-  "linktitle" : "GSM",
-  "menu" : {
-    "docs" : {
-      "parent" : "audio"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about GSM file format and APIs that can create and open GSM files.",
+  "title": "GSM - Global System for Mobile Audio File Format",
+  "linktitle": "GSM",
+  "menu": {
+    "docs": {
+      "parent": "audio",
+      "identifier": "audio-gsm"
     }
   },
-  "lastmod" : "2021-08-05"
+  "lastmod": "2021-08-05"
 }
 
 ## What is a GSM file?

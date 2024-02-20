@@ -1,20 +1,28 @@
 {
-  "date" : "2019-12-13",
-  "keywords" : [ "MP3", "file", "extension", "format", "Audio", "MPEG" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-12-13",
+  "keywords": [
+    "MP3",
+    "file",
+    "extension",
+    "format",
+    "Audio",
+    "MPEG"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about MP3 file format and APIs that can open and create MP3 files.",
-  "title" : "MP3 - Audio File Format",
-  "linktitle" : "MP3",
-  "menu" : {
-    "docs" : {
-      "parent" : "audio"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about MP3 file format and APIs that can open and create MP3 files.",
+  "title": "MP3 - Audio File Format",
+  "linktitle": "MP3",
+  "menu": {
+    "docs": {
+      "parent": "audio",
+      "identifier": "audio-mp3"
     }
   },
-  "lastmod" : "2020-09-04"
+  "lastmod": "2020-09-04"
 }
 
 ## What is an MP3 file?

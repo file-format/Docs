@@ -1,20 +1,28 @@
 {
-  "date" : "2019-12-13",
-  "keywords" : [ "MID", "file", "extension", "format", "Audio Coding", "MPEG" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-12-13",
+  "keywords": [
+    "MID",
+    "file",
+    "extension",
+    "format",
+    "Audio Coding",
+    "MPEG"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Your file format guide to learn what is an MID file and APIs that can create and open MID file.",
-  "title" : "MIDI File Format",
-  "linktitle" : "MID",
-  "menu" : {
-    "docs" : {
-      "parent" : "audio"
+  "draft": "false",
+  "toc": true,
+  "description": "Your file format guide to learn what is an MID file and APIs that can create and open MID file.",
+  "title": "MIDI File Format",
+  "linktitle": "MID",
+  "menu": {
+    "docs": {
+      "parent": "audio",
+      "identifier": "audio-mid"
     }
   },
-  "lastmod" : "2020-11-102"
+  "lastmod": "2020-11-102"
 }
 
 ## What is a MID file?

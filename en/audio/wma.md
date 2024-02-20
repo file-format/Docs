@@ -1,20 +1,28 @@
 {
-  "date" : "2021-02-20",
-  "keywords" : [ "WMA", "file", "extension", "format", "audio interchange file format", "music" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-02-20",
+  "keywords": [
+    "WMA",
+    "file",
+    "extension",
+    "format",
+    "audio interchange file format",
+    "music"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about WMA file format and APIs that can create and open WMA files.",
-  "title" : "WMA - Windows Media Audio File",
-  "linktitle" : "WMA",
-  "menu" : {
-    "docs" : {
-      "parent" : "audio"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about WMA file format and APIs that can create and open WMA files.",
+  "title": "WMA - Windows Media Audio File",
+  "linktitle": "WMA",
+  "menu": {
+    "docs": {
+      "parent": "audio",
+      "identifier": "audio-wma"
     }
   },
-  "lastmod" : "2021-02-20"
+  "lastmod": "2021-02-20"
 }
 
 ## What is a WMA file?

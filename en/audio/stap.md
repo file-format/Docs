@@ -1,20 +1,28 @@
 {
-  "date" : "2019-12-13",
-  "keywords" : [ "STAP", "file", "extension", "format", "Audio", "MPEG" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-12-13",
+  "keywords": [
+    "STAP",
+    "file",
+    "extension",
+    "format",
+    "Audio",
+    "MPEG"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about STAP file format and APIs that can open and create STAP files.",
-  "title" : "STAP - Soundtrack Pro File Format",
-  "linktitle" : "STAP",
-  "menu" : {
-    "docs" : {
-      "parent" : "audio"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about STAP file format and APIs that can open and create STAP files.",
+  "title": "STAP - Soundtrack Pro File Format",
+  "linktitle": "STAP",
+  "menu": {
+    "docs": {
+      "parent": "audio",
+      "identifier": "audio-stap"
     }
   },
-  "lastmod" : "2020-09-04"
+  "lastmod": "2020-09-04"
 }
 
 ## What is a STAP file?

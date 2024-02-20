@@ -1,19 +1,20 @@
 {
-  "date" : "2022-04-29",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-04-29",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about WFP file format and APIs that can create and open WFP files.",
-  "title" : "WFP File Format - WaveFront Program File",
-  "linktitle" : "WFP",
-  "menu" : {
-    "docs" : {
-      "parent" : "audio"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about WFP file format and APIs that can create and open WFP files.",
+  "title": "WFP File Format - WaveFront Program File",
+  "linktitle": "WFP",
+  "menu": {
+    "docs": {
+      "parent": "audio",
+      "identifier": "audio-wfp"
     }
   },
-  "lastmod" : "2022-04-29"
+  "lastmod": "2022-04-29"
 }
 
 ## What is a WFP file?

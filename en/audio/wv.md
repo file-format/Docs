@@ -1,20 +1,31 @@
 {
-  "date" : "2021-08-03",
-  "keywords" : [ "WV", "file", "extension", "format", "Audio", "WavPack", "wv extension", "wv files", "Sonarc compressor"],
-  "author" : {
-    "display_name" : "Sami Cheema"
+  "date": "2021-08-03",
+  "keywords": [
+    "WV",
+    "file",
+    "extension",
+    "format",
+    "Audio",
+    "WavPack",
+    "wv extension",
+    "wv files",
+    "Sonarc compressor"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about WV file format and APIs that can create and open WV files.",
-  "title" : "WV - WavPack Audio File Format",
-  "linktitle" : "WV",
-  "menu" : {
-    "docs" : {
-      "parent" : "audio"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about WV file format and APIs that can create and open WV files.",
+  "title": "WV - WavPack Audio File Format",
+  "linktitle": "WV",
+  "menu": {
+    "docs": {
+      "parent": "audio",
+      "identifier": "audio-wv"
     }
   },
-  "lastmod" : "2021-08-03"
+  "lastmod": "2021-08-03"
 }
 
 ## What is a WV file? ##

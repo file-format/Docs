@@ -1,20 +1,32 @@
 {
-  "date" : "2021-06-09",
-  "keywords" : [ "m4p", "mp3", "file", "extension", "format", "what is m4p file format", "music", "m4p file format", "M4b vs MP3", "m4p file format specification"],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-06-09",
+  "keywords": [
+    "m4p",
+    "mp3",
+    "file",
+    "extension",
+    "format",
+    "what is m4p file format",
+    "music",
+    "m4p file format",
+    "M4b vs MP3",
+    "m4p file format specification"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about M4P file format and APIs that can create, convert and open M4P files.",
-  "title" : "M4P - MPEG-4 Audiobook File Format",
-  "linktitle" : "M4P",
-  "menu" : {
-    "docs" : {
-      "parent" : "audio"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about M4P file format and APIs that can create, convert and open M4P files.",
+  "title": "M4P - MPEG-4 Audiobook File Format",
+  "linktitle": "M4P",
+  "menu": {
+    "docs": {
+      "parent": "audio",
+      "identifier": "audio-m4p"
     }
   },
-  "lastmod" : "2021-06-09"
+  "lastmod": "2021-06-09"
 }
 
 ## What is an M4P file?

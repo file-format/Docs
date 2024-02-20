@@ -1,20 +1,32 @@
 {
-  "date" : "2021-08-11",
-  "keywords" : [ "vox", "file", "extension", "format", "audio", "ADPCM", "Dialogic ADPCM", "Xentec VOX Studio","vox extension", "vox files"],
-  "author" : {
-    "display_name" : "Sami Cheema"
+  "date": "2021-08-11",
+  "keywords": [
+    "vox",
+    "file",
+    "extension",
+    "format",
+    "audio",
+    "ADPCM",
+    "Dialogic ADPCM",
+    "Xentec VOX Studio",
+    "vox extension",
+    "vox files"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about VOX file format and APIs that can create and open VOX files.",
-  "title" : "VOX - Audio File Format",
-  "linktitle" : "VOX",
-  "menu" : {
-    "docs" : {
-      "parent" : "audio"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about VOX file format and APIs that can create and open VOX files.",
+  "title": "VOX - Audio File Format",
+  "linktitle": "VOX",
+  "menu": {
+    "docs": {
+      "parent": "audio",
+      "identifier": "audio-vox"
     }
   },
-  "lastmod" : "2021-08-11"
+  "lastmod": "2021-08-11"
 }
 
 ## What is a VOX file? ##

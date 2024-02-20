@@ -1,20 +1,30 @@
 {
-  "date" : "2021-06-09",
-  "keywords" : [ "cda", "file", "extension", "format", "what is a cda file", "music", "cda file format", "cda file format specification"],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-06-09",
+  "keywords": [
+    "cda",
+    "file",
+    "extension",
+    "format",
+    "what is a cda file",
+    "music",
+    "cda file format",
+    "cda file format specification"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about CDA file format and APIs that can create, convert and open CDA files.",
-  "title" : "CDA - CD Audio Track Shortcut File",
-  "linktitle" : "CDA",
-  "menu" : {
-    "docs" : {
-      "parent" : "audio"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about CDA file format and APIs that can create, convert and open CDA files.",
+  "title": "CDA - CD Audio Track Shortcut File",
+  "linktitle": "CDA",
+  "menu": {
+    "docs": {
+      "parent": "audio",
+      "identifier": "audio-cda"
     }
   },
-  "lastmod" : "2021-06-09"
+  "lastmod": "2021-06-09"
 }
 
 ## What is a CDA file?

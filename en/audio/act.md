@@ -1,20 +1,30 @@
 {
-  "date" : "2021-08-10",
-  "keywords" : [ "act", "file", "extension", "format", "Audio", "Adobe Color Table", "act extension", "act files"],
-  "author" : {
-    "display_name" : "Sami Cheema"
+  "date": "2021-08-10",
+  "keywords": [
+    "act",
+    "file",
+    "extension",
+    "format",
+    "Audio",
+    "Adobe Color Table",
+    "act extension",
+    "act files"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about ACT file format and APIs that can create and open ACT files.",
-  "title" : "ACT - File Format",
-  "linktitle" : "ACT",
-  "menu" : {
-    "docs" : {
-      "parent" : "audio"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about ACT file format and APIs that can create and open ACT files.",
+  "title": "ACT - File Format",
+  "linktitle": "ACT",
+  "menu": {
+    "docs": {
+      "parent": "audio",
+      "identifier": "audio-act"
     }
   },
-  "lastmod" : "2021-08-10"
+  "lastmod": "2021-08-10"
 }
 
 ## What is an ACT file? ##

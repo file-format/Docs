@@ -1,20 +1,30 @@
 {
-  "date" : "2021-08-11",
-  "keywords" : [ "voc", "file", "extension", "format", "audio", "RCA digital voice recorder", "voc extension", "voc files"],
-  "author" : {
-    "display_name" : "Sami Cheema"
+  "date": "2021-08-11",
+  "keywords": [
+    "voc",
+    "file",
+    "extension",
+    "format",
+    "audio",
+    "RCA digital voice recorder",
+    "voc extension",
+    "voc files"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about VOC file format and APIs that can create and open VOC files.",
-  "title" : "VOC - Audio File Format",
-  "linktitle" : "VOC",
-  "menu" : {
-    "docs" : {
-      "parent" : "audio"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about VOC file format and APIs that can create and open VOC files.",
+  "title": "VOC - Audio File Format",
+  "linktitle": "VOC",
+  "menu": {
+    "docs": {
+      "parent": "audio",
+      "identifier": "audio-voc"
     }
   },
-  "lastmod" : "2021-08-11"
+  "lastmod": "2021-08-11"
 }
 
 ## What is a VOC file? ##

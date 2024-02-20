@@ -1,20 +1,32 @@
 {
-  "date" : "2021-04-26",
-  "keywords" : [ "aiff", "file", "extension", "format", "audio interchange file format", "music", "aiff file format", "aiff to mp3", "aiff vs wav", "convert aiff to mp3" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-04-26",
+  "keywords": [
+    "aiff",
+    "file",
+    "extension",
+    "format",
+    "audio interchange file format",
+    "music",
+    "aiff file format",
+    "aiff to mp3",
+    "aiff vs wav",
+    "convert aiff to mp3"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about AIFF file format and APIs that can create, convert and open AIFF files.",
-  "title" : "AIFF - Audio Interchange File Format",
-  "linktitle" : "AIFF",
-  "menu" : {
-    "docs" : {
-      "parent" : "audio"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about AIFF file format and APIs that can create, convert and open AIFF files.",
+  "title": "AIFF - Audio Interchange File Format",
+  "linktitle": "AIFF",
+  "menu": {
+    "docs": {
+      "parent": "audio",
+      "identifier": "audio-aiff"
     }
   },
-  "lastmod" : "2021-04-26"
+  "lastmod": "2021-04-26"
 }
 
 ## What is an AIFF file?

@@ -1,20 +1,29 @@
 {
-  "date" : "2021-06-11",
-  "keywords" : [ "mp2", "mp2 file", "extension", "format", "what is an mp2 file", "music", "mp2 file format"],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-06-11",
+  "keywords": [
+    "mp2",
+    "mp2 file",
+    "extension",
+    "format",
+    "what is an mp2 file",
+    "music",
+    "mp2 file format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about MP2 file format and APIs that can create, convert and open MP2 files.",
-  "title" : "MP2 - MPEG Layer 2 Audio File Format",
-  "linktitle" : "MP2",
-  "menu" : {
-    "docs" : {
-      "parent" : "audio"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about MP2 file format and APIs that can create, convert and open MP2 files.",
+  "title": "MP2 - MPEG Layer 2 Audio File Format",
+  "linktitle": "MP2",
+  "menu": {
+    "docs": {
+      "parent": "audio",
+      "identifier": "audio-mp2"
     }
   },
-  "lastmod" : "2021-06-11"
+  "lastmod": "2021-06-11"
 }
 
 ## What is an MP2 file?

@@ -1,20 +1,30 @@
 {
-  "date" : "2021-08-27",
-  "keywords" : [ "vqf file", "vqf file format", "what is a vqf file", "file", "vqf example", "vqf file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-08-27",
+  "keywords": [
+    "vqf file",
+    "vqf file format",
+    "what is a vqf file",
+    "file",
+    "vqf example",
+    "vqf file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about VQF file format and APIs that can create and open VQF files.",
-  "title" : "VQF - TwinVQ Audio File",
-  "linktitle" : "VQF",
-  "menu" : {
-    "docs" : {
-      "parent" : "audio"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about VQF file format and APIs that can create and open VQF files.",
+  "title": "VQF - TwinVQ Audio File",
+  "linktitle": "VQF",
+  "menu": {
+    "docs": {
+      "parent": "audio",
+      "identifier": "audio-vqf"
     }
   },
-  "lastmod" : "2021-08-27"
+  "lastmod": "2021-08-27"
 }
 
 ## What is a VQF file?

@@ -1,20 +1,30 @@
 {
-  "date" : "2021-08-04",
-  "keywords" : [ "8svx", "file", "extension", "format", "Audio Coding", "Audible AudioBook", "8svx extension", "8svx files"],
-  "author" : {
-    "display_name" : "Sami Cheema"
+  "date": "2021-08-04",
+  "keywords": [
+    "8svx",
+    "file",
+    "extension",
+    "format",
+    "Audio Coding",
+    "Audible AudioBook",
+    "8svx extension",
+    "8svx files"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about 8SVX file format and APIs that can create and open 8SVX files.",
-  "title" : "8SVX - 8Bit Sampled Voice File Format",
-  "linktitle" : "8SVX",
-  "menu" : {
-    "docs" : {
-      "parent" : "audio"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about 8SVX file format and APIs that can create and open 8SVX files.",
+  "title": "8SVX - 8Bit Sampled Voice File Format",
+  "linktitle": "8SVX",
+  "menu": {
+    "docs": {
+      "parent": "audio",
+      "identifier": "audio-8svx"
     }
   },
-  "lastmod" : "2021-08-04"
+  "lastmod": "2021-08-04"
 }
 
 ## What is an 8SVX file? ##

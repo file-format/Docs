@@ -1,20 +1,27 @@
 {
-  "date" : "2021-02-26",
-  "keywords" : [ "OPUS", "file", "extension", "format", "Audio Coding"],
-  "author" : {
-    "display_name" : "Sami Cheema"
+  "date": "2021-02-26",
+  "keywords": [
+    "OPUS",
+    "file",
+    "extension",
+    "format",
+    "Audio Coding"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : "Learn about OPUS file format and APIs that can create and open OPUS files.",
-  "title" : "OPUS",
-  "linktitle" : "OPUS",
-  "menu" : {
-    "docs" : {
-      "parent" : "audio"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about OPUS file format and APIs that can create and open OPUS files.",
+  "title": "OPUS",
+  "linktitle": "OPUS",
+  "menu": {
+    "docs": {
+      "parent": "audio",
+      "identifier": "audio-opus"
     }
   },
-  "lastmod" : "2021-02-26"
+  "lastmod": "2021-02-26"
 }
 
 ## What is an OPUS file?
