@@ -1,20 +1,28 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "cs", "file", "extension", "file format", "CSharp", "Programming Language" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "cs",
+    "file",
+    "extension",
+    "file format",
+    "CSharp",
+    "Programming Language"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "CS - CSharp Code File",
-  "description":"Learn about CS file format and APIs that can create and open CS files.",
-  "linktitle" : "CS",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
+  "draft": "false",
+  "toc": true,
+  "title": "CS - CSharp Code File",
+  "description": "Learn about CS file format and APIs that can create and open CS files.",
+  "linktitle": "CS",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-cs"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is a CS file?

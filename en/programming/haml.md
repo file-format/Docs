@@ -1,19 +1,20 @@
 {
-  "date" : "2022-04-07",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-04-07",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "HAML File Format - Haml Source Code File",
-  "description":"Learn about HAML file format and APIs that can create and open HAML file.",
-  "linktitle" : "HAML",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
+  "draft": "false",
+  "toc": true,
+  "title": "HAML File Format - Haml Source Code File",
+  "description": "Learn about HAML file format and APIs that can create and open HAML file.",
+  "linktitle": "HAML",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-haml"
     }
   },
-  "lastmod" : "2022-04-07"
+  "lastmod": "2022-04-07"
 }
 
 ## What is an HAML file?

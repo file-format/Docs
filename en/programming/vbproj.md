@@ -1,20 +1,28 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "vbproj", "file", "extension", "file format", "VB Project File", "Programming Guide" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "vbproj",
+    "file",
+    "extension",
+    "file format",
+    "VB Project File",
+    "Programming Guide"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "VBPROJ",
-  "description":"Learn about VBPROJ file format and APIs that can create and open VBPROJ files.",
-  "linktitle" : "VBPROJ",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
+  "draft": "false",
+  "toc": true,
+  "title": "VBPROJ",
+  "description": "Learn about VBPROJ file format and APIs that can create and open VBPROJ files.",
+  "linktitle": "VBPROJ",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-vbproj"
     }
   },
-  "lastmod" : "2020-09-10"
+  "lastmod": "2020-09-10"
 }
 
 ## What is a VBPROJ file?

@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "mpx file", "mpx file format", "what is a mpx file", "file", "mpx example", "mpx file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "mpx file",
+    "mpx file format",
+    "what is a mpx file",
+    "file",
+    "mpx example",
+    "mpx file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "MPX - Microsoft Project Exchange File Format",
-  "description":"Learn about MPX file format and APIs that can create and open MPX files.",
-  "linktitle" : "MPX",
-  "menu" : {
-    "docs" : {
-      "parent" : "project-management"
+  "draft": "false",
+  "toc": true,
+  "title": "MPX - Microsoft Project Exchange File Format",
+  "description": "Learn about MPX file format and APIs that can create and open MPX files.",
+  "linktitle": "MPX",
+  "menu": {
+    "docs": {
+      "parent": "project-management",
+      "identifier": "project-management-mpx"
     }
   },
-  "lastmod" : "2021-05-07"
+  "lastmod": "2021-05-07"
 }
 
 ## What is an MPX file? ##

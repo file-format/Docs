@@ -1,19 +1,20 @@
 {
-  "date" : "2022-04-12",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-04-12",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "SCALA - Scala Source Code File",
-  "description":"Learn about SCALA file format and APIs that can create and open SCALA files.",
-  "linktitle" : "SCALA",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
+  "draft": "false",
+  "toc": true,
+  "title": "SCALA - Scala Source Code File",
+  "description": "Learn about SCALA file format and APIs that can create and open SCALA files.",
+  "linktitle": "SCALA",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-scala"
     }
   },
-  "lastmod" : "2022-04-12"
+  "lastmod": "2022-04-12"
 }
 
 ## What is a SCALA file?

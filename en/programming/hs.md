@@ -1,20 +1,34 @@
 {
-  "date" : "2021-04-21",
-  "keywords": [ "what is a HS file", "tutorials on HS","HS means","HS", "HS files", "extension", "format", "HS tutorial", ".hs", "HS example","hs file extension" ,"how to open a hs file"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-04-21",
+  "keywords": [
+    "what is a HS file",
+    "tutorials on HS",
+    "HS means",
+    "HS",
+    "HS files",
+    "extension",
+    "format",
+    "HS tutorial",
+    ".hs",
+    "HS example",
+    "hs file extension",
+    "how to open a hs file"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "HS - Haskell Script File Format",
-  "description":"Learn about what is a HS file format and APIs that can create and open HS files.",
-  "linktitle" : "HS",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
+  "draft": "false",
+  "toc": true,
+  "title": "HS - Haskell Script File Format",
+  "description": "Learn about what is a HS file format and APIs that can create and open HS files.",
+  "linktitle": "HS",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-hs"
     }
   },
-  "lastmod" : "2021-06-15"
+  "lastmod": "2021-06-15"
 }
 
 # HS - Java HelpSet File Format

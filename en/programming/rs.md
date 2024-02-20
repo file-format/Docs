@@ -1,20 +1,31 @@
 {
-  "date" : "2021-09-01", 
-  "keywords" : [ "RS", "file", "extension", "file format", "Rust programming language", "Programming Guide", "RS example", "Rust", "VBScript" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
+  "date": "2021-09-01",
+  "keywords": [
+    "RS",
+    "file",
+    "extension",
+    "file format",
+    "Rust programming language",
+    "Programming Guide",
+    "RS example",
+    "Rust",
+    "VBScript"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "RS - Rust Programming File",
-  "description":"Learn about RS file format and APIs that can create and open RS files.",
-  "linktitle" : "RS",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
+  "draft": "false",
+  "toc": true,
+  "title": "RS - Rust Programming File",
+  "description": "Learn about RS file format and APIs that can create and open RS files.",
+  "linktitle": "RS",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-rs"
     }
   },
-  "lastmod" : "2021-09-01"
+  "lastmod": "2021-09-01"
 }
 
 ## What is an RS file?

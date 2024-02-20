@@ -1,20 +1,27 @@
 {
-  "date" : "2021-04-22",
-  "keywords": [ "appxupload file", "extension", "format","how to open appxupload file","appxupload file format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-04-22",
+  "keywords": [
+    "appxupload file",
+    "extension",
+    "format",
+    "how to open appxupload file",
+    "appxupload file format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "APPXUPLOAD - What is an .appxupload file?",
-  "description":"Learn about APPXUPLOAD file format and APIs that can create and open APPXUPLOAD files.",
-  "linktitle" : "APPXUPLOAD",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
+  "draft": "false",
+  "toc": true,
+  "title": "APPXUPLOAD - What is an .appxupload file?",
+  "description": "Learn about APPXUPLOAD file format and APIs that can create and open APPXUPLOAD files.",
+  "linktitle": "APPXUPLOAD",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-appxupload"
     }
   },
-  "lastmod" : "2021-12-20"
+  "lastmod": "2021-12-20"
 }
 
 ## What is an APPXUPLOAD file?

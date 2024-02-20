@@ -1,19 +1,20 @@
 {
-  "date" : "2022-04-14",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-04-14",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "SCRIPT - Generic Script File",
-  "description":"Learn about SCRIPT file format and APIs that can create and open SCRIPT files.",
-  "linktitle" : "SCRIPT",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
+  "draft": "false",
+  "toc": true,
+  "title": "SCRIPT - Generic Script File",
+  "description": "Learn about SCRIPT file format and APIs that can create and open SCRIPT files.",
+  "linktitle": "SCRIPT",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-script"
     }
   },
-  "lastmod" : "2022-04-14"
+  "lastmod": "2022-04-14"
 }
 
 ## What is a SCRIPT file?

@@ -1,20 +1,27 @@
 {
-  "date" : "2021-04-22",
-  "keywords": [ "appx file", "extension", "format","how to open appx file","appx file format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-04-22",
+  "keywords": [
+    "appx file",
+    "extension",
+    "format",
+    "how to open appx file",
+    "appx file format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "APPX - What is an APPX file?",
-  "description":"Learn about APPX file format and APIs that can create and open APPX files.",
-  "linktitle" : "APPX",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
+  "draft": "false",
+  "toc": true,
+  "title": "APPX - What is an APPX file?",
+  "description": "Learn about APPX file format and APIs that can create and open APPX files.",
+  "linktitle": "APPX",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-appx"
     }
   },
-  "lastmod" : "2021-12-16"
+  "lastmod": "2021-12-16"
 }
 
 ## What is an APPX file?

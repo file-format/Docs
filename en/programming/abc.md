@@ -1,21 +1,29 @@
 
 {
-  "date" : "2021-12-14",
-  "keywords": [ ".abc file", "extension", "format","ActionScript Byte Code File", "how to open .abc file","abc file format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-12-14",
+  "keywords": [
+    ".abc file",
+    "extension",
+    "format",
+    "ActionScript Byte Code File",
+    "how to open .abc file",
+    "abc file format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ABC - ActionScript Byte Code File",
-  "description":"Learn about what is ABC file format with example and APIs that can create and open ABC files.",
-  "linktitle" : "ABC",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
+  "draft": "false",
+  "toc": true,
+  "title": "ABC - ActionScript Byte Code File",
+  "description": "Learn about what is ABC file format with example and APIs that can create and open ABC files.",
+  "linktitle": "ABC",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-abc"
     }
   },
-  "lastmod" : "2021-12-14"
+  "lastmod": "2021-12-14"
 }
 
 ## What is an ABC file?

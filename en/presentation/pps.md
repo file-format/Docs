@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "pps file", "pps file format", "what is a pps file", "file", "pps example", "pps file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "pps file",
+    "pps file format",
+    "what is a pps file",
+    "file",
+    "pps example",
+    "pps file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "PPS - PowerPoint Slide Show File",
-  "description":"Learn about PPS file format and APIs that can create and open PPS files.",
-  "linktitle" : "PPS",
-  "menu" : {
-    "docs" : {
-      "parent" : "presentation"
+  "draft": "false",
+  "toc": true,
+  "title": "PPS - PowerPoint Slide Show File",
+  "description": "Learn about PPS file format and APIs that can create and open PPS files.",
+  "linktitle": "PPS",
+  "menu": {
+    "docs": {
+      "parent": "presentation",
+      "identifier": "presentation-pps"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is a PPS file?

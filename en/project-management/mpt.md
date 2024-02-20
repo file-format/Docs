@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "mpt file", "mpt file format", "what is a mpt file", "file", "mpt example", "mpt file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "mpt file",
+    "mpt file format",
+    "what is a mpt file",
+    "file",
+    "mpt example",
+    "mpt file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "MPT - Microsoft Project Template File Format",
-  "description":"Learn about MPT file format and APIs that can create and open MPT files.",
-  "linktitle" : "MPT",
-  "menu" : {
-    "docs" : {
-      "parent" : "project-management"
+  "draft": "false",
+  "toc": true,
+  "title": "MPT - Microsoft Project Template File Format",
+  "description": "Learn about MPT file format and APIs that can create and open MPT files.",
+  "linktitle": "MPT",
+  "menu": {
+    "docs": {
+      "parent": "project-management",
+      "identifier": "project-management-mpt"
     }
   },
-  "lastmod" : "2021-05-07"
+  "lastmod": "2021-05-07"
 }
 
 ## What is an MPT file? ##

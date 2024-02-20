@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ ".swf", "SWF", "Apple swift", "file", "extension", "file format", "apple swift tutorial", "programming guide" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    ".swf",
+    "SWF",
+    "Apple swift",
+    "file",
+    "extension",
+    "file format",
+    "apple swift tutorial",
+    "programming guide"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "SWIFT - Apple Source Code File",
-  "description":"Learn about SWIFT file format and APIs that can create and open SWIFT files.",
-  "linktitle" : "SWIFT",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
+  "draft": "false",
+  "toc": true,
+  "title": "SWIFT - Apple Source Code File",
+  "description": "Learn about SWIFT file format and APIs that can create and open SWIFT files.",
+  "linktitle": "SWIFT",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-swift"
     }
   },
-  "lastmod" : "2020-09-10"
+  "lastmod": "2020-09-10"
 }
 
 ## What is a Swift file?

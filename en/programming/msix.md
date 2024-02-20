@@ -1,20 +1,27 @@
 {
-  "date" : "2021-04-22",
-  "keywords": [ "msix file", "extension", "format","how to open msix file","msix file format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-04-22",
+  "keywords": [
+    "msix file",
+    "extension",
+    "format",
+    "how to open msix file",
+    "msix file format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "MSIX - What is an MSIX file?",
-  "description":"Learn about MSIX file and APIs that can create and open MSIX files.",
-  "linktitle" : "MSIX",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
+  "draft": "false",
+  "toc": true,
+  "title": "MSIX - What is an MSIX file?",
+  "description": "Learn about MSIX file and APIs that can create and open MSIX files.",
+  "linktitle": "MSIX",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-msix"
     }
   },
-  "lastmod" : "2021-12-16"
+  "lastmod": "2021-12-16"
 }
 
 ## What is an MSIX file?

@@ -1,19 +1,20 @@
 {
-  "date" : "2021-09-08",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-09-08",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "LGO File Format - Logo Instructions File",
-  "description":"Learn about LGO file format and APIs that can create and open LGO files.",
-  "linktitle" : "LGO",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
+  "draft": "false",
+  "toc": true,
+  "title": "LGO File Format - Logo Instructions File",
+  "description": "Learn about LGO file format and APIs that can create and open LGO files.",
+  "linktitle": "LGO",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-lgo"
     }
   },
-  "lastmod" : "2021-09-08"
+  "lastmod": "2021-09-08"
 }
 
 ## What is an LGO file?

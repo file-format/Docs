@@ -1,20 +1,28 @@
 {
-  "date" : "2022-03-21",
-  "keywords" : [ "cxx", "file", "extension", "file format", "Cxx", "Programming Language" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-03-21",
+  "keywords": [
+    "cxx",
+    "file",
+    "extension",
+    "file format",
+    "Cxx",
+    "Programming Language"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "CXX - C++ Source Code File",
-  "description":"Learn about CXX file format and APIs that can create and open CXX files.",
-  "linktitle" : "CXX",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
+  "draft": "false",
+  "toc": true,
+  "title": "CXX - C++ Source Code File",
+  "description": "Learn about CXX file format and APIs that can create and open CXX files.",
+  "linktitle": "CXX",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-cxx"
     }
   },
-  "lastmod" : "2022-03-21"
+  "lastmod": "2022-03-21"
 }
 
 ## What is a CXX file?

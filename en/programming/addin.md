@@ -1,20 +1,30 @@
 {
-  "date" : "2021-04-22",
-  "keywords": [ "addin file", "visual studio addin file", "extension", "format","addin file visual studio","addin file extension","how to open addin file","addin file format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-04-22",
+  "keywords": [
+    "addin file",
+    "visual studio addin file",
+    "extension",
+    "format",
+    "addin file visual studio",
+    "addin file extension",
+    "how to open addin file",
+    "addin file format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ADDIN - Visual Studio Add-in Definition File",
-  "description":"Learn about what is ADDIN file format with example and APIs that can create and open ADDIN files.",
-  "linktitle" : "ADDIN",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
+  "draft": "false",
+  "toc": true,
+  "title": "ADDIN - Visual Studio Add-in Definition File",
+  "description": "Learn about what is ADDIN file format with example and APIs that can create and open ADDIN files.",
+  "linktitle": "ADDIN",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-addin"
     }
   },
-  "lastmod" : "2021-12-12"
+  "lastmod": "2021-12-12"
 }
 
 ## What is an ADDIN file format?

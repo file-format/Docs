@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "mpp file", "mpp file format", "what is a mpp file", "file", "mpp example", "mpp file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "mpp file",
+    "mpp file format",
+    "what is a mpp file",
+    "file",
+    "mpp example",
+    "mpp file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "MPP - Microsoft Project File Format",
-  "description":"Learn about MPP file format and APIs that can create and open MPP files.",
-  "linktitle" : "MPP",
-  "menu" : {
-    "docs" : {
-      "parent" : "project-management"
+  "draft": "false",
+  "toc": true,
+  "title": "MPP - Microsoft Project File Format",
+  "description": "Learn about MPP file format and APIs that can create and open MPP files.",
+  "linktitle": "MPP",
+  "menu": {
+    "docs": {
+      "parent": "project-management",
+      "identifier": "project-management-mpp"
     }
   },
-  "lastmod" : "2021-05-07"
+  "lastmod": "2021-05-07"
 }
 
 ## What is an MPP file?

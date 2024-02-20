@@ -1,20 +1,32 @@
 {
-  "date" : "2022-02-06",
-  "keywords" : [ "xsd", ".xsd","what is a xsd file","how to open xsd file", "extension", "file", "xsd file","xsd file format",  ".xsd extension" ,"xsd file example"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-02-06",
+  "keywords": [
+    "xsd",
+    ".xsd",
+    "what is a xsd file",
+    "how to open xsd file",
+    "extension",
+    "file",
+    "xsd file",
+    "xsd file format",
+    ".xsd extension",
+    "xsd file example"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : " Learn about XSD file format and APIs that can create and open a XSD file.",
-  "title" : "XSD File Format - XML Schema Definition File",
-  "linktitle" : "XSD",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
+  "draft": "false",
+  "toc": true,
+  "description": " Learn about XSD file format and APIs that can create and open a XSD file.",
+  "title": "XSD File Format - XML Schema Definition File",
+  "linktitle": "XSD",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-xsd"
     }
   },
-  "lastmod" : "2022-02-06"
+  "lastmod": "2022-02-06"
 }
 
 ## What is an XSD Schema file?

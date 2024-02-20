@@ -1,19 +1,20 @@
 {
-  "date" : "2019-10-11",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "PDF/UA File Format",
-  "description":"Learn about PDF/UA file format and APIs that can create and open PDF/UA files.",
-  "linktitle" : "PDF/UA",
-  "menu" : {
-    "docs" : {
-      "parent" : "pdf"
+  "draft": "false",
+  "toc": true,
+  "title": "PDF/UA File Format",
+  "description": "Learn about PDF/UA file format and APIs that can create and open PDF/UA files.",
+  "linktitle": "PDF/UA",
+  "menu": {
+    "docs": {
+      "parent": "pdf",
+      "identifier": "pdf-ua"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 # What is PDF/UA file? #

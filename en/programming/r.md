@@ -1,20 +1,35 @@
 {
-  "date" : "2021-09-06", 
-  "keywords" : [ "R", "file", "extension", "file format", "libraries of R", "Programming Guide", "r example", "code of R", "libraries of R", "Microsoft R", "R code", "R language", "RStudio" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
+  "date": "2021-09-06",
+  "keywords": [
+    "R",
+    "file",
+    "extension",
+    "file format",
+    "libraries of R",
+    "Programming Guide",
+    "r example",
+    "code of R",
+    "libraries of R",
+    "Microsoft R",
+    "R code",
+    "R language",
+    "RStudio"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "R - Programming Language File",
-  "description":"Learn about R file format and APIs that can create and open R files.",
-  "linktitle" : "R",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
+  "draft": "false",
+  "toc": true,
+  "title": "R - Programming Language File",
+  "description": "Learn about R file format and APIs that can create and open R files.",
+  "linktitle": "R",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-r"
     }
   },
-  "lastmod" : "2021-09-06"
+  "lastmod": "2021-09-06"
 }
 
 ## What is an R file?

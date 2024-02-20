@@ -1,19 +1,20 @@
 {
-  "date" : "2019-10-11",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "PDF/VT File Format",
-  "description":"Learn about PDF/VT file format and APIs that can create and open PDF/VT files.",
-  "linktitle" : "PDF/VT",
-  "menu" : {
-    "docs" : {
-      "parent" : "pdf"
+  "draft": "false",
+  "toc": true,
+  "title": "PDF/VT File Format",
+  "description": "Learn about PDF/VT file format and APIs that can create and open PDF/VT files.",
+  "linktitle": "PDF/VT",
+  "menu": {
+    "docs": {
+      "parent": "pdf",
+      "identifier": "pdf-vt"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 # What is PDF/VT? #

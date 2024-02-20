@@ -1,21 +1,29 @@
 
 {
-  "date" : "2021-12-14",
-  "keywords": [ ".apa file", "extension", "format","RSView Development Project Archive", "how to open .apa file","apa file format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-12-14",
+  "keywords": [
+    ".apa file",
+    "extension",
+    "format",
+    "RSView Development Project Archive",
+    "how to open .apa file",
+    "apa file format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "APA - RSView Development Project Archive",
-  "description":"Learn about what is an APA file and APIs that can create and open APA files.",
-  "linktitle" : "APA",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
+  "draft": "false",
+  "toc": true,
+  "title": "APA - RSView Development Project Archive",
+  "description": "Learn about what is an APA file and APIs that can create and open APA files.",
+  "linktitle": "APA",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-apa"
     }
   },
-  "lastmod" : "2021-12-14"
+  "lastmod": "2021-12-14"
 }
 
 ## What is an APA file?

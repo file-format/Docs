@@ -1,21 +1,29 @@
 
 {
-  "date" : "2021-12-14",
-  "keywords": [ ".ane file", "extension", "format","ActionScript Byte Code File", "how to open .ane file","ane file format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-12-14",
+  "keywords": [
+    ".ane file",
+    "extension",
+    "format",
+    "ActionScript Byte Code File",
+    "how to open .ane file",
+    "ane file format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ANE - Adobe AIR Native Extension",
-  "description":"Learn about what is an ANE file and APIs that can create and open ANE files.",
-  "linktitle" : "ANE",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
+  "draft": "false",
+  "toc": true,
+  "title": "ANE - Adobe AIR Native Extension",
+  "description": "Learn about what is an ANE file and APIs that can create and open ANE files.",
+  "linktitle": "ANE",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-ane"
     }
   },
-  "lastmod" : "2021-12-14"
+  "lastmod": "2021-12-14"
 }
 
 ## What is an ANE file?

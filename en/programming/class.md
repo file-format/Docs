@@ -1,20 +1,32 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "class", ".class","what is a class file","how to open a class file", "extension", "file", "class file","class file format", ".class extension", "class file in java" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "class",
+    ".class",
+    "what is a class file",
+    "how to open a class file",
+    "extension",
+    "file",
+    "class file",
+    "class file format",
+    ".class extension",
+    "class file in java"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "Class - Java Class File Format",
-  "description":"Learn about Class file format and APIs that can create and open Class files.",
-  "linktitle" : "Class",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
+  "draft": "false",
+  "toc": true,
+  "title": "Class - Java Class File Format",
+  "description": "Learn about Class file format and APIs that can create and open Class files.",
+  "linktitle": "Class",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-class"
     }
   },
-  "lastmod" : "2020-09-10"
+  "lastmod": "2020-09-10"
 }
 
 ## What is a Class file?

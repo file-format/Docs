@@ -1,20 +1,32 @@
 {
-  "date" : "2021-08-27", 
-  "keywords" : [ "ts", "file", "extension", "file format", "TyрeSсriрt", "Programming Guide", "ts example", "Microsoft", "VBScript", "EСMАSсriрt" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
+  "date": "2021-08-27",
+  "keywords": [
+    "ts",
+    "file",
+    "extension",
+    "file format",
+    "TyрeSсriрt",
+    "Programming Guide",
+    "ts example",
+    "Microsoft",
+    "VBScript",
+    "EСMАSсriрt"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "TS - TyрeSсriрt File Format",
-  "description":"Learn about TS file format and APIs that can create and open TS files.",
-  "linktitle" : "TS",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
+  "draft": "false",
+  "toc": true,
+  "title": "TS - TyрeSсriрt File Format",
+  "description": "Learn about TS file format and APIs that can create and open TS files.",
+  "linktitle": "TS",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-ts"
     }
   },
-  "lastmod" : "2021-08-27"
+  "lastmod": "2021-08-27"
 }
 
 ## What is a TS file?

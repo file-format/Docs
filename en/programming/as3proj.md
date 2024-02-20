@@ -1,19 +1,20 @@
 {
-  "date" : "2022-11-06",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-11-06",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "AS3PROJ - FlashDevelop ActionScript 3 Project File Format",
-  "description":"Learn about AS3PROJ file format and APIs that can create and open AS3PROJ files.",
-  "linktitle" : "AS3PROJ",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
+  "draft": "false",
+  "toc": true,
+  "title": "AS3PROJ - FlashDevelop ActionScript 3 Project File Format",
+  "description": "Learn about AS3PROJ file format and APIs that can create and open AS3PROJ files.",
+  "linktitle": "AS3PROJ",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-as3proj"
     }
   },
-  "lastmod" : "2022-11-06"
+  "lastmod": "2022-11-06"
 }
 
 ## What is an AS3PROJ file?

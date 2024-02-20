@@ -1,20 +1,33 @@
 {
-  "date" : "2021-09-23", 
-  "keywords" : [ "NUT", "file", "extension", "file format", "NUT рrоgrаmming lаnguаge", "Programming Guide", "NUT example", "NUT file format", "squirrel language", ".nut extension file", "NUT files" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
+  "date": "2021-09-23",
+  "keywords": [
+    "NUT",
+    "file",
+    "extension",
+    "file format",
+    "NUT рrоgrаmming lаnguаge",
+    "Programming Guide",
+    "NUT example",
+    "NUT file format",
+    "squirrel language",
+    ".nut extension file",
+    "NUT files"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "NUT - Squirrel Language File",
-  "description":"Learn about NUT file format and APIs that can create and open NUT files.",
-  "linktitle" : "NUT",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
+  "draft": "false",
+  "toc": true,
+  "title": "NUT - Squirrel Language File",
+  "description": "Learn about NUT file format and APIs that can create and open NUT files.",
+  "linktitle": "NUT",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-nut"
     }
   },
-  "lastmod" : "2021-09-23"
+  "lastmod": "2021-09-23"
 }
 
 ## What is a NUT file?

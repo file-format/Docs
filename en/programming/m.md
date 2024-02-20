@@ -1,20 +1,27 @@
 {
-  "date" : "2019-10-11",
-  "keywords": [ "M file", "M", "extension", "format", "M file format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "M file",
+    "M",
+    "extension",
+    "format",
+    "M file format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "M - Matlab Source Code File",
-  "description":"Learn about Matlab .m Source Code file and APIs that can create and open MF files.",
-  "linktitle" : "M",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
+  "draft": "false",
+  "toc": true,
+  "title": "M - Matlab Source Code File",
+  "description": "Learn about Matlab .m Source Code file and APIs that can create and open MF files.",
+  "linktitle": "M",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-m"
     }
   },
-  "lastmod" : "2020-09-10"
+  "lastmod": "2020-09-10"
 }
 
 # M - Matlab Source Code Files

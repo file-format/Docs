@@ -1,20 +1,29 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ ".mel", "Maya Embedded language","file", "extension", "file format", "Maya 3D", "Programming Guide" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    ".mel",
+    "Maya Embedded language",
+    "file",
+    "extension",
+    "file format",
+    "Maya 3D",
+    "Programming Guide"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "MEL - Maya Embedded Language File Format",
-  "description":"Learn about MEL file format and APIs that can create and open MEL files.",
-  "linktitle" : "MEL",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
+  "draft": "false",
+  "toc": true,
+  "title": "MEL - Maya Embedded Language File Format",
+  "description": "Learn about MEL file format and APIs that can create and open MEL files.",
+  "linktitle": "MEL",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-mel"
     }
   },
-  "lastmod" : "2021-03-08"
+  "lastmod": "2021-03-08"
 }
 
 ## What is a MEL file?

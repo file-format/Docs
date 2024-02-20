@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "pptm file", "pptm file format", "what is an pptm file", "file", "pptm example", "pptm file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "pptm file",
+    "pptm file format",
+    "what is an pptm file",
+    "file",
+    "pptm example",
+    "pptm file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "PPTM - Macro-Enabled PowerPoint Presentation File Format",
-  "description":"Learn about PPTM file format and APIs that can create and open PPTM files.",
-  "linktitle" : "PPTM",
-  "menu" : {
-    "docs" : {
-      "parent" : "presentation"
+  "draft": "false",
+  "toc": true,
+  "title": "PPTM - Macro-Enabled PowerPoint Presentation File Format",
+  "description": "Learn about PPTM file format and APIs that can create and open PPTM files.",
+  "linktitle": "PPTM",
+  "menu": {
+    "docs": {
+      "parent": "presentation",
+      "identifier": "presentation-pptm"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 Files with PPTM extension are Macro-enabled Presentation files that are created with Microsoft PowerPoint 2007 or higher versions. They are similar to [PPTX](/presentation/pptx/) files with the difference that the lateral can't execute macros though they can contain macros. PPTM files can be edited by opening them in Microsoft PowerPoint and updating the contents. Another similar format is PPSM but it is read-only by default and starts the slideshow when opened. PPTM, like PPTX, contains slides for different presentation elements like text, images, videos, graphs and other related material.

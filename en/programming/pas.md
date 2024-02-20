@@ -1,20 +1,26 @@
 {
-  "date" : "2021-04-22",
-  "keywords": [ ".pas file", "pas file format", "extension", "format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-04-22",
+  "keywords": [
+    ".pas file",
+    "pas file format",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "PAS - Delphi Unit Source File",
-  "description":"Learn about PAS file format with PAS example and APIs that can create and open PAS files.",
-  "linktitle" : "PAS",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
+  "draft": "false",
+  "toc": true,
+  "title": "PAS - Delphi Unit Source File",
+  "description": "Learn about PAS file format with PAS example and APIs that can create and open PAS files.",
+  "linktitle": "PAS",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-pas"
     }
   },
-  "lastmod" : "2021-04-22"
+  "lastmod": "2021-04-22"
 }
 
 ## What is a PAS file?

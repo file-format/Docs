@@ -1,20 +1,29 @@
 {
-  "date" : "2019-10-11",
-  "keywords": [ "pdb file", "pdb", "extension", "format", "What is a pdb file", "pdb file format", "PDB metadata" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "pdb file",
+    "pdb",
+    "extension",
+    "format",
+    "What is a pdb file",
+    "pdb file format",
+    "PDB metadata"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "PDB File Format - A Program Database File",
-  "description":"Learn about PDB file format and APIs that can create and open PDB files.",
-  "linktitle" : "PDB",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
+  "draft": "false",
+  "toc": true,
+  "title": "PDB File Format - A Program Database File",
+  "description": "Learn about PDB file format and APIs that can create and open PDB files.",
+  "linktitle": "PDB",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-pdb"
     }
   },
-  "lastmod" : "2020-09-10"
+  "lastmod": "2020-09-10"
 }
 
 ## What is a PDB file?

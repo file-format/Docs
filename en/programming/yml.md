@@ -1,20 +1,34 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "yml", ".yml","what is a yml file","how to open yml file", "extension", "file", "yml file","yml file format",  ".yaml extension", "yml vs json" ,"yml file example", "docker yml file example"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "yml",
+    ".yml",
+    "what is a yml file",
+    "how to open yml file",
+    "extension",
+    "file",
+    "yml file",
+    "yml file format",
+    ".yaml extension",
+    "yml vs json",
+    "yml file example",
+    "docker yml file example"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : " Learn about YML file format and APIs that can create and open a YML file.",
-  "title" : "YML - YAML Document File Format",
-  "linktitle" : "YML",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
+  "draft": "false",
+  "toc": true,
+  "description": " Learn about YML file format and APIs that can create and open a YML file.",
+  "title": "YML - YAML Document File Format",
+  "linktitle": "YML",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-yml"
     }
   },
-  "lastmod" : "2022-02-11"
+  "lastmod": "2022-02-11"
 }
 
 ## What is a YML file?

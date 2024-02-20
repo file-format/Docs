@@ -1,19 +1,20 @@
 {
-  "date" : "2023-11-08",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2023-11-08",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "Q1Q File -  What is a Q1Q file and how to open it?",
-  "description":"Learn about Q1Q file format and APIs that can create and open Q1Q files.",
-  "linktitle" : "Q1Q",
-  "menu" : {
-    "docs" : {
-      "parent" : "plugin"
+  "draft": "false",
+  "toc": true,
+  "title": "Q1Q File -  What is a Q1Q file and how to open it?",
+  "description": "Learn about Q1Q file format and APIs that can create and open Q1Q files.",
+  "linktitle": "Q1Q",
+  "menu": {
+    "docs": {
+      "parent": "plugin",
+      "identifier": "plugin-q1q"
     }
   },
-  "lastmod" : "2023-11-08"
+  "lastmod": "2023-11-08"
 }
 
 ## What is a Q1Q file?

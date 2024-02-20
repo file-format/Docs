@@ -1,20 +1,32 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "php", ".php","what is a php file","how to open php file", "extension", "file", "php file","php file format",  "php file extension","php example"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "php",
+    ".php",
+    "what is a php file",
+    "how to open php file",
+    "extension",
+    "file",
+    "php file",
+    "php file format",
+    "php file extension",
+    "php example"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "PHP File Format - Hypertext Preprocessor File Format",
-  "description":"Learn about PHP file format and APIs that can create and open PHP files.",
-  "linktitle" : "PHP",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
+  "draft": "false",
+  "toc": true,
+  "title": "PHP File Format - Hypertext Preprocessor File Format",
+  "description": "Learn about PHP file format and APIs that can create and open PHP files.",
+  "linktitle": "PHP",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-php"
     }
   },
-  "lastmod" : "2021-05-07"
+  "lastmod": "2021-05-07"
 }
 ## What is a PHP file?
 A file with .php extension refers to open source programming language, used to write server side scripts, to be executed on a web server. It is the most widely used web-scripting language that is typically used for development of large-scale web applications. The biggest blogging system on the web i.e. WordPress and the largest social network Facebook are based on PHP language. It is compatible with various platforms such as Windows, Linux, Unix, Mac OS X, etc. Also it successfully runs on almost all servers used today i.e. Apache, IIS, etc. PHP supports wide range of databases including MySQL.

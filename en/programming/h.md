@@ -1,20 +1,32 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "h", ".h","what is a h file","how to open h file", "extension", "file", "h file","h file format",  "h file extension","H File Example"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "h",
+    ".h",
+    "what is a h file",
+    "how to open h file",
+    "extension",
+    "file",
+    "h file",
+    "h file format",
+    "h file extension",
+    "H File Example"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "H - C/C++ Header File Format",
-  "description":"Learn about H file format and APIs that can create and open H file.",
-  "linktitle" : "H",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
+  "draft": "false",
+  "toc": true,
+  "title": "H - C/C++ Header File Format",
+  "description": "Learn about H file format and APIs that can create and open H file.",
+  "linktitle": "H",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-h"
     }
   },
-  "lastmod" : "2021-05-07"
+  "lastmod": "2021-05-07"
 }
 
 ## What is an H file?

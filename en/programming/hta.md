@@ -1,20 +1,33 @@
 {
-  "date" : "2021-09-16", 
-  "keywords" : [ "hta", "file", "extension", "file format", "hta implementation", "Programming Guide", "hta example", "HTML Application", "Hypertext Markup Language Application", "HTA files", "Microsoft HTML Application"],
-  "author" : {
-    "display_name" : "Sami Cheema"
+  "date": "2021-09-16",
+  "keywords": [
+    "hta",
+    "file",
+    "extension",
+    "file format",
+    "hta implementation",
+    "Programming Guide",
+    "hta example",
+    "HTML Application",
+    "Hypertext Markup Language Application",
+    "HTA files",
+    "Microsoft HTML Application"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "HTA - HTML Application Files",
-  "description":"Learn about HTA file format and APIs that can create and open HTA files.",
-  "linktitle" : "HTA",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
+  "draft": "false",
+  "toc": true,
+  "title": "HTA - HTML Application Files",
+  "description": "Learn about HTA file format and APIs that can create and open HTA files.",
+  "linktitle": "HTA",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-hta"
     }
   },
-  "lastmod" : "2021-09-16"
+  "lastmod": "2021-09-16"
 }
 
 ## What is an HTA file?

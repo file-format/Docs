@@ -1,20 +1,30 @@
 {
-  "date" : "2021-04-20",
-  "keywords": [ "JSPF file", "jspf", "JSPF example", "extension", "format", "jspf tutorial", "jsp fragment", "JSPF file format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-04-20",
+  "keywords": [
+    "JSPF file",
+    "jspf",
+    "JSPF example",
+    "extension",
+    "format",
+    "jspf tutorial",
+    "jsp fragment",
+    "JSPF file format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "JSPF - JSP Fragment File Format",
-  "description":"Learn about JSPF file format and APIs that can create and open JSPF files.",
-  "linktitle" : "JSPF",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
+  "draft": "false",
+  "toc": true,
+  "title": "JSPF - JSP Fragment File Format",
+  "description": "Learn about JSPF file format and APIs that can create and open JSPF files.",
+  "linktitle": "JSPF",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-jspf"
     }
   },
-  "lastmod" : "2021-04-21"
+  "lastmod": "2021-04-21"
 }
 
 ## What is a JSPF file?

@@ -1,20 +1,30 @@
 {
-  "date" : "2019-12-13",
-  "keywords" : [ "ppt file", "ppt file format", "what is a ppt file", "file", "ppt example", "ppt file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-12-13",
+  "keywords": [
+    "ppt file",
+    "ppt file format",
+    "what is a ppt file",
+    "file",
+    "ppt example",
+    "ppt file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about PPT file format and APIs that can create and open PPT files.",
-  "title" : "PPT - PowerPoint File Format",
-  "linktitle" : "PPT",
-  "menu" : {
-    "docs" : {
-      "parent" : "presentation"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about PPT file format and APIs that can create and open PPT files.",
+  "title": "PPT - PowerPoint File Format",
+  "linktitle": "PPT",
+  "menu": {
+    "docs": {
+      "parent": "presentation",
+      "identifier": "presentation-ppt"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is a PPT file?

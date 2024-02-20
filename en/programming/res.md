@@ -1,20 +1,28 @@
 {
-  "date" : "2021-04-23",
-  "keywords": [ "RES File", "how to open a res file", "what is a res file", "extension", "format", "RES file format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-04-23",
+  "keywords": [
+    "RES File",
+    "how to open a res file",
+    "what is a res file",
+    "extension",
+    "format",
+    "RES file format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "RES - C++ Compiled Resource Script",
-  "description":"Learn about RES file format with RES example and APIs that can create and open RES files.",
-  "linktitle" : "RES",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
+  "draft": "false",
+  "toc": true,
+  "title": "RES - C++ Compiled Resource Script",
+  "description": "Learn about RES file format with RES example and APIs that can create and open RES files.",
+  "linktitle": "RES",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-res"
     }
   },
-  "lastmod" : "2021-04-23"
+  "lastmod": "2021-04-23"
 }
 
 ## What is a RES file?

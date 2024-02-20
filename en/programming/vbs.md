@@ -1,20 +1,31 @@
 {
-  "date" : "2021-08-24", 
-  "keywords" : [ "vbs", "file", "extension", "file format", "Visual Basic Script", "Programming Guide", "vbs example", "Microsoft Visual Basic", "VBScript" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
+  "date": "2021-08-24",
+  "keywords": [
+    "vbs",
+    "file",
+    "extension",
+    "file format",
+    "Visual Basic Script",
+    "Programming Guide",
+    "vbs example",
+    "Microsoft Visual Basic",
+    "VBScript"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "VBS - Visual Basic Script File",
-  "description":"Learn about VBS file format and APIs that can create and open VBS files.",
-  "linktitle" : "VBS",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
+  "draft": "false",
+  "toc": true,
+  "title": "VBS - Visual Basic Script File",
+  "description": "Learn about VBS file format and APIs that can create and open VBS files.",
+  "linktitle": "VBS",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-vbs"
     }
   },
-  "lastmod" : "2021-08-24"
+  "lastmod": "2021-08-24"
 }
 
 ## What is a VBS file?

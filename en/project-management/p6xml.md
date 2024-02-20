@@ -1,20 +1,31 @@
 {
-  "date" : "2021-04-16",
-  "keywords" : [ "XML", "P6XML", "File", "Extension", "File Format", "Project", "Management", "Primavera", "P6"],
-  "author" : {
-    "display_name" : "Sami Cheema"
+  "date": "2021-04-16",
+  "keywords": [
+    "XML",
+    "P6XML",
+    "File",
+    "Extension",
+    "File Format",
+    "Project",
+    "Management",
+    "Primavera",
+    "P6"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "P6XML - Primavera P6 Project",
-  "description":"Learn about P6XML file format and APIs that can create and open P6XML files.",
-  "linktitle" : "P6XML",
-  "menu" : {
-    "docs" : {
-      "parent" : "project-management"
+  "draft": "false",
+  "toc": true,
+  "title": "P6XML - Primavera P6 Project",
+  "description": "Learn about P6XML file format and APIs that can create and open P6XML files.",
+  "linktitle": "P6XML",
+  "menu": {
+    "docs": {
+      "parent": "project-management",
+      "identifier": "project-management-p6xml"
     }
   },
-  "lastmod" : "2021-05-07"
+  "lastmod": "2021-05-07"
 }
 
 ## What is a P6XML file? ##

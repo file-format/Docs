@@ -1,19 +1,20 @@
 {
-  "date" : "2022-06-03",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-06-03",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description" : " Learn about YPR file format and APIs that can create and open a YPR file.",
-  "title" : "YPR - BYOB Project File Format",
-  "linktitle" : "YPR",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
+  "draft": "false",
+  "toc": true,
+  "description": " Learn about YPR file format and APIs that can create and open a YPR file.",
+  "title": "YPR - BYOB Project File Format",
+  "linktitle": "YPR",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-ypr"
     }
   },
-  "lastmod" : "2022-06-03"
+  "lastmod": "2022-06-03"
 }
 
 ## What is a YPR file?

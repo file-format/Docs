@@ -1,19 +1,20 @@
 {
-  "date" : "2022-07-14",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-07-14",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "INC File Extension - What is an INC file?",
-  "description":"Learn about INC Include file format and APIs that can create and open INC files.",
-  "linktitle" : "INC",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
+  "draft": "false",
+  "toc": true,
+  "title": "INC File Extension - What is an INC file?",
+  "description": "Learn about INC Include file format and APIs that can create and open INC files.",
+  "linktitle": "INC",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-inc"
     }
   },
-  "lastmod" : "2022-07-14"
+  "lastmod": "2022-07-14"
 }
 
 ## What is an INC file?

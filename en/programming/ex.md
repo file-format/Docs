@@ -1,19 +1,20 @@
 {
-  "date" : "2022-03-15",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-03-15",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "EX File Format - Euphoria Source Code File",
-  "description":"Learn about EX file format and APIs that can create and open EX files.",
-  "linktitle" : "EX",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
+  "draft": "false",
+  "toc": true,
+  "title": "EX File Format - Euphoria Source Code File",
+  "description": "Learn about EX file format and APIs that can create and open EX files.",
+  "linktitle": "EX",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-ex"
     }
   },
-  "lastmod" : "2022-03-15"
+  "lastmod": "2022-03-15"
 }
 
 ## What is an EX file?

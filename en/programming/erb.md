@@ -1,20 +1,36 @@
 {
-  "date" : "2021-09-15", 
-  "keywords" : [ "erb", "file", "extension", "file format", "erb implementation", "Programming Guide", "erb example", "eRuby", "eRuby file format", "eRuby language script", "eRuby templates", "erb language", "ERB Ruby language", "eRuby language" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
+  "date": "2021-09-15",
+  "keywords": [
+    "erb",
+    "file",
+    "extension",
+    "file format",
+    "erb implementation",
+    "Programming Guide",
+    "erb example",
+    "eRuby",
+    "eRuby file format",
+    "eRuby language script",
+    "eRuby templates",
+    "erb language",
+    "ERB Ruby language",
+    "eRuby language"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ERB - eRuby Language File",
-  "description":"Learn about ERB file format and APIs that can create and open ERB files.",
-  "linktitle" : "ERB",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
+  "draft": "false",
+  "toc": true,
+  "title": "ERB - eRuby Language File",
+  "description": "Learn about ERB file format and APIs that can create and open ERB files.",
+  "linktitle": "ERB",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-erb"
     }
   },
-  "lastmod" : "2021-09-15"
+  "lastmod": "2021-09-15"
 }
 
 ## What is an ERB file?

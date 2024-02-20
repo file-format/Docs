@@ -1,20 +1,34 @@
 {
-  "date" : "2021-04-21",
-  "keywords": [ "what is a jsp file", "tutorials on jsp","jsp means","jsp", "jsp files", "extension", "format", "jsp tutorial", ".jsp", "jsp example","jsp file extension" ,"how to open a jsp file"],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-04-21",
+  "keywords": [
+    "what is a jsp file",
+    "tutorials on jsp",
+    "jsp means",
+    "jsp",
+    "jsp files",
+    "extension",
+    "format",
+    "jsp tutorial",
+    ".jsp",
+    "jsp example",
+    "jsp file extension",
+    "how to open a jsp file"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "JSP - Java Server Pages File Format",
-  "description":"Learn about JSP file format with JSP example and APIs that can create and open JSP files.",
-  "linktitle" : "JSP",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
+  "draft": "false",
+  "toc": true,
+  "title": "JSP - Java Server Pages File Format",
+  "description": "Learn about JSP file format with JSP example and APIs that can create and open JSP files.",
+  "linktitle": "JSP",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-jsp"
     }
   },
-  "lastmod" : "2021-05-07"
+  "lastmod": "2021-05-07"
 }
 
 ## What is a JSP file?

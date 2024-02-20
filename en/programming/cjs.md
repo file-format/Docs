@@ -1,19 +1,20 @@
 {
-  "date" : "2023-10-26",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2023-10-26",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "CJS File - CommonJS Code File",
-  "description":"What is a .cjs file and how to open it?",
-  "linktitle" : "CJS",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
+  "draft": "false",
+  "toc": true,
+  "title": "CJS File - CommonJS Code File",
+  "description": "What is a .cjs file and how to open it?",
+  "linktitle": "CJS",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-cjs"
     }
   },
-  "lastmod" : "2023-10-26"
+  "lastmod": "2023-10-26"
 }
 
 ## What is a CJS file?

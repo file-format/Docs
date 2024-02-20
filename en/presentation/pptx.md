@@ -1,20 +1,30 @@
 {
-  "date" : "2019-12-13",
-  "keywords" : [ "pptx file", "pptx file format", "what is a pptx file", "file", "pptx example", "pptx file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-12-13",
+  "keywords": [
+    "pptx file",
+    "pptx file format",
+    "what is a pptx file",
+    "file",
+    "pptx example",
+    "pptx file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about PPTX file format and APIs that can create and open PPTX files.",
-  "title" : "PPTX - PowerPoint Presentation File Format",
-  "linktitle" : "PPTX",
-  "menu" : {
-    "docs" : {
-      "parent" : "presentation"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about PPTX file format and APIs that can create and open PPTX files.",
+  "title": "PPTX - PowerPoint Presentation File Format",
+  "linktitle": "PPTX",
+  "menu": {
+    "docs": {
+      "parent": "presentation",
+      "identifier": "presentation-pptx"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is a PPTX file?

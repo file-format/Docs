@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "potx file", "potx file format", "what is a potx file", "file", "potx example", "potx file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "potx file",
+    "potx file format",
+    "what is a potx file",
+    "file",
+    "potx example",
+    "potx file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "POTX - Microsoft PowerPoint Presentation Template",
-  "description":"Learn about POTX file format and APIs that can create and open POTX files.",
-  "linktitle" : "POTX",
-  "menu" : {
-    "docs" : {
-      "parent" : "presentation"
+  "draft": "false",
+  "toc": true,
+  "title": "POTX - Microsoft PowerPoint Presentation Template",
+  "description": "Learn about POTX file format and APIs that can create and open POTX files.",
+  "linktitle": "POTX",
+  "menu": {
+    "docs": {
+      "parent": "presentation",
+      "identifier": "presentation-potx"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is a POTX file?

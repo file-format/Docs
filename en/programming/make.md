@@ -1,19 +1,20 @@
 {
-  "date" : "2019-10-11",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "Make File - Xcode Makefile Script File",
-  "description":"Learn about XCode MakeFile Format and APIs that can create and open MakeFile files.",
-  "linktitle" : "MAKE",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
+  "draft": "false",
+  "toc": true,
+  "title": "Make File - Xcode Makefile Script File",
+  "description": "Learn about XCode MakeFile Format and APIs that can create and open MakeFile files.",
+  "linktitle": "MAKE",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-make"
     }
   },
-  "lastmod" : "2020-09-10"
+  "lastmod": "2020-09-10"
 }
 
 

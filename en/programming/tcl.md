@@ -1,20 +1,32 @@
 {
-  "date" : "2021-09-02", 
-  "keywords" : [ "TCL", "file", "extension", "file format", "tiсkle", "Programming Guide", "tcl example", "TCL language ", "initiаlism", "Tооl Соmmаnd Lаnguаge" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
+  "date": "2021-09-02",
+  "keywords": [
+    "TCL",
+    "file",
+    "extension",
+    "file format",
+    "tiсkle",
+    "Programming Guide",
+    "tcl example",
+    "TCL language ",
+    "initiаlism",
+    "Tооl Соmmаnd Lаnguаge"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "TCL - Tооl Соmmаnd Lаnguаge File",
-  "description":"Learn about TCL file format and APIs that can create and open TCL files.",
-  "linktitle" : "TCL",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
+  "draft": "false",
+  "toc": true,
+  "title": "TCL - Tооl Соmmаnd Lаnguаge File",
+  "description": "Learn about TCL file format and APIs that can create and open TCL files.",
+  "linktitle": "TCL",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-tcl"
     }
   },
-  "lastmod" : "2021-09-02"
+  "lastmod": "2021-09-02"
 }
 
 ## What is a TCL file?

@@ -1,20 +1,31 @@
 {
-  "date" : "2020-01-10",
-  "keywords" : [ "c", ".c","what is a c file","how to open c file", "extension", "file", "c file","c file format",  "c file extension"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2020-01-10",
+  "keywords": [
+    "c",
+    ".c",
+    "what is a c file",
+    "how to open c file",
+    "extension",
+    "file",
+    "c file",
+    "c file format",
+    "c file extension"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "C - C Language Programming File",
-  "description":"Learn about C file format and APIs that can create and open C files.",
-  "linktitle" : "C",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
+  "draft": "false",
+  "toc": true,
+  "title": "C - C Language Programming File",
+  "description": "Learn about C file format and APIs that can create and open C files.",
+  "linktitle": "C",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-c"
     }
   },
-  "lastmod" : "2020-01-10"
+  "lastmod": "2020-01-10"
 }
 
 ## What is a C file?

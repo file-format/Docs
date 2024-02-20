@@ -1,20 +1,32 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "arsc", ".arsc","what is a arsc file","how to open arsc file", "extension", "file", "arsc file","arsc file format",  "arsc file extension","arsc File Example"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "arsc",
+    ".arsc",
+    "what is a arsc file",
+    "how to open arsc file",
+    "extension",
+    "file",
+    "arsc file",
+    "arsc file format",
+    "arsc file extension",
+    "arsc File Example"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ARSC - Android Package Resource Table File ",
-  "description":"Learn about ARSC file format and APIs that can create and open ARSC file.",
-  "linktitle" : "ARSC",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
+  "draft": "false",
+  "toc": true,
+  "title": "ARSC - Android Package Resource Table File ",
+  "description": "Learn about ARSC file format and APIs that can create and open ARSC file.",
+  "linktitle": "ARSC",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-arsc"
     }
   },
-  "lastmod" : "2021-06-22"
+  "lastmod": "2021-06-22"
 }
 
 ## What is an ARSC file?

@@ -1,19 +1,20 @@
 {
-  "date" : "2022-04-06",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-04-06",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "GROOVY File Format",
-  "description":"Learn about GROOVY file format and APIs that can create and open GROOVY files.",
-  "linktitle" : "GROOVY",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
+  "draft": "false",
+  "toc": true,
+  "title": "GROOVY File Format",
+  "description": "Learn about GROOVY file format and APIs that can create and open GROOVY files.",
+  "linktitle": "GROOVY",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-groovy"
     }
   },
-  "lastmod" : "2022-04-06"
+  "lastmod": "2022-04-06"
 }
 
 ## What is a GROOVY file?

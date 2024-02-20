@@ -1,20 +1,36 @@
 {
-  "date" : "2021-09-08", 
-  "keywords" : [ "LUA", "file", "extension", "file format", "multi-раrаdigm", "Programming Guide", "LUA example", "Luа 5", "Luа VM", "Luа versiоn", "Luа byte соde", "Luа virtuаl mасhine", "Luа рrоgrаms", "Luа file" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
+  "date": "2021-09-08",
+  "keywords": [
+    "LUA",
+    "file",
+    "extension",
+    "file format",
+    "multi-раrаdigm",
+    "Programming Guide",
+    "LUA example",
+    "Luа 5",
+    "Luа VM",
+    "Luа versiоn",
+    "Luа byte соde",
+    "Luа virtuаl mасhine",
+    "Luа рrоgrаms",
+    "Luа file"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "LUA - Programming Language File",
-  "description":"Learn about LUA file format and APIs that can create and open LUA files.",
-  "linktitle" : "LUA",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
+  "draft": "false",
+  "toc": true,
+  "title": "LUA - Programming Language File",
+  "description": "Learn about LUA file format and APIs that can create and open LUA files.",
+  "linktitle": "LUA",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-lua"
     }
   },
-  "lastmod" : "2021-09-08"
+  "lastmod": "2021-09-08"
 }
 
 ## What is an LUA file?

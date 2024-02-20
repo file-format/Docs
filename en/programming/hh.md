@@ -1,20 +1,32 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "h", ".hh","what is a .hh file","how to open .hh file", "extension", "file", ".hh file",".hh file format",  ".hh file extension",".HH File Example"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "h",
+    ".hh",
+    "what is a .hh file",
+    "how to open .hh file",
+    "extension",
+    "file",
+    ".hh file",
+    ".hh file format",
+    ".hh file extension",
+    ".HH File Example"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "HH - C++ Header File Format",
-  "description":"Learn about HH file format and APIs that can create and open HH file.",
-  "linktitle" : "HH",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
+  "draft": "false",
+  "toc": true,
+  "title": "HH - C++ Header File Format",
+  "description": "Learn about HH file format and APIs that can create and open HH file.",
+  "linktitle": "HH",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-hh"
     }
   },
-  "lastmod" : "2021-06-20"
+  "lastmod": "2021-06-20"
 }
 
 ## What is an HH file?

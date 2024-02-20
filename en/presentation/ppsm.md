@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "ppsm file", "ppsm file format", "what is a ppsm file", "file", "ppsm example", "ppsm file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "ppsm file",
+    "ppsm file format",
+    "what is a ppsm file",
+    "file",
+    "ppsm example",
+    "ppsm file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "PPSM - Macro-Enabled PowerPoint Presentation File",
-  "description":"Learn about PPSM file format and APIs that can create and open PPSM files.",
-  "linktitle" : "PPSM",
-  "menu" : {
-    "docs" : {
-      "parent" : "presentation"
+  "draft": "false",
+  "toc": true,
+  "title": "PPSM - Macro-Enabled PowerPoint Presentation File",
+  "description": "Learn about PPSM file format and APIs that can create and open PPSM files.",
+  "linktitle": "PPSM",
+  "menu": {
+    "docs": {
+      "parent": "presentation",
+      "identifier": "presentation-ppsm"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is a PPSM file?

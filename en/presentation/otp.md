@@ -1,20 +1,30 @@
 {
-  "date" : "2021-01-21",
-  "keywords" : [ "otp file", "otp file format", "what is a otp file", "file", "otp example", "otp file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-01-21",
+  "keywords": [
+    "otp file",
+    "otp file format",
+    "what is a otp file",
+    "file",
+    "otp example",
+    "otp file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "OTP - OpenDocument Presentation Template",
-  "description":"Learn about OTP file format and APIs that can create and open OTP files.",
-  "linktitle" : "OTP",
-  "menu" : {
-    "docs" : {
-      "parent" : "presentation"
+  "draft": "false",
+  "toc": true,
+  "title": "OTP - OpenDocument Presentation Template",
+  "description": "Learn about OTP file format and APIs that can create and open OTP files.",
+  "linktitle": "OTP",
+  "menu": {
+    "docs": {
+      "parent": "presentation",
+      "identifier": "presentation-otp"
     }
   },
-  "lastmod" : "2021-01-21"
+  "lastmod": "2021-01-21"
 }
 
 ## What is an OTP file?

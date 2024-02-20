@@ -1,20 +1,30 @@
 {
-  "date" : "2021-04-22",
-  "keywords": [ "aps file", "visual studio aps file", "extension", "format","aps file visual studio","aps file extension","how to open aps file","APS file format" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-04-22",
+  "keywords": [
+    "aps file",
+    "visual studio aps file",
+    "extension",
+    "format",
+    "aps file visual studio",
+    "aps file extension",
+    "how to open aps file",
+    "APS file format"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "APS - Visual C++ Resource File",
-  "description":"Learn about APS file format with APS example and APIs that can create and open APS files.",
-  "linktitle" : "APS",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
+  "draft": "false",
+  "toc": true,
+  "title": "APS - Visual C++ Resource File",
+  "description": "Learn about APS file format with APS example and APIs that can create and open APS files.",
+  "linktitle": "APS",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-aps"
     }
   },
-  "lastmod" : "2021-04-22"
+  "lastmod": "2021-04-22"
 }
 
 ## What is an APS file format?

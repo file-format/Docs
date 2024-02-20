@@ -1,19 +1,20 @@
 {
-  "date" : "2022-04-13",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-04-13",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "SCM File Format - Scheme Source Code File",
-  "description":"Learn about SCM file format and APIs that can create and open SCM files.",
-  "linktitle" : "SCM",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
+  "draft": "false",
+  "toc": true,
+  "title": "SCM File Format - Scheme Source Code File",
+  "description": "Learn about SCM file format and APIs that can create and open SCM files.",
+  "linktitle": "SCM",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-scm"
     }
   },
-  "lastmod" : "2022-04-13"
+  "lastmod": "2022-04-13"
 }
 
 ## What is a SCM file?

@@ -1,20 +1,31 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "JAR", ".jar","what is a jar file","how to open a jar file", "extension", "file", "jar file","jar file format",  ".jar extension" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "JAR",
+    ".jar",
+    "what is a jar file",
+    "how to open a jar file",
+    "extension",
+    "file",
+    "jar file",
+    "jar file format",
+    ".jar extension"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "JAR - Java Archive File Format",
-  "description":"Learn about JAR file format and APIs that can create and open JAR file.",
-  "linktitle" : "JAR",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
+  "draft": "false",
+  "toc": true,
+  "title": "JAR - Java Archive File Format",
+  "description": "Learn about JAR file format and APIs that can create and open JAR file.",
+  "linktitle": "JAR",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-jar"
     }
   },
-  "lastmod" : "2020-09-10"
+  "lastmod": "2020-09-10"
 }
 
 ## What is a JAR file?

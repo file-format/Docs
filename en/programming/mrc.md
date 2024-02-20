@@ -1,20 +1,36 @@
 {
-  "date" : "2021-09-14", 
-  "keywords" : [ "mrc", "file", "extension", "file format", "mrc implementation", "Programming Guide", "mrc example", "mIRC", "mIRC scripting language", "files of INI", "mSL scripting language", "mIRC language", "mIRC scripts", "scripting language" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
+  "date": "2021-09-14",
+  "keywords": [
+    "mrc",
+    "file",
+    "extension",
+    "file format",
+    "mrc implementation",
+    "Programming Guide",
+    "mrc example",
+    "mIRC",
+    "mIRC scripting language",
+    "files of INI",
+    "mSL scripting language",
+    "mIRC language",
+    "mIRC scripts",
+    "scripting language"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "MRC - mIRC Script Language File",
-  "description":"Learn about MRC file format and APIs that can create and open MRC files.",
-  "linktitle" : "MRC",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
+  "draft": "false",
+  "toc": true,
+  "title": "MRC - mIRC Script Language File",
+  "description": "Learn about MRC file format and APIs that can create and open MRC files.",
+  "linktitle": "MRC",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-mrc"
     }
   },
-  "lastmod" : "2021-09-14"
+  "lastmod": "2021-09-14"
 }
 
 ## What is an MRC file?

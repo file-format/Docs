@@ -1,19 +1,20 @@
 {
-  "date" : "2022-04-26",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-04-26",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "IN File Format - Autoconf Input File",
-  "description":"Learn about IN file format and APIs that can create and open IN files.",
-  "linktitle" : "IN",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
+  "draft": "false",
+  "toc": true,
+  "title": "IN File Format - Autoconf Input File",
+  "description": "Learn about IN file format and APIs that can create and open IN files.",
+  "linktitle": "IN",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-in"
     }
   },
-  "lastmod" : "2022-04-26"
+  "lastmod": "2022-04-26"
 }
 
 ## What is an IN file?

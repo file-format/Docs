@@ -1,20 +1,31 @@
 {
-  "date" : "2019-10-11",
-   "keywords": [ "sln file", "how to run a sln file", "sln", "extension", "format", "What is sln file", "sln file format", "Visual Studio Solution", "Visual Studio solution VS project" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "sln file",
+    "how to run a sln file",
+    "sln",
+    "extension",
+    "format",
+    "What is sln file",
+    "sln file format",
+    "Visual Studio Solution",
+    "Visual Studio solution VS project"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "SLN",
-  "description":"Learn about SLN file format and APIs that can create and open SLN files.",
-  "linktitle" : "SLN",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
+  "draft": "false",
+  "toc": true,
+  "title": "SLN",
+  "description": "Learn about SLN file format and APIs that can create and open SLN files.",
+  "linktitle": "SLN",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-sln"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is SLN file?

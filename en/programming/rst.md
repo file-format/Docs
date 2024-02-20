@@ -1,19 +1,20 @@
 {
-  "date" : "2022-04-11",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-04-11",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "RST File Format- reStructuredText File",
-  "description":"Learn about RST file format and APIs that can create and open RST files.",
-  "linktitle" : "RST",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
+  "draft": "false",
+  "toc": true,
+  "title": "RST File Format- reStructuredText File",
+  "description": "Learn about RST file format and APIs that can create and open RST files.",
+  "linktitle": "RST",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-rst"
     }
   },
-  "lastmod" : "2022-04-11"
+  "lastmod": "2022-04-11"
 }
 
 ## What is an RST file?

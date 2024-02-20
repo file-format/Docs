@@ -1,20 +1,29 @@
 {
-  "date" : "2019-10-11",
-  "keywords": [ "sh file", ".sh file", "extension", "format", "sh file example", "sh file format", "how to run sh file" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "sh file",
+    ".sh file",
+    "extension",
+    "format",
+    "sh file example",
+    "sh file format",
+    "how to run sh file"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "SH - Bash Shell Script File",
-  "description":"Learn about SH file format and APIs that can create and open SH files.",
-  "linktitle" : "SH",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
+  "draft": "false",
+  "toc": true,
+  "title": "SH - Bash Shell Script File",
+  "description": "Learn about SH file format and APIs that can create and open SH files.",
+  "linktitle": "SH",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-sh"
     }
   },
-  "lastmod" : "2021-05-21"
+  "lastmod": "2021-05-21"
 }
 
 ## What is a SH file?

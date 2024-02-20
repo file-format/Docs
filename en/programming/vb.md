@@ -1,20 +1,28 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "vb", "file", "extension", "file format", "Visual Basic", "Programming Guide" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "vb",
+    "file",
+    "extension",
+    "file format",
+    "Visual Basic",
+    "Programming Guide"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "VB - Visual Basic Code File",
-  "description":"Learn about VB file format and APIs that can create and open VB files.",
-  "linktitle" : "VB",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
+  "draft": "false",
+  "toc": true,
+  "title": "VB - Visual Basic Code File",
+  "description": "Learn about VB file format and APIs that can create and open VB files.",
+  "linktitle": "VB",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-vb"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is a VB file?

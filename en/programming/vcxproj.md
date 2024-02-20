@@ -1,20 +1,28 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "vcxproj", "file", "extension", "file format", "Visual C++ Project", "Programming Guide" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "vcxproj",
+    "file",
+    "extension",
+    "file format",
+    "Visual C++ Project",
+    "Programming Guide"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "VCXPROJ",
-  "description":"Learn about VCXPROJ file format and APIs that can create and open VCXPROJ files.",
-  "linktitle" : "VCXPROJ",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
+  "draft": "false",
+  "toc": true,
+  "title": "VCXPROJ",
+  "description": "Learn about VCXPROJ file format and APIs that can create and open VCXPROJ files.",
+  "linktitle": "VCXPROJ",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-vcxproj"
     }
   },
-  "lastmod" : "2020-09-10"
+  "lastmod": "2020-09-10"
 }
 
 ## What is a VCXPROJ file?

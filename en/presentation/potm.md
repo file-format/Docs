@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "potm file", "potm file format", "what is a potm file", "file", "potm example", "potm file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "potm file",
+    "potm file format",
+    "what is a potm file",
+    "file",
+    "potm example",
+    "potm file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "POTM - Microsoft PowerPoint Template File with Macros",
-  "description":"Learn about POTM file format and APIs that can create and open POTM files.",
-  "linktitle" : "POTM",
-  "menu" : {
-    "docs" : {
-      "parent" : "presentation"
+  "draft": "false",
+  "toc": true,
+  "title": "POTM - Microsoft PowerPoint Template File with Macros",
+  "description": "Learn about POTM file format and APIs that can create and open POTM files.",
+  "linktitle": "POTM",
+  "menu": {
+    "docs": {
+      "parent": "presentation",
+      "identifier": "presentation-potm"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is a POTM file?

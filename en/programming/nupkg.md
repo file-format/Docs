@@ -1,19 +1,20 @@
 {
-  "date" : "2022-03-09",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-03-09",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "NUPKG File - NuGet Package File",
-  "description":"Learn about NUPKG file format and APIs that can create and open NUPKG files.",
-  "linktitle" : "NUPKG",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
+  "draft": "false",
+  "toc": true,
+  "title": "NUPKG File - NuGet Package File",
+  "description": "Learn about NUPKG file format and APIs that can create and open NUPKG files.",
+  "linktitle": "NUPKG",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-nupkg"
     }
   },
-  "lastmod" : "2022-03-09"
+  "lastmod": "2022-03-09"
 }
 
 ## What is a NUPKG file?

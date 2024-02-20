@@ -1,20 +1,27 @@
 {
-  "date" : "2019-10-11",
-  "keywords": [ "mf file", "mf", "extension", "format", "mf file format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "mf file",
+    "mf",
+    "extension",
+    "format",
+    "mf file format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "MF - Java Manifest File Format",
-  "description":"Learn about MF file format and APIs that can create and open MF files.",
-  "linktitle" : "MF",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
+  "draft": "false",
+  "toc": true,
+  "title": "MF - Java Manifest File Format",
+  "description": "Learn about MF file format and APIs that can create and open MF files.",
+  "linktitle": "MF",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-mf"
     }
   },
-  "lastmod" : "2020-09-10"
+  "lastmod": "2020-09-10"
 }
 
 ## What is an MF file?

@@ -1,19 +1,20 @@
 {
-  "date" : "2023-01-05",
-  "author" : {
-    "display_name" : "Sami Cheema"
+  "date": "2023-01-05",
+  "author": {
+    "display_name": "Sami Cheema"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "NX File - LowRes NX Application File Format",
-  "description":"Learn about NX file format and APIs that can create and open NX files.",
-  "linktitle" : "NX",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
+  "draft": "false",
+  "toc": true,
+  "title": "NX File - LowRes NX Application File Format",
+  "description": "Learn about NX file format and APIs that can create and open NX files.",
+  "linktitle": "NX",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-nx"
     }
   },
-  "lastmod" : "2023-01-05"
+  "lastmod": "2023-01-05"
 }
 
 ## What is an NX file?

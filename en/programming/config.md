@@ -1,20 +1,34 @@
 {
-  "date" : "2021-04-23",
-  "keywords": [ "config File", "configuration files", "config File format", "extension", "format","git config file","Configuration files in Linux","what is a config file","Config file php", "ssh config file example", "aws config file example", "python config file example" ],
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-04-23",
+  "keywords": [
+    "config File",
+    "configuration files",
+    "config File format",
+    "extension",
+    "format",
+    "git config file",
+    "Configuration files in Linux",
+    "what is a config file",
+    "Config file php",
+    "ssh config file example",
+    "aws config file example",
+    "python config file example"
+  ],
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "CONFIG - Configuration File",
-  "description":"Learn about CONFIG file format with CONFIG example and APIs that can create and open CONFIG files.",
-  "linktitle" : "CONFIG",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
+  "draft": "false",
+  "toc": true,
+  "title": "CONFIG - Configuration File",
+  "description": "Learn about CONFIG file format with CONFIG example and APIs that can create and open CONFIG files.",
+  "linktitle": "CONFIG",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-config"
     }
   },
-  "lastmod" : "2021-04-23"
+  "lastmod": "2021-04-23"
 }
 
 ## What is a CONFIG file?

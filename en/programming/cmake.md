@@ -1,19 +1,20 @@
 {
-  "date" : "2022-04-04",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-04-04",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "CMAKE File Format",
-  "description":"Learn about CMAKE file format and APIs that can create and open CMAKE files.",
-  "linktitle" : "CMAKE",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
+  "draft": "false",
+  "toc": true,
+  "title": "CMAKE File Format",
+  "description": "Learn about CMAKE file format and APIs that can create and open CMAKE files.",
+  "linktitle": "CMAKE",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-cmake"
     }
   },
-  "lastmod" : "2022-04-04"
+  "lastmod": "2022-04-04"
 }
 
 ## What is a CMAKE file?

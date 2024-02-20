@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "jrxml", "jrxml file", "jrxml file format", "file format", "programming","jrxml file download", ".jrxml file", ".jrxml"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "jrxml",
+    "jrxml file",
+    "jrxml file format",
+    "file format",
+    "programming",
+    "jrxml file download",
+    ".jrxml file",
+    ".jrxml"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "description":"Learn about JRXML file format and APIs that can open and create JRXML files.",
-  "title" : "JRXML File Format",
-  "linktitle" : "JRXML",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
+  "draft": "false",
+  "toc": true,
+  "description": "Learn about JRXML file format and APIs that can open and create JRXML files.",
+  "title": "JRXML File Format",
+  "linktitle": "JRXML",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-jrxml"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is a JRXML file?

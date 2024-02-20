@@ -1,20 +1,31 @@
 {
-  "date" : "2020-01-10",
-  "keywords" : [ "cd", ".cd","what is a cd file","how to open cd file", "extension", "file", "cd file","cd file format",  "cd file extension"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2020-01-10",
+  "keywords": [
+    "cd",
+    ".cd",
+    "what is a cd file",
+    "how to open cd file",
+    "extension",
+    "file",
+    "cd file",
+    "cd file format",
+    "cd file extension"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "CD - Visual Studio Class Diagram File",
-  "description":"Learn about CD file format and APIs that can create and open CD files.",
-  "linktitle" : "CD",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
+  "draft": "false",
+  "toc": true,
+  "title": "CD - Visual Studio Class Diagram File",
+  "description": "Learn about CD file format and APIs that can create and open CD files.",
+  "linktitle": "CD",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-cd"
     }
   },
-  "lastmod" : "2021-06-24"
+  "lastmod": "2021-06-24"
 }
 
 ## What is a CD file?

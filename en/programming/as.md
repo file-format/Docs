@@ -1,20 +1,32 @@
 {
-  "date" : "2021-08-31", 
-  "keywords" : [ "AS", "file", "extension", "file format", "", "Programming Guide", "AS example", "Аdоbe Flаsh", "ActionScript", "Mасrоmediа Flаsh" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
+  "date": "2021-08-31",
+  "keywords": [
+    "AS",
+    "file",
+    "extension",
+    "file format",
+    "",
+    "Programming Guide",
+    "AS example",
+    "Аdоbe Flаsh",
+    "ActionScript",
+    "Mасrоmediа Flаsh"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "AS - ActionScript File Format",
-  "description":"Learn about AS file format and APIs that can create and open AS files.",
-  "linktitle" : "AS",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
+  "draft": "false",
+  "toc": true,
+  "title": "AS - ActionScript File Format",
+  "description": "Learn about AS file format and APIs that can create and open AS files.",
+  "linktitle": "AS",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-as"
     }
   },
-  "lastmod" : "2021-08-31"
+  "lastmod": "2021-08-31"
 }
 
 ## What is an AS file? ##

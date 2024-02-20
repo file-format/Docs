@@ -1,21 +1,29 @@
 
 {
-  "date" : "2022-02-06",
-  "keywords": [ ".apks file", "extension", "format","APK Set Archive", "how to open .apks file","apks file format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-02-06",
+  "keywords": [
+    ".apks file",
+    "extension",
+    "format",
+    "APK Set Archive",
+    "how to open .apks file",
+    "apks file format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "APKS File - APK Set Archive",
-  "description":"Learn about what is an APKS file?",
-  "linktitle" : "APKS",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
+  "draft": "false",
+  "toc": true,
+  "title": "APKS File - APK Set Archive",
+  "description": "Learn about what is an APKS file?",
+  "linktitle": "APKS",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-apks"
     }
   },
-  "lastmod" : "2022-02-06"
+  "lastmod": "2022-02-06"
 }
 
 ## What is an APKS file?

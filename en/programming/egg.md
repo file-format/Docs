@@ -1,19 +1,20 @@
 {
-  "date" : "2022-03-15",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-03-15",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "EGG File Format - Python Distribution File",
-  "description":"Learn about EGG file format and APIs that can create and open EGG files.",
-  "linktitle" : "EGG",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
+  "draft": "false",
+  "toc": true,
+  "title": "EGG File Format - Python Distribution File",
+  "description": "Learn about EGG file format and APIs that can create and open EGG files.",
+  "linktitle": "EGG",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-egg"
     }
   },
-  "lastmod" : "2022-03-15"
+  "lastmod": "2022-03-15"
 }
 
 ## What is an EGG file?

@@ -1,20 +1,28 @@
 {
-  "date" : "2019-10-11",
-  "keywords": [ "csproj file", "csproj", "extension", "format", "What is a csproj file", "csproj file format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "csproj file",
+    "csproj",
+    "extension",
+    "format",
+    "What is a csproj file",
+    "csproj file format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "CSPROJ",
-  "description":"Learn about CSPROJ file format and APIs that can create and open CSPROJ files.",
-  "linktitle" : "CSPROJ",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
+  "draft": "false",
+  "toc": true,
+  "title": "CSPROJ",
+  "description": "Learn about CSPROJ file format and APIs that can create and open CSPROJ files.",
+  "linktitle": "CSPROJ",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-csproj"
     }
   },
-  "lastmod" : "2021-05-21"
+  "lastmod": "2021-05-21"
 }
 
 ## What is a CSProj file?

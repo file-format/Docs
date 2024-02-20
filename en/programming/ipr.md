@@ -1,19 +1,20 @@
 {
-  "date" : "2021-09-13",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-09-13",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "IPR File Format - IntelliJ IDEA Project File",
-  "description":"Learn about IPR file format and APIs that can create and open IPR files.",
-  "linktitle" : "IPR",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
+  "draft": "false",
+  "toc": true,
+  "title": "IPR File Format - IntelliJ IDEA Project File",
+  "description": "Learn about IPR file format and APIs that can create and open IPR files.",
+  "linktitle": "IPR",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-ipr"
     }
   },
-  "lastmod" : "2021-09-13"
+  "lastmod": "2021-09-13"
 }
 
 ## What is an IPR file? 

@@ -1,19 +1,20 @@
 {
-  "date" : "2022-06-02",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-06-02",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "RBXM  - Ruby Javascript File",
-  "description":"Learn about what is RBXM file format?",
-  "linktitle" : "RBXM",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
+  "draft": "false",
+  "toc": true,
+  "title": "RBXM  - Ruby Javascript File",
+  "description": "Learn about what is RBXM file format?",
+  "linktitle": "RBXM",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-rbxm"
     }
   },
-  "lastmod" : "2022-06-02"
+  "lastmod": "2022-06-02"
 }
 
 ## What is an RBXM file?

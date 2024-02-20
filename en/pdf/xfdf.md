@@ -1,19 +1,20 @@
 {
-  "date" : "2019-10-11",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "XFDF File Format -  What is an XFDF file?",
-  "description":"Learn about XFDF file and APIs that can create and open XFDF files.",
-  "linktitle" : "XFDF",
-  "menu" : {
-    "docs" : {
-      "parent" : "pdf"
+  "draft": "false",
+  "toc": true,
+  "title": "XFDF File Format -  What is an XFDF file?",
+  "description": "Learn about XFDF file and APIs that can create and open XFDF files.",
+  "linktitle": "XFDF",
+  "menu": {
+    "docs": {
+      "parent": "pdf",
+      "identifier": "pdf-xfdf"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is an XFDF file?

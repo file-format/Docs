@@ -1,20 +1,27 @@
 {
-  "date" : "2021-04-22",
-  "keywords": [ "appxbundle file", "extension", "format","how to open appxbundle file","appxbundle file format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-04-22",
+  "keywords": [
+    "appxbundle file",
+    "extension",
+    "format",
+    "how to open appxbundle file",
+    "appxbundle file format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "appxbundle - What is an APPXBundle file?",
-  "description":"Learn about APPX file format and APIs that can create and open APPX files.",
-  "linktitle" : "APPXBUNDLE",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
+  "draft": "false",
+  "toc": true,
+  "title": "appxbundle - What is an APPXBundle file?",
+  "description": "Learn about APPX file format and APIs that can create and open APPX files.",
+  "linktitle": "APPXBUNDLE",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-appxbundle"
     }
   },
-  "lastmod" : "2021-12-19"
+  "lastmod": "2021-12-19"
 }
 
 ## What is an APPXBUNDLE file?

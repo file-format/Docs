@@ -1,20 +1,31 @@
 {
-  "date" : "2021-08-30",
-  "keywords" : [ "GO", "file", "extension", "file format", "Gо рrоgrаmming lаnguаge", "Programming Guide", "go example", "Google Go", "Gоlаng" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
+  "date": "2021-08-30",
+  "keywords": [
+    "GO",
+    "file",
+    "extension",
+    "file format",
+    "Gо рrоgrаmming lаnguаge",
+    "Programming Guide",
+    "go example",
+    "Google Go",
+    "Gоlаng"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "GO - Gоlаng File Format",
-  "description":"Learn about GO file format and APIs that can create and open GO files.",
-  "linktitle" : "GO",
-  "menu" : {
-    "docs" : {
-      "parent" : "programming"
+  "draft": "false",
+  "toc": true,
+  "title": "GO - Gоlаng File Format",
+  "description": "Learn about GO file format and APIs that can create and open GO files.",
+  "linktitle": "GO",
+  "menu": {
+    "docs": {
+      "parent": "programming",
+      "identifier": "programming-go"
     }
   },
-  "lastmod" : "2021-08-30"
+  "lastmod": "2021-08-30"
 }
 
 ## What is a GO file?
