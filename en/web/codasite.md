@@ -1,19 +1,20 @@
 {
-  "date" : "2021-08-19",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-08-19",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "CODASITE File Format - Coda Site File",
-  "description" : "Learn about what is a CODASITE file and APIs that can create and open CODASITE files.",
-  "linktitle" : "CODASITE",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "CODASITE File Format - Coda Site File",
+  "description": "Learn about what is a CODASITE file and APIs that can create and open CODASITE files.",
+  "linktitle": "CODASITE",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-codasite"
     }
   },
-  "lastmod" : "2021-08-19"
+  "lastmod": "2021-08-19"
 }
 
 ## What is a CODASITE file?

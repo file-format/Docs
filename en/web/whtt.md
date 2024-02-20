@@ -1,19 +1,20 @@
 {
-  "date" : "2022-02-03",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-02-03",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "WHTT File - HTTrack Website Copier File",
-  "description":"Learn about what is a WHTT file and APIs that can create and open WHTT files.",
-  "linktitle" : "WHTT",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "WHTT File - HTTrack Website Copier File",
+  "description": "Learn about what is a WHTT file and APIs that can create and open WHTT files.",
+  "linktitle": "WHTT",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-whtt"
     }
   },
-  "lastmod" : "2022-02-03"
+  "lastmod": "2022-02-03"
 }
 
 ## What is a WHTT file?

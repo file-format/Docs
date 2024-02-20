@@ -1,19 +1,20 @@
 {
-  "date" : "2022-06-10",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-06-10",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "WEBBOOKMARK File Format - Safari Web Bookmark File",
-  "description":"Learn about what is a WEBBOOKMARK file and APIs that can create and open WEBBOOKMARK files.",
-  "linktitle" : "WEBBOOKMARK",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "WEBBOOKMARK File Format - Safari Web Bookmark File",
+  "description": "Learn about what is a WEBBOOKMARK file and APIs that can create and open WEBBOOKMARK files.",
+  "linktitle": "WEBBOOKMARK",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-webbookmark"
     }
   },
-  "lastmod" : "2022-06-10"
+  "lastmod": "2022-06-10"
 }
 
 ## What is a WEBBOOKMARK file?

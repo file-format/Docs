@@ -1,20 +1,29 @@
 {
-  "date" : "2021-05-20",
-  "keywords" : [ "shtml","shtml file", "shtml file format", "shtml file type", "file", "type", "what is an shtml file" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-05-20",
+  "keywords": [
+    "shtml",
+    "shtml file",
+    "shtml file format",
+    "shtml file type",
+    "file",
+    "type",
+    "what is an shtml file"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "SHTML - Server Side Include HTML File",
-  "description":"Learn about SHTML file format and APIs that can create and open SHTML files.",
-  "linktitle" : "SHTML",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "SHTML - Server Side Include HTML File",
+  "description": "Learn about SHTML file format and APIs that can create and open SHTML files.",
+  "linktitle": "SHTML",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-shtml"
     }
   },
-  "lastmod" : "2021-05-20"
+  "lastmod": "2021-05-20"
 }
 
 ## What is an SHTML file?

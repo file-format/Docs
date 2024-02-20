@@ -1,19 +1,20 @@
 {
-  "date" : "2022-07-21",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-07-21",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "PRO File Format - What is a PRO file?",
-  "description":"Learn about Adobe Proto Design File PRO file format and APIs that can create and open PRO files.",
-  "linktitle" : "PRO",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "PRO File Format - What is a PRO file?",
+  "description": "Learn about Adobe Proto Design File PRO file format and APIs that can create and open PRO files.",
+  "linktitle": "PRO",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-pro"
     }
   },
-  "lastmod" : "2022-07-21"
+  "lastmod": "2022-07-21"
 }
 
 ## What is a PRO file? ##

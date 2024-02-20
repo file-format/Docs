@@ -1,20 +1,29 @@
 {
-  "date" : "2019-10-11",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "MXF - Material Exchange Format",
-  "keywords" : [ "MXF", "matroska video", "mkv format", "how to play MXF files", "SMPTE", "multimedia", "video" ],
-  "description":"Learn about MXF file format and APIs that can create and open MXF files.",
-  "linktitle" : "MXF",
-  "menu" : {
-    "docs" : {
-      "parent" : "video"
+  "draft": "false",
+  "toc": true,
+  "title": "MXF - Material Exchange Format",
+  "keywords": [
+    "MXF",
+    "matroska video",
+    "mkv format",
+    "how to play MXF files",
+    "SMPTE",
+    "multimedia",
+    "video"
+  ],
+  "description": "Learn about MXF file format and APIs that can create and open MXF files.",
+  "linktitle": "MXF",
+  "menu": {
+    "docs": {
+      "parent": "video",
+      "identifier": "video-mxf"
     }
   },
-  "lastmod" : "2021-03-01"
+  "lastmod": "2021-03-01"
 }
 
 ## What is an MXF File?

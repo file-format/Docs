@@ -1,19 +1,20 @@
 {
-  "date" : "2021-07-28",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-07-28",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "QBL - QuickBooks License File",
-  "description":"Learn about QBL file format and APIs that can create and open QBL files.",
-  "linktitle" : "QBL",
-  "menu" : {
-    "docs" : {
-      "parent" : "word-processing"
+  "draft": "false",
+  "toc": true,
+  "title": "QBL - QuickBooks License File",
+  "description": "Learn about QBL file format and APIs that can create and open QBL files.",
+  "linktitle": "QBL",
+  "menu": {
+    "docs": {
+      "parent": "word-processing",
+      "identifier": "word-processing-qbl"
     }
   },
-  "lastmod" : "2021-07-28"
+  "lastmod": "2021-07-28"
 }
 
 ## What is a QBL file?

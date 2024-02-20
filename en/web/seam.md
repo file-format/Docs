@@ -1,20 +1,21 @@
 {
-  "date" : "2023-01-31",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2023-01-31",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "SEAM File - Seam Framework Java Servlet File Format",
-  "description":"Learn about SEAM file format and APIs that can create and open SEAM files.",
-  "linktitle" : "SEAM",
-  "menu" : {
-    "docs" : {
-      "identifer":"web-seam",
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "SEAM File - Seam Framework Java Servlet File Format",
+  "description": "Learn about SEAM file format and APIs that can create and open SEAM files.",
+  "linktitle": "SEAM",
+  "menu": {
+    "docs": {
+      "identifer": "web-seam",
+      "parent": "web",
+      "identifier": "web-seam"
     }
   },
-  "lastmod" : "2023-01-31"
+  "lastmod": "2023-01-31"
 }
 
 ## What is an SEAM file?

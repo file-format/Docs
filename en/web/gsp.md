@@ -1,19 +1,20 @@
 {
-  "date" : "2022-01-24",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-01-24",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "GSP File - IMail Error Message File Format",
-  "description":"What is a GSP file and APIs that can create and open GSP files.",
-  "linktitle" : "GSP",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "GSP File - IMail Error Message File Format",
+  "description": "What is a GSP file and APIs that can create and open GSP files.",
+  "linktitle": "GSP",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-gsp"
     }
   },
-  "lastmod" : "2022-01-24"
+  "lastmod": "2022-01-24"
 }
 
 ## What is a GSP file?

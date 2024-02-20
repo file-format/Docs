@@ -1,20 +1,27 @@
 {
-  "date" : "2021-12-09",
-  "keywords" : [ "asa",".asa", "file format", "file type", "what is a .asa file" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-12-09",
+  "keywords": [
+    "asa",
+    ".asa",
+    "file format",
+    "file type",
+    "what is a .asa file"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ASA - ASP Configuration File",
-  "description" : "Learn about what is an ASA file and APIs that can create and open ASA files.",
-  "linktitle" : "ASA",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "ASA - ASP Configuration File",
+  "description": "Learn about what is an ASA file and APIs that can create and open ASA files.",
+  "linktitle": "ASA",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-asa"
     }
   },
-  "lastmod" : "2021-12-09"
+  "lastmod": "2021-12-09"
 }
 
 ## What is an ASA file?

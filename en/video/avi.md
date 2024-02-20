@@ -1,20 +1,33 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "AVI", "Compressed Audio Video", "File", "Extension", "File Format", "Multimedia Container", "XVid", "DivX", "Codecs", "Resource Interchange File Format", "RIFF"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "AVI",
+    "Compressed Audio Video",
+    "File",
+    "Extension",
+    "File Format",
+    "Multimedia Container",
+    "XVid",
+    "DivX",
+    "Codecs",
+    "Resource Interchange File Format",
+    "RIFF"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "AVI File Format - An Audio Video Interleave File",
-  "description":"Learn about AVI file format and APIs that can create and open AVI files.",
-  "linktitle" : "AVI",
-  "menu" : {
-    "docs" : {
-      "parent" : "video"
+  "draft": "false",
+  "toc": true,
+  "title": "AVI File Format - An Audio Video Interleave File",
+  "description": "Learn about AVI file format and APIs that can create and open AVI files.",
+  "linktitle": "AVI",
+  "menu": {
+    "docs": {
+      "parent": "video",
+      "identifier": "video-avi"
     }
   },
-  "lastmod" : "2021-04-23"
+  "lastmod": "2021-04-23"
 }
 
 ## What is an AVI file? ##

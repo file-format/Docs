@@ -1,19 +1,20 @@
 {
-  "date" : "2022-06-01",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-06-01",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "DOCHTML File Format - Microsoft Word HTML Document File",
-  "description" : "Learn about DOCHTML File Format and APIs to create and open DOCHTML files.",
-  "linktitle" : "DOCHTML",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "DOCHTML File Format - Microsoft Word HTML Document File",
+  "description": "Learn about DOCHTML File Format and APIs to create and open DOCHTML files.",
+  "linktitle": "DOCHTML",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-dochtml"
     }
   },
-  "lastmod" : "2022-06-01"
+  "lastmod": "2022-06-01"
 }
 
 ## What is a DOCHTML file?

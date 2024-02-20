@@ -1,20 +1,28 @@
 {
-  "date" : "2019-12-03",
-  "keywords" : [ "DOCX","file", "format", "file type", "extension","what is an DOCX file?" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-12-03",
+  "keywords": [
+    "DOCX",
+    "file",
+    "format",
+    "file type",
+    "extension",
+    "what is an DOCX file?"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "Free online DOCX File Format Viewer",
-  "description":"Free online DOCX viewer to open and view DOCX files.",
-  "linktitle" : "DOCX Viewer",
-  "menu" : {
-    "docs" : {
-      "parent" : "word-processing"
+  "draft": "false",
+  "toc": true,
+  "title": "Free online DOCX File Format Viewer",
+  "description": "Free online DOCX viewer to open and view DOCX files.",
+  "linktitle": "DOCX Viewer",
+  "menu": {
+    "docs": {
+      "parent": "word-processing",
+      "identifier": "word-processing-docx-viewer"
     }
   },
-  "lastmod" : "2019-12-03"
+  "lastmod": "2019-12-03"
 }
 
 ## DOCX Viewer

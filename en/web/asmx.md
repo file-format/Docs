@@ -1,20 +1,29 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "asmx","asmx file", "asmx file format", "asmx file type", "file", "type", "what is an asmx file" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "asmx",
+    "asmx file",
+    "asmx file format",
+    "asmx file type",
+    "file",
+    "type",
+    "what is an asmx file"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ASMX - ASP.NET Web Service File",
-  "description" : "Learn about what is an ASMX file and APIs that can create and open ASMX files.",
-  "linktitle" : "ASMX",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "ASMX - ASP.NET Web Service File",
+  "description": "Learn about what is an ASMX file and APIs that can create and open ASMX files.",
+  "linktitle": "ASMX",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-asmx"
     }
   },
-  "lastmod" : "2021-06-10"
+  "lastmod": "2021-06-10"
 }
 
 ## What is an ASMX file?

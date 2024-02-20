@@ -1,20 +1,28 @@
 {
-  "date" : "2021-07-25",
-  "keywords":["fodt","file", "extension", "type", "format", "OpenDocument"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-07-25",
+  "keywords": [
+    "fodt",
+    "file",
+    "extension",
+    "type",
+    "format",
+    "OpenDocument"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "FODT - OpenDocument Flat XML Document",
-  "description":"Learn about FODT file format and APIs that can create and open FODT files.",
-  "linktitle" : "FODT",
-  "menu" : {
-    "docs" : {
-      "parent" : "word-processing"
+  "draft": "false",
+  "toc": true,
+  "title": "FODT - OpenDocument Flat XML Document",
+  "description": "Learn about FODT file format and APIs that can create and open FODT files.",
+  "linktitle": "FODT",
+  "menu": {
+    "docs": {
+      "parent": "word-processing",
+      "identifier": "word-processing-fodt"
     }
   },
-  "lastmod" : "2021-07-25"
+  "lastmod": "2021-07-25"
 }
 
 ## What is an FODT file?

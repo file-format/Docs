@@ -1,20 +1,29 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "dhtml","dhtml file", "dhtml file format", "dhtml file type", "file", "type", "what is a dhtml file" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "dhtml",
+    "dhtml file",
+    "dhtml file format",
+    "dhtml file type",
+    "file",
+    "type",
+    "what is a dhtml file"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "DHTML - Dynamic HTML File Format",
-  "description":"Learn about DHTML file format and APIs that can create and open DHTML files.",
-  "linktitle" : "DHTML",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "DHTML - Dynamic HTML File Format",
+  "description": "Learn about DHTML file format and APIs that can create and open DHTML files.",
+  "linktitle": "DHTML",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-dhtml"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is a DHTML file?

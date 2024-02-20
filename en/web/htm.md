@@ -1,20 +1,29 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "htm","htm file", "htm file format", "htm file type", "file", "type", "what is an htm file" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "htm",
+    "htm file",
+    "htm file format",
+    "htm file type",
+    "file",
+    "type",
+    "what is an htm file"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "HTM File Format",
-  "description" : "Your file format guide to learn what is an HTM file and APIs that can create and open them.",
-  "linktitle" : "HTM",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "HTM File Format",
+  "description": "Your file format guide to learn what is an HTM file and APIs that can create and open them.",
+  "linktitle": "HTM",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-htm"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is an HTM file?

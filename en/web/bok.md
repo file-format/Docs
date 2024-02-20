@@ -1,19 +1,20 @@
 {
-  "date" : "2022-08-20",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-08-20",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "BOK File - ProStores Dynamic Webpage File Format",
-  "description":"Learn about BOK file format and APIs that can create and open BOK files.",
-  "linktitle" : "BOK",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "BOK File - ProStores Dynamic Webpage File Format",
+  "description": "Learn about BOK file format and APIs that can create and open BOK files.",
+  "linktitle": "BOK",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-bok"
     }
   },
-  "lastmod" : "2022-08-20"
+  "lastmod": "2022-08-20"
 }
 
 ## What is a BOK file?

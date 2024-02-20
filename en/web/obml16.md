@@ -1,19 +1,20 @@
 {
-  "date" : "2022-05-19",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-05-19",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "OBML16 File Format - Opera Mini Saved Webpage File",
-  "description" : "Learn about what is a OBML16 file and APIs that can create and open OBML16 file.",
-  "linktitle" : "OBML16",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "OBML16 File Format - Opera Mini Saved Webpage File",
+  "description": "Learn about what is a OBML16 file and APIs that can create and open OBML16 file.",
+  "linktitle": "OBML16",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-obml16"
     }
   },
-  "lastmod" : "2022-05-19"
+  "lastmod": "2022-05-19"
 }
 
 ## What is an OBML16 file?

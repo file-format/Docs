@@ -1,19 +1,20 @@
 {
-  "date" : "2022-03-06",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-03-06",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "MPV File Format - MPEG Elementary Stream Video File",
-  "description":"Learn about MPV file format and APIs that can create and show that how to open the MPV files.",
-  "linktitle" : "MPV",
-  "menu" : {
-    "docs" : {
-      "parent" : "video"
+  "draft": "false",
+  "toc": true,
+  "title": "MPV File Format - MPEG Elementary Stream Video File",
+  "description": "Learn about MPV file format and APIs that can create and show that how to open the MPV files.",
+  "linktitle": "MPV",
+  "menu": {
+    "docs": {
+      "parent": "video",
+      "identifier": "video-mpv"
     }
   },
-  "lastmod" : "2022-03-06"
+  "lastmod": "2022-03-06"
 }
 
 ## What is an MPV file?

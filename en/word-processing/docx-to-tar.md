@@ -1,19 +1,20 @@
 {
-  "date" : "2023-05-01",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2023-05-01",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "Convert DOCX to TAR GZ Online for Free",
-  "description":"Online APIs to convert DOCX to TAR GZ online",
-  "linktitle" : "DOCX to TAR",
-  "menu" : {
-    "docs" : {
-      "parent" : "word-processing"
+  "draft": "false",
+  "toc": true,
+  "title": "Convert DOCX to TAR GZ Online for Free",
+  "description": "Online APIs to convert DOCX to TAR GZ online",
+  "linktitle": "DOCX to TAR",
+  "menu": {
+    "docs": {
+      "parent": "word-processing",
+      "identifier": "word-processing-docx-to-tar"
     }
   },
-  "lastmod" : "2023-05-01"
+  "lastmod": "2023-05-01"
 }
 
 ## About DOCX to TAR

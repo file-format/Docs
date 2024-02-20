@@ -1,20 +1,28 @@
 {
-  "date" : "2021-07-25",
-  "keywords":["man","file", "extension", "type", "format", "Unix Manual"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-07-25",
+  "keywords": [
+    "man",
+    "file",
+    "extension",
+    "type",
+    "format",
+    "Unix Manual"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "MAN - Unix Manual",
-  "description":"Learn about FODT file format and APIs that can create and open MAN files.",
-  "linktitle" : "MAN",
-  "menu" : {
-    "docs" : {
-      "parent" : "word-processing"
+  "draft": "false",
+  "toc": true,
+  "title": "MAN - Unix Manual",
+  "description": "Learn about FODT file format and APIs that can create and open MAN files.",
+  "linktitle": "MAN",
+  "menu": {
+    "docs": {
+      "parent": "word-processing",
+      "identifier": "word-processing-man"
     }
   },
-  "lastmod" : "2021-07-25"
+  "lastmod": "2021-07-25"
 }
 
 ## What is a MAN file?

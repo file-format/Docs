@@ -1,19 +1,20 @@
 {
-  "date" : "2022-08-05",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-08-05",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "APPCACHE File - HTML5 Cache Manifest File Format",
-  "description" : "Learn about what is an APPCACHE file and APIs that can create and open APPCACHE files.",
-  "linktitle" : "APPCACHE",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "APPCACHE File - HTML5 Cache Manifest File Format",
+  "description": "Learn about what is an APPCACHE file and APIs that can create and open APPCACHE files.",
+  "linktitle": "APPCACHE",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-appcache"
     }
   },
-  "lastmod" : "2022-08-05"
+  "lastmod": "2022-08-05"
 }
 
 ## What is an APPCACHE file?

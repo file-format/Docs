@@ -1,20 +1,28 @@
 {
-  "date" : "2021-05-24",
-  "keywords" : ["xht", "File", "Extension", "File Format", "File Extension", "extended hypertext markup language"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-05-24",
+  "keywords": [
+    "xht",
+    "File",
+    "Extension",
+    "File Format",
+    "File Extension",
+    "extended hypertext markup language"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "XHT",
-  "description":"Learn about XHT file format and APIs that can create and open XHT files.",
-  "linktitle" : "XHT",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "XHT",
+  "description": "Learn about XHT file format and APIs that can create and open XHT files.",
+  "linktitle": "XHT",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-xht"
     }
   },
-  "lastmod" : "2021-05-24"
+  "lastmod": "2021-05-24"
 }
 
 ## What is an XHT file?

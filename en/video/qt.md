@@ -1,20 +1,30 @@
 {
-  "date" : "2021-02-15",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-02-15",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "QT File Format - Quick Movie File",
-  "keywords" : [ "QT", "QuickTime video", "qt format", "how to play qt files", "Quick Movie File", "QTFF", "video", "Apple" ],
-  "description":"Learn about QT file format and APIs that can create and open QT files.",
-  "linktitle" : "QT",
-  "menu" : {
-    "docs" : {
-      "parent" : "video"
+  "draft": "false",
+  "toc": true,
+  "title": "QT File Format - Quick Movie File",
+  "keywords": [
+    "QT",
+    "QuickTime video",
+    "qt format",
+    "how to play qt files",
+    "Quick Movie File",
+    "QTFF",
+    "video",
+    "Apple"
+  ],
+  "description": "Learn about QT file format and APIs that can create and open QT files.",
+  "linktitle": "QT",
+  "menu": {
+    "docs": {
+      "parent": "video",
+      "identifier": "video-qt"
     }
   },
-  "lastmod" : "2021-02-16"
+  "lastmod": "2021-02-16"
 }
 
 ## What is a QT file?

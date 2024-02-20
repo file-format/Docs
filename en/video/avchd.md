@@ -1,20 +1,29 @@
 {
-  "date" : "2021-14-04",
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-14-04",
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "AVCHD File Format",
-  "keywords" : [ "avchd", "file", "extension", "format", "video format","what is an avchd file", "How to open AVCHD files"],
-  "description":"Learn about AVCHD file format and APIs that can create and show that how to open the AVCHD files.",
-  "linktitle" : "AVCHD",
-  "menu" : {
-    "docs" : {
-      "parent" : "video"
+  "draft": "false",
+  "toc": true,
+  "title": "AVCHD File Format",
+  "keywords": [
+    "avchd",
+    "file",
+    "extension",
+    "format",
+    "video format",
+    "what is an avchd file",
+    "How to open AVCHD files"
+  ],
+  "description": "Learn about AVCHD file format and APIs that can create and show that how to open the AVCHD files.",
+  "linktitle": "AVCHD",
+  "menu": {
+    "docs": {
+      "parent": "video",
+      "identifier": "video-avchd"
     }
   },
-  "lastmod" : "2021-14-04"
+  "lastmod": "2021-14-04"
 }
 
 ## What is an AVCHD file? ##

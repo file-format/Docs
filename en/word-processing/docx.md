@@ -1,20 +1,28 @@
 {
-  "date" : "2019-12-03",
-  "keywords" : [ "DOCX","file", "format", "file type", "extension","what is an DOCX file?" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-12-03",
+  "keywords": [
+    "DOCX",
+    "file",
+    "format",
+    "file type",
+    "extension",
+    "what is an DOCX file?"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "DOCX",
-  "description":"Learn about DOCX file format and APIs that can create and open DOCX files.",
-  "linktitle" : "DOCX",
-  "menu" : {
-    "docs" : {
-      "parent" : "word-processing"
+  "draft": "false",
+  "toc": true,
+  "title": "DOCX",
+  "description": "Learn about DOCX file format and APIs that can create and open DOCX files.",
+  "linktitle": "DOCX",
+  "menu": {
+    "docs": {
+      "parent": "word-processing",
+      "identifier": "word-processing-docx"
     }
   },
-  "lastmod" : "2019-12-03"
+  "lastmod": "2019-12-03"
 }
 
 ## What is a DOCX file? ##

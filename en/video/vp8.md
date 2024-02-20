@@ -1,20 +1,30 @@
 {
-  "date" : "2021-03-10",
-  "keywords" : [ "VP8", "File", "Extension", "File Format", "Video Format", "TrueMotion Video", "WebRTC", "WebM"],
-  "author" : {
-    "display_name" : "Sami Cheema"
+  "date": "2021-03-10",
+  "keywords": [
+    "VP8",
+    "File",
+    "Extension",
+    "File Format",
+    "Video Format",
+    "TrueMotion Video",
+    "WebRTC",
+    "WebM"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "VP8 - TrueMotion Video File",
-  "description":"Learn about VP8 file format and APIs that can create and open VP8 files.",
-  "linktitle" : "VP8",
-  "menu" : {
-    "docs" : {
-      "parent" : "video"
+  "draft": "false",
+  "toc": true,
+  "title": "VP8 - TrueMotion Video File",
+  "description": "Learn about VP8 file format and APIs that can create and open VP8 files.",
+  "linktitle": "VP8",
+  "menu": {
+    "docs": {
+      "parent": "video",
+      "identifier": "video-vp8"
     }
   },
-  "lastmod" : "2021-03-27"
+  "lastmod": "2021-03-27"
 }
 
 ## What is a VP8 file?

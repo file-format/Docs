@@ -1,20 +1,29 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "jhtml","jhtml file", "jhtml file format", "jhtml file type", "file", "type", "what is a jhtml file" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "jhtml",
+    "jhtml file",
+    "jhtml file format",
+    "jhtml file type",
+    "file",
+    "type",
+    "what is a jhtml file"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "JHTML - Java HTML File",
-  "description":"Learn about JHTML file format and APIs that can create and open JHTML files.",
-  "linktitle" : "JHTML",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "JHTML - Java HTML File",
+  "description": "Learn about JHTML file format and APIs that can create and open JHTML files.",
+  "linktitle": "JHTML",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-jhtml"
     }
   },
-  "lastmod" : "2021-06-09"
+  "lastmod": "2021-06-09"
 }
 
 ## What is a JHTML file?

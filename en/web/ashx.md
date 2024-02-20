@@ -1,20 +1,28 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "ashx", "file", "extension", "file format", "ASHX", "ASP.NET Web Handler File" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "ashx",
+    "file",
+    "extension",
+    "file format",
+    "ASHX",
+    "ASP.NET Web Handler File"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ASHX File Extension - An ASP.NET Web Handler File",
-  "description" : "Learn about what is an ASHX file and APIs that can create and open ASHX files.",
-  "linktitle" : "ASHX",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "ASHX File Extension - An ASP.NET Web Handler File",
+  "description": "Learn about what is an ASHX file and APIs that can create and open ASHX files.",
+  "linktitle": "ASHX",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-ashx"
     }
   },
-  "lastmod" : "2021-06-10"
+  "lastmod": "2021-06-10"
 }
 
 ## What is an ASHX file?

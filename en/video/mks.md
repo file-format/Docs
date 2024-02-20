@@ -1,20 +1,28 @@
 {
-  "date" : "2021-24-02",
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-24-02",
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "MKS File Format",
-  "keywords" : [ "mks", "matroska video", "mkv format", "file", "format", "video"],
-  "description":"Learn about MKS file format for subtitles only created by Matroska and APIs that can create and open MKS files.",
-  "linktitle" : "MKS",
-  "menu" : {
-    "docs" : {
-      "parent" : "video"
+  "draft": "false",
+  "toc": true,
+  "title": "MKS File Format",
+  "keywords": [
+    "mks",
+    "matroska video",
+    "mkv format",
+    "file",
+    "format",
+    "video"
+  ],
+  "description": "Learn about MKS file format for subtitles only created by Matroska and APIs that can create and open MKS files.",
+  "linktitle": "MKS",
+  "menu": {
+    "docs": {
+      "parent": "video",
+      "identifier": "video-mks"
     }
   },
-  "lastmod" : "2021-25-02"
+  "lastmod": "2021-25-02"
 }
 
 ## What is an MKS file?

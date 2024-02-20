@@ -1,19 +1,20 @@
 {
-  "date" : "2021-05-26",
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-05-26",
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "MTS File Format - AVCHD Video File",
-  "description":"Learn about MTS file format and APIs that can create and show that how to open the MTS files.",
-  "linktitle" : "MTS",
-  "menu" : {
-    "docs" : {
-      "parent" : "video"
+  "draft": "false",
+  "toc": true,
+  "title": "MTS File Format - AVCHD Video File",
+  "description": "Learn about MTS file format and APIs that can create and show that how to open the MTS files.",
+  "linktitle": "MTS",
+  "menu": {
+    "docs": {
+      "parent": "video",
+      "identifier": "video-mts"
     }
   },
-  "lastmod" : "2021-07-27"
+  "lastmod": "2021-07-27"
 }
 
 ## What is an MTS file?

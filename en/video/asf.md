@@ -1,20 +1,30 @@
 {
-  "date" : "2021-02-15",
-  "keywords" : [ "asf file", "asf file format", "what is an asf file", "file", "asf example", "asf file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-02-15",
+  "keywords": [
+    "asf file",
+    "asf file format",
+    "what is an asf file",
+    "file",
+    "asf example",
+    "asf file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ASF - Advanced Systems File Format",
-  "description":"Learn about ASF file format and APIs that can create and open ASF files.",
-  "linktitle" : "ASF",
-  "menu" : {
-    "docs" : {
-      "parent" : "video"
+  "draft": "false",
+  "toc": true,
+  "title": "ASF - Advanced Systems File Format",
+  "description": "Learn about ASF file format and APIs that can create and open ASF files.",
+  "linktitle": "ASF",
+  "menu": {
+    "docs": {
+      "parent": "video",
+      "identifier": "video-asf"
     }
   },
-  "lastmod" : "2021-02-16"
+  "lastmod": "2021-02-16"
 }
 
 ## What is an ASF file?

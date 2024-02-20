@@ -1,20 +1,28 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "dotm","file", "format", "file type", "extension","what is an DOTM file?" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "dotm",
+    "file",
+    "format",
+    "file type",
+    "extension",
+    "what is an DOTM file?"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "DOTM - Microsoft Word 2007 Template File",
-  "description":"Learn about DOTM file format and APIs that can create and open DOTM files.",
-  "linktitle" : "DOTM",
-  "menu" : {
-    "docs" : {
-      "parent" : "word-processing"
+  "draft": "false",
+  "toc": true,
+  "title": "DOTM - Microsoft Word 2007 Template File",
+  "description": "Learn about DOTM file format and APIs that can create and open DOTM files.",
+  "linktitle": "DOTM",
+  "menu": {
+    "docs": {
+      "parent": "word-processing",
+      "identifier": "word-processing-dotm"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is a DOTM file?

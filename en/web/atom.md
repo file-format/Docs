@@ -1,19 +1,20 @@
 {
-  "date" : "2022-08-05",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-08-05",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ATOM File - Atom Syndication Format",
-  "description" : "Learn about what is an ATOM file and APIs that can create and open ATOM files.",
-  "linktitle" : "ATOM",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "ATOM File - Atom Syndication Format",
+  "description": "Learn about what is an ATOM file and APIs that can create and open ATOM files.",
+  "linktitle": "ATOM",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-atom"
     }
   },
-  "lastmod" : "2022-08-05"
+  "lastmod": "2022-08-05"
 }
 
 ## What is an ATOM file?

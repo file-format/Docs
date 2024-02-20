@@ -1,19 +1,20 @@
 {
-  "date" : "2022-09-14",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-09-14",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "PEM File - Privacy Enhanced Mail Certificate File Format",
-  "description":"Learn about PEM file format and APIs that can create and open PEM files.",
-  "linktitle" : "PEM",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "PEM File - Privacy Enhanced Mail Certificate File Format",
+  "description": "Learn about PEM file format and APIs that can create and open PEM files.",
+  "linktitle": "PEM",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-pem"
     }
   },
-  "lastmod" : "2022-09-14"
+  "lastmod": "2022-09-14"
 }
 
 ## What is a PEM file?

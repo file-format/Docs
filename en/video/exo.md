@@ -1,19 +1,20 @@
 {
-  "date" : "2022-04-28",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-04-28",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "EXO File Format - YouTube Video Chunk File",
-  "description":"Learn about EXO file format and APIs that can create and open EXO files.",
-  "linktitle" : "EXO",
-  "menu" : {
-    "docs" : {
-      "parent" : "video"
+  "draft": "false",
+  "toc": true,
+  "title": "EXO File Format - YouTube Video Chunk File",
+  "description": "Learn about EXO file format and APIs that can create and open EXO files.",
+  "linktitle": "EXO",
+  "menu": {
+    "docs": {
+      "parent": "video",
+      "identifier": "video-exo"
     }
   },
-  "lastmod" : "2022-04-28"
+  "lastmod": "2022-04-28"
 }
 
 ## What is a EXO file?

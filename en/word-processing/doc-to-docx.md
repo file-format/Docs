@@ -1,19 +1,20 @@
 {
-  "date" : "2023-05-04",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2023-05-04",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "Convert DOC to DOCX Online for Free",
-  "description":"Free online DOC to DOCX converter APIs and Apps",
-  "linktitle" : "DOC to DOCX",
-  "menu" : {
-    "docs" : {
-      "parent" : "word-processing"
+  "draft": "false",
+  "toc": true,
+  "title": "Convert DOC to DOCX Online for Free",
+  "description": "Free online DOC to DOCX converter APIs and Apps",
+  "linktitle": "DOC to DOCX",
+  "menu": {
+    "docs": {
+      "parent": "word-processing",
+      "identifier": "word-processing-doc-to-docx"
     }
   },
-  "lastmod" : "2023-05-04"
+  "lastmod": "2023-05-04"
 }
 
 ## About DOC to DOCX Conversion

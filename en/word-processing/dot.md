@@ -1,20 +1,28 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "dot","file", "format", "file type", "extension","what is an DOT file?" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "dot",
+    "file",
+    "format",
+    "file type",
+    "extension",
+    "what is an DOT file?"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "DOT",
-  "description":"Learn about DOT file format and APIs that can create and open DOT files.",
-  "linktitle" : "DOT",
-  "menu" : {
-    "docs" : {
-      "parent" : "word-processing"
+  "draft": "false",
+  "toc": true,
+  "title": "DOT",
+  "description": "Learn about DOT file format and APIs that can create and open DOT files.",
+  "linktitle": "DOT",
+  "menu": {
+    "docs": {
+      "parent": "word-processing",
+      "identifier": "word-processing-dot"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is a DOT file?

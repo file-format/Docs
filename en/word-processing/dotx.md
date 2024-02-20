@@ -1,20 +1,28 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "DOTX","file", "format", "file type", "extension","what is a DOTX file?" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "DOTX",
+    "file",
+    "format",
+    "file type",
+    "extension",
+    "what is a DOTX file?"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "DOTX - Microsoft Word Template File",
-  "description":"Learn about DOTX file format and APIs that can create and open DOTX files.",
-  "linktitle" : "DOTX",
-  "menu" : {
-    "docs" : {
-      "parent" : "word-processing"
+  "draft": "false",
+  "toc": true,
+  "title": "DOTX - Microsoft Word Template File",
+  "description": "Learn about DOTX file format and APIs that can create and open DOTX files.",
+  "linktitle": "DOTX",
+  "menu": {
+    "docs": {
+      "parent": "word-processing",
+      "identifier": "word-processing-dotx"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is a DOTX file?

@@ -1,20 +1,28 @@
 {
-  "date" : "2022-02-19",
-  "keywords" : ["xoj", "File", "Extension", "File Format", "File Extension", "Xournal notebook"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-02-19",
+  "keywords": [
+    "xoj",
+    "File",
+    "Extension",
+    "File Format",
+    "File Extension",
+    "Xournal notebook"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "XOJ File - Xournal Notebook File Format",
-  "description":"Learn about XOJ file format and APIs that can create and open XOJ files.",
-  "linktitle" : "XOJ",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "XOJ File - Xournal Notebook File Format",
+  "description": "Learn about XOJ file format and APIs that can create and open XOJ files.",
+  "linktitle": "XOJ",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-xoj"
     }
   },
-  "lastmod" : "2022-02-19"
+  "lastmod": "2022-02-19"
 }
 
 ## What is an XOJ file?

@@ -1,20 +1,32 @@
 {
-  "date" : "2021-07-27",
-  "keywords" : [ "wpd file", "wpd file format", "what is a wpd file", "file", "wpd example", "wpd file extension","extension", "format", "Corel", "WordPerfect" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
+  "date": "2021-07-27",
+  "keywords": [
+    "wpd file",
+    "wpd file format",
+    "what is a wpd file",
+    "file",
+    "wpd example",
+    "wpd file extension",
+    "extension",
+    "format",
+    "Corel",
+    "WordPerfect"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "WPD - WordPerfect Document Files",
-  "description":"Learn about WPD file format and APIs that can create and open WPD files.",
-  "linktitle" : "WPD",
-  "menu" : {
-    "docs" : {
-      "parent" : "word-processing"
+  "draft": "false",
+  "toc": true,
+  "title": "WPD - WordPerfect Document Files",
+  "description": "Learn about WPD file format and APIs that can create and open WPD files.",
+  "linktitle": "WPD",
+  "menu": {
+    "docs": {
+      "parent": "word-processing",
+      "identifier": "word-processing-wpd"
     }
   },
-  "lastmod" : "2021-07-27"
+  "lastmod": "2021-07-27"
 }
 
 ## What is a WPD file?

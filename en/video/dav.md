@@ -1,20 +1,30 @@
 {
-  "date" : "2022-01-25",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-01-25",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "DAV File - CCTV DVR Video",
-  "keywords" : [ "dav file", "dav file format", "what is a dav file", "file", "dav example", "dav file extension","extension", "format" ],
-  "description":"Learn about DAV file format and APIs that can create and open DAV files.",
-  "linktitle" : "DAV",
-  "menu" : {
-    "docs" : {
-      "parent" : "video"
+  "draft": "false",
+  "toc": true,
+  "title": "DAV File - CCTV DVR Video",
+  "keywords": [
+    "dav file",
+    "dav file format",
+    "what is a dav file",
+    "file",
+    "dav example",
+    "dav file extension",
+    "extension",
+    "format"
+  ],
+  "description": "Learn about DAV file format and APIs that can create and open DAV files.",
+  "linktitle": "DAV",
+  "menu": {
+    "docs": {
+      "parent": "video",
+      "identifier": "video-dav"
     }
   },
-  "lastmod" : "2022-01-25"
+  "lastmod": "2022-01-25"
 }
 
 ## What is a DAV file?

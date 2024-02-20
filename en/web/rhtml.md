@@ -1,20 +1,29 @@
 {
-  "date" : "2021-05-24",
-  "keywords" : [ "rhtml","rhtml file", "rhtml file format", "rhtml file type", "file", "type", "what is an rhtml file" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-05-24",
+  "keywords": [
+    "rhtml",
+    "rhtml file",
+    "rhtml file format",
+    "rhtml file type",
+    "file",
+    "type",
+    "what is an rhtml file"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "RHTML - Ruby HTML Page",
-  "description":"Learn about RHTML file format and APIs that can create and open RHTML files.",
-  "linktitle" : "RHTML",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "RHTML - Ruby HTML Page",
+  "description": "Learn about RHTML file format and APIs that can create and open RHTML files.",
+  "linktitle": "RHTML",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-rhtml"
     }
   },
-  "lastmod" : "2021-05-24"
+  "lastmod": "2021-05-24"
 }
 
 ## What is an RHTML file?

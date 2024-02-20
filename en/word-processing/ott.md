@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "ott file", "ott file format", "what is an ott file", "file", "ott example", "ott file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "ott file",
+    "ott file format",
+    "what is an ott file",
+    "file",
+    "ott example",
+    "ott file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "OTT - OpenDocument Template File",
-  "description":"Learn about OTT file format and APIs that can create and open OTT files.",
-  "linktitle" : "OTT",
-  "menu" : {
-    "docs" : {
-      "parent" : "word-processing"
+  "draft": "false",
+  "toc": true,
+  "title": "OTT - OpenDocument Template File",
+  "description": "Learn about OTT file format and APIs that can create and open OTT files.",
+  "linktitle": "OTT",
+  "menu": {
+    "docs": {
+      "parent": "word-processing",
+      "identifier": "word-processing-ott"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is an OTT file?

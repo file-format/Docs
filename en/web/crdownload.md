@@ -1,20 +1,28 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ ".crdownload","file format", "file type", "file", "type", "what is an crt file" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    ".crdownload",
+    "file format",
+    "file type",
+    "file",
+    "type",
+    "what is an crt file"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "CRDOWNLOAD - Chrome Partially Downloaded File",
-  "description":"Learn about .crdownload file format and APIs that can create and open CRDOWNLOAD files.",
-  "linktitle" : "CRDOWNLOAD",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "CRDOWNLOAD - Chrome Partially Downloaded File",
+  "description": "Learn about .crdownload file format and APIs that can create and open CRDOWNLOAD files.",
+  "linktitle": "CRDOWNLOAD",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-crdownload"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is a CRDOWNLOAD file?

@@ -1,20 +1,28 @@
 {
-  "date" : "2021-07-20",
-  "keywords" : ["FMP", "File", "Extension", "File Format", "File Extension", "123 Flash Menu"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-07-20",
+  "keywords": [
+    "FMP",
+    "File",
+    "Extension",
+    "File Format",
+    "File Extension",
+    "123 Flash Menu"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "FMP - 123 Flash Menu Project",
-  "description" : "Your file format guide to learn what is a FMP file and APIs that can create and open FMP file.",
-  "linktitle" : "FMP",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "FMP - 123 Flash Menu Project",
+  "description": "Your file format guide to learn what is a FMP file and APIs that can create and open FMP file.",
+  "linktitle": "FMP",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-fmp"
     }
   },
-  "lastmod" : "2021-07-20"
+  "lastmod": "2021-07-20"
 }
 
 ## What is an FMP file?

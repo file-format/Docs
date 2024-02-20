@@ -1,20 +1,35 @@
 {
-  "date" : "2021-04-15",
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-04-15",
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "MPG File Format",
-  "keywords" : [ "MPG", "file", "extension", "format", "video format","what is an mpg file format", "mpg file format", "mpg file player","mpeg compression", "video", "MPEG", "MPEG-1", "MPEG-2"],
-  "description":"Learn about MPG file format and APIs that can create and show that how to open the MPG files.",
-  "linktitle" : "MPG",
-  "menu" : {
-    "docs" : {
-      "parent" : "video"
+  "draft": "false",
+  "toc": true,
+  "title": "MPG File Format",
+  "keywords": [
+    "MPG",
+    "file",
+    "extension",
+    "format",
+    "video format",
+    "what is an mpg file format",
+    "mpg file format",
+    "mpg file player",
+    "mpeg compression",
+    "video",
+    "MPEG",
+    "MPEG-1",
+    "MPEG-2"
+  ],
+  "description": "Learn about MPG file format and APIs that can create and show that how to open the MPG files.",
+  "linktitle": "MPG",
+  "menu": {
+    "docs": {
+      "parent": "video",
+      "identifier": "video-mpg"
     }
   },
-  "lastmod" : "2021-07-26"
+  "lastmod": "2021-07-26"
 }
 
 ## What is an MPG file format? ##

@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "odt file", "odt file format", "what is an odt file", "file", "odt example", "odt file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "odt file",
+    "odt file format",
+    "what is an odt file",
+    "file",
+    "odt example",
+    "odt file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ODT - OpenDocument Text File",
-  "description":"Learn about ODT file format and APIs that can create and open ODT files.",
-  "linktitle" : "ODT",
-  "menu" : {
-    "docs" : {
-      "parent" : "word-processing"
+  "draft": "false",
+  "toc": true,
+  "title": "ODT - OpenDocument Text File",
+  "description": "Learn about ODT file format and APIs that can create and open ODT files.",
+  "linktitle": "ODT",
+  "menu": {
+    "docs": {
+      "parent": "word-processing",
+      "identifier": "word-processing-odt"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is an ODT file?

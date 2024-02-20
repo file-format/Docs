@@ -1,20 +1,29 @@
 {
-  "date" : "2021-12-28",
-  "keywords" : [ "ipynb file", "format", "extension", "what is an ipynb file", "file", "ipynb example", "jupyter notebook" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-12-28",
+  "keywords": [
+    "ipynb file",
+    "format",
+    "extension",
+    "what is an ipynb file",
+    "file",
+    "ipynb example",
+    "jupyter notebook"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "IPYNB - Jupyter Notebook File",
-  "description":"Learn about what is IPYNB file and APIs that can create and open IPYNB files.",
-  "linktitle" : "IPYNB",
-  "menu" : {
-    "docs" : {
-      "parent" : "word-processing"
+  "draft": "false",
+  "toc": true,
+  "title": "IPYNB - Jupyter Notebook File",
+  "description": "Learn about what is IPYNB file and APIs that can create and open IPYNB files.",
+  "linktitle": "IPYNB",
+  "menu": {
+    "docs": {
+      "parent": "word-processing",
+      "identifier": "word-processing-ipynb"
     }
   },
-  "lastmod" : "2021-12-28"
+  "lastmod": "2021-12-28"
 }
 
 ## What is an IPYNB file?

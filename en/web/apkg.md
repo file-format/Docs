@@ -1,20 +1,29 @@
 {
-  "date" : "2019-10-11",
-   "keywords" : [ "apkg","apkg file", "apkg file format", "apkg file type", "file", "type", "What is an APKG file" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "apkg",
+    "apkg file",
+    "apkg file format",
+    "apkg file type",
+    "file",
+    "type",
+    "What is an APKG file"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "APKG - Anki Flashcard Deck File Format",
-  "description" : "Learn about what is an APKG file and APIs that can create and open them.",
-  "linktitle" : "APKG",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "APKG - Anki Flashcard Deck File Format",
+  "description": "Learn about what is an APKG file and APIs that can create and open them.",
+  "linktitle": "APKG",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-apkg"
     }
   },
-  "lastmod" : "2021-06-16"
+  "lastmod": "2021-06-16"
 }
 
 ## What is an APKG file?

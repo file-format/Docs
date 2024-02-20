@@ -1,20 +1,29 @@
 {
-  "date" : "2021-07-13",
-  "keywords" : [ "CER", "extension", "file", "format", "web", "certificate", "language" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
+  "date": "2021-07-13",
+  "keywords": [
+    "CER",
+    "extension",
+    "file",
+    "format",
+    "web",
+    "certificate",
+    "language"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "CER - Certificate File Format",
-  "description":"Learn about CER file format and APIs that can create and open CER files.",
-  "linktitle" : "CER",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "CER - Certificate File Format",
+  "description": "Learn about CER file format and APIs that can create and open CER files.",
+  "linktitle": "CER",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-cer"
     }
   },
-  "lastmod" : "2021-07-13"
+  "lastmod": "2021-07-13"
 }
 
 ## What is a CER file? ##

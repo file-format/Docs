@@ -1,20 +1,29 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "cshtml","cshtml file", "cshtml file format", "cshtml file type", "file", "type", "what is a cshtml file" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "cshtml",
+    "cshtml file",
+    "cshtml file format",
+    "cshtml file type",
+    "file",
+    "type",
+    "what is a cshtml file"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "CSHTML - ASP.NET Razor Webpage",
-  "description":"Learn about CSHTML file format and APIs that can create and open CSHTML files.",
-  "linktitle" : "CSHTML",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "CSHTML - ASP.NET Razor Webpage",
+  "description": "Learn about CSHTML file format and APIs that can create and open CSHTML files.",
+  "linktitle": "CSHTML",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-cshtml"
     }
   },
-  "lastmod" : "2021-04-29"
+  "lastmod": "2021-04-29"
 }
 
 ## What is a CSHTML file?

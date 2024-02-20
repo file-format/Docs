@@ -1,19 +1,20 @@
 {
-  "date" : "2022-05-19",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-05-19",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "OBML15 File Format - Opera Mini Saved Webpage File",
-  "description" : "Learn about what is a OBML15 file and APIs that can create and open OBML15 file.",
-  "linktitle" : "OBML15",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "OBML15 File Format - Opera Mini Saved Webpage File",
+  "description": "Learn about what is a OBML15 file and APIs that can create and open OBML15 file.",
+  "linktitle": "OBML15",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-obml15"
     }
   },
-  "lastmod" : "2022-05-19"
+  "lastmod": "2022-05-19"
 }
 
 ## What is an OBML15 file?

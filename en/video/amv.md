@@ -1,20 +1,30 @@
 {
-  "date" : "2021-16-04",
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-16-04",
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "AMV File Format",
-  "keywords" : [ "AMV", "file", "extension", "format", "video format","What is an AMV file", "amv file format", "amv video"],
-  "description":"Learn about AMV file format and APIs that can create and show that how to open the AMV file.",
-  "linktitle" : "AMV",
-  "menu" : {
-    "docs" : {
-      "parent" : "video"
+  "draft": "false",
+  "toc": true,
+  "title": "AMV File Format",
+  "keywords": [
+    "AMV",
+    "file",
+    "extension",
+    "format",
+    "video format",
+    "What is an AMV file",
+    "amv file format",
+    "amv video"
+  ],
+  "description": "Learn about AMV file format and APIs that can create and show that how to open the AMV file.",
+  "linktitle": "AMV",
+  "menu": {
+    "docs": {
+      "parent": "video",
+      "identifier": "video-amv"
     }
   },
-  "lastmod" : "2021-16-04"
+  "lastmod": "2021-16-04"
 }
 
 ## What is an AMV file? ##

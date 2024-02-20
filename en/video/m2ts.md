@@ -1,20 +1,30 @@
 {
-  "date" : "2021-26-05",
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-26-05",
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "M2TS File Format",
-  "keywords" : [ "avchd", "file", "extension", "format", "video format","m2ts file", "m2ts file format", "what is m2ts file"],
-  "description":"Learn about M2TS file format and APIs that can create and show that how to open the M2TS files.",
-  "linktitle" : "M2TS",
-  "menu" : {
-    "docs" : {
-      "parent" : "video"
+  "draft": "false",
+  "toc": true,
+  "title": "M2TS File Format",
+  "keywords": [
+    "avchd",
+    "file",
+    "extension",
+    "format",
+    "video format",
+    "m2ts file",
+    "m2ts file format",
+    "what is m2ts file"
+  ],
+  "description": "Learn about M2TS file format and APIs that can create and show that how to open the M2TS files.",
+  "linktitle": "M2TS",
+  "menu": {
+    "docs": {
+      "parent": "video",
+      "identifier": "video-m2ts"
     }
   },
-  "lastmod" : "2021-26-05"
+  "lastmod": "2021-26-05"
 }
 
 ## What is M2TS file? ##

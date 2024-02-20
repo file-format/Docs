@@ -1,19 +1,20 @@
 {
-  "date" : "2022-02-03",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-02-03",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "WBS File - WebBlender Project File",
-  "description":"Learn about what is a WBS file and APIs that can create and open WBS files.",
-  "linktitle" : "WBS",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "WBS File - WebBlender Project File",
+  "description": "Learn about what is a WBS file and APIs that can create and open WBS files.",
+  "linktitle": "WBS",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-wbs"
     }
   },
-  "lastmod" : "2022-02-03"
+  "lastmod": "2022-02-03"
 }
 
 ## What is a WBS file?

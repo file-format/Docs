@@ -1,19 +1,20 @@
 {
-  "date" : "2023-03-30",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2023-03-30",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "Convert DOCX to DOT Online for Free",
-  "description":"Free online DOCX to DOT Conversion.",
-  "linktitle" : "DOCX to DOT",
-  "menu" : {
-    "docs" : {
-      "parent" : "word-processing"
+  "draft": "false",
+  "toc": true,
+  "title": "Convert DOCX to DOT Online for Free",
+  "description": "Free online DOCX to DOT Conversion.",
+  "linktitle": "DOCX to DOT",
+  "menu": {
+    "docs": {
+      "parent": "word-processing",
+      "identifier": "word-processing-docx-to-dot"
     }
   },
-  "lastmod" : "2023-03-30"
+  "lastmod": "2023-03-30"
 }
 
 ## About DOCX to DOT Conversion

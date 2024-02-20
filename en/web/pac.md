@@ -1,20 +1,28 @@
 {
-  "date" : "2021-05-24",
-  "keywords" : ["pac", "File", "Extension", "File Format", "File Extension", "Proxy Auto-Configuration"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-05-24",
+  "keywords": [
+    "pac",
+    "File",
+    "Extension",
+    "File Format",
+    "File Extension",
+    "Proxy Auto-Configuration"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "PAC - Proxy Auto-Configuration (PAC) file",
-  "description":"Learn about what is PAC file format and APIs that can create and open PAC files.",
-  "linktitle" : "PAC",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "PAC - Proxy Auto-Configuration (PAC) file",
+  "description": "Learn about what is PAC file format and APIs that can create and open PAC files.",
+  "linktitle": "PAC",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-pac"
     }
   },
-  "lastmod" : "2021-06-17"
+  "lastmod": "2021-06-17"
 }
 
 ## What is a PAC file?

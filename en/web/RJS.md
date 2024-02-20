@@ -1,20 +1,29 @@
 {
-  "date" : "2021-05-24",
-  "keywords" : ["rjs", "File", "Extension", "File Format", "File Extension", "RJS", "Ruby Javascript File"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-05-24",
+  "keywords": [
+    "rjs",
+    "File",
+    "Extension",
+    "File Format",
+    "File Extension",
+    "RJS",
+    "Ruby Javascript File"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "RJS - Ruby Javascript File",
-  "description":"Learn about what is RJS file format and APIs that can create and open RJS files.",
-  "linktitle" : "RJS",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "RJS - Ruby Javascript File",
+  "description": "Learn about what is RJS file format and APIs that can create and open RJS files.",
+  "linktitle": "RJS",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-RJS"
     }
   },
-  "lastmod" : "2021-05-24"
+  "lastmod": "2021-05-24"
 }
 
 ## What is an RJS file?

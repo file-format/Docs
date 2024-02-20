@@ -1,20 +1,28 @@
 {
-  "date" : "2021-07-20",
-  "keywords" : ["MJS", "File", "Extension", "File Format", "File Extension", "Node.js ES Module File"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-07-20",
+  "keywords": [
+    "MJS",
+    "File",
+    "Extension",
+    "File Format",
+    "File Extension",
+    "Node.js ES Module File"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "MJS - Node.js ES Module Javascript File",
-  "description" : "Learn about what is a MJS file and APIs that can create and open MJS file.",
-  "linktitle" : "MJS",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "MJS - Node.js ES Module Javascript File",
+  "description": "Learn about what is a MJS file and APIs that can create and open MJS file.",
+  "linktitle": "MJS",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-mjs"
     }
   },
-  "lastmod" : "2021-07-20"
+  "lastmod": "2021-07-20"
 }
 
 ## What is an MJS file?

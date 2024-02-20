@@ -1,19 +1,20 @@
 {
-  "date" : "2022-03-02",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-03-02",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ARF - WebEx Advanced Recording File",
-  "description":"Learn about ARF file format and APIs that can create and open ARF files.",
-  "linktitle" : "ARF",
-  "menu" : {
-    "docs" : {
-      "parent" : "video"
+  "draft": "false",
+  "toc": true,
+  "title": "ARF - WebEx Advanced Recording File",
+  "description": "Learn about ARF file format and APIs that can create and open ARF files.",
+  "linktitle": "ARF",
+  "menu": {
+    "docs": {
+      "parent": "video",
+      "identifier": "video-arf"
     }
   },
-  "lastmod" : "2022-03-02"
+  "lastmod": "2022-03-02"
 }
 
 ## What is an ARF file?

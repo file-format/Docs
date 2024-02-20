@@ -1,20 +1,27 @@
 {
-  "date" : "2021-12-29",
-  "keywords" : [ ".aae","file format", "extension", "file type", "what is a .aae file" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-12-29",
+  "keywords": [
+    ".aae",
+    "file format",
+    "extension",
+    "file type",
+    "what is a .aae file"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "AAE - What is a .aae file?",
-  "description" : "Learn to know what is an aae file and APIs that can create and open aae files.",
-  "linktitle" : "AAE",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "AAE - What is a .aae file?",
+  "description": "Learn to know what is an aae file and APIs that can create and open aae files.",
+  "linktitle": "AAE",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-aae"
     }
   },
-  "lastmod" : "2021-12-29"
+  "lastmod": "2021-12-29"
 }
 
 ## What is an AAE file?

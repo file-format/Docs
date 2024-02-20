@@ -1,19 +1,20 @@
 {
-  "date" : "2022-07-12",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-07-12",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "IFO File - What is an IFO file?",
-  "description":"Learn about IFO file format and APIs that can create and open IFO files.",
-  "linktitle" : "IFO",
-  "menu" : {
-    "docs" : {
-      "parent" : "video"
+  "draft": "false",
+  "toc": true,
+  "title": "IFO File - What is an IFO file?",
+  "description": "Learn about IFO file format and APIs that can create and open IFO files.",
+  "linktitle": "IFO",
+  "menu": {
+    "docs": {
+      "parent": "video",
+      "identifier": "video-ifo"
     }
   },
-  "lastmod" : "2022-07-12"
+  "lastmod": "2022-07-12"
 }
 
 ## What is an IFO file?

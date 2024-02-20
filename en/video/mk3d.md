@@ -1,20 +1,30 @@
 {
-  "date" : "2021-23-02",
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-23-02",
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "MK3D File Format",
-  "keywords" : [ "mk3d", "matroska video", "mkv format", "stereoscopic 3d", "StereoMode", "video", "file", "format" ],
-  "description":"Learn about MK3D file format for stereoscopic 3d videos created by Matroska and APIs that can create and open MK3D files.",
-  "linktitle" : "MK3D",
-  "menu" : {
-    "docs" : {
-      "parent" : "video"
+  "draft": "false",
+  "toc": true,
+  "title": "MK3D File Format",
+  "keywords": [
+    "mk3d",
+    "matroska video",
+    "mkv format",
+    "stereoscopic 3d",
+    "StereoMode",
+    "video",
+    "file",
+    "format"
+  ],
+  "description": "Learn about MK3D file format for stereoscopic 3d videos created by Matroska and APIs that can create and open MK3D files.",
+  "linktitle": "MK3D",
+  "menu": {
+    "docs": {
+      "parent": "video",
+      "identifier": "video-mk3d"
     }
   },
-  "lastmod" : "2021-23-02"
+  "lastmod": "2021-23-02"
 }
 
 ## What is an MK3D file? ##

@@ -1,20 +1,30 @@
 {
-  "date" : "2021-05-20",
-  "keywords" : [ "qpf file", "qpf file format", "what is an qpf file", "file", "qpf example", "qpf file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-05-20",
+  "keywords": [
+    "qpf file",
+    "qpf file format",
+    "what is an qpf file",
+    "file",
+    "qpf example",
+    "qpf file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "QPF - QuickPad Encrypted Document File",
-  "description":"Learn about QPF file format and APIs that can create and open QPF files.",
-  "linktitle" : "QPF",
-  "menu" : {
-    "docs" : {
-      "parent" : "word-processing"
+  "draft": "false",
+  "toc": true,
+  "title": "QPF - QuickPad Encrypted Document File",
+  "description": "Learn about QPF file format and APIs that can create and open QPF files.",
+  "linktitle": "QPF",
+  "menu": {
+    "docs": {
+      "parent": "word-processing",
+      "identifier": "word-processing-qpf"
     }
   },
-  "lastmod" : "2021-05-20"
+  "lastmod": "2021-05-20"
 }
 
 ## What is a QPF file?

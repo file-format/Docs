@@ -1,19 +1,20 @@
 {
-  "date" : "2022-08-22",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-08-22",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "CHA File - IRC Chat Configuration File Format",
-  "description" : "Learn about what is an CHA file and APIs that can create and open CHA files.",
-  "linktitle" : "CHA",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "CHA File - IRC Chat Configuration File Format",
+  "description": "Learn about what is an CHA file and APIs that can create and open CHA files.",
+  "linktitle": "CHA",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-cha"
     }
   },
-  "lastmod" : "2022-08-22"
+  "lastmod": "2022-08-22"
 }
 
 ## What is a CHA file?

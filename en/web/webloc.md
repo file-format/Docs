@@ -1,19 +1,20 @@
 {
-  "date" : "2022-01-13",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-01-13",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "WEBLOC - macOS Website Location File",
-  "description":"Learn about what is a WEBLOC file and APIs that can create and open WEBLOC files.",
-  "linktitle" : "WEBLOC",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "WEBLOC - macOS Website Location File",
+  "description": "Learn about what is a WEBLOC file and APIs that can create and open WEBLOC files.",
+  "linktitle": "WEBLOC",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-webloc"
     }
   },
-  "lastmod" : "2022-01-13"
+  "lastmod": "2022-01-13"
 }
 
 ## What is WEBLOC?

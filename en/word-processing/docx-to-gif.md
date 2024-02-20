@@ -1,19 +1,20 @@
 {
-  "date" : "2023-04-16",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2023-04-16",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "Convert DOCX to GIF Online for Free",
-  "description":"Online APIs to convert DOCX to GIF online",
-  "linktitle" : "DOCX to GIF",
-  "menu" : {
-    "docs" : {
-      "parent" : "word-processing"
+  "draft": "false",
+  "toc": true,
+  "title": "Convert DOCX to GIF Online for Free",
+  "description": "Online APIs to convert DOCX to GIF online",
+  "linktitle": "DOCX to GIF",
+  "menu": {
+    "docs": {
+      "parent": "word-processing",
+      "identifier": "word-processing-docx-to-gif"
     }
   },
-  "lastmod" : "2023-04-16"
+  "lastmod": "2023-04-16"
 }
 
 ## About DOCX to GIF

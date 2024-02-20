@@ -1,19 +1,20 @@
 {
-  "date" : "2022-05-17",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-05-17",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "FWTEMPLATEB File Format - Freeway Template File",
-  "description" : "Your file format guide to learn what is a FWTEMPLATEB file and APIs that can create and open FWTEMPLATEB file.",
-  "linktitle" : "FWTEMPLATEB",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "FWTEMPLATEB File Format - Freeway Template File",
+  "description": "Your file format guide to learn what is a FWTEMPLATEB file and APIs that can create and open FWTEMPLATEB file.",
+  "linktitle": "FWTEMPLATEB",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-fwtemplateb"
     }
   },
-  "lastmod" : "2022-05-17"
+  "lastmod": "2022-05-17"
 }
 
 ## What is a FWTEMPLATEB file?

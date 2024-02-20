@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "wps file", "wps file format", "what is an wps file", "file", "wps example", "wps file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "wps file",
+    "wps file format",
+    "what is an wps file",
+    "file",
+    "wps example",
+    "wps file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "WPS - Microsoft Works Word Processor Document",
-  "description":"Learn about WPS file format and APIs that can create and open WPS files.",
-  "linktitle" : "WPS",
-  "menu" : {
-    "docs" : {
-      "parent" : "word-processing"
+  "draft": "false",
+  "toc": true,
+  "title": "WPS - Microsoft Works Word Processor Document",
+  "description": "Learn about WPS file format and APIs that can create and open WPS files.",
+  "linktitle": "WPS",
+  "menu": {
+    "docs": {
+      "parent": "word-processing",
+      "identifier": "word-processing-wps"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is a WPS file?

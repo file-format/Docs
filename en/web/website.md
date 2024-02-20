@@ -1,19 +1,20 @@
 {
-  "date" : "2022-05-13",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-05-13",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "WEBSITE File Format - Internet Explorer Pinned Site Shortcut File",
-  "description":"Learn about what is a WEBSITE file and APIs that can create and open WEBSITE files.",
-  "linktitle" : "WEBSITE",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "WEBSITE File Format - Internet Explorer Pinned Site Shortcut File",
+  "description": "Learn about what is a WEBSITE file and APIs that can create and open WEBSITE files.",
+  "linktitle": "WEBSITE",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-website"
     }
   },
-  "lastmod" : "2022-05-13"
+  "lastmod": "2022-05-13"
 }
 
 ## What is a WEBSITE file?

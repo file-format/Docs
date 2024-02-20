@@ -1,20 +1,27 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "alx","alx file", "file format", "file type", "what is an alx file" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "alx",
+    "alx file",
+    "file format",
+    "file type",
+    "what is an alx file"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ALX - What is an ALX file?",
-  "description" : "Learn to know what is an ActiveX ALX file and APIs that can create and open ALX files.",
-  "linktitle" : "ALX",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "ALX - What is an ALX file?",
+  "description": "Learn to know what is an ActiveX ALX file and APIs that can create and open ALX files.",
+  "linktitle": "ALX",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-alx"
     }
   },
-  "lastmod" : "2021-12-08"
+  "lastmod": "2021-12-08"
 }
 
 ## What is an ALX file?

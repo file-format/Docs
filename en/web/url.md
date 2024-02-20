@@ -1,19 +1,20 @@
 {
-  "date" : "2019-10-11",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "URL - Internet Shortcut File",
-  "description":"Learn about what is a URL file and APIs that can create and open URL files.",
-  "linktitle" : "URL",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "URL - Internet Shortcut File",
+  "description": "Learn about what is a URL file and APIs that can create and open URL files.",
+  "linktitle": "URL",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-url"
     }
   },
-  "lastmod" : "2021-08-05"
+  "lastmod": "2021-08-05"
 }
 
 ## What is an URL file?

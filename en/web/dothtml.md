@@ -1,19 +1,20 @@
 {
-  "date" : "2022-09-18",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-09-18",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "DOTHTML File - Microsoft Word HTML Document Template File Format",
-  "description" : "Learn about DOTHTML File Format and APIs to create and open DOTHTML files.",
-  "linktitle" : "DOTHTML",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "DOTHTML File - Microsoft Word HTML Document Template File Format",
+  "description": "Learn about DOTHTML File Format and APIs to create and open DOTHTML files.",
+  "linktitle": "DOTHTML",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-dothtml"
     }
   },
-  "lastmod" : "2022-09-18"
+  "lastmod": "2022-09-18"
 }
 
 ## What is a DOTHTML file?

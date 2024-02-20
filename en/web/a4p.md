@@ -1,19 +1,20 @@
 {
-  "date" : "2022-07-30",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-07-30",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "A4P File Format - What is an A4P file?",
-  "description" : "Learn to know about A4Desk Pro A4 file format and APIs that can create and open A4P files.",
-  "linktitle" : "A4P",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "A4P File Format - What is an A4P file?",
+  "description": "Learn to know about A4Desk Pro A4 file format and APIs that can create and open A4P files.",
+  "linktitle": "A4P",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-a4p"
     }
   },
-  "lastmod" : "2022-07-30"
+  "lastmod": "2022-07-30"
 }
 
 ## What is an A4P file?

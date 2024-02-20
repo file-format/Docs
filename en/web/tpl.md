@@ -1,20 +1,29 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "tpl","tpl file", "tpl file format", "tpl file type", "file", "type", "what is an tpl file" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "tpl",
+    "tpl file",
+    "tpl file format",
+    "tpl file type",
+    "file",
+    "type",
+    "what is an tpl file"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "TPL - HTTP File Server Template",
-  "description" : "Learn about what is TPL File and APIs to create and open TPL files.",
-  "linktitle" : "TPL",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "TPL - HTTP File Server Template",
+  "description": "Learn about what is TPL File and APIs to create and open TPL files.",
+  "linktitle": "TPL",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-tpl"
     }
   },
-  "lastmod" : "2021-02-29"
+  "lastmod": "2021-02-29"
 }
 
 ## What is a TPL file?

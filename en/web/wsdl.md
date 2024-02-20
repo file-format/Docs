@@ -1,19 +1,20 @@
 {
-  "date" : "2022-02-03",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-02-03",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "WSDL File Format - Web Services Description Language File",
-  "description":"Learn about what is a WSDL file and APIs that can create and open WSDL files.",
-  "linktitle" : "WSDL",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "WSDL File Format - Web Services Description Language File",
+  "description": "Learn about what is a WSDL file and APIs that can create and open WSDL files.",
+  "linktitle": "WSDL",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-wsdl"
     }
   },
-  "lastmod" : "2022-02-03"
+  "lastmod": "2022-02-03"
 }
 
 ## What is a WSDL file?

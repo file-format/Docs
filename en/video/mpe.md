@@ -1,20 +1,34 @@
 {
-  "date" : "2022-02-19",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-02-19",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "MPE File - MPEG Movie File Format",
-  "keywords" : [ "MPE", "file", "extension", "format", "video format","what is an mpe file format", "mpe file format", "mpe file player","mpe compression", "video", "MPEG-1", "MPEG-2"],
-  "description":"Learn about MPG file format and APIs that can create and show that how to open the MPG files.",
-  "linktitle" : "MPE",
-  "menu" : {
-    "docs" : {
-      "parent" : "video"
+  "draft": "false",
+  "toc": true,
+  "title": "MPE File - MPEG Movie File Format",
+  "keywords": [
+    "MPE",
+    "file",
+    "extension",
+    "format",
+    "video format",
+    "what is an mpe file format",
+    "mpe file format",
+    "mpe file player",
+    "mpe compression",
+    "video",
+    "MPEG-1",
+    "MPEG-2"
+  ],
+  "description": "Learn about MPG file format and APIs that can create and show that how to open the MPG files.",
+  "linktitle": "MPE",
+  "menu": {
+    "docs": {
+      "parent": "video",
+      "identifier": "video-mpe"
     }
   },
-  "lastmod" : "2022-02-19"
+  "lastmod": "2022-02-19"
 }
 
 ## What is an MPE file?

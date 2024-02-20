@@ -1,20 +1,28 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : ["xhtml", "File", "Extension", "File Format", "File Extension", "extensible html"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "xhtml",
+    "File",
+    "Extension",
+    "File Format",
+    "File Extension",
+    "extensible html"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "XHTML - Extensible Hypertext Markup Language File Format",
-  "description":"Learn about what is XHTML file format and APIs that can create and open XHTML files.",
-  "linktitle" : "XHTML",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "XHTML - Extensible Hypertext Markup Language File Format",
+  "description": "Learn about what is XHTML file format and APIs that can create and open XHTML files.",
+  "linktitle": "XHTML",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-xhtml"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is an XHTML file?

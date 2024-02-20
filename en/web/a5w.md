@@ -1,20 +1,27 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "a5w","a5w file", "file format", "file type", "what is an a5w file" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "a5w",
+    "a5w file",
+    "file format",
+    "file type",
+    "what is an a5w file"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "A5W - Alpha Five Webpage File",
-  "description" : "Learn to know what is an A5W file and APIs that can create and open A5W files.",
-  "linktitle" : "A5W",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "A5W - Alpha Five Webpage File",
+  "description": "Learn to know what is an A5W file and APIs that can create and open A5W files.",
+  "linktitle": "A5W",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-a5w"
     }
   },
-  "lastmod" : "2021-12-06"
+  "lastmod": "2021-12-06"
 }
 
 ## What is an A5W file?

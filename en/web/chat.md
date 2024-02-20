@@ -1,19 +1,20 @@
 {
-  "date" : "2022-08-22",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-08-22",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "CHAT File - IRC Chat Configuration File Format",
-  "description" : "Learn about what is an CHAT file and APIs that can create and open CHAT files.",
-  "linktitle" : "CHAT",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "CHAT File - IRC Chat Configuration File Format",
+  "description": "Learn about what is an CHAT file and APIs that can create and open CHAT files.",
+  "linktitle": "CHAT",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-chat"
     }
   },
-  "lastmod" : "2022-08-22"
+  "lastmod": "2022-08-22"
 }
 
 ## What is a CHAT file?

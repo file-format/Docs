@@ -1,19 +1,20 @@
 {
-  "date" : "2021-07-30",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-07-30",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "FAQ - Frequently Asked Questions File",
-  "description":"Learn about FAQ file format and APIs that can create and open FAQ files.",
-  "linktitle" : "FAQ",
-  "menu" : {
-    "docs" : {
-      "parent" : "word-processing"
+  "draft": "false",
+  "toc": true,
+  "title": "FAQ - Frequently Asked Questions File",
+  "description": "Learn about FAQ file format and APIs that can create and open FAQ files.",
+  "linktitle": "FAQ",
+  "menu": {
+    "docs": {
+      "parent": "word-processing",
+      "identifier": "word-processing-faq"
     }
   },
-  "lastmod" : "2021-07-30"
+  "lastmod": "2021-07-30"
 }
 
 ## What is a FAQ file?

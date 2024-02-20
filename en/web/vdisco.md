@@ -1,19 +1,20 @@
 {
-  "date" : "2023-01-29",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2023-01-29",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "VDISCO File - DISCO Dynamic Discovery Document File Format",
-  "description":"Learn about what is a VDISCO file?",
-  "linktitle" : "VDISCO",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "VDISCO File - DISCO Dynamic Discovery Document File Format",
+  "description": "Learn about what is a VDISCO file?",
+  "linktitle": "VDISCO",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-vdisco"
     }
   },
-  "lastmod" : "2023-01-29"
+  "lastmod": "2023-01-29"
 }
 
 ## What is a VDISCO file?

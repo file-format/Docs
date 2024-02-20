@@ -1,19 +1,20 @@
 {
-  "date" : "2019-10-11",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "AP File Format - Active Page File",
-  "description" : "Learn about what is an AP file and APIs that can create and open AP files.",
-  "linktitle" : "AP",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "AP File Format - Active Page File",
+  "description": "Learn about what is an AP file and APIs that can create and open AP files.",
+  "linktitle": "AP",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-ap"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is an AP file?

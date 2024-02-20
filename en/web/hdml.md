@@ -1,19 +1,20 @@
 {
-  "date" : "2021-08-21",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-08-21",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "Handheld Device Markup Language File",
-  "description":"Learn about HDML file format and APIs that can create and open HDML files.",
-  "linktitle" : "HDML",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "Handheld Device Markup Language File",
+  "description": "Learn about HDML file format and APIs that can create and open HDML files.",
+  "linktitle": "HDML",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-hdml"
     }
   },
-  "lastmod" : "2021-08-21"
+  "lastmod": "2021-08-21"
 }
 
 ## What is an HDML file?

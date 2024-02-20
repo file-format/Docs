@@ -1,19 +1,20 @@
 {
-  "date" : "2022-09-28",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-09-28",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "DOWNLOAD File - Partially Downloaded File Format",
-  "description" : "Learn about DOWNLOAD File Format and APIs to create and open DOWNLOAD files.",
-  "linktitle" : "DOWNLOAD",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "DOWNLOAD File - Partially Downloaded File Format",
+  "description": "Learn about DOWNLOAD File Format and APIs to create and open DOWNLOAD files.",
+  "linktitle": "DOWNLOAD",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-download"
     }
   },
-  "lastmod" : "2022-09-28"
+  "lastmod": "2022-09-28"
 }
 
 ## What is a DOWNLOAD file?

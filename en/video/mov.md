@@ -1,20 +1,32 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "mov file", "mov file format", "what is an mov file", "file", "mov example", "mov file extension","extension", "format", "QuickTime", "MPEG-4" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "mov file",
+    "mov file format",
+    "what is an mov file",
+    "file",
+    "mov example",
+    "mov file extension",
+    "extension",
+    "format",
+    "QuickTime",
+    "MPEG-4"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "MOV File - Apple QuickTime Movie File Format",
-  "description":"Learn about MOV file format and APIs that can create and open MOV files.",
-  "linktitle" : "MOV",
-  "menu" : {
-    "docs" : {
-      "parent" : "video"
+  "draft": "false",
+  "toc": true,
+  "title": "MOV File - Apple QuickTime Movie File Format",
+  "description": "Learn about MOV file format and APIs that can create and open MOV files.",
+  "linktitle": "MOV",
+  "menu": {
+    "docs": {
+      "parent": "video",
+      "identifier": "video-mov"
     }
   },
-  "lastmod" : "2021-07-29"
+  "lastmod": "2021-07-29"
 }
 
 ## What is a MOV file?

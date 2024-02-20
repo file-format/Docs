@@ -1,19 +1,20 @@
 {
-  "date" : "2021-08-04",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-08-04",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ECE File - Escenic Dynamic Web Page File Format",
-  "description":"Learn about ECE file format and APIs that can create and open ECE files.",
-  "linktitle" : "ECE",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "ECE File - Escenic Dynamic Web Page File Format",
+  "description": "Learn about ECE file format and APIs that can create and open ECE files.",
+  "linktitle": "ECE",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-ece"
     }
   },
-  "lastmod" : "2021-08-04"
+  "lastmod": "2021-08-04"
 }
 
 ## What is an ECE file?

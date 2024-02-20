@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "latex file", "latex file format", "what is an latex file", "file", "latex example", "latex file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "latex file",
+    "latex file format",
+    "what is an latex file",
+    "file",
+    "latex example",
+    "latex file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "LATEX - Latex Document File",
-  "description":"Learn about LATEX file format and APIs that can create and open LATEX files.",
-  "linktitle" : "LATEX",
-  "menu" : {
-    "docs" : {
-      "parent" : "word-processing"
+  "draft": "false",
+  "toc": true,
+  "title": "LATEX - Latex Document File",
+  "description": "Learn about LATEX file format and APIs that can create and open LATEX files.",
+  "linktitle": "LATEX",
+  "menu": {
+    "docs": {
+      "parent": "word-processing",
+      "identifier": "word-processing-latex"
     }
   },
-  "lastmod" : "2021-05-18"
+  "lastmod": "2021-05-18"
 }
 
 ## What is a LATEX file?

@@ -1,20 +1,31 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "M4V", "file", "extension", "format", "MPEG-4", "Digital Rights Management", "DRM", "Apple", "video"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "M4V",
+    "file",
+    "extension",
+    "format",
+    "MPEG-4",
+    "Digital Rights Management",
+    "DRM",
+    "Apple",
+    "video"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "M4V",
-  "description":"Learn about M4V file format and APIs that can create and open M4V files.",
-  "linktitle" : "M4V",
-  "menu" : {
-    "docs" : {
-      "parent" : "video"
+  "draft": "false",
+  "toc": true,
+  "title": "M4V",
+  "description": "Learn about M4V file format and APIs that can create and open M4V files.",
+  "linktitle": "M4V",
+  "menu": {
+    "docs": {
+      "parent": "video",
+      "identifier": "video-m4v"
     }
   },
-  "lastmod" : "2019-09-14"
+  "lastmod": "2019-09-14"
 }
 
 ## What is an M4V file?

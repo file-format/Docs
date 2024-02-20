@@ -1,19 +1,20 @@
 {
-  "date" : "2023-05-23",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2023-05-23",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "COMPRESSED File - WordCompress Compacted Webpage File Format",
-  "description" : "Learn about what is a COMPRESSED file and APIs that can create and open COMPRESSED files.",
-  "linktitle" : "COMPRESSED",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "COMPRESSED File - WordCompress Compacted Webpage File Format",
+  "description": "Learn about what is a COMPRESSED file and APIs that can create and open COMPRESSED files.",
+  "linktitle": "COMPRESSED",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-compressed"
     }
   },
-  "lastmod" : "2023-05-23"
+  "lastmod": "2023-05-23"
 }
 
 ## What is a COMPRESSED file?

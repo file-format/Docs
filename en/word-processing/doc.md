@@ -1,20 +1,28 @@
 {
-  "date" : "2019-12-03",
-  "keywords" : [ "doc", "file", "extension", "file format", "Word", "Document" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-12-03",
+  "keywords": [
+    "doc",
+    "file",
+    "extension",
+    "file format",
+    "Word",
+    "Document"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "DOC - Microsoft Word Document File",
-  "description":"Learn about DOC file format and APIs that can create and open DOC files.",
-  "linktitle" : "DOC",
-  "menu" : {
-    "docs" : {
-      "parent" : "word-processing"
+  "draft": "false",
+  "toc": true,
+  "title": "DOC - Microsoft Word Document File",
+  "description": "Learn about DOC file format and APIs that can create and open DOC files.",
+  "linktitle": "DOC",
+  "menu": {
+    "docs": {
+      "parent": "word-processing",
+      "identifier": "word-processing-doc"
     }
   },
-  "lastmod" : "2019-12-03"
+  "lastmod": "2019-12-03"
 }
 
 ## What is a DOC file?

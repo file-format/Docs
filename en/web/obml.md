@@ -1,19 +1,20 @@
 {
-  "date" : "2022-05-19",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-05-19",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "OBML File Format - Opera Mini Saved Webpage File",
-  "description" : "Learn about what is a OBML file and APIs that can create and open OBML file.",
-  "linktitle" : "OBML",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "OBML File Format - Opera Mini Saved Webpage File",
+  "description": "Learn about what is a OBML file and APIs that can create and open OBML file.",
+  "linktitle": "OBML",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-obml"
     }
   },
-  "lastmod" : "2022-05-19"
+  "lastmod": "2022-05-19"
 }
 
 ## What is an OBML file?

@@ -1,20 +1,30 @@
 {
-  "date" : "2021-03-12",
-  "keywords" : [ "VP9", "File", "Extension", "File Format", "Video Format", "TrueMotion Video", "VPX", "On2 Technologies"],
-  "author" : {
-    "display_name" : "Sami Cheema"
+  "date": "2021-03-12",
+  "keywords": [
+    "VP9",
+    "File",
+    "Extension",
+    "File Format",
+    "Video Format",
+    "TrueMotion Video",
+    "VPX",
+    "On2 Technologies"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "VP9 - TrueMotion Video File",
-  "description":"Learn about VP9 file format and APIs that can create and open VP9 files.",
-  "linktitle" : "VP9",
-  "menu" : {
-    "docs" : {
-      "parent" : "video"
+  "draft": "false",
+  "toc": true,
+  "title": "VP9 - TrueMotion Video File",
+  "description": "Learn about VP9 file format and APIs that can create and open VP9 files.",
+  "linktitle": "VP9",
+  "menu": {
+    "docs": {
+      "parent": "video",
+      "identifier": "video-vp9"
     }
   },
-  "lastmod" : "2021-03-27"
+  "lastmod": "2021-03-27"
 }
 
 ## What is a VP9 file?

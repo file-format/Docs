@@ -1,20 +1,30 @@
 {
-  "date" : "2021-26-08",
-  "author" : {
-    "display_name" : "Muhammad Umar"
+  "date": "2021-26-08",
+  "author": {
+    "display_name": "Muhammad Umar"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "BIK - Bink Video File",
-  "keywords" : [ "bik file", "bik file format", "what is a bik file", "file", "bik example", "bik file extension","extension", "format" ],
-  "description":"Learn about BIK file format and APIs that can create and open BIK files.",
-  "linktitle" : "BIK",
-  "menu" : {
-    "docs" : {
-      "parent" : "video"
+  "draft": "false",
+  "toc": true,
+  "title": "BIK - Bink Video File",
+  "keywords": [
+    "bik file",
+    "bik file format",
+    "what is a bik file",
+    "file",
+    "bik example",
+    "bik file extension",
+    "extension",
+    "format"
+  ],
+  "description": "Learn about BIK file format and APIs that can create and open BIK files.",
+  "linktitle": "BIK",
+  "menu": {
+    "docs": {
+      "parent": "video",
+      "identifier": "video-bik"
     }
   },
-  "lastmod" : "2023-02-07"
+  "lastmod": "2023-02-07"
 }
 
 ## What is a BIK file?

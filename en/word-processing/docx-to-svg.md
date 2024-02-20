@@ -1,19 +1,20 @@
 {
-  "date" : "2023-03-26",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2023-03-26",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "Convert DOCX to SVG Online for Free",
-  "description":"Free online DOCX to SVG Conversion.",
-  "linktitle" : "DOCX to SVG",
-  "menu" : {
-    "docs" : {
-      "parent" : "word-processing"
+  "draft": "false",
+  "toc": true,
+  "title": "Convert DOCX to SVG Online for Free",
+  "description": "Free online DOCX to SVG Conversion.",
+  "linktitle": "DOCX to SVG",
+  "menu": {
+    "docs": {
+      "parent": "word-processing",
+      "identifier": "word-processing-docx-to-svg"
     }
   },
-  "lastmod" : "2023-03-26"
+  "lastmod": "2023-03-26"
 }
 
 ## About DOCX to SVG Conversion

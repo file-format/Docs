@@ -1,19 +1,20 @@
 {
-  "date" : "2022-07-18",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-07-18",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "M4S File - What is an M4S file?",
-  "description":"Learn about M4S file format and APIs that can create and open M4S files.",
-  "linktitle" : "M4S",
-  "menu" : {
-    "docs" : {
-      "parent" : "video"
+  "draft": "false",
+  "toc": true,
+  "title": "M4S File - What is an M4S file?",
+  "description": "Learn about M4S file format and APIs that can create and open M4S files.",
+  "linktitle": "M4S",
+  "menu": {
+    "docs": {
+      "parent": "video",
+      "identifier": "video-m4s"
     }
   },
-  "lastmod" : "2022-07-18"
+  "lastmod": "2022-07-18"
 }
 
 ## What is an M4S file?

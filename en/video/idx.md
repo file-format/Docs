@@ -1,19 +1,20 @@
 {
-  "date" : "2022-07-12",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-07-12",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "IDX - High Efficiency Video Codec",
-  "description":"Learn about IDX file format and APIs that can create and open IDX files.",
-  "linktitle" : "IDX",
-  "menu" : {
-    "docs" : {
-      "parent" : "video"
+  "draft": "false",
+  "toc": true,
+  "title": "IDX - High Efficiency Video Codec",
+  "description": "Learn about IDX file format and APIs that can create and open IDX files.",
+  "linktitle": "IDX",
+  "menu": {
+    "docs": {
+      "parent": "video",
+      "identifier": "video-idx"
     }
   },
-  "lastmod" : "2022-07-12"
+  "lastmod": "2022-07-12"
 }
 
 ## What is an IDX file?

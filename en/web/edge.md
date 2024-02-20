@@ -1,19 +1,20 @@
 {
-  "date" : "2021-08-04",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-08-04",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "EDGE - Adobe Edge Project File",
-  "description":"Learn about EDGE file format and APIs that can create and open EDGE files.",
-  "linktitle" : "EDGE",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "EDGE - Adobe Edge Project File",
+  "description": "Learn about EDGE file format and APIs that can create and open EDGE files.",
+  "linktitle": "EDGE",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-edge"
     }
   },
-  "lastmod" : "2021-08-04"
+  "lastmod": "2021-08-04"
 }
 
 ## What is an EDGE file?

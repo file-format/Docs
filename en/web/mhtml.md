@@ -1,20 +1,29 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "mhtml","mhtml file", "mhtml file format", "mhtml file type", "file", "type", "what is an mhtml file" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "mhtml",
+    "mhtml file",
+    "mhtml file format",
+    "mhtml file type",
+    "file",
+    "type",
+    "what is an mhtml file"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "MHTML - MIME HTML File",
-  "description":"Learn about MHTML file format and APIs that can create and open MHTML files.",
-  "linktitle" : "MHTML",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "MHTML - MIME HTML File",
+  "description": "Learn about MHTML file format and APIs that can create and open MHTML files.",
+  "linktitle": "MHTML",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-mhtml"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is an MHTML file?

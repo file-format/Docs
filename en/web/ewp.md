@@ -1,19 +1,20 @@
 {
-  "date" : "2022-09-29",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-09-29",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "EWP File - Ewisoft Website Project File Format",
-  "description":"Learn about EWP file format and APIs that can create and open EWP files.",
-  "linktitle" : "EWP",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "EWP File - Ewisoft Website Project File Format",
+  "description": "Learn about EWP file format and APIs that can create and open EWP files.",
+  "linktitle": "EWP",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-ewp"
     }
   },
-  "lastmod" : "2022-09-29"
+  "lastmod": "2022-09-29"
 }
 
 ## What is an EWP file?

@@ -1,19 +1,20 @@
 {
-  "date" : "2022-08-12",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-08-12",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "AWM File - AllWebMenus Project File Format",
-  "description" : "Learn about what is an AWM file and APIs that can create and open AWM files.",
-  "linktitle" : "AWM",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "AWM File - AllWebMenus Project File Format",
+  "description": "Learn about what is an AWM file and APIs that can create and open AWM files.",
+  "linktitle": "AWM",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-awm"
     }
   },
-  "lastmod" : "2022-08-12"
+  "lastmod": "2022-08-12"
 }
 
 ## What is an AWM file?

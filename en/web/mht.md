@@ -1,20 +1,29 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "mht","mht file", "mht file format", "mht file type", "file", "type", "what is an mht file" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "mht",
+    "mht file",
+    "mht file format",
+    "mht file type",
+    "file",
+    "type",
+    "what is an mht file"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "MHT - MIME HTML File Format",
-  "description" : "Learn about MHT File Format and APIs to create and open MHT files.",
-  "linktitle" : "MHT",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "MHT - MIME HTML File Format",
+  "description": "Learn about MHT File Format and APIs to create and open MHT files.",
+  "linktitle": "MHT",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-mht"
     }
   },
-  "lastmod" : "2021-02-29"
+  "lastmod": "2021-02-29"
 }
 
 ## What is a MHT file?

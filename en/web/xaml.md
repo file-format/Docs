@@ -1,20 +1,29 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "xaml","xaml file", "xaml file format", "xaml file type", "file", "type", "what is an xaml file" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "xaml",
+    "xaml file",
+    "xaml file format",
+    "xaml file type",
+    "file",
+    "type",
+    "what is an xaml file"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "XAML - XML Based Markup Language",
-  "description":"Learn about XAML file format and APIs that can create and open XAML files.",
-  "linktitle" : "XAML ",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "XAML - XML Based Markup Language",
+  "description": "Learn about XAML file format and APIs that can create and open XAML files.",
+  "linktitle": "XAML ",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-xaml"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is a XAML file?

@@ -1,19 +1,20 @@
 {
-  "date" : "2022-10-05",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-10-05",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "Freeway File - Freeway Document File Format",
-  "description" : "Your file format guide to learn what is a Freeway file and APIs that can create and open Freeway file.",
-  "linktitle" : "FREEWAY",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "Freeway File - Freeway Document File Format",
+  "description": "Your file format guide to learn what is a Freeway file and APIs that can create and open Freeway file.",
+  "linktitle": "FREEWAY",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-freeway"
     }
   },
-  "lastmod" : "2022-10-05"
+  "lastmod": "2022-10-05"
 }
 
 ## What is an FREEWAY file?

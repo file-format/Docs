@@ -1,20 +1,29 @@
 {
-  "date" : "2021-07-20",
-  "keywords" : ["FWP", "File", "Extension", "File Format", "File Extension", "Microsoft Expression Web", "Archive File"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-07-20",
+  "keywords": [
+    "FWP",
+    "File",
+    "Extension",
+    "File Format",
+    "File Extension",
+    "Microsoft Expression Web",
+    "Archive File"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "FWP - Microsoft Expression Web Package",
-  "description" : "Your file format guide to learn what is a FWP file and APIs that can create and open FWP file.",
-  "linktitle" : "FWP",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "FWP - Microsoft Expression Web Package",
+  "description": "Your file format guide to learn what is a FWP file and APIs that can create and open FWP file.",
+  "linktitle": "FWP",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-fwp"
     }
   },
-  "lastmod" : "2021-07-20"
+  "lastmod": "2021-07-20"
 }
 
 ## What is a FWP file?

@@ -1,19 +1,20 @@
 {
-  "date" : "2019-10-11",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "HTACCESS File - Apache HTACCESS File Format",
-  "description" : "Your file format guide to learn what is an HTACCESS file",
-  "linktitle" : "HTACCESS",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "HTACCESS File - Apache HTACCESS File Format",
+  "description": "Your file format guide to learn what is an HTACCESS file",
+  "linktitle": "HTACCESS",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-htaccess"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is an HTACCESS file?

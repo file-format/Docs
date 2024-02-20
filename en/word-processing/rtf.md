@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "rtf file", "rtf file format", "what is an rtf file", "file", "rtf example", "rtf file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "rtf file",
+    "rtf file format",
+    "what is an rtf file",
+    "file",
+    "rtf example",
+    "rtf file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "RTF - Rich Text Format",
-  "description":"Learn about RTF file format and APIs that can create and open RTF files.",
-  "linktitle" : "RTF",
-  "menu" : {
-    "docs" : {
-      "parent" : "word-processing"
+  "draft": "false",
+  "toc": true,
+  "title": "RTF - Rich Text Format",
+  "description": "Learn about RTF file format and APIs that can create and open RTF files.",
+  "linktitle": "RTF",
+  "menu": {
+    "docs": {
+      "parent": "word-processing",
+      "identifier": "word-processing-rtf"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is a RTF file?

@@ -1,20 +1,28 @@
 {
-  "date" : "2021-05-24",
-  "keywords" : ["xul", "File", "Extension", "File Format", "File Extension", "XML User Interface Language"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-05-24",
+  "keywords": [
+    "xul",
+    "File",
+    "Extension",
+    "File Format",
+    "File Extension",
+    "XML User Interface Language"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "XUL - XML User Interface Language File",
-  "description":"Learn about XUL file format and APIs that can create and open XUL files.",
-  "linktitle" : "XUL",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "XUL - XML User Interface Language File",
+  "description": "Learn about XUL file format and APIs that can create and open XUL files.",
+  "linktitle": "XUL",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-xul"
     }
   },
-  "lastmod" : "2021-05-24"
+  "lastmod": "2021-05-24"
 }
 
 ## What is an XUL file?

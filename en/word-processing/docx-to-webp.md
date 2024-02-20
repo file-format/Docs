@@ -1,19 +1,20 @@
 {
-  "date" : "2023-04-25",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2023-04-25",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "Free online APIs, Tools and Apps to Convert DOCX to WEBP",
-  "description":"Tools and apps to convert DOCX to WEBP files.",
-  "linktitle" : "DOCX to WEBP",
-  "menu" : {
-    "docs" : {
-      "parent" : "word-processing"
+  "draft": "false",
+  "toc": true,
+  "title": "Free online APIs, Tools and Apps to Convert DOCX to WEBP",
+  "description": "Tools and apps to convert DOCX to WEBP files.",
+  "linktitle": "DOCX to WEBP",
+  "menu": {
+    "docs": {
+      "parent": "word-processing",
+      "identifier": "word-processing-docx-to-webp"
     }
   },
-  "lastmod" : "2023-04-25"
+  "lastmod": "2023-04-25"
 }
 
 ## About DOCX to WEBP Conversion

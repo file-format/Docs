@@ -1,19 +1,20 @@
 {
-  "date" : "2021-02-15",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-02-15",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "PZ File Format - Panzoid Video Project File",
-  "description":"Learn about PZ file format and APIs that can create and open PZ files.",
-  "linktitle" : "PZ",
-  "menu" : {
-    "docs" : {
-      "parent" : "video"
+  "draft": "false",
+  "toc": true,
+  "title": "PZ File Format - Panzoid Video Project File",
+  "description": "Learn about PZ file format and APIs that can create and open PZ files.",
+  "linktitle": "PZ",
+  "menu": {
+    "docs": {
+      "parent": "video",
+      "identifier": "video-pz"
     }
   },
-  "lastmod" : "2021-02-16"
+  "lastmod": "2021-02-16"
 }
 
 ## What is a PZ file?

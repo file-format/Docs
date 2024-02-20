@@ -1,20 +1,30 @@
 {
-  "date" : "2021-02-15",
-  "keywords" : [ "vp6 file", "vp6 file format", "what is an vp6 file", "file", "vp6 example", "vp6 file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-02-15",
+  "keywords": [
+    "vp6 file",
+    "vp6 file format",
+    "what is an vp6 file",
+    "file",
+    "vp6 example",
+    "vp6 file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "VP6 - TrueMotion Video File",
-  "description":"Learn about VP6 file format and APIs that can create and open VP6 files.",
-  "linktitle" : "VP6",
-  "menu" : {
-    "docs" : {
-      "parent" : "video"
+  "draft": "false",
+  "toc": true,
+  "title": "VP6 - TrueMotion Video File",
+  "description": "Learn about VP6 file format and APIs that can create and open VP6 files.",
+  "linktitle": "VP6",
+  "menu": {
+    "docs": {
+      "parent": "video",
+      "identifier": "video-vp6"
     }
   },
-  "lastmod" : "2021-02-16"
+  "lastmod": "2021-02-16"
 }
 
 ## What is a VP6 file?

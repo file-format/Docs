@@ -1,20 +1,29 @@
 {
-  "date" : "2021-12-09",
-  "keywords" : [ "aro",".aro file", "aro file format", "an file type", "file", "type", "what is a .aro file" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-12-09",
+  "keywords": [
+    "aro",
+    ".aro file",
+    "aro file format",
+    "an file type",
+    "file",
+    "type",
+    "what is a .aro file"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ARO File Format - SteelArrow Web Application File",
-  "description" : "Learn about what is an ARO file and APIs that can create and open ARO files.",
-  "linktitle" : "ARO",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "ARO File Format - SteelArrow Web Application File",
+  "description": "Learn about what is an ARO file and APIs that can create and open ARO files.",
+  "linktitle": "ARO",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-aro"
     }
   },
-  "lastmod" : "2021-12-09"
+  "lastmod": "2021-12-09"
 }
 
 ## What is an ARO file?

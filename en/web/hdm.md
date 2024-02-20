@@ -1,19 +1,20 @@
 {
-  "date" : "2022-10-12",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-10-12",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "HDM File - Handheld Device Markup Language File",
-  "description":"Learn about HDM file format and APIs that can create and open HDM files.",
-  "linktitle" : "HDM",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "HDM File - Handheld Device Markup Language File",
+  "description": "Learn about HDM file format and APIs that can create and open HDM files.",
+  "linktitle": "HDM",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-hdm"
     }
   },
-  "lastmod" : "2022-10-12"
+  "lastmod": "2022-10-12"
 }
 
 ## What is an HDM file?

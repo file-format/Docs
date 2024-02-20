@@ -1,19 +1,20 @@
 {
-  "date" : "2019-10-11",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "CDF - Channel Definition Format",
-  "description" : "Learn about what is a CDF file and APIs that can create and open CDF files.",
-  "linktitle" : "CDF",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "CDF - Channel Definition Format",
+  "description": "Learn about what is a CDF file and APIs that can create and open CDF files.",
+  "linktitle": "CDF",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-cdf"
     }
   },
-  "lastmod" : "2021-08-18"
+  "lastmod": "2021-08-18"
 }
 
 ## What is a CDF file?

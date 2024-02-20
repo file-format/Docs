@@ -1,19 +1,20 @@
 {
-  "date" : "2023-05-23",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2023-05-23",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "AXD File - ASP.NET Web Handler File Format",
-  "description" : "Learn about what is an AXD file and APIs that can create and open AXD files.",
-  "linktitle" : "AXD",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "AXD File - ASP.NET Web Handler File Format",
+  "description": "Learn about what is an AXD file and APIs that can create and open AXD files.",
+  "linktitle": "AXD",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-axd"
     }
   },
-  "lastmod" : "2023-05-23"
+  "lastmod": "2023-05-23"
 }
 
 ## What is an AXD file?

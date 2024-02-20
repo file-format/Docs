@@ -1,19 +1,20 @@
 {
-  "date" : "2022-08-20",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-08-20",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "BR File - Brotli Compressed File Format",
-  "description":"Learn about BR file format and APIs that can create and open BR files.",
-  "linktitle" : "BR",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "BR File - Brotli Compressed File Format",
+  "description": "Learn about BR file format and APIs that can create and open BR files.",
+  "linktitle": "BR",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-br"
     }
   },
-  "lastmod" : "2022-08-20"
+  "lastmod": "2022-08-20"
 }
 
 ## What is a BR file?

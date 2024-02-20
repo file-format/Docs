@@ -1,19 +1,20 @@
 {
-  "date" : "2022-09-17",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-09-17",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "DISCO File - DISCO Discovery Document File Format",
-  "description":"Learn about what is a DISCO file and APIs that can create and open DISCO files.",
-  "linktitle" : "DISCO",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "DISCO File - DISCO Discovery Document File Format",
+  "description": "Learn about what is a DISCO file and APIs that can create and open DISCO files.",
+  "linktitle": "DISCO",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-disco"
     }
   },
-  "lastmod" : "2022-09-17"
+  "lastmod": "2022-09-17"
 }
 
 ## What is a DISCO file?

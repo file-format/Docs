@@ -1,19 +1,20 @@
 {
-  "date" : "2022-09-17",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-09-17",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "DISCOMAP File - DISCO Discovery Output File Format",
-  "description":"Learn about what is a DISCOMAP file and APIs that can create and open DISCOMAP files.",
-  "linktitle" : "DISCOMAP",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "DISCOMAP File - DISCO Discovery Output File Format",
+  "description": "Learn about what is a DISCOMAP file and APIs that can create and open DISCOMAP files.",
+  "linktitle": "DISCOMAP",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-discomap"
     }
   },
-  "lastmod" : "2022-09-17"
+  "lastmod": "2022-09-17"
 }
 
 ## What is a DISCOMAP file?

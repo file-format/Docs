@@ -1,19 +1,20 @@
 {
-  "date" : "2019-10-11",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "P7B - PKCS 7 Certificate File",
-  "description":"Learn about P7C file format and APIs that can create and open P7C files.",
-  "linktitle" : "P7B",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "P7B - PKCS 7 Certificate File",
+  "description": "Learn about P7C file format and APIs that can create and open P7C files.",
+  "linktitle": "P7B",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-p7b"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is a P7B file?

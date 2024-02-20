@@ -1,19 +1,20 @@
 {
-  "date" : "2022-01-23",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-01-23",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "GDOC File - Google Docs Shortcut",
-  "description":"Learn about what is a GDOC file and APIs that can create and open GDOC files.",
-  "linktitle" : "GDOC",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "GDOC File - Google Docs Shortcut",
+  "description": "Learn about what is a GDOC file and APIs that can create and open GDOC files.",
+  "linktitle": "GDOC",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-gdoc"
     }
   },
-  "lastmod" : "2022-01-23"
+  "lastmod": "2022-01-23"
 }
 
 ## What is a GDOC file?

@@ -1,19 +1,20 @@
 {
-  "date" : "2023-05-04",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2023-05-04",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "Convert DOC to JPG Online for Free",
-  "description":"Free online DOC to JPG converter APIs and Apps",
-  "linktitle" : "DOC to JPG",
-  "menu" : {
-    "docs" : {
-      "parent" : "word-processing"
+  "draft": "false",
+  "toc": true,
+  "title": "Convert DOC to JPG Online for Free",
+  "description": "Free online DOC to JPG converter APIs and Apps",
+  "linktitle": "DOC to JPG",
+  "menu": {
+    "docs": {
+      "parent": "word-processing",
+      "identifier": "word-processing-doc-to-jpg"
     }
   },
-  "lastmod" : "2023-05-04"
+  "lastmod": "2023-05-04"
 }
 
 ## About DOC to JPG Conversion

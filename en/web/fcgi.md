@@ -1,19 +1,20 @@
 {
-  "date" : "2022-09-29",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-09-29",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "FCGI File - FastCGI File Format",
-  "description" : "What is an FCGI file?.",
-  "linktitle" : "FCGI",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "FCGI File - FastCGI File Format",
+  "description": "What is an FCGI file?.",
+  "linktitle": "FCGI",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-fcgi"
     }
   },
-  "lastmod" : "2022-09-29"
+  "lastmod": "2022-09-29"
 }
 
 ## What is an FCGI file?

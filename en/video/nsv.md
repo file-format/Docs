@@ -1,19 +1,20 @@
 {
-  "date" : "2022-03-08",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-03-08",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "NSV File Format - NullSoft Streaming Video File",
-  "description":"Learn about NSV file format and APIs that can create and open NSV files.",
-  "linktitle" : "NSV",
-  "menu" : {
-    "docs" : {
-      "parent" : "video"
+  "draft": "false",
+  "toc": true,
+  "title": "NSV File Format - NullSoft Streaming Video File",
+  "description": "Learn about NSV file format and APIs that can create and open NSV files.",
+  "linktitle": "NSV",
+  "menu": {
+    "docs": {
+      "parent": "video",
+      "identifier": "video-nsv"
     }
   },
-  "lastmod" : "2022-03-08"
+  "lastmod": "2022-03-08"
 }
 
 ## What is an NSV File?

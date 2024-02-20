@@ -1,19 +1,20 @@
 {
-  "date" : "2023-04-02",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2023-04-02",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "Convert DOCX to BMP Online for Free",
-  "description":"Free online DOCX to BMP Conversion.",
-  "linktitle" : "DOCX to BMP",
-  "menu" : {
-    "docs" : {
-      "parent" : "word-processing"
+  "draft": "false",
+  "toc": true,
+  "title": "Convert DOCX to BMP Online for Free",
+  "description": "Free online DOCX to BMP Conversion.",
+  "linktitle": "DOCX to BMP",
+  "menu": {
+    "docs": {
+      "parent": "word-processing",
+      "identifier": "word-processing-docx-to-bmp"
     }
   },
-  "lastmod" : "2023-04-02"
+  "lastmod": "2023-04-02"
 }
 
 ## About DOCX to BMP Conversion

@@ -1,19 +1,20 @@
 {
-  "date" : "2021-08-03",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-08-03",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "DSC - Text Description File",
-  "description":"Learn about DSC file format and APIs that can create and open DSC files.",
-  "linktitle" : "DSC",
-  "menu" : {
-    "docs" : {
-      "parent" : "word-processing"
+  "draft": "false",
+  "toc": true,
+  "title": "DSC - Text Description File",
+  "description": "Learn about DSC file format and APIs that can create and open DSC files.",
+  "linktitle": "DSC",
+  "menu": {
+    "docs": {
+      "parent": "word-processing",
+      "identifier": "word-processing-dsc"
     }
   },
-  "lastmod" : "2021-08-03"
+  "lastmod": "2021-08-03"
 }
 
 ## What is a DSC file?

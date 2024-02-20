@@ -1,19 +1,20 @@
 {
-  "date" : "2019-10-11",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "WMV File Format",
-  "description":"Learn about WMV file format and APIs that can create and open WMV files.",
-  "linktitle" : "WMV",
-  "menu" : {
-    "docs" : {
-      "parent" : "video"
+  "draft": "false",
+  "toc": true,
+  "title": "WMV File Format",
+  "description": "Learn about WMV file format and APIs that can create and open WMV files.",
+  "linktitle": "WMV",
+  "menu": {
+    "docs": {
+      "parent": "video",
+      "identifier": "video-wmv"
     }
   },
-  "lastmod" : "2019-09-16"
+  "lastmod": "2019-09-16"
 }
 
 ## What is a WMV file?

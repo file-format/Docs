@@ -1,19 +1,20 @@
 {
-  "date" : "2022-01-24",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-01-24",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "GNE File - Google Drive Document Shortcut",
-  "description":"What is a GNE file and APIs that can create and open GNE files.",
-  "linktitle" : "GNE",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "GNE File - Google Drive Document Shortcut",
+  "description": "What is a GNE file and APIs that can create and open GNE files.",
+  "linktitle": "GNE",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-gne"
     }
   },
-  "lastmod" : "2022-01-24"
+  "lastmod": "2022-01-24"
 }
 
 ## What is a GNE file?

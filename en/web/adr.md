@@ -1,20 +1,27 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "adr",".adr file", "file format", "file type", "what is an adr file" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "adr",
+    ".adr file",
+    "file format",
+    "file type",
+    "what is an adr file"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "ADR - Opera Bookmarks File Format",
-  "description" : "Learn to know what is an ADR file and APIs that can create and open ADR files.",
-  "linktitle" : "ADR",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "ADR - Opera Bookmarks File Format",
+  "description": "Learn to know what is an ADR file and APIs that can create and open ADR files.",
+  "linktitle": "ADR",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-adr"
     }
   },
-  "lastmod" : "2021-12-06"
+  "lastmod": "2021-12-06"
 }
 
 ## What is an ADR file?

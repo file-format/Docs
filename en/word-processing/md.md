@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "md file", "md file format", "what is an md file", "file", "md example", "md file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "md file",
+    "md file format",
+    "what is an md file",
+    "file",
+    "md example",
+    "md file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "MD - MarkDown Language File",
-  "description":"Learn about MD file format and APIs that can create and open MD files.",
-  "linktitle" : "MD",
-  "menu" : {
-    "docs" : {
-      "parent" : "word-processing"
+  "draft": "false",
+  "toc": true,
+  "title": "MD - MarkDown Language File",
+  "description": "Learn about MD file format and APIs that can create and open MD files.",
+  "linktitle": "MD",
+  "menu": {
+    "docs": {
+      "parent": "word-processing",
+      "identifier": "word-processing-md"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is a MD file?

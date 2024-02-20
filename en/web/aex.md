@@ -1,20 +1,27 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "aex","aex file", "file format", "file type", "what is an aex file" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "aex",
+    "aex file",
+    "file format",
+    "file type",
+    "what is an aex file"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "AEX - Alpha Five Compiled Global Functions File",
-  "description" : "Learn to know what is an AEX file and APIs that can create and open AEX files.",
-  "linktitle" : "AEX",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "AEX - Alpha Five Compiled Global Functions File",
+  "description": "Learn to know what is an AEX file and APIs that can create and open AEX files.",
+  "linktitle": "AEX",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-aex"
     }
   },
-  "lastmod" : "2021-12-07"
+  "lastmod": "2021-12-07"
 }
 
 ## What is an AEX file?

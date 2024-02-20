@@ -1,20 +1,29 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "an",".an file", "an file format", "an file type", "file", "type", "what is a .an file" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "an",
+    ".an file",
+    "an file format",
+    "an file type",
+    "file",
+    "type",
+    "what is a .an file"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "AN - Adobe Edge Animate Project File ",
-  "description" : "Learn about what is an AN file and APIs that can create and open AN files.",
-  "linktitle" : "AN",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "AN - Adobe Edge Animate Project File ",
+  "description": "Learn about what is an AN file and APIs that can create and open AN files.",
+  "linktitle": "AN",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-an"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is an AN file?

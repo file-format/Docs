@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "ltx file", "ltx file format", "what is an ltx file", "file", "ltx example", "ltx file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "ltx file",
+    "ltx file format",
+    "what is an ltx file",
+    "file",
+    "ltx example",
+    "ltx file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "LTX - Latex Document File",
-  "description":"Learn about LTX file format and APIs that can create and open LTX files.",
-  "linktitle" : "LTX",
-  "menu" : {
-    "docs" : {
-      "parent" : "word-processing"
+  "draft": "false",
+  "toc": true,
+  "title": "LTX - Latex Document File",
+  "description": "Learn about LTX file format and APIs that can create and open LTX files.",
+  "linktitle": "LTX",
+  "menu": {
+    "docs": {
+      "parent": "word-processing",
+      "identifier": "word-processing-ltx"
     }
   },
-  "lastmod" : "2021-05-18"
+  "lastmod": "2021-05-18"
 }
 
 ## What is an LTX file?

@@ -1,20 +1,30 @@
 {
-  "date" : "2021-02-15",
-  "keywords" : [ "MJPEG", "file", "extension", "format", "Motion JPEG", "compressing", "JPEG image", "video"],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-02-15",
+  "keywords": [
+    "MJPEG",
+    "file",
+    "extension",
+    "format",
+    "Motion JPEG",
+    "compressing",
+    "JPEG image",
+    "video"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "MJPEG - Motion JPEG File Format",
-  "description":"Learn about MJPEG file format and APIs that can create and open MJPEG files.",
-  "linktitle" : "MJPEG",
-  "menu" : {
-    "docs" : {
-      "parent" : "video"
+  "draft": "false",
+  "toc": true,
+  "title": "MJPEG - Motion JPEG File Format",
+  "description": "Learn about MJPEG file format and APIs that can create and open MJPEG files.",
+  "linktitle": "MJPEG",
+  "menu": {
+    "docs": {
+      "parent": "video",
+      "identifier": "video-mjpeg"
     }
   },
-  "lastmod" : "2021-02-16"
+  "lastmod": "2021-02-16"
 }
 
 ## What is an MJPEG file? ##

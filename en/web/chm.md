@@ -1,20 +1,29 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "chm","chm file", "chm file format", "chm file type", "file", "type", "what is a chm file" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "chm",
+    "chm file",
+    "chm file format",
+    "chm file type",
+    "file",
+    "type",
+    "what is a chm file"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "CHM - Compiled HTML Help File Format",
-  "description" : "Learn about what is an CHM file and APIs that can create and open them.",
-  "linktitle" : "CHM",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "CHM - Compiled HTML Help File Format",
+  "description": "Learn about what is an CHM file and APIs that can create and open them.",
+  "linktitle": "CHM",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-chm"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is a CHM file?

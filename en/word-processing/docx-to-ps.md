@@ -1,19 +1,20 @@
 {
-  "date" : "2023-04-14",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2023-04-14",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "Convert DOCX to PS Online for Free",
-  "description":"Free online DOCX to PS converter",
-  "linktitle" : "DOCX to PS",
-  "menu" : {
-    "docs" : {
-      "parent" : "word-processing"
+  "draft": "false",
+  "toc": true,
+  "title": "Convert DOCX to PS Online for Free",
+  "description": "Free online DOCX to PS converter",
+  "linktitle": "DOCX to PS",
+  "menu": {
+    "docs": {
+      "parent": "word-processing",
+      "identifier": "word-processing-docx-to-ps"
     }
   },
-  "lastmod" : "2023-04-14"
+  "lastmod": "2023-04-14"
 }
 
 ## About DOCX to PS Conversion

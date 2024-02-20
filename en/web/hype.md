@@ -1,19 +1,20 @@
 {
-  "date" : "2019-10-11",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "HYPE File - Hype Document File Format",
-  "description" : "Your file format guide to learn what is a HYPE file and APIs that can create and open HYPE file.",
-  "linktitle" : "HYPE",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "HYPE File - Hype Document File Format",
+  "description": "Your file format guide to learn what is a HYPE file and APIs that can create and open HYPE file.",
+  "linktitle": "HYPE",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-hype"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is a HYPE file?

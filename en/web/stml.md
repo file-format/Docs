@@ -1,20 +1,29 @@
 {
-  "date" : "2021-05-20",
-  "keywords" : [ "stml","stml file", "stml file format", "stml file type", "file", "type", "what is an stml file" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2021-05-20",
+  "keywords": [
+    "stml",
+    "stml file",
+    "stml file format",
+    "stml file type",
+    "file",
+    "type",
+    "what is an stml file"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "STML - SSI HTML File",
-  "description":"Learn about STML file format and APIs that can create and open STML files.",
-  "linktitle" : "STML",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "STML - SSI HTML File",
+  "description": "Learn about STML file format and APIs that can create and open STML files.",
+  "linktitle": "STML",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-stml"
     }
   },
-  "lastmod" : "2021-05-20"
+  "lastmod": "2021-05-20"
 }
 
 ## What is an STML file?

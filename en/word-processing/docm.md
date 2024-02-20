@@ -1,20 +1,28 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "docm","file", "format", "file type", "extension","what is a DOCM file?" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "docm",
+    "file",
+    "format",
+    "file type",
+    "extension",
+    "what is a DOCM file?"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "DOCM - Microsoft Word 2007 Macro Files",
-  "description":"Learn about DOCM file format and APIs that can create and open DOCM files.",
-  "linktitle" : "DOCM",
-  "menu" : {
-    "docs" : {
-      "parent" : "word-processing"
+  "draft": "false",
+  "toc": true,
+  "title": "DOCM - Microsoft Word 2007 Macro Files",
+  "description": "Learn about DOCM file format and APIs that can create and open DOCM files.",
+  "linktitle": "DOCM",
+  "menu": {
+    "docs": {
+      "parent": "word-processing",
+      "identifier": "word-processing-docm"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is a DOCM file?

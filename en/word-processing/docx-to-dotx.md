@@ -1,19 +1,20 @@
 {
-  "date" : "2023-03-30",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2023-03-30",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "Convert DOCX to DOTX Online for Free",
-  "description":"Free online DOCX to DOTX Conversion.",
-  "linktitle" : "DOCX to DOTX",
-  "menu" : {
-    "docs" : {
-      "parent" : "word-processing"
+  "draft": "false",
+  "toc": true,
+  "title": "Convert DOCX to DOTX Online for Free",
+  "description": "Free online DOCX to DOTX Conversion.",
+  "linktitle": "DOCX to DOTX",
+  "menu": {
+    "docs": {
+      "parent": "word-processing",
+      "identifier": "word-processing-docx-to-dotx"
     }
   },
-  "lastmod" : "2023-03-30"
+  "lastmod": "2023-03-30"
 }
 
 ## About DOCX to DOTX Conversion

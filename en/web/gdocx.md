@@ -1,19 +1,20 @@
 {
-  "date" : "2022-01-24",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2022-01-24",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "GDOCX File - Google Drive Document Shortcut",
-  "description":"Learn about what is a GDOCX file and APIs that can create and open GDOCX files.",
-  "linktitle" : "GDOCX",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "GDOCX File - Google Drive Document Shortcut",
+  "description": "Learn about what is a GDOCX file and APIs that can create and open GDOCX files.",
+  "linktitle": "GDOCX",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-gdocx"
     }
   },
-  "lastmod" : "2022-01-24"
+  "lastmod": "2022-01-24"
 }
 
 ## What is a GDOCX file?

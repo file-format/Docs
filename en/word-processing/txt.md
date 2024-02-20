@@ -1,20 +1,30 @@
 {
-  "date" : "2019-10-11",
-  "keywords" : [ "txt file", "txt file format", "what is an txt file", "file", "txt example", "txt file extension","extension", "format" ],
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "keywords": [
+    "txt file",
+    "txt file format",
+    "what is an txt file",
+    "file",
+    "txt example",
+    "txt file extension",
+    "extension",
+    "format"
+  ],
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "TXT - Text Document File",
-  "description":"Learn about TXT file format and APIs that can create and open TXT files.",
-  "linktitle" : "TXT",
-  "menu" : {
-    "docs" : {
-      "parent" : "word-processing"
+  "draft": "false",
+  "toc": true,
+  "title": "TXT - Text Document File",
+  "description": "Learn about TXT file format and APIs that can create and open TXT files.",
+  "linktitle": "TXT",
+  "menu": {
+    "docs": {
+      "parent": "word-processing",
+      "identifier": "word-processing-txt"
     }
   },
-  "lastmod" : "2019-09-10"
+  "lastmod": "2019-09-10"
 }
 
 ## What is a TXT file?

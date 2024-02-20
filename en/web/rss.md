@@ -1,20 +1,30 @@
 {
-  "date" : "2021-06-24",
-  "keywords" : [ "RSS", "partial", "extension", "file", "format", "web", "Really Simple Syndication","Userland Software" ],
-  "author" : {
-    "display_name" : "Sami Cheema"
+  "date": "2021-06-24",
+  "keywords": [
+    "RSS",
+    "partial",
+    "extension",
+    "file",
+    "format",
+    "web",
+    "Really Simple Syndication",
+    "Userland Software"
+  ],
+  "author": {
+    "display_name": "Sami Cheema"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "RSS - Really Simple Syndication",
-  "description":"Learn about RSS file format and APIs that can create and open RSS files.",
-  "linktitle" : "RSS",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "RSS - Really Simple Syndication",
+  "description": "Learn about RSS file format and APIs that can create and open RSS files.",
+  "linktitle": "RSS",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-rss"
     }
   },
-  "lastmod" : "2021-06-24"
+  "lastmod": "2021-06-24"
 }
 
 ## What is an RSS file? ##

@@ -1,19 +1,20 @@
 {
-  "date" : "2019-10-11",
-  "author" : {
-    "display_name" : "Kashif Iqbal"
+  "date": "2019-10-11",
+  "author": {
+    "display_name": "Kashif Iqbal"
   },
-  "draft" : "false",
-  "toc" : true,
-  "title" : "BML File Format - Bean Markup Language File",
-  "description":"Learn about BML file format and APIs that can create and open BML files.",
-  "linktitle" : "BML",
-  "menu" : {
-    "docs" : {
-      "parent" : "web"
+  "draft": "false",
+  "toc": true,
+  "title": "BML File Format - Bean Markup Language File",
+  "description": "Learn about BML file format and APIs that can create and open BML files.",
+  "linktitle": "BML",
+  "menu": {
+    "docs": {
+      "parent": "web",
+      "identifier": "web-bml"
     }
   },
-  "lastmod" : "2021-08-12"
+  "lastmod": "2021-08-12"
 }
 
 ## What is a BML file?
