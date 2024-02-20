@@ -28,6 +28,6 @@ Unity 파일은 바이너리 파일 형식으로 디스크에 저장됩니다. �
 
 ## 참고문헌
 
-* [UNITY에서 지원되는 모델 파일 형식](https://docs.unity3d.com/2020.1/Documentation/Manual/3D-formats.html#:~:text=Unity%20can%20read%20.,3ds%2C% 20.)
+* [UNITY에서 지원되는 모델 파일 형식](https://docs.unity3d.com/2020.1/Documentation/Manual/3D-formats.html)
 * [모델 가져오기](https://docs.unity3d.com/2020.1/Documentation/Manual/ImportingModelFiles.html)
 

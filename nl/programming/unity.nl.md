@@ -28,6 +28,6 @@ Unity-bestanden worden in binaire bestandsindeling op schijf opgeslagen. Deze wo
 
 ## Referenties
 
-* [Ondersteunde modelbestandsindelingen in UNITY](https://docs.unity3d.com/2020.1/Documentation/Manual/3D-formats.html#:~:text=Unity%20can%20read%20.,3ds%2C% 20.)
+* [Ondersteunde modelbestandsindelingen in UNITY](https://docs.unity3d.com/2020.1/Documentation/Manual/3D-formats.html)
 * [Modellen importeren](https://docs.unity3d.com/2020.1/Documentation/Manual/ImportingModelFiles.html)
 

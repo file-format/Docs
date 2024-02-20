@@ -28,6 +28,6 @@ Unity 文件以二进制文件格式存储到磁盘。这些是在编辑期间�
 
 ## 参考
 
-* [UNITY 中支持的模型文件格式](https://docs.unity3d.com/2020.1/Documentation/Manual/3D-formats.html#:~:text=Unity%20can%20read%20.,3ds%2C% 20.)
+* [UNITY 中支持的模型文件格式](https://docs.unity3d.com/2020.1/Documentation/Manual/3D-formats.html)
 * [导入模型](https://docs.unity3d.com/2020.1/Documentation/Manual/ImportingModelFiles.html)
 

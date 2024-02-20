@@ -28,6 +28,6 @@ I file Unity vengono archiviati su disco in formato binario. Questi vengono gene
 
 ## Riferimenti
 
-* [Formati di file modello supportati in UNITY](https://docs.unity3d.com/2020.1/Documentation/Manual/3D-formats.html#:~:text=Unity%20can%20read%20.,3ds%2C% 20.)
+* [Formati di file modello supportati in UNITY](https://docs.unity3d.com/2020.1/Documentation/Manual/3D-formats.html)
 * [Importazione modelli](https://docs.unity3d.com/2020.1/Documentation/Manual/ImportingModelFiles.html)
 

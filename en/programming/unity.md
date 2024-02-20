@@ -28,5 +28,5 @@ Unity files are stored to disc in binary file format. These are generated and us
 
 ## References
 
- *  [Supported Model File Formats in UNITY](https://docs.unity3d.com/2020.1/Documentation/Manual/3D-formats.html#:~:text=Unity%20can%20read%20.,3ds%2C%20.)
+ *  [Supported Model File Formats in UNITY](https://docs.unity3d.com/2020.1/Documentation/Manual/3D-formats.html)
  * [Importing Models](https://docs.unity3d.com/2020.1/Documentation/Manual/ImportingModelFiles.html)

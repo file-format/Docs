@@ -28,6 +28,6 @@
 
 ## βιβλιογραφικές αναφορές
 
-* [Υποστηριζόμενες μορφές αρχείων μοντέλου στο UNITY](https://docs.unity3d.com/2020.1/Documentation/Manual/3D-formats.html#:~:text=Unity%20can%20read%20.,3ds%2C% 20.)
+* [Υποστηριζόμενες μορφές αρχείων μοντέλου στο UNITY](https://docs.unity3d.com/2020.1/Documentation/Manual/3D-formats.html)
 * [Εισαγωγή μοντέλων](https://docs.unity3d.com/2020.1/Documentation/Manual/ImportingModelFiles.html)
 

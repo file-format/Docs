@@ -28,6 +28,6 @@
 
 ## הפניות
 
-* [פורמטי קובץ מודל נתמכים ב-UNITY](https://docs.unity3d.com/2020.1/Documentation/Manual/3D-formats.html#:~:text=Unity%20can%20read%20.,3ds%2C% 20.)
+* [פורמטי קובץ מודל נתמכים ב-UNITY](https://docs.unity3d.com/2020.1/Documentation/Manual/3D-formats.html)
 * [ייבוא מודלים](https://docs.unity3d.com/2020.1/Documentation/Manual/ImportingModelFiles.html)
 

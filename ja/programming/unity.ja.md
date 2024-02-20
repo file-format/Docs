@@ -28,6 +28,6 @@ Unity ファイルは、バイナリ ファイル形式でディスクに保存�
 
 ## 参考文献
 
-* [UNITYでサポートされているモデルファイル形式](https://docs.unity3d.com/2020.1/Documentation/Manual/3D-formats.html#:~:text=Unity%20can%20read%20.,3ds%2C% 20.)
+* [UNITYでサポートされているモデルファイル形式](https://docs.unity3d.com/2020.1/Documentation/Manual/3D-formats.html)
 * [モデルのインポート](https://docs.unity3d.com/2020.1/Documentation/Manual/ImportingModelFiles.html)
 

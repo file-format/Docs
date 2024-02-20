@@ -28,6 +28,6 @@ Unity dosyaları, diske ikili dosya biçiminde depolanır. Bunlar, düzenleme s�
 
 ## Referanslar
 
-* [UNITY'de Desteklenen Model Dosya Biçimleri](https://docs.unity3d.com/2020.1/Documentation/Manual/3D-formats.html#:~:text=Unity%20can%20read%20.,3ds%2C% 20.)
+* [UNITY'de Desteklenen Model Dosya Biçimleri](https://docs.unity3d.com/2020.1/Documentation/Manual/3D-formats.html)
 * [Modelleri İçe Aktarma](https://docs.unity3d.com/2020.1/Documentation/Manual/ImportingModelFiles.html)
 

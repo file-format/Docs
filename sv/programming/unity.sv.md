@@ -28,6 +28,6 @@ Unity-filer lagras på skiva i binärt filformat. Dessa genereras och används t
 
 ## Referenser
 
-* [Modelfilformat som stöds i UNITY](https://docs.unity3d.com/2020.1/Documentation/Manual/3D-formats.html#:~:text=Unity%20can%20read%20.,3ds%2C% 20.)
+* [Modelfilformat som stöds i UNITY](https://docs.unity3d.com/2020.1/Documentation/Manual/3D-formats.html)
 * [Importera modeller](https://docs.unity3d.com/2020.1/Documentation/Manual/ImportingModelFiles.html)
 

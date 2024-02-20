@@ -28,6 +28,6 @@ Soubory Unity se ukládají na disk v binárním formátu souboru. Ty se generuj
 
 ## Reference
 
-* [Podporované formáty souborů modelu v UNITY](https://docs.unity3d.com/2020.1/Documentation/Manual/3D-formats.html#:~:text=Unity%20can%20read%20.,3ds%2C% 20.)
+* [Podporované formáty souborů modelu v UNITY](https://docs.unity3d.com/2020.1/Documentation/Manual/3D-formats.html)
 * [Importování modelů](https://docs.unity3d.com/2020.1/Documentation/Manual/ImportingModelFiles.html)
 

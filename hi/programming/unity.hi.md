@@ -28,6 +28,6 @@
 
 ## संदर्भ
 
-* [एकता में समर्थित मॉडल फ़ाइल प्रारूप](https://docs.unity3d.com/2020.1/Documentation/Manual/3D-formats.html#:~:text=Unity%20can%20read%20.,3ds%2C% 20.)
+* [एकता में समर्थित मॉडल फ़ाइल प्रारूप](https://docs.unity3d.com/2020.1/Documentation/Manual/3D-formats.html)
 * [आयात मॉडल](https://docs.unity3d.com/2020.1/Documentation/Manual/ImportingModelFiles.html)
 
