@@ -10,7 +10,6 @@
   "linktitle": "VLW",
   "menu": {
     "docs": {
-      "identifer": "font-vlw",
       "parent": "font",
       "identifier": "font-vlw"
     }

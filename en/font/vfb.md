@@ -10,7 +10,6 @@
   "linktitle": "VFB",
   "menu": {
     "docs": {
-      "identifer": "font-vfb",
       "parent": "font",
       "identifier": "font-vfb"
     }
