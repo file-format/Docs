@@ -10,7 +10,6 @@
   "linktitle": "SEAM",
   "menu": {
     "docs": {
-"identifer: web-søm",
       "parent": "web",
       "identifier": "web-sea-dam"
 }

@@ -25,7 +25,7 @@ En fil med filtypenavnet .dwt er en websideskabelonfil, der er oprettet med Drea
 
 DWT-filer udvikles og gemmes som almindelige tekstfiler. Disse kan åbnes i Dreamweaver eller et hvilket som helst tekstredigeringsprogram og kan redigeres for ændringer, der kræves. Dreamweaver-softwaren opdaterer brugergrænsefladen, efterhånden som ændringerne anvendes, og brugeren kan observere effekten af ændringer visuelt i applikationens brugergrænseflade.
 
-Hver gang du gemmer [HTML]-siden (/ web / html /) som en skabelonfil, opretter Dreamweaver en skabelonmappe på rodniveauet af den lokale rodmappe. Linket er brudt, hvis .dwt-filen flyttes fra mappen Skabeloner, eller den omdøbes. Det er derfor vigtigt at beholde .dwt-filerne i skabelonmappen, hvor Dreamweaver opretter dem. Det er bedre at opbevare andre elementer på dit websted, såsom billedkildefiler eller HTML-dokumenter, på et andet sted end mappen Skabeloner.
+Hver gang du gemmer [HTML](/web/html/)-siden som en skabelonfil, opretter Dreamweaver en skabelonmappe på rodniveauet af den lokale rodmappe. Linket er brudt, hvis .dwt-filen flyttes fra mappen Skabeloner, eller den omdøbes. Det er derfor vigtigt at beholde .dwt-filerne i skabelonmappen, hvor Dreamweaver opretter dem. Det er bedre at opbevare andre elementer på dit websted, såsom billedkildefiler eller HTML-dokumenter, på et andet sted end mappen Skabeloner.
 
 ## Om Dreamweaver
 

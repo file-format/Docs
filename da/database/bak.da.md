@@ -53,7 +53,7 @@ Deskriptorblokke (DBLK) bruges til formatkontrol og udgør det primære grundlag
  * `Operating System Data` - Specifikke data, der er defineret baseret på typen af DBLK og operativsystemer
  * `DBLK Information` - DBLK-specifik information med variabel længde, som ikke kan gemmes med DBLK-informationen med fast længde.
 
-{{< figure src=../bak.png alt=Microsoft SQL Backup File Format >}}
+{{< figure src="../bak.png" alt="Microsoft SQL Backup File Format" >}}
 
 #### Datastrøm
 

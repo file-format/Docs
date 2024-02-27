@@ -11,7 +11,7 @@
   "menu" : {
     "docs" : {
       "parent" : "note-taking",
-"vægt : 01"
+"weight" : "01"
 }
 },
   "lastmod" : "2020-09-01"

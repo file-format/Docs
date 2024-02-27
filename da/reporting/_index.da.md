@@ -12,7 +12,7 @@
   "menu" : {
     "docs" : {
       "parent" : "reporting",
-"vægt : 01"
+"weight" : "01"
 }
 },
   "lastmod" : "2021-05-23"
