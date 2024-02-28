@@ -5,13 +5,13 @@
 },
   "draft": "false",
   "toc": true,
-  "title": "3 DM",
+  "title": "3DM",
   "description": "Learn about 3 DM file format and APIs that can open and create 3 DM files.",
-  "linktitle": "3 DM",
+  "linktitle": "3DM",
   "menu": {
     "docs": {
       "parent": "3d",
-      "identifier": "3d-3 DM"
+      "identifier": "3d-3DM-da"
 }
 },
   "lastmod": "2021-08-13"
