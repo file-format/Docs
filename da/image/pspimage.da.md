@@ -34,8 +34,3 @@ PSPIMAGE-filer kan oprettes som nye filer fra PaintShop Pro. På grund af unders
  * Corel VideoStudio Pro (Windows)
  * CorelDRAW Graphics Suite (Windows)
  * XnViewMP (Windows, Mac & Linux)
-
-## Referencer
-
- * [PSPIMAGE-konvertering](https://community.adobe.com/t5/photoshop-ecosystem-discussions/pspimage-conversion/mp/5288141)
-

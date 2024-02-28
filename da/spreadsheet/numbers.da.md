@@ -62,10 +62,5 @@ Her er listen over nogle fremtrædende funktioner, der tilbydes af IWork Numbers
 
 
 ## Referencer ##
-
-* [Numbers (regneark) - Wikipedia](https://en.wikipedia.org/wiki/Numbers_(regneark))
-
+* [Numbers (spreadsheet) - Wikipedia](https://en.wikipedia.org/wiki/Numbers_(spreadsheet))
 * [Numbers bringer dine data til live](https://www.apple.com/numbers/)
-
-
-

@@ -24,9 +24,3 @@ En fil med filtypen .olm er en Microsoft Outlook-fil til Mac-operativsystemet. E
 ## OLM filformat
 
 OLM er binære filer med Application/octet-stream MIME-type. De tekniske specifikationer for OLM-filformat er ikke tilgængelige åbent fra Microsoft, og der er ingen formatdetaljer tilgængelige for udviklerens reference. Der er dog nogle API'er, der kan læse OLM-filformat og skrive disse til en PST-fil til brug på Microsoft Windows-operativsystem såsom Aspose.Email.
-
-## Referencer
-
-* [OLM-filformat?](https://social.msdn.microsoft.com/Forums/office/en-US/4ce689ee-8fad-4362-a0eb-06382646a845/olm-file-format?forum=os_binaryfile)
-
-

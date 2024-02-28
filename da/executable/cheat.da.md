@@ -60,8 +60,3 @@ Her er nogle almindelige typer information, der kan være inkluderet i en snydef
 CHEAT-filer er almindelige tekstfiler, så de kan åbnes ved hjælp af en hvilken som helst teksteditor, såsom Notepad eller Notepad++.
 
 For at bruge en CHEAT-fil med Navi, en terminalapplikation på tværs af platforme, kan du importere filen fra et GitHub-lager eller placere den i Navis mappe. Når du gør dette, vil kommandoerne, der er inkluderet i CHEAT-filen, blive tilgængelige i Navi, så du hurtigt kan referere og bruge dem.
-
-## Referencer
-* [Navi – Cheatsheet Tool](https://otechnix.com/navi-an-interactive-commandline-cheatsheet-tool/)
-
-

@@ -66,15 +66,11 @@ Disse filer beholder dokumentindholdet på en sådan måde, at hvis nogen f.eks.
 
 XPS-dokumentformatet inkluderer et veldefineret sæt af dele og relationer, der hver opfylder et bestemt formål i dokumentet. Formatet udvider også pakkefunktionerne, herunder digitale signaturer, thumbnails og interleaving.
 
-Et typisk XPS-dokument ser ud som følger og kan analyseres i lyset af XPS-filformatet [specifications](https://www.ecma-international.org/activities/XML%20Paper%20Specification/XPS%20Standard.pdf).
+Et typisk XPS-dokument ser ud som følger og kan analyseres i lyset af XPS-filformatet specifications.
 
 {{< figure src="../XPS-2.png" alt="XPS filformat" >}}
 
 
 ## Referencer ##
-
 * [XPS-filformatspecifikationer](https://www.ecma-international.org/publications-and-standards/standards/ecma-388/)
-
 * [XPS - af Wikipedia](https://en.wikipedia.org/wiki/Open_XML_Paper_Specification#Viewing_and_creating_XPS_documents)
-
-

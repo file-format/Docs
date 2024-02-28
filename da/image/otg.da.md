@@ -29,7 +29,7 @@
 
 ## Hvad er en OTG fil?
 
-En OTG-fil er en tegneskabelon, der er oprettet ved hjælp af OpenDocument-standarden, der følger OASIS Office-applikationerne [1.0 specification](https://www.oasis-open.org/committees/download.php/12572/OpenDocument-v1.0-os.pdf). Det repræsenterer standardorganiseringen af tegningselementer til et vektorbillede, der kan bruges til yderligere at forbedre indholdet af filen. OTF-filer er ligesom alle andre OpenDocument-formatbaserede filer, der er baseret på XML-format for at repræsentere indholdet af dokumentet. OTF-filer kan ses ved at åbne dem i enhver tekst- eller standard XML-editor.
+En OTG-fil er en tegneskabelon, der er oprettet ved hjælp af OpenDocument-standarden, der følger OASIS Office-applikationerne 1.0 specification. Det repræsenterer standardorganiseringen af tegningselementer til et vektorbillede, der kan bruges til yderligere at forbedre indholdet af filen. OTF-filer er ligesom alle andre OpenDocument-formatbaserede filer, der er baseret på XML-format for at repræsentere indholdet af dokumentet. OTF-filer kan ses ved at åbne dem i enhver tekst- eller standard XML-editor.
 
 ## OTG filformatspecifikationer ##
 
@@ -132,7 +132,4 @@ En ramme er indeholdt i et dokument som vist nedenfor.
 
 ## Referencer ##
 * [OASIS Open Document Format for Office-applikationer](https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=office)
-
 * [OpenDocument Format - Wikipedia](https://en.wikipedia.org/wiki/OpenDocument)
-
-

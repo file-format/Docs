@@ -90,7 +90,6 @@ Overskriften starter med et 4-bytes magisk ord **!BDN** repræsenteret af bytes 
 ## Referencer
 
 * [Outlook personlige mapper (.ost) filformat](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546)
-
 * [Personal Folder File Format Specifications](https://github.com/libyal/libpff/blob/main/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
 
 

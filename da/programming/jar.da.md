@@ -80,10 +80,6 @@ JAR-filer kan også bestå af et program, der kan udføres af Java Virtual Machi
 Main-Class: com.example.MyClassName
 ```
 
-
-
 ## Referencer
-
  * [JAR File Overview](https://docs.oracle.com/javase/8/docs/technotes/guides/jar/jarGuide.html)
- * [JAR-filformat](https://en.wikipedia.org/wiki/JAR_(filformat))
-
+ * [JAR-filformat](https://en.wikipedia.org/wiki/JAR_(file_format))

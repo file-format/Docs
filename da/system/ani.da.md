@@ -60,6 +60,4 @@ For at åbne en ANI fil, kan du følge disse trin:
 5. Alternativt kan du konvertere ANI-filen til et mere almindeligt filformat, såsom GIF, ved hjælp af et online-konverteringsværktøj. Når filen er konverteret til GIF, kan du åbne den med enhver billedfremviser eller medieafspiller, der understøtter dette filformat.
 
 ## Referencer
-* [ANI (filformat)](https://en.wikipedia.org/wiki/ANI_(filformat))
-
-
+* [ANI (filformat)](https://en.wikipedia.org/wiki/ANI_(file_format))

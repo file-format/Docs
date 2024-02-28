@@ -36,9 +36,3 @@ relativ eller absolut metode.
 ## ASV-filformat - flere oplysninger
 
 ASV-filer gemmes i binært filformat, og deres indhold er ikke i menneskelig læsbar form.
-
-## Referencer
-
-* [Indlæs ASV-fil i Adobe Photoshop](https://community.adobe.com/t5/photoshop-ecosystem-discussions/photoshop-asv-file-preset-wont-open/mp/12587356)
-
-

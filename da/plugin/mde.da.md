@@ -28,5 +28,3 @@ En MDE-fil oprettes ved at kompilere VBA-koden, formularer, rapporter og andre o
 ## Referencer
 
 * [Adgangsspecifikationer](https://support.microsoft.com/en-us/office/access-specifications-0cf3c66f-9cf2-4e32-9568-98c1025bb47c)
-
-* [The Unofficial MDB Guide](http://jabakobob.net/mdb/)
