@@ -29,7 +29,7 @@ Det interne filformat for TE filer er ukendt. Textease leverede enkelte såvel s
 
  * Tekst
  * Nummer
- * [Billede](/billede/)
+ * Billede
  * Farve
  * Dato (DD/MM/ÅÅÅÅ)
  * betalingsmiddel

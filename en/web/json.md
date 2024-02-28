@@ -92,7 +92,7 @@ There is no hard limit defined by specification, but you need to be careful not 
  * **Is JSON and XML file same?** Not really. JSON differs from XML in that JSON is shorter, can be read and right quickly, can use arrays and it doesn't use end tag.
  * **Can I convert JSON to CSV?** Yes, there are certain online converter apps such as **GroupDocs Conversion apps** that can [convert JSON to CSV](https://products.groupdocs.app/conversion/json-to-csv).
  * **How to Convert JSON to PDF?** You can use online apps such as Asopse.app for Cells to [convert JSON file to PDF](https://products.aspose.app/cells/conversion/json-to-pdf).
- * **How to Open a JSON file in Word?** You can use online apps such as Aspose.app for Words to [convert JSON file to Word](Convert JSON Format to WORD in Android via Java).
+ * **How to Open a JSON file in Word?** You can use online apps such as Aspose.app for Words to convert JSON file to Word.
 
 ## Did you know?
 

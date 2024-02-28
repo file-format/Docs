@@ -27,6 +27,6 @@ De interne filformatdetaljer for APZ-filformatet er ikke offentligt tilgængelig
 
 ## Referencer
 
-* [Kompressionsfilformater](/komprimering/)
+* [Kompressionsfilformater](/compression/)
 
 

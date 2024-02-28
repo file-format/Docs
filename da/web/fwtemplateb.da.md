@@ -26,9 +26,6 @@ En FWTEMPLATEB-fil er et webstedsskabelondokumentbundt, der bruges af Freeway Pr
 FWTEMPLATEB-filer gemmes som en samling af webstedsskabeloner og indeholder oplysninger relateret til webstedets udseende. Disse giver den nemmeste måde at oprette et websted på, da alle layout- og udseendeindstillinger allerede er udført i skabelonfilen. En anden fordel ved FWTEMPLATEB-filer er, at du nemt får et bundt skabeloner til at oprette websteder.
 
 ## Referencer
-
 * [FWTEMPLATE](/web/fwtemplate/)
-
-* [FREEWAY](/web/motorvej/)
 
 

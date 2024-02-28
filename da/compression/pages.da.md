@@ -41,8 +41,8 @@ Apple PAGES-dokumenter kan konverteres til flere filformater. Dette kan gøres f
  * Microsoft Word [DOC](/word-processing/doc/) og [DOCX](/word-processing/docx/)
  * [PDF](/pdf/)
  * [EPUB](/ebook/epub/)
- * [RTF](/tekstbehandling/rtf/)
- * [TXT](/tekstbehandling/txt/)
+ * [RTF](/word-processing/rtf/)
+ * [TXT](/word-processing/txt/)
 
 ## Referencer
 

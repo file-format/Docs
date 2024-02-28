@@ -38,7 +38,7 @@ En HDR-billedfil består af følgende tre sektioner:
 ## Open Source HDR/HDRI API'er
 
  * **[imageinfo](https://github.com/xiaozhuai/imageinfo)** - Superhurtigt enkelt header-bibliotek på tværs af platforme [C++](/programming/cpp/) for at få billedstørrelse og -format uden indlæsning/afkodning.
- * **[imgaeinfo-rs](https://github.com/xiaozhuai/imageinfo-rs)** - Rustbibliotek for at få billedstørrelse og -format uden indlæsning/afkodning. Understøtter [.avif](/image/avif/), [.bmp](/image/bmp/), [.cur](/image/cur/), [.dds](/image/dds/), [ .gif](/image/gif/), hdr (pic), [heic (heif)](/image/heic/), [.icns](/image/icns/), [.ico](/image/ ico/), [.jp2](/image/jp2/), [jpeg (jpg)](/image/jpeg/), [jpx](/image/jpx/), ktx, [png](/image/ png/), [psd](/image/psd/), qoi, tga, tiff (tif) og webp.
+ * **[imgaeinfo-rs](https://github.com/xiaozhuai/imageinfo-rs)** - Rustbibliotek for at få billedstørrelse og -format uden indlæsning/afkodning. Understøtter [.avif](/image/avif/), [.bmp](/image/bmp/), [.cur](/image/cur/), [.dds](/image/dds/), [ .gif](/image/gif/), hdr (pic), [heic (heif)](/image/heic/), [.icns](/image/icns/), [.ico](/image/ico/), [.jp2](/image/jp2/), [jpeg (jpg)](/image/jpeg/), [jpx](/image/jpx/), ktx, [png](/image/png/), [psd](/image/psd/), qoi, tga, tiff (tif) og webp.
  * **[HdrHistogram](https://github.com/HdrHistogram/HdrHistogram)** - Java-implementering af HdrHistogram.
 
 ## Referencer

@@ -91,8 +91,8 @@ Der er ingen hård grænse defineret af specifikationen, men du skal være forsi
  * **Hvad bruges JSON-filen til?** JSON-filformatet kan bruges som et mellemfilformat til lagring af datagenererede data, f.eks. fra en indsendt formular på et websted. Det bruges også som en dataformatfil til ethvert programmeringssprog og giver interoperabilitet mellem forskellige typer data.
  * **Er JSON- og XML-filen den samme?** Ikke rigtig. JSON adskiller sig fra XML ved, at JSON er kortere, kan læses og rettes hurtigt, kan bruge arrays, og den bruger ikke sluttag.
  * **Can I convert JSON to CSV?** Yes, there are certain online converter apps such as **GroupDocs Conversion apps** that can [convert JSON to CSV](https://products.groupdocs.app/conversion/json-to-csv).
- * **Hvordan konverteres JSON til PDF?** Du kan bruge online-apps såsom Asopse.app for Cells til at [konvertere JSON-fil til PDF](https://products.aspose.app/cells/conversion/json-to- pdf).
- * **Hvordan åbner man en JSON-fil i Word?** Du kan bruge online-apps såsom Aspose.app for Words til [konverter JSON-fil til Word](Konverter JSON-format til WORD i Android via Java).
+ * **Hvordan konverteres JSON til PDF?** Du kan bruge online-apps såsom Asopse.app for Cells til at [konvertere JSON-fil til PDF](https://products.aspose.app/cells/conversion/json-to-pdf).
+ * **Hvordan åbner man en JSON-fil i Word?** Du kan bruge online-apps såsom Aspose.app for Words til konverter JSON-fil til Word.
 
 ## Vidste du?
 
