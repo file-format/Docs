@@ -91,8 +91,8 @@ The first edition of JSON standard ECMA-404 was published in October 2013 by Ecm
  * **فایل JSON برای چه مواردی استفاده می شود؟** فرمت فایل JSON را می توان به عنوان یک فرمت فایل میانی برای ذخیره داده های تولید شده مانند فرم ارسال شده در یک وب سایت استفاده کرد. همچنین به عنوان فایل فرمت داده برای هر زبان برنامه نویسی استفاده می شود و قابلیت همکاری بین انواع مختلف داده ها را فراهم می کند.
  * ** آیا فایل JSON و XML یکسان است؟ ** واقعاً اینطور نیست. JSON با XML تفاوت دارد زیرا JSON کوتاه‌تر است، می‌توان آن را سریع خواند و درست کرد، می‌تواند از آرایه‌ها استفاده کند و از تگ پایان استفاده نمی‌کند.
  * **Can I convert JSON to CSV?** Yes, there are certain online converter apps such as **GroupDocs Conversion apps** that can [convert JSON to CSV](https://products.groupdocs.app/conversion/json-to-csv).
- * **چگونه JSON را به PDF تبدیل کنیم؟** می توانید از برنامه های آنلاین مانند Asopse.app برای Cells به [تبدیل فایل JSON به PDF](https://products.aspose.app/cells/conversion/json-to-) استفاده کنید pdf).
- * **چگونه یک فایل JSON را در Word باز کنیم؟** می توانید از برنامه های آنلاین مانند Aspose.app برای Words برای [تبدیل فایل JSON به Word](تبدیل فرمت JSON به WORD در اندروید از طریق جاوا) استفاده کنید.
+ * **چگونه JSON را به PDF تبدیل کنیم؟** می توانید از برنامه های آنلاین مانند Asopse.app برای Cells به [تبدیل فایل JSON به PDF](https://products.aspose.app/cells/conversion/json-to-pdf) استفاده کنید.
+ * **چگونه یک فایل JSON را در Word باز کنیم؟** می توانید از برنامه های آنلاین مانند Aspose.app برای Words برای تبدیل فایل JSON به Word استفاده کنید.
 
 ## آیا می دانستید؟
 

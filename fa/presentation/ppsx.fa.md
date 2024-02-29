@@ -39,9 +39,8 @@ PPSX files are saved in the Open XML format, which was introduced in Microsoft O
 
 ## همچنین ببینید ##
 
-* [PPT](/ارائه/ppt/)
-
-* [PPTX](/ارائه/pptx/)
+* [PPT](/presentation/ppt/)
+* [PPTX](/presentation/pptx/)
 
 
 ## منابع ##

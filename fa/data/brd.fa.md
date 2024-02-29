@@ -62,6 +62,6 @@
 - **نمایشگر برد باز ** (رایگان) برای لینوکس
 
 ## منابع
-* [برنامه EAGLE](https://en.wikipedia.org/wiki/EAGLE_(برنامه))
+* [برنامه EAGLE](https://en.wikipedia.org/wiki/EAGLE_(program))
 
 

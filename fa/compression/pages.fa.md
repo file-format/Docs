@@ -42,7 +42,7 @@
  * [PDF](/pdf/)
  * [EPUB](/ebook/epub/)
  * [RTF](/word-processing/rtf/)
- * [TXT](/پردازش کلمه/txt/)
+ * [TXT](/word-processing/txt/)
 
 ## منابع
 

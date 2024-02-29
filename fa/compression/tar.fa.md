@@ -106,7 +106,7 @@ tar -cvf archive.tar file_or_directory
 
 ## منابع ##
 
-* [TAR - توسط ویکی‌پدیا](https://en.wikipedia.org/wiki/Tar_(محاسبات))
+* [TAR - توسط ویکی‌پدیا](https://en.wikipedia.org/wiki/Tar_(computing))
 
 * [فرمت پایه TAR](https://www.gnu.org/software/tar/manual/html_node/Standard.html)
 

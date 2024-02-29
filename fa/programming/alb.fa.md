@@ -29,6 +29,6 @@
 
 ## منابع
 
- * [فایل ADB](/پایگاه داده/adb/)
+ * [ADB file](/database/adb/)
  * [IDE Alpha Anywhere](https://documentation.alphasoftware.com/pages/GettingStarted/IDE/index.xml)
 

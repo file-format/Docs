@@ -69,7 +69,7 @@ Autodesk Fusion 360 می تواند فایل های STP را به فرمت ها�
  * [STL](/cad/stl/)
  * [FBX](/3d/fbx/)
  * F3D
- * [USD](/3d/USD/)
+ * [USD](/3d/usd/)
 
 ## منابع
 

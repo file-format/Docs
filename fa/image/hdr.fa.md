@@ -38,7 +38,7 @@
 ## APIهای منبع باز HDR/HDRI
 
  * **[imageinfo](https://github.com/xiaozhuai/imageinfo)** - کتابخانه تک سرصفحه [C++](/programming/cpp/) با پلتفرم متقاطع برای دریافت اندازه و قالب تصویر بدون بارگیری/رمزگشایی.
- * **[imgaeinfo-rs](https://github.com/xiaozhuai/imageinfo-rs)** - کتابخانه زنگ زده برای دریافت اندازه و قالب تصویر بدون بارگیری/رمزگشایی. [.avif](/image/avif/)، [.bmp](/image/bmp/)، [.cur](/image/cur/)، [.dds](/image/dds/)، [. .gif](/image/gif/)، hdr (pic)، [heic (heif)](/image/heic/)، [.icns](/image/icns/)، [.ico](/image/ ico/)، [.jp2](/image/jp2/)، [jpeg (jpg)](/image/jpeg/)، [jpx](/image/jpx/)، ktx، [png](/image/ png/)، [psd](/image/psd/)، qoi، tga، tiff (tif)، و webp.
+ * **[imgaeinfo-rs](https://github.com/xiaozhuai/imageinfo-rs)** - کتابخانه زنگ زده برای دریافت اندازه و قالب تصویر بدون بارگیری/رمزگشایی. [.avif](/image/avif/)، [.bmp](/image/bmp/)، [.cur](/image/cur/)، [.dds](/image/dds/)، [. .gif](/image/gif/)، hdr (pic)، [heic (heif)](/image/heic/)، [.icns](/image/icns/)، [.ico](/image/ico/)، [.jp2](/image/jp2/)، [jpeg (jpg)](/image/jpeg/)، [jpx](/image/jpx/)، ktx، [png](/image/png/)، [psd](/image/psd/)، qoi، tga، tiff (tif)، و webp.
  * **[HdrHistogram](https://github.com/HdrHistogram/HdrHistogram)** - اجرای جاوا HdrHistogram.
 
 ## منابع

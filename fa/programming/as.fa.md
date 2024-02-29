@@ -82,7 +82,7 @@ package com.example
 
 ## ارجاع ##
 
-* [ع - توسط ویکی پدیا]( https://en.wikipedia.org/wiki/ActionScript)
+* [ع - توسط ویکی پدیا](https://en.wikipedia.org/wiki/ActionScript)
 
 
 
