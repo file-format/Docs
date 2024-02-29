@@ -197,6 +197,6 @@ Spacecraft "Voyager 1"
 - [CFG - Cal3D Model Configuration File](/misc/cfg-cal3d/)
 
 ## منابع
-* [سلستیا] (https://en.wikipedia.org/wiki/Celestia)
+* [سلستیا](https://en.wikipedia.org/wiki/Celestia)
 
 

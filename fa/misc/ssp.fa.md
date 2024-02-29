@@ -29,6 +29,6 @@ SSP files are stored to disc as binary files with no public information availabl
 
 ## منابع
 
-* [Axialis Software SSP] (https://www.axialis.com/ssp/)
+* [Axialis Software SSP](https://www.axialis.com/ssp/)
 
 

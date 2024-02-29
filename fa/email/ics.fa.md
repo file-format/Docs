@@ -79,7 +79,7 @@ ATTACH: https://products.conholdate.app/viewer/view/KDDURXKkLk/fileformat.doc
 
 ## منابع
 
-* [تقویم اینترنتی و زمان‌بندی مشخصات شی اصلی] (https://www.ietf.org/rfc/rfc5545.txt)
+* [تقویم اینترنتی و زمان‌بندی مشخصات شی اصلی](https://www.ietf.org/rfc/rfc5545.txt)
 
 * [iCalendar (RFC 5545)](https://icalendar.org/RFC-Specifications/iCalendar-RFC-5545/)
 

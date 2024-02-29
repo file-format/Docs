@@ -126,7 +126,7 @@ The file identifier header allows for identification of DWF files by application
 
 * [DWF - توسط ویکی‌پدیا](https://en.wikipedia.org/wiki/Design_Web_Format)
 
-* [فرمت داده WHIP] (http://paulbourke.net/dataformats/whip/)
+* [فرمت داده WHIP](http://paulbourke.net/dataformats/whip/)
 
 * [https://learn.microsoft.com/en-us/archive/blogs/opc/adventures-in-packaging-episode-1](https://learn.microsoft.com/en-us/archive/blogs /opc/adventures-in-packaging-episode-1)
 

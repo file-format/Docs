@@ -59,6 +59,6 @@
 
 ## منابع
 
-* [توسعه افزودنی برای نسخه Bedrock] (https://learn.microsoft.com/en-us/minecraft/creator/documents/gettingstarted)
+* [توسعه افزودنی برای نسخه Bedrock](https://learn.microsoft.com/en-us/minecraft/creator/documents/gettingstarted)
 
 

@@ -47,6 +47,6 @@ ZUL files are XML-based, consisting of different elements to construct user inte
 
 * [ZUL - توسط ZK](https://www.zkoss.org/wiki/ZK_Getting_Started/Tutorial)
 
-* [شما ZUL] (https://www.zkoss.org/2005/zul/zul.xsd)
+* [شما ZUL](https://www.zkoss.org/2005/zul/zul.xsd)
 
 

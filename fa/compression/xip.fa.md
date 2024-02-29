@@ -61,6 +61,6 @@ The specific contents of .xip file can vary depending on its purpose and the sof
 با این حال، بر خلاف یک فایل .zip معمولی، فرمت xip. شامل یک امضای دیجیتال است که یکپارچگی و صحت را تأیید می کند. این امضا تضمین می‌کند که محتویات فایل xip دستکاری نشده و از یک منبع قابل اعتماد است.
 
 ## منابع
-* [فرمت فایل XIP] (https://en.wikipedia.org/wiki/.XIP)
+* [فرمت فایل XIP](https://en.wikipedia.org/wiki/.XIP)
 
 

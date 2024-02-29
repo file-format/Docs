@@ -38,6 +38,6 @@
 - **KiCad**
 
 ## منابع
-* [KiCad] (https://en.wikipedia.org/wiki/KiCad)
+* [KiCad](https://en.wikipedia.org/wiki/KiCad)
 
 

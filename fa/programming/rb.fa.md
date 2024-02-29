@@ -110,6 +110,6 @@ end
 - برنامه/x-ruby.
 
 ## منابع
-* [Ruby (زبان برنامه نویسی)] (https://en.wikipedia.org/wiki/Ruby_(programming_language))
+* [Ruby (زبان برنامه نویسی)](https://en.wikipedia.org/wiki/Ruby_(programming_language))
 
 

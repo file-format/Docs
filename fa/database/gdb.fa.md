@@ -73,6 +73,6 @@
 
 ## منابع ##
 
-* [مشخصات FGDB] (https://github.com/rouault/dump_gdbtable/wiki/FGDB-Spec)
+* [مشخصات FGDB](https://github.com/rouault/dump_gdbtable/wiki/FGDB-Spec)
 
 

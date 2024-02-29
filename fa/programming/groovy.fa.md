@@ -29,6 +29,6 @@
 
 * [APACHE GROOVY - توسط ویکی پدیا](https://en.wikipedia.org/wiki/Apache_Groovy)
 
-* [Groovy Language] (https://groovy-lang.org/documentation.html)
+* [Groovy Language](https://groovy-lang.org/documentation.html)
 
 

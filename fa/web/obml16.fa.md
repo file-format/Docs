@@ -27,6 +27,6 @@ OBML16 بر اساس فرمت فایل OBML است که یک فرمت فشرده
 
 ## منابع
 
-* [قالب OMBL] (https://github.com/grawity/obml-parser/blob/master/obml.md)
+* [قالب OMBL](https://github.com/grawity/obml-parser/blob/master/obml.md)
 
 

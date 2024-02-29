@@ -36,6 +36,6 @@ NBT یک فرمت باینری ساده است که برای ذخیره موثر
 - **MCEdit** (رایگان) برای (ویندوز، لینوکس)
 
 ## منابع
-* [قالب NBT] (https://minecraft.wiki/w/NBT_format)
+* [قالب NBT](https://minecraft.wiki/w/NBT_format)
 
 

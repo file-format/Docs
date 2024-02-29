@@ -131,7 +131,7 @@
 ```
 
 ## منابع ##
-* [فرمت سند باز OASIS برای برنامه های اداری] (https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=office)
+* [فرمت سند باز OASIS برای برنامه های اداری](https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=office)
 
 * [فرمت OpenDocument - Wikipedia](https://en.wikipedia.org/wiki/OpenDocument)
 

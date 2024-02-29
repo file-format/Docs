@@ -65,7 +65,7 @@ return
 
 ## منابع
 
-* [AutoHotkey] (https://www.autohotkey.com/)
+* [AutoHotkey](https://www.autohotkey.com/)
 
 * [فایل دسته ای - توسط Wikipewdia](https://en.wikipedia.org/wiki/Batch_file)
 

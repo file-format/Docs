@@ -40,6 +40,6 @@
 
 ## منابع
 
-* [پرونده بسته Android] (https://en.wikipedia.org/wiki/Android_application_package)
+* [پرونده بسته Android](https://en.wikipedia.org/wiki/Android_application_package)
 
 

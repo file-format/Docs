@@ -45,7 +45,7 @@ bye
 ```
 ## منابع ##
 
-* [MetaPost توسط Wikipedia] (https://en.wikipedia.org/wiki/MetaPost)
+* [MetaPost توسط Wikipedia](https://en.wikipedia.org/wiki/MetaPost)
 
 * [نمونه لاتکس متاپست توسط ویکی آموزشی برکلی](https://math.berkeley.edu/computing/wiki/index.php/Latex_sample_metapost)
 

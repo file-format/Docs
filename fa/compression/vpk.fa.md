@@ -45,12 +45,12 @@ vpk x <vpkfile> <filename1> <filename2> ...
 
 ## نمایشگر VPK
 
- * [VRF VPK Viewer] (https://github.com/SteamDatabase/ValveResourceFormat)
+ * [VRF VPK Viewer](https://github.com/SteamDatabase/ValveResourceFormat)
 
 ## منابع
 
-* [فرمت فایل VPK] (https://developer.valvesoftware.com/wiki/VPK_File_Format)
+* [فرمت فایل VPK](https://developer.valvesoftware.com/wiki/VPK_File_Format)
 
-* [فایل های VPK] (https://developer.valvesoftware.com/wiki/VPK)
+* [فایل های VPK](https://developer.valvesoftware.com/wiki/VPK)
 
 

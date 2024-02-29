@@ -62,6 +62,6 @@ Writing my first Awk executable script!
 
 ## ارجاع ##
 
-* [نوشتن اسکریپت ها با استفاده از زبان برنامه نویسی Awk] (https://www.tecmint.com/write-shell-scripts-in-awk-programming/)
+* [نوشتن اسکریپت ها با استفاده از زبان برنامه نویسی Awk](https://www.tecmint.com/write-shell-scripts-in-awk-programming/)
 
 

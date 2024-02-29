@@ -120,6 +120,6 @@
 - [CFG - Cal3D Model Configuration File](/misc/cfg-cal3d/)
 
 ## منابع
-* [برنامه های مجازی سیتریکس] (https://en.wikipedia.org/wiki/Citrix_Virtual_Apps)
+* [برنامه های مجازی سیتریکس](https://en.wikipedia.org/wiki/Citrix_Virtual_Apps)
 
 

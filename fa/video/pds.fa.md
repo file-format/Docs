@@ -80,6 +80,6 @@ PowerDirector به دلیل سرعت رندر سریع خود به دلیل مو
 - **محل فایل AVI را پیدا کنید:** پس از اتمام تبدیل، به پوشه خروجی که قبلا مشخص کرده اید بروید. باید فایل AVI تبدیل شده را در آنجا بیابید و آماده استفاده است.
   
 ## منابع
-* [PowerDirector] (https://en.wikipedia.org/wiki/PowerDirector)
+* [PowerDirector](https://en.wikipedia.org/wiki/PowerDirector)
 
 

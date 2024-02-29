@@ -83,6 +83,6 @@ XSL-FO 1.1 دارای ویژگی هایی است که از طریق ارجاع �
 
 * [XSL-FO چیست؟](https://www.xml.com/articles/2017/01/01/what-is-xsl-fo/)
 
-* [اشیاء قالب‌بندی XSL] (https://en.wikipedia.org/wiki/XSL_Formatting_Objects)
+* [اشیاء قالب‌بندی XSL](https://en.wikipedia.org/wiki/XSL_Formatting_Objects)
 
 

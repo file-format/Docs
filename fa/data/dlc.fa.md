@@ -37,6 +37,6 @@ JDownloader یک برنامه مدیریت دانلود مبتنی بر جاوا
 JDownloader یک دانلودر رایگان و منبع باز DLC است که دانلود را آسان و سریع می کند. کاربران می‌توانند دانلودها را شروع، متوقف یا متوقف کنند، محدودیت‌های پهنای باند را تعیین کنند، بایگانی‌ها را استخراج کنند و موارد دیگر.
 
 ## منابع
-* [JDownloader] (https://en.wikipedia.org/wiki/JDownloader)
+* [JDownloader](https://en.wikipedia.org/wiki/JDownloader)
 
 

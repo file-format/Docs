@@ -74,6 +74,6 @@ SWF 8 و نسخه های بعدی از سه نوع اعداد ممیز شناو�
 
 ## منابع
 
-* [فرمت فایل SWF] (https://en.wikipedia.org/wiki/Swf)
+* [فرمت فایل SWF](https://en.wikipedia.org/wiki/Swf)
 
 

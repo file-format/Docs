@@ -42,6 +42,6 @@ IconPackager یک برنامه نرم افزاری است که توسط Stardock
 - **Stardock IconPackager** (آزمایشی رایگان) برای ویندوز
 
 ## منابع
-* [IconPackager] (https://www.stardock.com/products/iconpackager/)
+* [IconPackager](https://www.stardock.com/products/iconpackager/)
 
 

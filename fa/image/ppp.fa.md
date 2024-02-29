@@ -33,6 +33,6 @@
 
 ## منابع ##
 
-* [نرم افزار ویرایش عکس PhotoPad] (https://www.nchsoftware.com/photoeditor/index.html)
+* [نرم افزار ویرایش عکس PhotoPad](https://www.nchsoftware.com/photoeditor/index.html)
 
 

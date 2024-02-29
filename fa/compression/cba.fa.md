@@ -71,6 +71,6 @@ tar -cf comicbook.cbt page1.jpg page2.jpg page3.jpg
 فرمت TAR ساختار فایل، مجوزهای فایل و مُهرهای زمانی فایل‌های موجود را حفظ می‌کند. این فایل ها را به صورت متوالی در بایگانی ذخیره می کند و امکان استخراج آسان فایل های فردی یا کل آرشیو را فراهم می کند.
 
 ## منابع
-* [آرشیو کتاب کمیک] (https://en.wikipedia.org/wiki/Comic_book_archive)
+* [آرشیو کتاب کمیک](https://en.wikipedia.org/wiki/Comic_book_archive)
 
 

@@ -36,7 +36,7 @@
 
 ## منابع
 
-* [Alpha Anywhere] (https://www.alphasoftware.com/)
+* [Alpha Anywhere](https://www.alphasoftware.com/)
 
 * [Alpha Anywhere - OneHourApp](https://github.com/alphaanywhere/OneHourApp)
 

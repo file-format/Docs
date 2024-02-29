@@ -70,7 +70,7 @@
 
 ## منابع
 
-* [Safe Software FME Desktop] (https://www.safe.com/fme/fme-desktop/)
+* [Safe Software FME Desktop](https://www.safe.com/fme/fme-desktop/)
 
 * [FMW Quick Facts](https://docs.safe.com/fme/html/FME_Desktop_Documentation/FME_ReadersWriters/fmw/quick_facts_fmw.htm)
 

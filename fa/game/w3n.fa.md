@@ -49,8 +49,8 @@
 
 ## منابع
 
-* [Warcraft III: The Frozen Throne] (https://en.wikipedia.org/wiki/Warcraft_III:_The_Frozen_Throne)
+* [Warcraft III: The Frozen Throne](https://en.wikipedia.org/wiki/Warcraft_III:_The_Frozen_Throne)
 
-* [بازبینی Warcraft III: The Frozen Throne] (https://web.archive.org/web/20110719200624/http://www.gamespot.com/pc/strategy/warcraft3thefrozenthrone/review.html)
+* [بازبینی Warcraft III: The Frozen Throne](https://web.archive.org/web/20110719200624/http://www.gamespot.com/pc/strategy/warcraft3thefrozenthrone/review.html)
 
 

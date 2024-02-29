@@ -53,6 +53,6 @@
  
 ## منابع ##
 
-* [فایل فعالیت FIT] (https://developer.garmin.com/fit/file-types/activity/)
+* [فایل فعالیت FIT](https://developer.garmin.com/fit/file-types/activity/)
 
 

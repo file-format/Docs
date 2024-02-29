@@ -67,6 +67,6 @@
 - **MultiPatch** (برای چندین پلتفرم)
 
 ## منابع
-* [Lunar IPS] (https://www.romhacking.net/utilities/240/)
+* [Lunar IPS](https://www.romhacking.net/utilities/240/)
 
 

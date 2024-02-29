@@ -25,6 +25,6 @@
 
 * [PCX - توسط Wikipedia](https://en.wikipedia.org/wiki/PCX)
 
-* [راهنمای مرجع فنی فرمت فایل ZSoft PCX] (http://qzx.com/pc-gpe/pcx.txt)
+* [راهنمای مرجع فنی فرمت فایل ZSoft PCX](http://qzx.com/pc-gpe/pcx.txt)
 
 

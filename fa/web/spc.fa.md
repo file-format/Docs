@@ -26,6 +26,6 @@ lastmod: 2021-09-30
 
 * [PKCS 7](https://en.wikipedia.org/wiki/PKCS_7)
 
-* [مرجع SSP] (https://scalate.github.io/scalate/documentation/ssp-reference.html)
+* [مرجع SSP](https://scalate.github.io/scalate/documentation/ssp-reference.html)
 
 

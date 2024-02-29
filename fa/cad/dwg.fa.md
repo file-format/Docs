@@ -73,7 +73,7 @@ DWG یکی از فرمت های فایلی است که به طور گسترده 
 
 * [مشخصات فرمت فایل DWG](https://www.opendesign.com/files/guestdownloads/OpenDesign_Specification_for_.dwg_files.pdf)
 
-* [مشخصات فایل DWG] (https://www.scan2cad.com/blog/dwg/file-spec/)
+* [مشخصات فایل DWG](https://www.scan2cad.com/blog/dwg/file-spec/)
 
 * [DWG - توسط ویکی‌پدیا](https://en.wikipedia.org/wiki/.dwg)
 

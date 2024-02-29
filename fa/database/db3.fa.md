@@ -45,6 +45,6 @@ Commonly SQLite, version 3 related db file format can be considered as the DB3 f
 
 * [SQLite - Wikipedia](https://en.wikipedia.org/wiki/SQLite)
 
-* [SQLite، نسخه 3] (https://www.loc.gov/preservation/digital/formats/fdd/fdd000461.shtml)
+* [SQLite، نسخه 3](https://www.loc.gov/preservation/digital/formats/fdd/fdd000461.shtml)
 
 

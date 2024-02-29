@@ -36,6 +36,6 @@ FL Studio برای ژانرهای مختلف موسیقی از جمله الکت
 - **Image-Line FL Studio** (آزمایشی رایگان) برای (ویندوز)
 
 ## منابع
-* [FL Studio] (https://en.wikipedia.org/wiki/FL_Studio)
+* [FL Studio](https://en.wikipedia.org/wiki/FL_Studio)
 
 

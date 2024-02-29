@@ -29,6 +29,6 @@
 
 ## ارجاع ##
 
-* [اسناد پنج آلفا] (https://documentation.alphasoftware.com/)
+* [اسناد پنج آلفا](https://documentation.alphasoftware.com/)
 
 

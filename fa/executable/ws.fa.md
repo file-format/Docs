@@ -63,6 +63,6 @@ Windows Script Host (WSH) یک میزبان اسکریپت است که توسط 
 لطفاً توجه داشته باشید که اگر می‌خواهید اسکریپت را در فایل WS اجرا کنید، می‌توانید به سادگی روی آن دوبار کلیک کنید یا از دستور wscript در خط فرمان استفاده کنید.
 
 ## منابع
-* [میزبان اسکریپت ویندوز] (https://en.wikipedia.org/wiki/Windows_Script_Host)
+* [میزبان اسکریپت ویندوز](https://en.wikipedia.org/wiki/Windows_Script_Host)
 
 

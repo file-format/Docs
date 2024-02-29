@@ -48,6 +48,6 @@
 - Grand Theft Auto V
 
 ## منابع
-* [Grand Theft Auto] (https://en.wikipedia.org/wiki/Grand_Theft_Auto)
+* [Grand Theft Auto](https://en.wikipedia.org/wiki/Grand_Theft_Auto)
 
 

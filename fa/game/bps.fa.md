@@ -77,6 +77,6 @@ MultiPatch ابزار دیگری است که معمولاً در جامعه هک
 - [BPS - Microsoft Works Document Backup](/misc/bps-works/)
 
 ## منابع
-* [IPS شناور] (https://www.gamebrew.org/wiki/Floating_IPS)
+* [IPS شناور](https://www.gamebrew.org/wiki/Floating_IPS)
 
 

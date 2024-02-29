@@ -35,8 +35,8 @@
 
 ## منابع
 
-* [اسناد اسکالا] (https://www.scala-lang.org/documentation/)
+* [اسناد اسکالا](https://www.scala-lang.org/documentation/)
 
-* [Scala] (https://www.scala-lang.org/)
+* [Scala](https://www.scala-lang.org/)
 
 

@@ -58,6 +58,6 @@
 
 * [DEB - Wikipedia](https://en.wikipedia.org/wiki/Deb_(file_format))
 
-* [قالب بسته باینری دبیان] (https://manpages.debian.org/buster/dpkg-dev/deb.5.en.html)
+* [قالب بسته باینری دبیان](https://manpages.debian.org/buster/dpkg-dev/deb.5.en.html)
 
 

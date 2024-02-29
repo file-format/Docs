@@ -78,8 +78,8 @@ INSERT INTO STATS VALUES (88, 7, 65.8, 4.52);
 
 ## منابع ##
 
-* [SQL توسط Wikipedia] (https://en.wikipedia.org/wiki/SQL)
+* [SQL توسط Wikipedia](https://en.wikipedia.org/wiki/SQL)
 
-* [SQL Syntax] (https://en.wikipedia.org/wiki/SQL_syntax)
+* [SQL Syntax](https://en.wikipedia.org/wiki/SQL_syntax)
 
 

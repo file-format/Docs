@@ -57,6 +57,6 @@ The SBV format is commonly used for storing subtitles for videos.
 فایل های SBV فایل های متنی هستند، بنابراین می توانید آن را با استفاده از هر ویرایشگر متنی مانند Notepad یا Notepad++ باز کنید
 
 ## منابع
-* [SubViewer] (https://wiki.videolan.org/SubViewer/)
+* [SubViewer](https://wiki.videolan.org/SubViewer/)
 
 

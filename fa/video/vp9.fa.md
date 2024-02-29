@@ -59,5 +59,5 @@ Google has developed the VP9 codec as a royalty-free, open-source video coding s
 
  * [VP9 ویکی‌پدیا](https://en.wikipedia.org/wiki/VP9)
  * [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Video_codecs#vp9)
- * [نارگیل] (https://www.coconut.co/)
+ * [نارگیل](https://www.coconut.co/)
 

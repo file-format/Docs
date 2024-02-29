@@ -51,6 +51,6 @@
 
 * [TCR - توسط MobileRead](https://wiki.mobileread.com/wiki/TCR)
 
-* [خواننده فایل متنی فشرده ZVR] (https://iay.org.uk/zvr/)
+* [خواننده فایل متنی فشرده ZVR](https://iay.org.uk/zvr/)
 
 

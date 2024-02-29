@@ -69,6 +69,6 @@ PDF/A-3 شامل تمام الزامات انطباق سطح 2 است و امک�
 
 * [PDF/A - توسط ویکی پدیا](https://en.wikipedia.org/wiki/PDF/A)
 
-* [White Paper: PDF/A – The Basics] (https://www.pdf-tools.com/public/downloads/whitepapers/whitepaper-pdfa.pdf)
+* [White Paper: PDF/A – The Basics](https://www.pdf-tools.com/public/downloads/whitepapers/whitepaper-pdfa.pdf)
 
 

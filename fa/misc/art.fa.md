@@ -37,7 +37,7 @@ An ART file is an embroidery design file created with the [BERNINA](https://www.
 
 ## منابع
 
-* [BERNINA] (https://www.bernina.com/en-US/Home-United-States)
+* [BERNINA](https://www.bernina.com/en-US/Home-United-States)
 
 * [برنینا Embroidery Software V8: درباره فرمت‌ها، پسوندها و فایل‌ها](https://blog.bernina.com/fa/2019/07/lesson-14-bernina-embroidery-software-v8/)
 

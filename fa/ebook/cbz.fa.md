@@ -46,8 +46,8 @@
 
 ## منابع
 
-* [آرشیو کتاب کمیک] (https://en.wikipedia.org/wiki/Comic_book_archive)
+* [آرشیو کتاب کمیک](https://en.wikipedia.org/wiki/Comic_book_archive)
 
-* [کالیبر] (https://calibre-ebook.com/)
+* [کالیبر](https://calibre-ebook.com/)
 
 

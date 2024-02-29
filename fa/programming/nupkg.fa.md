@@ -27,7 +27,7 @@
 
 ## ارجاع
 
-* [Nuget.org] (https://nuget.org)
+* [Nuget.org](https://nuget.org)
 
 * [Quickstart: نصب و استفاده از یک بسته در Visual Studio (فقط ویندوز)](https://learn.microsoft.com/en-us/nuget/quickstart/install-and-use-a-package-in-visual- استودیو)
 

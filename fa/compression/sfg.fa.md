@@ -27,6 +27,6 @@
 
 ## منابع
 
- * [Synfig Studio] (https://www.synfig.org/)
+ * [Synfig Studio](https://www.synfig.org/)
  * [Synfig Documentation](https://synfig.readthedocs.io/en/latest/index.html)
 

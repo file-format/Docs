@@ -118,6 +118,6 @@ The EMF file format has been revised twice. The changed versions are original, e
 
 * [فراتفایل با فرمت پیشرفته | Microsoft Docs](https://learn.microsoft.com/en-us/windows/desktop/gdi/enhanced-format-metafiles)
 
-* [فرمت و مشخصات متافایل پیشرفته] (https://msdn.microsoft.com/en-us/library/cc230514.aspx)
+* [فرمت و مشخصات متافایل پیشرفته](https://msdn.microsoft.com/en-us/library/cc230514.aspx)
 
 

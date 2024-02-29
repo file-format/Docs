@@ -58,6 +58,6 @@ Alpha Five یک سیستم مدیریت پایگاه داده رابطه ای ک
 - [FPT - FileMaker Pro Database Memo File](/database/fpt/)
 
 ## منابع
-* [Alpha Anywhere] (https://www.alphasoftware.com/mobile-app-development-platform)
+* [Alpha Anywhere](https://www.alphasoftware.com/mobile-app-development-platform)
 
 

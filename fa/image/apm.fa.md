@@ -61,6 +61,6 @@
 برای تبدیل فایل APM به یکی از این فرمت‌ها، باید از ابزار تبدیل فایل یا نرم‌افزار گرافیکی استفاده کنید که از فرمت APM پشتیبانی می‌کند و می‌تواند به فرمت مورد نظر صادر کند.
 
 ## منابع
-* [قالب متافایل قابل جایگذاری Aldus] (https://ftp.zx.net.nz/pub/archive/ftp.microsoft.com/MISC/KB/en-us/129/658.HTM)
+* [قالب متافایل قابل جایگذاری Aldus](https://ftp.zx.net.nz/pub/archive/ftp.microsoft.com/MISC/KB/en-us/129/658.HTM)
 
 

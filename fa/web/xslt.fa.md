@@ -75,6 +75,6 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 
 * [XSLT - توسط ویکی‌پدیا](https://en.wikipedia.org/wiki/XSLT)
 
-* [عناصر XSLT] (https://en.wikipedia.org/wiki/XSLT_elements)
+* [عناصر XSLT](https://en.wikipedia.org/wiki/XSLT_elements)
 
 

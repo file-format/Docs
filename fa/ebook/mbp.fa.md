@@ -36,8 +36,8 @@
 
 ## منابع
 
-* [MBP Reader] (https://www.angelfire.com/ego2/idleloop/mbp_reader.html)
+* [MBP Reader](https://www.angelfire.com/ego2/idleloop/mbp_reader.html)
 
-* [فرمت‌های فایل Mobipocket] (https://www.loc.gov/preservation/digital/formats/fdd/fdd000472.shtml)
+* [فرمت‌های فایل Mobipocket](https://www.loc.gov/preservation/digital/formats/fdd/fdd000472.shtml)
 
 

@@ -27,6 +27,6 @@
 
 ## منابع
 
-* [Game Maker] (https://gamemaker.io/en)
+* [Game Maker](https://gamemaker.io/en)
 
 

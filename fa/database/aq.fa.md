@@ -36,6 +36,6 @@
 
 ## منابع
 
-* [جستجوی اجدادی] (https://www.ancquest.com/index.htm)
+* [جستجوی اجدادی](https://www.ancquest.com/index.htm)
 
 

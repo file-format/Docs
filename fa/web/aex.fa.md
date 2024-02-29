@@ -34,7 +34,7 @@
 
 ## منابع
 
- * [آلفا پنج] (https://www.alphasoftware.com/)
+ * [آلفا پنج](https://www.alphasoftware.com/)
  * [اسناد پنج آلفا](https://documentation.alphasoftware.com/documentation/pages/index.html)
- * [راهنمای Xbasic] (https://documentation.alphasoftware.com/pages/Guides/Xbasic/index.xml)
+ * [راهنمای Xbasic](https://documentation.alphasoftware.com/pages/Guides/Xbasic/index.xml)
 

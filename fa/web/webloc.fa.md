@@ -27,6 +27,6 @@
 
 ## منابع
 
-* [WEBLOC Opener] (https://github.com/benchdoos/WeblocOpener)
+* [WEBLOC Opener](https://github.com/benchdoos/WeblocOpener)
 
 

@@ -27,5 +27,5 @@
 
 ## منابع
 
- * [Linux Mint] (https://linuxmint.com/)
+ * [Linux Mint](https://linuxmint.com/)
 

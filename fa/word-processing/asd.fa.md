@@ -39,6 +39,6 @@
 
 ## منابع
 
-* [بازیابی سند Microsoft Word] (https://learn.microsoft.com/en-us/office/troubleshoot/word/recover-lost-unsaved-corrupted-document)
+* [بازیابی سند Microsoft Word](https://learn.microsoft.com/en-us/office/troubleshoot/word/recover-lost-unsaved-corrupted-document)
 
 

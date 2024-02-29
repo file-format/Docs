@@ -52,6 +52,6 @@ The internal file format of the MGX file have been worked out and available as p
 
 ## منابع
 
-* [عصر امپراتوری 2: فاتحان - مشخصات فرمت فایل Savegame] (https://github.com/stefan-kolb/aoc-mgx-format)
+* [عصر امپراتوری 2: فاتحان - مشخصات فرمت فایل Savegame](https://github.com/stefan-kolb/aoc-mgx-format)
 
 

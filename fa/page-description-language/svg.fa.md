@@ -108,7 +108,7 @@ SVG دارای برخی از عناصر شکل از پیش تعریف شده ا�
 
 ## منابع ##
 
-* [مشخصات W3C SVG] (https://www.w3.org/TR/SVG2/Overview.html)
+* [مشخصات W3C SVG](https://www.w3.org/TR/SVG2/Overview.html)
 
 * [SVG - Wikipedia](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics)
 

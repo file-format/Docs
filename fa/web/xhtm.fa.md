@@ -43,6 +43,6 @@ An file with .xhtm extension is a webpage file that is written in XHTML. It uses
 
 ## منابع ##
 
-* [تاریخچه XHTML: از دهه 1990 تا امروز] (https://www.brighthub.com/internet/web-development/articles/109224.aspx)
+* [تاریخچه XHTML: از دهه 1990 تا امروز](https://www.brighthub.com/internet/web-development/articles/109224.aspx)
 
 

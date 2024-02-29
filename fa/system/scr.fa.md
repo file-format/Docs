@@ -77,9 +77,9 @@ class MyCoolScreensaver : Screensaver
 
 ## منابع 
 
-* [Screensaver] (https://en.wikipedia.org/wiki/Screensaver)
+* [Screensaver](https://en.wikipedia.org/wiki/Screensaver)
 
-* [یک محافظ صفحه بنویسید که واقعاً کار کند] (https://www.codeproject.com/Articles/14081/Write-a-Screensaver-that-Actually-Works)
+* [یک محافظ صفحه بنویسید که واقعاً کار کند](https://www.codeproject.com/Articles/14081/Write-a-Screensaver-that-Actually-Works)
 
 
 

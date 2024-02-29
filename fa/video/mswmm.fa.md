@@ -58,6 +58,6 @@ MSWMM (پروژه سازنده فیلم) یک فرمت فایل است که تو
 لطفاً توجه داشته باشید که یک فایل MSWMM یک فایل ویدیویی نیست، بلکه یک فایل پروژه است که حاوی اطلاعاتی درباره ترتیب کلیپ‌های ویدیویی، عکس‌ها و آهنگ‌های صوتی در یک پروژه سینمایی است. شما باید از Windows Movie Maker برای ویرایش پروژه استفاده کنید و آن را به صورت فرمت فایل ویدیویی مانند WMV یا MP4 صادر کنید تا در پخش کننده های رسانه پخش شود.
 
 ## منابع
-* [Windows Movie Maker] (https://en.wikipedia.org/wiki/Windows_Movie_Maker)
+* [Windows Movie Maker](https://en.wikipedia.org/wiki/Windows_Movie_Maker)
 
 

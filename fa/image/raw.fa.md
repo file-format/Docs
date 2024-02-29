@@ -64,6 +64,6 @@
 فرمت فایل RAW باینری است.
 
 ## منابع
-* [قالب تصویر خام] (https://en.wikipedia.org/wiki/Raw_image_format)
+* [قالب تصویر خام](https://en.wikipedia.org/wiki/Raw_image_format)
 
 

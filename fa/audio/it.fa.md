@@ -55,6 +55,6 @@ OpenMPT و Schism Tracker نمونه هایی از برنامه هایی هست�
 - [FLAC](/audio/flac/) - فایل کدک صوتی بدون اتلاف رایگان
 
 ## منابع
-* [Impulse Tracker] (https://en.wikipedia.org/wiki/Impulse_Tracker)
+* [Impulse Tracker](https://en.wikipedia.org/wiki/Impulse_Tracker)
 
 

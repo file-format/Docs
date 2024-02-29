@@ -32,7 +32,7 @@
 
 ## منابع
 
-* [OriginLab] (https://www.originlab.com/)
+* [OriginLab](https://www.originlab.com/)
 
 * [API Python برای OriginLab](https://github.com/jsbangsund/python_to_originlab)
 

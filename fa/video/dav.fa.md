@@ -39,6 +39,6 @@ DAV files are stored to disc in encrypted binary file format. Encryption prevent
 
 ## منابع ##
 
- * [تکنولوژی داهوا] (https://www.dahuasecurity.com/)
+ * [تکنولوژی داهوا](https://www.dahuasecurity.com/)
  * [ادغام دستیار خانگی داهوا](https://github.com/rroller/dahua)
 

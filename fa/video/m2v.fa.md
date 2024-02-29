@@ -95,6 +95,6 @@ M2V files, as MPEG-2 video streams, are related to several other multimedia form
 - مدیا پلیر کلاسیک (ویندوز)
 
 ## منابع
-* [فرمت فایل ویدیویی] (https://en.wikipedia.org/wiki/Video_file_format)
+* [فرمت فایل ویدیویی](https://en.wikipedia.org/wiki/Video_file_format)
 
 

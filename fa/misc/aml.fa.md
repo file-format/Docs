@@ -42,6 +42,6 @@ AML از مدل سازی داده های شی گرا مبتنی بر [XML](/web/
 
 * [AutomationML - Wikipedia](https://en.wikipedia.org/wiki/AutomationML)
 
-* [مشخصات AutomationML] (https://www.automationml.org/about-automationml/specifications/)
+* [مشخصات AutomationML](https://www.automationml.org/about-automationml/specifications/)
 
 

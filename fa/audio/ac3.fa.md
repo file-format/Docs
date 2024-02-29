@@ -85,6 +85,6 @@ AC3 files are binary in nature and based on the Modified Discrete Cosine Transfo
 
 * [AC3 - توسط Wikiepedia](https://en.wikipedia.org/wiki/Dolby_Digital)
 
-* [Dolby Digital 5.1] (https://professional.dolby.com/tv/dolby-digital)
+* [Dolby Digital 5.1](https://professional.dolby.com/tv/dolby-digital)
 
 

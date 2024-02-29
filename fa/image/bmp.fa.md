@@ -102,6 +102,6 @@ Bitmaps مستقل از دستگاه به عنوان کمکی برای تباد�
 ## منابع ##
 
 * [Windows MetaFile Format](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-wmf/4813e7fd-52d0-4f42-965f-228c8b7488d2)
-* [فرمت فایل BMP] (https://en.wikipedia.org/wiki/BMP_file_format)
+* [فرمت فایل BMP](https://en.wikipedia.org/wiki/BMP_file_format)
 
 

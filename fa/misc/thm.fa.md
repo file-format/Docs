@@ -34,6 +34,6 @@ A THM file contains an XML file, several image file sin [.png](/image/png/), [.p
 
 ## منابع
 
-* [راهنمای برنامه‌نویس ایجاد تم سونی] (https://developer.sony.com/theme-creator/get-started)
+* [راهنمای برنامه‌نویس ایجاد تم سونی](https://developer.sony.com/theme-creator/get-started)
 
 

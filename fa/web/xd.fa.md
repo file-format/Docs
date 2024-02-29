@@ -39,6 +39,6 @@
 
 ## منابع
 
-* [راهنمای کاربر Adobe XD] (https://helpx.adobe.com/xd/user-guide.html)
+* [راهنمای کاربر Adobe XD](https://helpx.adobe.com/xd/user-guide.html)
 
 

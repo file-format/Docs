@@ -70,6 +70,6 @@
 - **Ticket:** The NSP file may include a ticket, which is a digital certificate that verifies legitimacy of content and authorizes its installation on Nintendo Switch console.
 
 ## منابع
-* [نینتندو سوییچ] (https://en.wikipedia.org/wiki/Nintendo_Switch)
+* [نینتندو سوییچ](https://en.wikipedia.org/wiki/Nintendo_Switch)
 
 

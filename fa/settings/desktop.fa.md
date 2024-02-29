@@ -102,6 +102,6 @@ Exec=mytexteditor %U
 - **نظرات:** می توانید نظرات را در فایل دسکتاپ. با استفاده از نماد '#' اضافه کنید. هر چیزی که به دنبال «#» در خط باشد، یک نظر محسوب می شود و نادیده گرفته می شود.
 
 ## منابع
-* [فایل های ورودی دسکتاپ] (https://www.baeldung.com/linux/desktop-entry-files)
+* [فایل های ورودی دسکتاپ](https://www.baeldung.com/linux/desktop-entry-files)
 
 

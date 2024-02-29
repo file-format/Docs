@@ -56,7 +56,7 @@ id در تگ با رجیستری شی برای JavaBean مرتبط است.
 ## منابع
 
 * [Object-Oriented Messaging with XML](https://docs.oracle.com/cd/A87860_01/doc/appdev.817/a86030/adx16nt5.htm)
-* [زبان نشانه گذاری فیزیکی] (http://web.mit.edu/mecheng/pml/standards.htm)
+* [زبان نشانه گذاری فیزیکی](http://web.mit.edu/mecheng/pml/standards.htm)
 
 
 

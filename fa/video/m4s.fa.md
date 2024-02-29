@@ -43,7 +43,7 @@ API های منبع باز موجود هستند که می توانند برای
 
 ## منابع ###
 
-* [فرمت فایل رسانه پایه ISO (ISOBMFF)] (https://www.w3.org/TR/mse-byte-stream-format-isobmff/)
+* [فرمت فایل رسانه پایه ISO (ISOBMFF)](https://www.w3.org/TR/mse-byte-stream-format-isobmff/)
 
 * [جریان‌سازی تطبیقی پویا از طریق HTTP - MPEG-DASH](https://en.wikipedia.org/wiki/Dynamic_Adaptive_Streaming_over_HTTP)
 

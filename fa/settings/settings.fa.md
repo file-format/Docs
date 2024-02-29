@@ -41,6 +41,6 @@ The .settings file consists of several sections each containing one or more sett
 علاوه بر فایل تنظیمات پیش فرض، توسعه دهندگان همچنین می توانند فایل های تنظیمات سفارشی را برای پروژه های خود ایجاد کنند. این فایل‌ها را می‌توان برای ذخیره داده‌های پیکربندی اضافی که مخصوص کاربردشان است، مانند رشته‌های اتصال، کلیدهای API یا سایر داده‌های حساس استفاده کرد. برای محافظت از این داده‌ها، توسعه‌دهندگان می‌توانند فایل‌های تنظیمات سفارشی را با استفاده از Data Protection API (DPAPI) رمزگذاری کنند، که تضمین می‌کند که داده‌ها حتی در صورت به خطر افتادن فایل، ایمن هستند.
 
 ## منابع
-* [Visual Studio] (https://en.wikipedia.org/wiki/Visual_Studio)
+* [Visual Studio](https://en.wikipedia.org/wiki/Visual_Studio)
 
 

@@ -99,6 +99,6 @@ Designed by Apply Computer, Inc in 1980s for MacOS, the TTF font format was aime
 
 
 ## منابع
- * [راهنمای مرجع فونت TrueType] (https://developer.apple.com/fonts/TrueType-Reference-Manual/)
- * [نمایش اجمالی TrueType] (https://learn.microsoft.com/en-us/typography/truetype/)
+ * [راهنمای مرجع فونت TrueType](https://developer.apple.com/fonts/TrueType-Reference-Manual/)
+ * [نمایش اجمالی TrueType](https://learn.microsoft.com/en-us/typography/truetype/)
 

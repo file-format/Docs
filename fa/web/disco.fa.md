@@ -29,7 +29,7 @@ A DISCO file is a Microsoft Discovery file format that is used for publishing an
 
 * [DISCO](https://appsource.microsoft.com/en-us/product/office/WA104381894)
 
-* [کشف خدمات وب] (https://en.wikipedia.org/wiki/Web_Services_Discovery)
+* [کشف خدمات وب](https://en.wikipedia.org/wiki/Web_Services_Discovery)
 
 * [C# Example of DiscoveryClient Class](https://learn.microsoft.com/en-us/dotnet/api/system.web.services.discovery.discoveryclientprotocol?view=netframework-4.8)
 

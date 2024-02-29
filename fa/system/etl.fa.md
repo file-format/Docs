@@ -43,8 +43,8 @@
 
 ## منابع
 
-* [تحلیل کننده عملکرد ویندوز] (https://learn.microsoft.com/en-us/windows-hardware/test/wpt/getting-started--windows-performance-analyzer--wpa-)
+* [تحلیل کننده عملکرد ویندوز](https://learn.microsoft.com/en-us/windows-hardware/test/wpt/getting-started--windows-performance-analyzer--wpa-)
 
-* [راهنمای شروع سریع WPA] (https://learn.microsoft.com/en-us/windows-hardware/test/wpt/wpa-quick-start-guide)
+* [راهنمای شروع سریع WPA](https://learn.microsoft.com/en-us/windows-hardware/test/wpt/wpa-quick-start-guide)
 
 

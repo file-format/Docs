@@ -29,5 +29,5 @@ Terragen Classic به خاطر قابلیت هایش در ایجاد مناظر 
 
 ## منابع
 
- * [نرم افزار PlanetSide] (https://planetside.co.uk/)
+ * [نرم افزار PlanetSide](https://planetside.co.uk/)
 

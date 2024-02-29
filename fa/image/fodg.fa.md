@@ -42,6 +42,6 @@ FODG is based on the OpenDocument's XML file format that conforms to OASIS OpenD
 
 ## منابع ##
  * [Future Specifications for v 1.3 Standardization ](https://docs.oasis-open.org/office/OpenDocument/v1.3/cs01/OpenDocument-v1.3-cs01.zip)
- * [فرمت سند باز OASIS برای برنامه های اداری] (https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=office)
+ * [فرمت سند باز OASIS برای برنامه های اداری](https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=office)
  * [فرمت OpenDocument - Wikipedia](https://en.wikipedia.org/wiki/OpenDocument)
 

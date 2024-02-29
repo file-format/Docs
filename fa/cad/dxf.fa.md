@@ -55,6 +55,6 @@ The history of DXF file format dates back to 1982 when it was introduced as part
 ## منابع ##
 
 * [DXF File Specifications](http://images.autodesk.com/adsk/files/autocad_2012_pdf_dxf-reference_enu.pdf)
-* [AutoCAD DXF توسط Wikipedia] (https://en.wikipedia.org/wiki/AutoCAD_DXF)
+* [AutoCAD DXF توسط Wikipedia](https://en.wikipedia.org/wiki/AutoCAD_DXF)
 
 

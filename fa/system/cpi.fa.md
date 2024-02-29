@@ -72,6 +72,6 @@
 - [CPI - Codepage Information File](/system/cpi/)
 
 ## منابع
-* [صفحه کد] (https://en.wikipedia.org/wiki/Code_page)
+* [صفحه کد](https://en.wikipedia.org/wiki/Code_page)
 
 

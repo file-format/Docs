@@ -29,6 +29,6 @@ Adobe GoLive متوقف شده است و دیگر پشتیبانی نمی شود
 
 ## منابع
 
-* [Server Side Includes] (https://en.wikipedia.org/wiki/Server_Side_Includes)
+* [Server Side Includes](https://en.wikipedia.org/wiki/Server_Side_Includes)
 
 

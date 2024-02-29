@@ -80,7 +80,7 @@ forall (colour in [array "red", "green", "blue"])
 
 ## ارجاع ##
 
-* [زبان برنامه نویسی ICI] (http://atrn.org/ici/doc/ici.html)
+* [زبان برنامه نویسی ICI](http://atrn.org/ici/doc/ici.html)
 
 
 

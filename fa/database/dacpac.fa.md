@@ -62,7 +62,7 @@ xmlns=http://schemas.openxmlformats.org/package/2006/content-types>
 
 ## منابع
 
-* [برنامه های ردیف داده - مزایا] (https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/data-tier-applications)
+* [برنامه های ردیف داده - مزایا](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/data-tier-applications)
 
 * [استقرار یک برنامه ردیف داده - مایکروسافت](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/deploy-a-data-tier-application)
 

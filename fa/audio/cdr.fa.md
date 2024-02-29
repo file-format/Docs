@@ -91,6 +91,6 @@
 - [CDR - Vector Drawing Image File](/image/cdr/)
 
 ## منابع
-* [کپی صوتی دقیق] (https://en.wikipedia.org/wiki/Exact_Audio_Copy)
+* [کپی صوتی دقیق](https://en.wikipedia.org/wiki/Exact_Audio_Copy)
 
 

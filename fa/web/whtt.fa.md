@@ -27,6 +27,6 @@
 
 ## منابع
 
-* [HTTrack Website Copier] (https://www.httrack.com/)
+* [HTTrack Website Copier](https://www.httrack.com/)
 
 

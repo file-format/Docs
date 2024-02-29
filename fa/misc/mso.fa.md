@@ -31,7 +31,7 @@ The internal file format structure of MSO file format is well-defined in the [St
 
 ## منابع
 
-* [COM Structured Storage] (https://en.wikipedia.org/wiki/COM_Structured_Storage)
+* [COM Structured Storage](https://en.wikipedia.org/wiki/COM_Structured_Storage)
 
 * [Microsoft Compound Document File Format (MCDF)](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-cfb/53989ce4-7b05-4f8d-829b-d08d6148375b)
 

@@ -54,6 +54,6 @@ Apple Inc. توسعه دهنده و بازاریاب پخش کننده رسان�
 - **Apple TV** همراه با سیستم عامل (MAC، iOS)
 
 ## منابع
-* [Apple TV] (https://en.wikipedia.org/wiki/Apple_TV)
+* [Apple TV](https://en.wikipedia.org/wiki/Apple_TV)
 
 

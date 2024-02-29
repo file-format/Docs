@@ -35,6 +35,6 @@ GZIP از الگوریتم [DEFLATE](https://en.wikipedia.org/wiki/DEFLATE) بر
 
 * [RFC1952: مشخصات فرمت فایل GZIP](https://datatracker.ietf.org/doc/html/rfc1952)، توسط IETF
 
-* [RFC 1951] (https://tools.ietf.org/html/rfc1951)
+* [RFC 1951](https://tools.ietf.org/html/rfc1951)
 
 

@@ -56,6 +56,6 @@
 
 ## منابع
 
-* [فرمت فایل MobiPocket] (https://www.loc.gov/preservation/digital/formats/fdd/fdd000472.shtml)
+* [فرمت فایل MobiPocket](https://www.loc.gov/preservation/digital/formats/fdd/fdd000472.shtml)
 
 

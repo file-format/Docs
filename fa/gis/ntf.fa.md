@@ -61,7 +61,7 @@ The NTF file format is owned by Ordnance Survey in the United Kingdom; supported
 
 ## منابع
 
-* [فرمت انتقال ملی بریتانیا (NTF)] (https://catalyst.earth/catalyst-system-files/help/references/gdb_r/gdb3N292.html)
+* [فرمت انتقال ملی بریتانیا (NTF)](https://catalyst.earth/catalyst-system-files/help/references/gdb_r/gdb3N292.html)
 
 * [نقشه برداری وب - تصویر شده توسط تایلر میچل](https://www.oreilly.com/library/view/web-mapping-illustrated/0596008651/re15.html)
 

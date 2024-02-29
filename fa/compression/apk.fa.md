@@ -81,6 +81,6 @@
 
 ## منابع
 
-* [فرمت فایل APK] (https://en.wikipedia.org/wiki/Android_application_package)
+* [فرمت فایل APK](https://en.wikipedia.org/wiki/Android_application_package)
 
 

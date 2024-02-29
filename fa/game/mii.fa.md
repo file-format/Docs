@@ -47,7 +47,7 @@
 
 ## منابع
 
-* [ویرایشگر آواتار من] (https://rc24.xyz/goodies/mii/)
+* [ویرایشگر آواتار من](https://rc24.xyz/goodies/mii/)
 
 * [Wii Brew](https://wiibrew.org/wiki/Mii_data)
 

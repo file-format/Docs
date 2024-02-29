@@ -46,6 +46,6 @@ Minecraft از چندین زبان پشتیبانی می کند و بازی به
 همچنین می‌توانید فایل .lang را روی نماد ویرایشگر متن خود بکشید و رها کنید یا در پنجره باز ویرایشگر متن برای باز کردن آن.
 
 ## منابع
-* [Minecraft] (https://en.wikipedia.org/wiki/Minecraft)
+* [Minecraft](https://en.wikipedia.org/wiki/Minecraft)
 
 

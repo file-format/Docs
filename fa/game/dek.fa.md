@@ -37,6 +37,6 @@
 
 ## منابع
 
-* [Magic: The Gathering Formats] (https://en.wikipedia.org/wiki/Magic:_The_Gathering_formats)
+* [Magic: The Gathering Formats](https://en.wikipedia.org/wiki/Magic:_The_Gathering_formats)
 
 

@@ -47,6 +47,6 @@
 همچنین می توانید از گزینه File -> Open Database برای باز کردن یک فایل .epim موجود از مکان دیگری در رایانه یا دستگاه خود استفاده کنید.
 
 ## منابع
-* [نرم افزار EssentialPIM] (https://www.essentialpim.com/features)
+* [نرم افزار EssentialPIM](https://www.essentialpim.com/features)
 
 

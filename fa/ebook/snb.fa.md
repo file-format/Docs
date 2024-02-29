@@ -44,7 +44,7 @@
 
 ## منابع
 
-* [تلفن های سامسونگ گلکسی نوت] (https://www.samsung.com/us/mobile/phones/galaxy-note/)
+* [تلفن های سامسونگ گلکسی نوت](https://www.samsung.com/us/mobile/phones/galaxy-note/)
 
 
 

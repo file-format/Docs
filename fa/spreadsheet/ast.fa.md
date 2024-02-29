@@ -37,6 +37,6 @@ AST files are saved to disc as binary files and can be opened in Ability Spreads
 
 * [Ability Office - Wikipedia](https://en.wikipedia.org/wiki/Ability_Office)
 
-* [Ability Office] (https://www.ability.com/en/home/home)
+* [Ability Office](https://www.ability.com/en/home/home)
 
 

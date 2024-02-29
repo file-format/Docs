@@ -67,6 +67,6 @@ Header دارای شش بایت است و برای تعیین نوع فایل ب
 
 ## منابع ##
 
-* [فرمت فایل GIF] (https://en.wikipedia.org/wiki/GIF)
+* [فرمت فایل GIF](https://en.wikipedia.org/wiki/GIF)
 
 

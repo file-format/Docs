@@ -64,6 +64,6 @@ Microsoft Works مجموعه نرم افزار بهره وری بود که تو�
 - [BPS - BPS Malware file from SpywareCops](/misc/bps-malware/)
 
 ## منابع
-* [Microsoft Works] (https://en.wikipedia.org/wiki/Microsoft_Works)
+* [Microsoft Works](https://en.wikipedia.org/wiki/Microsoft_Works)
 
 

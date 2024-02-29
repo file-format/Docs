@@ -55,6 +55,6 @@ PS(.ps) is the file extension for a PostScript document. UK National Archives ca
 
 ## منابع ##
 
-* [خانواده قالب پست اسکریپت] (https://www.loc.gov/preservation/digital/formats/fdd/fdd000029.shtml)
+* [خانواده قالب پست اسکریپت](https://www.loc.gov/preservation/digital/formats/fdd/fdd000029.shtml)
 
 

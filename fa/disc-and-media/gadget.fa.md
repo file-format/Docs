@@ -48,6 +48,6 @@
 
 * [نوار کناری ویندوز - توسط مایکروسافت](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-entry)
 
-* [توسعه ابزارک برای نوار کناری ویندوز قسمت 1] (https://learn.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-overview-gdo)
+* [توسعه ابزارک برای نوار کناری ویندوز قسمت 1](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-overview-gdo)
 
 

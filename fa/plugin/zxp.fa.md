@@ -41,5 +41,5 @@
 
 ## منابع
 
- * [نصب کننده ZXP] (https://zxpinstaller.com/)
+ * [نصب کننده ZXP](https://zxpinstaller.com/)
  * [Adobe Extension Manager](https://www.adobe.com/exchange/em_download/)

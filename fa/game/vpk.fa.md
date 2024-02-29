@@ -41,6 +41,6 @@
 
 ## منابع
 
- * [Valve Software] (https://www.valvesoftware.com/en/)
- * [منابع توسعه دهنده VPK] (https://developer.valvesoftware.com/wiki/GCF)
+ * [Valve Software](https://www.valvesoftware.com/en/)
+ * [منابع توسعه دهنده VPK](https://developer.valvesoftware.com/wiki/GCF)
 

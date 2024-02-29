@@ -37,7 +37,7 @@
 
 ## منابع ##
 
-* [مقدمه ای بر صفحه گسترده CALC] (https://www.pitt.edu/~poole/libreofficeTutorials/libreofficeLesson4.pdf)
+* [مقدمه ای بر صفحه گسترده CALC](https://www.pitt.edu/~poole/libreofficeTutorials/libreofficeLesson4.pdf)
 
 * [StarOffice - توسط Wikipedia](https://en.wikipedia.org/wiki/StarOffice)
 

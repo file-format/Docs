@@ -63,8 +63,8 @@ Hello World
 
 ## منابع
 
-* [Bashscripting برای مبتدیان] (https://help.ubuntu.com/community/Beginners/BashScripting)
+* [Bashscripting برای مبتدیان](https://help.ubuntu.com/community/Beginners/BashScripting)
 
-* [Shellscript] (https://www.shellscript.sh/)
+* [Shellscript](https://www.shellscript.sh/)
 
 

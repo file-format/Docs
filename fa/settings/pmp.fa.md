@@ -56,6 +56,6 @@
 11. فایل PMP اکنون ذخیره شده است و می تواند برای کارهای ترسیم بعدی استفاده شود.
 
 ## منابع
-* [نرم افزار اتوکد] (https://en.wikipedia.org/wiki/AutoCAD)
+* [نرم افزار اتوکد](https://en.wikipedia.org/wiki/AutoCAD)
 
 

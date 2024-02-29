@@ -62,5 +62,5 @@ http://cdn.example.com/scripts/main.js
 
 ## منابع
 
- * [راهنمای مبتدی برای AppCache Manifest] (https://web.dev/appcache-beginner/)
+ * [راهنمای مبتدی برای AppCache Manifest](https://web.dev/appcache-beginner/)
 

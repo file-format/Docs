@@ -34,7 +34,7 @@
 
 ## منابع
 
-* [عصر امپراتوری III - موضوعات] (https://github.com/topics/aoe)
+* [عصر امپراتوری III - موضوعات](https://github.com/topics/aoe)
 
 * [Forum - Age of Empires III](https://forums.ageofempires.com/t/please-make-the-ai-fight-for-map-control-and-resources-long-post-but-worth- it/176307)
 

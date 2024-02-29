@@ -66,6 +66,6 @@ GeoPackages مانند سایر پایگاه های داده رابطه ای ش�
 
 * [GeoPackage - توسط Wikipedia](https://en.wikipedia.org/wiki/GeoPackage)
 
-* [شروع به کار با GeoPackage] (http://www.geopackage.org/guidance/getting-started.html)
+* [شروع به کار با GeoPackage](http://www.geopackage.org/guidance/getting-started.html)
 
 

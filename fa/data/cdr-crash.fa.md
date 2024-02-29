@@ -80,6 +80,6 @@ Bosch Crash Data Retrieval System (CDR) یک نرم افزار و راه حل س
 - [CDR - Vector Drawing Image File](/image/cdr/)
 
 ## منابع
-* [Bosch Diagnostics] (https://cdr.boschdiagnostics.com/cdr/)
+* [Bosch Diagnostics](https://cdr.boschdiagnostics.com/cdr/)
 
 

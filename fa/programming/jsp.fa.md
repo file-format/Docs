@@ -190,5 +190,5 @@ Above comment is appeared only on the server side because it is removed while re
 ## منابع
 
  * [کنوانسیون های کد برای صفحات جاوا سرور](https://www.oracle.com/technical-resources/articles/javase/code-convention.html)
- * [آموزش JSP] (https://www.javatpoint.com/jsp-tutorial)
+ * [آموزش JSP](https://www.javatpoint.com/jsp-tutorial)
 

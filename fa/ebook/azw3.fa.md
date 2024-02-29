@@ -38,6 +38,6 @@ AZW3 که با نام Kindle Format 8 (**KF8**) نیز شناخته می‌شو�
 
 * [KF8 - توسط ویکی‌پدیا](https://en.wikipedia.org/wiki/Kindle_File_Format)
 
-* [Kindle Unpack] (https://github.com/kevinhendricks/KindleUnpack)
+* [Kindle Unpack](https://github.com/kevinhendricks/KindleUnpack)
 
 

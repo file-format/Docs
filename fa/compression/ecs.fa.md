@@ -27,6 +27,6 @@
 
 ## منابع
 
-* [Dzip] (https://speeddemosarchive.com/dzip/)
+* [Dzip](https://speeddemosarchive.com/dzip/)
 
 

@@ -60,6 +60,6 @@
 
 ## منابع
 
-* [آزمایشگاه بازی Kodu] (https://www.kodugamelab.com/)
+* [آزمایشگاه بازی Kodu](https://www.kodugamelab.com/)
 
 

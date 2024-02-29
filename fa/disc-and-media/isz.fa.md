@@ -48,6 +48,6 @@ ISZ و ISO هر دو فرمت فایل هستند که برای ذخیره و ت
 همچنین می توانید از ابزار خط فرمان 'zisofs-tools' برای فشرده سازی فایل ISZ به ISO استفاده کنید.
 
 ## منابع
-* [UltraISO] (https://www.ultraiso.com/)
+* [UltraISO](https://www.ultraiso.com/)
 
 

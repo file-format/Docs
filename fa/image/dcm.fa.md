@@ -77,6 +77,6 @@ UID نمونه SOP Storage Media|(0002,0003)|1|به طور منحصر به فر�
   * کنترل دسترسی به رسانه فیزیکی (مثلاً محافظت از نوشتن)
 
 ## منابع ##
-  * [استاندارد DICOM] (https://www.dicomstandard.org/current/)
+  * [استاندارد DICOM](https://www.dicomstandard.org/current/)
   * [فرمت فایل DICOM](https://dicom.nema.org/dicom/2013/output/chtml/part10/chapter_7.html)
 

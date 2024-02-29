@@ -50,6 +50,6 @@ console.log(myModule.add(10, 20)); // 30
 
 ## منابع
 
-* [کلاس های طراحی در ویژوال استودیو] (https://en.wikipedia.org/wiki/CommonJS)
+* [کلاس های طراحی در ویژوال استودیو](https://en.wikipedia.org/wiki/CommonJS)
 
 

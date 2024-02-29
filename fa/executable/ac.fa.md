@@ -47,7 +47,7 @@ Autotools مجموعه ای از بسته های مرتبط است که در ص�
 
 ## منابع
 * [Autoconf Software](https://www.gnu.org/software/autoconf/)
-* [مبانی ابزارهای خودکار] (https://devmanual.gentoo.org/general-concepts/autotools/index.html)
+* [مبانی ابزارهای خودکار](https://devmanual.gentoo.org/general-concepts/autotools/index.html)
 
 
 

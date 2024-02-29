@@ -29,7 +29,7 @@
 
 ## منابع
 
-* [Google Earth برای وب] (https://earth.google.com/web/)
+* [Google Earth برای وب](https://earth.google.com/web/)
 
 * [gpx](/gis/gpx/)، [geojson](/gis/geojson/)، [kml](/gis/kml/)، و [kmz](/gis/kmz/)
 

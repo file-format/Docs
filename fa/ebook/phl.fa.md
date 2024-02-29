@@ -36,7 +36,7 @@
 
 ## منابع
 
-* [مشاهده نکات برجسته محبوب در Kindles] (https://en.wikipedia.org/wiki/Orb_Books)
+* [مشاهده نکات برجسته محبوب در Kindles](https://en.wikipedia.org/wiki/Orb_Books)
 
 * [برترین‌های محبوب محتوایی را که کلیک می‌کنند آشکار می‌کنند](https://www.searchenginepeople.com/blog/kindle-highlights.html)
 

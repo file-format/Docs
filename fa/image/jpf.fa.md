@@ -45,7 +45,7 @@ JPF فرمت فایل ذخیره سازی رسمی است که فایل های J
 
 ## منابع ##
 
-* [نمای کلی JPEG 2000] (https://jpeg.org/jpeg2000/)
+* [نمای کلی JPEG 2000](https://jpeg.org/jpeg2000/)
 
 * [ISO/IEC 15444-2:2004](https://www.iso.org/standard/33160.html)
 

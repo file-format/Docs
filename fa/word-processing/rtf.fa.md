@@ -144,8 +144,8 @@ Rich Text Format (**RTF**) که توسط مایکروسافت معرفی و مس
 
 ## منابع ##
 
-* [مشخصات RTF 1.9.1] (https://interoperability.blob.core.windows.net/files/Archive_References/%5bMSFT-RTF%5d.pdf)
+* [مشخصات RTF 1.9.1](https://interoperability.blob.core.windows.net/files/Archive_References/%5bMSFT-RTF%5d.pdf)
 
-* [قالب متن غنی] (https://en.wikipedia.org/wiki/Rich_Text_Format)
+* [قالب متن غنی](https://en.wikipedia.org/wiki/Rich_Text_Format)
 
 

@@ -91,6 +91,6 @@ The Valve Source Engine, often simply referred to as **Source Engine**, is highl
 - [CFG - Cal3D Model Configuration File](/misc/cfg-cal3d/)
 
 ## منابع
-* [منبع (موتور بازی)] (https://en.wikipedia.org/wiki/Source_(game_engine))
+* [منبع (موتور بازی)](https://en.wikipedia.org/wiki/Source_(game_engine))
 
 

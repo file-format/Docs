@@ -56,6 +56,6 @@
 3. بر روی دکمه کامپایل کلیک کنید تا فایل نصب اجرایی ایجاد شود.
 
 ## منابع
-* [Inno Setup Software] (https://jrsoftware.org/isdl.php)
+* [Inno Setup Software](https://jrsoftware.org/isdl.php)
 
 

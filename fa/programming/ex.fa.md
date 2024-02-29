@@ -38,8 +38,8 @@ Euphoria در ابتدا به زبان برنامه نویسی **[C](/programmin
 
 ## ارجاع ##
 
-* [سرخوشی سریع] (https://www.rapideuphoria.com/)
+* [سرخوشی سریع](https://www.rapideuphoria.com/)
 
-* [تالارهای OpenEuphoria] (https://openeuphoria.org/forum/index.wc)
+* [تالارهای OpenEuphoria](https://openeuphoria.org/forum/index.wc)
 
 

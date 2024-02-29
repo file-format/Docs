@@ -53,6 +53,6 @@ A .oam file a an animated widget file exported from Adobe Edge Animate Widget. A
 
 ## منابع
 
-* [انتشار OAM] (https://helpx.adobe.com/animate/using/OAM-publishing.html)
+* [انتشار OAM](https://helpx.adobe.com/animate/using/OAM-publishing.html)
 
 

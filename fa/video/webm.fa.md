@@ -69,8 +69,8 @@ WebM, being a subset of the Matroska specifications, provides support for some o
 
 ## منابع
 
-* [WebM] (https://www.webmproject.org/)
+* [WebM](https://www.webmproject.org/)
 
-* [مخازن کد WebM] (https://www.webmproject.org/code/#webp-repositories)
+* [مخازن کد WebM](https://www.webmproject.org/code/#webp-repositories)
 
 

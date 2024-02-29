@@ -48,6 +48,6 @@ DNA Baser توسط Heracle BioSoft یک ابزار نرم افزاری است ک
 - **Heracle BioSoft DNA Baser** (آزمایشی رایگان) برای ویندوز
 
 ## منابع
-* [DNA Baser] (https://www.dnabaser.com/)
+* [DNA Baser](https://www.dnabaser.com/)
 
 

@@ -64,6 +64,6 @@
 - VirtuaNES
 
 ## منابع
-* [سیستم سرگرمی نینتندو] (https://en.wikipedia.org/wiki/Nintendo_Entertainment_System)
+* [سیستم سرگرمی نینتندو](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System)
 
 

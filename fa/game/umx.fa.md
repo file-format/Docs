@@ -37,7 +37,7 @@
 
 ## منابع
 
- * [تورنمنت غیر واقعی] (https://www.epicgames.com/unrealtournament/en-US/)
+ * [تورنمنت غیر واقعی](https://www.epicgames.com/unrealtournament/en-US/)
  * [مسابقه غیرواقعی](https://en.wikipedia.org/wiki/Unreal_Tournament)
  * [جامعه مسابقات غیرواقعی](https://discord.com/invite/unrealtournament)
 

@@ -82,6 +82,6 @@ ChessBase از چندین فرمت فایل برای ذخیره و مدیریت 
 - [CBZ - Comic Book ZIP Archive File Format](/ebook/cbz/)
 
 ## منابع
-* [ChessBase] (https://en.wikipedia.org/wiki/ChessBase)
+* [ChessBase](https://en.wikipedia.org/wiki/ChessBase)
 
 

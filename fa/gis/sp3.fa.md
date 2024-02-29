@@ -31,6 +31,6 @@ A file with .sp3 extension is a National Geodetic Survey (NGS) orbital format to
 
 * [فرمت مداری استاندارد توسعه یافته محصول 3 (SP3-c)](http://epncb.oma.be/ftp/data/format/sp3c.txt#:~:text=The%20SP3%20format%20is%20similar ,ساختار%20بیشتر%20انعطاف پذیر%20header%20)
 
-* [توسعه فرمت‌های مداری استاندارد GPS بررسی ملی زمین‌شناسی] (https://beta.ngs.noaa.gov/PUBS_LIB/Extending_the_NGS_Standard_GPS_Orbit_Formats_TR_NOS133_NGS46.pdf)
+* [توسعه فرمت‌های مداری استاندارد GPS بررسی ملی زمین‌شناسی](https://beta.ngs.noaa.gov/PUBS_LIB/Extending_the_NGS_Standard_GPS_Orbit_Formats_TR_NOS133_NGS46.pdf)
 
 

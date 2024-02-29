@@ -62,6 +62,6 @@ CREATE TABLE employees (
 
 ## منابع ##
 
-* [DDL توسط ویکی‌پدیا] (https://en.wikipedia.org/wiki/Data_definition_language)
+* [DDL توسط ویکی‌پدیا](https://en.wikipedia.org/wiki/Data_definition_language)
 
 

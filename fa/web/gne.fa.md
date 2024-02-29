@@ -27,6 +27,6 @@
 
 ## منابع
 
-* [Ludicorp] (https://en.wikipedia.org/wiki/Ludicorp)
+* [Ludicorp](https://en.wikipedia.org/wiki/Ludicorp)
 
 

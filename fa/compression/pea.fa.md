@@ -61,8 +61,8 @@
 
 ## منابع
 
-* [مشخصات فرمت فایل PEA] (https://peazip.github.io/pea_help.pdf)
+* [مشخصات فرمت فایل PEA](https://peazip.github.io/pea_help.pdf)
 
-* [فرمت فایل PEA] (https://peazip.github.io/pea-file-format.html#.pea_specifications)
+* [فرمت فایل PEA](https://peazip.github.io/pea-file-format.html#.pea_specifications)
 
 

@@ -58,7 +58,7 @@
 
 ## منابع 
 
-* [استفاده از فایل‌های تنظیمات اینترنت (INS) با IEAK 11] (https://learn.microsoft.com/en-us/internet-explorer/ie11-ieak/using-internet-settings-ins-files)
+* [استفاده از فایل‌های تنظیمات اینترنت (INS) با IEAK 11](https://learn.microsoft.com/en-us/internet-explorer/ie11-ieak/using-internet-settings-ins-files)
 
 
 

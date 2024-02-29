@@ -52,6 +52,6 @@ FL Studio از فایل های FLP برای ذخیره کارهای در حال 
 5. هنگامی که فایل FLP وارد شد، باید بتوانید به داده ها و تنظیمات پروژه موجود در FL Studio دسترسی داشته باشید.
 
 ## منابع
-* [FL Studio] (https://en.wikipedia.org/wiki/FL_Studio)
+* [FL Studio](https://en.wikipedia.org/wiki/FL_Studio)
 
 

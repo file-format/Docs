@@ -97,7 +97,7 @@ end
 
 ## منابع ##
 
-* [قالب STL] (http://www.fabbers.com/tech/STL_Format)
+* [قالب STL](http://www.fabbers.com/tech/STL_Format)
 
 * [STL - توسط Wikipedia](https://en.wikipedia.org/wiki/STL_(file_format))
 

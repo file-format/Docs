@@ -88,6 +88,6 @@ Memo fields often store descriptive or contextual information about records. Com
 - [FPT - Alpha Five Table Memo File](/database/fpt-alphafive/)
 
 ## منابع
-* [FileMaker] (https://en.wikipedia.org/wiki/FileMaker)
+* [FileMaker](https://en.wikipedia.org/wiki/FileMaker)
 
 

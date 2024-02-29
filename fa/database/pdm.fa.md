@@ -43,6 +43,6 @@
 PowerDesigner اغلب در صنایعی مانند مالی، تولید و دولت استفاده می شود که در آن سیستم ها و فرآیندهای پیچیده نیاز به مدل سازی و مدیریت دارند. این نرم افزار در دو نسخه داخلی و ابری موجود است و می تواند با انواع پایگاه های داده و سیستم های دیگر استفاده شود.
 
 ## منابع
-* [PowerDesigner] (https://en.wikipedia.org/wiki/PowerDesigner)
+* [PowerDesigner](https://en.wikipedia.org/wiki/PowerDesigner)
 
 

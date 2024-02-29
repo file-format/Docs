@@ -49,5 +49,5 @@ M02*
 
 ## منابع
 
- * [فرمت گربر] (https://www.ucamco.com/en/gerber)
+ * [فرمت گربر](https://www.ucamco.com/en/gerber)
 

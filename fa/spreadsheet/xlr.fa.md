@@ -35,6 +35,6 @@ A file with .xlr extension is a Microsoft Works Spreadsheet file format that sto
 
 ## منابع
 
-* [Microsoft Works] (https://en.wikipedia.org/wiki/Microsoft_Works)
+* [Microsoft Works](https://en.wikipedia.org/wiki/Microsoft_Works)
 
 

@@ -47,6 +47,6 @@
 
 ## منابع ##
 
-* [فرمت فایل TXT] (https://en.wikipedia.org/wiki/Text_file)
+* [فرمت فایل TXT](https://en.wikipedia.org/wiki/Text_file)
 
 

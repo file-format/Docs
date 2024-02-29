@@ -27,7 +27,7 @@
 
 ## منابع
 
-* [شیوه‌های سبک‌تر] (https://lesscss.org/)
+* [شیوه‌های سبک‌تر](https://lesscss.org/)
 
 * [Leaner Style Sheets Docs - Github](https://github.com/less/less-docs)
 

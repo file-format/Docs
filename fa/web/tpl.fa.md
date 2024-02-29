@@ -138,7 +138,7 @@ img, a img {border: none;}
 
 ## منابع
 
-* [HFS] (https://www.rejetto.com/wiki/index.php/Refinements)
+* [HFS](https://www.rejetto.com/wiki/index.php/Refinements)
 
 * [مثال TPL - Github](https://github.com/heiswayi/hfs-templates/blob/master/HFSTemplate_myHFS.tpl)
 

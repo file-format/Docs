@@ -37,7 +37,7 @@
 
 ## منابع
 
-* [جزئیات پرونده های قرنطینه] (https://forum.kaspersky.com/)
+* [جزئیات پرونده های قرنطینه](https://forum.kaspersky.com/)
 
 * [فایل KLQ](https://forum.kaspersky.com/?q=klq%20file)
 

@@ -44,7 +44,7 @@
 
 ## منابع
 
-* [YanCEyDesktop توسط Remington] (https://en.freedownloadmanager.org/Windows-PC/YanCEyDesktop-FREE.html)
+* [YanCEyDesktop توسط Remington](https://en.freedownloadmanager.org/Windows-PC/YanCEyDesktop-FREE.html)
 
 
 

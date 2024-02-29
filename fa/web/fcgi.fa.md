@@ -27,6 +27,6 @@
 
 ## منابع
 
-* [CGI سریع] (https://metacpan.org/pod/FCGI)
+* [CGI سریع](https://metacpan.org/pod/FCGI)
 
 

@@ -30,10 +30,10 @@
 توجه: GCF سلف [VPK file format](/game/vpk/) است.
 ## منابع
 
-* [Valve Software] (https://www.valvesoftware.com/en/)
+* [Valve Software](https://www.valvesoftware.com/en/)
 
-* [فرمت فایل GCF] (https://developer.valvesoftware.com/wiki/GCF)
+* [فرمت فایل GCF](https://developer.valvesoftware.com/wiki/GCF)
 
-* [HLLib - کتابخانه برنامه‌نویسی C++ منبع باز برای خواندن فایل‌های GCF] (https://developer.valvesoftware.com/wiki/HLLib)
+* [HLLib - کتابخانه برنامه‌نویسی C++ منبع باز برای خواندن فایل‌های GCF](https://developer.valvesoftware.com/wiki/HLLib)
 
 

@@ -56,6 +56,6 @@
 
 
 ## منابع
-* [WhatsApp] (https://en.wikipedia.org/wiki/WhatsApp)
+* [WhatsApp](https://en.wikipedia.org/wiki/WhatsApp)
 
 

@@ -29,7 +29,7 @@ Advanced Disk Catalog is a cataloguing program for Windows XP/2003. تطبیق �
 نرم افزار Elcomsoft Advanced Disk Catalog را دانلود کنید. در ویندوز می توانید روی file explorer کلیک راست کرده و سپس open with context menu را انتخاب کنید، مسیر نرم افزار Elcomsoft Advanced Disk Catalog را برای باز کردن فایل cat مشخص کنید.
 
 ## منابع
- * [Elcomsoft] (https://www.elcomsoft.com/)
+ * [Elcomsoft](https://www.elcomsoft.com/)
  * [Advanced Disk Catalog (ADC)](http://pcprosoft.blogspot.com/2009/01/advanced-disk-catalog-adc.html)
 
 

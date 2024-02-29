@@ -26,5 +26,5 @@
 
 ## منابع
 
- * [اتوماسیون راکول] (https://www.rockwellautomation.com/en-us.html)
+ * [اتوماسیون راکول](https://www.rockwellautomation.com/en-us.html)
 

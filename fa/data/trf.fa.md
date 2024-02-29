@@ -42,6 +42,6 @@ TorrentRover یک برنامه دسکتاپ است که برای ساده کرد
 - **TorrentRover** (رایگان) برای ویندوز
 
 ## منابع
-* [TorrentRover] (https://www.torrentrover.com/)
+* [TorrentRover](https://www.torrentrover.com/)
 
 

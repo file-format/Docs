@@ -57,6 +57,6 @@
 
 * [مولفه‌های دسترسی به داده‌های مایکروسافت](https://en.wikipedia.org/wiki/Microsoft_Data_Access_Components#Universal_data_link)
 
-* [پیکربندی پیوند داده جهانی (UDL)] (https://learn.microsoft.com/en-us/sql/connect/oledb/help-topics/data-link-pages?view=sql-server-ver15)
+* [پیکربندی پیوند داده جهانی (UDL)](https://learn.microsoft.com/en-us/sql/connect/oledb/help-topics/data-link-pages?view=sql-server-ver15)
 
 

@@ -68,6 +68,6 @@ CDB می تواند هر پایگاه داده تا 4 گیگابایت را مد
 
 * [cdb (نرم افزار) - ویکی پدیا](https://en.wikipedia.org/wiki/Cdb_(نرم افزار))
 
-* [مشخصات CDB] (http://cr.yp.to/cdb.html)
+* [مشخصات CDB](http://cr.yp.to/cdb.html)
 
 

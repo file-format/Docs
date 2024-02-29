@@ -37,6 +37,6 @@ An AWS file is a spreadsheet file created with the Ability Spreadsheet software 
 
 * [Ability Office - Wikipedia](https://en.wikipedia.org/wiki/Ability_Office)
 
-* [Ability Office] (https://www.ability.com/en/home/home)
+* [Ability Office](https://www.ability.com/en/home/home)
 
 

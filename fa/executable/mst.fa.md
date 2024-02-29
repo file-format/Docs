@@ -49,9 +49,9 @@ TRANSFORMS=transform1.mst;transform2.mst;transform3.mst
 
 ## منابع 
 
-* [فایل‌های تبدیل MST] (https://www.exemsi.com/documentation/mst-transformation-files/)
+* [فایل‌های تبدیل MST](https://www.exemsi.com/documentation/mst-transformation-files/)
 
-* [ویژگی TRANSFORMS] (https://learn.microsoft.com/en-us/windows/win32/msi/transforms)
+* [ویژگی TRANSFORMS](https://learn.microsoft.com/en-us/windows/win32/msi/transforms)
 
 
 

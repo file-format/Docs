@@ -77,6 +77,6 @@ gpsbabel -i lowranceusr -f input.usr -o gpx -F output.gpx
 - GPSBabel (لینوکس)
 
 ## منابع
-* [Lowrance Electronics] (https://en.wikipedia.org/wiki/Lowrance_Electronics)
+* [Lowrance Electronics](https://en.wikipedia.org/wiki/Lowrance_Electronics)
 
 

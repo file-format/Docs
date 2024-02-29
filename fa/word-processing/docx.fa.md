@@ -117,12 +117,12 @@ After Microsoft opened the specifications for the DOC file format, it was easy f
 
  * **آیا DOCX یک پسوند فایل است؟** - DOCX به عنوان پسوند فایل برای نمایش فرمت های فایل Microsoft Word 2007 و بعد از آن برای ذخیره فایل های Word استفاده می شود. همچنین به سیستم عامل شما می گوید که این فایل DOCX به Microsoft Word 2007 نیاز دارد تا آن را باز کند و نماد آن را نشان دهد.
  * **آیا DOCX همانند Word** است - DOCX فرمت فایلی است که توسط Microsoft Word برای ذخیره اسناد در قالب Open XML استفاده می شود. از طرف دیگر، Word یک نرم افزار کاربردی توسط مایکروسافت آفیس است که از فرمت های دیگر فایل مانند DOC، DOT، DOTM و غیره نیز پشتیبانی می کند.
- * ** تفاوت DOC و DOCX ** - DOC فایل word است که در فرمت فایل Word 2007 و قبل از آن ذخیره شده است. DOCX بر اساس فرمت فایل XML Open است که توسط مایکروسافت 2007 و نسخه های بعدی پشتیبانی می شود. برای جزئیات بیشتر، [تفاوت بین DOC و DOCX] (https://blog.fileformat.com/2022/08/11/doc-vs-docx/) را بررسی کنید.
+ * ** تفاوت DOC و DOCX ** - DOC فایل word است که در فرمت فایل Word 2007 و قبل از آن ذخیره شده است. DOCX بر اساس فرمت فایل XML Open است که توسط مایکروسافت 2007 و نسخه های بعدی پشتیبانی می شود. برای جزئیات بیشتر، [تفاوت بین DOC و DOCX](https://blog.fileformat.com/2022/08/11/doc-vs-docx/) را بررسی کنید.
 
 ## منابع ##
 
 * [MS - فرمت فایل DOCX](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-docx/b839fe1f-e1ca-4fa6-8c26-5954d0abbccd)
 
-* [Office Open XML] (http://officeopenxml.com/)
+* [Office Open XML](http://officeopenxml.com/)
 
 

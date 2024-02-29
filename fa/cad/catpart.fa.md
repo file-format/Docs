@@ -31,5 +31,5 @@
 
 ## منابع
 
- * [وب سایت CATIA] (https://www.3ds.com/products-services/catia/)
+ * [وب سایت CATIA](https://www.3ds.com/products-services/catia/)
 

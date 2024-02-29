@@ -50,7 +50,7 @@ Harmony Assistant به کاربران این امکان را می دهد تا ب
 5. هنگامی که فایل MUI وارد شد، باید بتوانید به صداهای ساز و سایر داده های موجود در نرم افزار Harmony Assistant دسترسی داشته باشید.
 
 ## منابع
-* [دستیار هارمونی] (https://www.myriad-online.com/en/products/harmony.htm)
+* [دستیار هارمونی](https://www.myriad-online.com/en/products/harmony.htm)
 
 
 

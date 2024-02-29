@@ -56,6 +56,6 @@ In 2000, the Joint Photographic Experts Group committee designed JP2 with the ob
 
 ## منابع ##
 
-* [نمای کلی JPEG 2000] (https://jpeg.org/jpeg2000/)
+* [نمای کلی JPEG 2000](https://jpeg.org/jpeg2000/)
 
 

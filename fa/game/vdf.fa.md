@@ -60,6 +60,6 @@
 - [VDF - VirtualDub Video Filter File](/plugin/vdf/)
 
 ## منابع
-* [منبع (موتور بازی)] (https://en.wikipedia.org/wiki/Source_(game_engine))
+* [منبع (موتور بازی)](https://en.wikipedia.org/wiki/Source_(game_engine))
 
 

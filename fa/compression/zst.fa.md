@@ -51,6 +51,6 @@
 
 ## منابع ##
 
-* [RFC 8878 Zstandard Compression] (https://www.rfc-editor.org/rfc/rfc8878)
+* [RFC 8878 Zstandard Compression](https://www.rfc-editor.org/rfc/rfc8878)
 
 

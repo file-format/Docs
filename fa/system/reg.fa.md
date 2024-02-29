@@ -70,6 +70,6 @@ Windows Registry Editor Version 5.00
 از شما خواسته می شود تا تأیید کنید که می خواهید ورودی را به رجیستری اضافه کنید. پس از تأیید، ورودی جدید به رجیستری اضافه می شود و می توانید آن را با استفاده از ابزار ویرایشگر رجیستری تأیید کنید.
 
 ## منابع
-* [رجیستری ویندوز] (https://en.wikipedia.org/wiki/Windows_Registry)
+* [رجیستری ویندوز](https://en.wikipedia.org/wiki/Windows_Registry)
 
 

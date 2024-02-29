@@ -135,7 +135,7 @@ List: شکل خاصی از تعاریف ویژگی وجود دارد که از �
 
 ## منابع ##
 
-* [فرمت فایل PLY] (http://paulbourke.net/dataformats/ply/)
+* [فرمت فایل PLY](http://paulbourke.net/dataformats/ply/)
 
 * [PLY - توسط Wikipedia](https://en.wikipedia.org/wiki/PLY_(file_format))
 

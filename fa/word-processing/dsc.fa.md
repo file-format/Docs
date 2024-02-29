@@ -27,6 +27,6 @@ A file with .dsc extension is a text description file that contains information 
 
 ## منابع
 
-* [فرمت فایل TXT] (https://en.wikipedia.org/wiki/Text_file)
+* [فرمت فایل TXT](https://en.wikipedia.org/wiki/Text_file)
 
 

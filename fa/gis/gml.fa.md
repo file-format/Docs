@@ -77,7 +77,7 @@ GML 1.0 و 2.0 اشیاء Polygons، Points و LineString را به صورت ز�
 
 ## منابع ##
 
-* [مشخصات GML] (https://www.ogc.org/standard/gml/)
+* [مشخصات GML](https://www.ogc.org/standard/gml/)
 
 * [GML - توسط Wikipedia](https://en.wikipedia.org/wiki/Geography_Markup_Language)
 

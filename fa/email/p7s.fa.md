@@ -35,6 +35,6 @@ S/MIME (برنامه های افزودنی اینترنتی ایمن/چند من
 
 ## منابع ##
 
-* [ابزار ثبت نام مایکروسافت] (https://learn.microsoft.com/en-us/windows-hardware/drivers/devtest/signtool)
+* [ابزار ثبت نام مایکروسافت](https://learn.microsoft.com/en-us/windows-hardware/drivers/devtest/signtool)
 
 

@@ -37,8 +37,8 @@
 
 ## منابع
 
-* [فایل‌های DEM] (https://en.wikipedia.org/wiki/Digital_elevation_model)
+* [فایل‌های DEM](https://en.wikipedia.org/wiki/Digital_elevation_model)
 
-* [USGS - DEM] (https://www.usgs.gov/)
+* [USGS - DEM](https://www.usgs.gov/)
 
 

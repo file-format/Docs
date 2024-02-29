@@ -47,7 +47,7 @@
 
 ## منابع
 
-* [SketchUp] (https://www.sketchup.com/)
+* [SketchUp](https://www.sketchup.com/)
 
 * [SketchUp C# API](https://github.com/moethu/SketchUpNET)
 

@@ -49,6 +49,6 @@ cryptography-2.9.2-cp35-abi3-macosx_10_9_x86_64.whl
 
 * [چرخ‌های پایتون چیست و چرا باید به آن اهمیت دهید؟](https://realpython.com/python-wheels/)
 
-* [چرخ پایتون] (https://pypi.org/project/wheel/)
+* [چرخ پایتون](https://pypi.org/project/wheel/)
 
 

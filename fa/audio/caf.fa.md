@@ -107,6 +107,6 @@
 - [CAF - CryENGINE Character Animation File](/programming/caf-cryengine/)
 
 ## منابع
-* [قالب CAF] (https://developer.apple.com/library/archive/documentation/MusicAudio/Reference/CAFSpec/CAF_spec/CAF_spec.html)
+* [قالب CAF](https://developer.apple.com/library/archive/documentation/MusicAudio/Reference/CAFSpec/CAF_spec/CAF_spec.html)
 
 

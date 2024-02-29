@@ -34,6 +34,6 @@
 
 ## منابع
 
- * [QuickBooks by Intuit] (https://quickbooks.intuit.com/)
+ * [QuickBooks by Intuit](https://quickbooks.intuit.com/)
  * [QuickBooks - ایجاد فایل qbregistration.dat](https://quickbooks.intuit.com/learn-support/en-us/help-article/license-information/create-create-qbregistration-dat-file/L7S5BwSst_US_en_US)
 

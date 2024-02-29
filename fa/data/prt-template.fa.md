@@ -95,6 +95,6 @@ Corel Presentations در درجه اول از فرمت فایل خود برای 
 - [PRT - Presentations Template](/data/prt-template/)
 
 ## منابع
-* [ارائه های کورل] (https://en.wikipedia.org/wiki/Corel_Presentations)
+* [ارائه های کورل](https://en.wikipedia.org/wiki/Corel_Presentations)
 
 

@@ -29,6 +29,6 @@
 
 ## منابع
 
-* [نسخه خبری Trimble] (https://www.trimble.com/news/release.aspx?id=050510b)
+* [نسخه خبری Trimble](https://www.trimble.com/news/release.aspx?id=050510b)
 
 

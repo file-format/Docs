@@ -67,7 +67,7 @@ This link is to the Notepad.jnlp file.
 
 * [Java Web Start چیست و چگونه راه اندازی می شود؟](https://www.java.com/en/download/help/java_webstart.html)
 
-* [JNLP را با آخرین نسخه جاوا اجرا کنید] (https://openwebstart.com/)
+* [JNLP را با آخرین نسخه جاوا اجرا کنید](https://openwebstart.com/)
 
 * [Java Web Start - Wikipedia](https://en.wikipedia.org/wiki/Java_Web_Start)
 

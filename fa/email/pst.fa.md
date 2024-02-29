@@ -73,7 +73,7 @@
 |bidNextP (یونیکد: 8 بایت؛ ANSI: 4 بایت)|BID صفحه بعدی. صفحات دارای یک شمارنده ویژه برای تخصیص مقادیر bidIndex هستند. مقدار bidIndex برای BID برای صفحات از این شمارنده تخصیص داده می شود.
 |bidNextB     (4 bytes ANSI only): |Next BID. This value is the monotonic counter that indicates the BID to be assigned for the next allocated block. BID values advance in increments of 4. برای جزئیات بیشتر، بخش 2.2.2.2 را ببینید.
 |dwUnique (4 بایت)|این مقدار یکنواخت افزایش می یابد که هر بار که ساختار HEADER فایل PST تغییر می کند، تغییر می کند. عملکرد این مقدار ارائه یک مقدار منحصر به فرد و اطمینان از متفاوت بودن HEADER CRC ها پس از هر تغییر هدر است.
-|rgnid[] (128 بایت)|آرایه ثابتی از 32 NID، که هر کدام مربوط به یکی از 32 NID_TYPE ممکن (NID_TYPE، NID_TYPE_NORMAL_FOLDER، NID_TYPE_SEARCH_FOLDER، NID_TYPE_NORMAL_MESSAGE_MESSAGE,NIDC_TYPE)
+|rgnid[](128 بایت)|آرایه ثابتی از 32 NID، که هر کدام مربوط به یکی از 32 NID_TYPE ممکن (NID_TYPE، NID_TYPE_NORMAL_FOLDER، NID_TYPE_SEARCH_FOLDER، NID_TYPE_NORMAL_MESSAGE_MESSAGE,NIDC_TYPE)
 |qwUnused (8 بایت)|فضای استفاده نشده; باید روی صفر تنظیم شود. فقط فرمت فایل یونیکد PST.
 | ریشه (یونیکد: 72 بایت؛ ANSI: 40 بایت)| ساختار ریشه (بخش 2.2.2.5).
 |dwAlign (4 بایت)|بایت های تراز استفاده نشده. باید روی صفر تنظیم شود. فقط فرمت فایل یونیکد PST.

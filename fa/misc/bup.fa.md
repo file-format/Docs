@@ -27,6 +27,6 @@ BUP پشتیبان گیری از یک فایل IFO است. این اطلاعات
 
 ## منابع
 
-* [Inside Video DVD-Video Files] (https://en.wikibooks.org/wiki/Inside_DVD-Video/IFO_Files)
+* [Inside Video DVD-Video Files](https://en.wikibooks.org/wiki/Inside_DVD-Video/IFO_Files)
 
 

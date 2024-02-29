@@ -29,6 +29,6 @@
 
 ## ارجاع
 
-* [AutoIt نسخه 3] (https://www.autoitscript.com/site/)
+* [AutoIt نسخه 3](https://www.autoitscript.com/site/)
 
 

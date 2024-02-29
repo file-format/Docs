@@ -34,5 +34,5 @@
 
 ## منابع
 
- * [انواع بسته های برنامه] (https://learn.microsoft.com/en-us/windows/msix/package/packaging-uwp-apps)
+ * [انواع بسته های برنامه](https://learn.microsoft.com/en-us/windows/msix/package/packaging-uwp-apps)
 

@@ -46,6 +46,6 @@ ELF (قالب اجرایی و پیوند پذیر) و DOL (دلفین) هر دو
 5. بارگیری فایل: فایل ELF را در شبیه ساز یا دیباگر بارگیری کنید و آن را اجرا کنید یا در صورت نیاز مشاهده کنید.
 
 ## منابع
-* [قالب اجرایی و قابل پیوند] (https://en.wikipedia.org/wiki/Executable_and_Linkable_Format)
+* [قالب اجرایی و قابل پیوند](https://en.wikipedia.org/wiki/Executable_and_Linkable_Format)
 
 

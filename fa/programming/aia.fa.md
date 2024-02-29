@@ -33,6 +33,6 @@ App Inventor چندین آموزش برای مبتدیان برای توسعه �
 
 ## منابع
 
- * [MIT App Inventor] (https://appinventor.mit.edu/)
+ * [MIT App Inventor](https://appinventor.mit.edu/)
  * [آموزش های MIT App Inventor](https://appinventor.mit.edu/explore/ai2/tutorials)
 

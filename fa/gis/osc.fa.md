@@ -43,6 +43,6 @@
 
 ## منابع
 
-* [فرمت فایل JOSM] (https://wiki.openstreetmap.org/wiki/JOSM_file_format)
+* [فرمت فایل JOSM](https://wiki.openstreetmap.org/wiki/JOSM_file_format)
 
 

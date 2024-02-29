@@ -80,5 +80,5 @@ Example :PA5000,1000;
 
 ## منابع
  * [HPGL توسط Wikipedia](https://en.wikipedia.org/wiki/HP-GL)
- * [راهنمای مرجع HPGL] (https://www.isoplotec.co.jp/HPGL/eHPGL.htm)
+ * [راهنمای مرجع HPGL](https://www.isoplotec.co.jp/HPGL/eHPGL.htm)
 

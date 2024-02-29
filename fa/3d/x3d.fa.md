@@ -110,8 +110,8 @@ The abstract specification for X3D (ISO/IEC 19775) was first approved by the ISO
 
 * [X3D - توسط Wikipedia](https://en.wikipedia.org/wiki/X3D)
 
-* [وب سایت رسمی کنسرسیوم Web3D] (https://www.web3d.org/)
+* [وب سایت رسمی کنسرسیوم Web3D](https://www.web3d.org/)
 
-* [وب سایت رسمی X3D] (https://www.web3d.org/x3d/what-x3d)
+* [وب سایت رسمی X3D](https://www.web3d.org/x3d/what-x3d)
 
 

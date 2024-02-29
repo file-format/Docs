@@ -73,7 +73,7 @@
 
 ## منابع ##
 
-* [مشخصات فرمت فایل XPS] (https://www.ecma-international.org/publications-and-standards/standards/ecma-388/)
+* [مشخصات فرمت فایل XPS](https://www.ecma-international.org/publications-and-standards/standards/ecma-388/)
 
 * [XPS - توسط Wikipedia](https://en.wikipedia.org/wiki/Open_XML_Paper_Specification#Viewing_and_creating_XPS_documents)
 

@@ -33,6 +33,6 @@ A HYPE file is a project file saved using the Hype software that is used for cre
 
 ## منابع
 
-* [Tumult Hype] (https://tumult.com/hype/)
+* [Tumult Hype](https://tumult.com/hype/)
 
 

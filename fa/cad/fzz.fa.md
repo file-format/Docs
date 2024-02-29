@@ -60,7 +60,7 @@
 - **Fritzing** (پرداخت شده) برای (ویندوز، مک، لینوکس)
 
 ## منابع
-* [Fritzing] (https://fritzing.org/)
+* [Fritzing](https://fritzing.org/)
 
 
 

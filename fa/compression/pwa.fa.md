@@ -48,6 +48,6 @@ Password Agent یک نرم افزار کاربردی است که برای مدی
 - **یادداشت‌های ایمن و سایر داده‌ها:** Password Agent همچنین ممکن است از ذخیره اطلاعات اضافی مانند یادداشت‌های امن، جزئیات کارت اعتباری و سایر داده‌های حساس پشتیبانی کند.
 
 ## منابع
-* [Password Agent Software] (https://moonsoftware.com/)
+* [Password Agent Software](https://moonsoftware.com/)
 
 

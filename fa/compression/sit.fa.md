@@ -40,6 +40,6 @@
 ## منابع
 * [StuffIt - توسط ویکی پدیا](https://en.wikipedia.org/wiki/StuffIt)
 
-* [StuffIt] (https://stuffit.com/)
+* [StuffIt](https://stuffit.com/)
 
 

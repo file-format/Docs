@@ -142,8 +142,8 @@ def Sphere "Planet" (
 ```
 ## منابع ##
 
-* [معرفی USD] (https://openusd.org/release/intro.html)
+* [معرفی USD](https://openusd.org/release/intro.html)
 
-* [مرجع API USD] (https://openusd.org/release/apiDocs.html)
+* [مرجع API USD](https://openusd.org/release/apiDocs.html)
 
 

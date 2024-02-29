@@ -26,6 +26,6 @@ A file with .mpc extension is a [Musepack](https://musepack.net/) audio file for
 
 * [Musepack MPC - Wikipedia](https://en.wikipedia.org/wiki/Musepack)
 
-* [Musepack MPC] (https://musepack.net/)
+* [Musepack MPC](https://musepack.net/)
 
 

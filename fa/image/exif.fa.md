@@ -133,6 +133,6 @@ If the value of Compression(0x0103) Tag in IFD1 is '6', thumbnail image format
 
 * [EXIF - توسط ویکی‌پدیا](https://en.wikipedia.org/wiki/Exif)
 
-* [فرمت فایل EXIF] (https://www.media.mit.edu/pia/Research/deepview/exif.html)
+* [فرمت فایل EXIF](https://www.media.mit.edu/pia/Research/deepview/exif.html)
 
 

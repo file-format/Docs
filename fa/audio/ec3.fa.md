@@ -54,6 +54,6 @@ EC3 (Enhanced AC-3) یک فرمت کدگذاری صوتی است که توسط D
 3. رسیور Dolby Digital Plus: اگر رسیور Dolby Digital Plus روی رایانه خود نصب کرده اید، می توانید از آن برای رمزگشایی فایل EC3 و تبدیل آن به فرمت صوتی رایج تر مانند WAV یا MP3 استفاده کنید.
 
 ## منابع
-* [Dolby Digital Plus] (https://en.wikipedia.org/wiki/Dolby_Digital_Plus)
+* [Dolby Digital Plus](https://en.wikipedia.org/wiki/Dolby_Digital_Plus)
 
 

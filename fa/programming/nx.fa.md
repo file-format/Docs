@@ -42,6 +42,6 @@ LowRes NX دارای نسخه iOS است که می تواند توسط توسع�
 
 ## ارجاع ##
 
-* [LowRes NX] (https://lowresnx.inutilis.com/)
+* [LowRes NX](https://lowresnx.inutilis.com/)
 
 

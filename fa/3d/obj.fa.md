@@ -80,6 +80,6 @@ Wavefront Technologies created OBJ file format for its Advanced Visualizer appli
 
 ## منابع
 
-* [فایل Wavefront .obj] (https://en.wikipedia.org/wiki/Wavefront_.obj_file)
+* [فایل Wavefront .obj](https://en.wikipedia.org/wiki/Wavefront_.obj_file)
 
 

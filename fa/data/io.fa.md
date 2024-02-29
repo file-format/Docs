@@ -57,6 +57,6 @@ BrickLink Studio می تواند فایل های IO را در ویندوز و م
 - **Stud.io**
 
 ## منابع
-* [BrickLink Studio] (https://www.bricklink.com/v3/studio/download.page)
+* [BrickLink Studio](https://www.bricklink.com/v3/studio/download.page)
 
 

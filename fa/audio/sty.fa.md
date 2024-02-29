@@ -44,6 +44,6 @@ Yamaha و Korg فایل های STY را در فرمت های مختلف ذخیر
 - WAVE Xtractor
 
 ## منابع
-* [سبک های صفحه کلید یاماها] (https://psrtutorial.com/sty/yamaha/index.html)
+* [سبک های صفحه کلید یاماها](https://psrtutorial.com/sty/yamaha/index.html)
 
 

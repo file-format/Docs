@@ -27,8 +27,8 @@
 
 ## منابع ##
 
-* [فایل PTM] (https://social.microsoft.com/Forums/en-US/home?forum=streetsandtrips)
+* [فایل PTM](https://social.microsoft.com/Forums/en-US/home?forum=streetsandtrips)
 
-* [MapPoint Alternatives] (https://www.microsoft.com/en-us/maps/mappoint-alternatives)
+* [MapPoint Alternatives](https://www.microsoft.com/en-us/maps/mappoint-alternatives)
 
 

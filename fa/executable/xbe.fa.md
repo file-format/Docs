@@ -94,7 +94,7 @@
 
 ## منابع 
 
-* [Xbe - XBox Executable] (https://xboxdevwiki.net/Xbe)
+* [Xbe - XBox Executable](https://xboxdevwiki.net/Xbe)
 
 
 

@@ -41,8 +41,8 @@ lastmod: 2022-03-20
 
 ## منابع
 
-* [فایل های فشرده شده MXL] (https://www.w3.org/2021/06/musicxml40/tutorial/compressed-mxl-files/)
+* [فایل های فشرده شده MXL](https://www.w3.org/2021/06/musicxml40/tutorial/compressed-mxl-files/)
 
-* [RFC 1951] (https://www.ietf.org/rfc/rfc1951.txt)
+* [RFC 1951](https://www.ietf.org/rfc/rfc1951.txt)
 
 

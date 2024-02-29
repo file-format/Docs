@@ -37,6 +37,6 @@ Panzoid دارای برنامه های ClipMaker و Backgrounder است که ب�
 
 * [Panzoid](https://panzoid.com/)
 
-* [مباحث پانزوید] (https://panzoid.com/discussions)
+* [مباحث پانزوید](https://panzoid.com/discussions)
 
 

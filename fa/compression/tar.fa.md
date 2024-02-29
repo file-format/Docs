@@ -108,6 +108,6 @@ tar -cvf archive.tar file_or_directory
 
 * [TAR - توسط ویکی‌پدیا](https://en.wikipedia.org/wiki/Tar_(محاسبات))
 
-* [فرمت پایه TAR] (https://www.gnu.org/software/tar/manual/html_node/Standard.html)
+* [فرمت پایه TAR](https://www.gnu.org/software/tar/manual/html_node/Standard.html)
 
 

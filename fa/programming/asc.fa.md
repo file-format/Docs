@@ -29,6 +29,6 @@ An ASC file is a **script** file created in ActionScript programming language. I
 ## ارجاع ##
 
 * [.swf file format](/page-description-language/swf/)
-* [Adobe Media Encoder] (https://www.adobe.com/products/media-encoder.html)
+* [Adobe Media Encoder](https://www.adobe.com/products/media-encoder.html)
 
 

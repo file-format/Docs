@@ -60,6 +60,6 @@ AI فرمت فایل اختصاصی Adobe Illustrator است و از رویکر�
 ## منابع
 * [مشخصات فرمت فایل Adobe Illustrator](https://web.archive.org/web/20150906044646/http://partners.adobe.com/public/developer/en/illustrator/sdk/AI7FileFormat.pdf)
 
-* [فرمت فایل AI توسط PaintShopPro] (https://www.paintshoppro.com/en/pages/ai-file/)
+* [فرمت فایل AI توسط PaintShopPro](https://www.paintshoppro.com/en/pages/ai-file/)
 
 

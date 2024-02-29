@@ -114,6 +114,6 @@ X-Attachment-Id: f_jkhztmd43
 
 ## منابع
 
-* [RFC 822] (https://www.ietf.org/rfc/rfc0822.txt)
+* [RFC 822](https://www.ietf.org/rfc/rfc0822.txt)
 
 

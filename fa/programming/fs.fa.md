@@ -42,6 +42,6 @@
 - **Microsoft Visual Studio 2022** (رایگان) برای ویندوز
 
 ## منابع
-* [F Sharp (زبان برنامه نویسی)] (https://en.wikipedia.org/wiki/F_Sharp_(programming_language))
+* [F Sharp (زبان برنامه نویسی)](https://en.wikipedia.org/wiki/F_Sharp_(programming_language))
 
 

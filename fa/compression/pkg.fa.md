@@ -41,7 +41,7 @@ PKR فایل های باینری هستند که برای کاهش حجم کلی
 
 ## منابع
 
-* [فرمت فایل بسته بسته] (http://s.sudre.free.fr/Stuff/Ivanhoe/FLAT.html)
+* [فرمت فایل بسته بسته](http://s.sudre.free.fr/Stuff/Ivanhoe/FLAT.html)
 
 * [PKG - Wikipedia](https://en.wikipedia.org/wiki/.pkg)
 

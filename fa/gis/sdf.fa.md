@@ -29,7 +29,7 @@ A Spatial Data File (SDF) is a Geodatabase file format that was developed by Aut
 
 ## منابع
 
-* [قالب داده SDF] (https://en.wikipedia.org/wiki/Spatial_Data_File)
+* [قالب داده SDF](https://en.wikipedia.org/wiki/Spatial_Data_File)
 
 * [Importing Autodesk SDF](http://docs.autodesk.com/CIV3D/2013/ENU/index.html?url=filesMAPC3D/GUID-EC7140D6-F14F-4F7B-B431-FF0BAD7AE86C.htm,topicNumber=MAPC3Dd30e43012)
 

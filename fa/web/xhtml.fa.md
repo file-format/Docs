@@ -113,6 +113,6 @@ The back ward compatibility of XHTML 1.  اسناد به خوبی با عوام�
 
 ## منابع
 
-* [تاریخچه XHTML: از دهه 1990 تا امروز] (https://www.brighthub.com/internet/web-development/articles/109224.aspx)
+* [تاریخچه XHTML: از دهه 1990 تا امروز](https://www.brighthub.com/internet/web-development/articles/109224.aspx)
 
 

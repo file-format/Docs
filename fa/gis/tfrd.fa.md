@@ -27,7 +27,7 @@
 
 ## منابع ##
 
-* [اطلاعات جغرافیایی ملی - NGA] (https://www.nga.mil/index.html)
+* [اطلاعات جغرافیایی ملی - NGA](https://www.nga.mil/index.html)
 
 * [فرمت‌های فایل GIS](/gis/)
 

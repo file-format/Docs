@@ -27,7 +27,7 @@
 
 ## منابع
 
-* [آموزش هوشمند فناوری] (https://www.smarttech.com/en/education)
+* [آموزش هوشمند فناوری](https://www.smarttech.com/en/education)
 
 * [سیستم پاسخگویی هوشمند - مرکز آموزشی](https://downloads.smarttech.com/media/trainingcenter/qrsrespsettingup.pdf)
 

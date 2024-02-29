@@ -37,6 +37,6 @@ DZ یک فرمت فایل اختصاصی است و جزئیات فنی آن در
 
 ## منابع
 
-* [Dzip] (https://speeddemosarchive.com/dzip/)
+* [Dzip](https://speeddemosarchive.com/dzip/)
 
 

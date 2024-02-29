@@ -48,6 +48,6 @@ WEBA یک فایل صوتی است، بنابراین نمی توان آن را 
 
 ## منابع
 
-* [فرمت فایل OGG] (https://en.wikipedia.org/wiki/Ogg)
+* [فرمت فایل OGG](https://en.wikipedia.org/wiki/Ogg)
 
 

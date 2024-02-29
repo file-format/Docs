@@ -77,6 +77,6 @@ static char*<variable_name>[] = {
 
 * [XPM - Wikipedia](https://en.wikipedia.org/wiki/X_PixMap)
 
-* [راهنمای XPM] (http://www.xfree86.org/current/xpm.pdf)
+* [راهنمای XPM](http://www.xfree86.org/current/xpm.pdf)
 
 

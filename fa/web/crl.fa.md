@@ -39,10 +39,10 @@
 
 ## منابع
 
-* [موسسه ملی استاندارد و فناوری (NIST)] (https://csrc.nist.gov/glossary/term/CRL)
+* [موسسه ملی استاندارد و فناوری (NIST)](https://csrc.nist.gov/glossary/term/CRL)
 
-* [RFC 5280 گروه ویژه مهندسی اینترنت (IETF)] (https://tools.ietf.org/html/rfc5280)
+* [RFC 5280 گروه ویژه مهندسی اینترنت (IETF)](https://tools.ietf.org/html/rfc5280)
 
-* [فهرست لغو گواهینامه] (https://en.wikipedia.org/wiki/Certificate_revocation_list)
+* [فهرست لغو گواهینامه](https://en.wikipedia.org/wiki/Certificate_revocation_list)
 
 

@@ -49,6 +49,6 @@ VBA اجازه می دهد تا به تمام بخش های برنامه و هم
 
 * [[MS-XLS] - ساختار قالب فایل باینری اکسل](https://msdn.microsoft.com/en-us/library/cc313154(v#office.12).aspx)
 
-* [برنامه نویسی ماکرو] (https://en.wikipedia.org/wiki/Microsoft_Excel#Macro_programming)
+* [برنامه نویسی ماکرو](https://en.wikipedia.org/wiki/Microsoft_Excel#Macro_programming)
 
 

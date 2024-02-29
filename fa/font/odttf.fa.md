@@ -30,5 +30,5 @@ NiXPS View و NiXPS Edit.
 
 ## منابع
  * [مشخصات فونت OpenType توسط مایکروسافت](https://learn.microsoft.com/en-us/typography/opentype/spec/overview)
- * [نمایش اجمالی TrueType] (https://learn.microsoft.com/en-us/typography/truetype/)
+ * [نمایش اجمالی TrueType](https://learn.microsoft.com/en-us/typography/truetype/)
 

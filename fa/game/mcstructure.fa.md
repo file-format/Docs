@@ -53,6 +53,6 @@ MCStructure Editor یک ابزار شخص ثالث است که برای ایجا
 5. پس از بارگذاری فایل، گزینه Import را انتخاب کنید تا ساختار در دنیای بازی قرار گیرد.
 
 ## منابع
-* [فایل Mcstructure] (https://wiki.bedrock.dev/nbt/mcstructure.html)
+* [فایل Mcstructure](https://wiki.bedrock.dev/nbt/mcstructure.html)
 
 

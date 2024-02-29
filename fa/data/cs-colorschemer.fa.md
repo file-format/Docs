@@ -69,6 +69,6 @@ ColorSchemer Studio نرم افزاری است که برای ایجاد و مد�
 - [CS - CSharp Code File](/programming/cs/)
 
 ## منابع
-* [ColorSchemer Studio 2] (https://www.colorschemer.com/)
+* [ColorSchemer Studio 2](https://www.colorschemer.com/)
 
 

@@ -37,8 +37,8 @@
 بنابراین، WAL اصطلاح کلی برای فرمت فایل است، db-wal یک پیاده سازی خاص از فرمت فایل WAL است که توسط پایگاه های داده SQLite استفاده می شود.
 
 ## منابع
-* [فرمت فایل حالت WAL] (https://www.sqlite.org/walformat.html)
+* [فرمت فایل حالت WAL](https://www.sqlite.org/walformat.html)
 
-* [ ثبت پیش از نوشتن] (https://www.sqlite.org/wal.html)
+* [ ثبت پیش از نوشتن](https://www.sqlite.org/wal.html)
 
 

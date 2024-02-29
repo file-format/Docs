@@ -63,6 +63,6 @@ PyMOL یک سیستم تجسم مولکولی و ابزار نرم افزاری 
 - **NWChem** (رایگان) برای (ویندوز، مک، لینوکس)
 
 ## منابع
-* [فرمت فایل مکعب گاوسی] (https://paulbourke.net/dataformats/cube/)
+* [فرمت فایل مکعب گاوسی](https://paulbourke.net/dataformats/cube/)
 
 

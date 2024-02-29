@@ -41,6 +41,6 @@ DCR یک فرمت اختصاصی است که توسط شرکت Eastman Kodak ت�
 
 * [قالب تصویر خام - توسط ویکی پدیا](https://en.wikipedia.org/wiki/Raw_image_format)
 
-* [فایل DCR چیست] (https://expertphotography.com/dcr-file/)
+* [فایل DCR چیست](https://expertphotography.com/dcr-file/)
 
 

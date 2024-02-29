@@ -83,6 +83,6 @@ Kdenlive ابزارهای ویرایش زیادی از جمله انتقال، �
 - [CPI - Codepage Information File](/system/cpi/)
 
 ## منابع
-* [Kdenlive] (https://en.wikipedia.org/wiki/Kdenlive)
+* [Kdenlive](https://en.wikipedia.org/wiki/Kdenlive)
 
 

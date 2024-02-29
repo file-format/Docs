@@ -35,6 +35,6 @@
 
 * [SHSH Blob - توسط ویکی پدیا](https://en.wikipedia.org/wiki/SHSH_blob)
 
-* [TSS Saver] (https://tsssaver.1conan.com/v2/)
+* [TSS Saver](https://tsssaver.1conan.com/v2/)
 
 

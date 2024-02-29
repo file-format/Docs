@@ -48,6 +48,6 @@
 اگر قصد شما صرفاً مشاهده محتویات فایل RMD است، می توانید آن را با استفاده از هر ویرایشگر متنی باز کنید.
 
 ## منابع
-* [مقدمه ای بر R Markdown] (https://rmarkdown.rstudio.com/articles_intro.html)
+* [مقدمه ای بر R Markdown](https://rmarkdown.rstudio.com/articles_intro.html)
 
 

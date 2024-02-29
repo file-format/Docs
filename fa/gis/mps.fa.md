@@ -29,11 +29,11 @@
 
 برخی از برنامه های GIS وجود دارند که می توانند به عنوان جایگزین MapPoint استفاده شوند.
 
- * [RouteSavvy] (https://www.routesavvy.com/)
- * [منطقه آسان] (https://www.easyterritory.com/)
+ * [RouteSavvy](https://www.routesavvy.com/)
+ * [منطقه آسان](https://www.easyterritory.com/)
 
 ## منابع
 
-* [TopGraphic EasyGPS] (https://www.easygps.com/)
+* [TopGraphic EasyGPS](https://www.easygps.com/)
 
 

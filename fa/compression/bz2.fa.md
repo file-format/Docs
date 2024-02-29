@@ -45,6 +45,6 @@ bzip2 -d filename.bz2
 
 ## منابع
 
-* [مشخصات قالب BZIP2] (https://github.com/dsnet/compress/blob/master/doc/bzip2-format.pdf)
+* [مشخصات قالب BZIP2](https://github.com/dsnet/compress/blob/master/doc/bzip2-format.pdf)
 
 

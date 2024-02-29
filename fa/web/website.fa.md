@@ -31,6 +31,6 @@ A WEBSITE file is a website shortcut file created with Microsoft Internet Explor
 
 ## منابع
 
-* [WEBLOC Opener] (https://github.com/benchdoos/WeblocOpener)
+* [WEBLOC Opener](https://github.com/benchdoos/WeblocOpener)
 
 

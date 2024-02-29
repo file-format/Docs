@@ -89,9 +89,9 @@
 
 ## منابع
 
-* [RFC 4180] (https://tools.ietf.org/html/rfc4180)
+* [RFC 4180](https://tools.ietf.org/html/rfc4180)
 
-* [RFC 2048] (https://tools.ietf.org/html/rfc2048)
+* [RFC 2048](https://tools.ietf.org/html/rfc2048)
 
 * [CSV - Wikipedia](https://en.wikipedia.org/wiki/Comma-separated_values)
 

@@ -101,6 +101,6 @@ map_Kd texture.jpg  # Diffuse texture map
 - Cheetah3D
 
 ## منابع
-* [فایل Wavefront .obj] (https://en.wikipedia.org/wiki/Wavefront_.obj_file)
+* [فایل Wavefront .obj](https://en.wikipedia.org/wiki/Wavefront_.obj_file)
 
 

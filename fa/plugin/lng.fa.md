@@ -41,5 +41,5 @@ Winamp is a media player for Windows operating systems that gained immense popul
 
 ## منابع
 
- * [Winamp] (https://www.winamp.com/)
+ * [Winamp](https://www.winamp.com/)
 

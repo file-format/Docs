@@ -49,6 +49,6 @@
 
 ## منابع
 
-* [مبانی نوت بوک Mathematica] (https://reference.wolfram.com/language/guide/NotebookBasics.html)
+* [مبانی نوت بوک Mathematica](https://reference.wolfram.com/language/guide/NotebookBasics.html)
 
 

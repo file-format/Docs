@@ -52,7 +52,7 @@ FileMaker Pro، توسعه یافته توسط Claris International Inc.، یک 
 - FileMaker Pro Advanced (Mac)
 
 ## منابع
-* [FileMaker] (https://en.wikipedia.org/wiki/FileMaker)
+* [FileMaker](https://en.wikipedia.org/wiki/FileMaker)
 
 
 

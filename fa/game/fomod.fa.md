@@ -41,6 +41,6 @@
 
 * [فرمت فایل FOMOD](https://wiki.nexusmods.com/index.php/Installing_A_Mod_With_FOMM)
 
-* [ویدئو بازی مودینگ] (https://en.wikipedia.org/wiki/Video_game_modding)
+* [ویدئو بازی مودینگ](https://en.wikipedia.org/wiki/Video_game_modding)
 
 

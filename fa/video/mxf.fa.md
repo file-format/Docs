@@ -131,5 +131,5 @@
 
  * [MXF - Wikipedia](https://en.wikipedia.org/wiki/Material_Exchange_Format)
  * [MXF - Progress Report](https://tech.ebu.ch/docs/techreview/trev_2010-Q3_MXF-1.pdf)
- * [کتابخانه OpenSource C++ for MXF] (http://www.freemxf.org/)
+ * [کتابخانه OpenSource C++ for MXF](http://www.freemxf.org/)
 

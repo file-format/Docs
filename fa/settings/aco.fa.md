@@ -48,6 +48,6 @@
 شما می توانید فایل ACO را با استفاده از Adobe Photoshop باز کنید. Adobe Photoshop را باز کنید، Load Swatches را از منوی ویندوز انتخاب کنید، محل فایل ACO را انتخاب کنید، سپس روی Load کلیک کنید تا فایل ACO باز شود.
 
 ## منابع
-* [Adobe Color Swatch] (https://color.adobe.com/create/color-wheel)
+* [Adobe Color Swatch](https://color.adobe.com/create/color-wheel)
 
 

@@ -29,6 +29,6 @@
 
 * [MAPX](https://www.mapx.org/)
 
-* [MapXtreme] (https://mappingsolutions.com/mapxtreme/)
+* [MapXtreme](https://mappingsolutions.com/mapxtreme/)
 
 

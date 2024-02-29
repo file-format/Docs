@@ -27,6 +27,6 @@
 
 ## منابع
 
-* [وب سایت NNG] (https://www.nng.com/)
+* [وب سایت NNG](https://www.nng.com/)
 
 

@@ -99,6 +99,6 @@ It is common for a document to contain several scripts. Each script in an OpenDo
 Mater Styles - یک سبک رایج که حاوی اطلاعات قالب‌بندی و محتوای اضافی است که هنگام اعمال سبک همراه با محتوای سند نمایش داده می‌شود. نمونه ای از یک سبک اصلی صفحات اصلی هستند.
 
 ## منابع ##
-  * [فرمت سند باز OASIS برای برنامه های اداری] (https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=office)
+  * [فرمت سند باز OASIS برای برنامه های اداری](https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=office)
   * [فرمت OpenDocument - Wikipedia](https://en.wikipedia.org/wiki/OpenDocument)
 

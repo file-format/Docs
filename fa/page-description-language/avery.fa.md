@@ -31,5 +31,5 @@
 
 ## منابع
 
- * [طراحی و چاپ AVERY] (https://www.avery.com/software/design-and-print/)
+ * [طراحی و چاپ AVERY](https://www.avery.com/software/design-and-print/)
 

@@ -61,6 +61,6 @@ e657VYZXuPZ+6jvZNL9hOw7Fk5pVVXWdr8csJ6JUW8QdH9KB6ZlM4yg8Df+vat1G6GuD2hiIR7fQ0NtP
 
 ## منابع
 
-* [Concept Application Server] (https://github.com/Devronium/ConceptApplicationServer)
+* [Concept Application Server](https://github.com/Devronium/ConceptApplicationServer)
 
 

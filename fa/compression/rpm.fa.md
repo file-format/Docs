@@ -42,8 +42,8 @@
 
 ## منابع
 
-* [RPM - Wikipedia] (https://rpm.org)
+* [RPM - Wikipedia](https://rpm.org)
 
-* [اسناد RPM] (https://rpm.org/documentation.html)
+* [اسناد RPM](https://rpm.org/documentation.html)
 
 

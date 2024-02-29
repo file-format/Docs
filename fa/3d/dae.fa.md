@@ -170,5 +170,5 @@ A DAE file is a Digital Asset Exchange file format that is used for exchanging d
 ```
 
 ## منابع
- * [مشخصات COLLADA 1.5.0] (https://www.khronos.org/files/collada_spec_1_5.pdf)
+ * [مشخصات COLLADA 1.5.0](https://www.khronos.org/files/collada_spec_1_5.pdf)
 

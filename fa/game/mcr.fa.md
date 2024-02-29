@@ -39,12 +39,12 @@
 
 ## منابع
 
-* [ویرایشگر جهانی برای Minecraft] (https://www.mcedit.net/)
+* [ویرایشگر جهانی برای Minecraft](https://www.mcedit.net/)
 
-* [درباره Minecraft] (https://www.minecraft.net/)
+* [درباره Minecraft](https://www.minecraft.net/)
 
-* [فرمت فایل منطقه] (https://minecraft.fandom.com/wiki/Region_file_format)
+* [فرمت فایل منطقه](https://minecraft.fandom.com/wiki/Region_file_format)
 
-* [قالب NBT] (https://minecraft.fandom.com/wiki/NBT_format)
+* [قالب NBT](https://minecraft.fandom.com/wiki/NBT_format)
 
 

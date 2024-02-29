@@ -27,6 +27,6 @@
 
 ## منابع
 
- * [نرم افزار CNC Mastercam] (https://www.mastercam.com/)
+ * [نرم افزار CNC Mastercam](https://www.mastercam.com/)
  * [کنترل عددی - ویکی پدیا](https://en.wikipedia.org/wiki/Numerical_control)
 

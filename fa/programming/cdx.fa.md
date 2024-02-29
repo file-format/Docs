@@ -47,6 +47,6 @@ In notable development, Alpha Software Corporation, the entity behind Alpha Five
 - [CDX - Alpha Five Table Index File](/programming/cdx/)
 
 ## منابع
-* [نرم افزار آلفا] (https://www.alphasoftware.com/)
+* [نرم افزار آلفا](https://www.alphasoftware.com/)
 
 

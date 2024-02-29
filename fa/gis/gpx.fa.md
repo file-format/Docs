@@ -90,7 +90,7 @@
 
 ## منابع ##
 
-* [فرمت فایل GPX] (https://www.topografix.com/gpx.asp)
+* [فرمت فایل GPX](https://www.topografix.com/gpx.asp)
 
 * [GPX - توسط ویکی‌پدیا](https://en.wikipedia.org/wiki/GPS_Exchange_Format)
 

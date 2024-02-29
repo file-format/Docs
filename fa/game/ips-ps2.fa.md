@@ -90,6 +90,6 @@ QuickBMS ابزاری همه کاره و قدرتمند برای استخراج 
 - [IPS - iOS Analytics Data](/misc/ips/)
 
 ## منابع
-* [QuickBMS] (http://aluigi.altervista.org/quickbms.htm)
+* [QuickBMS](http://aluigi.altervista.org/quickbms.htm)
 
 

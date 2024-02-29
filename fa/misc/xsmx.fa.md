@@ -27,6 +27,6 @@
 
 ## منابع
 
-* [ExamSoft SoftTest] (https://examsoft.com/about-examsoft/)
+* [ExamSoft SoftTest](https://examsoft.com/about-examsoft/)
 
 

@@ -29,7 +29,7 @@
 
 ## منابع
 
-* [اسناد اصلی] (https://wiki.openoffice.org/wiki/Documentation/UserGuide/Writer/MasterDoc)
+* [اسناد اصلی](https://wiki.openoffice.org/wiki/Documentation/UserGuide/Writer/MasterDoc)
 
 * [ایجاد یک فایل از یک سند اصلی و اسناد فرعی آن](https://wiki.openoffice.org/wiki/Documentation/OOo3_User_Guides/Writer_Guide/Creating_one_file_from_a_master_document)
 

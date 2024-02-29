@@ -27,7 +27,7 @@
 
 ## منابع
 
-* [راهنمای VIMRC] (https://gist.github.com/simonista/8703722)
+* [راهنمای VIMRC](https://gist.github.com/simonista/8703722)
 
 * [VIMRC](https://github.com/amix/vimrc)
 

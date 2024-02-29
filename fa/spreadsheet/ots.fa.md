@@ -76,7 +76,7 @@
 
 ## منابع ##
 
-* [مشخصات OpenDocument 1.2] (https://www.oasis-open.org/standards#opendocumentv1.2)
+* [مشخصات OpenDocument 1.2](https://www.oasis-open.org/standards#opendocumentv1.2)
 
 * [OpenDocument - توسط Wikipedia](https://en.wikipedia.org/wiki/OpenDocument)
 

@@ -192,6 +192,6 @@ KML was originally developed for use with Google Earth which was originally know
 
 * [آموزش برنامه‌نویس Google برای KML](https://developers.google.com/kml/documentation/kml_tut)
 
-* [فرمت فایل KML] (https://en.wikipedia.org/wiki/Keyhole_Markup_Language)
+* [فرمت فایل KML](https://en.wikipedia.org/wiki/Keyhole_Markup_Language)
 
 

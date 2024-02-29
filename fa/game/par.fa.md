@@ -76,7 +76,7 @@ FMS یک سیستم نرم افزاری است که در هواپیما برای
 ## منابع
 * [Flying-Model-Simulator (FMS)](https://modelsimulator.com/)
 
-* [شبیه ساز پرواز مایکروسافت] (https://en.wikipedia.org/wiki/Microsoft_Flight_Simulator)
+* [شبیه ساز پرواز مایکروسافت](https://en.wikipedia.org/wiki/Microsoft_Flight_Simulator)
 
 
 

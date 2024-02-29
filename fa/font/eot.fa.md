@@ -92,7 +92,7 @@
 
 ## منابع
 
- * [فرمت فایل EOT] (https://www.w3.org/Submission/EOT/)
+ * [فرمت فایل EOT](https://www.w3.org/Submission/EOT/)
  * [Embedded OpenType](https://en.wikipedia.org/wiki/Embedded_OpenType)
  * [جاسازی قلم](https://en.wikipedia.org/wiki/Font_embedding)
 

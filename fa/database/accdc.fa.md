@@ -38,7 +38,7 @@
 
 * [Access 2016 Specifications](https://support.microsoft.com/en-us/office/access-specifications-0cf3c66f-9cf2-4e32-9568-98c1025bb47c)
 
-* [موتور پایگاه داده جت مایکروسافت] (https://en.wikipedia.org/wiki/Microsoft_Jet_Database_Engine)
+* [موتور پایگاه داده جت مایکروسافت](https://en.wikipedia.org/wiki/Microsoft_Jet_Database_Engine)
 
 * [از کدام فرمت فایل اکسس استفاده کنم؟](https://support.microsoft.com/en-us/office/which-access-file-format-should-i-use-012d9ab3-d14c-479e-b617- be66f9070b41)
 

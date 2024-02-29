@@ -27,8 +27,8 @@
 
 ## منابع
 
-* [زبان نشانه گذاری ColdFusion] (https://people.apache.org/~jim/NewArchitect/webtech/2000/08/junk/index.html)
+* [زبان نشانه گذاری ColdFusion](https://people.apache.org/~jim/NewArchitect/webtech/2000/08/junk/index.html)
 
-* [Adobe ColdFusion] (https://en.wikipedia.org/wiki/Adobe_ColdFusion)
+* [Adobe ColdFusion](https://en.wikipedia.org/wiki/Adobe_ColdFusion)
 
 

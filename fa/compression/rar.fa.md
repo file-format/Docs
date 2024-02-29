@@ -105,7 +105,7 @@ RAR برای مدت طولانی در این زمینه بوده است و یک�
 
 ## منابع
 
-* [فرمت آرشیو RAR 5.0] (https://www.rarlab.com/technote.htm)
+* [فرمت آرشیو RAR 5.0](https://www.rarlab.com/technote.htm)
 
 * [RAR - توسط Wikipedia](https://en.wikipedia.org/wiki/RAR_(file_format))
 

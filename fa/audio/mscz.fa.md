@@ -64,6 +64,6 @@
 جزئیات خاص فرمت فایل mscz اختصاصی MuseScore است و ساختار داخلی و سازماندهی دقیق فایل ممکن است بین نسخه های مختلف MuseScore تغییر کند. این بدان معنی است که فقط MuseScore و سایر نرم افزارهای سازگار می توانند فایل های mscz. را به طور قابل اعتماد تفسیر و کار کنند.
 
 ## منابع
-* [MuseScore] (https://en.wikipedia.org/wiki/MuseScore)
+* [MuseScore](https://en.wikipedia.org/wiki/MuseScore)
 
 

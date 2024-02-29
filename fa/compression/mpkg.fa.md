@@ -85,8 +85,8 @@ app.pkg - بسته فرعی است که باید نصب شود. این دایر�
 
 ## منابع
 
-* [بسته‌های مسطح OSX] (https://matthew-brett.github.io/docosx/flat_packages.html)
+* [بسته‌های مسطح OSX](https://matthew-brett.github.io/docosx/flat_packages.html)
 
-* [C++ MPKG Package Manager] (https://github.com/puellavulnerata/mpkg)
+* [C++ MPKG Package Manager](https://github.com/puellavulnerata/mpkg)
 
 

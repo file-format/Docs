@@ -34,6 +34,6 @@ WBFS فایل های باینری هستند که فرمت فایل اختصاص
 
 ## منابع
 
-* [ابزارهای ISO WIIMMS] (https://github.com/Wiimm/wiimms-iso-tools)
+* [ابزارهای ISO WIIMMS](https://github.com/Wiimm/wiimms-iso-tools)
 
 

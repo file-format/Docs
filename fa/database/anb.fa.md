@@ -45,7 +45,7 @@
 
 ## منابع
 
-* [نوت بوک تحلیلگر امنیت i2 IBM] (https://www.ibm.com/products/i2-analysts-notebook)
+* [نوت بوک تحلیلگر امنیت i2 IBM](https://www.ibm.com/products/i2-analysts-notebook)
 
 * [مکان پوشه‌های محلی و گروه کاری برای مشخصات واردات و قالب‌بندی مشروط](https://www.ibm.com/support/pages/node/3544449?mhsrc=ibmsearch_a&mhq=ANB%20file%20format)
 

@@ -40,7 +40,7 @@ OEBZIP عملکردهای جدید بیشتری را در زمینه کنترل 
 
 ## منابع
 
-* [OEBPS (ساختار انتشار انجمن باز کتاب الکترونیک) 1.2] (https://www.loc.gov/preservation/digital/formats/fdd/fdd000171.shtml)
+* [OEBPS (ساختار انتشار انجمن باز کتاب الکترونیک) 1.2](https://www.loc.gov/preservation/digital/formats/fdd/fdd000171.shtml)
 
 * [EBook را باز کنید](https://en.wikipedia.org/wiki/Open_eBook)
 

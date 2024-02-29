@@ -55,6 +55,6 @@
 
 * [MNG](http://www.libpng.org/pub/mng/)
 
-* [قالب MNG نسخه 1.0] (http://www.libpng.org/pub/mng/spec/)
+* [قالب MNG نسخه 1.0](http://www.libpng.org/pub/mng/spec/)
 
 

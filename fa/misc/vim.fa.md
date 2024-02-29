@@ -23,6 +23,6 @@
 
 ## منابع
 
-* [Vim] (https://www.vim.org/)
+* [Vim](https://www.vim.org/)
 
 

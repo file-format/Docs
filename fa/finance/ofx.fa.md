@@ -113,6 +113,6 @@
 
 * [Open Financial Exchange - By Wikipedia](https://en.wikipedia.org/wiki/Open_Financial_Exchange)
 
-* [استاندارد ISO برای تبادل الکترونیکی داده] (https://en.wikipedia.org/wiki/ISO_20022)
+* [استاندارد ISO برای تبادل الکترونیکی داده](https://en.wikipedia.org/wiki/ISO_20022)
 
 

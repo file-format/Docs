@@ -40,6 +40,6 @@
 
 * [صوت میمون - توسط ویکی پدیا](https://en.wikipedia.org/wiki/Monkey%27s_Audio)
 
-* [Monkey's Audio - یک کمپرسور صوتی سریع و قدرتمند بدون تلفات] (https://monkeysaudio.com/index.html)
+* [Monkey's Audio - یک کمپرسور صوتی سریع و قدرتمند بدون تلفات](https://monkeysaudio.com/index.html)
 
 

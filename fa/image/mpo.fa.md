@@ -31,6 +31,6 @@
 
 ## منابع ##
 
-* [استانداردهای CIPA] (https://www.cipa.jp/e/std/std-sec.html)
+* [استانداردهای CIPA](https://www.cipa.jp/e/std/std-sec.html)
 
 

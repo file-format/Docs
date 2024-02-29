@@ -88,8 +88,8 @@ XML خروجی تولید شده با صادرات مطابق شکل زیر اس
 
 * [DRAWIO - Github](https://github.com/jgraph/drawio)
 
-* [DRAWIO - برنامه آنلاین] (https://app.diagrams.net/)
+* [DRAWIO - برنامه آنلاین](https://app.diagrams.net/)
 
-* [Diagrams.Net] (https://www.diagrams.net/)
+* [Diagrams.Net](https://www.diagrams.net/)
 
 

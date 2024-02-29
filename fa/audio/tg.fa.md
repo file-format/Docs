@@ -52,6 +52,6 @@ TuxGuitar یک برنامه نت‌نویسی متن‌باز و چند پلتف
 این فرآیند به شما امکان می دهد به فایل های TuxGuitar خود در برنامه TuxGuitar دسترسی داشته باشید و با آنها کار کنید.
 
 ## منابع
-* [TuxGuitar] (https://en.wikipedia.org/wiki/TuxGuitar)
+* [TuxGuitar](https://en.wikipedia.org/wiki/TuxGuitar)
 
 

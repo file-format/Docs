@@ -58,6 +58,6 @@ WLMP (Windows Live Movie Maker Project) یک فرمت فایل است که به 
 توجه داشته باشید که یک فایل WLMP یک فایل ویدئویی نیست، بلکه یک فایل پروژه است که حاوی اطلاعاتی در مورد ترتیب کلیپ های ویدئویی، عکس ها و تراک های صوتی در یک پروژه سینمایی است. برای ویرایش پروژه باید از Windows Live Movie Maker استفاده کنید و آن را به صورت فرمت فایل ویدیویی مانند WMV یا MP4 صادر کنید تا در پخش کننده های رسانه پخش شود.
 
 ## منابع
-* [Windows Live Movie Maker] (https://en.wikipedia.org/wiki/Windows_Movie_Maker)
+* [Windows Live Movie Maker](https://en.wikipedia.org/wiki/Windows_Movie_Maker)
 
 

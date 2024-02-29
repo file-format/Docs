@@ -53,6 +53,6 @@
 سپس نرم افزار Wwise فایل Wwise Project و تمام دارایی ها و تنظیمات صوتی مرتبط با آن را بارگیری می کند. سپس می توانید پروژه را در صورت نیاز با استفاده از ابزارها و ویژگی های مختلف ارائه شده توسط نرم افزار Wwise ویرایش و اصلاح کنید.
 
 ## منابع
-* [Audiokinetic Wwise] (https://en.wikipedia.org/wiki/Audiokinetic_Wwise)
+* [Audiokinetic Wwise](https://en.wikipedia.org/wiki/Audiokinetic_Wwise)
 
 

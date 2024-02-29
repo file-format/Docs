@@ -74,6 +74,6 @@ STML بر اساس فرمت فایل متنی ساده ascii است که برا�
 ```
 ## منابع
 
-* [Server Side Includes] (https://en.wikipedia.org/wiki/Server_Side_Includes)
+* [Server Side Includes](https://en.wikipedia.org/wiki/Server_Side_Includes)
 
 

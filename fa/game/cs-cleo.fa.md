@@ -109,6 +109,6 @@
 - [CS - CSharp Code File](/programming/cs/)
 
 ## منابع
-* [کتابخانه CLEO] (https://cleo.li/)
+* [کتابخانه CLEO](https://cleo.li/)
 
 

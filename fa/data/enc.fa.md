@@ -56,6 +56,6 @@
 - TIMEZERO
 
 ## منابع
-* [نمودار ناوبری الکترونیک] (https://en.wikipedia.org/wiki/Electronic_navigational_chart)
+* [نمودار ناوبری الکترونیک](https://en.wikipedia.org/wiki/Electronic_navigational_chart)
 
 

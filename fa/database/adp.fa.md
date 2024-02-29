@@ -55,6 +55,6 @@ A file with .adp extension is a Microsoft Access project file that uses OLE DB c
 
 ## منابع
 
-* [ایجاد پروژه دسترسی] (https://support.microsoft.com/en-us/office/create-an-access-project-89c48da0-55a4-45d4-9ee5-95f67383d4cb)
+* [ایجاد پروژه دسترسی](https://support.microsoft.com/en-us/office/create-an-access-project-89c48da0-55a4-45d4-9ee5-95f67383d4cb)
 
 

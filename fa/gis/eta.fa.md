@@ -28,6 +28,6 @@ A file with .eta extension is a Google Earth Placemark file that is created with
 
 ## منابع
 
-* [Google Earth برای وب] (https://earth.google.com/web/)
+* [Google Earth برای وب](https://earth.google.com/web/)
 
 

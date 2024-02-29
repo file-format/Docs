@@ -47,6 +47,6 @@ Exient Entertainment موتور بازی Exient XGS را ایجاد کرد. ای
 - Rovio Angry Birds برو!
 
 ## منابع
-* [Exient Entertainment] (https://en.wikipedia.org/wiki/Exient_Entertainment)
+* [Exient Entertainment](https://en.wikipedia.org/wiki/Exient_Entertainment)
 
 
