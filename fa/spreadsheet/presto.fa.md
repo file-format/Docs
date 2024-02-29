@@ -7,10 +7,10 @@
 "نحوه باز کردن فایل presto",
 "پسوند فایل presto",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل PRESTO - صفحه گسترده پروژه Presto",
@@ -21,7 +21,7 @@
       "identifier": "spreadsheet-presto-fa",
       "parent": "spreadsheet"
 }
-}،
+},
   "lastmod": "2023-03-01"
 }
 

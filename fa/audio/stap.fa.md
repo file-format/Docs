@@ -7,10 +7,10 @@
 "قالب",
 "سمعی",
 "MPEG"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل STAP و APIهایی که می توانند فایل های STAP را باز و ایجاد کنند آشنا شوید.",
@@ -21,7 +21,7 @@
       "parent": "audio",
       "identifier": "audio-sta-fap"
 }
-}،
+},
   "lastmod": "2020-09-04"
 }
 

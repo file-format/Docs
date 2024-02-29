@@ -2,7 +2,7 @@
   "date": "2019-10-11",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فایل HYPE - قالب فایل سند Hype",
@@ -13,7 +13,7 @@
       "parent": "web",
       "identifier": "web-hyp-fae"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

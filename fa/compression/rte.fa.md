@@ -9,10 +9,10 @@
 "پسوند فایل rte",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "RTE - فایل رمزگذاری شده RTE",
@@ -23,7 +23,7 @@
       "parent": "compression",
       "identifier": "compression-rt-fae"
 }
-}،
+},
   "lastmod": "2021-04-14"
 }
 

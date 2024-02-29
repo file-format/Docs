@@ -8,10 +8,10 @@
 "فایل",
 "پسوند فایل FLH",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل FLH - فایل انیمیشن FLIC",
@@ -22,7 +22,7 @@
       "identifier": "video-flh-fa",
       "parent": "video"
 }
-}،
+},
   "lastmod": "2023-06-22"
 }
 

@@ -9,10 +9,10 @@
 "پسوند فایل رام",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "با فرمت فایل ROM و API هایی که می توانند فایل های ROM را ایجاد و باز کنند آشنا شوید.",
@@ -23,7 +23,7 @@
       "parent": "disc-and-media",
       "identifier": "disc-and-media-ro-fam"
 }
-}،
+},
   "lastmod": "2021-08-10"
 }
 

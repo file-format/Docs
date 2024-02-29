@@ -8,10 +8,10 @@
 "فایل",
 "پسوند فایل cc",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل CC - فایل کد منبع C++",
@@ -22,7 +22,7 @@
       "identifier": "programming-cc-fa",
       "parent": "programming"
 }
-}،
+},
   "lastmod": "2023-05-08"
 }
 

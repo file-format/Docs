@@ -9,10 +9,10 @@
 "پسوند فایل xci",
 "افزونه",
 "فایل"
-]،
+],
    "author":{
       "display_name":"Shakeel Faiz"
-}،
+},
    "draft":"false",
    "toc":true,
    "title":"فایل XCI - فایل xci چیست و چگونه آن را باز کنیم؟",
@@ -23,7 +23,7 @@
          "identifier":"game-xci-fa",
          "parent":"game"
 }
-}،
+},
    "lastmod":"2023-11-09"
 }
 

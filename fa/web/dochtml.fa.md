@@ -2,7 +2,7 @@
   "date": "2022-06-01",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل DOCHTML - فایل سند HTML مایکروسافت ورد",
@@ -13,7 +13,7 @@
       "parent": "web",
       "identifier": "web-dochtm-fal"
 }
-}،
+},
   "lastmod": "2022-06-01"
 }
 

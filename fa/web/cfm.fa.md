@@ -11,10 +11,10 @@
 "صفحات وب CFM",
 "موتور CFML",
 "CFML"
-]،
+],
   "author": {
     "display_name": "Sami Cheema"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "CFM - نشانه گذاری Cold Fusion",
@@ -25,7 +25,7 @@
       "parent": "web",
       "identifier": "web-cf-fam"
 }
-}،
+},
   "lastmod": "2021-07-13"
 }
 

@@ -10,10 +10,10 @@
 "سیستم عامل مک",
 "سیب",
 "آیکون"
-]،
+],
   "author": {
     "display_name": "Sami Cheema"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "ICNS - تصویر نماد اپل",
@@ -24,7 +24,7 @@
       "parent": "image",
       "identifier": "image-icn-fas"
 }
-}،
+},
   "lastmod": "2021-06-29"
 }
 

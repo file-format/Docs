@@ -9,10 +9,10 @@
 "فایل",
 "پسوند فایل wps",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل WPS - فایل پروژه میز کار مترجم SDL",
@@ -23,7 +23,7 @@
       "identifier": "settings-wps-fa",
       "parent": "settings"
 }
-}،
+},
   "lastmod": "2023-09-21"
 }
 

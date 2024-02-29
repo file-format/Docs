@@ -8,10 +8,10 @@
 "نوع فایل پایگاه داده",
 "فرمت فایل پایگاه داده",
 "فایل های پایگاه داده"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل ACCDR و APIهایی که می‌توانند فایل‌های ACCDR را ایجاد و باز کنند، بیاموزید.",
@@ -22,7 +22,7 @@
       "parent": "database",
       "identifier": "database-accd-far"
 }
-}،
+},
   "lastmod": "2021-08-30"
 }
 

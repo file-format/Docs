@@ -2,7 +2,7 @@
   "date": "2022-06-13",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "راهنمای فرمت فایل شما برای دانستن اینکه فایل _XLS چیست و APIهایی که می توانند فایل های _XLS را ایجاد و باز کنند چیست.",
@@ -13,7 +13,7 @@
       "parent": "spreadsheet",
       "identifier": "spreadsheet-_xl-fas"
 }
-}،
+},
   "lastmod": "2022-06-13"
 }
 

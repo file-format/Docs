@@ -2,7 +2,7 @@
   "date" : "2024-02-01",
   "author" : {
     "display_name" : "Shakeel Faiz"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل DLC - دانلود فایل کانتینر لینک - فایل dlc چیست و چگونه آن را باز کنیم؟",
@@ -13,7 +13,7 @@
       "identifier" : "data-en-dlc-fa",
       "parent" : "data"
 }
-}،
+},
   "lastmod" : "2024-02-01"
 }
 

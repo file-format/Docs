@@ -9,10 +9,10 @@
 "پسوند فایل x3d",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "X3D - فایل تصویری سه بعدی",
@@ -23,7 +23,7 @@
       "parent": "3d",
       "identifier": "3d-x3d"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

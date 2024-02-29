@@ -9,10 +9,10 @@
 "پسوند فایل mp5",
 "افزونه",
 "فایل"
-]،
+],
    "author":{
       "display_name":"Shakeel Faiz"
-}،
+},
    "draft":"false",
    "toc":true,
    "title":"فایل MP5 - ویدیو پخش کننده رسانه قابل حمل چینی - فایل mp5 چیست و چگونه آن را باز کنیم؟",
@@ -23,7 +23,7 @@
          "identifier":"video-mp5-fa",
          "parent":"video"
 }
-}،
+},
    "lastmod":"2023-11-15"
 }
 

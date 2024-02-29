@@ -9,10 +9,10 @@
 "پسوند فایل oar",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "OAR - فرمت فایل بایگانی OpenSimulator",
@@ -23,7 +23,7 @@
       "parent": "compression",
       "identifier": "compression-oa-far"
 }
-}،
+},
   "lastmod": "2021-04-15"
 }
 

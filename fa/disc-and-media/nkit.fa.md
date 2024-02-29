@@ -11,10 +11,10 @@
 "قالب",
 "فوتر nkit",
 "فرمت فایل nkit"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "با فرمت فایل NKIT و APIهایی که می توانند فایل های NKIT را ایجاد و باز کنند آشنا شوید.",
@@ -25,7 +25,7 @@
       "parent": "disc-and-media",
       "identifier": "disc-and-media-nki-fat"
 }
-}،
+},
   "lastmod": "2022-04-01"
 }
 

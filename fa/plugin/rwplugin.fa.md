@@ -2,7 +2,7 @@
   "date" : "2023-12-15",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل RWPLUGIN - فایل RWPLUGIN چیست و چگونه آن را باز کنیم؟",
@@ -13,7 +13,7 @@
       "parent" : "plugin",
       "identifier":"plugin-en-rwplugi-fan"
 }
-}،
+},
   "lastmod" : "2023-12-15"
 }
 

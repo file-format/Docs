@@ -9,10 +9,10 @@
 "پسوند فایل rar",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "RAR",
@@ -23,7 +23,7 @@
       "parent": "compression",
       "identifier": "compression-ra-far"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

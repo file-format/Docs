@@ -3,7 +3,7 @@
   "keywords" : [ "xbrl","xbrl file", "xbrl file format", "xbrl file type", "file", "type", "what is an xbrl file" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "XBRL - فرمت فایل گزارشگری تجاری و مالی",
@@ -14,7 +14,7 @@
       "identifier":"finance-xbrl-fa",
       "parent" : "finance"
 }
-}،
+},
   "lastmod" : "2021-02-25"
 }
 

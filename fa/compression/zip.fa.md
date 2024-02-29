@@ -9,10 +9,10 @@
 "پسوند فایل zip",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "ZIP",
@@ -23,7 +23,7 @@
       "parent": "compression",
       "identifier": "compression-zi-fap"
 }
-}،
+},
   "lastmod": "2019-12-09"
 }
 

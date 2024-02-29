@@ -2,7 +2,7 @@
   "date" : "2019-10-28",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "categories" : [ "fundamentals" ],
   "description" : "زبان توصیف صفحه ظاهر یک صفحه چاپ شده را در یک زبان سطح بالاتر توصیف می کند. فرمت های رایج فایل PDL عبارتند از XPS، CGM، EPS، SVG، PS، XSLFO و PCL.",
@@ -11,9 +11,9 @@
   "menu" : {
     "docs" : {
       "parent" : "page-description-language",
-"وزن : 01"
+"weight" : "01"
 }
-}،
+},
   "lastmod" : "2020-09-01"
 }
 

@@ -3,7 +3,7 @@
   "keywords" : [ "XAR", "file", "extension", "file format", "Excel Auto-Recovery File", "Spreadsheet" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "description":"درباره فرمت فایل XAR و APIهایی که می‌توانند فایل‌های XAR را ایجاد و باز کنند، بیاموزید.",
@@ -14,7 +14,7 @@
       "identifier": "spreadsheet-xar-fa",
       "parent" : "spreadsheet"
 }
-}،
+},
   "lastmod" : "2021-06-29"
 }
 

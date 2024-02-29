@@ -2,7 +2,7 @@
   "date": "2021-04-15",
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل MPG",
@@ -20,7 +20,7 @@
 "MPEG",
 "MPEG-1",
 "MPEG-2"
-]،
+],
   "description": "درباره فرمت فایل MPG و APIهایی که می توانند ایجاد کنند و نحوه باز کردن فایل های MPG را نشان دهند، بیاموزید.",
   "linktitle": "MPG",
   "menu": {
@@ -28,7 +28,7 @@
       "parent": "video",
       "identifier": "video-mp-fag"
 }
-}،
+},
   "lastmod": "2021-07-26"
 }
 

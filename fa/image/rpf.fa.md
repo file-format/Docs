@@ -2,7 +2,7 @@
   "date" : "2024-02-15",
   "author" : {
     "display_name" : "Shakeel Faiz"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل RPF - فایل با فرمت پیکسل غنی - فایل rpf. چیست و چگونه آن را باز کنیم؟",
@@ -13,7 +13,7 @@
       "identifier" : "image-en-rpf-fa",
       "parent" : "image"
 }
-}،
+},
   "lastmod" : "2024-02-15"
 }
 

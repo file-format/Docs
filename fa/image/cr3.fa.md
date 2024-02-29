@@ -2,7 +2,7 @@
   "date" : "2022-03-26",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فرمت فایل CR3 - فایل تصویری Canon Raw 3",
@@ -13,7 +13,7 @@
       "identifier":"image-cr3-fa",
       "parent" : "image"
 }
-}،
+},
   "lastmod" : "2022-03-26"
 }
 

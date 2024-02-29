@@ -7,10 +7,10 @@
 "فرمت فایل",
 "صفحه گسترده Lotus Improv",
 "صفحه گسترده"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فایل Lotus IMP Spreadsheet و APIهایی که می‌توانند فایل‌های IMP را ایجاد و باز کنند، بیاموزید.",
@@ -21,7 +21,7 @@
       "parent": "spreadsheet",
       "identifier": "spreadsheet-im-fap"
 }
-}،
+},
   "lastmod": "2021-11-09"
 }
 

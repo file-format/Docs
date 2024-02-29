@@ -7,10 +7,10 @@
 "فرمت فایل",
 "مایکروسافت اکسل",
 "صفحه گسترده"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فایل صفحه گسترده DEX و APIهایی که می‌توانند فایل‌های DEX را ایجاد و باز کنند، بیاموزید.",
@@ -21,7 +21,7 @@
       "parent": "spreadsheet",
       "identifier": "spreadsheet-de-fax"
 }
-}،
+},
   "lastmod": "2021-11-21"
 }
 

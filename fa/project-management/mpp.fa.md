@@ -9,10 +9,10 @@
 "پسوند فایل mpp",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "MPP - فرمت فایل پروژه مایکروسافت",
@@ -23,7 +23,7 @@
       "parent": "project-management",
       "identifier": "project-management-mp-fap"
 }
-}،
+},
   "lastmod": "2021-05-07"
 }
 

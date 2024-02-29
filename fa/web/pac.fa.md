@@ -7,10 +7,10 @@
 "فرمت فایل",
 "فرمت فایل",
 "پیکربندی خودکار پروکسی"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "PAC - فایل پیکربندی خودکار پروکسی (PAC).",
@@ -21,7 +21,7 @@
       "parent": "web",
       "identifier": "web-pa-fac"
 }
-}،
+},
   "lastmod": "2021-06-17"
 }
 

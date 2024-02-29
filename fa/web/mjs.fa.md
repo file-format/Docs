@@ -7,10 +7,10 @@
 "فرمت فایل",
 "فرمت فایل",
 "فایل ماژول Node.js ES"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "MJS - فایل جاوا اسکریپت ماژول Node.js ES",
@@ -21,7 +21,7 @@
       "parent": "web",
       "identifier": "web-mj-fas"
 }
-}،
+},
   "lastmod": "2021-07-20"
 }
 

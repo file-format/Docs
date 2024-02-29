@@ -9,10 +9,10 @@
 "کتاب صوتی شنیدنی",
 "aa پسوند",
 "فایل های AA"
-]،
+],
   "author": {
     "display_name": "Sami Cheema"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "با فرمت فایل AA و APIهایی که می توانند فایل های AA ایجاد و باز کنند آشنا شوید.",
@@ -23,7 +23,7 @@
       "parent": "audio",
       "identifier": "audio-a-faa"
 }
-}،
+},
   "lastmod": "2021-08-02"
 }
 

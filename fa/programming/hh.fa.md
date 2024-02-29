@@ -11,10 +11,10 @@
 "فرمت فایل hh",
 "پسوند فایل hh",
 "نمونه فایل .HH"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "HH - فرمت فایل هدر C++",
@@ -25,7 +25,7 @@
       "parent": "programming",
       "identifier": "programming-h-fah"
 }
-}،
+},
   "lastmod": "2021-06-20"
 }
 

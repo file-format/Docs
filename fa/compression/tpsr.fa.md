@@ -2,7 +2,7 @@
   "date": "2022-06-06",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل TPSR - فایل گزارش جلسه آزمایشی TeamViewer",
@@ -13,7 +13,7 @@
       "parent": "compression",
       "identifier": "compression-tps-far"
 }
-}،
+},
   "lastmod": "2022-06-06"
 }
 

@@ -6,10 +6,10 @@
 "فایل",
 "پسوند فایل pdm",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل PDM - فایل پایگاه داده PowerDesigner",
@@ -20,7 +20,7 @@
       "identifier": "database-pdm-fa",
       "parent": "database"
 }
-}،
+},
   "lastmod": "2023-04-27"
 }
 

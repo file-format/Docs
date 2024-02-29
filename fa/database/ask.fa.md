@@ -8,10 +8,10 @@
 "نوع فایل پایگاه داده",
 "فرمت فایل پایگاه داده",
 "پایگاه داده askSam"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "با فرمت فایل ASK و APIهایی که می توانند فایل های ASK را ایجاد و باز کنند آشنا شوید.",
@@ -22,7 +22,7 @@
       "parent": "database",
       "identifier": "database-as-fak"
 }
-}،
+},
   "lastmod": "2021-09-06"
 }
 

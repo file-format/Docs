@@ -13,10 +13,10 @@
 "فرمت فایل nrg",
 "رام Nero Burning",
 "Nero AG"
-]،
+],
   "author": {
     "display_name": "Sami Cheema"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل NRG و APIهایی که می‌توانند فایل‌های NRG را ایجاد و باز کنند، بیاموزید.",
@@ -27,7 +27,7 @@
       "parent": "disc-and-media",
       "identifier": "disc-and-media-nr-fag"
 }
-}،
+},
   "lastmod": "2021-08-16"
 }
 

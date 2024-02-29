@@ -3,7 +3,7 @@
   "date" : "2023-02-09",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل چهارم - فرمت فایل زبان چهارم",
@@ -14,7 +14,7 @@
       "identifier":"programming-4th-fa",
       "parent" : "programming"
 }
-}،
+},
   "lastmod" : "2023-02-09"
 }
 

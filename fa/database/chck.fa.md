@@ -2,7 +2,7 @@
   "date": "2023-06-02",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل CHCK و APIهایی که می‌توانند فایل‌های CHCK را ایجاد و باز کنند، بیاموزید.",
@@ -13,7 +13,7 @@
       "parent": "database",
       "identifier": "database-chc-fak"
 }
-}،
+},
   "lastmod": "2021-06-02"
 }
 

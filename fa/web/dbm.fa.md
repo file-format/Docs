@@ -2,7 +2,7 @@
   "date" : "2021-08-04",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "DBM - فایل سرور ColdFusion",
@@ -13,7 +13,7 @@
       "identifier":"web-dbm-fa",
       "parent" : "web"
 }
-}،
+},
   "lastmod" : "2021-08-04"
 }
 

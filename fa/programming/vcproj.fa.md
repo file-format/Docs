@@ -9,10 +9,10 @@
 "فایل",
 "پسوند فایل vcproj",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل VCPROJ - فایل پروژه ویژوال C++",
@@ -23,7 +23,7 @@
       "identifier": "programming-vcproj",
       "parent": "programming"
 }
-}،
+},
   "lastmod": "2023-05-15"
 }
 

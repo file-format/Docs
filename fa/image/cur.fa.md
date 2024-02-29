@@ -11,10 +11,10 @@
 "مکان نما",
 "پنجره ها",
 "کاربرد"
-]،
+],
   "author": {
     "display_name": "Sami Cheema"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "CUR - فرمت فایل مکان نما",
@@ -25,7 +25,7 @@
       "parent": "image",
       "identifier": "image-cu-far"
 }
-}،
+},
   "lastmod": "2021-06-29"
 }
 

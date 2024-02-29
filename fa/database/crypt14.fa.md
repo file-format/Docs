@@ -6,10 +6,10 @@
 "فایل",
 "پسوند فایل crypt14",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل CRYPT14 - فایل پایگاه داده رمزگذاری شده WhatsApp",
@@ -20,7 +20,7 @@
       "identifier": "database-crypt14-fa",
       "parent": "database"
 }
-}،
+},
   "lastmod": "2023-03-14"
 }
 

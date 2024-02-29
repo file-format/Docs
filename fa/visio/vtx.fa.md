@@ -3,7 +3,7 @@
   "keywords" : [ "vtx file", "vtx file format", "what is a vtx file", "file", "vtx example", "vtx file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "VTX - فرمت فایل الگوی طراحی مایکروسافت ویزیو",
@@ -14,7 +14,7 @@
 	  "identifier":"visio-vtx-fa",
       "parent" : "visio"
 }
-}،
+},
   "lastmod" : "2019-09-10"
 }
 

@@ -2,7 +2,7 @@
   "date": "2022-01-13",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "WEBLOC - فایل مکان وب سایت macOS",
@@ -13,7 +13,7 @@
       "parent": "web",
       "identifier": "web-weblo-fac"
 }
-}،
+},
   "lastmod": "2022-01-13"
 }
 

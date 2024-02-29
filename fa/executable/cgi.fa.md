@@ -8,10 +8,10 @@
 "پسوند فایل cgi",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل CGI و API هایی که می توانند فایل های CGI را ایجاد و باز کنند، بیاموزید.",
@@ -22,7 +22,7 @@
       "parent": "executable",
       "identifier": "executable-cg-fai"
 }
-}،
+},
   "lastmod": "2021-06-28"
 }
 

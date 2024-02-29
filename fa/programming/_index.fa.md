@@ -3,7 +3,7 @@
   "keywords" : [ "programming file", "programming file format", "what is a programming file", "file" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "categories" : [ "fundamentals" ],
   "title" : "درباره فرمت‌های فایل برنامه‌نویسی و APIهایی که می‌توانند فایل‌های برنامه‌نویسی را باز کرده و ایجاد کنند، بیاموزید",
@@ -12,9 +12,9 @@
   "menu" : {
     "docs" : {
       "parent" : "programming",
-"وزن : 01"
+"weight" : "01"
 }
-}،
+},
   "lastmod" : "2019-09-10"
 }
 

@@ -9,10 +9,10 @@
 "پسوند فایل ws",
 "افزونه",
 "فایل"
-]،
+],
    "author" : {
       "display_name" : "Shakeel Faiz"
-}،
+},
    "draft" : "false",
    "toc" : true,
    "title" : "فایل WS - Windows Script - فایل .ws چیست و چگونه آن را باز کنیم؟",
@@ -23,7 +23,7 @@
          "identifier" : "executable-ws-fa",
          "parent" : "executable"
 }
-}،
+},
    "lastmod" : "2023-12-14"
 }
 

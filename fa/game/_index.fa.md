@@ -3,7 +3,7 @@
   "keywords" : [ "Game", "File", "Format", "File Type" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "description" : "فایل‌های بازی ممکن است شامل فایل‌های ضروری برای اجرای موفقیت‌آمیز بازی در دستگاه‌های پشتیبانی‌شده مانند لپ‌تاپ، موبایل، XBox و Play Station باشد.",
   "categories" : [ "fundamentals" ],
@@ -12,9 +12,9 @@
   "menu" : {
     "docs" : {
       "parent" : "game",
-"وزن : 01"
+"weight" : "01"
 }
-}،
+},
   "lastmod" : "2021-09-07"
 }
 

@@ -7,10 +7,10 @@
 "فرمت فایل",
 "Sun XML Calc",
 "صفحه گسترده"
-]،
+],
   "author": {
     "display_name": "Sami Cheema"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل SXC و APIهایی که می‌توانند فایل‌های SXC را ایجاد و باز کنند، بیاموزید.",
@@ -21,7 +21,7 @@
       "parent": "spreadsheet",
       "identifier": "spreadsheet-sx-fac"
 }
-}،
+},
   "lastmod": "2021-02-26"
 }
 

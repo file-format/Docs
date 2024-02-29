@@ -8,10 +8,10 @@
 "فایل",
 "پسوند فایل usr",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل USR - فایل داده GPS Lowrance",
@@ -22,7 +22,7 @@
       "identifier": "gis-usr-fa",
       "parent": "gis"
 }
-}،
+},
   "lastmod": "2023-08-03"
 }
 

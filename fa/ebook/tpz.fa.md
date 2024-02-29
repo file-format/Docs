@@ -9,10 +9,10 @@
 "کتاب الکترونیکی کیندل توپاز",
 "کیندل آمازون",
 "کالیبر"
-]،
+],
   "author": {
     "display_name": "Sami Cheema"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل TPZ و APIهایی که می توانند فایل های TPZ را ایجاد و باز کنند، بیاموزید.",
@@ -23,7 +23,7 @@
       "parent": "ebook",
       "identifier": "ebook-tp-faz"
 }
-}،
+},
   "lastmod": "2021-04-10"
 }
 

@@ -7,10 +7,10 @@
 "فرمت آهنگ زنگ آیفون چیست؟",
 "پسوند فایل m4r",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل M4R - فایل آهنگ زنگ آیفون",
@@ -21,7 +21,7 @@
       "identifier": "audio-m4r-fa",
       "parent": "audio"
 }
-}،
+},
   "lastmod": "2023-03-30"
 }
 

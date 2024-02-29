@@ -2,7 +2,7 @@
   "date" : "2023-11-17",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل REZ - فایل REZ چیست و چگونه آن را باز کنیم؟",
@@ -13,7 +13,7 @@
       "parent" : "plugin",
       "identifier":"plugin-en-re-faz"
 }
-}،
+},
   "lastmod" : "2023-11-17"
 }
 

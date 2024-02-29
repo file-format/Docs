@@ -6,10 +6,10 @@
 "فایل نان تست چیست",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل Toast و APIهایی که می‌توانند فایل‌های Toast را ایجاد و باز کنند، بیاموزید.",
@@ -20,7 +20,7 @@
       "parent": "disc-and-media",
       "identifier": "disc-and-media-toas-fat"
 }
-}،
+},
   "lastmod": "2021-06-23"
 }
 

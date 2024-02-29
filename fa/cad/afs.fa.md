@@ -7,10 +7,10 @@
 "نحوه باز کردن فایل afs",
 "پسوند فایل afs",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل AFS - فایل پروژه STAAD.foundation",
@@ -21,7 +21,7 @@
       "identifier": "cad-afs-fa",
       "parent": "cad"
 }
-}،
+},
   "lastmod": "2023-02-23"
 }
 

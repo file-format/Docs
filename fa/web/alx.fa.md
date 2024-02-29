@@ -6,10 +6,10 @@
 "فرمت فایل",
 "نوع فایل",
 "فایل alx چیست"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "ALX - فایل ALX چیست؟",
@@ -20,7 +20,7 @@
       "parent": "web",
       "identifier": "web-al-fax"
 }
-}،
+},
   "lastmod": "2021-12-08"
 }
 

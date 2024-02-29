@@ -9,10 +9,10 @@
 "پسوند فایل emz",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل EMZ - یک فایل متا پیشرفته فشرده ویندوز",
@@ -23,7 +23,7 @@
       "parent": "image",
       "identifier": "image-em-faz"
 }
-}،
+},
   "lastmod": "2020-10-24"
 }
 

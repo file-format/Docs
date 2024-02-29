@@ -8,10 +8,10 @@
 "فایل pdf چیست؟",
 "فرمت فایل pdf",
 "فراداده PDB"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل PDB - فایل پایگاه داده برنامه",
@@ -22,7 +22,7 @@
       "parent": "programming",
       "identifier": "programming-pd-fab"
 }
-}،
+},
   "lastmod": "2020-09-10"
 }
 

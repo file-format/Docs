@@ -11,10 +11,10 @@
 "aiff به mp3",
 "aiff vs wav",
 "تبدیل aiff به mp3"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل AIFF و API هایی که می توانند فایل های AIFF را ایجاد، تبدیل و باز کنند، بیاموزید.",
@@ -25,7 +25,7 @@
       "parent": "audio",
       "identifier": "audio-aif-faf"
 }
-}،
+},
   "lastmod": "2021-04-26"
 }
 

@@ -2,7 +2,7 @@
   "date": "2022-07-14",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "پسوند فایل INC - فایل INC چیست؟",
@@ -13,7 +13,7 @@
       "parent": "programming",
       "identifier": "programming-in-fac"
 }
-}،
+},
   "lastmod": "2022-07-14"
 }
 

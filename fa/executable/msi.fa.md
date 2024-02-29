@@ -9,10 +9,10 @@
 "پسوند فایل msi",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل MSI و APIهایی که می‌توانند فایل‌های MSI را ایجاد و باز کنند، بیاموزید.",
@@ -23,7 +23,7 @@
       "parent": "executable",
       "identifier": "executable-ms-fai"
 }
-}،
+},
   "lastmod": "2021-06-30"
 }
 

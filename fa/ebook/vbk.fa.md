@@ -9,10 +9,10 @@
 "کتاب الکترونیکی",
 "فایل پشتیبان Veeam",
 "کتاب الکترونیکی VitalSource"
-]،
+],
   "author": {
     "display_name": "Sami Cheema"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "با فرمت فایل VBK و API هایی که می توانند فایل های VBK ایجاد و باز کنند آشنا شوید.",
@@ -23,7 +23,7 @@
       "parent": "ebook",
       "identifier": "ebook-vb-fak"
 }
-}،
+},
   "lastmod": "2021-04-03"
 }
 

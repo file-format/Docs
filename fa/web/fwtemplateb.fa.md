@@ -2,7 +2,7 @@
   "date": "2022-05-17",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل FWTEMPLATEB - فایل قالب Freeway",
@@ -13,7 +13,7 @@
       "parent": "web",
       "identifier": "web-fwtemplate-fab"
 }
-}،
+},
   "lastmod": "2022-05-17"
 }
 

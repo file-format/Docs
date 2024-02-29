@@ -2,7 +2,7 @@
   "date": "2021-03-01",
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "RDL - فایل زبان تعریف گزارش",
@@ -12,7 +12,7 @@
 "XmlTextWriter",
 "XSD",
 "عنصر RDL"
-]،
+],
   "description": "با فرمت فایل RDL آشنا شوید که یک نمایش XML از تعریف گزارش خدمات گزارش سرویس سرور SQL است.",
   "linktitle": "RDL",
   "menu": {
@@ -20,7 +20,7 @@
       "parent": "reporting",
       "identifier": "reporting-rd-fal"
 }
-}،
+},
   "lastmod": "2021-03-01"
 }
 

@@ -2,7 +2,7 @@
   "date": "2021-23-02",
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل MK3D",
@@ -15,7 +15,7 @@
 "ویدئو",
 "فایل",
 "قالب"
-]،
+],
   "description": "درباره فرمت فایل MK3D برای ویدیوهای سه بعدی استریوسکوپی ایجاد شده توسط Matroska و APIهایی که می توانند فایل های MK3D را ایجاد و باز کنند، بیاموزید.",
   "linktitle": "MK3D",
   "menu": {
@@ -23,7 +23,7 @@
       "parent": "video",
       "identifier": "video-mk3-fad"
 }
-}،
+},
   "lastmod": "2021-23-02"
 }
 

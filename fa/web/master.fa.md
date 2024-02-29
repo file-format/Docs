@@ -2,7 +2,7 @@
   "date" : "2019-10-11",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل MASTER - فرمت فایل اصلی صفحه ASP.NET",
@@ -13,7 +13,7 @@
       "identifier":"web-master-fa",
       "parent" : "web"
 }
-}،
+},
   "lastmod" : "2021-02-29"
 }
 

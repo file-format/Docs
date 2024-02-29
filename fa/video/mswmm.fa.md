@@ -7,10 +7,10 @@
 "نحوه باز کردن فایل mswmm",
 "پسوند فایل mswmm",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل MSWMM - پروژه Windows Movie Maker",
@@ -21,7 +21,7 @@
       "identifier": "video-mswmm-fa",
       "parent": "video"
 }
-}،
+},
   "lastmod": "2023-02-08"
 }
 

@@ -3,7 +3,7 @@
   "keywords" : [ ".asc", "File Format", "extension", "Read", "Create", "CAD" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "description" : "با فرمت فایل ASC و APIهایی که می توانند فایل های ASC را ایجاد و باز کنند آشنا شوید.",
@@ -14,7 +14,7 @@
       "identifier":"cad-asc-fa",
       "parent" : "cad"
 }
-}،
+},
   "lastmod" : "2021-12-30"
 }
 

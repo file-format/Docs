@@ -2,7 +2,7 @@
   "date": "2019-10-11",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "APK - فایل APK چیست؟",
@@ -13,7 +13,7 @@
       "parent": "compression",
       "identifier": "compression-ap-fak"
 }
-}،
+},
   "lastmod": "2021-04-27"
 }
 

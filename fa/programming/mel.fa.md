@@ -8,10 +8,10 @@
 "فرمت فایل",
 "مایا 3 بعدی",
 "راهنمای برنامه نویسی"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "MEL - فرمت فایل زبان جاسازی شده مایا",
@@ -22,7 +22,7 @@
       "parent": "programming",
       "identifier": "programming-me-fal"
 }
-}،
+},
   "lastmod": "2021-03-08"
 }
 

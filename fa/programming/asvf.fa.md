@@ -2,7 +2,7 @@
   "date" : "2022-11-10",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل ASVF - فرمت فایل آرشیو Asphyre Sphinx",
@@ -13,7 +13,7 @@
       "identifier" : "programming-asvf-fa",
       "parent" : "programming"
 }
-}،
+},
   "lastmod" : "2022-11-10"
 }
 

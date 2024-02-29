@@ -9,10 +9,10 @@
 "پسوند فایل ltx",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "LTX - فایل سند لاتکس",
@@ -23,7 +23,7 @@
       "parent": "word-processing",
       "identifier": "word-processing-lt-fax"
 }
-}،
+},
   "lastmod": "2021-05-18"
 }
 

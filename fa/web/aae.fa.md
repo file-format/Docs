@@ -6,10 +6,10 @@
 "افزونه",
 "نوع فایل",
 "فایل aae چیست"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "AAE - فایل .aae چیست؟",
@@ -20,7 +20,7 @@
       "parent": "web",
       "identifier": "web-aa-fae"
 }
-}،
+},
   "lastmod": "2021-12-29"
 }
 

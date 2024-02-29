@@ -2,7 +2,7 @@
   "date": "2022-03-13",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل WUD و APIهایی که می‌توانند فایل‌های WUD را ایجاد و باز کنند، بیاموزید.",
@@ -13,7 +13,7 @@
       "parent": "disc-and-media",
       "identifier": "disc-and-media-wu-fad"
 }
-}،
+},
   "lastmod": "2022-03-13"
 }
 

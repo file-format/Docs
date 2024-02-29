@@ -7,10 +7,10 @@
 "نحوه باز کردن فایل kine",
 "پسوند فایل kine",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل KINE - فایل پروژه KineMaster",
@@ -21,7 +21,7 @@
       "identifier": "video-kine-fa",
       "parent": "video"
 }
-}،
+},
   "lastmod": "2023-02-09"
 }
 

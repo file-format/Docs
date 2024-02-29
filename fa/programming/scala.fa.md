@@ -2,7 +2,7 @@
   "date": "2022-04-12",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "SCALA - فایل کد منبع اسکالا",
@@ -13,7 +13,7 @@
       "parent": "programming",
       "identifier": "programming-scal-faa"
 }
-}،
+},
   "lastmod": "2022-04-12"
 }
 

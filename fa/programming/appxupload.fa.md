@@ -6,10 +6,10 @@
 "قالب",
 "نحوه باز کردن فایل appxupload",
 "فرمت فایل appxupload"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "APPXUPLOAD - فایل .appxupload چیست؟",
@@ -20,7 +20,7 @@
       "parent": "programming",
       "identifier": "programming-appxuploa-fad"
 }
-}،
+},
   "lastmod": "2021-12-20"
 }
 

@@ -9,10 +9,10 @@
 "پسوند فایل m2v",
 "افزونه",
 "فایل"
-]،
+],
    "author":{
       "display_name":"Shakeel Faiz"
-}،
+},
    "draft":"false",
    "toc":true,
    "title":"فرمت فایل M2V - ویدئو MPEG-2",
@@ -23,7 +23,7 @@
          "identifier":"video-m2v-fa",
          "parent":"video"
 }
-}،
+},
    "lastmod":"2023-10-11"
 }
 

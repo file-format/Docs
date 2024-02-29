@@ -2,7 +2,7 @@
   "date": "2022.01.31",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فایل P7S - پیام ایمیل با امضای دیجیتال",
@@ -13,7 +13,7 @@
       "parent": "email",
       "identifier": "email-p7-fas"
 }
-}،
+},
   "lastmod": "2022.01.31"
 }
 

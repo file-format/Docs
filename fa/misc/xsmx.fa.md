@@ -2,7 +2,7 @@
   "date" : "2022-02-02",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل XSMX - فرمت فایل آزمون SoftTest",
@@ -13,7 +13,7 @@
       "identifier":"misc-xsmx-fa",
       "parent" : "misc"
 }
-}،
+},
   "lastmod" : "2022-02-02"
 }
 

@@ -8,10 +8,10 @@
 "فایل wpl چیست",
 "موسیقی",
 "فرمت فایل wpl"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل WPL و APIهایی که می‌توانند فایل‌های WPL را ایجاد، تبدیل و باز کنند، بیاموزید.",
@@ -22,7 +22,7 @@
       "parent": "audio",
       "identifier": "audio-wp-fal"
 }
-}،
+},
   "lastmod": "2021-06-11"
 }
 

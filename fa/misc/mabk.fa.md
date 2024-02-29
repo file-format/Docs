@@ -2,7 +2,7 @@
   "date" : "2023-11-07",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل MABK - فایل MABK چیست و چگونه آن را باز کنیم؟",
@@ -13,7 +13,7 @@
       "identifier":"misc-mabk-fa",
       "parent" : "misc"
 }
-}،
+},
   "lastmod" : "2023-11-07"
 }
 

@@ -2,7 +2,7 @@
   "date": "2022-06-30",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل ECS - فایل پشتیبان تلفن سونی اریکسون",
@@ -13,7 +13,7 @@
       "parent": "compression",
       "identifier": "compression-ec-fas"
 }
-}،
+},
   "lastmod": "2022-06-30"
 }
 

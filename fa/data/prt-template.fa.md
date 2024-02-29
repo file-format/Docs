@@ -9,10 +9,10 @@
 "پسوند فایل prt",
 "افزونه",
 "فایل"
-]،
+],
    "author":{
       "display_name":"Shakeel Faiz"
-}،
+},
    "draft":"false",
    "toc":true,
    "title":"فایل PRT - Presentations Template - فایل .prt چیست و چگونه آن را باز کنم؟",
@@ -23,7 +23,7 @@
          "identifier":"data-prt-template-fa",
          "parent":"data"
 }
-}،
+},
    "lastmod":"2023-10-18"
 }
 

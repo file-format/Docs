@@ -9,10 +9,10 @@
 "فایل",
 "پسوند فایل bay",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل BAY - Casio RAW Image",
@@ -23,7 +23,7 @@
       "identifier": "image-bay-fa",
       "parent": "image"
 }
-}،
+},
   "lastmod": "2023-06-15"
 }
 

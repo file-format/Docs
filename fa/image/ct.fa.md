@@ -3,7 +3,7 @@
   "keywords" : [ "ct file", "ct file format", "what is a ct file", "file", "ct example", "ct file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فرمت فایل CT - فایل تون پیوسته Scitex",
@@ -14,7 +14,7 @@
       "identifier":"image-ct-fa",
       "parent" : "image"
 }
-}،
+},
   "lastmod" : "2022-03-26"
 }
 

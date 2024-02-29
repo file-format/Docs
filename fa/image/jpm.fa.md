@@ -9,10 +9,10 @@
 "پسوند فایل jpm",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "JPM - فرمت فایل مرکب JPEG 2000",
@@ -23,7 +23,7 @@
       "parent": "image",
       "identifier": "image-jp-fam"
 }
-}،
+},
   "lastmod": "2021-02-08"
 }
 

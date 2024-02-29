@@ -8,10 +8,10 @@
 "نحوه باز کردن فایل dsd",
 "نحوه ویرایش فایل dsd در اتوکد",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل DSD - فایل توضیحات مجموعه نقشه کشی اتوکد",
@@ -22,7 +22,7 @@
       "identifier": "settings-dsd-fa",
       "parent": "settings"
 }
-}،
+},
   "lastmod": "2023-04-13"
 }
 

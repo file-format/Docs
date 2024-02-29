@@ -3,7 +3,7 @@
   "keywords" : [ "CAT", "what is a CAT file", "extension", "file", "file format", "Database File Type", "Database File Format", "Database Files" ],
   "author" : {
     "display_name" : "Shakeel Faiz"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "description" : "درباره فرمت فایل CAT و APIهایی که می‌توانند فایل‌های CAT را ایجاد و باز کنند، بیاموزید.",
@@ -14,7 +14,7 @@
       "identifier":"database-cat-fa",
       "parent" : "database"
 }
-}،
+},
   "lastmod" : "2020-01-10"
 }
 

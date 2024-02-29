@@ -3,7 +3,7 @@
   "keywords" : [ "FIC", "what is a FIC file", "extension", "file", "file format", "Database File Type", "Database File Format", "Database Files" ],
   "author" : {
     "display_name" : "Shakeel Faiz"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "description" : "درباره فرمت فایل FIC و APIهایی که می توانند فایل های FIC ایجاد و باز کنند، بیاموزید.",
@@ -14,7 +14,7 @@
       "identifier":"database-fic-fa",
       "parent" : "database"
 }
-}،
+},
   "lastmod" : "2020-01-19"
 }
 

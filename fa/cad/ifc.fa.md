@@ -4,10 +4,10 @@
 "فایل IFC",
 "قالب",
 "CAD"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل IFC و APIهایی که می‌توانند فایل‌های IFC را ایجاد و باز کنند، بیاموزید.",
@@ -18,7 +18,7 @@
       "parent": "cad",
       "identifier": "cad-if-fac"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

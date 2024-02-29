@@ -8,10 +8,10 @@
 "فرمت فایل",
 "کتاب الکترونیکی",
 "HTML فشرده شده"
-]،
+],
   "author": {
     "display_name": "Sami Cheema"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل HTMLZ و APIهایی که می‌توانند فایل‌های HTMLZ را ایجاد و باز کنند، بیاموزید.",
@@ -22,7 +22,7 @@
       "parent": "ebook",
       "identifier": "ebook-html-faz"
 }
-}،
+},
   "lastmod": "2021-03-27"
 }
 

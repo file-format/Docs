@@ -2,7 +2,7 @@
   "date" : "2023-01-03",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل CXF - فرمت صادرات مختصات",
@@ -13,7 +13,7 @@
       "identifier":"gis-cxf-fa",
       "parent" : "gis"
 }
-}،
+},
   "lastmod" : "2023-01-03"
 }
 

@@ -3,7 +3,7 @@
   "keywords" : [ "PSS File", "Format", "CAD" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "description" : "با فرمت فایل PSS و APIهایی که می توانند فایل های PSS را ایجاد و باز کنند آشنا شوید.",
@@ -14,7 +14,7 @@
       "identifier":"cad-pss-fa",
       "parent" : "cad"
 }
-}،
+},
   "lastmod" : "2020-10-25"
 }
 

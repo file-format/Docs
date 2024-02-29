@@ -2,7 +2,7 @@
   "date": "2022-06-10",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل WEBBOOKMARK - فایل نشانک وب سافاری",
@@ -13,7 +13,7 @@
       "parent": "web",
       "identifier": "web-webbookmar-fak"
 }
-}،
+},
   "lastmod": "2022-06-10"
 }
 

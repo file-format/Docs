@@ -2,7 +2,7 @@
   "date" : "2022-05-06",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل FMW - فرمت فایل FME Workbench",
@@ -13,7 +13,7 @@
       "identifier":"gis-fmw-fa",
       "parent" : "gis"
 }
-}،
+},
   "lastmod" : "2022-05-06"
 }
 

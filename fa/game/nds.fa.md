@@ -9,10 +9,10 @@
 "پسوند فایل nds",
 "افزونه",
 "فایل"
-]،
+],
    "author":{
       "display_name":"Shakeel Faiz"
-}،
+},
    "draft":"false",
    "toc":true,
    "title":"فایل NDS - رام بازی Nintendo DS - فایل .nds چیست و چگونه آن را باز کنیم؟",
@@ -23,7 +23,7 @@
          "identifier":"game-nds-fa",
          "parent":"game"
 }
-}،
+},
    "lastmod":"2023-11-16"
 }
 

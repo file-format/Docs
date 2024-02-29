@@ -7,10 +7,10 @@
 "فرمت فایل",
 "نقشه زمان",
 "LexisNexis"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل TMV و APIهایی که می‌توانند فایل‌های TMV را ایجاد و باز کنند، بیاموزید.",
@@ -21,7 +21,7 @@
       "parent": "spreadsheet",
       "identifier": "spreadsheet-tm-fav"
 }
-}،
+},
   "lastmod": "2021-11-26"
 }
 

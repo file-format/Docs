@@ -9,10 +9,10 @@
 "پسوند فایل txt",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "TXT - فایل سند متنی",
@@ -23,7 +23,7 @@
       "parent": "word-processing",
       "identifier": "word-processing-tx-fat"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

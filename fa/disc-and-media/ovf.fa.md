@@ -6,10 +6,10 @@
 "فایل ovf چیست؟",
 "فایل",
 "فرمت فایل"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "با فرمت فایل .ovf و API هایی که می توانند فایل های OVF را ایجاد و باز کنند آشنا شوید.",
@@ -20,7 +20,7 @@
       "parent": "disc-and-media",
       "identifier": "disc-and-media-ov-faf"
 }
-}،
+},
   "lastmod": "2022-01-03"
 }
 

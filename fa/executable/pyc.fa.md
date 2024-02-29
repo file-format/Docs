@@ -2,7 +2,7 @@
   "date": "2022-05-09",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره قالب فایل PYC و APIهایی که می‌توانند فایل‌های PYC را ایجاد و باز کنند، بیاموزید.",
@@ -13,7 +13,7 @@
       "parent": "executable",
       "identifier": "executable-py-fac"
 }
-}،
+},
   "lastmod": "2022-05-09"
 }
 

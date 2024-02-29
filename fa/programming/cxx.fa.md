@@ -7,10 +7,10 @@
 "فرمت فایل",
 "Cxx",
 "زبان برنامه نویسی"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "CXX - فایل کد منبع C++",
@@ -21,7 +21,7 @@
       "parent": "programming",
       "identifier": "programming-cx-fax"
 }
-}،
+},
   "lastmod": "2022-03-21"
 }
 

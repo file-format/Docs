@@ -3,7 +3,7 @@
   "date" : "2022-10-30",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل ADS - فرمت فایل مشخصات Ada",
@@ -14,7 +14,7 @@
       "identifier": "programming-ads-fa",
       "parent" : "programming"
 }
-}،
+},
   "lastmod" : "2022-10-30"
 }
 

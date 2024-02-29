@@ -7,10 +7,10 @@
 "نوع",
 "قالب",
 "کتابچه راهنمای یونیکس"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "MAN - راهنمای یونیکس",
@@ -21,7 +21,7 @@
       "parent": "word-processing",
       "identifier": "word-processing-ma-fan"
 }
-}،
+},
   "lastmod": "2021-07-25"
 }
 

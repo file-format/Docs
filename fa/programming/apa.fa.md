@@ -8,10 +8,10 @@
 "آرشیو پروژه توسعه RSView",
 "نحوه باز کردن فایل .apa",
 "فرمت فایل apa"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "APA - آرشیو پروژه توسعه RSView",
@@ -22,7 +22,7 @@
       "parent": "programming",
       "identifier": "programming-ap-faa"
 }
-}،
+},
   "lastmod": "2021-12-14"
 }
 

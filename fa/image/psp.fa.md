@@ -2,7 +2,7 @@
   "date" : "2022-04-27",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فرمت فایل PSP - فایل تصویری PaintShop Pro",
@@ -13,7 +13,7 @@
       "identifier": "image-psp-fa",
       "parent" : "image"
 }
-}،
+},
   "lastmod" : "2022-04-27"
 }
 

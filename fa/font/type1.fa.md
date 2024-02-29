@@ -9,10 +9,10 @@
 "پسوند فایل type1",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "نوع 1 - فونت های نوع 1 پست اسکریپت",
@@ -23,7 +23,7 @@
       "parent": "font",
       "identifier": "font-type-fa1"
 }
-}،
+},
   "lastmod": "2021-02-26"
 }
 

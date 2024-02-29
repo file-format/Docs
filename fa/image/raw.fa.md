@@ -9,10 +9,10 @@
 "فایل",
 "پسوند فایل خام",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل RAW - داده های تصویر خام",
@@ -23,7 +23,7 @@
       "identifier": "image-raw-fa",
       "parent": "image"
 }
-}،
+},
   "lastmod": "2023-06-15"
 }
 

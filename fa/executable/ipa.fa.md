@@ -9,10 +9,10 @@
 "پسوند فایل ipa",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره قالب فایل IPA و APIهایی که می توانند فایل های IPA را ایجاد و باز کنند، بیاموزید.",
@@ -23,7 +23,7 @@
       "parent": "executable",
       "identifier": "executable-ip-faa"
 }
-}،
+},
   "lastmod": "2021-08-30"
 }
 

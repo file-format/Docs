@@ -8,10 +8,10 @@
 "فایل",
 "نوع",
 "فایل aspx چیست"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل ASPX",
@@ -22,7 +22,7 @@
       "parent": "web",
       "identifier": "web-ASP-faX"
 }
-}،
+},
   "lastmod": "2020-09-10"
 }
 

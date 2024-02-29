@@ -7,10 +7,10 @@
 "قالب",
 "فرمت فایل تبادل صدا",
 "موسیقی"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل WAV و APIهایی که می‌توانند فایل‌های WAV را ایجاد و باز کنند، بیاموزید.",
@@ -21,7 +21,7 @@
       "parent": "audio",
       "identifier": "audio-wa-fav"
 }
-}،
+},
   "lastmod": "2019-12-13"
 }
 

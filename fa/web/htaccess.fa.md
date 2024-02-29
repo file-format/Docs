@@ -2,7 +2,7 @@
   "date": "2019-10-11",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فایل HTACCESS - فرمت فایل Apache HTACCESS",
@@ -13,7 +13,7 @@
       "parent": "web",
       "identifier": "web-htacces-fas"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

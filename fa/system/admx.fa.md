@@ -2,7 +2,7 @@
   "date" : "2023-02-14",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل ADMX - قالب فایل الگوی اداری سیاست گروهی",
@@ -13,7 +13,7 @@
       "identifier" : "system-admx-fa",
       "parent" : "system"
 }
-}،
+},
   "lastmod" : "2023-02-14"
 }
 

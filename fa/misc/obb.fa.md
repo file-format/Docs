@@ -9,10 +9,10 @@
 "پسوند فایل obb",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل OBB - فایل Blob باینری مات اندروید",
@@ -23,7 +23,7 @@
       "parent": "misc",
       "identifier": "misc-ob-fab"
 }
-}،
+},
   "lastmod": "2022-02-16"
 }
 

@@ -10,10 +10,10 @@
 "مدیریت",
 "پریماورا",
 "P6"
-]،
+],
   "author": {
     "display_name": "Sami Cheema"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "P6XML - پروژه Primavera P6",
@@ -24,7 +24,7 @@
       "parent": "project-management",
       "identifier": "project-management-p6xm-fal"
 }
-}،
+},
   "lastmod": "2021-05-07"
 }
 

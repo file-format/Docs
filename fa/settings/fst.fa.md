@@ -2,7 +2,7 @@
   "date" : "2024-02-01",
   "author" : {
     "display_name" : "Shakeel Faiz"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل FST - FL Studio File - فایل .fst چیست و چگونه آن را باز کنیم؟",
@@ -13,7 +13,7 @@
       "identifier" : "settings-en-fst-fa",
       "parent" : "settings"
 }
-}،
+},
   "lastmod" : "2024-02-01"
 }
 

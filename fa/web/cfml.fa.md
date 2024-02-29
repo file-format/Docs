@@ -2,7 +2,7 @@
   "date": "2021-08-19",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "CFML - ColdFusion Markup Language File",
@@ -13,7 +13,7 @@
       "parent": "web",
       "identifier": "web-cfm-fal"
 }
-}،
+},
   "lastmod": "2021-08-19"
 }
 

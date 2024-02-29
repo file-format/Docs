@@ -9,10 +9,10 @@
 "فایل",
 "پسوند فایل arw",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل ARW - تصویر دوربین دیجیتال خام آلفا سونی",
@@ -23,7 +23,7 @@
       "identifier": "image-arw-fa",
       "parent": "image"
 }
-}،
+},
   "lastmod": "2023-06-15"
 }
 

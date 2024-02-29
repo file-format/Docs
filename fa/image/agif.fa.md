@@ -2,7 +2,7 @@
   "date" : "2022-11-14",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل AGIF - فرمت فایل تصویر لبه های عکس خودکار FX",
@@ -13,7 +13,7 @@
       "identifier":"image-agif-fa",
       "parent" : "image"
 }
-}،
+},
   "lastmod" : "2022-11-14"
 }
 

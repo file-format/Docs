@@ -11,10 +11,10 @@
 "بعد 4",
 "پایگاه داده 4DB",
 "فایل 4DB"
-]،
+],
   "author": {
     "display_name": "Sami Cheema"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل 4DB و API هایی که می توانند فایل های 4DB ایجاد و باز کنند، بیاموزید.",
@@ -25,7 +25,7 @@
       "parent": "database",
       "identifier": "database-4d-fab"
 }
-}،
+},
   "lastmod": "2021-07-29"
 }
 

@@ -10,10 +10,10 @@
 "مثال vbs",
 "مایکروسافت ویژوال بیسیک",
 "VBScript"
-]،
+],
   "author": {
     "display_name": "Sami Cheema"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "VBS - فایل اسکریپت ویژوال بیسیک",
@@ -24,7 +24,7 @@
       "parent": "programming",
       "identifier": "programming-vb-fas"
 }
-}،
+},
   "lastmod": "2021-08-24"
 }
 

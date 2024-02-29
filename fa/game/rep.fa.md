@@ -9,10 +9,10 @@
 "پسوند فایل Grand Theft Auto Replay",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل Grand Theft Auto REP و APIهایی که می‌توانند فایل‌های REP را ایجاد و باز کنند، بیاموزید.",
@@ -23,7 +23,7 @@
       "parent": "game",
       "identifier": "game-re-fap"
 }
-}،
+},
   "lastmod": "2021-10-20"
 }
 

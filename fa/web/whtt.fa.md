@@ -2,7 +2,7 @@
   "date": "2022-02-03",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فایل WHTT - فایل کپی وب سایت HTTrack",
@@ -13,7 +13,7 @@
       "parent": "web",
       "identifier": "web-wht-fat"
 }
-}،
+},
   "lastmod": "2022-02-03"
 }
 

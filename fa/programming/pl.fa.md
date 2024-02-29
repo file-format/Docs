@@ -9,10 +9,10 @@
 "زبان پرل",
 "فایل های PL",
 "برنامه نويسي"
-]،
+],
   "author": {
     "display_name": "Sami Cheema"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل PL و APIهایی که می‌توانند فایل‌های PL را ایجاد و باز کنند، بیاموزید.",
@@ -23,7 +23,7 @@
       "parent": "programming",
       "identifier": "programming-p-fal"
 }
-}،
+},
   "lastmod": "2021-07-23"
 }
 

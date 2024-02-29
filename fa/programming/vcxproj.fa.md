@@ -7,10 +7,10 @@
 "فرمت فایل",
 "پروژه ویژوال C++",
 "راهنمای برنامه نویسی"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "VCXPROJ",
@@ -21,7 +21,7 @@
       "parent": "programming",
       "identifier": "programming-vcxpro-faj"
 }
-}،
+},
   "lastmod": "2020-09-10"
 }
 

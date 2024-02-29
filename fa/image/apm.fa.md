@@ -8,10 +8,10 @@
 "فایل",
 "پسوند فایل apm",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل APM - Aldus Placeable Metafile Image",
@@ -22,7 +22,7 @@
       "identifier": "image-apm-fa",
       "parent": "image"
 }
-}،
+},
   "lastmod": "2023-05-04"
 }
 

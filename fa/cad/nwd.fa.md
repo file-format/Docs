@@ -4,10 +4,10 @@
 "فایل NWD",
 "قالب",
 "CAD"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل NWD و APIهایی که می‌توانند فایل‌های NWD را ایجاد و باز کنند، بیاموزید.",
@@ -18,7 +18,7 @@
       "parent": "cad",
       "identifier": "cad-nw-fad"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

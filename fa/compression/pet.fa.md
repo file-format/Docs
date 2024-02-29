@@ -2,7 +2,7 @@
   "date" : "2022-06-23",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فرمت فایل PET - فایل بسته نصب لینوکس توله سگ",
@@ -13,7 +13,7 @@
       "identifier":"compression-pet-fa",
       "parent" : "compression"
 }
-}،
+},
   "lastmod" : "2022-06-23"
 }
 

@@ -9,10 +9,10 @@
 "پسوند فایل گام",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل GAM و APIهایی که می‌توانند فایل‌های GAM را ایجاد و باز کنند، بیاموزید.",
@@ -23,7 +23,7 @@
       "parent": "game",
       "identifier": "game-ga-fam"
 }
-}،
+},
   "lastmod": "2021-09-08"
 }
 

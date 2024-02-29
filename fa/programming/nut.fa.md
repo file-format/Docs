@@ -12,10 +12,10 @@
 "زبان سنجاب",
 "فایل پسوند nut",
 "فایل های NUT"
-]،
+],
   "author": {
     "display_name": "Sami Cheema"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "NUT - فایل زبان سنجاب",
@@ -26,7 +26,7 @@
       "parent": "programming",
       "identifier": "programming-nu-fat"
 }
-}،
+},
   "lastmod": "2021-09-23"
 }
 

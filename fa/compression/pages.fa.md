@@ -2,7 +2,7 @@
   "date" : "2022-04-02",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فرمت فایل PAGES - فایل Apple PAGES چیست؟",
@@ -13,7 +13,7 @@
       "identifier" : "compression-pages-fa",
       "parent" : "compression"
 }
-}،
+},
   "lastmod" : "2022-04-02"
 }
 

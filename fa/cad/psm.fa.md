@@ -4,10 +4,10 @@
 "فایل PSM",
 "قالب",
 "CAD"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "با فرمت فایل PSM و APIهایی که می توانند فایل های PSM را ایجاد و باز کنند آشنا شوید.",
@@ -18,7 +18,7 @@
       "parent": "cad",
       "identifier": "cad-ps-fam"
 }
-}،
+},
   "lastmod": "2020-10-25"
 }
 

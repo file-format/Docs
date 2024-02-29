@@ -9,10 +9,10 @@
 "پسوند فایل dek",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل DEK و APIهایی که می‌توانند فایل‌های DEK را ایجاد و باز کنند، بیاموزید.",
@@ -23,7 +23,7 @@
       "parent": "game",
       "identifier": "game-de-fak"
 }
-}،
+},
   "lastmod": "2021-10-24"
 }
 

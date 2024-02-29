@@ -6,10 +6,10 @@
 "فایل .ova چیست؟",
 "فایل",
 "فرمت فایل"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل .ova و API هایی که می توانند فایل های ova را ایجاد و باز کنند آشنا شوید.",
@@ -20,7 +20,7 @@
       "parent": "disc-and-media",
       "identifier": "disc-and-media-ov-faa"
 }
-}،
+},
   "lastmod": "2022-01-03"
 }
 

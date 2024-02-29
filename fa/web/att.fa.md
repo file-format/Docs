@@ -2,7 +2,7 @@
   "date": "2022-08-05",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فایل ATT - فرم وب فرمت فایل داده ارسال",
@@ -13,7 +13,7 @@
       "parent": "web",
       "identifier": "web-at-fat"
 }
-}،
+},
   "lastmod": "2022-08-05"
 }
 

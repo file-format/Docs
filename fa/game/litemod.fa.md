@@ -6,10 +6,10 @@
 "فایل",
 "پسوند فایل litemod",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل LITEMOD - Minecraft LiteLoader Mod File",
@@ -20,7 +20,7 @@
       "identifier": "game-litemod-fa",
       "parent": "game"
 }
-}،
+},
   "lastmod": "2023-03-15"
 }
 

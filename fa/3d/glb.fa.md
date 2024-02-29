@@ -3,7 +3,7 @@
   "keywords" : [ "GLB","file", "format", "file type", "extension","what is an GLB file?" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "GLB",
@@ -14,7 +14,7 @@
       "identifier":"3d-glb-fa",
       "parent" : "3d"
 }
-}،
+},
   "lastmod" : "2020-09-01"
 }
 

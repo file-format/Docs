@@ -2,7 +2,7 @@
   "date": "2019-10-11",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "VRT - فرمت فایل دنیای مجازی",
@@ -13,7 +13,7 @@
       "parent": "web",
       "identifier": "web-vr-fat"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

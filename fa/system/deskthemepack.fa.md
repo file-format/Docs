@@ -7,10 +7,10 @@
 "نحوه نصب فایل deskthemepack",
 "پسوند فایل deskthemepack",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل DESKTHEMEPACK - فایل بسته تم دسکتاپ ویندوز 10",
@@ -21,7 +21,7 @@
       "identifier": "system-deskthemepack-fa",
       "parent": "system"
 }
-}،
+},
   "lastmod": "2023-03-09"
 }
 

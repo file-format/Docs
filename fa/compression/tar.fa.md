@@ -9,10 +9,10 @@
 "پسوند فایل tar",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "TAR - فرمت فایل آرشیو یونیکس",
@@ -23,7 +23,7 @@
       "parent": "compression",
       "identifier": "compression-ta-far"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

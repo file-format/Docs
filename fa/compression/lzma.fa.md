@@ -9,10 +9,10 @@
 "پسوند فایل lzma",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "LZMA - فرمت فایل فشرده LZMA",
@@ -23,7 +23,7 @@
       "parent": "compression",
       "identifier": "compression-lzm-faa"
 }
-}،
+},
   "lastmod": "2021-04-18"
 }
 

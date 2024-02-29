@@ -6,10 +6,10 @@
 "فایل",
 "پسوند فایل regtrans-ms",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل REGTRANS-MS - فایل ثبت تراکنش های رجیستری",
@@ -20,7 +20,7 @@
       "identifier": "system-regtrans-ms-fa",
       "parent": "system"
 }
-}،
+},
   "lastmod": "2023-03-07"
 }
 

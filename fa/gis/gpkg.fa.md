@@ -9,10 +9,10 @@
 "پسوند فایل gpkg",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "GPKG - فایل‌های قالب GeoPackage",
@@ -23,7 +23,7 @@
       "parent": "gis",
       "identifier": "gis-gpkg"
 }
-}،
+},
   "lastmod": "2021-07-29"
 }
 

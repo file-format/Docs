@@ -8,10 +8,10 @@
 "قالب اکسل",
 "باز کن",
 "صفحه گسترده"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "راهنمای فرمت فایل شما برای دانستن اینکه فایل XLT چیست و APIهایی که می توانند آنها را ایجاد و باز کنند.",
@@ -22,7 +22,7 @@
       "parent": "spreadsheet",
       "identifier": "spreadsheet-xlthtm-fal"
 }
-}،
+},
   "lastmod": "2021-07-13"
 }
 

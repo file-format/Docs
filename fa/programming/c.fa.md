@@ -10,10 +10,10 @@
 "فایل c",
 "فرمت فایل c",
 "پسوند فایل c"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فایل برنامه نویسی زبان C - C",
@@ -24,7 +24,7 @@
       "parent": "programming",
       "identifier": "programming--fac"
 }
-}،
+},
   "lastmod": "2020-01-10"
 }
 

@@ -7,10 +7,10 @@
 "فرمت فایل",
 "اکسل ماکرو XML را باز کنید",
 "صفحه گسترده"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "راهنمای فرمت فایل شما برای اینکه بدانید یک فایل XLTM چیست و APIهایی که می توانند آنها را ایجاد و باز کنند.",
@@ -21,7 +21,7 @@
       "parent": "spreadsheet",
       "identifier": "spreadsheet-xlt-fam"
 }
-}،
+},
   "lastmod": "2019-12-10"
 }
 

@@ -9,10 +9,10 @@
 "پسوند فایل x",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "X - فرمت فایل DirectX 2.0",
@@ -23,7 +23,7 @@
       "parent": "3d",
       "identifier": "3d--fax"
 }
-}،
+},
   "lastmod": "2020-01-11"
 }
 

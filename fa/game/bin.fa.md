@@ -7,10 +7,10 @@
 "فایل",
 "پسوند فایل bin",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل BIN - رام بازی سگا جنسیس",
@@ -21,7 +21,7 @@
       "identifier": "game-bin-fa",
       "parent": "game"
 }
-}،
+},
   "lastmod": "2023-03-16"
 }
 

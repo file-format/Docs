@@ -11,10 +11,10 @@
 "برنامه ها",
 "کامپیوتر",
 "کاربرد"
-]،
+],
   "author": {
     "display_name": "Sami Cheema"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "INI - فرمت فایل شروع",
@@ -25,7 +25,7 @@
       "parent": "system",
       "identifier": "system-in-fai"
 }
-}،
+},
   "lastmod": "2021-07-07"
 }
 

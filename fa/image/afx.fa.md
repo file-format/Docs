@@ -2,7 +2,7 @@
   "date" : "2022-11-13",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "AFX File - Auto FX PhotoGraphic Edges Image File",
@@ -13,7 +13,7 @@
       "identifier":"image-afx-fa",
       "parent" : "image"
 }
-}،
+},
   "lastmod" : "2022-11-13"
 }
 

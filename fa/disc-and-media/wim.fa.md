@@ -9,10 +9,10 @@
 "پسوند فایل wim",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل WIM و APIهایی که می‌توانند فایل‌های WIM را ایجاد و باز کنند، بیاموزید.",
@@ -23,7 +23,7 @@
       "parent": "disc-and-media",
       "identifier": "disc-and-media-wi-fam"
 }
-}،
+},
   "lastmod": "2021-08-11"
 }
 

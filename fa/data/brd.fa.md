@@ -2,7 +2,7 @@
   "date" : "2024-02-08",
   "author" : {
     "display_name" : "Shakeel Faiz"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل BRD - EAGLE Circuit Board File - فایل brd چیست و چگونه آن را باز کنیم؟",
@@ -13,7 +13,7 @@
       "identifier" : "data-en-brd-fa",
       "parent" : "data"
 }
-}،
+},
   "lastmod" : "2024-02-08"
 }
 

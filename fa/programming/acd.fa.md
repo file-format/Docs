@@ -3,7 +3,7 @@
   "date" : "2022-10-30",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل ACD - فرمت فایل برنامه RSLogix 5000",
@@ -14,7 +14,7 @@
       "identifier": "programming-acd-fa",
       "parent" : "programming"
 }
-}،
+},
   "lastmod" : "2022-10-30"
 }
 

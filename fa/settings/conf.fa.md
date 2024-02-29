@@ -6,10 +6,10 @@
 "فایل",
 "پسوند فایل conf",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل CONF - فایل پیکربندی یونیکس",
@@ -20,7 +20,7 @@
       "identifier": "settings-conf-fa",
       "parent": "settings"
 }
-}،
+},
   "lastmod": "2023-03-30"
 }
 

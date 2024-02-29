@@ -2,7 +2,7 @@
   "date" : "2022-02-08",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "description":"درباره فرمت فایل CT و APIهایی که می‌توانند فایل‌های CT را ایجاد و باز کنند، بیاموزید.",
@@ -13,7 +13,7 @@
       "identifier": "game-ct-fa",
       "parent" : "game"
 }
-}،
+},
   "lastmod" : "2022-02-08"
 }
 

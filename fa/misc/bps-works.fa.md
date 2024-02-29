@@ -9,10 +9,10 @@
 "فایل",
 "پسوند فایل bps",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل BPS - پشتیبان‌گیری از سند Microsoft Works",
@@ -23,7 +23,7 @@
       "identifier": "misc-bps-works-fa",
       "parent": "misc"
 }
-}،
+},
   "lastmod": "2023-09-21"
 }
 

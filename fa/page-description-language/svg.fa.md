@@ -6,10 +6,10 @@
 "فرمت فایل",
 "زبان توضیحات صفحه",
 "اسکالر"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "با فرمت فایل SVG و APIهایی که می توانند فایل های SVG ایجاد و باز کنند آشنا شوید.",
@@ -20,7 +20,7 @@
       "parent": "page-description-language",
       "identifier": "page-description-language-sv-fag"
 }
-}،
+},
   "lastmod": "2020-03-02"
 }
 

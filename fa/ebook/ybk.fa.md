@@ -7,10 +7,10 @@
 "فرمت فایل",
 "کتاب الکترونیکی",
 "YanCEyWare"
-]،
+],
   "author": {
     "display_name": "Sami Cheema"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل YBK و APIهایی که می‌توانند فایل‌های YBK را ایجاد و باز کنند، بیاموزید.",
@@ -21,7 +21,7 @@
       "parent": "ebook",
       "identifier": "ebook-yb-fak"
 }
-}،
+},
   "lastmod": "2021-03-20"
 }
 

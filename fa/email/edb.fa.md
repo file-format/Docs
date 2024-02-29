@@ -2,7 +2,7 @@
   "date": "2019-10-11",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل EDB - فایل پایگاه داده تبادل ایمیل",
@@ -13,7 +13,7 @@
       "parent": "email",
       "identifier": "email-ed-fab"
 }
-}،
+},
   "lastmod": "2020-09-16"
 }
 

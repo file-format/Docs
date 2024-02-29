@@ -2,7 +2,7 @@
   "date" : "2023-01-16",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "description":"درباره فرمت فایل Unreal Static Meshes USX و APIهایی که می‌توانند فایل‌های USX را ایجاد و باز کنند، بیاموزید.",
@@ -13,7 +13,7 @@
       "identifier":"game-usx-fa",
       "parent" : "game"
 }
-}،
+},
   "lastmod" : "2023-01-16"
 }
 

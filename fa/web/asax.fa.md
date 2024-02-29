@@ -8,10 +8,10 @@
 "فایل",
 "نوع",
 "فایل asax چیست"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "ASAX - فایل برنامه سرور ASP.NET",
@@ -22,7 +22,7 @@
       "parent": "web",
       "identifier": "web-asa-fax"
 }
-}،
+},
   "lastmod": "2021-06-07"
 }
 

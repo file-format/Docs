@@ -2,7 +2,7 @@
   "date": "2022-03-07",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فایل ENL - فایل کتابخانه EndNote",
@@ -13,7 +13,7 @@
       "parent": "misc",
       "identifier": "misc-en-fal"
 }
-}،
+},
   "lastmod": "2022-03-07"
 }
 

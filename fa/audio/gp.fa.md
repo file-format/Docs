@@ -2,7 +2,7 @@
   "date" : "2023-12-28",
   "author" : {
     "display_name" : "Shakeel Faiz"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "GP File - Guitar Pro 7 File - فایل .gp چیست و چگونه آن را باز کنیم؟",
@@ -13,7 +13,7 @@
       "identifier": "audio-gp-fa",
       "parent" : "audio"
 }
-}،
+},
   "lastmod" : "2023-12-28"
 }
 

@@ -7,10 +7,10 @@
 "قالب",
 "سمعی",
 "MPEG"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل MP3 و API هایی که می توانند فایل های MP3 را باز کرده و ایجاد کنند، بیاموزید.",
@@ -21,7 +21,7 @@
       "parent": "audio",
       "identifier": "audio-mp-fa3"
 }
-}،
+},
   "lastmod": "2020-09-04"
 }
 

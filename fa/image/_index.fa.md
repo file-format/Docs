@@ -3,7 +3,7 @@
   "keywords" : [ "Image", "File", "Format", "File Type", "Raster Image", "Vector Image" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "description" : "فایل های تصویری تصاویر را به عنوان رسانه دیجیتال در دستگاه های ذخیره سازی ذخیره می کنند. آموزش باز کردن فرمت های فایل تصویری Raster و Vector شامل BMP، PNG، JPEG، GIF و غیره.",
   "categories" : [ "fundamentals" ],
@@ -12,9 +12,9 @@
   "menu" : {
     "docs" : {
       "parent" : "image",
-"وزن : 01"
+"weight" : "01"
 }
-}،
+},
   "lastmod" : "2019-09-10"
 }
 

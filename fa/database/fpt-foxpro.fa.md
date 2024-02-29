@@ -10,10 +10,10 @@
 "فایل",
 "پسوند فایل fpt",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل FPT - یادداشت جدول FoxPro",
@@ -24,7 +24,7 @@
       "identifier": "database-fpt-foxpro-fa",
       "parent": "database"
 }
-}،
+},
   "lastmod": "2023-06-12"
 }
 

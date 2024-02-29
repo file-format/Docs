@@ -8,10 +8,10 @@
 "فایل",
 "نوع",
 "فایل chm چیست"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "CHM - فرمت فایل راهنمای HTML کامپایل شده",
@@ -22,7 +22,7 @@
       "parent": "web",
       "identifier": "web-ch-fam"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

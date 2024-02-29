@@ -2,7 +2,7 @@
   "date" : "2021-08-26",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "GLB - فایل STK Globe",
@@ -13,7 +13,7 @@
       "identifier":"gis-glb-fa",
       "parent" : "gis"
 }
-}،
+},
   "lastmod" : "2021-08-26"
 }
 

@@ -7,10 +7,10 @@
 "نحوه باز کردن فایل cir",
 "پسوند فایل cir",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل CIR - فایل شماتیک Micro-Cap",
@@ -21,7 +21,7 @@
       "identifier": "cad-cir-fa",
       "parent": "cad"
 }
-}،
+},
   "lastmod": "2023-02-22"
 }
 

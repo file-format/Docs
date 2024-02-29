@@ -7,10 +7,10 @@
 "پسوند فایل BIN",
 "افزونه",
 "فایل"
-]،
+],
    "author":{
       "display_name":"Shakeel Faiz"
-}،
+},
    "draft":"false",
    "toc":true,
    "title":"فرمت فایل BIN - فایل کدگذاری شده مک باینری",
@@ -21,7 +21,7 @@
          "identifier":"compression-bin-fa",
          "parent":"compression"
 }
-}،
+},
    "lastmod":"2023-07-20"
 }
 

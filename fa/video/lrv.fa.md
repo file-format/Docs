@@ -9,10 +9,10 @@
 "فایل",
 "پسوند فایل lrv",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل LRV - فایل ویدئویی با وضوح پایین توسط GoPro",
@@ -23,7 +23,7 @@
       "identifier": "video-lrv-fa",
       "parent": "video"
 }
-}،
+},
   "lastmod": "2023-06-21"
 }
 

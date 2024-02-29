@@ -9,10 +9,10 @@
 "پسوند فایل dar",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "DAR - فرمت فایل بایگانی کننده دیسک",
@@ -23,7 +23,7 @@
       "parent": "compression",
       "identifier": "compression-da-far"
 }
-}،
+},
   "lastmod": "2021-04-09"
 }
 

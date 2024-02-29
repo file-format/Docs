@@ -7,10 +7,10 @@
 "قالب",
 "کد نویسی صوتی",
 "MPEG"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل AAC و APIهایی که می‌توانند فایل‌های AAC را ایجاد و باز کنند، بیاموزید.",
@@ -21,7 +21,7 @@
       "parent": "audio",
       "identifier": "audio-aa-fac"
 }
-}،
+},
   "lastmod": "2021-03-03"
 }
 

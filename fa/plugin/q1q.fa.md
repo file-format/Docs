@@ -2,7 +2,7 @@
   "date": "2023-11-08",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فایل Q1Q - فایل Q1Q چیست و چگونه آن را باز کنیم؟",
@@ -13,7 +13,7 @@
       "parent": "plugin",
       "identifier": "plugin-q1-faq"
 }
-}،
+},
   "lastmod": "2023-11-08"
 }
 
@@ -25,7 +25,7 @@
 
 فایل‌های افزونه Q1Q با فرمت فایل اختصاصی Flaming Pear ذخیره می‌شوند و جزئیات فرمت فایل داخلی آن به‌صورت عمومی در دسترس نیست. تصویر زیر رابط کاربری افزونه Q1Q را هنگام بارگذاری در فتوشاپ نشان می دهد.
 
-{{<figure src=../q1q.png alt=LunarCell PluginFile Format > }}
+{{<figure src="../q1q.png" alt="LunarCell PluginFile Format" >}}
 
 ## چگونه فایل Q1Q را باز کنیم؟
 

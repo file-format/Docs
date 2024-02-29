@@ -2,7 +2,7 @@
   "date": "2022-02-21",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل RBXL و API هایی که می توانند فایل های RBXL را ایجاد و باز کنند، بیاموزید.",
@@ -13,7 +13,7 @@
       "parent": "programming",
       "identifier": "programming-rbx-fal"
 }
-}،
+},
   "lastmod": "2022-02-21"
 }
 

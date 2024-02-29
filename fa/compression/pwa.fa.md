@@ -7,10 +7,10 @@
 "فایل",
 "پسوند فایل pwa",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل PWA - فایل عامل رمز عبور",
@@ -21,7 +21,7 @@
       "identifier": "compression-pwa-fa",
       "parent": "compression"
 }
-}،
+},
   "lastmod": "2023-05-24"
 }
 

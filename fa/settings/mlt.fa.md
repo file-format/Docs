@@ -9,10 +9,10 @@
 "فایل",
 "پسوند فایل mlt",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل MLT - پروژه شات کات",
@@ -23,7 +23,7 @@
       "identifier": "settings-mlt-fa",
       "parent": "settings"
 }
-}،
+},
   "lastmod": "2023-10-04"
 }
 

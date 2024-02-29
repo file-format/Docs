@@ -8,10 +8,10 @@
 "نوع فایل پایگاه داده",
 "فرمت فایل پایگاه داده",
 "پایگاه داده Btrieve"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل BTR و APIهایی که می‌توانند فایل‌های BTR را ایجاد و باز کنند، بیاموزید.",
@@ -22,7 +22,7 @@
       "parent": "database",
       "identifier": "database-bt-far"
 }
-}،
+},
   "lastmod": "2021-09-06"
 }
 

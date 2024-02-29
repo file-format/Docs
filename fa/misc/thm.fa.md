@@ -3,7 +3,7 @@
   "keywords" : [ "thm file", "thm file format", "what is a thm file", "file", "thm example", "thm file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل THM - فایل تم سونی اریکسون",
@@ -14,7 +14,7 @@
       "identifier":"misc-thm-fa",
       "parent" : "misc"
 }
-}،
+},
   "lastmod" : "2022-01-12"
 }
 

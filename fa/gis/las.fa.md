@@ -2,7 +2,7 @@
   "date": "2023-07-18",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "LAS - فرمت فایل Lidar LASer",
@@ -13,7 +13,7 @@
       "parent": "gis",
       "identifier": "gis-la-fas"
 }
-}،
+},
   "lastmod": "2023-07-18"
 }
 

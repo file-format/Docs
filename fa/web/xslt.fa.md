@@ -7,10 +7,10 @@
 "فرمت فایل",
 "فرمت فایل",
 "زبان صفحه سبک قابل توسعه"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل XSLT",
@@ -21,7 +21,7 @@
       "parent": "web",
       "identifier": "web-xsl-fat"
 }
-}،
+},
   "lastmod": "2021-01-20"
 }
 

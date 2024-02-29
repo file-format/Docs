@@ -2,7 +2,7 @@
   "date": "2022-04-07",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل HAML - فایل کد منبع Haml",
@@ -13,7 +13,7 @@
       "parent": "programming",
       "identifier": "programming-ham-fal"
 }
-}،
+},
   "lastmod": "2022-04-07"
 }
 

@@ -7,10 +7,10 @@
 "فایل",
 "پسوند فایل sbv",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل SBV - فایل زیرنویس YouTube",
@@ -21,7 +21,7 @@
       "identifier": "settings-sbv-fa",
       "parent": "settings"
 }
-}،
+},
   "lastmod": "2023-03-22"
 }
 

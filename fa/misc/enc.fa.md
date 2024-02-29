@@ -9,10 +9,10 @@
 "پسوند فایل enc",
 "افزونه",
 "فایل"
-]،
+],
    "author" : {
       "display_name" : "Shakeel Faiz"
-}،
+},
    "draft" : "false",
    "toc" : true,
    "title" : "فایل ENC - فایل رمزگذاری شده - فایل .enc چیست و چگونه آن را باز کنیم؟",
@@ -23,7 +23,7 @@
          "identifier" : "misc-enc-fa",
          "parent" : "misc"
 }
-}،
+},
    "lastmod" : "2023-12-06"
 }
 

@@ -8,10 +8,10 @@
 "فرمت فایل",
 "گرافیک برداری",
 "توصیفگر متافایل"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل CGM",
@@ -22,7 +22,7 @@
       "parent": "page-description-language",
       "identifier": "page-description-language-cg-fam"
 }
-}،
+},
   "lastmod": "2021-04-23"
 }
 

@@ -2,7 +2,7 @@
   "date" : "2021-12-15",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فرمت فایل TS - فایل جریان انتقال ویدئو",
@@ -14,7 +14,7 @@
       "identifier":"video-ts-fa",
       "parent" : "video"
 }
-}،
+},
   "lastmod" : "2021-12-16"
 }
 

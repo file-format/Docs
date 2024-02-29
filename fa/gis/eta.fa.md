@@ -2,7 +2,7 @@
   "date": "2021-08-24",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "ETA - فایل علامت مکان Google Earth",
@@ -13,7 +13,7 @@
       "parent": "gis",
       "identifier": "gis-et-faa"
 }
-}،
+},
   "lastmod": "2021-08-24"
 }
 

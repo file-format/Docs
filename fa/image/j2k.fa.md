@@ -9,10 +9,10 @@
 "پسوند فایل j2k",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "J2K",
@@ -23,7 +23,7 @@
       "parent": "image",
       "identifier": "image-j2-fak"
 }
-}،
+},
   "lastmod": "2020-08-03"
 }
 

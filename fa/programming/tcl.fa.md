@@ -11,10 +11,10 @@
 "زبان TCL ",
 "اولیت گرایی",
 "Tооl Соmmаnd زبان"
-]،
+],
   "author": {
     "display_name": "Sami Cheema"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "TCL - فایل Tооl Соmmаnd زبان",
@@ -25,7 +25,7 @@
       "parent": "programming",
       "identifier": "programming-tc-fal"
 }
-}،
+},
   "lastmod": "2021-09-02"
 }
 

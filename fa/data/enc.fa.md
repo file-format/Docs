@@ -9,10 +9,10 @@
 "پسوند فایل enc",
 "افزونه",
 "فایل"
-]،
+],
    "author" : {
       "display_name" : "Shakeel Faiz"
-}،
+},
    "draft" : "false",
    "toc" : true,
    "title" : "فایل ENC - نمودار ناوبری الکترونیکی - فایل .enc چیست و چگونه آن را باز کنیم؟",
@@ -23,7 +23,7 @@
          "identifier" : "data-enc-fa",
          "parent" : "data"
 }
-}،
+},
    "lastmod" : "2023-12-06"
 }
 

@@ -2,7 +2,7 @@
   "date": "2022-03-01",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فایل VPK - فرمت فایل بسته برنامه پلی استیشن ویتا",
@@ -13,7 +13,7 @@
       "parent": "compression",
       "identifier": "compression-vp-fak"
 }
-}،
+},
   "lastmod": "2022-03-01"
 }
 

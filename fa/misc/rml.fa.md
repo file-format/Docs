@@ -2,7 +2,7 @@
   "date" : "2022-01-12",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "RML - فایل قالب گزارش اکسیر",
@@ -13,7 +13,7 @@
       "identifier":"misc-rml-fa",
       "parent" : "misc"
 }
-}،
+},
   "lastmod" : "2022-01-12"
 }
 

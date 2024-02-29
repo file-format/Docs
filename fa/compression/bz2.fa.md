@@ -9,10 +9,10 @@
 "پسوند فایل bz2",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "BZ2 - فرمت فایل فشرده",
@@ -23,7 +23,7 @@
       "parent": "compression",
       "identifier": "compression-bz-fa2"
 }
-}،
+},
   "lastmod": "2020-09-05"
 }
 

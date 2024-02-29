@@ -10,10 +10,10 @@
 "فرمت فایل sln",
 "راه حل ویژوال استودیو",
 "راه حل ویژوال استودیو در مقابل پروژه"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "SLN",
@@ -24,7 +24,7 @@
       "parent": "programming",
       "identifier": "programming-sl-fan"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

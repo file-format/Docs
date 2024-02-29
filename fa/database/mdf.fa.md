@@ -8,10 +8,10 @@
 "نوع فایل پایگاه داده",
 "فرمت فایل پایگاه داده",
 "فایل های پایگاه داده"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "با فرمت فایل MDF و API هایی که می توانند فایل های MDF را ایجاد و باز کنند آشنا شوید.",
@@ -22,7 +22,7 @@
       "parent": "database",
       "identifier": "database-md-faf"
 }
-}،
+},
   "lastmod": "2020-08-12"
 }
 

@@ -2,7 +2,7 @@
   "date" : "2024-01-25",
   "author" : {
     "display_name" : "Shakeel Faiz"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل GB - فایل رام Game Boy - فایل .gb چیست و چگونه آن را باز کنیم؟",
@@ -13,7 +13,7 @@
       "identifier" : "game-en-gb-fa",
       "parent" : "game"
 }
-}،
+},
   "lastmod" : "2024-01-25"
 }
 

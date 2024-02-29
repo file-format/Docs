@@ -3,7 +3,7 @@
   "keywords" : [ "vss file", "vss file format", "what is a vss file", "file", "vss example", "vss file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "VSS - فرمت فایل استنسیل Microsoft Visio",
@@ -14,7 +14,7 @@
 	  "identifier":"visio-vss-fa",
       "parent" : "visio"
 }
-}،
+},
   "lastmod" : "2019-09-10"
 }
 

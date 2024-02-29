@@ -2,7 +2,7 @@
   "date" : "2024-02-08",
   "author" : {
     "display_name" : "Shakeel Faiz"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل IO - BrickLink Studio LEGO Model - فایل .io چیست و چگونه آن را باز کنیم؟",
@@ -13,7 +13,7 @@
       "identifier" : "data-en-io-fa",
       "parent" : "data"
 }
-}،
+},
   "lastmod" : "2024-02-08"
 }
 

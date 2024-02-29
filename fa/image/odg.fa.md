@@ -9,10 +9,10 @@
 "پسوند فایل odg",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل ODG",
@@ -23,7 +23,7 @@
       "parent": "image",
       "identifier": "image-od-fag"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

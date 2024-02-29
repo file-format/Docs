@@ -9,10 +9,10 @@
 "فایل",
 "پسوند فایل bms",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل BMS - QuickBMS Script",
@@ -23,7 +23,7 @@
       "identifier": "executable-bms-fa",
       "parent": "executable"
 }
-}،
+},
   "lastmod": "2023-05-08"
 }
 

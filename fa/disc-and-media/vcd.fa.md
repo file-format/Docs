@@ -5,10 +5,10 @@
 "فایل vcd چیست",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل VCD و API هایی که می توانند فایل های VCD ایجاد و باز کنند، بیاموزید.",
@@ -19,7 +19,7 @@
       "parent": "disc-and-media",
       "identifier": "disc-and-media-vc-fad"
 }
-}،
+},
   "lastmod": "2021-06-24"
 }
 

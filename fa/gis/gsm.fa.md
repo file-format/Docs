@@ -2,7 +2,7 @@
   "date" : "2022-12-22",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل GSM- فرمت فایل پروژه MapViewer",
@@ -13,7 +13,7 @@
       "identifier":"gis-gsm-fa",
       "parent" : "gis"
 }
-}،
+},
   "lastmod" : "2022-12-22"
 }
 

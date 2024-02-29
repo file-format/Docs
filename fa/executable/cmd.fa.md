@@ -8,10 +8,10 @@
 "پسوند فایل cmd",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل CMD و APIهایی که می توانند فایل های CMD را ایجاد و باز کنند، بیاموزید.",
@@ -22,7 +22,7 @@
       "parent": "executable",
       "identifier": "executable-cm-fad"
 }
-}،
+},
   "lastmod": "2021-07-12"
 }
 

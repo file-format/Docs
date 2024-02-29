@@ -2,7 +2,7 @@
   "date" : "2022-11-13",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل AFPHOTO - فرمت فایل سند عکس Affinity",
@@ -13,7 +13,7 @@
       "identifier": "image-afphoto-fa",
       "parent" : "image"
 }
-}،
+},
   "lastmod" : "2022-11-13"
 }
 

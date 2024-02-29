@@ -2,7 +2,7 @@
   "date" : "2023-11-08",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل APLG - فایل APLG چیست و چگونه آن را باز کنیم؟",
@@ -13,7 +13,7 @@
       "parent" : "plugin",
       "identifier":"plugin-en-apl-fag"
 }
-}،
+},
   "lastmod" : "2023-11-08"
 }
 

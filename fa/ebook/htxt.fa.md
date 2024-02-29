@@ -8,10 +8,10 @@
 "فرمت فایل",
 "کتاب الکترونیکی",
 "Hanvon WISEreader"
-]،
+],
   "author": {
     "display_name": "Sami Cheema"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل HTXT و APIهایی که می توانند فایل های HTXT ایجاد و باز کنند، بیاموزید.",
@@ -22,7 +22,7 @@
       "parent": "ebook",
       "identifier": "ebook-htx-fat"
 }
-}،
+},
   "lastmod": "2021-03-27"
 }
 

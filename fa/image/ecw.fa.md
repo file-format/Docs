@@ -9,10 +9,10 @@
 "پسوند فایل ecw",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "ECW - فایل تصویری فشرده سازی پیشرفته",
@@ -23,7 +23,7 @@
       "parent": "image",
       "identifier": "image-ec-faw"
 }
-}،
+},
   "lastmod": "2021-26-08"
 }
 

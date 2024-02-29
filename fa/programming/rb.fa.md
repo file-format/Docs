@@ -9,10 +9,10 @@
 "فایل",
 "پسوند فایل rb",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل RB - فایل کد منبع روبی",
@@ -23,7 +23,7 @@
       "identifier": "programming-rb-fa",
       "parent": "programming"
 }
-}،
+},
   "lastmod": "2023-05-29"
 }
 

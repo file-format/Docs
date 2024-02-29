@@ -2,7 +2,7 @@
   "date" : "2019-11-22",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "categories" : [ "fundamentals" ],
   "description" : "فایل های پایگاه داده برای ذخیره دیجیتالی داده ها در رایانه استفاده می شوند و حاوی ورودی هایی به عنوان رکورد هستند که اغلب توسط DBMS مدیریت می شوند.",
@@ -11,9 +11,9 @@
   "menu" : {
     "docs" : {
       "parent" : "database",
-"وزن : 01"
+"weight" : "01"
 }
-}،
+},
   "lastmod" : "2020-09-01"
 }
 

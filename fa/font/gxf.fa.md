@@ -2,7 +2,7 @@
   "date" : "2023-01-12",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل GXF - فرمت فایل فونت عمومی CADD Pro",
@@ -13,7 +13,7 @@
       "identifier":"font-gxf-fa",
       "parent" : "font"
 }
-}،
+},
   "lastmod" : "2023-01-12"
 }
 

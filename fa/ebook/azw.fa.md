@@ -8,10 +8,10 @@
 "نوع فایل کیندل",
 "فرمت فایل Kindle",
 "کتاب الکترونیکی"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل AZW و APIهایی که می‌توانند فایل‌های AZW را ایجاد و باز کنند، بیاموزید.",
@@ -22,7 +22,7 @@
       "parent": "ebook",
       "identifier": "ebook-az-faw"
 }
-}،
+},
   "lastmod": "2021-05-28"
 }
 

@@ -8,10 +8,10 @@
 "فایل کد بایت اکشن اسکریپت",
 "نحوه باز کردن فایل .abc",
 "فرمت فایل abc"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "ABC - فایل کد بایت اکشن اسکریپت",
@@ -22,7 +22,7 @@
       "parent": "programming",
       "identifier": "programming-ab-fac"
 }
-}،
+},
   "lastmod": "2021-12-14"
 }
 

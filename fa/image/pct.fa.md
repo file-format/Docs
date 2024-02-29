@@ -2,7 +2,7 @@
   "date": "2022-03-16",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل PCT - فایل PCT چیست؟",
@@ -13,7 +13,7 @@
       "parent": "image",
       "identifier": "image-pc-fat"
 }
-}،
+},
   "lastmod": "2022-03-16"
 }
 

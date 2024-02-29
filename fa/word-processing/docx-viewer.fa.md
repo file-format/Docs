@@ -7,10 +7,10 @@
 "نوع فایل",
 "افزونه",
 "فایل DOCX چیست؟"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "نمایشگر فرمت فایل DOCX آنلاین رایگان",
@@ -21,7 +21,7 @@
       "parent": "word-processing",
       "identifier": "word-processing-docx-viewe-far"
 }
-}،
+},
   "lastmod": "2019-12-03"
 }
 

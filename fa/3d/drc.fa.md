@@ -9,10 +9,10 @@
 "پسوند فایل drc",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره قالب فایل DRC و APIهایی که می‌توانند فایل‌های DRC را باز کرده و ایجاد کنند، بیاموزید.",
@@ -23,7 +23,7 @@
       "parent": "3d",
       "identifier": "3d-dr-fac"
 }
-}،
+},
   "lastmod": "2021-02-01"
 }
 

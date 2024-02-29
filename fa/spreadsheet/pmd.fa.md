@@ -7,10 +7,10 @@
 "فرمت فایل",
 "فایل SoftMaker PlanMaker",
 "صفحه گسترده"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فایل PlanMaker PMD و API هایی که می توانند فایل های PMD را ایجاد و باز کنند، بیاموزید.",
@@ -21,7 +21,7 @@
       "parent": "spreadsheet",
       "identifier": "spreadsheet-pm-fad"
 }
-}،
+},
   "lastmod": "2021-11-09"
 }
 

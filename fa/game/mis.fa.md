@@ -2,7 +2,7 @@
   "date" : "2024-01-10",
   "author" : {
     "display_name" : "Shakeel Faiz"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل MIS - Game Mission File - فایل mis چیست و چگونه آن را باز کنیم؟",
@@ -13,7 +13,7 @@
       "identifier": "game-mis-fa",
       "parent" : "game"
 }
-}،
+},
   "lastmod" : "2024-01-10"
 }
 

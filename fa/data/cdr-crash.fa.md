@@ -9,10 +9,10 @@
 "پسوند فایل cdr",
 "افزونه",
 "فایل"
-]،
+],
    "author":{
       "display_name":"Shakeel Faiz"
-}،
+},
    "draft":"false",
    "toc":true,
    "title":"فایل CDR - Crash Data Retrieval Data File - فایل cdr چیست و چگونه آن را باز کنم؟",
@@ -23,7 +23,7 @@
          "identifier":"data-cdr-crash-fa",
          "parent":"data"
 }
-}،
+},
    "lastmod":"2023-10-18"
 }
 

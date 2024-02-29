@@ -2,7 +2,7 @@
   "date": "2023-03-28",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "تبدیل DOCX به TXT آنلاین به صورت رایگان",
@@ -13,7 +13,7 @@
       "parent": "word-processing",
       "identifier": "word-processing-docx-to-tx-fat"
 }
-}،
+},
   "lastmod": "2023-03-28"
 }
 

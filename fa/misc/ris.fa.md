@@ -9,10 +9,10 @@
 "پسوند فایل ris",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "RIS - فایل استنادی سیستم های اطلاعات تحقیق",
@@ -23,7 +23,7 @@
       "parent": "misc",
       "identifier": "misc-ri-fas"
 }
-}،
+},
   "lastmod": "2022-01-12"
 }
 

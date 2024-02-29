@@ -3,7 +3,7 @@
   "keywords": [ "system files", "what is a system file", "extension", "format" ],
   "author" : {
     "display_name" : "Muhammad Sami"
-}،
+},
   "draft" : "false",
   "categories" : [ "fundamentals" ],
   "title" : "درباره قالب‌های فایل سیستم و APIهایی که می‌توانند فایل‌های سیستمی را باز و ایجاد کنند، بیاموزید",
@@ -12,9 +12,9 @@
   "menu" : {
     "docs" : {
       "parent" : "system",
-"وزن : 01"
+"weight" : "01"
 }
-}،
+},
   "lastmod" : "2021-06-30"
 }
 

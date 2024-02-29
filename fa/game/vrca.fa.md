@@ -2,7 +2,7 @@
   "date" : "2023-12-28",
   "author" : {
     "display_name" : "Shakeel Faiz"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل VRCA - آواتار VRChat - فایل .vrca چیست و چگونه آن را باز کنیم؟",
@@ -13,7 +13,7 @@
       "identifier": "game-vrca-fa",
       "parent" : "game"
 }
-}،
+},
   "lastmod" : "2023-12-28"
 }
 

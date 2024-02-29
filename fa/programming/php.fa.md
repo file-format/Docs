@@ -11,10 +11,10 @@
 "فرمت فایل php",
 "پسوند فایل php",
 "php مثال"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل پی اچ پی - فرمت فایل پیش پردازنده فرامتن",
@@ -25,7 +25,7 @@
       "parent": "programming",
       "identifier": "programming-ph-fap"
 }
-}،
+},
   "lastmod": "2021-05-07"
 }
 ## فایل PHP چیست؟

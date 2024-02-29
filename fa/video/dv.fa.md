@@ -10,10 +10,10 @@
 "فایل",
 "پسوند فایل dv",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل DV - فایل ویدئویی دیجیتال",
@@ -24,7 +24,7 @@
       "identifier": "video-dv-fa",
       "parent": "video"
 }
-}،
+},
   "lastmod": "2023-05-31"
 }
 

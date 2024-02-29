@@ -2,7 +2,7 @@
   "date": "2021-08-24",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "ATX - ArcGIS Attribute Index File",
@@ -13,7 +13,7 @@
       "parent": "gis",
       "identifier": "gis-at-fax"
 }
-}،
+},
   "lastmod": "2021-08-24"
 }
 

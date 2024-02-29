@@ -9,10 +9,10 @@
 "پسوند فایل tvdb",
 "افزونه",
 "فایل"
-]،
+],
    "author":{
       "display_name":"Shakeel Faiz"
-}،
+},
    "draft":"false",
    "toc":true,
    "title":"فایل TVDB - Apple TV Database - فایل tvdb چیست و چگونه آن را باز کنیم؟",
@@ -23,7 +23,7 @@
          "identifier":"database-tvdb-fa",
          "parent":"database"
 }
-}،
+},
    "lastmod":"2023-11-09"
 }
 

@@ -2,7 +2,7 @@
   "date" : "2023-08-07",
   "author" : {
     "display_name" : "Shakeel Faiz"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "PSX BIOS - Playstation BIOS",
@@ -13,7 +13,7 @@
       "identifier": "misc-psx-bios-fa",
       "parent" : "misc"
 }
-}،
+},
   "lastmod" : "2023-08-07"
 }
 

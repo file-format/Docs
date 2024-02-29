@@ -2,7 +2,7 @@
   "date": "2022-04-06",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل GROOVY",
@@ -13,7 +13,7 @@
       "parent": "programming",
       "identifier": "programming-groov-fay"
 }
-}،
+},
   "lastmod": "2022-04-06"
 }
 

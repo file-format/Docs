@@ -3,7 +3,7 @@
   "keywords" : [ "clip file", "clip file format", "what is a clip file", "file", "clip example","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "description":"درباره قالب فایل Grand Theft Auto 5 Clip و API هایی که می توانند فایل های CLIP ایجاد و باز کنند، بیاموزید.",
@@ -14,7 +14,7 @@
       "identifier": "game-clip-fa",
       "parent" : "game"
 }
-}،
+},
   "lastmod" : "2022-02-08"
 }
 

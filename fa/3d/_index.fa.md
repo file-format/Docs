@@ -3,7 +3,7 @@
   "keywords" : [ "3D", "file", "format", "extension", "GLB" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "description" : "فایل های سه بعدی نمایش دیجیتالی از اجسام سه بعدی هستند. باز کردن فرمت های فایل سه بعدی از جمله GLB، FBX، GLTF، OBJ، PLY، JT، 3DS و غیره را یاد بگیرید.",
   "categories" : [ "fundamentals" ],
@@ -12,9 +12,9 @@
   "menu" : {
     "docs" : {
       "parent" : "3d",
-"وزن : 01"
+"weight" : "01"
 }
-}،
+},
   "lastmod" : "2020-09-01"
 }
 

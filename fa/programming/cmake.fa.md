@@ -2,7 +2,7 @@
   "date": "2022-04-04",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل CMAKE",
@@ -13,7 +13,7 @@
       "parent": "programming",
       "identifier": "programming-cmak-fae"
 }
-}،
+},
   "lastmod": "2022-04-04"
 }
 

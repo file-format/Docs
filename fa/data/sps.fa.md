@@ -2,7 +2,7 @@
   "date" : "2023-12-28",
   "author" : {
     "display_name" : "Shakeel Faiz"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل SPS - فایل برنامه SPSS - فایل .sps چیست و چگونه آن را باز کنیم؟",
@@ -13,7 +13,7 @@
       "identifier": "data-sps-fa",
       "parent" : "data"
 }
-}،
+},
   "lastmod" : "2023-12-28"
 }
 

@@ -8,10 +8,10 @@
 "قالب",
 "کتاب الکترونیکی",
 "نوع فایل"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل AVA و APIهایی که می‌توانند فایل‌های AVA را ایجاد و باز کنند، بیاموزید.",
@@ -22,7 +22,7 @@
       "parent": "ebook",
       "identifier": "ebook-av-faa"
 }
-}،
+},
   "lastmod": "2021-05-28"
 }
 

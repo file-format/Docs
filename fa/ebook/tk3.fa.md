@@ -9,10 +9,10 @@
 "خواننده TK3",
 "نایت کیچن، شرکت",
 "WBT-201 شرکت Wintec"
-]،
+],
   "author": {
     "display_name": "Sami Cheema"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل TK3 و APIهایی که می‌توانند فایل‌های TK3 را ایجاد و باز کنند، بیاموزید.",
@@ -23,7 +23,7 @@
       "parent": "ebook",
       "identifier": "ebook-tk-fa3"
 }
-}،
+},
   "lastmod": "2021-04-10"
 }
 

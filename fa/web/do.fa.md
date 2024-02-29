@@ -2,7 +2,7 @@
   "date" : "2022-09-17",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل DO - فرمت فایل Java Servlet",
@@ -13,7 +13,7 @@
       "identifier":"web-do-fa",
       "parent" : "web"
 }
-}،
+},
   "lastmod" : "2022-09-17"
 }
 

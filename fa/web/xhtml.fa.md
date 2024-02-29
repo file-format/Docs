@@ -7,10 +7,10 @@
 "فرمت فایل",
 "فرمت فایل",
 "html قابل توسعه"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "XHTML - فرمت فایل زبان نشانه گذاری فرامتن قابل توسعه",
@@ -21,7 +21,7 @@
       "parent": "web",
       "identifier": "web-xhtm-fal"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

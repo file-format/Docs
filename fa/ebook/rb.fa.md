@@ -7,10 +7,10 @@
 "افزونه",
 "قالب",
 "کتاب الکترونیکی"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره قالب فایل RB برای دستگاه و APIهای Nuvo Media's Rocket eBook که می‌توانند فایل‌های RB را ایجاد و باز کنند، بیاموزید.",
@@ -21,7 +21,7 @@
       "parent": "ebook",
       "identifier": "ebook-r-fab"
 }
-}،
+},
   "lastmod": "2021-03-08"
 }
 

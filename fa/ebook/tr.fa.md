@@ -8,10 +8,10 @@
 "کتاب الکترونیکی",
 "TomeRaider",
 "یادابایت"
-]،
+],
   "author": {
     "display_name": "Sami Cheema"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "با فرمت فایل TR و APIهایی که می توانند فایل های TR را ایجاد و باز کنند آشنا شوید.",
@@ -22,7 +22,7 @@
       "parent": "ebook",
       "identifier": "ebook-t-far"
 }
-}،
+},
   "lastmod": "2021-04-10"
 }
 

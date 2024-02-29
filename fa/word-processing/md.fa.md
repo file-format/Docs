@@ -9,10 +9,10 @@
 "پسوند فایل md",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "MD - فایل زبان MarkDown",
@@ -23,7 +23,7 @@
       "parent": "word-processing",
       "identifier": "word-processing-m-fad"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

@@ -9,10 +9,10 @@
 "پسوند فایل wmf",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "WMF - فرمت متافایل مایکروسافت ویندوز",
@@ -23,7 +23,7 @@
       "parent": "image",
       "identifier": "image-wm-faf"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

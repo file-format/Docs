@@ -9,10 +9,10 @@
 "پسوند فایل qml",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "QML - قالب فایل QGIS Style",
@@ -23,7 +23,7 @@
       "parent": "gis",
       "identifier": "gis-qm-fal"
 }
-}،
+},
   "lastmod": "2021-03-14"
 }
 

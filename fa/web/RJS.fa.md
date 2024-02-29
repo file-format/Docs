@@ -8,10 +8,10 @@
 "فرمت فایل",
 "RJS",
 "فایل جاوا اسکریپت روبی"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "RJS - فایل جاوا اسکریپت روبی",
@@ -22,7 +22,7 @@
       "parent": "web",
       "identifier": "web-RJ-faS"
 }
-}،
+},
   "lastmod": "2021-05-24"
 }
 

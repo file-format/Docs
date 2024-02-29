@@ -3,7 +3,7 @@
   "keywords" : [ "art file", "art file format", "what is an art file", "file", "art example", "art file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل ART - BERNINA پیوند هنری فرمت فایل گلدوزی",
@@ -14,7 +14,7 @@
       "identifier":"misc-art-fa",
       "parent" : "misc"
 }
-}،
+},
   "lastmod" : "2022-03-30"
 }
 

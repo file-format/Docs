@@ -7,10 +7,10 @@
 "فرمت فایل",
 "صفحه گسترده توانایی",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فایل AST Spreadsheet و APIهایی که می‌توانند فایل‌های AST را ایجاد و باز کنند، بیاموزید.",
@@ -21,7 +21,7 @@
       "parent": "spreadsheet",
       "identifier": "spreadsheet-as-fat"
 }
-}،
+},
   "lastmod": "2021-11-25"
 }
 

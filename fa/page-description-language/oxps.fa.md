@@ -5,10 +5,10 @@
 "فایل",
 "افزونه",
 "فرمت فایل"
-]،
+],
   "author": {
     "display_name": "Sami Cheema"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل OXPS",
@@ -19,7 +19,7 @@
       "parent": "page-description-language",
       "identifier": "page-description-language-oxp-fas"
 }
-}،
+},
   "lastmod": "2021-04-16"
 }
 

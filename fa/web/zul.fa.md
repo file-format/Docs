@@ -7,10 +7,10 @@
 "فرمت فایل",
 "فرمت فایل",
 "باز کن"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فایل رابط کاربری ZUL - ZK",
@@ -21,7 +21,7 @@
       "parent": "web",
       "identifier": "web-zu-fal"
 }
-}،
+},
   "lastmod": "2021-05-24"
 }
 

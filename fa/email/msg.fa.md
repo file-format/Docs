@@ -2,7 +2,7 @@
   "date": "2019-10-11",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "MSG - فرمت ایمیل Microsoft Outlook",
@@ -13,7 +13,7 @@
       "parent": "email",
       "identifier": "email-ms-fag"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

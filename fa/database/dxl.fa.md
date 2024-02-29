@@ -2,7 +2,7 @@
   "date": "2023-05-16",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل DXL و APIهایی که می توانند فایل های DTSX را ایجاد و باز کنند، بیاموزید.",
@@ -13,7 +13,7 @@
       "parent": "database",
       "identifier": "database-dx-fal"
 }
-}،
+},
   "lastmod": "2023-05-16"
 }
 

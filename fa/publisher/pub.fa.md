@@ -2,7 +2,7 @@
   "date": "2021-12-18",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "PUB - فایل pub. چیست؟",
@@ -13,7 +13,7 @@
       "parent": "publisher",
       "identifier": "publisher-pu-fab"
 }
-}،
+},
   "lastmod": "2021-12-18"
 }
 

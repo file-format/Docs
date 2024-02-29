@@ -2,7 +2,7 @@
   "date": "2022-09-18",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل DOCMHTML - فایل سند HTML MIME Microsoft Word",
@@ -13,7 +13,7 @@
       "parent": "web",
       "identifier": "web-docmhtm-fal"
 }
-}،
+},
   "lastmod": "2022-09-18"
 }
 

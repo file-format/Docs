@@ -3,7 +3,7 @@
   "keywords" : [ "vdw","vdw file", "vdw file format", "vdw file type", "file", "type", "what is an vdw file" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فرمت فایل VDW - Visio Graphics Service",
@@ -14,7 +14,7 @@
       "identifier":"visio-vdw-fa",
       "parent" : "visio"
 }
-}،
+},
   "lastmod" : "2019-09-10"
 }
 ## فایل VDW چیست؟

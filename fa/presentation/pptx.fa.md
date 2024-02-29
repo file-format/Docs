@@ -9,10 +9,10 @@
 "پسوند فایل pptx",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل PPTX و APIهایی که می‌توانند فایل‌های PPTX را ایجاد و باز کنند، بیاموزید.",
@@ -23,7 +23,7 @@
       "parent": "presentation",
       "identifier": "presentation-ppt-fax"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

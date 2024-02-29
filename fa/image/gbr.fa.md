@@ -9,10 +9,10 @@
 "پسوند فایل gbr",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل GBR - فرمت فایل Gerber برای PCB",
@@ -23,7 +23,7 @@
       "parent": "image",
       "identifier": "image-gb-far"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

@@ -2,7 +2,7 @@
   "date": "2022-02-03",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل WSDL - فایل زبان توضیحات خدمات وب",
@@ -13,7 +13,7 @@
       "parent": "web",
       "identifier": "web-wsd-fal"
 }
-}،
+},
   "lastmod": "2022-02-03"
 }
 

@@ -2,7 +2,7 @@
   "date": "2019-10-11",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل PS",
@@ -13,7 +13,7 @@
       "parent": "page-description-language",
       "identifier": "page-description-language-p-fas"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

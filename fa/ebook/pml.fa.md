@@ -7,10 +7,10 @@
 "قالب",
 "کتاب الکترونیکی",
 "زبان نشانه گذاری پالم"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل PML، Palm Markup Language و APIهایی که می‌توانند فایل‌های PML را ایجاد و باز کنند، بیاموزید.",
@@ -21,7 +21,7 @@
       "parent": "ebook",
       "identifier": "ebook-pm-fal"
 }
-}،
+},
   "lastmod": "2021-03-08"
 }
 

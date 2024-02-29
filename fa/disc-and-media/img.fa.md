@@ -3,7 +3,7 @@
   "keywords" : [ "img file", "img file format", "what is a img file", "file", "img example", "img file extension","extension", "format", "file format of img", "disk image" ],
   "author" : {
     "display_name" : "Sami Cheema"
-}،
+},
   "draft" : "false",
    "toc" : true,
   "description" : "درباره فرمت فایل IMG و APIهایی که می‌توانند فایل‌های IMG را ایجاد و باز کنند، بیاموزید.",
@@ -14,7 +14,7 @@
       "identifier":"disc-and-media-img-fa",
       "parent" : "disc-and-media"
 }
-}،
+},
   "lastmod" : "2021-08-23"
 }
 

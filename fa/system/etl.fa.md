@@ -11,10 +11,10 @@
 "برنامه ها",
 "کامپیوتر",
 "کاربرد"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فایل‌های ETL - فایل لاگ ردیابی رویداد مایکروسافت",
@@ -25,7 +25,7 @@
       "parent": "system",
       "identifier": "system-et-fal"
 }
-}،
+},
   "lastmod": "2022-02-22"
 }
 

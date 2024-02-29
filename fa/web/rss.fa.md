@@ -9,10 +9,10 @@
 "وب",
 "سندیکای واقعا ساده",
 "نرم افزار Userland"
-]،
+],
   "author": {
     "display_name": "Sami Cheema"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "RSS - پیوندی واقعا ساده",
@@ -23,7 +23,7 @@
       "parent": "web",
       "identifier": "web-rs-fas"
 }
-}،
+},
   "lastmod": "2021-06-24"
 }
 

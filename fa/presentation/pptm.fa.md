@@ -9,10 +9,10 @@
 "پسوند فایل pptm",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "PPTM - فرمت فایل ارائه پاورپوینت با قابلیت ماکرو",
@@ -23,7 +23,7 @@
       "parent": "presentation",
       "identifier": "presentation-ppt-fam"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

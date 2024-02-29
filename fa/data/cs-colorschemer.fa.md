@@ -9,10 +9,10 @@
 "فایل",
 "پسوند فایل cs",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فایل CS - ColorSchemer Studio Color Scheme - فایل .cs چیست و چگونه آن را باز کنم؟",
@@ -23,7 +23,7 @@
       "identifier": "data-cs-colorschemer-fa",
       "parent": "data"
 }
-}،
+},
   "lastmod": "2023-10-04"
 }
 

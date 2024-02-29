@@ -9,10 +9,10 @@
 "API",
 "میکرو استیشن",
 "سیستم طراحی گرافیک تعاملی Intergraph"
-]،
+],
   "author":{
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "DGN - فرمت فایل طراحی CAD MicroStation",
@@ -23,7 +23,7 @@
       "parent": "cad",
       "identifier": "cad-dg-fan"
 }
-}،
+},
   "lastmod": "2020-01-12"
 }
 

@@ -8,10 +8,10 @@
 "فرمت فایل",
 "JSON",
 "فایل آرشیو"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "HAR - فرمت فایل آرشیو HTTP",
@@ -22,7 +22,7 @@
       "parent": "web",
       "identifier": "web-ha-far"
 }
-}،
+},
   "lastmod": "2021-07-08"
 }
 

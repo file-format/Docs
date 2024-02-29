@@ -9,10 +9,10 @@
 "پسوند فایل pcc",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل PCC Mass Effect و API هایی که می توانند فایل های PCC را ایجاد و باز کنند، بیاموزید.",
@@ -23,7 +23,7 @@
       "parent": "game",
       "identifier": "game-pc-fac"
 }
-}،
+},
   "lastmod": "2021-09-08"
 }
 

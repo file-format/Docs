@@ -7,10 +7,10 @@
 "افزونه",
 "فرمت فایل",
 "صفحه گسترده OpenDocument"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل PMVX و API هایی که می توانند فایل های PMVX را ایجاد و باز کنند، بیاموزید.",
@@ -21,7 +21,7 @@
       "parent": "spreadsheet",
       "identifier": "spreadsheet-pmv-fax"
 }
-}،
+},
   "lastmod": "2021-01-29"
 }
 

@@ -9,10 +9,10 @@
 "پسوند فایل jp2",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "JP2 - فرمت فایل تصویر",
@@ -23,7 +23,7 @@
       "parent": "image",
       "identifier": "image-jp-fa2"
 }
-}،
+},
   "lastmod": "2020-08-10"
 }
 

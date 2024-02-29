@@ -9,10 +9,10 @@
 "فایل",
 "پسوند فایل pc3",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل PC3 - فایل پیکربندی پلاتر اتوکد",
@@ -23,7 +23,7 @@
       "identifier": "cad-pc3-fa",
       "parent": "cad"
 }
-}،
+},
   "lastmod": "2023-05-09"
 }
 

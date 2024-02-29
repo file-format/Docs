@@ -2,7 +2,7 @@
   "date" : "2022-06-23",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فرمت فایل PUP - فایل آپدیت پلی استیشن 3",
@@ -13,7 +13,7 @@
       "identifier":"game-pup-fa",
       "parent" : "game"
 }
-}،
+},
   "lastmod" : "2022-06-23"
 }
 

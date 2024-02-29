@@ -9,10 +9,10 @@
 "کتاب الکترونیکی",
 "فایل اصلی کتابخوان الکترونیکی",
 "نوع فایل"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "با فرمت فایل POBI و APIهایی که می توانند فایل های POBI را ایجاد و باز کنند آشنا شوید.",
@@ -23,7 +23,7 @@
       "parent": "ebook",
       "identifier": "ebook-pob-fai"
 }
-}،
+},
   "lastmod": "2021-03-28"
 }
 

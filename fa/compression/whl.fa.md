@@ -2,7 +2,7 @@
   "date": "2022-06-29",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل WHL - فایل بسته چرخ پایتون",
@@ -13,7 +13,7 @@
       "parent": "compression",
       "identifier": "compression-wh-fal"
 }
-}،
+},
   "lastmod": "2022-06-29"
 }
 

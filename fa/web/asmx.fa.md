@@ -8,10 +8,10 @@
 "فایل",
 "نوع",
 "فایل asmx چیست"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "ASMX - فایل سرویس وب ASP.NET",
@@ -22,7 +22,7 @@
       "parent": "web",
       "identifier": "web-asm-fax"
 }
-}،
+},
   "lastmod": "2021-06-10"
 }
 

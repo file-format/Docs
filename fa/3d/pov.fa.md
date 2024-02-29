@@ -10,10 +10,10 @@
 "پسوند فایل pov",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل POV و APIهایی که می‌توانند فایل‌های POV را باز کرده و ایجاد کنند، بیاموزید.",
@@ -24,7 +24,7 @@
       "parent": "3d",
       "identifier": "3d-po-fav"
 }
-}،
+},
   "lastmod": "2023-01-05"
 }
 

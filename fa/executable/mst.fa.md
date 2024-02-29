@@ -9,10 +9,10 @@
 "پسوند فایل mst",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل MST و APIهایی که می‌توانند فایل‌های MST را ایجاد و باز کنند، بیاموزید.",
@@ -23,7 +23,7 @@
       "parent": "executable",
       "identifier": "executable-ms-fat"
 }
-}،
+},
   "lastmod": "2021-06-30"
 }
 

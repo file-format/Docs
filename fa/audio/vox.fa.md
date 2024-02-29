@@ -11,10 +11,10 @@
 "Xentec VOX Studio",
 "پسوند vox",
 "فایل های vox"
-]،
+],
   "author": {
     "display_name": "Sami Cheema"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل VOX و APIهایی که می‌توانند فایل‌های VOX را ایجاد و باز کنند، بیاموزید.",
@@ -25,7 +25,7 @@
       "parent": "audio",
       "identifier": "audio-vo-fax"
 }
-}،
+},
   "lastmod": "2021-08-11"
 }
 

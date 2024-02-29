@@ -7,10 +7,10 @@
 "قالب",
 "کدگذاری صوتی",
 "MPEG"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "راهنمای فرمت فایل شما برای یادگیری فایل MID و API هایی که می توانند فایل MID را ایجاد و باز کنند.",
@@ -21,7 +21,7 @@
       "parent": "audio",
       "identifier": "audio-mi-fad"
 }
-}،
+},
   "lastmod": "2020-11-102"
 }
 

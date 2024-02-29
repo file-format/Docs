@@ -9,10 +9,10 @@
 "پسوند فایل mtl",
 "افزونه",
 "فایل"
-]،
+],
    "author":{
       "display_name":"Shakeel Faiz"
-}،
+},
    "draft":"false",
    "toc":true,
    "title":"فرمت فایل MTL - فایل کتابخانه الگوی مواد OBJ",
@@ -23,7 +23,7 @@
          "identifier":"3d-mtl-fa",
          "parent":"3d"
 }
-}،
+},
    "lastmod":"2023-10-11"
 }
 

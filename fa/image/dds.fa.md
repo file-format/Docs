@@ -2,7 +2,7 @@
   "date": "2022-04-02",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل DDS- فایل تصویر سطحی DirectDraw",
@@ -13,7 +13,7 @@
       "parent": "image",
       "identifier": "image-dd-fas"
 }
-}،
+},
   "lastmod": "2022-04-02"
 }
 

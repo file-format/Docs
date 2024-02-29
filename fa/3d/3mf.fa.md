@@ -9,10 +9,10 @@
 "پسوند فایل 3mf",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "3MF",
@@ -23,7 +23,7 @@
       "parent": "3d",
       "identifier": "3d-3m-faf"
 }
-}،
+},
   "lastmod": "2019-12-09"
 }
 

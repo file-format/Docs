@@ -9,10 +9,10 @@
 "پسوند فایل f3d",
 "افزونه",
 "فایل"
-]،
+],
    "author":{
       "display_name":"Shakeel Faiz"
-}،
+},
    "draft":"false",
    "toc":true,
    "title":"فایل F3D - Fusion 360 Archive - فایل .f3d چیست و چگونه آن را باز کنیم؟",
@@ -23,7 +23,7 @@
          "identifier":"3d-f3d-fa",
          "parent":"3d"
 }
-}،
+},
    "lastmod":"2023-11-15"
 }
 

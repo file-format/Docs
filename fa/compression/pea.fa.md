@@ -9,10 +9,10 @@
 "پسوند فایل نخود",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "PEA - فرمت فایل بایگانی PeaZip",
@@ -23,7 +23,7 @@
       "parent": "compression",
       "identifier": "compression-pe-faa"
 }
-}،
+},
   "lastmod": "2021-04-21"
 }
 

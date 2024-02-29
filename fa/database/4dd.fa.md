@@ -11,10 +11,10 @@
 "بعد 4",
 "پایگاه داده 4 بعدی",
 "فایل 4DD"
-]،
+],
   "author": {
     "display_name": "Sami Cheema"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل 4DD و API هایی که می توانند فایل های 4DD ایجاد و باز کنند، بیاموزید.",
@@ -25,7 +25,7 @@
       "parent": "database",
       "identifier": "database-4d-fad"
 }
-}،
+},
   "lastmod": "2021-07-28"
 }
 

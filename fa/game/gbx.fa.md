@@ -2,7 +2,7 @@
   "date": "2022-12-11",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل GBX و APIهایی که می‌توانند فایل‌های GBX را ایجاد و باز کنند، بیاموزید.",
@@ -13,7 +13,7 @@
       "parent": "game",
       "identifier": "game-gb-fax"
 }
-}،
+},
   "lastmod": "2022-12-11"
 }
 

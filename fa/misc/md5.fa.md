@@ -9,10 +9,10 @@
 "پسوند فایل md5",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فایل MD5 - MD5 Checksum",
@@ -23,7 +23,7 @@
       "parent": "misc",
       "identifier": "misc-md-fa5"
 }
-}،
+},
   "lastmod": "2021-07-29"
 }
 

@@ -9,10 +9,10 @@
 "پسوند فایل rfa",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل RFA و APIهایی که می‌توانند فایل‌های RFA را ایجاد و باز کنند، بیاموزید.",
@@ -23,7 +23,7 @@
       "parent": "cad",
       "identifier": "cad-rf-faa"
 }
-}،
+},
   "lastmod": "2021-09-10"
 }
 

@@ -8,10 +8,10 @@
 "فایل",
 "پسوند فایل rdp",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل RDP - فایل پیکربندی دسکتاپ از راه دور",
@@ -22,7 +22,7 @@
       "identifier": "settings-rdp-fa",
       "parent": "settings"
 }
-}،
+},
   "lastmod": "2023-05-02"
 }
 

@@ -9,10 +9,10 @@
 "پسوند فایل svgz",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل SVGZ - یک متافیل پیشرفته فشرده ویندوز",
@@ -23,7 +23,7 @@
       "parent": "image",
       "identifier": "image-svg-faz"
 }
-}،
+},
   "lastmod": "2020-10-24"
 }
 

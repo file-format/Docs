@@ -9,10 +9,10 @@
 "پسوند فایل pif",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "با فرمت فایل PIF و APIهایی که می توانند فایل های PIF را ایجاد و باز کنند آشنا شوید.",
@@ -23,7 +23,7 @@
       "parent": "executable",
       "identifier": "executable-pi-faf"
 }
-}،
+},
   "lastmod": "2021-08-02"
 }
 

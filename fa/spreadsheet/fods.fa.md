@@ -6,10 +6,10 @@
 "افزونه",
 "فرمت فایل",
 "صفحه گسترده OpenDocument"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل FODS و APIهایی که می‌توانند فایل‌های FODS را ایجاد و باز کنند، بیاموزید.",
@@ -20,7 +20,7 @@
       "parent": "spreadsheet",
       "identifier": "spreadsheet-fod-fas"
 }
-}،
+},
   "lastmod": "2021-01-29"
 }
 

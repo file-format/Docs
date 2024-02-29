@@ -3,7 +3,7 @@
   "keywords" : ["8ck file", "what is a 8ck file", "file", "how to open 8ck file", "8ck file extension","extension"],
   "author" : {
     "display_name" : "Shakeel Faiz"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "description" : "درباره فرمت فایل 8CK و API هایی که می توانند فایل های 8CK را ایجاد و باز کنند، بیاموزید.",
@@ -14,7 +14,7 @@
       "identifier":"executable-8ck-fa",
       "parent" : "executable"
 }
-}،
+},
   "lastmod" : "2023-01-31"
 }
 

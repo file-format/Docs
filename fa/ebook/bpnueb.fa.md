@@ -8,10 +8,10 @@
 "قالب",
 "کتاب الکترونیکی",
 "نوع فایل"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره قالب فایل BPNUEB و APIهایی که می توانند فایل های BPNUEB را ایجاد و باز کنند، بیاموزید.",
@@ -22,7 +22,7 @@
       "parent": "ebook",
       "identifier": "ebook-bpnue-fab"
 }
-}،
+},
   "lastmod": "2021-04-05"
 }
 

@@ -6,10 +6,10 @@
 "فایل",
 "پسوند فایل مانیفست",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل MANIFEST - فایل مانیفست برنامه کاربردی ویندوز",
@@ -20,7 +20,7 @@
       "identifier": "system-manifest-fa",
       "parent": "system"
 }
-}،
+},
   "lastmod": "2023-03-07"
 }
 

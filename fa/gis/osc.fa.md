@@ -2,7 +2,7 @@
   "date" : "2023-01-02",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "OSC - OpenStreetMap تغییر فرمت فایل",
@@ -13,7 +13,7 @@
       "identifier":"gis-osc-fa",
       "parent" : "gis"
 }
-}،
+},
   "lastmod" : "2023-01-02"
 }
 

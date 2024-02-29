@@ -10,10 +10,10 @@
 "فایل",
 "پسوند فایل ogv",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل OGV - فایل ویدئویی Ogg",
@@ -24,7 +24,7 @@
       "identifier": "video-ogv-fa",
       "parent": "video"
 }
-}،
+},
   "lastmod": "2023-06-07"
 }
 

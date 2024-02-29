@@ -2,7 +2,7 @@
   "date": "2022-04-13",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل SCM - فایل کد منبع طرح",
@@ -13,7 +13,7 @@
       "parent": "programming",
       "identifier": "programming-sc-fam"
 }
-}،
+},
   "lastmod": "2022-04-13"
 }
 

@@ -2,7 +2,7 @@
   "date": "2021-08-03",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "DSC - فایل توضیحات متن",
@@ -13,7 +13,7 @@
       "parent": "word-processing",
       "identifier": "word-processing-ds-fac"
 }
-}،
+},
   "lastmod": "2021-08-03"
 }
 

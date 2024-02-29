@@ -8,10 +8,10 @@
 "قالب اکسل",
 "باز کن",
 "صفحه گسترده"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره اینکه یک فایل XLSMHTML و APIهایی که می توانند فایل های XLSMHTML را ایجاد و باز و ایجاد کنند، بیاموزید",
@@ -22,7 +22,7 @@
       "parent": "spreadsheet",
       "identifier": "spreadsheet-xlsmhtm-fal"
 }
-}،
+},
   "lastmod": "2021-07-13"
 }
 

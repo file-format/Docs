@@ -2,7 +2,7 @@
   "date" : "2024-02-23",
   "author" : {
     "display_name" : "Shakeel Faiz"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل ESP - افزونه Elder Scrolls - فایل .esp چیست و چگونه آن را باز کنیم؟",
@@ -13,7 +13,7 @@
       "identifier" : "game-esp-fa",
       "parent" : "game"
 }
-}،
+},
   "lastmod" : "2024-02-23"
 }
 

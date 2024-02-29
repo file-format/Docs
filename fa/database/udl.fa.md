@@ -8,10 +8,10 @@
 "نوع فایل پایگاه داده",
 "فرمت فایل پایگاه داده",
 "فایل udl چیست"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل UDL و APIهایی که می‌توانند فایل‌های UDL را ایجاد و باز کنند، بیاموزید.",
@@ -22,7 +22,7 @@
       "parent": "database",
       "identifier": "database-ud-fal"
 }
-}،
+},
   "lastmod": "2021-06-21"
 }
 

@@ -2,7 +2,7 @@
   "date": "2022-06-20",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل FZP و API هایی که می توانند فایل های FZP را ایجاد و باز کنند، بیاموزید.",
@@ -13,7 +13,7 @@
       "parent": "cad",
       "identifier": "cad-fz-fap"
 }
-}،
+},
   "lastmod": "2022-06-20"
 }
 

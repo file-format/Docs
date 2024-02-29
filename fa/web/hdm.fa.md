@@ -2,7 +2,7 @@
   "date": "2022-10-12",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فایل HDM - فایل زبان نشانه گذاری دستگاه دستی",
@@ -13,7 +13,7 @@
       "parent": "web",
       "identifier": "web-hd-fam"
 }
-}،
+},
   "lastmod": "2022-10-12"
 }
 

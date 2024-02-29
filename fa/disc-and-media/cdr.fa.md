@@ -9,10 +9,10 @@
 "پسوند فایل cdr",
 "افزونه",
 "فایل"
-]،
+],
    "author":{
       "display_name":"Shakeel Faiz"
-}،
+},
    "draft":"false",
    "toc":true,
    "title":"فرمت فایل CDR - Macintosh DVD/CD Master",
@@ -23,7 +23,7 @@
          "identifier":"disc-and-media-cdr-fa",
          "parent":"disc-and-media"
 }
-}،
+},
    "lastmod":"2023-10-18"
 }
 

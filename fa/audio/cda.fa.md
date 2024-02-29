@@ -9,10 +9,10 @@
 "موسیقی",
 "فرمت فایل cda",
 "مشخصات فرمت فایل cda"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل CDA و APIهایی که می‌توانند فایل‌های CDA را ایجاد، تبدیل و باز کنند، بیاموزید.",
@@ -23,7 +23,7 @@
       "parent": "audio",
       "identifier": "audio-cda"
 }
-}،
+},
   "lastmod": "2021-06-09"
 }
 

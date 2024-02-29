@@ -2,7 +2,7 @@
   "date": "2022-12-08",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "NMC - فایل نقشه Navitel",
@@ -13,7 +13,7 @@
       "parent": "gis",
       "identifier": "gis-nm-fac"
 }
-}،
+},
   "lastmod": "2022-12-08"
 }
 

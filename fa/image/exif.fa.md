@@ -9,10 +9,10 @@
 "پسوند فایل exif",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "EXIF",
@@ -23,7 +23,7 @@
       "parent": "image",
       "identifier": "image-exi-faf"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

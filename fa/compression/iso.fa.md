@@ -2,7 +2,7 @@
   "date" : "2021-04-08",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "ISO - فرمت فایل تصویر دیسک",
@@ -13,7 +13,7 @@
      "identifier": "compression-iso-fa",
       "parent" : "compression"
 }
-}،
+},
   "lastmod" : "2021-04-19"
 }
 

@@ -7,10 +7,10 @@
 "نحوه باز کردن فایل mui",
 "پسوند فایل mui",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل MUI - فایل ابزار بی شمار کاربر",
@@ -21,7 +21,7 @@
       "identifier": "audio-mui-fa",
       "parent": "audio"
 }
-}،
+},
   "lastmod": "2023-02-14"
 }
 

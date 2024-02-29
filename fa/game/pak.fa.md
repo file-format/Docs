@@ -3,7 +3,7 @@
   "keywords" : [ ".pak", "file format", "what is a pak file", "file", "pak example", "Video Game Package File","extension"],
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "description":"درباره فایل .pak و APIهایی که می‌توانند فایل‌های PAK را ایجاد و باز کنند، بیاموزید.",
@@ -14,7 +14,7 @@
       "identifier":"game-pak-fa",
       "parent" : "game"
 }
-}،
+},
   "lastmod" : "2021-10-27"
 }
 

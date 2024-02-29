@@ -9,10 +9,10 @@
 "فایل",
 "پسوند فایل mscz",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل MSCZ - فایل امتیاز فشرده MuseScore",
@@ -23,7 +23,7 @@
       "identifier": "audio-mscz-fa",
       "parent": "audio"
 }
-}،
+},
   "lastmod": "2023-06-05"
 }
 

@@ -9,10 +9,10 @@
 "فشرده سازی",
 "تصویر JPEG",
 "ویدئو"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "MJPEG - فرمت فایل حرکت JPEG",
@@ -23,7 +23,7 @@
       "parent": "video",
       "identifier": "video-mjpe-fag"
 }
-}،
+},
   "lastmod": "2021-02-16"
 }
 

@@ -9,10 +9,10 @@
 "پسوند فایل xpm",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "XPM - فرمت فایل X PixMap",
@@ -23,7 +23,7 @@
       "parent": "image",
       "identifier": "image-xp-fam"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

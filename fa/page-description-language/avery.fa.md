@@ -2,7 +2,7 @@
   "date": "2022-10-12",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فایل AVERY - فرمت فایل لیبل طراحی و چاپ Avery",
@@ -13,7 +13,7 @@
       "parent": "page-description-language",
       "identifier": "page-description-language-aver-fay"
 }
-}،
+},
   "lastmod": "2022-10-12"
 }
 

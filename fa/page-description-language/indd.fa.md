@@ -7,10 +7,10 @@
 "فرمت فایل",
 "صفحه آرایی",
 "Adobe InDesign"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل INDD و APIهایی که می‌توانند فایل‌های INDD را ایجاد و باز کنند، بیاموزید.",
@@ -21,7 +21,7 @@
       "parent": "page-description-language",
       "identifier": "page-description-language-ind-fad"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

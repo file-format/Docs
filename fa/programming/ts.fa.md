@@ -11,10 +11,10 @@
 "مایکروسافت",
 "VBScript",
 "EСMASсriрt"
-]،
+],
   "author": {
     "display_name": "Sami Cheema"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "TS - فرمت فایل TyрeSсriрt",
@@ -25,7 +25,7 @@
       "parent": "programming",
       "identifier": "programming-t-fas"
 }
-}،
+},
   "lastmod": "2021-08-27"
 }
 

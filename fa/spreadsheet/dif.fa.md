@@ -7,10 +7,10 @@
 "فرمت فایل",
 "فایل تبادل اطلاعات",
 "صفحه گسترده"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "راهنمای فرمت فایل شما برای دانستن پسوند فایل DIF و API هایی که می توانند فایل های DIF را ایجاد و باز کنند.",
@@ -21,7 +21,7 @@
       "parent": "spreadsheet",
       "identifier": "spreadsheet-di-faf"
 }
-}،
+},
   "lastmod": "2019-12-10"
 }
 

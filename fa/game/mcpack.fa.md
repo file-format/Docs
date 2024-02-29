@@ -8,10 +8,10 @@
 "پسوند فایل mcpack",
 "افزونه",
 "بسته های بافت mcpack"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل MCPACK - افزونه Minecraft Bedrock Edition",
@@ -22,7 +22,7 @@
       "identifier": "game-mcpack-fa",
       "parent": "game"
 }
-}،
+},
   "lastmod": "2023-04-04"
 }
 

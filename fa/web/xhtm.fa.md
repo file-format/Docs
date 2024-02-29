@@ -2,7 +2,7 @@
   "date" : "2023-01-29",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "XHTM",
@@ -13,7 +13,7 @@
       "identifier":"web-xhtm-fa",
       "parent" : "web"
 }
-}،
+},
   "lastmod" : "2023-01-29"
 }
 

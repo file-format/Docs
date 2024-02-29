@@ -7,10 +7,10 @@
 "فرمت فایل",
 "CSharp",
 "زبان برنامه نویسی"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "CS - فایل کد CSharp",
@@ -21,7 +21,7 @@
       "parent": "programming",
       "identifier": "programming-c-fas"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

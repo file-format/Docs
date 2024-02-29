@@ -2,7 +2,7 @@
   "date" : "2023-11-08",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "categories" : [ "fundamentals" ],
   "title" : "درباره قالب‌های فایل افزونه و APIهایی که می‌توانند فایل‌های پلاگین را باز کرده و ایجاد کنند، بیاموزید",
@@ -10,9 +10,9 @@
   "menu" : {
     "docs" : {
       "parent" : "plugin",
-"وزن : 01"
+"weight" : "01"
 }
-}،
+},
   "lastmod" : "2023-11-08"
 }
 

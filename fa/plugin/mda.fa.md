@@ -2,7 +2,7 @@
   "date" : "2023-12-04",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "description" : "درباره فرمت فایل MDA و APIهایی که می‌توانند فایل‌های MDA را ایجاد و باز کنند، بیاموزید.",
@@ -13,7 +13,7 @@
       "parent" : "plugin",
       "identifier": "plugin-en-md-faa"
 }
-}،
+},
   "lastmod" : "2023-12-04"
 }
 

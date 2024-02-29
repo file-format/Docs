@@ -8,10 +8,10 @@
 "فایل",
 "نوع",
 "فایل shtml چیست"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "SHTML - سمت سرور شامل فایل HTML",
@@ -22,7 +22,7 @@
       "parent": "web",
       "identifier": "web-shtm-fal"
 }
-}،
+},
   "lastmod": "2021-05-20"
 }
 

@@ -11,10 +11,10 @@
 "برنامه ها",
 "کامپیوتر",
 "کاربرد"
-]،
+],
   "author": {
     "display_name": "Sami Cheema"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "DRV - درایور دستگاه ویندوز",
@@ -25,7 +25,7 @@
       "parent": "system",
       "identifier": "system-dr-fav"
 }
-}،
+},
   "lastmod": "2021-07-08"
 }
 

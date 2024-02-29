@@ -2,7 +2,7 @@
   "date" : "2020-03-16",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "description" : "درباره فرمت فایل NC و APIهایی که می‌توانند فایل‌های NC را ایجاد و باز کنند، بیاموزید.",
@@ -13,7 +13,7 @@
       "identifier":"cad-nc-fa",
       "parent" : "cad"
 }
-}،
+},
   "lastmod" : "2020-10-24"
 }
 

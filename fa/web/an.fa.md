@@ -8,10 +8,10 @@
 "فایل",
 "نوع",
 "یک فایل .an چیست"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "AN - فایل پروژه متحرک Adobe Edge ",
@@ -22,7 +22,7 @@
       "parent": "web",
       "identifier": "web-a-fan"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

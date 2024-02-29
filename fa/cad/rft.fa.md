@@ -9,10 +9,10 @@
 "پسوند فایل rft",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل RFT و APIهایی که می توانند فایل های RFT را ایجاد و باز کنند، بیاموزید.",
@@ -23,7 +23,7 @@
       "parent": "cad",
       "identifier": "cad-rf-fat"
 }
-}،
+},
   "lastmod": "2021-09-10"
 }
 

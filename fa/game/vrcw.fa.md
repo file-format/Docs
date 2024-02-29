@@ -8,10 +8,10 @@
 "پسوند فایل vrcw",
 "افزونه",
 "vrcw وجود ندارد"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل VRCW - VRChat World",
@@ -22,7 +22,7 @@
       "identifier": "game-vrcw-fa",
       "parent": "game"
 }
-}،
+},
   "lastmod": "2023-04-04"
 }
 

@@ -9,10 +9,10 @@
 "پسوند فایل dib",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "DIB",
@@ -23,7 +23,7 @@
       "parent": "image",
       "identifier": "image-di-fab"
 }
-}،
+},
   "lastmod": "2020-01-10"
 }
 

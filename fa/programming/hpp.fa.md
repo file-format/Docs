@@ -9,10 +9,10 @@
 "فایل",
 "پسوند فایل hpp",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل HPP - C++ Header File",
@@ -23,7 +23,7 @@
       "identifier": "programming-hpp-fa",
       "parent": "programming"
 }
-}،
+},
   "lastmod": "2023-06-08"
 }
 

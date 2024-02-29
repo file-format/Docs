@@ -2,7 +2,7 @@
   "date": "2022-07-12",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فایل IFO - فایل IFO چیست؟",
@@ -13,7 +13,7 @@
       "parent": "video",
       "identifier": "video-if-fao"
 }
-}،
+},
   "lastmod": "2022-07-12"
 }
 

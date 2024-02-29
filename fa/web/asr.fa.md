@@ -2,7 +2,7 @@
   "date": "2022-08-05",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل ASR - فایل صفحه فعال",
@@ -13,7 +13,7 @@
       "parent": "web",
       "identifier": "web-as-far"
 }
-}،
+},
   "lastmod": "2022-08-05"
 }
 

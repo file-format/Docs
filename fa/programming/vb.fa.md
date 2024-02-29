@@ -7,10 +7,10 @@
 "فرمت فایل",
 "ویژوال بیسیک",
 "راهنمای برنامه نویسی"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "VB - فایل کد ویژوال بیسیک",
@@ -21,7 +21,7 @@
       "parent": "programming",
       "identifier": "programming-v-fab"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

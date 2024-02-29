@@ -2,7 +2,7 @@
   "date" : "2023-08-07",
   "author" : {
     "display_name" : "Shakeel Faiz"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "PS2 BIOS - Playstation 2 BIOS",
@@ -13,7 +13,7 @@
       "identifier": "misc-ps2-bios-fa",
       "parent" : "misc"
 }
-}،
+},
   "lastmod" : "2023-08-07"
 }
 

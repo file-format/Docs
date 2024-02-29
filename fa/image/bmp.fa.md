@@ -9,10 +9,10 @@
 "پسوند فایل bmp",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "BMP - فرمت فایل تصویر",
@@ -23,7 +23,7 @@
       "parent": "image",
       "identifier": "image-bm-fap"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

@@ -7,10 +7,10 @@
 "فایل",
 "پسوند فایل c4d",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل C4D - فایل مدل سینما 4 بعدی",
@@ -21,7 +21,7 @@
       "identifier": "3d-c4d-fa",
       "parent": "3d"
 }
-}،
+},
   "lastmod": "2023-04-27"
 }
 

@@ -9,10 +9,10 @@
 "پسوند فایل odf",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "ODF - فایل فرمول OpenDocument",
@@ -23,7 +23,7 @@
       "parent": "misc",
       "identifier": "misc-od-faf"
 }
-}،
+},
   "lastmod": "2021-07-29"
 }
 

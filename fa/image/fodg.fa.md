@@ -9,10 +9,10 @@
 "پسوند فایل fodg",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "FODG - فرمت فایل طراحی OpenDocument",
@@ -23,7 +23,7 @@
       "parent": "image",
       "identifier": "image-fod-fag"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

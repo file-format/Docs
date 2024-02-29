@@ -2,7 +2,7 @@
   "date" : "2022-08-24",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل CSP - فرمت فایل صفحه سرور مفهومی",
@@ -13,7 +13,7 @@
       "identifier":"web-csp-fa",
       "parent" : "web"
 }
-}،
+},
   "lastmod" : "2022-08-24"
 }
 

@@ -7,10 +7,10 @@
 "نحوه باز کردن فایل bdc",
 "پسوند فایل bdc",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل BDC - فایل طراحی طراح پل West Point",
@@ -21,7 +21,7 @@
       "identifier": "cad-bdc-fa",
       "parent": "cad"
 }
-}،
+},
   "lastmod": "2023-02-21"
 }
 

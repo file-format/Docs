@@ -7,10 +7,10 @@
 "نحوه باز کردن فایل ریپ",
 "پسوند فایل ریپ",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل RIP - فایل Mashup صوتی Hit'n'Mix",
@@ -21,7 +21,7 @@
       "identifier": "audio-rip-fa",
       "parent": "audio"
 }
-}،
+},
   "lastmod": "2023-02-16"
 }
 

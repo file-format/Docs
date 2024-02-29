@@ -4,10 +4,10 @@
 "فایل NWC",
 "قالب",
 "CAD"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل NWC و APIهایی که می‌توانند فایل‌های NWC را ایجاد و باز کنند، بیاموزید.",
@@ -18,7 +18,7 @@
       "parent": "cad",
       "identifier": "cad-nw-fac"
 }
-}،
+},
   "lastmod": "2020-10-24"
 }
 

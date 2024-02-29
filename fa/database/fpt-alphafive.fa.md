@@ -10,10 +10,10 @@
 "فایل",
 "پسوند فایل fpt",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل FPT - فایل یادداشت جدول پنج آلفا",
@@ -24,7 +24,7 @@
       "identifier": "database-fpt-alphafive-fa",
       "parent": "database"
 }
-}،
+},
   "lastmod": "2023-04-27"
 }
 

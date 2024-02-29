@@ -2,7 +2,7 @@
   "date" : "2022-11-10",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل AU3 - فرمت فایل AutoIt v3 Script",
@@ -13,7 +13,7 @@
       "identifier" : "programming-au3-fa",
       "parent" : "programming"
 }
-}،
+},
   "lastmod" : "2022-11-10"
 }
 

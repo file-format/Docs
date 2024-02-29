@@ -7,10 +7,10 @@
 "فایل",
 "پسوند فایل themepack",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل THEMEPACK - بسته تم ویندوز 7",
@@ -21,7 +21,7 @@
       "identifier": "settings-themepack-fa",
       "parent": "settings"
 }
-}،
+},
   "lastmod": "2023-03-23"
 }
 

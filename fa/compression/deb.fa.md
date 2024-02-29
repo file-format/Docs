@@ -9,10 +9,10 @@
 "پسوند فایل deb",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "DEB - بایگانی تار فشرده Bzip",
@@ -23,7 +23,7 @@
       "parent": "compression",
       "identifier": "compression-de-fab"
 }
-}،
+},
   "lastmod": "2021-04-09"
 }
 

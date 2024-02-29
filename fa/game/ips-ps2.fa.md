@@ -9,10 +9,10 @@
 "پسوند فایل ips",
 "افزونه",
 "فایل"
-]،
+],
    "author":{
       "display_name":"Shakeel Faiz"
-}،
+},
    "draft":"false",
    "toc":true,
    "title":"فرمت فایل IPS - ویدیوی درون بازی پلی استیشن 2",
@@ -23,7 +23,7 @@
          "identifier":"game-ips-ps2-fa",
          "parent":"game"
 }
-}،
+},
    "lastmod":"2023-09-21"
 }
 

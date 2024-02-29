@@ -8,10 +8,10 @@
 "نوع فایل پایگاه داده",
 "فرمت فایل پایگاه داده",
 "فایل های پایگاه داده"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل MDB و APIهایی که می توانند فایل های MDB را ایجاد و باز کنند، بیاموزید.",
@@ -22,7 +22,7 @@
       "parent": "database",
       "identifier": "database-md-fab"
 }
-}،
+},
   "lastmod": "2020-11-11"
 }
 

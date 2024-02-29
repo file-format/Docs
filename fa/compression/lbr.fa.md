@@ -9,10 +9,10 @@
 "پسوند فایل mst",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "LBR - قالب فایل بایگانی کتابخانه LU",
@@ -23,7 +23,7 @@
       "parent": "compression",
       "identifier": "compression-lb-far"
 }
-}،
+},
   "lastmod": "2021-04-19"
 }
 

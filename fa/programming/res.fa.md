@@ -7,10 +7,10 @@
 "افزونه",
 "قالب",
 "فرمت فایل RES"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "RES - C++ Compiled Resource Script",
@@ -21,7 +21,7 @@
       "parent": "programming",
       "identifier": "programming-re-fas"
 }
-}،
+},
   "lastmod": "2021-04-23"
 }
 

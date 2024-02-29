@@ -2,7 +2,7 @@
   "date": "2022-07-13",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "با فرمت فایل WEBA و APIهایی که می توانند فایل های WEBA را ایجاد و باز کنند آشنا شوید.",
@@ -13,7 +13,7 @@
       "parent": "audio",
       "identifier": "audio-web-faa"
 }
-}،
+},
   "lastmod": "2022-07-13"
 }
 

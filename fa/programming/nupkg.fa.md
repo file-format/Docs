@@ -2,7 +2,7 @@
   "date": "2022-03-09",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فایل NUPKG - فایل بسته NuGet",
@@ -13,7 +13,7 @@
       "parent": "programming",
       "identifier": "programming-nupk-fag"
 }
-}،
+},
   "lastmod": "2022-03-09"
 }
 

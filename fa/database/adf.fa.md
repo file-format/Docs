@@ -3,7 +3,7 @@
   "keywords" : [ "adf", "extension", "file", "file format", "Database File Type", "Database File Format", "ACT Data File" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "description" : "درباره فرمت فایل ADF و APIهایی که می‌توانند فایل‌های ADF را ایجاد و باز کنند، بیاموزید.",
@@ -14,7 +14,7 @@
       "identifier": "database-adf-fa",
       "parent" : "database"
 }
-}،
+},
   "lastmod" : "2021-08-29"
 }
 

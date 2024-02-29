@@ -10,10 +10,10 @@
 "فایل",
 "پسوند فایل scc",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل SCC - ضبط صفحه ScreenFlow",
@@ -24,7 +24,7 @@
       "identifier": "video-scc-fa",
       "parent": "video"
 }
-}،
+},
   "lastmod": "2023-06-21"
 }
 

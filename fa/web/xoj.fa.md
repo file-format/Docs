@@ -7,10 +7,10 @@
 "فرمت فایل",
 "فرمت فایل",
 "دفترچه یادداشت Xournal"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فایل XOJ - فرمت فایل نوت بوک Xournal",
@@ -21,7 +21,7 @@
       "parent": "web",
       "identifier": "web-xo-faj"
 }
-}،
+},
   "lastmod": "2022-02-19"
 }
 

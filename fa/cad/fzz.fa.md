@@ -9,10 +9,10 @@
 "پسوند فایل fzz",
 "افزونه",
 "فایل"
-]،
+],
    "author":{
       "display_name":"Shakeel Faiz"
-}،
+},
    "draft":"false",
    "toc":true,
    "title":"فایل FZZ - Fritzing Shareable Project - فایل .fzz چیست و چگونه آن را باز کنیم؟",
@@ -23,7 +23,7 @@
          "identifier":"cad-fzz-fa",
          "parent":"cad"
 }
-}،
+},
    "lastmod":"2023-11-15"
 }
 

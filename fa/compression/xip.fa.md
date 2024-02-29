@@ -9,10 +9,10 @@
 "فایل",
 "پسوند فایل xip",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل XIP - MacOS Signed Archive",
@@ -23,7 +23,7 @@
       "identifier": "compression-xip-fa",
       "parent": "compression"
 }
-}،
+},
   "lastmod": "2023-05-24"
 }
 

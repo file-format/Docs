@@ -7,10 +7,10 @@
 "خواندن",
 "ايجاد كردن",
 "CAD"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره قالب فایل ART و APIهایی که می‌توانند فایل‌های ART را ایجاد و باز کنند، بیاموزید.",
@@ -21,7 +21,7 @@
       "parent": "cad",
       "identifier": "cad-ar-fat"
 }
-}،
+},
   "lastmod": "2021-12-30"
 }
 

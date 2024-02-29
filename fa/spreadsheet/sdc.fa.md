@@ -9,10 +9,10 @@
 "آپاچی",
 "دفتر کار جمعی همکاران",
 "صفحه گسترده"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل SDC و APIهایی که می‌توانند فایل‌های SDC را ایجاد و باز کنند، بیاموزید.",
@@ -23,7 +23,7 @@
       "parent": "spreadsheet",
       "identifier": "spreadsheet-sd-fac"
 }
-}،
+},
   "lastmod": "2021-11-16"
 }
 

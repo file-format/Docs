@@ -9,10 +9,10 @@
 "پسوند فایل otg",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "OTG - فرمت فایل الگوی طراحی OpenDocument",
@@ -23,7 +23,7 @@
       "parent": "image",
       "identifier": "image-ot-fag"
 }
-}،
+},
   "lastmod": "2020-01-10"
 }
 

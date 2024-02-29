@@ -2,7 +2,7 @@
   "date": "2022-10-05",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فایل اتوبان - فرمت فایل سند اتوبان",
@@ -13,7 +13,7 @@
       "parent": "web",
       "identifier": "web-freewa-fay"
 }
-}،
+},
   "lastmod": "2022-10-05"
 }
 

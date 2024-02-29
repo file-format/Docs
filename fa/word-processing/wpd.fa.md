@@ -11,10 +11,10 @@
 "قالب",
 "کورل",
 "WordPerfect"
-]،
+],
   "author": {
     "display_name": "Sami Cheema"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "WPD - فایل های سند WordPerfect",
@@ -25,7 +25,7 @@
       "parent": "word-processing",
       "identifier": "word-processing-wp-fad"
 }
-}،
+},
   "lastmod": "2021-07-27"
 }
 

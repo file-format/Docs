@@ -2,7 +2,7 @@
   "date" : "2023-11-13",
   "author" : {
     "display_name" : "Shakeel Faiz"
-}،
+},
   "draft" : "false",
   "description" : "فهرست پسوندهای فایل داده و فرمت های فایل مربوط به آنها.",
   "categories" : [ "fundamentals" ],
@@ -11,9 +11,9 @@
   "menu" : {
     "docs" : {
       "parent" : "data",
-"وزن : 05"
+"weight" : "05"
 }
-}،
+},
   "lastmod" : "2023-11-13"
 }
 

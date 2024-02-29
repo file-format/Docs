@@ -6,10 +6,10 @@
 "فرمت فایل",
 "نوع فایل",
 "فایل a5w چیست"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "A5W - فایل صفحه وب آلفا پنج",
@@ -20,7 +20,7 @@
       "parent": "web",
       "identifier": "web-a5-faw"
 }
-}،
+},
   "lastmod": "2021-12-06"
 }
 

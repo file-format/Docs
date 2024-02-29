@@ -2,7 +2,7 @@
   "date": "2019-10-11",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "keywords": [
@@ -15,7 +15,7 @@
 "فرمت فایل swf",
 "پخش کننده فایل swf",
 "نحوه باز کردن فایل swf"
-]،
+],
   "title": "فایل SWF - فرمت فایل فیلم Shockwave Flash",
   "description": "در مورد اینکه یک فایل SWF چیست و APIهایی که می توانند ایجاد کنند و نحوه باز کردن فایل SWF را نشان دهند، بیاموزید.",
   "linktitle": "SWF",
@@ -24,7 +24,7 @@
       "parent": "page-description-language",
       "identifier": "page-description-language-sw-faf"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

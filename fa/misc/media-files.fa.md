@@ -7,10 +7,10 @@
 "فایل های رسانه تصویری",
 "فایل های رسانه های صوتی",
 "فایل های رسانه تصویری"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فایل های رسانه ای چیست؟ انواع و قالب ها",
@@ -21,7 +21,7 @@
       "identifier": "misc-media-files-fa",
       "parent": "misc"
 }
-}،
+},
   "lastmod": "2023-06-19"
 }
 

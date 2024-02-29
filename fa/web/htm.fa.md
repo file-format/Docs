@@ -8,10 +8,10 @@
 "فایل",
 "نوع",
 "فایل htm چیست"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل HTM",
@@ -22,7 +22,7 @@
       "parent": "web",
       "identifier": "web-ht-fam"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

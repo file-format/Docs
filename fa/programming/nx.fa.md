@@ -2,7 +2,7 @@
   "date": "2023-01-05",
   "author": {
     "display_name": "Sami Cheema"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فایل NX - فرمت فایل برنامه LowRes NX",
@@ -13,7 +13,7 @@
       "parent": "programming",
       "identifier": "programming-n-fax"
 }
-}،
+},
   "lastmod": "2023-01-05"
 }
 

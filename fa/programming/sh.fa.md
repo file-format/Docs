@@ -8,10 +8,10 @@
 "نمونه فایل sh",
 "فرمت فایل sh",
 "نحوه اجرای فایل sh"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "SH - فایل اسکریپت Bash Shell",
@@ -22,7 +22,7 @@
       "parent": "programming",
       "identifier": "programming-s-fah"
 }
-}،
+},
   "lastmod": "2021-05-21"
 }
 

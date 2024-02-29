@@ -7,10 +7,10 @@
 "فرمت فایل",
 "Thinkfree Office NEO Cell",
 "صفحه گسترده"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فایل CELL Spreadsheet و APIهایی که می‌توانند فایل‌های CELL را ایجاد و باز کنند، بیاموزید.",
@@ -21,7 +21,7 @@
       "parent": "spreadsheet",
       "identifier": "spreadsheet-cel-fal"
 }
-}،
+},
   "lastmod": "2021-11-18"
 }
 

@@ -2,7 +2,7 @@
   "date": "2021-07-30",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "سوالات متداول - فایل سوالات متداول",
@@ -13,7 +13,7 @@
       "parent": "word-processing",
       "identifier": "word-processing-fa-faq"
 }
-}،
+},
   "lastmod": "2021-07-30"
 }
 

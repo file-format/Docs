@@ -2,7 +2,7 @@
   "date": "2022-04-28",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل EXO - فایل تکه ای ویدیویی YouTube",
@@ -13,7 +13,7 @@
       "parent": "video",
       "identifier": "video-ex-fao"
 }
-}،
+},
   "lastmod": "2022-04-28"
 }
 

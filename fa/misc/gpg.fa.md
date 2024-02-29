@@ -9,10 +9,10 @@
 "پسوند فایل gpg",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فایل GPG - فایل کلید عمومی نگهبان حریم خصوصی گنو",
@@ -23,7 +23,7 @@
       "parent": "misc",
       "identifier": "misc-gp-fag"
 }
-}،
+},
   "lastmod": "2022-02-17"
 }
 

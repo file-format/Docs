@@ -8,10 +8,10 @@
 "پسوند فایل geojson",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "GeoJSON - فرمت فایل جغرافیایی مبتنی بر JSON",
@@ -22,7 +22,7 @@
       "parent": "gis",
       "identifier": "gis-geojso-fan"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 
@@ -93,7 +93,7 @@ The Internet Engineering Task Force (IETF), in association with the format autho
   "geometry": {
     "type": "Point",
     "coordinates": [20, 10]
-}،
+},
   "properties": {
     "name": "fortune island"
   }
@@ -116,7 +116,7 @@ The Internet Engineering Task Force (IETF), in association with the format autho
       "geometry": {
         "type": "Point",
         "coordinates": [20, 10]
-    }،
+    },
       "properties": {
         "name": "null island"
   }

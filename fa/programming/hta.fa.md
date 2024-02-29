@@ -12,10 +12,10 @@
 "برنامه زبان نشانه گذاری فرامتن",
 "فایل های HTA",
 "برنامه HTML مایکروسافت"
-]،
+],
   "author": {
     "display_name": "Sami Cheema"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "HTA - فایل های کاربردی HTML",
@@ -26,7 +26,7 @@
       "parent": "programming",
       "identifier": "programming-ht-faa"
 }
-}،
+},
   "lastmod": "2021-09-16"
 }
 

@@ -8,10 +8,10 @@
 "قالب",
 "کتاب الکترونیکی",
 "نکات برجسته محبوب"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل PHL برای orb reader و APIهایی که می‌توانند فایل‌های PHL را ایجاد و باز کنند، بیاموزید.",
@@ -22,7 +22,7 @@
       "parent": "ebook",
       "identifier": "ebook-ph-fal"
 }
-}،
+},
   "lastmod": "2021-03-30"
 }
 

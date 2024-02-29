@@ -9,10 +9,10 @@
 "آموزش jspf",
 "قطعه jsp",
 "فرمت فایل JSPF"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "JSPF - فرمت فایل JSP Fragment",
@@ -23,7 +23,7 @@
       "parent": "programming",
       "identifier": "programming-jsp-faf"
 }
-}،
+},
   "lastmod": "2021-04-21"
 }
 

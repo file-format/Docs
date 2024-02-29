@@ -7,10 +7,10 @@
 "فرمت فایل",
 "کتاب الکترونیکی",
 "هایپر میکر"
-]،
+],
   "author": {
     "display_name": "Sami Cheema"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل HTZ4 و APIهایی که می‌توانند فایل‌های HTZ4 را ایجاد و باز کنند، بیاموزید.",
@@ -21,7 +21,7 @@
       "parent": "ebook",
       "identifier": "ebook-htz-fa4"
 }
-}،
+},
   "lastmod": "2021-03-20"
 }
 

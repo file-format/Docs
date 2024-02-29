@@ -9,10 +9,10 @@
 "پسوند فایل enc",
 "افزونه",
 "فایل"
-]،
+],
    "author" : {
       "display_name" : "Shakeel Faiz"
-}،
+},
    "draft" : "false",
    "toc" : true,
    "title" : "ENC File - Cabal Online Data File - فایل .enc چیست و چگونه آن را باز کنیم؟",
@@ -23,7 +23,7 @@
          "identifier" : "game-enc-fa",
          "parent" : "game"
 }
-}،
+},
    "lastmod" : "2023-12-06"
 }
 

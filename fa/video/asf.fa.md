@@ -9,10 +9,10 @@
 "پسوند فایل asf",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "ASF - فرمت فایل سیستم های پیشرفته",
@@ -23,7 +23,7 @@
       "parent": "video",
       "identifier": "video-as-faf"
 }
-}،
+},
   "lastmod": "2021-02-16"
 }
 

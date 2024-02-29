@@ -2,7 +2,7 @@
   "date": "2022-12-21",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فایل PTM - فرمت فایل نقشه MapPoint",
@@ -13,7 +13,7 @@
       "parent": "gis",
       "identifier": "gis-pt-fam"
 }
-}،
+},
   "lastmod": "2022-12-21"
 }
 

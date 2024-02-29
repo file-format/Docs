@@ -8,10 +8,10 @@
 "فرمت فایل",
 "کتاب الکترونیکی",
 "آمازون"
-]،
+],
   "author": {
     "display_name": "Sami Cheema"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل HAN و APIهایی که می‌توانند فایل‌های HAN را ایجاد و باز کنند، بیاموزید.",
@@ -22,7 +22,7 @@
       "parent": "ebook",
       "identifier": "ebook-ha-fan"
 }
-}،
+},
   "lastmod": "2021-03-27"
 }
 

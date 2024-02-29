@@ -9,10 +9,10 @@
 "پسوند فایل pk3",
 "افزونه",
 "فایل"
-]،
+],
    "author":{
       "display_name":"Shakeel Faiz"
-}،
+},
    "draft":"false",
    "toc":true,
    "title":"فرمت فایل PK3 - داده های بازی موتور Quake 3",
@@ -23,7 +23,7 @@
          "identifier":"game-pk3-quake3-fa",
          "parent":"game"
 }
-}،
+},
    "lastmod":"2023-11-01"
 }
 

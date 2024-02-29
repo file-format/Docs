@@ -2,7 +2,7 @@
   "date": "2021-05-26",
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل MTS - فایل ویدئویی AVCHD",
@@ -13,7 +13,7 @@
       "parent": "video",
       "identifier": "video-mt-fas"
 }
-}،
+},
   "lastmod": "2021-07-27"
 }
 

@@ -9,10 +9,10 @@
 "پسوند فایل vce",
 "افزونه",
 "فایل"
-]،
+],
    "author":{
       "display_name":"Shakeel Faiz"
-}،
+},
    "draft":"false",
    "toc":true,
    "title":"فایل VCE - Visual CertExam - فایل .vce چیست و چگونه آن را باز کنیم؟",
@@ -23,7 +23,7 @@
          "identifier":"data-vce-fa",
          "parent":"data"
 }
-}،
+},
    "lastmod":"2023-11-09"
 }
 

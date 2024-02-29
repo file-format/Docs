@@ -2,7 +2,7 @@
   "date": "2023-05-29",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "فایل BC3 چیست و چگونه آن را باز کنیم؟",
@@ -13,7 +13,7 @@
       "parent": "database",
       "identifier": "database-bc-fa3"
 }
-}،
+},
   "lastmod": "2023-05-29"
 }
 

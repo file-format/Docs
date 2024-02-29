@@ -10,10 +10,10 @@
 "DRM",
 "DNAML DNL Reader",
 "نویسنده دسکتاپ DNAML"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل DNL و APIهایی که می‌توانند فایل‌های DNL را ایجاد و باز کنند، بیاموزید.",
@@ -24,7 +24,7 @@
       "parent": "ebook",
       "identifier": "ebook-dn-fal"
 }
-}،
+},
   "lastmod": "2021-03-16"
 }
 

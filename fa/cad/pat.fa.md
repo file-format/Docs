@@ -4,10 +4,10 @@
 "فایل PAT",
 "قالب",
 "CAD"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل PAT و APIهایی که می‌توانند فایل‌های PAT را ایجاد و باز کنند، بیاموزید.",
@@ -18,7 +18,7 @@
       "parent": "cad",
       "identifier": "cad-pa-fat"
 }
-}،
+},
   "lastmod": "2020-10-25"
 }
 

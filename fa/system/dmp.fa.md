@@ -11,10 +11,10 @@
 "برنامه ها",
 "کامپیوتر",
 "کاربرد"
-]،
+],
   "author": {
     "display_name": "Sami Cheema"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "DMP - فرمت فایل MemoryDump",
@@ -25,7 +25,7 @@
       "parent": "system",
       "identifier": "system-dm-fap"
 }
-}،
+},
   "lastmod": "2021-07-07"
 }
 

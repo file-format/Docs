@@ -10,10 +10,10 @@
 "DRM",
 "سیب",
 "ویدئو"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "M4V",
@@ -24,7 +24,7 @@
       "parent": "video",
       "identifier": "video-m4-fav"
 }
-}،
+},
   "lastmod": "2019-09-14"
 }
 

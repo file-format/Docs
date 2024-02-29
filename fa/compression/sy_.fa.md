@@ -2,7 +2,7 @@
   "date": "2022-06-24",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل SY_ - فایل SYS فشرده",
@@ -13,7 +13,7 @@
       "parent": "compression",
       "identifier": "compression-sy-fa_"
 }
-}،
+},
   "lastmod": "2022-06-24"
 }
 

@@ -8,10 +8,10 @@
 "فایل",
 "نوع",
 "فایل ascx چیست"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل ASCX",
@@ -22,7 +22,7 @@
       "parent": "web",
       "identifier": "web-asc-fax"
 }
-}،
+},
   "lastmod": "2020-09-10"
 }
 

@@ -6,10 +6,10 @@
 "افزونه",
 "قالب",
 "کد نویسی صوتی"
-]،
+],
   "author": {
     "display_name": "Sami Cheema"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل OPUS و APIهایی که می‌توانند فایل‌های OPUS را ایجاد و باز کنند، بیاموزید.",
@@ -20,7 +20,7 @@
       "parent": "audio",
       "identifier": "audio-opu-fas"
 }
-}،
+},
   "lastmod": "2021-02-26"
 }
 

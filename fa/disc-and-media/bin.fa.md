@@ -8,10 +8,10 @@
 "تصویر دیسک",
 "فایل bin چیست",
 "iso"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل BIN و APIهایی که می‌توانند فایل‌های BIN را ایجاد و باز کنند، بیاموزید.",
@@ -22,7 +22,7 @@
       "parent": "disc-and-media",
       "identifier": "disc-and-media-bi-fan"
 }
-}،
+},
   "lastmod": "2021-06-23"
 }
 

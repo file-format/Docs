@@ -7,10 +7,10 @@
 "فایل",
 "پسوند فایل psv",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل PSV - فایل ویدئویی Pluralsight",
@@ -21,7 +21,7 @@
       "identifier": "video-psv-fa",
       "parent": "video"
 }
-}،
+},
   "lastmod": "2023-07-12"
 }
 

@@ -9,10 +9,10 @@
 "پسوند فایل exe",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "فایل exe یک فایل اجرایی مایکروسافت است که بر روی سیستم عامل ویندوز اجرا می شود. درباره فرمت فایل EXE بیشتر بدانید.",
@@ -23,7 +23,7 @@
       "parent": "executable",
       "identifier": "executable-ex-fae"
 }
-}،
+},
   "lastmod": "2021-06-30"
 }
 

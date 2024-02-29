@@ -2,7 +2,7 @@
   "date": "2021-08-24",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "SSF - فایل با فرمت استاندارد ذخیره سازی Trimble",
@@ -13,7 +13,7 @@
       "parent": "gis",
       "identifier": "gis-ss-faf"
 }
-}،
+},
   "lastmod": "2021-08-24"
 }
 

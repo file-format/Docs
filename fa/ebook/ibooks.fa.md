@@ -6,10 +6,10 @@
 "افزونه",
 "فرمت فایل",
 "کتاب الکترونیکی"
-]،
+],
   "author": {
     "display_name": "Sami Cheema"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره قالب فایل IBOOKS و APIهایی که می‌توانند فایل‌های IBOOKS را ایجاد و باز کنند، بیاموزید.",
@@ -20,7 +20,7 @@
       "parent": "ebook",
       "identifier": "ebook-ibook-fas"
 }
-}،
+},
   "lastmod": "2021-03-20"
 }
 

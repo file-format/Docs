@@ -9,10 +9,10 @@
 "پسوند فایل ica",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "ICA - فایل ICA Citrix",
@@ -23,7 +23,7 @@
       "parent": "misc",
       "identifier": "misc-ic-faa"
 }
-}،
+},
   "lastmod": "2022-01-12"
 }
 

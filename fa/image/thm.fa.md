@@ -3,7 +3,7 @@
   "keywords" : [ "thm file", "thm file format", "what is a thm file", "file", "thm file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل THM - فایل تصویر کوچک ویدئو",
@@ -14,7 +14,7 @@
       "identifier":"image-thm-fa",
       "parent" : "image"
 }
-}،
+},
   "lastmod" : "2022-01-31"
 }
 

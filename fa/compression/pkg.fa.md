@@ -9,10 +9,10 @@
 "پسوند فایل pkg",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "PKG - فرمت فایل بایگانی قابل توسعه",
@@ -23,7 +23,7 @@
       "parent": "compression",
       "identifier": "compression-pk-fag"
 }
-}،
+},
   "lastmod": "2021-04-13"
 }
 

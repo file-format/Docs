@@ -9,10 +9,10 @@
 "پسوند فایل chr",
 "افزونه",
 "فایل"
-]،
+],
    "author":{
       "display_name":"Shakeel Faiz"
-}،
+},
    "draft":"false",
    "toc":true,
    "title":"فرمت فایل CHR - فایل کاراکتر CryENGINE",
@@ -23,7 +23,7 @@
          "identifier":"3d-chr-cryengine-fa",
          "parent":"3d"
 }
-}،
+},
    "lastmod":"2023-10-11"
 }
 

@@ -8,10 +8,10 @@
 "فایل",
 "نوع",
 "فایل stml چیست"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "STML - فایل HTML SSI",
@@ -22,7 +22,7 @@
       "parent": "web",
       "identifier": "web-stm-fal"
 }
-}،
+},
   "lastmod": "2021-05-20"
 }
 

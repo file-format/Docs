@@ -7,10 +7,10 @@
 "آیا می توانم فایل .downloading ایجاد شده توسط Pando را حذف کنم؟",
 "فایل",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل دانلود - فایل دانلود ناقص Pando",
@@ -21,7 +21,7 @@
       "identifier": "misc-downloading-fa",
       "parent": "misc"
 }
-}،
+},
   "lastmod": "2023-04-18"
 }
 

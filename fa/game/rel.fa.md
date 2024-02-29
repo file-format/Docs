@@ -9,10 +9,10 @@
 "پسوند فایل rel",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "با فرمت فایل REL و APIهایی که می توانند فایل های REL را ایجاد و باز کنند آشنا شوید.",
@@ -23,7 +23,7 @@
       "parent": "game",
       "identifier": "game-re-fal"
 }
-}،
+},
   "lastmod": "2021-09-08"
 }
 

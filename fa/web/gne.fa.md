@@ -2,7 +2,7 @@
   "date": "2022-01-24",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فایل GNE - میانبر سند Google Drive",
@@ -13,7 +13,7 @@
       "parent": "web",
       "identifier": "web-gn-fae"
 }
-}،
+},
   "lastmod": "2022-01-24"
 }
 

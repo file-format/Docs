@@ -2,7 +2,7 @@
   "date" : "2024-01-25",
   "author" : {
     "display_name" : "Shakeel Faiz"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "CUBE File - Gaussian Cube File - فایل .cube چیست و چگونه آن را باز کنیم؟",
@@ -13,7 +13,7 @@
       "identifier" : "data-en-cube-fa",
       "parent" : "data"
 }
-}،
+},
   "lastmod" : "2024-01-25"
 }
 

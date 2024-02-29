@@ -2,7 +2,7 @@
   "date" : "2023-12-19",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل SPARC - فایل SPARC چیست و چگونه آن را باز کنیم؟",
@@ -13,7 +13,7 @@
       "parent" : "plugin",
       "identifier":"plugin-en-spar-fac"
 }
-}،
+},
   "lastmod" : "2023-12-19"
 }
 

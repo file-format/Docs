@@ -6,10 +6,10 @@
 "تبدیل ویدیو به MP4 رایگان",
 "تبدیل رایگان ویدیو به MP4",
 "فرمت های مبدل ویدیو"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "تبدیل ویدیو چیست؟ راهنمای نهایی مبدل های ویدیویی",
@@ -20,7 +20,7 @@
       "identifier": "misc-video-converter-fa",
       "parent": "misc"
 }
-}،
+},
   "lastmod": "2023-07-03"
 }
 

@@ -9,10 +9,10 @@
 "فایل",
 "پسوند فایل nsp",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل NSP - بسته ارسال نینتندو",
@@ -23,7 +23,7 @@
       "identifier": "game-nsp-fa",
       "parent": "game"
 }
-}،
+},
   "lastmod": "2023-06-05"
 }
 

@@ -2,7 +2,7 @@
   "date": "2021-04-30",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل SIT - فایل بایگانی StuffIt",
@@ -13,7 +13,7 @@
       "parent": "compression",
       "identifier": "compression-si-fat"
 }
-}،
+},
   "lastmod": "2021-04-30"
 }
 

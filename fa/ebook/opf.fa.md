@@ -8,10 +8,10 @@
 "کتاب الکترونیکی",
 "فلیپ بوک",
 "فلیپ آلبوم"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل OPF و APIهایی که می‌توانند فایل‌های OPF را ایجاد و باز کنند، بیاموزید.",
@@ -22,7 +22,7 @@
       "parent": "ebook",
       "identifier": "ebook-op-faf"
 }
-}،
+},
   "lastmod": "2021-03-22"
 }
 

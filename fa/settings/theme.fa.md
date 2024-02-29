@@ -8,10 +8,10 @@
 "فایل",
 "پسوند فایل تم",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل تم - مایکروسافت پلاس! تم دسکتاپ",
@@ -22,7 +22,7 @@
       "identifier": "settings-theme-fa",
       "parent": "settings"
 }
-}،
+},
   "lastmod": "2023-05-03"
 }
 

@@ -7,10 +7,10 @@
 "نحوه باز کردن فایل gsheet",
 "پسوند فایل gsheet",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل GSHEET - میانبر Google Sheets",
@@ -21,7 +21,7 @@
       "identifier": "spreadsheet-gsheet-fa",
       "parent": "spreadsheet"
 }
-}،
+},
   "lastmod": "2023-02-28"
 }
 

@@ -8,10 +8,10 @@
 "فایل",
 "نوع",
 "فایل cshtml چیست"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "CSHTML - صفحه وب ASP.NET Razor",
@@ -22,7 +22,7 @@
       "parent": "web",
       "identifier": "web-cshtm-fal"
 }
-}،
+},
   "lastmod": "2021-04-29"
 }
 

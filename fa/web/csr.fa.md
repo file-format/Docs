@@ -2,7 +2,7 @@
   "date" : "2022-09-04",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل CSR - فرمت فایل درخواست امضای گواهی",
@@ -13,7 +13,7 @@
       "identifier":"web-csr-fa",
       "parent" : "web"
 }
-}،
+},
   "lastmod" : "2022-09-04"
 }
 

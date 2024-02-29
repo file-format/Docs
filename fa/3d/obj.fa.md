@@ -9,10 +9,10 @@
 "پسوند فایل obj",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل OBJ",
@@ -23,7 +23,7 @@
       "parent": "3d",
       "identifier": "3d-ob-faj"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

@@ -5,10 +5,10 @@
 "فرمت فایل ttc",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "TTC - قالب فایل مجموعه TrueType",
@@ -19,7 +19,7 @@
       "parent": "font",
       "identifier": "font-tt-fac"
 }
-}،
+},
   "lastmod": "2021-02-25"
 }
 

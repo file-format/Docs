@@ -10,10 +10,10 @@
 "فایل",
 "پسوند فایل mlx",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل MLX - فایل کد زنده متلب",
@@ -24,7 +24,7 @@
       "identifier": "executable-mlx-fa",
       "parent": "executable"
 }
-}،
+},
   "lastmod": "2023-05-09"
 }
 

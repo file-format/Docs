@@ -8,10 +8,10 @@
 "فایل",
 "پسوند فایل scworld",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل SCWORLD - فایل جهانی Survivalcraft",
@@ -22,7 +22,7 @@
       "identifier": "game-scworld-fa",
       "parent": "game"
 }
-}،
+},
   "lastmod": "2023-05-18"
 }
 

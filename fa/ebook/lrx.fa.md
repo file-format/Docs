@@ -7,10 +7,10 @@
 "قالب",
 "کتاب الکترونیکی",
 "کتاب دیجیتال"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل LRX و APIهایی که می‌توانند فایل‌های LRX را ایجاد و باز کنند، بیاموزید.",
@@ -21,7 +21,7 @@
       "parent": "ebook",
       "identifier": "ebook-lr-fax"
 }
-}،
+},
   "lastmod": "2020-11-04"
 }
 

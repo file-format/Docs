@@ -2,7 +2,7 @@
   "date": "2022-04-25",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "با فرمت فایل AHK و API هایی که می توانند فایل های AHK را ایجاد و باز کنند آشنا شوید.",
@@ -13,7 +13,7 @@
       "parent": "executable",
       "identifier": "executable-ah-fak"
 }
-}،
+},
   "lastmod": "2022-04-25"
 }
 

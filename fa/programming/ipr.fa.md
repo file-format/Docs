@@ -2,7 +2,7 @@
   "date": "2021-09-13",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل IPR - فایل پروژه IntelliJ IDEA",
@@ -13,7 +13,7 @@
       "parent": "programming",
       "identifier": "programming-ip-far"
 }
-}،
+},
   "lastmod": "2021-09-13"
 }
 

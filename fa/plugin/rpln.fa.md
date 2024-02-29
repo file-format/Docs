@@ -2,7 +2,7 @@
   "date" : "2023-11-19",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل RPLN - فایل RPLN چیست و چگونه آن را باز کنیم؟",
@@ -13,7 +13,7 @@
       "parent" : "plugin",
       "identifier":"plugin-en-rpl-fan"
 }
-}،
+},
   "lastmod" : "2023-11-19"
 }
 

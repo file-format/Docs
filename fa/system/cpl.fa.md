@@ -11,10 +11,10 @@
 "برنامه ها",
 "کامپیوتر",
 "کاربرد"
-]،
+],
   "author": {
     "display_name": "Sami Cheema"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "CPL - فایل کنترل پنل",
@@ -25,7 +25,7 @@
       "parent": "system",
       "identifier": "system-cp-fal"
 }
-}،
+},
   "lastmod": "2021-06-29"
 }
 

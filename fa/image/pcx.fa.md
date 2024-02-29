@@ -2,7 +2,7 @@
   "date": "2022-03-16",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل PCX - فایل تصویری Bitmap Paintbrush",
@@ -13,7 +13,7 @@
       "parent": "image",
       "identifier": "image-pc-fax"
 }
-}،
+},
   "lastmod": "2022-03-16"
 }
 

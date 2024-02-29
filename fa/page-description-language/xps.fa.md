@@ -8,10 +8,10 @@
 "فرمت فایل",
 "EMF",
 "PDF"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "XPS - فرمت فایل طرح بندی صفحه",
@@ -22,7 +22,7 @@
       "parent": "page-description-language",
       "identifier": "page-description-language-xp-fas"
 }
-}،
+},
   "lastmod": "2021-04-23"
 }
 

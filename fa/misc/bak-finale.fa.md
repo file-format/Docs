@@ -9,10 +9,10 @@
 "فایل",
 "پسوند فایل bak",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل BAK - نسخه پشتیبان امتیاز Finale 2012",
@@ -23,7 +23,7 @@
       "identifier": "misc-bak-finale-fa",
       "parent": "misc"
 }
-}،
+},
   "lastmod": "2023-06-12"
 }
 

@@ -9,10 +9,10 @@
 "پسوند فایل pfm",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "PFM - فرمت فایل متریک فونت چاپگر",
@@ -23,7 +23,7 @@
       "parent": "font",
       "identifier": "font-pf-fam"
 }
-}،
+},
   "lastmod": "2020-09-30"
 }
 

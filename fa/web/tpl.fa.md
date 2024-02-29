@@ -8,10 +8,10 @@
 "فایل",
 "نوع",
 "فایل tpl چیست"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "TPL - الگوی سرور فایل HTTP",
@@ -22,7 +22,7 @@
       "parent": "web",
       "identifier": "web-tp-fal"
 }
-}،
+},
   "lastmod": "2021-02-29"
 }
 

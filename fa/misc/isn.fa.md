@@ -6,10 +6,10 @@
 "مراحل نصب فایل ISN",
 "فایل",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل ISN - فایل منبع نصب کننده",
@@ -20,7 +20,7 @@
       "identifier": "misc-isn-fa",
       "parent": "misc"
 }
-}،
+},
   "lastmod": "2023-04-20"
 }
 

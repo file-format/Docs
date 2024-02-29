@@ -2,7 +2,7 @@
   "date" : "2022-12-01",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل MXT - قالب فایل الگوی نقشه ArcGIS",
@@ -13,7 +13,7 @@
       "identifier":"gis-mxt-fa",
       "parent" : "gis"
 }
-}،
+},
   "lastmod" : "2022-12-01"
 }
 

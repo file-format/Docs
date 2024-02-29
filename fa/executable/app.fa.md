@@ -7,10 +7,10 @@
 "نحوه باز کردن فایل برنامه",
 "پسوند فایل برنامه",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره قالب فایل APP و APIهایی که می‌توانند فایل‌های APP را ایجاد و باز کنند، بیاموزید.",
@@ -21,7 +21,7 @@
       "identifier": "executable-app-fa",
       "parent": "executable"
 }
-}،
+},
   "lastmod": "2023-02-02"
 }
 

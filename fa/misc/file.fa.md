@@ -2,7 +2,7 @@
   "date" : "2024-01-10",
   "author" : {
     "display_name" : "Shakeel Faiz"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل .File - Generic File - فایل .file چیست و چگونه آن را باز کنیم؟",
@@ -13,7 +13,7 @@
       "identifier": "misc-file-fa",
       "parent" : "misc"
 }
-}،
+},
   "lastmod" : "2024-01-10"
 }
 

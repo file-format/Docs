@@ -6,10 +6,10 @@
 "قالب",
 "نحوه باز کردن فایل appxbundle",
 "فرمت فایل appxbundle"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "appxbundle - فایل APPXBundle چیست؟",
@@ -20,7 +20,7 @@
       "parent": "programming",
       "identifier": "programming-appxbundl-fae"
 }
-}،
+},
   "lastmod": "2021-12-19"
 }
 

@@ -7,10 +7,10 @@
 "فرمت فایل",
 "3 بعدی",
 "دانلود فایل ipt"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "با فرمت فایل IPT و API هایی که می توانند فایل های IPT را باز کرده و ایجاد کنند آشنا شوید.",
@@ -21,7 +21,7 @@
       "parent": "3d",
       "identifier": "3d-ip-fat"
 }
-}،
+},
   "lastmod": "2021-01-25"
 }
 

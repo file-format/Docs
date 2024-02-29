@@ -3,7 +3,7 @@
   "keywords" : [ "publisher file", "publisher file format", "what is a publisher file", "file" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "categories" : [ "fundamentals" ],
   "title" : "درباره قالب‌های فایل ناشر و APIهایی که می‌توانند فایل‌های Publisher را باز کرده و ایجاد کنند، بیاموزید",
@@ -12,9 +12,9 @@
   "menu" : {
     "docs" : {
       "parent" : "publisher",
-"وزن : 01"
+"weight" : "01"
 }
-}،
+},
   "lastmod" : "2019-09-10"
 }
 

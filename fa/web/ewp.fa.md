@@ -2,7 +2,7 @@
   "date": "2022-09-29",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فایل EWP - فرمت فایل پروژه وب سایت Ewisoft",
@@ -13,7 +13,7 @@
       "parent": "web",
       "identifier": "web-ew-fap"
 }
-}،
+},
   "lastmod": "2022-09-29"
 }
 

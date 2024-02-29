@@ -12,10 +12,10 @@
 "اسناد LNK",
 "کاربرد",
 "برنامه ها"
-]،
+],
   "author": {
     "display_name": "Sami Cheema"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "LNK - فرمت فایل پیوند",
@@ -26,7 +26,7 @@
       "parent": "system",
       "identifier": "system-ln-fak"
 }
-}،
+},
   "lastmod": "2021-07-15"
 }
 

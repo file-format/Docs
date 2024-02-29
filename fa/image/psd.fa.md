@@ -9,10 +9,10 @@
 "پسوند فایل psd",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "PSD - فرمت فایل تصویر فتوشاپ",
@@ -23,7 +23,7 @@
       "parent": "image",
       "identifier": "image-ps-fad"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

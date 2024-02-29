@@ -2,7 +2,7 @@
   "date" : "2021-06-30",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "categories" : [ "fundamentals" ],
   "title" : "درباره قالب‌های فایل متفرقه و APIهایی که می‌توانند فایل‌های بایگانی را باز کرده و ایجاد کنند، بیاموزید",
@@ -11,9 +11,9 @@
   "menu" : {
     "docs" : {
       "parent" : "misc",
-"وزن : 01"
+"weight" : "01"
 }
-}،
+},
   "lastmod" : "2021-06-30"
 }
 

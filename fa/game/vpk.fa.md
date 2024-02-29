@@ -2,7 +2,7 @@
   "date" : "2023-01-16",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "description":"با فرمت فایل Unreal Static Meshes VPK و APIهایی که می‌توانند فایل‌های VPK را ایجاد و باز کنند، آشنا شوید.",
@@ -13,7 +13,7 @@
       "identifier":"game-vpk-fa",
       "parent" : "game"
 }
-}،
+},
   "lastmod" : "2023-01-16"
 }
 

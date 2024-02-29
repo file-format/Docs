@@ -9,10 +9,10 @@
 "فرمت فایل پایگاه داده",
 "فایل dbf چیست",
 "دسی بی"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل DB و APIهایی که می‌توانند فایل‌های DB را ایجاد و باز کنند، بیاموزید.",
@@ -23,7 +23,7 @@
       "parent": "database",
       "identifier": "database-d-fab"
 }
-}،
+},
   "lastmod": "2021-06-15"
 }
 

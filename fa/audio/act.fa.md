@@ -9,10 +9,10 @@
 "جدول رنگ Adobe",
 "تمدید اقدام",
 "فایل های عمل"
-]،
+],
   "author": {
     "display_name": "Sami Cheema"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره قالب فایل ACT و APIهایی که می‌توانند فایل‌های ACT را ایجاد و باز کنند، بیاموزید.",
@@ -23,7 +23,7 @@
       "parent": "audio",
       "identifier": "audio-ac-fat"
 }
-}،
+},
   "lastmod": "2021-08-10"
 }
 

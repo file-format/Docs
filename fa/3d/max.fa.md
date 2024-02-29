@@ -9,10 +9,10 @@
 "حداکثر پسوند فایل",
 "افزونه",
 "فایل"
-]،
+],
    "author" : {
       "display_name" : "Shakeel Faiz"
-}،
+},
    "draft" : "false",
    "toc" : true,
    "title" : "فایل MAX - 3ds Max Scene File - فایل .max چیست و چگونه آن را باز کنیم؟",
@@ -23,7 +23,7 @@
          "identifier" : "3d-max-fa",
          "parent" : "3d"
 }
-}،
+},
    "lastmod" : "2023-12-14"
 }
 

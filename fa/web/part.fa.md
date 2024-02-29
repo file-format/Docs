@@ -8,10 +8,10 @@
 "قالب",
 "وب",
 "دانلود شده است"
-]،
+],
   "author": {
     "display_name": "Sami Cheema"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "PART - فایل جزئی دانلود شده",
@@ -22,7 +22,7 @@
       "parent": "web",
       "identifier": "web-par-fat"
 }
-}،
+},
   "lastmod": "2021-06-24"
 }
 

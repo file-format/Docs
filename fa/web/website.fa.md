@@ -2,7 +2,7 @@
   "date": "2022-05-13",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "قالب فایل WEBSITE - فایل میانبر سایت پین شده اینترنت اکسپلورر",
@@ -13,7 +13,7 @@
       "parent": "web",
       "identifier": "web-websit-fae"
 }
-}،
+},
   "lastmod": "2022-05-13"
 }
 

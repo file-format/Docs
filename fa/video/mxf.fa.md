@@ -2,7 +2,7 @@
   "date": "2019-10-11",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "MXF - فرمت تبادل مواد",
@@ -14,7 +14,7 @@
 "SMPTE",
 "چند رسانه ای",
 "ویدئو"
-]،
+],
   "description": "درباره فرمت فایل MXF و APIهایی که می‌توانند فایل‌های MXF را ایجاد و باز کنند، بیاموزید.",
   "linktitle": "MXF",
   "menu": {
@@ -22,7 +22,7 @@
       "parent": "video",
       "identifier": "video-mx-faf"
 }
-}،
+},
   "lastmod": "2021-03-01"
 }
 

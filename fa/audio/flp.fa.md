@@ -7,10 +7,10 @@
 "نحوه باز کردن فایل flp",
 "پسوند فایل flp",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل FLP - فایل پروژه FL Studio",
@@ -21,7 +21,7 @@
       "identifier": "audio-flp-fa",
       "parent": "audio"
 }
-}،
+},
   "lastmod": "2023-02-14"
 }
 

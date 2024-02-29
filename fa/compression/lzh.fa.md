@@ -9,10 +9,10 @@
 "لمپل-زیو",
 "هارویاسو",
 "LHA"
-]،
+],
   "author": {
     "display_name": "Sami Cheema"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل LZH",
@@ -23,7 +23,7 @@
       "parent": "compression",
       "identifier": "compression-lz-fah"
 }
-}،
+},
   "lastmod": "2021-06-16"
 }
 

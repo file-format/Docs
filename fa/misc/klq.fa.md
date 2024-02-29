@@ -9,10 +9,10 @@
 "پسوند فایل klq",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "KLQ - فایل قرنطینه کسپرسکی",
@@ -23,7 +23,7 @@
       "parent": "misc",
       "identifier": "misc-kl-faq"
 }
-}،
+},
   "lastmod": "2022-01-26"
 }
 

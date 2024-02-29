@@ -8,10 +8,10 @@
 "پسوند فایل scr",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "SCR - فایل محافظ صفحه نمایش ویندوز",
@@ -22,7 +22,7 @@
       "parent": "system",
       "identifier": "system-sc-far"
 }
-}،
+},
   "lastmod": "2021-07-13"
 }
 

@@ -13,10 +13,10 @@
 "yml در مقابل json",
 "نمونه فایل yml",
 "نمونه فایل docker yml"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": " درباره فرمت فایل YML و APIهایی که می توانند یک فایل YML ایجاد و باز کنند، بیاموزید.",
@@ -27,7 +27,7 @@
       "parent": "programming",
       "identifier": "programming-ym-fal"
 }
-}،
+},
   "lastmod": "2022-02-11"
 }
 

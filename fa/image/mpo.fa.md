@@ -2,7 +2,7 @@
   "date": "2022-02-23",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فایل MPO - فایل چند تصویری",
@@ -13,7 +13,7 @@
       "parent": "image",
       "identifier": "image-mp-fao"
 }
-}،
+},
   "lastmod": "2022-02-23"
 }
 

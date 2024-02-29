@@ -8,10 +8,10 @@
 "فایل mp2 چیست",
 "موسیقی",
 "فرمت فایل mp2"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل MP2 و APIهایی که می توانند فایل های MP2 را ایجاد، تبدیل و باز کنند، بیاموزید.",
@@ -22,7 +22,7 @@
       "parent": "audio",
       "identifier": "audio-mp-fa2"
 }
-}،
+},
   "lastmod": "2021-06-11"
 }
 

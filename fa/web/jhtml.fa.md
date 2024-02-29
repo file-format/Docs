@@ -8,10 +8,10 @@
 "فایل",
 "نوع",
 "فایل jhtml چیست"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "JHTML - فایل HTML جاوا",
@@ -22,7 +22,7 @@
       "parent": "web",
       "identifier": "web-jhtm-fal"
 }
-}،
+},
   "lastmod": "2021-06-09"
 }
 

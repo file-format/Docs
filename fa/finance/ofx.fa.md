@@ -2,7 +2,7 @@
   "date" : "2023-05-09",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "OFX - فرمت فایل تبادل مالی باز کنید",
@@ -13,7 +13,7 @@
       "identifier":"finance-ofx-fa",
       "parent" : "finance"
 }
-}،
+},
   "lastmod" : "2023-05-09"
 }
 

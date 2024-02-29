@@ -11,10 +11,10 @@
 "فرمت فایل m4a",
 "M4A در مقابل MP3",
 "مشخصات فرمت فایل m4a"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل M4A و APIهایی که می‌توانند فایل‌های M4A را ایجاد، تبدیل و باز کنند، بیاموزید.",
@@ -25,7 +25,7 @@
       "parent": "audio",
       "identifier": "audio-m4-faa"
 }
-}،
+},
   "lastmod": "2021-04-26"
 }
 

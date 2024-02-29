@@ -2,7 +2,7 @@
   "date" : "2023-01-19",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "description":"درباره فرمت فایل GCF و APIهایی که می‌توانند فایل‌های GCF را ایجاد و باز کنند، بیاموزید.",
@@ -13,7 +13,7 @@
       "identifier":"game-gcf-fa",
       "parent" : "game"
 }
-}،
+},
   "lastmod" : "2023-01-19"
 }
 

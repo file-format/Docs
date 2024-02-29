@@ -9,10 +9,10 @@
 "دستگاه خواندن الکترونیکی آمازون کیندل",
 "ASIN",
 "فرمت فایل Kindle"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل EA و APIهایی که می توانند فایل های EA ایجاد و باز کنند، بیاموزید.",
@@ -23,7 +23,7 @@
       "parent": "ebook",
       "identifier": "ebook-e-faa"
 }
-}،
+},
   "lastmod": "2021-03-16"
 }
 

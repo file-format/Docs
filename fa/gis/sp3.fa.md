@@ -2,7 +2,7 @@
   "date": "2021-08-24",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "SP3 - فایل NGS SP3",
@@ -13,7 +13,7 @@
       "parent": "gis",
       "identifier": "gis-sp-fa3"
 }
-}،
+},
   "lastmod": "2021-09-29"
 }
 

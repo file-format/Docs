@@ -3,7 +3,7 @@
   "keywords" : [ "EPIM", "what is an EPIM file", "extension", "file", "file format", "Database File Type", "Database File Format", "Database Files" ],
   "author" : {
     "display_name" : "Shakeel Faiz"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "description" : "با فرمت فایل EPIM و APIهایی که می توانند فایل های EPIM را ایجاد و باز کنند آشنا شوید.",
@@ -14,7 +14,7 @@
       "identifier":"database-epim-fa",
       "parent" : "database"
 }
-}،
+},
   "lastmod" : "2020-01-18"
 }
 

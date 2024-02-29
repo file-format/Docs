@@ -2,7 +2,7 @@
   "date" : "2023-01-27",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل CSF - فرمت فایل سیستم مختصات GeoMedia",
@@ -13,7 +13,7 @@
       "identifier":"gis-csf-fa",
       "parent" : "gis"
 }
-}،
+},
   "lastmod" : "2023-01-27"
 }
 

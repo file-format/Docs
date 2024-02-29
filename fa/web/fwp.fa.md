@@ -8,10 +8,10 @@
 "فرمت فایل",
 "مایکروسافت اکسپرس وب",
 "فایل آرشیو"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "FWP - بسته وب Microsoft Expression",
@@ -22,7 +22,7 @@
       "parent": "web",
       "identifier": "web-fw-fap"
 }
-}،
+},
   "lastmod": "2021-07-20"
 }
 

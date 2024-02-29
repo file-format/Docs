@@ -9,10 +9,10 @@
 "پسوند فایل fs",
 "افزونه",
 "فایل"
-]،
+],
    "author" : {
       "display_name" : "Shakeel Faiz"
-}،
+},
    "draft" : "false",
    "toc" : true,
    "title" : "فایل FS - Visual F# Source File - فایل .fs چیست و چگونه آن را باز کنیم؟",
@@ -23,7 +23,7 @@
          "identifier" : "programming-fs-fa",
          "parent" : "programming"
 }
-}،
+},
    "lastmod" : "2023-12-14"
 }
 

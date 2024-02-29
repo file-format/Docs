@@ -9,10 +9,10 @@
 "پسوند فایل ntf",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "NTF - فایل های فرمت انتقال ملی",
@@ -23,7 +23,7 @@
       "parent": "gis",
       "identifier": "gis-nt-faf"
 }
-}،
+},
   "lastmod": "2021-07-28"
 }
 

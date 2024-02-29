@@ -2,7 +2,7 @@
   "date" : "2024-01-25",
   "author" : {
     "display_name" : "Shakeel Faiz"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل FIG - Xfig Drawing - فایل fig چیست و چگونه آن را باز کنیم؟",
@@ -13,7 +13,7 @@
       "identifier" : "image-en-fig-fa",
       "parent" : "image"
 }
-}،
+},
   "lastmod" : "2024-01-25"
 }
 

@@ -9,10 +9,10 @@
 "پسوند فایل dlg",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "DLG - Shapefile Shape Index Format",
@@ -23,7 +23,7 @@
       "parent": "gis",
       "identifier": "gis-dl-fag"
 }
-}،
+},
   "lastmod": "2021-07-30"
 }
 

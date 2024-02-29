@@ -13,10 +13,10 @@
 "Connectix",
 "VHDx",
 "مایکروسافت"
-]،
+],
   "author": {
     "display_name": "Sami Cheema"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "با فرمت فایل VHD و API هایی که می توانند فایل های VHD ایجاد و باز کنند آشنا شوید.",
@@ -27,7 +27,7 @@
       "parent": "disc-and-media",
       "identifier": "disc-and-media-vh-fad"
 }
-}،
+},
   "lastmod": "2021-08-17"
 }
 

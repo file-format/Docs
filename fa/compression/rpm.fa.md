@@ -9,10 +9,10 @@
 "پسوند فایل rpm",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "RPM - فایل مدیر بسته Red Hat",
@@ -23,7 +23,7 @@
       "parent": "compression",
       "identifier": "compression-rp-fam"
 }
-}،
+},
   "lastmod": "2021-04-09"
 }
 

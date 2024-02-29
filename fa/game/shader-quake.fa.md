@@ -9,10 +9,10 @@
 "پسوند فایل shader",
 "افزونه",
 "فایل"
-]،
+],
    "author":{
       "display_name":"Shakeel Faiz"
-}،
+},
    "draft":"false",
    "toc":true,
    "title":"فرمت فایل SHADER - فایل Shader موتور Quake 3",
@@ -23,7 +23,7 @@
          "identifier":"game-shader-quake-fa",
          "parent":"game"
 }
-}،
+},
    "lastmod":"2023-10-11"
 }
 

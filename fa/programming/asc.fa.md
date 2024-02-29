@@ -2,7 +2,7 @@
   "date" : "2022-11-09",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل ASC - فرمت فایل Adobe ActionScript",
@@ -13,7 +13,7 @@
       "identifier":"programming-asc-fa",
       "parent" : "programming"
 }
-}،
+},
   "lastmod" : "2022-11-09"
 }
 

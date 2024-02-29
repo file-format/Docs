@@ -2,7 +2,7 @@
   "date" : "2024-02-08",
   "author" : {
     "display_name" : "Shakeel Faiz"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل PC - فایل کد منبع Pro*C - فایل pc چیست و چگونه آن را باز کنیم؟",
@@ -13,7 +13,7 @@
       "identifier" : "programming-en-pc-fa",
       "parent" : "programming"
 }
-}،
+},
   "lastmod" : "2024-02-08"
 }
 

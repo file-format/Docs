@@ -2,7 +2,7 @@
   "date": "2022-02-27",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "با فرمت فایل RML و APIهایی که می توانند فایل های RML را ایجاد و باز کنند آشنا شوید.",
@@ -10,11 +10,10 @@
   "linktitle": "RML",
   "menu": {
     "docs": {
-"identifeir: cad-rml",
       "parent": "cad",
       "identifier": "cad-rm-fal"
 }
-}،
+},
   "lastmod": "2022-02-27"
 }
 

@@ -3,7 +3,7 @@
   "keywords": [ "report file", "reporting software", "extension", "format" ],
   "author" : {
     "display_name" : "Muhammad Umar"
-}،
+},
   "draft" : "false",
   "categories" : [ "fundamentals" ],
   "title" : "درباره فرمت‌های فایل گزارش و APIهایی که می‌توانند فایل‌های گزارش را باز و ایجاد کنند، بیاموزید",
@@ -12,9 +12,9 @@
   "menu" : {
     "docs" : {
       "parent" : "reporting",
-"وزن : 01"
+"weight" : "01"
 }
-}،
+},
   "lastmod" : "2021-05-23"
 }
 

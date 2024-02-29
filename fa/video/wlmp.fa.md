@@ -7,10 +7,10 @@
 "نحوه باز کردن فایل wlmp",
 "پسوند فایل wlmp",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل WLMP - پروژه Windows Live Movie Maker",
@@ -21,7 +21,7 @@
       "identifier": "video-wlmp-fa",
       "parent": "video"
 }
-}،
+},
   "lastmod": "2023-02-08"
 }
 

@@ -9,10 +9,10 @@
 "پسوند فایل u3d",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "U3D - فرمت فایل سه بعدی جهانی",
@@ -23,7 +23,7 @@
       "parent": "3d",
       "identifier": "3d-u3-fad"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

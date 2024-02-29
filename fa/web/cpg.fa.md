@@ -2,7 +2,7 @@
   "date" : "2023-06-08",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل CPG - فرمت فایل صفحه سرور مفهومی",
@@ -13,7 +13,7 @@
       "identifier":"web-cpg-fa",
       "parent" : "web"
 }
-}،
+},
   "lastmod" : "2023-06-08"
 }
 

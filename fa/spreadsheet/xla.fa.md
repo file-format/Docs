@@ -7,10 +7,10 @@
 "فرمت فایل",
 "برتری داشتن",
 "صفحه گسترده"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "در مورد فرمت فایل XLA و APIهایی که می توانند فایل های XLA را ایجاد و باز کنند آشنا شوید.",
@@ -21,7 +21,7 @@
       "parent": "spreadsheet",
       "identifier": "spreadsheet-xl-faa"
 }
-}،
+},
   "lastmod": "2021-01-25"
 }
 

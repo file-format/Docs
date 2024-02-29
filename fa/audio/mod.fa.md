@@ -11,10 +11,10 @@
 "فرمت فایل mod",
 "مود در مقابل MP3",
 "مشخصات فرمت فایل mod"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل MOD و API هایی که می توانند فایل های MOD را ایجاد، تبدیل و باز کنند، بیاموزید.",
@@ -25,7 +25,7 @@
       "parent": "audio",
       "identifier": "audio-mo-fad"
 }
-}،
+},
   "lastmod": "2021-08-04"
 }
 

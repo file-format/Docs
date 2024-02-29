@@ -2,7 +2,7 @@
   "date": "2020-03-16",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "با فرمت فایل SLDPRT و APIهایی که می توانند فایل های SLDPRT را ایجاد و باز کنند آشنا شوید.",
@@ -13,7 +13,7 @@
       "parent": "cad",
       "identifier": "cad-sldpr-fat"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

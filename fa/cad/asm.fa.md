@@ -3,7 +3,7 @@
   "keywords" : [ ".asm", "File Format", "extension", "Read", "Create", "CAD" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "description" : "با فرمت فایل ASM و APIهایی که می توانند فایل های ASM را ایجاد و باز کنند آشنا شوید.",
@@ -14,7 +14,7 @@
       "identifier":"cad-asm-fa",
       "parent" : "cad"
 }
-}،
+},
   "lastmod" : "2021-12-30"
 }
 

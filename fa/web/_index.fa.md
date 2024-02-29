@@ -2,7 +2,7 @@
   "date" : "2019-10-11",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "categories" : [ "fundamentals" ],
   "description":"فایل های وب حاوی داده هایی برای ایجاد صفحات وب هستند که برای ایجاد یک وب سایت ترکیب می شوند. یاد بگیرید که کار کنید و فرمت های مختلف فایل های وب مانند ASP، CHM، HTM، HTML، MHTML و XHTML را باز کنید.",
@@ -11,9 +11,9 @@
   "menu" : {
     "docs" : {
       "parent" : "web",
-"وزن : 01"
+"weight" : "01"
 }
-}،
+},
   "lastmod" : "2019-09-10"
 }
 

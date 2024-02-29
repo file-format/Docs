@@ -7,10 +7,10 @@
 "قالب",
 "کدگذاری صوتی",
 "MPEG"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل AC3 و APIهایی که می‌توانند فایل‌های AC3 را ایجاد و باز کنند، بیاموزید.",
@@ -21,7 +21,7 @@
       "parent": "audio",
       "identifier": "audio-ac-fa3"
 }
-}،
+},
   "lastmod": "2019-12-13"
 }
 

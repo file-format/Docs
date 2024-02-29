@@ -8,10 +8,10 @@
 "کاشف اوراکل",
 "کتاب کار",
 "صفحه گسترده"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "فایل DIS و APIهایی که می توانند فایل DIS را ایجاد و باز کنند چیست.",
@@ -22,7 +22,7 @@
       "parent": "spreadsheet",
       "identifier": "spreadsheet-di-fas"
 }
-}،
+},
   "lastmod": "2021-11-29"
 }
 

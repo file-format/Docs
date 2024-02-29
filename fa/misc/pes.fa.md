@@ -9,10 +9,10 @@
 "پسوند فایل pes",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل PES - فرمت گلدوزی PE برادر",
@@ -23,7 +23,7 @@
       "parent": "misc",
       "identifier": "misc-pe-fas"
 }
-}،
+},
   "lastmod": "2021-07-29"
 }
 

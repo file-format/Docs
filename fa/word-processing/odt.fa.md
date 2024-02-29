@@ -9,10 +9,10 @@
 "پسوند فایل odt",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "ODT - فایل متنی OpenDocument",
@@ -23,7 +23,7 @@
       "parent": "word-processing",
       "identifier": "word-processing-od-fat"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

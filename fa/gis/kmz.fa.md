@@ -8,10 +8,10 @@
 "پسوند فایل kmz",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "KMZ - فرمت فایل فشرده KML",
@@ -22,7 +22,7 @@
       "parent": "gis",
       "identifier": "gis-km-faz"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

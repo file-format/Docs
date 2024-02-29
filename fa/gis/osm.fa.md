@@ -8,10 +8,10 @@
 "پسوند فایل osm",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "OSM - فرمت فایل OpenStreetMap",
@@ -22,7 +22,7 @@
       "parent": "gis",
       "identifier": "gis-os-fam"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

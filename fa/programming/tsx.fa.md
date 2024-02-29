@@ -2,7 +2,7 @@
   "date" : "2023-12-28",
   "author" : {
     "display_name" : "Shakeel Faiz"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل TSX - فایل React TypeScript - فایل .tsx چیست و چگونه آن را باز کنیم؟",
@@ -13,7 +13,7 @@
       "identifier": "programming-tsx-fa",
       "parent" : "programming"
 }
-}،
+},
   "lastmod" : "2023-12-28"
 }
 

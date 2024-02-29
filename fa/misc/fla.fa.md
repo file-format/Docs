@@ -9,10 +9,10 @@
 "فایل",
 "پسوند فایل fla",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل FLA - انیمیشن Adobe Animate",
@@ -23,7 +23,7 @@
       "identifier": "misc-fla-fa",
       "parent": "misc"
 }
-}،
+},
   "lastmod": "2023-06-05"
 }
 

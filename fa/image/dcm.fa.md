@@ -9,10 +9,10 @@
 "پسوند فایل dcm",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل DCM - فایل اطلاعات پزشکی دیجیتال",
@@ -23,7 +23,7 @@
       "parent": "image",
       "identifier": "image-dc-fam"
 }
-}،
+},
   "lastmod": "2021-07-03"
 }
 

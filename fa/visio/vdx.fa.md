@@ -3,7 +3,7 @@
   "keywords" : [ "vdx file", "vdx file format", "what is a vdx file", "file", "vdx example", "vdx file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "VDX - فایل طراحی مایکروسافت ویزیو",
@@ -14,7 +14,7 @@
       "identifier":"visio-vdx-fa",
       "parent" : "visio"
 }
-}،
+},
   "lastmod" : "2019-09-10"
 }
 

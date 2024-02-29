@@ -2,7 +2,7 @@
   "date": "2022-03-24",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "TZ - فرمت فایل بایگانی تار زیپ شده",
@@ -13,7 +13,7 @@
       "parent": "compression",
       "identifier": "compression-t-faz"
 }
-}،
+},
   "lastmod": "2022-03-24"
 }
 

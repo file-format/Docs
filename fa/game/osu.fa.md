@@ -2,7 +2,7 @@
   "date" : "2023-01-18",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "description":"درباره فرمت فایل OSU و API هایی که می توانند فایل های OSU را ایجاد و باز کنند، بیاموزید.",
@@ -13,7 +13,7 @@
       "identifier":"game-osu-fa",
       "parent" : "game"
 }
-}،
+},
   "lastmod" : "2023-01-18"
 }
 

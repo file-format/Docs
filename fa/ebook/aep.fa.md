@@ -8,10 +8,10 @@
 "قالب",
 "کتاب الکترونیکی",
 "Adobe Digital Editions"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل AEP توسط Adobe و APIهایی که می توانند فایل های AEP را ایجاد و باز کنند، بیاموزید.",
@@ -22,7 +22,7 @@
       "parent": "ebook",
       "identifier": "ebook-ae-fap"
 }
-}،
+},
   "lastmod": "2021-05-28"
 }
 

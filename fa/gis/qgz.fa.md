@@ -9,10 +9,10 @@
 "پسوند فایل qgz",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "QGZ - پروژه فشرده کوانتومی GIS",
@@ -23,7 +23,7 @@
       "parent": "gis",
       "identifier": "gis-qg-faz"
 }
-}،
+},
   "lastmod": "2021-03-18"
 }
 

@@ -2,7 +2,7 @@
   "date": "2022-09-22",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فایل یونیتی - فایل صحنه یونیتی",
@@ -13,7 +13,7 @@
       "parent": "programming",
       "identifier": "programming-unit-fay"
 }
-}،
+},
   "lastmod": "2022-09-22"
 }
 

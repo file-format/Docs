@@ -8,10 +8,10 @@
 "فایل",
 "نوع",
 "فایل xaml چیست"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "XAML - زبان نشانه گذاری مبتنی بر XML",
@@ -22,7 +22,7 @@
       "parent": "web",
       "identifier": "web-xam-fal"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

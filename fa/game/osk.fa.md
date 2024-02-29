@@ -2,7 +2,7 @@
   "date" : "2021-09-08",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "description":"با فرمت فایل OSK و APIهایی که می توانند فایل های OSK را ایجاد و باز کنند آشنا شوید.",
@@ -13,7 +13,7 @@
       "identifier":"game-osk-fa",
       "parent" : "game"
 }
-}،
+},
   "lastmod" : "2021-09-08"
 }
 

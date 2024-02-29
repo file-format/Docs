@@ -7,10 +7,10 @@
 "فایل",
 "پسوند فایل obi",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل OBI - فایل اشتراک RSS Outlook",
@@ -21,7 +21,7 @@
       "identifier": "settings-obi-fa",
       "parent": "settings"
 }
-}،
+},
   "lastmod": "2023-05-02"
 }
 

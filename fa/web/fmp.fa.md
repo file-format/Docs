@@ -7,10 +7,10 @@
 "فرمت فایل",
 "فرمت فایل",
 "123 منوی فلش"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "FMP - 123 پروژه منوی فلش",
@@ -21,7 +21,7 @@
       "parent": "web",
       "identifier": "web-fm-fap"
 }
-}،
+},
   "lastmod": "2021-07-20"
 }
 

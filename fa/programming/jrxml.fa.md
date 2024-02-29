@@ -9,10 +9,10 @@
 "دانلود فایل jrxml",
 "فایل jrxml",
 "jrxml"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل JRXML و APIهایی که می توانند فایل های JRXML را باز کرده و ایجاد کنند، بیاموزید.",
@@ -23,7 +23,7 @@
       "parent": "programming",
       "identifier": "programming-jrxm-fal"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

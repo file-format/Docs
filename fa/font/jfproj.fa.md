@@ -9,10 +9,10 @@
 "پسوند فایل jfproj",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "JFPROJ - فرمت فایل پروژه فونت JSON",
@@ -23,7 +23,7 @@
       "parent": "font",
       "identifier": "font-jfpro-faj"
 }
-}،
+},
   "lastmod": "2020-09-24"
 }
 

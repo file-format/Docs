@@ -9,10 +9,10 @@
 "پسوند فایل jpeg",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "JPEG - فرمت فایل تصویر",
@@ -23,7 +23,7 @@
       "parent": "image",
       "identifier": "image-jpe-fag"
 }
-}،
+},
   "lastmod": "2020-08-08"
 }
 

@@ -9,10 +9,10 @@
 "پسوند فایل pat",
 "افزونه",
 "فایل"
-]،
+],
    "author":{
       "display_name":"Shakeel Faiz"
-}،
+},
    "draft":"false",
    "toc":true,
    "title":"فرمت فایل PAT - فایل الگو",
@@ -23,7 +23,7 @@
          "identifier":"image-pat-pattern-fa",
          "parent":"image"
 }
-}،
+},
    "lastmod":"2023-11-01"
 }
 

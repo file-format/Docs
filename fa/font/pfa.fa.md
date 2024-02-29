@@ -9,10 +9,10 @@
 "پسوند فایل pfa",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "PFA - فونت چاپگر قالب فایل Ascii",
@@ -23,7 +23,7 @@
       "parent": "font",
       "identifier": "font-pf-faa"
 }
-}،
+},
   "lastmod": "2020-09-30"
 }
 

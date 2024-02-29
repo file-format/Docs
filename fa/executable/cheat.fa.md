@@ -9,10 +9,10 @@
 "فایل",
 "پسوند فایل تقلب",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل CHEAT - Navi Cheatsheet",
@@ -23,7 +23,7 @@
       "identifier": "executable-cheat-fa",
       "parent": "executable"
 }
-}،
+},
   "lastmod": "2023-05-10"
 }
 

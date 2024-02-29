@@ -2,7 +2,7 @@
   "date": "2022-03-12",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "MSO - فایل مرجع ماکرو آفیس مایکروسافت",
@@ -13,7 +13,7 @@
       "parent": "misc",
       "identifier": "misc-ms-fao"
 }
-}،
+},
   "lastmod": "2022-03-12"
 }
 

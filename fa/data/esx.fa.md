@@ -9,10 +9,10 @@
 "پسوند فایل esx",
 "افزونه",
 "فایل"
-]،
+],
    "author":{
       "display_name":"Shakeel Faiz"
-}،
+},
    "draft":"false",
    "toc":true,
    "title":"فایل ESX - برآورد خسارت بیمه Xactimate - فایل .esx چیست و چگونه آن را باز کنیم؟",
@@ -23,7 +23,7 @@
          "identifier":"data-esx-fa",
          "parent":"data"
 }
-}،
+},
    "lastmod":"2023-11-16"
 }
 

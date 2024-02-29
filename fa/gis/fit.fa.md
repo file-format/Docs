@@ -2,7 +2,7 @@
   "date": "2022-05-06",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل FIT- فایل فعالیت گارمین",
@@ -13,7 +13,7 @@
       "parent": "gis",
       "identifier": "gis-fi-fat"
 }
-}،
+},
   "lastmod": "2022-05-06"
 }
 

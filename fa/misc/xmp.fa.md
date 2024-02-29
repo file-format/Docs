@@ -3,7 +3,7 @@
   "keywords" : [ "xmp file", "xmp file format", "what is an xmp file", "file", "xmp example", "xmp file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل XMP - فایل زبان نشانه گذاری خودکار",
@@ -14,7 +14,7 @@
       "identifier":"misc-xmp-fa",
       "parent" : "misc"
 }
-}،
+},
   "lastmod" : "2022-02-02"
 }
 

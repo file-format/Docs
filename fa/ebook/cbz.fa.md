@@ -8,10 +8,10 @@
 "کتاب های کمیک",
 "فرمت فایل کتاب های کمیک",
 "فایل های کتاب الکترونیکی"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل CBZ و APIهایی که می‌توانند فایل‌های CBZ را ایجاد و باز کنند، بیاموزید.",
@@ -22,7 +22,7 @@
       "parent": "ebook",
       "identifier": "ebook-cb-faz"
 }
-}،
+},
   "lastmod": "2021-03-03"
 }
 

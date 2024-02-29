@@ -8,10 +8,10 @@
 "فایل",
 "نوع",
 "فایل drawio چیست"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "DRAWIO - فرمت فایل نمودار Diagram.net",
@@ -22,7 +22,7 @@
       "parent": "web",
       "identifier": "web-drawi-fao"
 }
-}،
+},
   "lastmod": "2021-05-16"
 }
 

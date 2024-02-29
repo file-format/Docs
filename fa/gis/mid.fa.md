@@ -2,7 +2,7 @@
   "date" : "2023-01-04",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل MID - MapInfo تبادل فرمت فایل",
@@ -13,7 +13,7 @@
       "identifier":"gis-mid-fa",
       "parent" : "gis"
 }
-}،
+},
   "lastmod" : "2023-01-04"
 }
 

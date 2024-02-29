@@ -8,10 +8,10 @@
 "قالب",
 "کتاب الکترونیکی",
 "Whispernet"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل AZW1 آمازون و APIهایی که می توانند فایل های AZW1 را ایجاد و باز کنند، بیاموزید.",
@@ -22,7 +22,7 @@
       "parent": "ebook",
       "identifier": "ebook-azw-fa1"
 }
-}،
+},
   "lastmod": "2021-05-28"
 }
 

@@ -2,7 +2,7 @@
   "date": "2022-04-17",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل JPC - فایل جریانی کد JPEG 2000",
@@ -13,7 +13,7 @@
       "parent": "image",
       "identifier": "image-jp-fac"
 }
-}،
+},
   "lastmod": "2022-04-17"
 }
 

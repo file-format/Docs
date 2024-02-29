@@ -9,10 +9,10 @@
 "پسوند فایل caf",
 "افزونه",
 "فایل"
-]،
+],
    "author":{
       "display_name":"Shakeel Faiz"
-}،
+},
    "draft":"false",
    "toc":true,
    "title":"فرمت فایل CAF - فایل صوتی اصلی",
@@ -23,7 +23,7 @@
          "identifier":"audio-caf-fa",
          "parent":"audio"
 }
-}،
+},
    "lastmod":"2023-10-04"
 }
 

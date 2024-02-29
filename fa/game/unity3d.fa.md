@@ -7,10 +7,10 @@
 "فایل",
 "پسوند فایل unity3d",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل Unity3D - Unity Web Player Archive",
@@ -21,7 +21,7 @@
       "identifier": "game-unity3d-fa",
       "parent": "game"
 }
-}،
+},
   "lastmod": "2023-03-16"
 }
 

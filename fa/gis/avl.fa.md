@@ -2,7 +2,7 @@
   "date" : "2022-11-30",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "AVL - ArcView Legend File",
@@ -13,7 +13,7 @@
       "identifier":"gis-avl-fa",
       "parent" : "gis"
 }
-}،
+},
   "lastmod" : "2022-11-30"
 }
 

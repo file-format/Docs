@@ -8,10 +8,10 @@
 "فایل",
 "نوع",
 "فایل rhtml چیست"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "RHTML - صفحه HTML روبی",
@@ -22,7 +22,7 @@
       "parent": "web",
       "identifier": "web-rhtm-fal"
 }
-}،
+},
   "lastmod": "2021-05-24"
 }
 

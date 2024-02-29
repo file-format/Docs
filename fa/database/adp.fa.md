@@ -8,10 +8,10 @@
 "نوع فایل پایگاه داده",
 "فرمت فایل پایگاه داده",
 "پروژه دسترسی"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "با فرمت فایل ADP و APIهایی که می توانند فایل های ADP را ایجاد و باز کنند آشنا شوید.",
@@ -22,7 +22,7 @@
       "parent": "database",
       "identifier": "database-ad-fap"
 }
-}،
+},
   "lastmod": "2021-09-06"
 }
 

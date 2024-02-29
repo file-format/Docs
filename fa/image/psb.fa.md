@@ -9,10 +9,10 @@
 "پسوند فایل psb",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "PSB - فرمت فایل تصویر بزرگ فتوشاپ",
@@ -23,7 +23,7 @@
       "parent": "image",
       "identifier": "image-ps-fab"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

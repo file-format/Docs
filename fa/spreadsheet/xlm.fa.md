@@ -7,10 +7,10 @@
 "فرمت فایل",
 "فایل ماکرو اکسل مایکروسافت",
 "صفحه گسترده"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "راهنمای فرمت فایل شما برای اینکه بدانید یک فایل ماکرو XLM و APIهایی که می‌توانند فایل‌های XLM را ایجاد و باز کنند چیست.",
@@ -21,7 +21,7 @@
       "parent": "spreadsheet",
       "identifier": "spreadsheet-xl-fam"
 }
-}،
+},
   "lastmod": "2019-12-10"
 }
 

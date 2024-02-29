@@ -8,10 +8,10 @@
 "قالب",
 "کتاب الکترونیکی",
 "زبان نشانه گذاری پالم"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل PMLZ، Palm Markup Language و APIهایی که می‌توانند فایل‌های PMLZ را ایجاد و باز کنند، بیاموزید.",
@@ -22,7 +22,7 @@
       "parent": "ebook",
       "identifier": "ebook-pml-faz"
 }
-}،
+},
   "lastmod": "2021-03-30"
 }
 

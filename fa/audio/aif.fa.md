@@ -10,10 +10,10 @@
 "فایل",
 "پسوند فایل aif",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل AIF - فرمت فایل تبادل صوتی",
@@ -24,7 +24,7 @@
       "identifier": "audio-aif-fa",
       "parent": "audio"
 }
-}،
+},
   "lastmod": "2023-05-30"
 }
 

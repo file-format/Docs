@@ -4,7 +4,7 @@
   "keywords": [ ".aml file", "extension", "format","Microsoft Assistance Markup Language File", "how to open .aml file","aml file format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل AML - فایل زبان نشانه گذاری Microsoft Assistance",
@@ -15,7 +15,7 @@
       "identifier":"programming-aml-fa",
       "parent" : "programming"
 }
-}،
+},
   "lastmod" : "2022-01-28"
 }
 

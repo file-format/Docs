@@ -2,7 +2,7 @@
   "date" : "2024-02-08",
   "author" : {
     "display_name" : "Shakeel Faiz"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل TIME - فایل .time چیست؟ زمانی که فایل در لینوکس ایجاد شد",
@@ -13,7 +13,7 @@
       "identifier" : "data-en-time-fa",
       "parent" : "data"
 }
-}،
+},
   "lastmod" : "2024-02-08"
 }
 

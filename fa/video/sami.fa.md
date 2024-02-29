@@ -7,10 +7,10 @@
 "فایل",
 "پسوند فایل sami",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل SAMI - زیرنویس و فایل تبادل ابرداده",
@@ -21,7 +21,7 @@
       "identifier": "video-sami-fa",
       "parent": "video"
 }
-}،
+},
   "lastmod": "2023-05-16"
 }
 

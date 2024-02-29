@@ -7,10 +7,10 @@
 "فرمت فایل",
 "SmartWare II",
 "صفحه گسترده"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره اینکه فایل DEF چیست و APIهایی که می توانند فایل های DEF را ایجاد و باز کنند، بیاموزید.",
@@ -21,7 +21,7 @@
       "parent": "spreadsheet",
       "identifier": "spreadsheet-de-faf"
 }
-}،
+},
   "lastmod": "2021-11-23"
 }
 

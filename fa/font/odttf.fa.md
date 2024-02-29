@@ -2,7 +2,7 @@
   "date": "2023-01-13",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فایل ODTTF - فرمت فایل فونت OpenType مبهم",
@@ -13,7 +13,7 @@
       "parent": "font",
       "identifier": "font-odtt-faf"
 }
-}،
+},
   "lastmod": "2023-01-13"
 }
 

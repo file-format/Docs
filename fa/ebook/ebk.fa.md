@@ -7,10 +7,10 @@
 "قالب",
 "کتاب الکترونیکی",
 "Ebook Pro Viewer"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "با فرمت فایل EBK و APIهایی که می توانند فایل های EBK را ایجاد و باز کنند آشنا شوید.",
@@ -21,7 +21,7 @@
       "parent": "ebook",
       "identifier": "ebook-eb-fak"
 }
-}،
+},
   "lastmod": "2021-03-17"
 }
 

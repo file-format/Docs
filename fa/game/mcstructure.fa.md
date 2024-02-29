@@ -8,10 +8,10 @@
 "پسوند فایل mcstructure",
 "افزونه",
 "نحوه وارد کردن فایل mcstructure در ماین کرافت"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل MCSTRUCTURE - فایل ساختار Minecraft",
@@ -22,7 +22,7 @@
       "identifier": "game-mcstructure-fa",
       "parent": "game"
 }
-}،
+},
   "lastmod": "2023-04-05"
 }
 

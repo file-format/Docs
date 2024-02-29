@@ -7,10 +7,10 @@
 "فایل",
 "تنظیم پسوند فایل",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "SET File Format - Document Library Property Set File",
@@ -21,7 +21,7 @@
       "identifier": "settings-set-fa",
       "parent": "settings"
 }
-}،
+},
   "lastmod": "2023-03-21"
 }
 

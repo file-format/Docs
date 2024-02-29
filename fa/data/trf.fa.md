@@ -9,10 +9,10 @@
 "پسوند فایل trf",
 "افزونه",
 "فایل"
-]،
+],
    "author" : {
       "display_name" : "Shakeel Faiz"
-}،
+},
    "draft" : "false",
    "toc" : true,
    "title" : "فایل TRF - فایل TorrentRover - فایل trf چیست و چگونه آن را باز کنیم؟",
@@ -23,7 +23,7 @@
          "identifier" : "data-trf-fa",
          "parent" : "data"
 }
-}،
+},
    "lastmod" : "2023-12-14"
 }
 

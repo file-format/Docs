@@ -2,7 +2,7 @@
   "date": "2022-08-20",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فایل BOK - فرمت فایل پویا صفحه وب ProStores",
@@ -13,7 +13,7 @@
       "parent": "web",
       "identifier": "web-bo-fak"
 }
-}،
+},
   "lastmod": "2022-08-20"
 }
 

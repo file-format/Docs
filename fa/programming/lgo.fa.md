@@ -2,7 +2,7 @@
   "date": "2021-09-08",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل LGO - فایل دستورالعمل های لوگو",
@@ -13,7 +13,7 @@
       "parent": "programming",
       "identifier": "programming-lg-fao"
 }
-}،
+},
   "lastmod": "2021-09-08"
 }
 

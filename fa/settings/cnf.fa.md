@@ -7,10 +7,10 @@
 "فایل",
 "پسوند فایل cnf",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل CNF - فایل پیکربندی MySQL",
@@ -21,7 +21,7 @@
       "identifier": "settings-cnf-fa",
       "parent": "settings"
 }
-}،
+},
   "lastmod": "2023-03-22"
 }
 

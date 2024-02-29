@@ -9,10 +9,10 @@
 "کتاب الکترونیکی",
 "فایل اصلی کتابخوان الکترونیکی",
 "نوع فایل"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل ORB برای orb reader و APIهایی که می‌توانند فایل‌های ORB را ایجاد و باز کنند، بیاموزید.",
@@ -23,7 +23,7 @@
       "parent": "ebook",
       "identifier": "ebook-or-fab"
 }
-}،
+},
   "lastmod": "2021-03-28"
 }
 

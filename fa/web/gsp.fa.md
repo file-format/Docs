@@ -2,7 +2,7 @@
   "date": "2022-01-24",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فایل GSP - فرمت فایل پیام خطای ایمیل",
@@ -13,7 +13,7 @@
       "parent": "web",
       "identifier": "web-gs-fap"
 }
-}،
+},
   "lastmod": "2022-01-24"
 }
 

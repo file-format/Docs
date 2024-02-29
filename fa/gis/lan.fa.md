@@ -2,7 +2,7 @@
   "date" : "2023-01-26",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل LAN - فرمت فایل ERDAS LAN",
@@ -13,7 +13,7 @@
       "identifier":"gis-lan-fa",
       "parent" : "gis"
 }
-}،
+},
   "lastmod" : "2023-01-26"
 }
 

@@ -9,10 +9,10 @@
 "پسوند فایل tgs",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "TGS - فرمت فایل استیکر متحرک تلگرام",
@@ -23,7 +23,7 @@
       "parent": "compression",
       "identifier": "compression-tg-fas"
 }
-}،
+},
   "lastmod": "2021-04-02"
 }
 

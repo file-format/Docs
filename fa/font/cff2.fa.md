@@ -9,10 +9,10 @@
 "پسوند فایل cff2",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "CFF2 - فرمت فایل فشرده فونت نسخه 2",
@@ -23,7 +23,7 @@
       "parent": "font",
       "identifier": "font-cff-fa2"
 }
-}،
+},
   "lastmod": "2020-10-21"
 }
 

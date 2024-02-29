@@ -7,10 +7,10 @@
 "افزونه",
 "فرمت فایل",
 "لمپل-زیو-اوبرهوم"
-]،
+],
   "author": {
     "display_name": "Sami Cheema"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل LZO",
@@ -21,7 +21,7 @@
       "parent": "compression",
       "identifier": "compression-lz-fao"
 }
-}،
+},
   "lastmod": "2021-06-16"
 }
 

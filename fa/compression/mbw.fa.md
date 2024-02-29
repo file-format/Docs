@@ -8,10 +8,10 @@
 "افزونه",
 "فشرده شده است",
 "راه حل های آتش سوزی"
-]،
+],
   "author": {
     "display_name": "Sami Cheema"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل MBW",
@@ -22,7 +22,7 @@
       "parent": "compression",
       "identifier": "compression-mb-faw"
 }
-}،
+},
   "lastmod": "2021-05-28"
 }
 

@@ -9,10 +9,10 @@
 "فایل",
 "پسوند فایل 3gpp",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل 3GPP - فایل رسانه ای 3GPP",
@@ -23,7 +23,7 @@
       "identifier": "video-3gpp-fa",
       "parent": "video"
 }
-}،
+},
   "lastmod": "2023-05-30"
 }
 

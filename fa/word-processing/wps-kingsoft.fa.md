@@ -9,10 +9,10 @@
 "فایل",
 "پسوند فایل wps",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل WPS - سند Writer Kingsoft",
@@ -23,7 +23,7 @@
       "identifier": "word-processing-wps-kingsoft-fa",
       "parent": "word-processing"
 }
-}،
+},
   "lastmod": "2023-09-21"
 }
 

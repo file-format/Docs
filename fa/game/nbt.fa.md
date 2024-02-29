@@ -2,7 +2,7 @@
   "date" : "2024-02-15",
   "author" : {
     "display_name" : "Shakeel Faiz"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل NBT - Minecraft با نام باینری تگ - فایل nbt چیست و چگونه آن را باز کنیم؟",
@@ -13,7 +13,7 @@
       "identifier" : "game-en-nbt-fa",
       "parent" : "game"
 }
-}،
+},
   "lastmod" : "2024-02-15"
 }
 

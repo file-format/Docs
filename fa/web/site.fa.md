@@ -2,7 +2,7 @@
   "date" : "2023-01-30",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل SITE - قالب فایل پروژه وب سایت GoLive",
@@ -13,7 +13,7 @@
       "identifier":"web-site-fa",
       "parent" : "web"
 }
-}،
+},
   "lastmod" : "2023-01-30"
 }
 

@@ -9,10 +9,10 @@
 "پسوند فایل tbz",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "TBZ - بایگانی تار فشرده Bzip",
@@ -23,7 +23,7 @@
       "parent": "compression",
       "identifier": "compression-tb-faz"
 }
-}،
+},
   "lastmod": "2021-04-05"
 }
 

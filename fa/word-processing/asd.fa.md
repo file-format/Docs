@@ -7,10 +7,10 @@
 "فرمت فایل",
 "مایکروسافت ورد",
 "واژه پردازی"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "ASD - فایل ذخیره خودکار Microsoft Word",
@@ -21,7 +21,7 @@
       "parent": "word-processing",
       "identifier": "word-processing-as-fad"
 }
-}،
+},
   "lastmod": "2021-06-30"
 }
 

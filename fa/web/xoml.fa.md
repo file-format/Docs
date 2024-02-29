@@ -7,10 +7,10 @@
 "فرمت فایل",
 "فرمت فایل",
 "زبان نشانه گذاری اشیاء توسعه پذیر"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "XOML - فرمت فایل گردش کار ویندوز",
@@ -21,7 +21,7 @@
       "parent": "web",
       "identifier": "web-xom-fal"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

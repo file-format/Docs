@@ -3,7 +3,7 @@
   "keywords" : [ "vsdm file", "vsdm file format", "what is a vsdm file", "file", "vsdm example", "vsdm file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "VSDM - فرمت فایل ترسیمی Microsoft Visio",
@@ -14,7 +14,7 @@
 	  "identifier":"visio-vsdm-fa",
       "parent" : "visio"
 }
-}،
+},
   "lastmod" : "2019-09-10"
 }
 

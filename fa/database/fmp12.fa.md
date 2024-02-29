@@ -2,7 +2,7 @@
   "date": "2022-05-25",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل FMP12 و APIهایی که می‌توانند فایل‌های FMP12 را ایجاد و باز کنند، بیاموزید.",
@@ -13,7 +13,7 @@
       "parent": "database",
       "identifier": "database-fmp1-fa2"
 }
-}،
+},
   "lastmod": "2022-05-25"
 }
 

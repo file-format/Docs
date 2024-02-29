@@ -7,10 +7,10 @@
 "نحوه باز کردن فایل تراشه",
 "پسوند فایل تراشه",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل CHIP - فایل حاشیه نویسی ریزآرایه",
@@ -21,7 +21,7 @@
       "identifier": "spreadsheet-chip-fa",
       "parent": "spreadsheet"
 }
-}،
+},
   "lastmod": "2023-03-01"
 }
 

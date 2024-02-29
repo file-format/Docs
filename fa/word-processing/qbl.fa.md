@@ -2,7 +2,7 @@
   "date": "2021-07-28",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "QBL - فایل مجوز QuickBooks",
@@ -13,7 +13,7 @@
       "parent": "word-processing",
       "identifier": "word-processing-qb-fal"
 }
-}،
+},
   "lastmod": "2021-07-28"
 }
 

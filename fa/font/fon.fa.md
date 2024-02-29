@@ -9,10 +9,10 @@
 "پسوند فایل fon",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "FON - فایل کتابخانه فونت",
@@ -23,7 +23,7 @@
       "parent": "font",
       "identifier": "font-fo-fan"
 }
-}،
+},
   "lastmod": "2020-10-30"
 }
 

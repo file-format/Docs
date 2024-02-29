@@ -9,10 +9,10 @@
 "پسوند فایل wdb",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل WDB و APIهایی که می‌توانند فایل‌های WDB را ایجاد و باز کنند، بیاموزید.",
@@ -23,7 +23,7 @@
       "parent": "database",
       "identifier": "database-wd-fab"
 }
-}،
+},
   "lastmod": "2021-08-24"
 }
 

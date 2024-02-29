@@ -7,10 +7,10 @@
 "نحوه باز کردن فایل piv",
 "پسوند فایل piv",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل PIV - انیمیشن Pivot Animator",
@@ -21,7 +21,7 @@
       "identifier": "video-piv-fa",
       "parent": "video"
 }
-}،
+},
   "lastmod": "2023-02-06"
 }
 

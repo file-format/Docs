@@ -9,10 +9,10 @@
 "پسوند فایل rvm",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فایل پروژه RVM - AVEVA PDMS",
@@ -23,7 +23,7 @@
       "parent": "3d",
       "identifier": "3d-rv-fam"
 }
-}،
+},
   "lastmod": "2021-01-22"
 }
 

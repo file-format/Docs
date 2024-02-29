@@ -2,7 +2,7 @@
   "date" : "2020-01-26",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "categories" : [ "fundamentals" ],
   "description" : "فایل های فشرده، آرشیوهای دیجیتالی هستند که با کاهش حجم فایل، فایل ها را ذخیره می کنند. فرمت های محبوب فایل های فشرده عبارتند از ZIP، 7Z، BZ2، GZ، RAR و TAR.",
@@ -11,9 +11,9 @@
   "menu" : {
     "docs" : {
       "parent" : "compression",
-"وزن : 01"
+"weight" : "01"
 }
-}،
+},
   "lastmod" : "2020-01-26"
 }
 

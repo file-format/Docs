@@ -6,10 +6,10 @@
 "فایل",
 "پسوند فایل reg",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل REG - فایل رجیستری ویندوز",
@@ -20,7 +20,7 @@
       "identifier": "system-reg-fa",
       "parent": "system"
 }
-}،
+},
   "lastmod": "2023-03-07"
 }
 

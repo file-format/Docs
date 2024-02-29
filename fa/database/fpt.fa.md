@@ -8,10 +8,10 @@
 "فایل",
 "پسوند فایل fpt",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل FPT - فایل یادداشت پایگاه داده FileMaker Pro",
@@ -22,7 +22,7 @@
       "identifier": "database-fpt-fa",
       "parent": "database"
 }
-}،
+},
   "lastmod": "2023-09-05"
 }
 

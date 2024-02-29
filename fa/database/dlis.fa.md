@@ -3,7 +3,7 @@
   "keywords" : [ "DLIS", "what is a DLIS file", "extension", "file", "file format", "Database File Type", "Database File Format", "Database Files" ],
   "author" : {
     "display_name" : "Shakeel Faiz"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "description" : "درباره فرمت فایل DLIS و APIهایی که می توانند فایل های DLIS را ایجاد و باز کنند، بیاموزید.",
@@ -14,7 +14,7 @@
       "identifier":"database-dlis-fa",
       "parent" : "database"
 }
-}،
+},
   "lastmod" : "2020-01-16"
 }
 

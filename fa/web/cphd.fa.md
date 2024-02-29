@@ -2,7 +2,7 @@
   "date" : "2023-06-08",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل CPHD - فرمت سند ابرمتن پیش پردازش شده CloudChan",
@@ -13,7 +13,7 @@
       "identifier":"web-cphd-fa",
       "parent" : "web"
 }
-}،
+},
   "lastmod" : "2023-06-08"
 }
 

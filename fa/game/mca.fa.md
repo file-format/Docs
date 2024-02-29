@@ -2,7 +2,7 @@
   "date": "2022-12-13",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل MCA و APIهایی که می‌توانند فایل‌های MCA را ایجاد و باز کنند، بیاموزید.",
@@ -13,7 +13,7 @@
       "parent": "game",
       "identifier": "game-mc-faa"
 }
-}،
+},
   "lastmod": "2022-12-13"
 }
 

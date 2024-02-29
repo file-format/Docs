@@ -7,10 +7,10 @@
 "قالب",
 "فایل GADGET چیست",
 "بایگانی"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل GADGET و APIهایی که می‌توانند فایل‌های GADGET را ایجاد و باز کنند، بیاموزید.",
@@ -21,7 +21,7 @@
       "parent": "disc-and-media",
       "identifier": "disc-and-media-gadge-fat"
 }
-}،
+},
   "lastmod": "2021-06-24"
 }
 

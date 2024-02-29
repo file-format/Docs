@@ -7,10 +7,10 @@
 "نحوه باز کردن فایل axm",
 "پسوند فایل axm",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل AXM - فایل Sketch FormIt",
@@ -21,7 +21,7 @@
       "identifier": "cad-axm-fa",
       "parent": "cad"
 }
-}،
+},
   "lastmod": "2023-02-21"
 }
 

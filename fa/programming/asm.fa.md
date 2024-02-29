@@ -2,7 +2,7 @@
   "date" : "2022-04-03",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فرمت فایل ASM - فرمت فایل کد منبع زبان اسمبلی",
@@ -13,7 +13,7 @@
       "identifier" : "programming-asm-fa",
       "parent" : "programming"
 }
-}،
+},
   "lastmod" : "2022-04-03"
 }
 

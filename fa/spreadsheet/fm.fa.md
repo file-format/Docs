@@ -7,10 +7,10 @@
 "فرمت فایل",
 "فایل میکر حرفه ای",
 "صفحه گسترده"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "فایل FM و API هایی که می توانند فایل های FM ایجاد و باز کنند چیست؟",
@@ -21,7 +21,7 @@
       "parent": "spreadsheet",
       "identifier": "spreadsheet-f-fam"
 }
-}،
+},
   "lastmod": "2021-11-16"
 }
 

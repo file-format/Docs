@@ -9,10 +9,10 @@
 "فایل",
 "پسوند فایل cb7",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل CB7 - آرشیو 7-زیپ کتاب کمیک",
@@ -23,7 +23,7 @@
       "identifier": "compression-cb7-fa",
       "parent": "compression"
 }
-}،
+},
   "lastmod": "2023-05-24"
 }
 

@@ -9,10 +9,10 @@
 "پسوند فایل pat",
 "افزونه",
 "فایل"
-]،
+],
    "author":{
       "display_name":"Shakeel Faiz"
-}،
+},
    "draft":"false",
    "toc":true,
    "title":"فرمت فایل PAT - فایل نصبی مدیر DiskStation",
@@ -23,7 +23,7 @@
          "identifier":"system-pat-diskstation-fa",
          "parent":"system"
 }
-}،
+},
    "lastmod":"2023-11-01"
 }
 

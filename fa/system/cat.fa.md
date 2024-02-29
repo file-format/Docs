@@ -8,10 +8,10 @@
 "پسوند فایل cat",
 "افزونه",
 "فایل"
-]،
+],
    "author":{
       "display_name":"Shakeel Faiz"
-}،
+},
    "draft":"false",
    "toc":true,
    "title":"فرمت فایل CAT - فایل کاتالوگ ویندوز",
@@ -22,7 +22,7 @@
          "identifier":"system-cat-fa",
          "parent":"system"
 }
-}،
+},
    "lastmod":"2023-07-06"
 }
 

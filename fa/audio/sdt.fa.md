@@ -7,10 +7,10 @@
 "قالب",
 "سمعی",
 "MPEG"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل SDT و APIهایی که می‌توانند فایل‌های SDT را ایجاد و باز کنند، بیاموزید.",
@@ -21,7 +21,7 @@
       "parent": "audio",
       "identifier": "audio-sd-fat"
 }
-}،
+},
   "lastmod": "2020-10-04"
 }
 

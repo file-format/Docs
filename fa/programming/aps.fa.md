@@ -9,10 +9,10 @@
 "پسوند فایل aps",
 "نحوه باز کردن فایل aps",
 "فرمت فایل APS"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "APS - Visual C++ Resource File",
@@ -23,7 +23,7 @@
       "parent": "programming",
       "identifier": "programming-ap-fas"
 }
-}،
+},
   "lastmod": "2021-04-22"
 }
 

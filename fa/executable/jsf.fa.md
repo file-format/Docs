@@ -8,10 +8,10 @@
 "فایل",
 "پسوند فایل jsf",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل JSF - فایل دستوری جاوا اسکریپت",
@@ -22,7 +22,7 @@
       "identifier": "executable-jsf-fa",
       "parent": "executable"
 }
-}،
+},
   "lastmod": "2023-05-09"
 }
 

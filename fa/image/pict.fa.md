@@ -2,7 +2,7 @@
   "date": "2022-03-16",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل PICT - فایل PICT چیست؟",
@@ -13,7 +13,7 @@
       "parent": "image",
       "identifier": "image-pic-fat"
 }
-}،
+},
   "lastmod": "2022-03-16"
 }
 

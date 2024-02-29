@@ -9,10 +9,10 @@
 "پسوند فایل prt",
 "افزونه",
 "فایل"
-]،
+],
    "author":{
       "display_name":"Shakeel Faiz"
-}،
+},
    "draft":"false",
    "toc":true,
    "title":"فرمت فایل PRT - فایل قسمت CADKEY",
@@ -23,7 +23,7 @@
          "identifier":"cad-prt-cadkey-fa",
          "parent":"cad"
 }
-}،
+},
    "lastmod":"2023-10-18"
 }
 

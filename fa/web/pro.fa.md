@@ -2,7 +2,7 @@
   "date": "2022-07-21",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل PRO - فایل PRO چیست؟",
@@ -13,7 +13,7 @@
       "parent": "web",
       "identifier": "web-pr-fao"
 }
-}،
+},
   "lastmod": "2022-07-21"
 }
 

@@ -7,10 +7,10 @@
 "فرمت فایل",
 "EasySpreadsheet",
 "صفحه گسترده"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فایل ESS و API هایی که می توانند فایل های ESS را ایجاد و باز کنند، آشنا شوید.",
@@ -21,7 +21,7 @@
       "parent": "spreadsheet",
       "identifier": "spreadsheet-es-fas"
 }
-}،
+},
   "lastmod": "2021-11-16"
 }
 

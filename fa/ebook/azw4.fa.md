@@ -10,10 +10,10 @@
 "Kindle eReader",
 "کتاب های درسی",
 "PDF"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل AZW4 آمازون و APIهایی که می توانند فایل های AZW1 را ایجاد و باز کنند، بیاموزید.",
@@ -24,7 +24,7 @@
       "parent": "ebook",
       "identifier": "ebook-azw-fa4"
 }
-}،
+},
   "lastmod": "2021-03-12"
 }
 

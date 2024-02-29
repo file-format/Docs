@@ -9,10 +9,10 @@
 "پسوند فایل xapk",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "XAPK - فرمت فایل Meta Package",
@@ -23,7 +23,7 @@
       "parent": "compression",
       "identifier": "compression-xap-fak"
 }
-}،
+},
   "lastmod": "2021-04-11"
 }
 

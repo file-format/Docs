@@ -8,10 +8,10 @@
 "فایل",
 "پسوند فایل usr",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل USR - فایل سفارشی SmartMusic",
@@ -22,7 +22,7 @@
       "identifier": "misc-usr-fa",
       "parent": "misc"
 }
-}،
+},
   "lastmod": "2023-08-03"
 }
 

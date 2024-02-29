@@ -9,10 +9,10 @@
 "پسوند فایل gz",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل GZ - فایل بایگانی فشرده گنو",
@@ -23,7 +23,7 @@
       "parent": "compression",
       "identifier": "compression-g-faz"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

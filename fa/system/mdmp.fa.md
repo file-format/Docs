@@ -2,7 +2,7 @@
   "date": "2022-08-19",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فایل MDMP - فرمت فایل Minidump ویندوز",
@@ -13,7 +13,7 @@
       "parent": "system",
       "identifier": "system-mdm-fap"
 }
-}،
+},
   "lastmod": "2022-08-19"
 }
 

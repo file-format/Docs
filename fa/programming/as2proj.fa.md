@@ -2,7 +2,7 @@
   "date": "2022-11-06",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "AS2PROJ - فرمت فایل پروژه FlashDevelop ActionScript 2",
@@ -13,7 +13,7 @@
       "parent": "programming",
       "identifier": "programming-as2pro-faj"
 }
-}،
+},
   "lastmod": "2022-11-06"
 }
 

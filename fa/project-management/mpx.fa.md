@@ -9,10 +9,10 @@
 "پسوند فایل mpx",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "MPX - فرمت فایل تبادل پروژه مایکروسافت",
@@ -23,7 +23,7 @@
       "parent": "project-management",
       "identifier": "project-management-mp-fax"
 }
-}،
+},
   "lastmod": "2021-05-07"
 }
 

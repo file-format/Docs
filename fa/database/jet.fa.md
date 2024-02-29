@@ -9,10 +9,10 @@
 "فایل",
 "پسوند فایل jet",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل JET - فایل پایگاه داده مایکروسافت JET",
@@ -23,7 +23,7 @@
       "identifier": "database-jet-fa",
       "parent": "database"
 }
-}،
+},
   "lastmod": "2023-09-05"
 }
 

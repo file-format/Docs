@@ -10,10 +10,10 @@
 "فایل",
 "پسوند فایل crx",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل CRX - پسوند Google Chrome",
@@ -24,7 +24,7 @@
       "identifier": "misc-crx-fa",
       "parent": "misc"
 }
-}،
+},
   "lastmod": "2023-06-08"
 }
 

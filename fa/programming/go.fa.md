@@ -10,10 +10,10 @@
 "برو مثال",
 "Google Go",
 "Gоlаng"
-]،
+],
   "author": {
     "display_name": "Sami Cheema"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "GO - فرمت فایل Gоlаng",
@@ -24,7 +24,7 @@
       "parent": "programming",
       "identifier": "programming-g-fao"
 }
-}،
+},
   "lastmod": "2021-08-30"
 }
 

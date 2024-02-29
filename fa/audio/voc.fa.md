@@ -9,10 +9,10 @@
 "ضبط صوت دیجیتال RCA",
 "پسوند voc",
 "فایل های voc"
-]،
+],
   "author": {
     "display_name": "Sami Cheema"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل VOC و APIهایی که می‌توانند فایل‌های VOC را ایجاد و باز کنند، بیاموزید.",
@@ -23,7 +23,7 @@
       "parent": "audio",
       "identifier": "audio-vo-fac"
 }
-}،
+},
   "lastmod": "2021-08-11"
 }
 

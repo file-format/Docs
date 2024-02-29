@@ -9,10 +9,10 @@
 "پسوند فایل lz4",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "LZ4 - فرمت فایل فشرده LZ4",
@@ -23,7 +23,7 @@
       "parent": "compression",
       "identifier": "compression-lz-fa4"
 }
-}،
+},
   "lastmod": "2021-04-19"
 }
 

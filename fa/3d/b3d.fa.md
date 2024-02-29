@@ -7,10 +7,10 @@
 "افزونه",
 "قالب",
 "بازی های blitz3d"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "با فرمت فایل B3D آشنا شوید. در بازی‌های blitz3d و APIهایی که می‌توانند فایل‌های B3D را باز کرده و ایجاد کنند استفاده می‌شود.",
@@ -21,7 +21,7 @@
       "parent": "3d",
       "identifier": "3d-b3-fad"
 }
-}،
+},
   "lastmod": "2021-04-19"
 }
 

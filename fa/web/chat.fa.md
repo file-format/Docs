@@ -2,7 +2,7 @@
   "date": "2022-08-22",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فایل چت - فرمت فایل پیکربندی چت IRC",
@@ -13,7 +13,7 @@
       "parent": "web",
       "identifier": "web-cha-fat"
 }
-}،
+},
   "lastmod": "2022-08-22"
 }
 

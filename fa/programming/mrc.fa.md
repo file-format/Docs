@@ -15,10 +15,10 @@
 "زبان mIRC",
 "اسکریپت های mIRC",
 "زبان برنامه نویسی"
-]،
+],
   "author": {
     "display_name": "Sami Cheema"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "MRC - فایل زبان اسکریپت mIRC",
@@ -29,7 +29,7 @@
       "parent": "programming",
       "identifier": "programming-mr-fac"
 }
-}،
+},
   "lastmod": "2021-09-14"
 }
 

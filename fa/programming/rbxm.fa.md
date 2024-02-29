@@ -2,7 +2,7 @@
   "date": "2022-06-02",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "RBXM - فایل جاوا اسکریپت روبی",
@@ -13,7 +13,7 @@
       "parent": "programming",
       "identifier": "programming-rbx-fam"
 }
-}،
+},
   "lastmod": "2022-06-02"
 }
 

@@ -9,10 +9,10 @@
 "پسوند فایل ppt",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل PPT و APIهایی که می‌توانند فایل‌های PPT را ایجاد و باز کنند، بیاموزید.",
@@ -23,7 +23,7 @@
       "parent": "presentation",
       "identifier": "presentation-pp-fat"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

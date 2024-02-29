@@ -2,7 +2,7 @@
    "date":"2023-12-20",
    "author":{
       "display_name":"Shakeel Faiz"
-}،
+},
    "draft":"false",
    "toc":true,
    "title":"فایل RVZ - رام GameCube - فایل .rvz چیست و چگونه آن را باز کنیم؟",
@@ -13,7 +13,7 @@
          "identifier":"game-rvz-fa",
          "parent":"game"
 }
-}،
+},
    "lastmod":"2023-12-20"
 }
 

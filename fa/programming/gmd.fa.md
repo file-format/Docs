@@ -2,7 +2,7 @@
   "date" : "2023-02-07",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل GMD - فرمت فایل کد برنامه Game Maker",
@@ -13,7 +13,7 @@
       "identifier":"programming-gmd-fa",
       "parent" : "programming"
 }
-}،
+},
   "lastmod" : "2023-02-07"
 }
 

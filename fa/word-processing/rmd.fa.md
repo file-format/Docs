@@ -9,10 +9,10 @@
 "فایل",
 "پسوند فایل rmd",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل RMD - فایل R Markdown",
@@ -23,7 +23,7 @@
       "identifier": "word-processing-rmd-fa",
       "parent": "word-processing"
 }
-}،
+},
   "lastmod": "2023-06-22"
 }
 

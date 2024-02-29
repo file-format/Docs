@@ -9,10 +9,10 @@
 "پسوند فایل pps",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "PPS - فایل نمایش اسلاید پاورپوینت",
@@ -23,7 +23,7 @@
       "parent": "presentation",
       "identifier": "presentation-pp-fas"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

@@ -9,10 +9,10 @@
 "پسوند فایل webp",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "WEBP - فرمت فایل تصویر Google Raster",
@@ -23,7 +23,7 @@
       "parent": "image",
       "identifier": "image-webp"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

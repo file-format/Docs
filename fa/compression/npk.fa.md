@@ -2,7 +2,7 @@
   "date" : "2022-06-21",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فرمت فایل NPK",
@@ -13,7 +13,7 @@
       "identifier":"compression-npk-fa",
       "parent" : "compression"
 }
-}،
+},
   "lastmod" : "2022-06-21"
 }
 

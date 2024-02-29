@@ -9,10 +9,10 @@
 "پسوند فایل pot",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "POT - Microsoft PowerPOint Template File Format",
@@ -23,7 +23,7 @@
       "parent": "presentation",
       "identifier": "presentation-pot"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

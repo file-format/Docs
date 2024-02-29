@@ -9,10 +9,10 @@
 "پسوند فایل nds",
 "افزونه",
 "فایل"
-]،
+],
    "author":{
       "display_name":"Shakeel Faiz"
-}،
+},
    "draft":"false",
    "toc":true,
    "title":"فایل NDS - Nero DiscSpan Compilation File - فایل .nds چیست و چگونه آن را باز کنیم؟",
@@ -23,7 +23,7 @@
          "identifier":"data-nds-fa",
          "parent":"data"
 }
-}،
+},
    "lastmod":"2023-11-16"
 }
 

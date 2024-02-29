@@ -9,10 +9,10 @@
 "پسوند فایل ai",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "AI - فایل آثار هنری Adobe Illustrator",
@@ -23,7 +23,7 @@
       "parent": "image",
       "identifier": "image-a-fai"
 }
-}،
+},
   "lastmod": "2021-01-21"
 }
 

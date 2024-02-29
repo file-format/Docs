@@ -2,7 +2,7 @@
   "date" : "2021-08-20",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "DAP - فایل داده مایکروسافت اکسس",
@@ -13,7 +13,7 @@
       "identifier":"web-dap-fa",
       "parent" : "web"
 }
-}،
+},
   "lastmod" : "2021-08-20"
 }
 

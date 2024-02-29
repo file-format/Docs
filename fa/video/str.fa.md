@@ -2,7 +2,7 @@
   "date" : "2023-02-21",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل STR - فرمت فایل ضبط جریان زنده YouTube",
@@ -13,7 +13,7 @@
       "identifier":"video-str-fa",
       "parent" : "video"
 }
-}،
+},
   "lastmod" : "2023-02-21"
 }
 

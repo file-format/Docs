@@ -7,10 +7,10 @@
 "فرمت فایل",
 "فایل پروژه VB",
 "راهنمای برنامه نویسی"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "VBPROJ",
@@ -21,7 +21,7 @@
       "parent": "programming",
       "identifier": "programming-vbpro-faj"
 }
-}،
+},
   "lastmod": "2020-09-10"
 }
 

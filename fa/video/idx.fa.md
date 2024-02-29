@@ -2,7 +2,7 @@
   "date": "2022-07-12",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "IDX - کدک ویدیویی با کارایی بالا",
@@ -13,7 +13,7 @@
       "parent": "video",
       "identifier": "video-id-fax"
 }
-}،
+},
   "lastmod": "2022-07-12"
 }
 

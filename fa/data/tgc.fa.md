@@ -9,10 +9,10 @@
 "پسوند فایل tgc",
 "افزونه",
 "فایل"
-]،
+],
    "author":{
       "display_name":"Shakeel Faiz"
-}،
+},
    "draft":"false",
    "toc":true,
    "title":"فایل TGC - Terragen Node Clip - فایل .tgc چیست و چگونه آن را باز کنیم؟",
@@ -23,7 +23,7 @@
          "identifier":"data-tgc-fa",
          "parent":"data"
 }
-}،
+},
    "lastmod":"2023-11-09"
 }
 

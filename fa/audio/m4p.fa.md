@@ -11,10 +11,10 @@
 "فرمت فایل m4p",
 "M4b در مقابل MP3",
 "مشخصات فرمت فایل m4p"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل M4P و APIهایی که می‌توانند فایل‌های M4P را ایجاد، تبدیل و باز کنند، بیاموزید.",
@@ -25,7 +25,7 @@
       "parent": "audio",
       "identifier": "audio-m4-fap"
 }
-}،
+},
   "lastmod": "2021-06-09"
 }
 

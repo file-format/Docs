@@ -9,10 +9,10 @@
 "پسوند فایل ppsm",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "PPSM - فایل ارائه پاورپوینت با قابلیت ماکرو",
@@ -23,7 +23,7 @@
       "parent": "presentation",
       "identifier": "presentation-pps-fam"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

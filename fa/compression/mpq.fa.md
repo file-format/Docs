@@ -8,10 +8,10 @@
 "افزونه",
 "فشرده شده است",
 "بلیزارد سرگرمی"
-]،
+],
   "author": {
     "display_name": "Sami Cheema"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل MPQ",
@@ -22,7 +22,7 @@
       "parent": "compression",
       "identifier": "compression-mp-faq"
 }
-}،
+},
   "lastmod": "2021-05-28"
 }
 

@@ -2,7 +2,7 @@
   "date" : "2022-12-27",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل CIT - فرمت فایل پروژه گزارش استناد",
@@ -13,7 +13,7 @@
       "identifier" : "compression-cit-fa",
       "parent" : "compression"
 }
-}،
+},
   "lastmod" : "2022-12-27"
 }
 

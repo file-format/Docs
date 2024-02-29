@@ -9,10 +9,10 @@
 "پسوند فایل نقشه اسکریپت پورتال پاداش",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "در مورد فرمت فایل BNS اسکریپت نقشه پاداش ortal و APIهایی که می‌توانند فایل‌های BNS را ایجاد و باز کنند، بیاموزید.",
@@ -23,7 +23,7 @@
       "parent": "game",
       "identifier": "game-bn-fas"
 }
-}،
+},
   "lastmod": "2021-10-20"
 }
 

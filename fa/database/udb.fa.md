@@ -8,10 +8,10 @@
 "فایل",
 "پسوند فایل udb",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل UDB - فایل پایگاه داده کاربر Microsoft Dynamics AX",
@@ -22,7 +22,7 @@
       "identifier": "database-udb-fa",
       "parent": "database"
 }
-}،
+},
   "lastmod": "2023-09-05"
 }
 

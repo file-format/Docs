@@ -7,10 +7,10 @@
 "فرمت فایل",
 "شبکه فلاسک داده",
 "صفحه گسترده"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "راهنمای فرمت فایل شما برای دانستن اینکه فایل DFG و APIهایی که می توانند فایل های DFG را ایجاد و باز کنند چیست.",
@@ -21,7 +21,7 @@
       "parent": "spreadsheet",
       "identifier": "spreadsheet-df-fag"
 }
-}،
+},
   "lastmod": "2021-07-04"
 }
 

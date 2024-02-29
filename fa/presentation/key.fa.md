@@ -2,7 +2,7 @@
   "date" : "2021-07-19",
   "author" : {
     "display_name" : "Sami Cheema"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "description":"درباره فرمت فایل KEY و APIهایی که می‌توانند فایل‌های KEY را ایجاد و باز کنند، بیاموزید.",
@@ -13,7 +13,7 @@
       "identifier":"presentation-key-fa",
       "parent" : "presentation"
 }
-}،
+},
   "lastmod" : "2021-07-19"
 }
 

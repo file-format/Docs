@@ -3,7 +3,7 @@
   "keywords" : [ "Audio", "File", "Format", "Open" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "description" : "فایل های صوتی داده های صوتی دیجیتال را در یک سیستم کامپیوتری ذخیره می کنند. باز کردن فرمت های فایل صوتی مانند MP3، WAV، WMV، PCM، AAC، WMA و دیگر انواع فایل های صوتی محبوب را بیاموزید.",
   "categories" : [ "fundamentals" ],  
@@ -12,9 +12,9 @@
   "menu" : {
     "docs" : {
       "parent" : "audio",
-"وزن : 01"
+"weight" : "01"
 }
-}،
+},
   "lastmod" : "2020-01-28"
 }
 

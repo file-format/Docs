@@ -9,10 +9,10 @@
 "پسوند فایل BIN",
 "افزونه",
 "فایل"
-]،
+],
    "author":{
       "display_name":"Shakeel Faiz"
-}،
+},
    "draft":"false",
    "toc":true,
    "title":"فرمت فایل BIN - فایل خط مشی فناوری اطلاعات بلک بری",
@@ -23,7 +23,7 @@
          "identifier":"settings-bin-fa",
          "parent":"settings"
 }
-}،
+},
    "lastmod":"2023-07-20"
 }
 

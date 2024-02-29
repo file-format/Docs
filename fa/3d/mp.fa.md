@@ -2,7 +2,7 @@
   "date" : "2022-02-27",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "description":"درباره فرمت فایل MP و APIهایی که می‌توانند فایل‌های MP را باز کرده و ایجاد کنند، بیاموزید.",
@@ -13,7 +13,7 @@
       "identifier":"3d-mp-fa",
       "parent" : "3d"
 }
-}،
+},
   "lastmod" : "2022-02-27"
 }
 

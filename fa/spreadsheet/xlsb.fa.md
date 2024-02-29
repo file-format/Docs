@@ -6,10 +6,10 @@
 "افزونه",
 "فرمت فایل",
 "فایل باینری صفحه گسترده اکسل"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "راهنمای فرمت فایل شما برای اینکه بدانید فایل XLSB چیست و APIهایی که می توانند آنها را ایجاد و باز کنند.",
@@ -20,7 +20,7 @@
       "parent": "spreadsheet",
       "identifier": "spreadsheet-xls-fab"
 }
-}،
+},
   "lastmod": "2019-12-10"
 }
 

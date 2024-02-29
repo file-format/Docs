@@ -9,10 +9,10 @@
 "پسوند فایل rtf",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "RTF - قالب متن غنی",
@@ -23,7 +23,7 @@
       "parent": "word-processing",
       "identifier": "word-processing-rt-faf"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

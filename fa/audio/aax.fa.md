@@ -10,10 +10,10 @@
 "فرمت فایل AAX",
 "فایل aax چیست",
 "مشخصات فرمت فایل AAX"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل AAX و API هایی که می توانند فایل های AAX ایجاد و باز کنند، بیاموزید.",
@@ -24,7 +24,7 @@
       "parent": "audio",
       "identifier": "audio-aa-fax"
 }
-}،
+},
   "lastmod": "2021-06-08"
 }
 

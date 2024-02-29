@@ -9,10 +9,10 @@
 "ویدیوی TrueMotion",
 "WebRTC",
 "WebM"
-]،
+],
   "author": {
     "display_name": "Sami Cheema"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "VP8 - فایل ویدئویی TrueMotion",
@@ -23,7 +23,7 @@
       "parent": "video",
       "identifier": "video-vp-fa8"
 }
-}،
+},
   "lastmod": "2021-03-27"
 }
 

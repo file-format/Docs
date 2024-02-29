@@ -2,7 +2,7 @@
   "date" : "2022-06-11",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "description":"درباره قالب فایل SID و APIهایی که می توانند فایل های SID را ایجاد و باز کنند، بیاموزید.",
@@ -13,7 +13,7 @@
       "identifier":"game-sid-fa",
       "parent" : "game"
 }
-}،
+},
   "lastmod" : "2022-06-11"
 }
 

@@ -2,7 +2,7 @@
   "date" : "2019-10-11",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "categories" : [ "fundamentals" ],
   "description" : "فایل‌های یادداشت حاوی فرم‌های رایگان داده‌های کاربر مانند عکس‌ها، فایل‌های آپلود شده، نقاشی‌ها و یادداشت‌ها هستند. فرمت های رایج فایل یادداشت برداری شامل ONE و ONETOC2 مایکروسافت OneNote است.",
@@ -11,9 +11,9 @@
   "menu" : {
     "docs" : {
       "parent" : "note-taking",
-"وزن : 01"
+"weight" : "01"
 }
-}،
+},
   "lastmod" : "2020-09-01"
 }
 

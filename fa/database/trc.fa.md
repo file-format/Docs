@@ -9,10 +9,10 @@
 "پسوند فایل trc",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره قالب فایل TRC و APIهایی که می‌توانند فایل‌های TRC را ایجاد و باز کنند، بیاموزید.",
@@ -23,7 +23,7 @@
       "parent": "database",
       "identifier": "database-tr-fac"
 }
-}،
+},
   "lastmod": "2021-08-24"
 }
 

@@ -2,7 +2,7 @@
   "date" : "2023-01-08",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "ETX - فرمت فایل رمزگذاری فونت TeX",
@@ -13,7 +13,7 @@
       "identifier":"font-etx-fa",
       "parent" : "font"
 }
-}،
+},
   "lastmod" : "2023-01-08"
 }
 

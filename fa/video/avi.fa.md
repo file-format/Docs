@@ -12,10 +12,10 @@
 "کدک ها",
 "فرمت فایل تبادل منابع",
 "RIFF"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل AVI - یک فایل صوتی تصویری Interleave",
@@ -26,7 +26,7 @@
       "parent": "video",
       "identifier": "video-av-fai"
 }
-}،
+},
   "lastmod": "2021-04-23"
 }
 

@@ -3,7 +3,7 @@
   "keywords" : [ "pss file", "pss file format", "what is a pss file", "file", "pss example", "pss file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "description":"با فرمت فایل PSS و APIهایی که می توانند فایل های PSS را ایجاد و باز کنند آشنا شوید.",
@@ -14,7 +14,7 @@
       "identifier":"game-pss-fa",
       "parent" : "game"
 }
-}،
+},
   "lastmod" : "2021-09-08"
 }
 

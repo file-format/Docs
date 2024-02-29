@@ -2,7 +2,7 @@
   "date": "2022-04-11",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل RST- فایل متنی بازسازی شده",
@@ -13,7 +13,7 @@
       "parent": "programming",
       "identifier": "programming-rs-fat"
 }
-}،
+},
   "lastmod": "2022-04-11"
 }
 

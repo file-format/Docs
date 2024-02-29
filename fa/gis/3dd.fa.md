@@ -2,7 +2,7 @@
   "date": "2021-09-19",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "3DD - سند ArcGlobe",
@@ -13,7 +13,7 @@
       "parent": "gis",
       "identifier": "gis-3d-fad"
 }
-}،
+},
   "lastmod": "2021-09-19"
 }
 

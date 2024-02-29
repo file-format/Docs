@@ -2,7 +2,7 @@
   "date" : "2023-02-16",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل RMT - فرمت فایل سیستم عامل روتر",
@@ -13,7 +13,7 @@
       "identifier":"system-rmt-fa",
       "parent" : "system"
 }
-}،
+},
   "lastmod" : "2023-02-16"
 }
 

@@ -3,7 +3,7 @@
   "keywords" : ["ac file", "what is an aci file", "file", "how to open ac file", "ac file extension","extension"],
   "author" : {
     "display_name" : "Shakeel Faiz"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "description" : "درباره فرمت فایل AC و APIهایی که می‌توانند فایل‌های ACCDB را ایجاد و باز کنند، بیاموزید.",
@@ -14,7 +14,7 @@
       "identifier":"executable-ac-fa",
       "parent" : "executable"
 }
-}،
+},
   "lastmod" : "2020-01-11"
 }
 

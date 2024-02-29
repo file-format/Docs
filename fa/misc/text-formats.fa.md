@@ -4,10 +4,10 @@
 "فرمت های متنی",
 "فهرست فرمت های متن رایج",
 "انواع قالب های متنی"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "قالب‌های متن، انواع و پرسش‌های متداول",
@@ -18,7 +18,7 @@
       "identifier": "misc-text-formats-fa",
       "parent": "misc"
 }
-}،
+},
   "lastmod": "2023-07-06"
 }
 

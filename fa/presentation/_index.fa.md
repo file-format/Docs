@@ -3,7 +3,7 @@
   "keywords" : [ "PowerPoint", "file", "extension", "format", "presentation", "slideshow" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "description" : "فایل های ارائه حاوی اسلایدهایی هستند که شامل داده هایی مانند متن، تصاویر، اشکال، انیمیشن ها، ویدئو و صدا می باشد. آموزش باز کردن فرمت های فایل ارائه شامل PPTX، PPT، PPTM و چندین فرمت دیگر.",
   "categories" : [ "fundamentals" ],
@@ -12,9 +12,9 @@
   "menu" : {
     "docs" : {
       "parent" : "presentation",
-"وزن : 01"
+"weight" : "01"
 }
-}،
+},
   "lastmod" : "2019-09-10"
 }
 

@@ -2,7 +2,7 @@
   "date" : "2023-01-26",
   "author" : {
     "display_name" : "Shakeel Faiz"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "description" : "با فرمت فایل TIB و APIهایی که می توانند فایل های TIB را ایجاد و باز کنند آشنا شوید.",
@@ -13,7 +13,7 @@
       "identifier":"disc-and-media-tib-fa",
       "parent" : "disc-and-media"
 }
-}،
+},
   "lastmod" : "2023-01-26"
 }
 

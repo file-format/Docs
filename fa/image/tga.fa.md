@@ -9,10 +9,10 @@
 "پسوند فایل tga",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل TGA - یک فایل تصویری گرافیکی TARGA",
@@ -23,7 +23,7 @@
       "parent": "image",
       "identifier": "image-tg-faa"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

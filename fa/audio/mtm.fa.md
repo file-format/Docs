@@ -7,10 +7,10 @@
 "نحوه باز کردن فایل mtm",
 "پسوند فایل mtm",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل MTM - ماژول MultiTracker",
@@ -21,7 +21,7 @@
       "identifier": "audio-mtm-fa",
       "parent": "audio"
 }
-}،
+},
   "lastmod": "2023-02-15"
 }
 

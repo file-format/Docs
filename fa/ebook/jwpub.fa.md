@@ -7,10 +7,10 @@
 "نحوه باز کردن فایل jwpub",
 "پسوند فایل jwpub",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل JWPUB - انتشارات شاهدان یهوه",
@@ -21,7 +21,7 @@
       "identifier": "ebook-jwpub-fa",
       "parent": "ebook"
 }
-}،
+},
   "lastmod": "2023-03-02"
 }
 

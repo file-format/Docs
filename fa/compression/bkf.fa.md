@@ -8,10 +8,10 @@
 "فرمت فایل",
 "WindowsXP",
 "موتور مسابقه"
-]،
+],
   "author": {
     "display_name": "Sami Cheema"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل BKF",
@@ -22,7 +22,7 @@
       "parent": "compression",
       "identifier": "compression-bk-faf"
 }
-}،
+},
   "lastmod": "2021-04-30"
 }
 

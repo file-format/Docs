@@ -9,10 +9,10 @@
 "فایل",
 "پسوند فایل cbz",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فایل CBZ - ChessBase Database Archive - فایل cbz. چیست و چگونه آن را باز کنم؟",
@@ -23,7 +23,7 @@
       "identifier": "data-cbz-chessbase-fa",
       "parent": "data"
 }
-}،
+},
   "lastmod": "2023-10-04"
 }
 

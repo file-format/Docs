@@ -2,7 +2,7 @@
   "date" : "2022-09-19",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل 3DL - فرمت فایل iGO Landmark",
@@ -13,7 +13,7 @@
       "parent" : "gis",
       "identifier":"gis-3d-fal"
 }
-}،
+},
   "lastmod" : "2021-09-19"
 }
 

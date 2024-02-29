@@ -7,10 +7,10 @@
 "فرمت فایل",
 "C++",
 "زبان برنامه نویسی"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "CPP - فایل کد منبع C++",
@@ -21,7 +21,7 @@
       "parent": "programming",
       "identifier": "programming-cp-fap"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

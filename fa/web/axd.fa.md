@@ -2,7 +2,7 @@
   "date": "2023-05-23",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فایل AXD - فرمت فایل ASP.NET Handler Web",
@@ -13,7 +13,7 @@
       "parent": "web",
       "identifier": "web-ax-fad"
 }
-}،
+},
   "lastmod": "2023-05-23"
 }
 

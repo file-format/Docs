@@ -9,10 +9,10 @@
 "فایل",
 "پسوند فایل cba",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل CBA - آرشیو کتاب کمیک",
@@ -23,7 +23,7 @@
       "identifier": "compression-cba-fa",
       "parent": "compression"
 }
-}،
+},
   "lastmod": "2023-05-24"
 }
 

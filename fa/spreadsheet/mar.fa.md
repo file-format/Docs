@@ -3,7 +3,7 @@
   "keywords" : [ "MAR", "file", "extension", "file format", "Mariner Calc Spreadsheet File", "Spreadsheet" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "description":"درباره فرمت فایل MAR و APIهایی که می‌توانند فایل‌های MAR را ایجاد و باز کنند، بیاموزید.",
@@ -14,7 +14,7 @@
     "identifier": "spreadsheet-mar-fa",
       "parent" : "spreadsheet"
 }
-}،
+},
   "lastmod" : "2021-07-05"
 }
 

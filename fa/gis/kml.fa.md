@@ -8,10 +8,10 @@
 "پسوند فایل kml",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "KML - زبان نشانه گذاری سوراخ کلید",
@@ -22,7 +22,7 @@
       "parent": "gis",
       "identifier": "gis-km-fal"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

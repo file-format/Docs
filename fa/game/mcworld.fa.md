@@ -9,10 +9,10 @@
 "پسوند فایل mcworld",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل MCWORLD و APIهایی که می‌توانند فایل‌های MCWORLD را ایجاد و باز کنند، بیاموزید.",
@@ -23,7 +23,7 @@
       "parent": "game",
       "identifier": "game-mcworl-fad"
 }
-}،
+},
   "lastmod": "2021-09-07"
 }
 

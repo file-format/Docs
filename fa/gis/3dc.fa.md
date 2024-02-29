@@ -2,7 +2,7 @@
   "date" : "2023-01-24",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل 3DC - فایل iGO 3D Building",
@@ -13,7 +13,7 @@
       "identifier": "gis-3dc-fa",
       "parent" : "gis"
 }
-}،
+},
   "lastmod" : "2023-01-24"
 }
 

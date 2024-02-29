@@ -2,7 +2,7 @@
   "date": "2023-06-14",
   "author": {
     "display_name": "Sami Cheema"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل 4DL و API هایی که می توانند فایل های 4DL ایجاد و باز کنند، بیاموزید.",
@@ -13,7 +13,7 @@
       "parent": "database",
       "identifier": "database-4d-fal"
 }
-}،
+},
   "lastmod": "2023-06-14"
 }
 

@@ -7,10 +7,10 @@
 "نمونه فایل bat",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل BAT و APIهایی که می‌توانند فایل‌های BAT را ایجاد و باز کنند، بیاموزید.",
@@ -21,7 +21,7 @@
       "parent": "executable",
       "identifier": "executable-ba-fat"
 }
-}،
+},
   "lastmod": "2021-06-24"
 }
 

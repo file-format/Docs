@@ -13,10 +13,10 @@
 "پردازش ویژگی های زبان",
 "برنامه ریزی در پردازش",
 "زبان پردازش"
-]،
+],
   "author": {
     "display_name": "Sami Cheema"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "PDE - پردازش فایل محیطی توسعه",
@@ -27,7 +27,7 @@
       "parent": "programming",
       "identifier": "programming-pd-fae"
 }
-}،
+},
   "lastmod": "2021-09-07"
 }
 

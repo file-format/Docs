@@ -8,10 +8,10 @@
 "کتاب الکترونیکی",
 "کتاب الکترونیکی چینی",
 "Apabi Reader 4.5"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل CEB و APIهایی که می‌توانند فایل‌های CEB را ایجاد و باز کنند، بیاموزید.",
@@ -22,7 +22,7 @@
       "parent": "ebook",
       "identifier": "ebook-ce-fab"
 }
-}،
+},
   "lastmod": "2021-03-15"
 }
 

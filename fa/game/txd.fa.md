@@ -7,10 +7,10 @@
 "فایل",
 "پسوند فایل txd",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل TXD - دیکشنری بافت بازی",
@@ -21,7 +21,7 @@
       "identifier": "game-txd-fa",
       "parent": "game"
 }
-}،
+},
   "lastmod": "2023-05-03"
 }
 

@@ -8,10 +8,10 @@
 "پسوند فایل PAR",
 "افزونه",
 "فایل"
-]،
+],
    "author":{
       "display_name":"Shakeel Faiz"
-}،
+},
    "draft":"false",
    "toc":true,
    "title":"فرمت فایل PAR - فایل قسمت جامد",
@@ -22,7 +22,7 @@
          "identifier":"cad-par-fa",
          "parent":"cad"
 }
-}،
+},
    "lastmod":"2023-07-18"
 }
 

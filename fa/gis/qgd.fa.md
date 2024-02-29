@@ -11,7 +11,7 @@
 "پایگاه داده کمکی",
 "فایل QGD چیست؟"
 ]
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "QGD - پایگاه داده Sqlite پروژه QGIS",
@@ -22,7 +22,7 @@
       "parent": "gis",
       "identifier": "gis-qg-fad"
 }
-}،
+},
   "lastmod": "2021-03-18"
 }
 

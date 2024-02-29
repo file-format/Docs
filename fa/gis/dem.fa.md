@@ -2,7 +2,7 @@
   "date": "2021-08-24",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "DEM - فایل مدل دیجیتال ارتفاع",
@@ -13,7 +13,7 @@
       "parent": "gis",
       "identifier": "gis-de-fam"
 }
-}،
+},
   "lastmod": "2021-08-24"
 }
 

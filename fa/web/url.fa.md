@@ -2,7 +2,7 @@
   "date": "2019-10-11",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "URL - فایل میانبر اینترنت",
@@ -13,7 +13,7 @@
       "parent": "web",
       "identifier": "web-ur-fal"
 }
-}،
+},
   "lastmod": "2021-08-05"
 }
 

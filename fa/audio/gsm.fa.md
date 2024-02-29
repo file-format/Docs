@@ -9,10 +9,10 @@
 "سیستم جهانی برای صدای موبایل",
 "پسوند gsm",
 "فایل های gsm"
-]،
+],
   "author": {
     "display_name": "Sami Cheema"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل GSM و APIهایی که می‌توانند فایل‌های GSM را ایجاد و باز کنند، بیاموزید.",
@@ -23,7 +23,7 @@
       "parent": "audio",
       "identifier": "audio-gs-fam"
 }
-}،
+},
   "lastmod": "2021-08-05"
 }
 

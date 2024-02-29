@@ -10,10 +10,10 @@
 "کوبر",
 "کوب خوان ها",
 "فرمت کتاب الکترونیکی Koob"
-]،
+],
   "author": {
     "display_name": "Sami Cheema"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل KOOB و API هایی که می توانند فایل های KOOB را ایجاد و باز کنند، بیاموزید.",
@@ -24,7 +24,7 @@
       "parent": "ebook",
       "identifier": "ebook-koo-fab"
 }
-}،
+},
   "lastmod": "2021-04-03"
 }
 

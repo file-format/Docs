@@ -3,7 +3,7 @@
   "keywords" : [ "clip file", "clip file format", "what is a clip file", "file", "clip example", "clip file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل CLIP - فایل فرمت کلیپ استودیو",
@@ -14,7 +14,7 @@
       "identifier" : "image-clip-fa",
       "parent" : "image"
 }
-}،
+},
   "lastmod" : "2022-02-08"
 }
 

@@ -2,7 +2,7 @@
   "date": "2022-05-25",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "با فرمت فایل FMPSL و API هایی که می توانند فایل های FMPSL را ایجاد و باز کنند آشنا شوید.",
@@ -13,7 +13,7 @@
       "parent": "database",
       "identifier": "database-fmps-fal"
 }
-}،
+},
   "lastmod": "2022-05-25"
 }
 

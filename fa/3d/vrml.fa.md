@@ -9,10 +9,10 @@
 "پسوند فایل vrml",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل VRML",
@@ -23,7 +23,7 @@
       "parent": "3d",
       "identifier": "3d-vrm-fal"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

@@ -3,7 +3,7 @@
   "keywords" : [ "CAD", "file", "format", "Computer Aided Design", "DXF", "DWG" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "description" : "فرمت‌های فایل CAD نمایش دیجیتالی فایل‌های طراحی به کمک کامپیوتر هستند. برای این منظور از فرمت های مختلفی مانند DXF، DWG، IFC، STL، PLT و غیره استفاده می شود.",
   "categories" : [ "fundamentals" ],
@@ -12,9 +12,9 @@
   "menu" : {
     "docs" : {
       "parent" : "cad",
-"وزن : 01"
+"weight" : "01"
 }
-}،
+},
   "lastmod" : "2019-09-10"
 }
 

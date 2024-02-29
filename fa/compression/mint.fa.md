@@ -2,7 +2,7 @@
   "date" : "2022-06-19",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فرمت فایل MINT - فایل نصب کننده لینوکس Mint",
@@ -13,7 +13,7 @@
       "identifier": "compression-mint-fa",
       "parent" : "compression"
 }
-}،
+},
   "lastmod" : "2022-06-19"
 }
 

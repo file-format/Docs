@@ -2,7 +2,7 @@
   "date" : "2024-01-25",
   "author" : {
     "display_name" : "Shakeel Faiz"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل FIG - فایل طراحی Figma - فایل .fig چیست و چگونه آن را باز کنیم؟",
@@ -13,7 +13,7 @@
       "identifier" : "misc-en-fig-fa",
       "parent" : "misc"
 }
-}،
+},
   "lastmod" : "2024-01-25"
 }
 

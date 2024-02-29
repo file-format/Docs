@@ -2,7 +2,7 @@
   "date": "2022-05-11",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل ITW و APIهایی که می‌توانند فایل‌های ITW را ایجاد و باز کنند، بیاموزید.",
@@ -13,7 +13,7 @@
       "parent": "database",
       "identifier": "database-it-faw"
 }
-}،
+},
   "lastmod": "2022-05-12"
 }
 

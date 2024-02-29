@@ -8,10 +8,10 @@
 "فایل",
 "پسوند فایل pan",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل PAN - فایل پایگاه داده پانوراما",
@@ -22,7 +22,7 @@
       "identifier": "database-pan-fa",
       "parent": "database"
 }
-}،
+},
   "lastmod": "2023-05-18"
 }
 

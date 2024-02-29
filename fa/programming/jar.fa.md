@@ -10,10 +10,10 @@
 "فایل jar",
 "فرمت فایل jar",
 "پسوند .jar"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "JAR - فرمت فایل بایگانی جاوا",
@@ -24,7 +24,7 @@
       "parent": "programming",
       "identifier": "programming-ja-far"
 }
-}،
+},
   "lastmod": "2020-09-10"
 }
 

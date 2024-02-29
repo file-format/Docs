@@ -2,7 +2,7 @@
   "date": "2021-08-13",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "3DM",
@@ -13,7 +13,7 @@
       "parent": "3d",
       "identifier": "3d-3D-faM"
 }
-}،
+},
   "lastmod": "2021-08-13"
 }
 

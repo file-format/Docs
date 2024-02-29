@@ -8,10 +8,10 @@
 "فایل",
 "پسوند فایل mpeg",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل MPEG - ویدئو MPEG",
@@ -22,7 +22,7 @@
       "identifier": "video-mpeg-fa",
       "parent": "video"
 }
-}،
+},
   "lastmod": "2023-07-12"
 }
 

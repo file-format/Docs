@@ -2,7 +2,7 @@
   "date": "2022-01-25",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فایل DAV - فیلم دوربین مدار بسته DVR",
@@ -15,7 +15,7 @@
 "پسوند فایل dav",
 "افزونه",
 "قالب"
-]،
+],
   "description": "درباره فرمت فایل DAV و APIهایی که می‌توانند فایل‌های DAV را ایجاد و باز کنند، بیاموزید.",
   "linktitle": "DAV",
   "menu": {
@@ -23,7 +23,7 @@
       "parent": "video",
       "identifier": "video-da-fav"
 }
-}،
+},
   "lastmod": "2022-01-25"
 }
 

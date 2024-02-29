@@ -9,10 +9,10 @@
 "پسوند فایل chr",
 "افزونه",
 "فایل"
-]،
+],
    "author":{
       "display_name":"Shakeel Faiz"
-}،
+},
    "draft":"false",
    "toc":true,
    "title":"فرمت فایل CHR - باشگاه ادبیات Doki Doki! فایل کاراکتر",
@@ -23,7 +23,7 @@
          "identifier":"game-chr-doki-fa",
          "parent":"game"
 }
-}،
+},
    "lastmod":"2023-10-11"
 }
 

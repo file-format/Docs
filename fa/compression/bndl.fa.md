@@ -2,7 +2,7 @@
   "date": "2022-06-28",
   "author": {
     "display_name": "Sami Cheema"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل BNDL - فایل بسته داده های بازی",
@@ -13,7 +13,7 @@
       "parent": "compression",
       "identifier": "compression-bnd-fal"
 }
-}،
+},
   "lastmod": "2022-06-28"
 }
 

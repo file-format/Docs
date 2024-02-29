@@ -7,10 +7,10 @@
 "فرمت فایل",
 "برتری داشتن",
 "صفحه گسترده"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل OTS و APIهایی که می توانند فایل های OTS را ایجاد و باز کنند، بیاموزید.",
@@ -21,7 +21,7 @@
       "parent": "spreadsheet",
       "identifier": "spreadsheet-ot-fas"
 }
-}،
+},
   "lastmod": "2021-01-19"
 }
 

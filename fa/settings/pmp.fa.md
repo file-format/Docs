@@ -7,10 +7,10 @@
 "فایل",
 "پسوند فایل pmp",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل PMP - فایل پارامتر مدل پلات اتوکد",
@@ -21,7 +21,7 @@
       "identifier": "settings-pmp-fa",
       "parent": "settings"
 }
-}،
+},
   "lastmod": "2023-03-28"
 }
 

@@ -7,10 +7,10 @@
 "نوع فایل",
 "افزونه",
 "فایل 3DS چیست؟"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل 3DS و API هایی که می توانند فایل های 3DS را باز کرده و ایجاد کنند، بیاموزید.",
@@ -21,7 +21,7 @@
       "parent": "3d",
       "identifier": "3d-3ds"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

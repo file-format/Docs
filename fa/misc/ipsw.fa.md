@@ -6,10 +6,10 @@
 "آیا می توان iOS را با استفاده از فایل IPSW دانگرید کرد؟",
 "فایل",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل IPSW - فایل به روز رسانی نرم افزار آیفون",
@@ -20,7 +20,7 @@
       "identifier": "misc-ipsw-fa",
       "parent": "misc"
 }
-}،
+},
   "lastmod": "2023-04-17"
 }
 

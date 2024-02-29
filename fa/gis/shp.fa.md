@@ -9,10 +9,10 @@
 "پسوند فایل shp",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "SHP - ESRI Shapefile",
@@ -23,7 +23,7 @@
       "parent": "gis",
       "identifier": "gis-sh-fap"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

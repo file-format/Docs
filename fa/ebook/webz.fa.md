@@ -6,10 +6,10 @@
 "افزونه",
 "فرمت فایل",
 "کتاب الکترونیکی"
-]،
+],
   "author": {
     "display_name": "Sami Cheema"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "با فرمت فایل WEBZ و APIهایی که می توانند فایل های WEBZ را ایجاد و باز کنند آشنا شوید.",
@@ -20,7 +20,7 @@
       "parent": "ebook",
       "identifier": "ebook-web-faz"
 }
-}،
+},
   "lastmod": "2021-03-20"
 }
 

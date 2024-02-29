@@ -5,10 +5,10 @@
 "فرمت فایل pas",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "PAS - فایل منبع واحد دلفی",
@@ -19,7 +19,7 @@
       "parent": "programming",
       "identifier": "programming-pa-fas"
 }
-}،
+},
   "lastmod": "2021-04-22"
 }
 

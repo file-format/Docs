@@ -9,10 +9,10 @@
 "پسوند فایل ppsx",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "PPSX - فایل نمایش اسلاید پاورپوینت",
@@ -23,7 +23,7 @@
       "parent": "presentation",
       "identifier": "presentation-pps-fax"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

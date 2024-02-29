@@ -7,10 +7,10 @@
 "نحوه باز کردن فایل ec3",
 "پسوند فایل ec3",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل EC3 - فایل کدک صوتی پیشرفته 3",
@@ -21,7 +21,7 @@
       "identifier": "audio-ec3-fa",
       "parent": "audio"
 }
-}،
+},
   "lastmod": "2023-02-15"
 }
 

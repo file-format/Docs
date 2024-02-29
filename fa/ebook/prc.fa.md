@@ -7,10 +7,10 @@
 "نحوه باز کردن فایل prc",
 "پسوند فایل prc",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل PRC - فایل کتاب الکترونیکی Mobipocket",
@@ -21,7 +21,7 @@
       "identifier": "ebook-prc-fa",
       "parent": "ebook"
 }
-}،
+},
   "lastmod": "2023-03-02"
 }
 

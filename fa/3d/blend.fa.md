@@ -7,10 +7,10 @@
 "فایل",
 "پسوند فایل ترکیبی",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل BLEND - فایل سه بعدی Blender",
@@ -21,7 +21,7 @@
       "identifier": "3d-blend-fa",
       "parent": "3d"
 }
-}،
+},
   "lastmod": "2023-04-13"
 }
 

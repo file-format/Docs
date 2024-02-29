@@ -10,10 +10,10 @@
 "فایل",
 "پسوند فایل دسکتاپ",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل دسکتاپ - فایل ورودی دسکتاپ",
@@ -24,7 +24,7 @@
       "identifier": "settings-desktop-fa",
       "parent": "settings"
 }
-}،
+},
   "lastmod": "2023-05-31"
 }
 

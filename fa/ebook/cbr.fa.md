@@ -8,10 +8,10 @@
 "کتاب های کمیک",
 "فرمت فایل کتاب های کمیک",
 "کتاب الکترونیکی"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل CBR و APIهایی که می‌توانند فایل‌های CBR را ایجاد و باز کنند، بیاموزید.",
@@ -22,7 +22,7 @@
       "parent": "ebook",
       "identifier": "ebook-cb-far"
 }
-}،
+},
   "lastmod": "2021-03-03"
 }
 

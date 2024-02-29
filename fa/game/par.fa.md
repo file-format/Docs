@@ -7,10 +7,10 @@
 "پسوند فایل PAR",
 "افزونه",
 "فایل"
-]،
+],
    "author":{
       "display_name":"Shakeel Faiz"
-}،
+},
    "draft":"false",
    "toc":true,
    "title":"فرمت فایل PAR - فایل پارامترهای هواپیما FMS",
@@ -21,7 +21,7 @@
          "identifier":"game-par-fa",
          "parent":"game"
 }
-}،
+},
    "lastmod":"2023-07-18"
 }
 

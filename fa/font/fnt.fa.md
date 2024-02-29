@@ -9,10 +9,10 @@
 "پسوند فایل fnt",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "FNT - فایل فونت ویندوز",
@@ -23,7 +23,7 @@
       "parent": "font",
       "identifier": "font-fn-fat"
 }
-}،
+},
   "lastmod": "2020-10-30"
 }
 

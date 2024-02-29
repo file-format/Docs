@@ -8,10 +8,10 @@
 "نوع فایل پایگاه داده",
 "فرمت فایل پایگاه داده",
 "بسته کاربردی ردیف داده"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل DACPAC و APIهایی که می‌توانند فایل‌های DACPAC را ایجاد و باز کنند، بیاموزید.",
@@ -22,7 +22,7 @@
       "parent": "database",
       "identifier": "database-dacpa-fac"
 }
-}،
+},
   "lastmod": "2021-09-06"
 }
 

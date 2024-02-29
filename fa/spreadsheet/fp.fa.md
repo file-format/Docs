@@ -7,10 +7,10 @@
 "فرمت فایل",
 "فایل میکر حرفه ای",
 "صفحه گسترده"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "با فرمت فایل FileMaker Pro FP و APIهایی که می توانند فایل های FP ایجاد و باز کنند آشنا شوید.",
@@ -21,7 +21,7 @@
       "parent": "spreadsheet",
       "identifier": "spreadsheet-f-fap"
 }
-}،
+},
   "lastmod": "2021-11-16"
 }
 

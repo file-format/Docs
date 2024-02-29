@@ -7,10 +7,10 @@
 "فایل",
 "پسوند فایل ovpn",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل OVPN - فایل پیکربندی OpenVPN",
@@ -21,7 +21,7 @@
       "identifier": "settings-ovpn-fa",
       "parent": "settings"
 }
-}،
+},
   "lastmod": "2023-03-21"
 }
 

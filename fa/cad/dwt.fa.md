@@ -6,10 +6,10 @@
 "قالب",
 "الگوی طراحی اتوکد",
 "باز کن"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل DWT و APIهایی که می توانند فایل های DWT را ایجاد و باز کنند، بیاموزید.",
@@ -20,7 +20,7 @@
       "parent": "cad",
       "identifier": "cad-dw-fat"
 }
-}،
+},
   "lastmod": "2020-09-04"
 }
 

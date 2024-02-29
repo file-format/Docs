@@ -8,10 +8,10 @@
 "فایل",
 "نوع",
 "فایل dhtml چیست"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "DHTML - فرمت فایل HTML پویا",
@@ -22,7 +22,7 @@
       "parent": "web",
       "identifier": "web-dhtm-fal"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

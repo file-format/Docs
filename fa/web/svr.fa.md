@@ -2,7 +2,7 @@
   "date" : "2023-01-01",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل SVR - فرمت فایل دنیای مجازی فشرده",
@@ -13,7 +13,7 @@
       "identifier":"web-svr-fa",
       "parent" : "web"
 }
-}،
+},
   "lastmod" : "2023-01-01"
 }
 

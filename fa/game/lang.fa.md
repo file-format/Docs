@@ -7,10 +7,10 @@
 "فایل",
 "پسوند فایل lang",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل LANG - فایل محلی سازی زبان Minecraft",
@@ -21,7 +21,7 @@
       "identifier": "game-lang-fa",
       "parent": "game"
 }
-}،
+},
   "lastmod": "2023-03-15"
 }
 

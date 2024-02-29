@@ -11,10 +11,10 @@
 "فرمت فایل arsc",
 "پسوند فایل arsc",
 "مثال فایل arsc"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "ARSC - فایل جدول منابع بسته Android ",
@@ -25,7 +25,7 @@
       "parent": "programming",
       "identifier": "programming-ars-fac"
 }
-}،
+},
   "lastmod": "2021-06-22"
 }
 

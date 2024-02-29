@@ -7,10 +7,10 @@
 "نوع فایل",
 "افزونه",
 "فایل ASE چیست؟"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "با فرمت فایل ASE و APIهایی که می توانند فایل های ASE را باز و ایجاد کنند آشنا شوید.",
@@ -21,7 +21,7 @@
       "parent": "3d",
       "identifier": "3d-as-fae"
 }
-}،
+},
   "lastmod": "2021-01-22"
 }
 

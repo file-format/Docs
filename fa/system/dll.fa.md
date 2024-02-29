@@ -11,10 +11,10 @@
 "برنامه ها",
 "کامپیوتر",
 "کاربرد"
-]،
+],
   "author": {
     "display_name": "Sami Cheema"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "DLL - کتابخانه پیوند پویا",
@@ -25,7 +25,7 @@
       "parent": "system",
       "identifier": "system-dl-fal"
 }
-}،
+},
   "lastmod": "2021-06-29"
 }
 

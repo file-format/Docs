@@ -2,7 +2,7 @@
   "date" : "2019-10-11",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "categories" : [ "fundamentals" ],
   "description": "فرمت سند قابل حمل (PDF) یک نمایش استاندارد از اسناد مستقل از نرم افزار، سخت افزار و سیستم عامل است. استانداردهای PDF شامل PDF/A، PDF/E، PDF/UA، PDF/VT و PDF/X است.",
@@ -11,9 +11,9 @@
   "menu" : {
     "docs" : {
       "parent" : "pdf",
-"وزن : 01"
+"weight" : "01"
 }
-}،
+},
   "lastmod" : "2019-09-10"
 }
 

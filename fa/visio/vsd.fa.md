@@ -3,7 +3,7 @@
   "keywords" : [ "vsd file", "vsd file format", "what is a vsd file", "file", "vsd example", "vsd file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "VSD - فرمت فایل طراحی Visio",
@@ -14,7 +14,7 @@
 	  "identifier":"visio-vsd-fa",
       "parent" : "visio"
 }
-}،
+},
   "lastmod" : "2019-09-10"
 }
 

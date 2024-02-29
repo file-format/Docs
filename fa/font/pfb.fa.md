@@ -9,10 +9,10 @@
 "پسوند فایل pfb",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "PFB - فرمت فایل باینری فونت چاپگر",
@@ -23,7 +23,7 @@
       "parent": "font",
       "identifier": "font-pf-fab"
 }
-}،
+},
   "lastmod": "2020-09-30"
 }
 

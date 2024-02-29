@@ -2,7 +2,7 @@
   "date": "2022-07-21",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل HDR - فایل تصویری HDR چیست؟",
@@ -13,7 +13,7 @@
       "parent": "image",
       "identifier": "image-hd-far"
 }
-}،
+},
   "lastmod": "2022-07-21"
 }
 

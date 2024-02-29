@@ -2,7 +2,7 @@
   "date": "2022-11-20",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره قالب فایل Age of Empires 3 Map AI Generator و APIهایی که می‌توانند فایل‌های XS را ایجاد و باز کنند، بیاموزید.",
@@ -13,7 +13,7 @@
       "parent": "game",
       "identifier": "game-x-fas"
 }
-}،
+},
   "lastmod": "2022-11-20"
 }
 

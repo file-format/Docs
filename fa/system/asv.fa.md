@@ -8,10 +8,10 @@
 "سیستم",
 "Adobe",
 "فتوشاپ"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فایل ASV - فایل رنگی انتخابی Adobe Photoshop",
@@ -22,7 +22,7 @@
       "parent": "system",
       "identifier": "system-as-fav"
 }
-}،
+},
   "lastmod": "2022-02-12"
 }
 

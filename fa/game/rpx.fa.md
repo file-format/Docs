@@ -2,7 +2,7 @@
   "date": "2021-10-20",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل RPX و APIهایی که می‌توانند فایل‌های RPX را ایجاد و باز کنند، بیاموزید.",
@@ -13,7 +13,7 @@
       "parent": "game",
       "identifier": "game-rp-fax"
 }
-}،
+},
   "lastmod": "2021-10-20"
 }
 

@@ -6,10 +6,10 @@
 "فرمت فایل amf",
 "فرمت فایل",
 "3 بعدی"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل AMF و APIهایی که می‌توانند فایل‌های AMF را باز کرده و ایجاد کنند، بیاموزید.",
@@ -20,7 +20,7 @@
       "parent": "3d",
       "identifier": "3d-am-faf"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

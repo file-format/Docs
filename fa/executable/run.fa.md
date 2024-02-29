@@ -3,7 +3,7 @@
   "keywords" : ["run file", "what is a run file", "file", "how to open run file", "run file extension","extension"],
   "author" : {
     "display_name" : "Shakeel Faiz"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "description" : "با فرمت فایل RUN و APIهایی که می توانند فایل های RUN را ایجاد و باز کنند آشنا شوید.",
@@ -14,7 +14,7 @@
       "identifier":"executable-run-fa",
       "parent" : "executable"
 }
-}،
+},
   "lastmod" : "2023-01-31"
 }
 

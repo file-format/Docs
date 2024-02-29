@@ -7,10 +7,10 @@
 "قالب",
 "کتاب الکترونیکی",
 "NVA Reader"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل NVA و APIهایی که می‌توانند فایل‌های NVA را ایجاد و باز کنند، بیاموزید.",
@@ -21,7 +21,7 @@
       "parent": "ebook",
       "identifier": "ebook-nv-faa"
 }
-}،
+},
   "lastmod": "2021-03-22"
 }
 

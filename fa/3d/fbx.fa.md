@@ -6,10 +6,10 @@
 "افزونه",
 "قالب",
 "فرمت فایل سه بعدی"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "Your file format guide to know what is an FBX file and APIs that can create and open them.",
@@ -20,7 +20,7 @@
       "parent": "3d",
       "identifier": "3d-fbx"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 
@@ -141,7 +141,7 @@ Header توسط یک رکورد شی دنبال می شود که یک رکورد
 |4|UInt32|PropertyListLen
 |1|UInt8|NameLen
 |NameLength|char|نام
-|?|?|ویژگی[n]، جایی که n = 0:PropertyListLen
+|?|?|ویژگی[n], جایی که n = 0:PropertyListLen
 |اختیاری| |
 |?|?|NestedList
 |13|uint8[]|ثبت صفر

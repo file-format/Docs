@@ -7,10 +7,10 @@
 "نحوه باز کردن فایل cpa",
 "پسوند فایل cpa",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل CPA - فایل بایگانی PCB CADSTAR",
@@ -21,7 +21,7 @@
       "identifier": "cad-cpa-fa",
       "parent": "cad"
 }
-}،
+},
   "lastmod": "2023-02-22"
 }
 

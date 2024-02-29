@@ -2,7 +2,7 @@
   "date" : "2022-11-29",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل WLX- فرمت فایل پیوند وب MapSource",
@@ -13,7 +13,7 @@
       "identifier":"gis-wlx-fa",
       "parent" : "gis"
 }
-}،
+},
   "lastmod" : "2022-11-29"
 }
 

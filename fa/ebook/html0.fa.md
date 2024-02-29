@@ -8,10 +8,10 @@
 "فرمت فایل",
 "کتاب الکترونیکی",
 "طراح کتاب"
-]،
+],
   "author": {
     "display_name": "Sami Cheema"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل HTML0 و APIهایی که می‌توانند فایل‌های HTML0 را ایجاد و باز کنند، بیاموزید.",
@@ -22,7 +22,7 @@
       "parent": "ebook",
       "identifier": "ebook-html-fa0"
 }
-}،
+},
   "lastmod": "2021-03-27"
 }
 

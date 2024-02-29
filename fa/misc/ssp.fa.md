@@ -2,7 +2,7 @@
   "date" : "2022-01-12",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فرمت فایل SSP - فایل پروژه تولید کننده محافظ صفحه",
@@ -13,7 +13,7 @@
       "identifier":"misc-ssp-fa",
       "parent" : "misc"
 }
-}،
+},
   "lastmod" : "2022-01-12"
 }
 

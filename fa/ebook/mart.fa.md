@@ -8,10 +8,10 @@
 "کتاب الکترونیکی",
 "نشر الکترونیکی",
 "خواننده مارتیو"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره قالب فایل MartView eBook File (MartView eBook File) و APIهایی که می توانند فایل های MART را ایجاد و باز کنند، بیاموزید.",
@@ -22,7 +22,7 @@
       "parent": "ebook",
       "identifier": "ebook-mar-fat"
 }
-}،
+},
   "lastmod": "2021-03-22"
 }
 

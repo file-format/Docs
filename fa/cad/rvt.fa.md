@@ -4,10 +4,10 @@
 "فایل RVT",
 "قالب",
 "CAD"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل RVT و APIهایی که می توانند فایل های RVT را ایجاد و باز کنند، بیاموزید.",
@@ -18,7 +18,7 @@
       "parent": "cad",
       "identifier": "cad-rv-fat"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

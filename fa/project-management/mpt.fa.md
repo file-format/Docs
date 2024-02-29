@@ -9,10 +9,10 @@
 "پسوند فایل mpt",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "MPT - فرمت فایل قالب پروژه مایکروسافت",
@@ -23,7 +23,7 @@
       "parent": "project-management",
       "identifier": "project-management-mp-fat"
 }
-}،
+},
   "lastmod": "2021-05-07"
 }
 

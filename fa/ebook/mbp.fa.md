@@ -8,10 +8,10 @@
 "کتاب الکترونیکی",
 "خواننده MBP",
 "جیب موبایل"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل Mobipocket Notes (MBP) و APIهایی که می‌توانند فایل‌های MBP را ایجاد و باز کنند، بیاموزید.",
@@ -22,7 +22,7 @@
       "parent": "ebook",
       "identifier": "ebook-mb-fap"
 }
-}،
+},
   "lastmod": "2021-03-22"
 }
 

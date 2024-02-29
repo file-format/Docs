@@ -7,10 +7,10 @@
 "فرمت فایل",
 "قالب TimeMap",
 "LexisNexis"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل TMVT و APIهایی که می توانند فایل های TMVT را ایجاد و باز کنند، بیاموزید.",
@@ -21,7 +21,7 @@
       "parent": "spreadsheet",
       "identifier": "spreadsheet-tmv-fat"
 }
-}،
+},
   "lastmod": "2021-11-26"
 }
 

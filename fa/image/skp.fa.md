@@ -9,10 +9,10 @@
 "پسوند فایل skp",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل SKP - فایل سند SketchUp",
@@ -23,7 +23,7 @@
       "parent": "image",
       "identifier": "image-sk-fap"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

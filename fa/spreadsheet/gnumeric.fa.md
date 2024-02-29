@@ -7,10 +7,10 @@
 "فرمت فایل",
 "عددی",
 "صفحه گسترده"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "فایل GNUMERIC و APIهایی که می توانند فایل های .gnumeric را ایجاد و باز کنند چیست؟",
@@ -21,7 +21,7 @@
       "parent": "spreadsheet",
       "identifier": "spreadsheet-gnumeri-fac"
 }
-}،
+},
   "lastmod": "2021-12-01"
 }
 

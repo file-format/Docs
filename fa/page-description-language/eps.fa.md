@@ -7,10 +7,10 @@
 "فرمت فایل",
 "صفحه آرایی",
 "پست اسکریپت کپسوله شده"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل EPS و APIهایی که می‌توانند فایل‌های EPS را ایجاد و باز کنند، بیاموزید.",
@@ -21,7 +21,7 @@
       "parent": "page-description-language",
       "identifier": "page-description-language-ep-fas"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

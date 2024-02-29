@@ -9,10 +9,10 @@
 "پسوند فایل xpr",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل XPR - فایل گرافیکی طراحی Microsoft Expression",
@@ -23,7 +23,7 @@
       "parent": "image",
       "identifier": "image-xp-far"
 }
-}،
+},
   "lastmod": "2022-03-21"
 }
 

@@ -9,10 +9,10 @@
 "فایل",
 "پسوند فایل bak",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل BAK - فایل پشتیبان",
@@ -23,7 +23,7 @@
       "identifier": "misc-bak-backup-fa",
       "parent": "misc"
 }
-}،
+},
   "lastmod": "2023-06-12"
 }
 

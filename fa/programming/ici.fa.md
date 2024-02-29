@@ -13,10 +13,10 @@
 "مدل داده های ICI",
 "مستندات ICI",
 "زبان ICI"
-]،
+],
   "author": {
     "display_name": "Sami Cheema"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "ICI - فایل زبان برنامه نویسی",
@@ -27,7 +27,7 @@
       "parent": "programming",
       "identifier": "programming-ic-fai"
 }
-}،
+},
   "lastmod": "2021-09-13"
 }
 

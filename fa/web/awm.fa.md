@@ -2,7 +2,7 @@
   "date": "2022-08-12",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فایل AWM - قالب فایل پروژه AllWebMenus",
@@ -13,7 +13,7 @@
       "parent": "web",
       "identifier": "web-aw-fam"
 }
-}،
+},
   "lastmod": "2022-08-12"
 }
 

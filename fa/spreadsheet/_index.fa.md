@@ -3,7 +3,7 @@
   "keywords" : [ "Spreadsheet file formats", "XLSX", "XLS", "CSV" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "description" : "فایل های صفحه گسترده حاوی داده ها در ردیف ها و ستون ها هستند و می توانند در برنامه های صفحه گسترده باز شوند. فرمت های فایل صفحه گسترده شامل XLSX، XLS، CSV، XLSB، XLSM، XLT، XLTX و موارد دیگر می باشد.",
   "categories" : [ "fundamentals" ],
@@ -12,9 +12,9 @@
   "menu" : {
     "docs" : {
       "parent" : "spreadsheet",
-"وزن : 01"
+"weight" : "01"
 }
-}،
+},
   "lastmod" : "2020-09-01"
 }
 

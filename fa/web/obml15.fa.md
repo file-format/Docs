@@ -2,7 +2,7 @@
   "date": "2022-05-19",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل OBML15 - فایل صفحه وب ذخیره شده Opera Mini",
@@ -13,7 +13,7 @@
       "parent": "web",
       "identifier": "web-obml1-fa5"
 }
-}،
+},
   "lastmod": "2022-05-19"
 }
 

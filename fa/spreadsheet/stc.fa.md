@@ -3,7 +3,7 @@
   "keywords" : [ "stc", "file", "extension", "file format", "StarOffice Calc", "Spreadsheet" ],
   "author" : {
     "display_name" : "Sami Cheema"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "description":"درباره اینکه فایل STC چیست و APIهایی که می توانند فایل های STC را ایجاد و باز کنند، بدانید.",
@@ -14,7 +14,7 @@
       "identifier": "spreadsheet-stc-fa",
       "parent" : "spreadsheet"
 }
-}،
+},
   "lastmod" : "2021-11-27"
 }
 

@@ -2,7 +2,7 @@
   "date": "2023-01-10",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فایل WOFF2 - فرمت فونت باز وب فایل 2.0",
@@ -13,7 +13,7 @@
       "parent": "font",
       "identifier": "font-woff-fa2"
 }
-}،
+},
   "lastmod": "2023-01-10"
 }
 

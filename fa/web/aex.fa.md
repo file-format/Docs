@@ -6,10 +6,10 @@
 "فرمت فایل",
 "نوع فایل",
 "فایل aex چیست"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "AEX - فایل توابع جهانی کامپایل شده آلفا پنج",
@@ -20,7 +20,7 @@
       "parent": "web",
       "identifier": "web-ae-fax"
 }
-}،
+},
   "lastmod": "2021-12-07"
 }
 

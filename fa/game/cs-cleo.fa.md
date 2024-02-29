@@ -9,10 +9,10 @@
 "پسوند فایل cs",
 "افزونه",
 "فایل"
-]،
+],
    "author":{
       "display_name":"Shakeel Faiz"
-}،
+},
    "draft":"false",
    "toc":true,
    "title":"فرمت فایل CS - اسکریپت سفارشی CLEO",
@@ -23,7 +23,7 @@
          "identifier":"game-cs-cleo-fa",
          "parent":"game"
 }
-}،
+},
    "lastmod":"2023-01-04"
 }
 

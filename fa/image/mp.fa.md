@@ -2,7 +2,7 @@
   "date" : "2022-02-23",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل MP - فایل MetaPost LaTeX",
@@ -13,7 +13,7 @@
       "identifier":"image-mp-fa",
       "parent" : "image"
 }
-}،
+},
   "lastmod" : "2022-02-23"
 }
 

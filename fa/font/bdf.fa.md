@@ -9,10 +9,10 @@
 "پسوند فایل bdf",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "BDF - فرمت توزیع بیت مپ Glyph",
@@ -23,7 +23,7 @@
       "parent": "font",
       "identifier": "font-bd-faf"
 }
-}،
+},
   "lastmod": "2021-02-25"
 }
 

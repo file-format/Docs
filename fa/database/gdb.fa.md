@@ -2,7 +2,7 @@
   "date": "2022-05-08",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل GDB - فایل پایگاه داده جغرافیایی ESRI",
@@ -13,7 +13,7 @@
       "parent": "database",
       "identifier": "database-gd-fab"
 }
-}،
+},
   "lastmod": "2022-05-08"
 }
 

@@ -9,10 +9,10 @@
 "پسوند فایل cdr",
 "افزونه",
 "فایل"
-]،
+],
    "author":{
       "display_name":"Shakeel Faiz"
-}،
+},
    "draft":"false",
    "toc":true,
    "title":"فرمت فایل CDR - داده های صوتی سی دی خام",
@@ -23,7 +23,7 @@
          "identifier":"audio-cdr-fa",
          "parent":"audio"
 }
-}،
+},
    "lastmod":"2023-10-18"
 }
 

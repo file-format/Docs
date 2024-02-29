@@ -2,7 +2,7 @@
   "date": "2022-06-03",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": " درباره فرمت فایل YPR و APIهایی که می توانند یک فایل YPR ایجاد و باز کنند، بیاموزید.",
@@ -13,7 +13,7 @@
       "parent": "programming",
       "identifier": "programming-yp-far"
 }
-}،
+},
   "lastmod": "2022-06-03"
 }
 

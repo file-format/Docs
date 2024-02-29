@@ -9,10 +9,10 @@
 "فایل",
 "پسوند فایل متا",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل متا - فایل فراداده Exient",
@@ -23,7 +23,7 @@
       "identifier": "game-meta-fa",
       "parent": "game"
 }
-}،
+},
   "lastmod": "2023-06-21"
 }
 

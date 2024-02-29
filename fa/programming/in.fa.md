@@ -2,7 +2,7 @@
   "date": "2022-04-26",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل IN - فایل ورودی خودکار",
@@ -13,7 +13,7 @@
       "parent": "programming",
       "identifier": "programming-i-fan"
 }
-}،
+},
   "lastmod": "2022-04-26"
 }
 

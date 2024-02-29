@@ -2,7 +2,7 @@
   "date": "2022-12-11",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "فایل BO2 چیست؟",
@@ -13,7 +13,7 @@
       "parent": "game",
       "identifier": "game-bo-fa2"
 }
-}،
+},
   "lastmod": "2022-12-11"
 }
 

@@ -7,10 +7,10 @@
 "نوع فایل",
 "افزونه",
 "فایل DOTX چیست؟"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "DOTX - فایل قالب Microsoft Word",
@@ -21,7 +21,7 @@
       "parent": "word-processing",
       "identifier": "word-processing-dot-fax"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

@@ -11,10 +11,10 @@
 "فرمت فایل xsd",
 "پسوند xsd",
 "نمونه فایل xsd"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": " با فرمت فایل XSD و API هایی که می توانند یک فایل XSD ایجاد و باز کنند آشنا شوید.",
@@ -25,7 +25,7 @@
       "parent": "programming",
       "identifier": "programming-xs-fad"
 }
-}،
+},
   "lastmod": "2022-02-06"
 }
 

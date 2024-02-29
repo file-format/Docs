@@ -7,10 +7,10 @@
 "قالب",
 "فایل csproj چیست؟",
 "فرمت فایل csproj"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "CSPROJ",
@@ -21,7 +21,7 @@
       "parent": "programming",
       "identifier": "programming-cspro-faj"
 }
-}،
+},
   "lastmod": "2021-05-21"
 }
 

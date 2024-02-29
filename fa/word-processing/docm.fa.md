@@ -7,10 +7,10 @@
 "نوع فایل",
 "افزونه",
 "فایل DOCM چیست؟"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "DOCM - فایل های ماکرو Microsoft Word 2007",
@@ -21,7 +21,7 @@
       "parent": "word-processing",
       "identifier": "word-processing-doc-fam"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

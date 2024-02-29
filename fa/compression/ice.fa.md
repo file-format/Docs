@@ -9,10 +9,10 @@
 "پسوند فایل ice",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "ICE - بایگانی تار فشرده Bzip",
@@ -23,7 +23,7 @@
       "parent": "compression",
       "identifier": "compression-ic-fae"
 }
-}،
+},
   "lastmod": "2021-04-08"
 }
 

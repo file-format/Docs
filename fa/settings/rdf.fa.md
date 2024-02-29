@@ -2,7 +2,7 @@
   "date" : "2024-01-10",
   "author" : {
     "display_name" : "Shakeel Faiz"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل RDF - فایل چارچوب شرح منابع - فایل rdf چیست و چگونه آن را باز کنیم؟",
@@ -13,7 +13,7 @@
       "identifier": "misc-rdf-fa",
       "parent" : "misc"
 }
-}،
+},
   "lastmod" : "2024-01-10"
 }
 

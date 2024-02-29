@@ -2,7 +2,7 @@
   "date" : "2024-02-01",
   "author" : {
     "display_name" : "Shakeel Faiz"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل NSZ - بسته بازی Nintendo Switch فشرده - فایل nsz چیست و چگونه آن را باز کنیم؟",
@@ -13,7 +13,7 @@
       "identifier" : "game-en-nsz-fa",
       "parent" : "game"
 }
-}،
+},
   "lastmod" : "2024-02-01"
 }
 

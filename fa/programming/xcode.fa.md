@@ -2,7 +2,7 @@
   "date" : "2024-02-01",
   "author" : {
     "display_name" : "Shakeel Faiz"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل XCODE - Xcode Project - فایل xcode چیست و چگونه آن را باز کنیم؟",
@@ -13,7 +13,7 @@
       "identifier" : "programming-en-xcode-fa",
       "parent" : "programming"
 }
-}،
+},
   "lastmod" : "2024-02-01"
 }
 

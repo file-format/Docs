@@ -10,10 +10,10 @@
 "فایل",
 "پسوند فایل w3x",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل W3X - فایل نقشه توسعه Warcraft 3",
@@ -24,7 +24,7 @@
       "identifier": "game-w3x-fa",
       "parent": "game"
 }
-}،
+},
   "lastmod": "2023-04-13"
 }
 

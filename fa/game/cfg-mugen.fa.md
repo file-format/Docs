@@ -9,10 +9,10 @@
 "فایل",
 "پسوند فایل cfg",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل CFG - فایل پیکربندی MUGEN",
@@ -23,7 +23,7 @@
       "identifier": "game-cfg-mugen-fa",
       "parent": "game"
 }
-}،
+},
   "lastmod": "2023-09-27"
 }
 

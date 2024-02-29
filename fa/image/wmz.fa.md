@@ -9,10 +9,10 @@
 "پسوند فایل wmz",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل WMZ - متافیل فشرده ویندوز",
@@ -23,7 +23,7 @@
       "parent": "image",
       "identifier": "image-wm-faz"
 }
-}،
+},
   "lastmod": "2020-10-24"
 }
 

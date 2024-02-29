@@ -6,10 +6,10 @@
 "فایل",
 "پسوند فایل iba",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل IBA - فایل قطعات طراحی لباس Lectra",
@@ -20,7 +20,7 @@
       "identifier": "cad-iba-fa",
       "parent": "cad"
 }
-}،
+},
   "lastmod": "2023-02-22"
 }
 

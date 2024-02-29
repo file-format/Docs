@@ -2,7 +2,7 @@
   "date" : "2021-04-30",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل SFG - قالب فایل پروژه فشرده Synfig Studio",
@@ -13,7 +13,7 @@
       "identifier": "compression-sfg-fa",
       "parent" : "compression"
 }
-}،
+},
   "lastmod" : "2021-04-30"
 }
 

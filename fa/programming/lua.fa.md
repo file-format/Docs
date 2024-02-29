@@ -15,10 +15,10 @@
 "ماشین مجازی Luа",
 "برنامه های Luа",
 "فایل Lua"
-]،
+],
   "author": {
     "display_name": "Sami Cheema"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "LUA - فایل زبان برنامه نویسی",
@@ -29,7 +29,7 @@
       "parent": "programming",
       "identifier": "programming-lu-faa"
 }
-}،
+},
   "lastmod": "2021-09-08"
 }
 

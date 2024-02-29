@@ -7,10 +7,10 @@
 "فرمت فایل",
 "برتری داشتن",
 "صفحه گسترده"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره اینکه یک فایل XLSX چیست و APIهایی که می توانند فایل های XLSX را ایجاد و باز کنند، بدانید.",
@@ -21,7 +21,7 @@
       "parent": "spreadsheet",
       "identifier": "spreadsheet-xls-fax"
 }
-}،
+},
   "lastmod": "2019-12-10"
 }
 

@@ -6,10 +6,10 @@
 "افزونه",
 "فرمت فایل",
 "صفحه گسترده OpenDocument"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "راهنمای فرمت فایل شما برای اینکه بدانید فایل ODS چیست و APIهایی که می توانند آنها را ایجاد و باز کنند.",
@@ -20,7 +20,7 @@
       "parent": "spreadsheet",
       "identifier": "spreadsheet-od-fas"
 }
-}،
+},
   "lastmod": "2019-12-10"
 }
 

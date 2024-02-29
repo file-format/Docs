@@ -8,10 +8,10 @@
 "فایل",
 "پسوند فایل dxb",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل DXB - Drawing Exchange Binary",
@@ -22,7 +22,7 @@
       "identifier": "cad-dxb-fa",
       "parent": "cad"
 }
-}،
+},
   "lastmod": "2023-05-10"
 }
 

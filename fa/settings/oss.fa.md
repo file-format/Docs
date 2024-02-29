@@ -6,10 +6,10 @@
 "فایل",
 "پسوند فایل oss",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل OSS - فایل جستجوی ذخیره شده Microsoft Outlook",
@@ -20,7 +20,7 @@
       "identifier": "settings-oss-fa",
       "parent": "settings"
 }
-}،
+},
   "lastmod": "2023-03-28"
 }
 

@@ -2,7 +2,7 @@
   "date" : "2023-03-13",
   "author" : {
     "display_name" : "Shakeel Faiz"
-}،
+},
   "draft" : "false",
   "description" : "فایل های تنظیمات تنظیمات سیستم عامل و برنامه ها را ذخیره می کنند.",
   "categories" : [ "fundamentals" ],
@@ -11,9 +11,9 @@
   "menu" : {
     "docs" : {
       "parent" : "settings",
-"وزن : 24"
+"weight" : "24"
 }
-}،
+},
   "lastmod" : "2023-03-13"
 }
 

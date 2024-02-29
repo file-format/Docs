@@ -8,10 +8,10 @@
 "فایل",
 "پسوند فایل csx",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل CSX - Visual C# Script",
@@ -22,7 +22,7 @@
       "identifier": "programming-csx-fa",
       "parent": "programming"
 }
-}،
+},
   "lastmod": "2023-05-15"
 }
 

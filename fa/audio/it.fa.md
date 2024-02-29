@@ -8,10 +8,10 @@
 "فایل",
 "پسوند فایل IT",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل IT - ماژول Impulse Tracker",
@@ -22,7 +22,7 @@
       "identifier": "audio-it-fa",
       "parent": "audio"
 }
-}،
+},
   "lastmod": "2023-06-15"
 }
 

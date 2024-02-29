@@ -9,10 +9,10 @@
 "پسوند فایل caf",
 "افزونه",
 "فایل"
-]،
+],
    "author":{
       "display_name":"Shakeel Faiz"
-}،
+},
    "draft":"false",
    "toc":true,
    "title":"فرمت فایل CAF - فایل انیمیشن شخصیت CryENGINE",
@@ -23,7 +23,7 @@
          "identifier":"programming-caf-cryengine-fa",
          "parent":"programming"
 }
-}،
+},
    "lastmod":"2023-01-04"
 }
 

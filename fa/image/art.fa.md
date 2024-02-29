@@ -3,7 +3,7 @@
   "keywords" : [ "art file", "art file format", "what is an art file", "file", "art example", "art file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "ART - فایل تصویری فشرده AOL",
@@ -14,7 +14,7 @@
       "identifier":"image-art-fa",
       "parent" : "image"
 }
-}،
+},
   "lastmod" : "2022-03-29"
 }
 

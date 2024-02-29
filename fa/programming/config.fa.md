@@ -13,10 +13,10 @@
 "نمونه فایل پیکربندی ssh",
 "نمونه فایل پیکربندی aws",
 "نمونه فایل پیکربندی پایتون"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "CONFIG - فایل پیکربندی",
@@ -27,7 +27,7 @@
       "parent": "programming",
       "identifier": "programming-confi-fag"
 }
-}،
+},
   "lastmod": "2021-04-23"
 }
 

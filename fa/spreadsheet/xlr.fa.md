@@ -7,10 +7,10 @@
 "فرمت فایل",
 "برتری داشتن",
 "صفحه گسترده"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "در مورد اینکه یک API فایل XLR چیست که می تواند فایل های XLR را ایجاد و باز کند آشنا شوید.",
@@ -21,7 +21,7 @@
       "parent": "spreadsheet",
       "identifier": "spreadsheet-xl-far"
 }
-}،
+},
   "lastmod": "2019-12-16"
 }
 

@@ -2,7 +2,7 @@
   "date" : "2023-01-25",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل MSD - فرمت فایل تعریف سرویس نقشه",
@@ -13,7 +13,7 @@
       "identifier":"gis-msd-fa",
       "parent" : "gis"
 }
-}،
+},
   "lastmod" : "2023-01-25"
 }
 

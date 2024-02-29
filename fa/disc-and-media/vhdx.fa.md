@@ -2,7 +2,7 @@
   "date": "2022-07-22",
   "author": {
     "display_name": "Sami Cheema"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "با فرمت فایل VHDX و API هایی که می توانند فایل های VHDX ایجاد و باز کنند آشنا شوید.",
@@ -13,7 +13,7 @@
       "parent": "disc-and-media",
       "identifier": "disc-and-media-vhd-fax"
 }
-}،
+},
   "lastmod": "2022-07-22"
 }
 

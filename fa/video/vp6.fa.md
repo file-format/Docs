@@ -9,10 +9,10 @@
 "پسوند فایل vp6",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "VP6 - فایل ویدئویی TrueMotion",
@@ -23,7 +23,7 @@
       "parent": "video",
       "identifier": "video-vp-fa6"
 }
-}،
+},
   "lastmod": "2021-02-16"
 }
 

@@ -2,7 +2,7 @@
   "date" : "2022-03-26",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فرمت فایل CSL - فایل کتابخانه نماد کورل",
@@ -13,7 +13,7 @@
       "identifier":"image-csl-fa",
       "parent" : "image"
 }
-}،
+},
   "lastmod" : "2022-03-26"
 }
 

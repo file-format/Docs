@@ -10,10 +10,10 @@
 "صفحه گسترده",
 "اعداد را به XLSX تبدیل کنید",
 "تبدیل فایل اعداد به اکسل"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "دانش فرمت فایل در مورد فایل Numbers و APIهایی که می توانند Numbers را به XLSX یا صفحات گسترده دیگر ایجاد، باز و تبدیل کنند.",
@@ -24,7 +24,7 @@
       "parent": "spreadsheet",
       "identifier": "spreadsheet-number-fas"
 }
-}،
+},
   "lastmod": "2021-03-03"
 }
 

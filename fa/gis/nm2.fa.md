@@ -2,7 +2,7 @@
   "date": "2021-08-24",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "NM2 - فایل نقشه Navitel",
@@ -13,7 +13,7 @@
       "parent": "gis",
       "identifier": "gis-nm-fa2"
 }
-}،
+},
   "lastmod": "2021-08-24"
 }
 

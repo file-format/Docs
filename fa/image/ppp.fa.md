@@ -2,7 +2,7 @@
   "date": "2022-03-06",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فایل PPP - قالب فایل پروژه PhotoPad",
@@ -13,7 +13,7 @@
       "parent": "image",
       "identifier": "image-pp-fap"
 }
-}،
+},
   "lastmod": "2022-03-06"
 }
 

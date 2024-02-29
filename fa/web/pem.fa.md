@@ -2,7 +2,7 @@
   "date": "2022-09-14",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فایل PEM - فرمت فایل گواهی نامه ایمیل تقویت شده حریم خصوصی",
@@ -13,7 +13,7 @@
       "parent": "web",
       "identifier": "web-pe-fam"
 }
-}،
+},
   "lastmod": "2022-09-14"
 }
 

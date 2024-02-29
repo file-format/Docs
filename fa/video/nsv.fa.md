@@ -2,7 +2,7 @@
   "date": "2022-03-08",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل NSV - فایل ویدئویی پخش جریانی NullSoft",
@@ -13,7 +13,7 @@
       "parent": "video",
       "identifier": "video-ns-fav"
 }
-}،
+},
   "lastmod": "2022-03-08"
 }
 

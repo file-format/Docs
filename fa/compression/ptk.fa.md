@@ -10,10 +10,10 @@
 "GIF",
 "هشدار قرمز 2",
 "Puntotek"
-]،
+],
   "author": {
     "display_name": "Sami Cheema"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل PTK",
@@ -24,7 +24,7 @@
       "parent": "compression",
       "identifier": "compression-pt-fak"
 }
-}،
+},
   "lastmod": "2021-04-30"
 }
 

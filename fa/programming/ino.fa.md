@@ -9,10 +9,10 @@
 "پسوند فایل ino",
 "افزونه",
 "فایل"
-]،
+],
    "author" : {
       "display_name" : "Shakeel Faiz"
-}،
+},
    "draft" : "false",
    "toc" : true,
    "title" : "فایل INO - طرح آردوینو - فایل .ino چیست و چگونه آن را باز کنیم؟",
@@ -23,7 +23,7 @@
          "identifier" : "programming-ino-fa",
          "parent" : "programming"
 }
-}،
+},
    "lastmod" : "2023-12-14"
 }
 

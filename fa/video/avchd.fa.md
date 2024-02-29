@@ -2,7 +2,7 @@
   "date": "2021-14-04",
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل AVCHD",
@@ -14,7 +14,7 @@
 "فرمت ویدیویی",
 "فایل avchd چیست؟",
 "نحوه باز کردن فایل های AVCHD"
-]،
+],
   "description": "درباره فرمت فایل AVCHD و APIهایی که می توانند ایجاد کنند و نحوه باز کردن فایل های AVCHD را نشان دهند، بیاموزید.",
   "linktitle": "AVCHD",
   "menu": {
@@ -22,7 +22,7 @@
       "parent": "video",
       "identifier": "video-avch-fad"
 }
-}،
+},
   "lastmod": "2021-14-04"
 }
 

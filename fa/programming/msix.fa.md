@@ -6,10 +6,10 @@
 "قالب",
 "نحوه باز کردن فایل msix",
 "فرمت فایل msix"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "MSIX - فایل MSIX چیست؟",
@@ -20,7 +20,7 @@
       "parent": "programming",
       "identifier": "programming-msi-fax"
 }
-}،
+},
   "lastmod": "2021-12-16"
 }
 

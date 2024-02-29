@@ -7,10 +7,10 @@
 "قالب",
 "کتاب الکترونیکی",
 "ادبیات"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل LIT که متعلق به Microsoft Reader و APIهای قدیمی است که می توانند فایل های LIT را ایجاد و باز کنند، بیاموزید.",
@@ -21,7 +21,7 @@
       "parent": "ebook",
       "identifier": "ebook-li-fat"
 }
-}،
+},
   "lastmod": "2021-03-04"
 }
 

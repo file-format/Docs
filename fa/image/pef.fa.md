@@ -9,10 +9,10 @@
 "فایل",
 "پسوند فایل pef",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل PEF - فایل الکترونیکی پنتاکس",
@@ -23,7 +23,7 @@
       "identifier": "image-pef-fa",
       "parent": "image"
 }
-}،
+},
   "lastmod": "2023-05-29"
 }
 

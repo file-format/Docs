@@ -7,10 +7,10 @@
 "فرمت فایل",
 "صفحه گسترده",
 "برگه جدا شده است"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "راهنمای فرمت فایل شما برای اینکه بدانید پسوند فایل TSV و APIهایی که می توانند آنها را ایجاد و باز کنند چیست.",
@@ -21,7 +21,7 @@
       "parent": "spreadsheet",
       "identifier": "spreadsheet-ts-fav"
 }
-}،
+},
   "lastmod": "2019-12-10"
 }
 

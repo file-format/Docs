@@ -11,10 +11,10 @@
 "فایل های mmf",
 "فایل موسیقی موبایل",
 "یاماها"
-]،
+],
   "author": {
     "display_name": "Sami Cheema"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل MMF و APIهایی که می‌توانند فایل‌های MMF را ایجاد و باز کنند، بیاموزید.",
@@ -25,7 +25,7 @@
       "parent": "audio",
       "identifier": "audio-mm-faf"
 }
-}،
+},
   "lastmod": "2021-08-09"
 }
 

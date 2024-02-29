@@ -8,10 +8,10 @@
 "قالب",
 "کتاب الکترونیکی",
 "نوع فایل"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "با فرمت فایل RZS و APIهایی که می توانند فایل های RZS را ایجاد و باز کنند آشنا شوید.",
@@ -22,7 +22,7 @@
       "parent": "ebook",
       "identifier": "ebook-rz-fas"
 }
-}،
+},
   "lastmod": "2021-04-01"
 }
 

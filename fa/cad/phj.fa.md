@@ -4,10 +4,10 @@
 "فایل PHJ",
 "قالب",
 "CAD"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل PHJ و APIهایی که می‌توانند فایل‌های PHJ را ایجاد و باز کنند، بیاموزید.",
@@ -18,7 +18,7 @@
       "parent": "cad",
       "identifier": "cad-ph-faj"
 }
-}،
+},
   "lastmod": "2020-10-25"
 }
 

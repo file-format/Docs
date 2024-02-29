@@ -9,10 +9,10 @@
 "LBR",
 "SQ",
 "MSDOS"
-]،
+],
   "author": {
     "display_name": "Sami Cheema"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل LQR",
@@ -23,7 +23,7 @@
       "parent": "compression",
       "identifier": "compression-lq-far"
 }
-}،
+},
   "lastmod": "2021-06-01"
 }
 

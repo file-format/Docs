@@ -9,10 +9,10 @@
 "پسوند فایل dz",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "DZ - فرمت فایل فشرده Dzip",
@@ -23,7 +23,7 @@
       "parent": "compression",
       "identifier": "compression-d-faz"
 }
-}،
+},
   "lastmod": "2021-04-28"
 }
 

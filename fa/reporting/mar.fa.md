@@ -2,7 +2,7 @@
   "date" : "2021-28-05",
   "author" : {
     "display_name" : "Muhammad Umar"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "MAR - فایل گزارش های مایکروسافت اکسس",
@@ -14,7 +14,7 @@
     "identifier": "reporting-mar-fa",
       "parent" : "reporting"
 }
-}،
+},
   "lastmod" : "2021-28-05"
 }
 

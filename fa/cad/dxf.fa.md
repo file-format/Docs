@@ -4,10 +4,10 @@
 "فایل DXF",
 "فرمت فایل",
 "CAD"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "با فرمت فایل DXF و API هایی که می توانند فایل های DXF را ایجاد و باز کنند آشنا شوید.",
@@ -18,7 +18,7 @@
       "parent": "cad",
       "identifier": "cad-dx-faf"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

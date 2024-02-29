@@ -2,7 +2,7 @@
   "date": "2022-01-26",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل LOCK - فایل قفل چیست؟",
@@ -13,7 +13,7 @@
       "parent": "misc",
       "identifier": "misc-loc-fak"
 }
-}،
+},
   "lastmod": "2022-01-26"
 }
 

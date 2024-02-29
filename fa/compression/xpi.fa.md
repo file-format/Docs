@@ -2,7 +2,7 @@
   "date" : "2022-06-07",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "XPI - فایل بسته نصب کننده چند پلتفرمی",
@@ -13,7 +13,7 @@
     "identifier": "compression-xpi-fa",
       "parent" : "compression"
 }
-}،
+},
   "lastmod" : "2022-06-07"
 }
 

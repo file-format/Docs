@@ -2,7 +2,7 @@
   "date": "2019-10-11",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فایل RPMSG - فایل پیام مجوز محدود Outlook",
@@ -13,7 +13,7 @@
       "parent": "email",
       "identifier": "email-rpms-fag"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

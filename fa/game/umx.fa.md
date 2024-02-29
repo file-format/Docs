@@ -9,10 +9,10 @@
 "پسوند فایل نقشه اسکریپت پورتال پاداش",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "با فرمت فایل Unreal Music Package UMX و API هایی که می توانند فایل های UMX را ایجاد و باز کنند آشنا شوید.",
@@ -23,7 +23,7 @@
       "parent": "game",
       "identifier": "game-um-fax"
 }
-}،
+},
   "lastmod": "2021-10-27"
 }
 

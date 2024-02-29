@@ -3,7 +3,7 @@
   "keywords": [ "disc image files", "what is a disc image file", "extension", "format" ],
   "author" : {
     "display_name" : "Muhammad Umar"
-}،
+},
   "draft" : "false",
   "categories" : [ "fundamentals" ],
   "title" : "درباره دیسک و فرمت‌های فایل رسانه و APIهایی که می‌توانند فایل‌های دیسک و رسانه را باز و ایجاد کنند، بیاموزید",
@@ -12,9 +12,9 @@
   "menu" : {
     "docs" : {
       "parent" : "disc-and-media",
-"وزن : 01"
+"weight" : "01"
 }
-}،
+},
   "lastmod" : "2021-06-23"
 }
 

@@ -2,7 +2,7 @@
   "date": "2023-10-26",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فایل CJS - فایل کد CommonJS",
@@ -13,7 +13,7 @@
       "parent": "programming",
       "identifier": "programming-cj-fas"
 }
-}،
+},
   "lastmod": "2023-10-26"
 }
 

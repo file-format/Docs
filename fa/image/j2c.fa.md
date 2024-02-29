@@ -9,10 +9,10 @@
 "پسوند فایل j2c",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "J2C",
@@ -23,7 +23,7 @@
       "parent": "image",
       "identifier": "image-j2-fac"
 }
-}،
+},
   "lastmod": "2021-02-14"
 }
 

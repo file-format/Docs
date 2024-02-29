@@ -2,7 +2,7 @@
   "date": "2022-03-07",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل ERR - فایل ثبت خطای اتوکد",
@@ -13,7 +13,7 @@
       "parent": "misc",
       "identifier": "misc-er-far"
 }
-}،
+},
   "lastmod": "2022-03-07"
 }
 

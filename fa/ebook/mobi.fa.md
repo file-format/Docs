@@ -7,10 +7,10 @@
 "قالب",
 "کتاب الکترونیکی",
 "MobiPocket"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل MOBI و APIهایی که می‌توانند فایل‌های MOBI را ایجاد و باز کنند، بیاموزید.",
@@ -21,7 +21,7 @@
       "parent": "ebook",
       "identifier": "ebook-mob-fai"
 }
-}،
+},
   "lastmod": "2019-12-12"
 }
 

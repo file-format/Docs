@@ -2,7 +2,7 @@
   "date": "2022-03-06",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل MPV - فایل ویدئویی جریان ابتدایی MPEG",
@@ -13,7 +13,7 @@
       "parent": "video",
       "identifier": "video-mp-fav"
 }
-}،
+},
   "lastmod": "2022-03-06"
 }
 

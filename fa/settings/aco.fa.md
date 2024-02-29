@@ -7,10 +7,10 @@
 "فایل",
 "پسوند فایل aco",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل ACO - Adobe Photoshop Color Swatch File",
@@ -21,7 +21,7 @@
       "identifier": "settings-aco-fa",
       "parent": "settings"
 }
-}،
+},
   "lastmod": "2023-04-28"
 }
 

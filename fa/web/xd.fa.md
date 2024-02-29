@@ -7,10 +7,10 @@
 "فرمت فایل",
 "فرمت فایل",
 "سند adobe XD"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "XD - Adobe XD Document",
@@ -21,7 +21,7 @@
       "parent": "web",
       "identifier": "web-x-fad"
 }
-}،
+},
   "lastmod": "2021-05-24"
 }
 

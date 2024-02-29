@@ -2,7 +2,7 @@
   "date": "2022-03-15",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل EGG - فایل توزیع پایتون",
@@ -13,7 +13,7 @@
       "parent": "programming",
       "identifier": "programming-eg-fag"
 }
-}،
+},
   "lastmod": "2022-03-15"
 }
 

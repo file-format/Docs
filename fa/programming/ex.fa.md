@@ -2,7 +2,7 @@
   "date": "2022-03-15",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل EX - فایل کد منبع Euphoria",
@@ -13,7 +13,7 @@
       "parent": "programming",
       "identifier": "programming-e-fax"
 }
-}،
+},
   "lastmod": "2022-03-15"
 }
 

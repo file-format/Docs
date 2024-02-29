@@ -6,10 +6,10 @@
 "افزونه",
 "قالب",
 "فرمت فایل سه بعدی"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل PLY و APIهایی که می‌توانند فایل‌های PLY را ایجاد و باز کنند، بیاموزید.",
@@ -20,7 +20,7 @@
       "parent": "3d",
       "identifier": "3d-pl-fay"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

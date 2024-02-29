@@ -2,7 +2,7 @@
   "date": "2021-24-02",
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل MKS",
@@ -13,7 +13,7 @@
 "فایل",
 "قالب",
 "ویدئو"
-]،
+],
   "description": "درباره فرمت فایل MKS برای زیرنویس‌هایی که فقط توسط Matroska و APIهایی ایجاد شده‌اند که می‌توانند فایل‌های MKS را ایجاد و باز کنند، بیاموزید.",
   "linktitle": "MKS",
   "menu": {
@@ -21,7 +21,7 @@
       "parent": "video",
       "identifier": "video-mk-fas"
 }
-}،
+},
   "lastmod": "2021-25-02"
 }
 

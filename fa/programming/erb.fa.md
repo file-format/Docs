@@ -15,10 +15,10 @@
 "زبان ارب",
 "زبان روبی ERB",
 "زبان eRuby"
-]،
+],
   "author": {
     "display_name": "Sami Cheema"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "ERB - فایل زبان eRuby",
@@ -29,7 +29,7 @@
       "parent": "programming",
       "identifier": "programming-er-fab"
 }
-}،
+},
   "lastmod": "2021-09-15"
 }
 

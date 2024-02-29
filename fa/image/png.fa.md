@@ -9,10 +9,10 @@
 "پسوند فایل png",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل PNG - فایل تصویر شطرنجی",
@@ -23,7 +23,7 @@
       "parent": "image",
       "identifier": "image-pn-fag"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

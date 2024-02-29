@@ -3,7 +3,7 @@
   "keywords" : [ "vsx file", "vsx file format", "what is a vsx file", "file", "vsx example", "vsx file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "VSX - فرمت فایل استنسیل Microsoft Visio",
@@ -14,7 +14,7 @@
 	  "identifier":"visio-vsx-fa",
       "parent" : "visio"
 }
-}،
+},
   "lastmod" : "2020-08-03"
 }
 

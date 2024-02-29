@@ -3,7 +3,7 @@
   "keywords" : [ "ogg file", "ogg file format", "what is an ogg file", "file", "ogg example", "ogg file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فرمت فایل OGG - OriginLab Graph File",
@@ -14,7 +14,7 @@
       "identifier" : "misc-ogg-fa",
       "parent" : "misc"
 }
-}،
+},
   "lastmod" : "2022-03-27"
 }
 

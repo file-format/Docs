@@ -6,10 +6,10 @@
 "فایل",
 "پسوند فایل pxp",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل PXP - فایل PODBot Counter-Strike",
@@ -20,7 +20,7 @@
       "identifier": "game-pxp-fa",
       "parent": "game"
 }
-}،
+},
   "lastmod": "2023-04-05"
 }
 

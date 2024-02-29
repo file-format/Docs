@@ -7,10 +7,10 @@
 "فایل",
 "پسوند فایل sqx",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل SQX - بایگانی SQX",
@@ -21,7 +21,7 @@
       "identifier": "compression-sqx-fa",
       "parent": "compression"
 }
-}،
+},
   "lastmod": "2023-05-22"
 }
 

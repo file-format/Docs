@@ -8,10 +8,10 @@
 "فایل",
 "پسوند فایل epk",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل EPK - بسته دارایی Eaglercraft",
@@ -22,7 +22,7 @@
       "identifier": "game-epk-fa",
       "parent": "game"
 }
-}،
+},
   "lastmod": "2023-04-18"
 }
 

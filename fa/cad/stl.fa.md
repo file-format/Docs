@@ -4,10 +4,10 @@
 "فایل STL",
 "قالب",
 "CAD"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "با فرمت فایل STL و APIهایی که می توانند فایل های STL را ایجاد و باز کنند آشنا شوید.",
@@ -18,7 +18,7 @@
       "parent": "cad",
       "identifier": "cad-st-fal"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

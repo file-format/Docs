@@ -2,7 +2,7 @@
   "date": "2022-07-30",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل A4P - فایل A4P چیست؟",
@@ -13,7 +13,7 @@
       "parent": "web",
       "identifier": "web-a4-fap"
 }
-}،
+},
   "lastmod": "2022-07-30"
 }
 

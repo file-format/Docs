@@ -2,7 +2,7 @@
   "date": "2023-01-29",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فایل VDISCO - فرمت فایل سند کشف دینامیک DISCO",
@@ -13,7 +13,7 @@
       "parent": "web",
       "identifier": "web-vdisc-fao"
 }
-}،
+},
   "lastmod": "2023-01-29"
 }
 

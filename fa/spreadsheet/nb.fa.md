@@ -7,10 +7,10 @@
 "فرمت فایل",
 "ریاضیات",
 "صفحه گسترده"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "در مورد API های فایل NB که می توانند فایل های NB را ایجاد و باز کنند آشنا شوید.",
@@ -21,7 +21,7 @@
       "parent": "spreadsheet",
       "identifier": "spreadsheet-n-fab"
 }
-}،
+},
   "lastmod": "2021-07-16"
 }
 

@@ -11,10 +11,10 @@
 "قالب",
 "QuickTime",
 "MPEG-4"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فایل MOV - فرمت فایل فیلم Apple QuickTime",
@@ -25,7 +25,7 @@
       "parent": "video",
       "identifier": "video-mo-fav"
 }
-}،
+},
   "lastmod": "2021-07-29"
 }
 

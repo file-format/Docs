@@ -3,7 +3,7 @@
   "keywords" : [ "stc", "file", "extension", "file format", "Adobe Contribute Connection Key File" ],
   "author" : {
     "display_name" : "Sami Cheema"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "description":"درباره اینکه فایل STC چیست و APIهایی که می توانند فایل های STC را ایجاد و باز کنند، بدانید.",
@@ -14,7 +14,7 @@
       "identifier": "web-stc-fa",
       "parent" : "web"
 }
-}،
+},
   "lastmod" : "2021-11-27"
 }
 

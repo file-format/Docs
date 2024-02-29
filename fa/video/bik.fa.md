@@ -2,7 +2,7 @@
   "date": "2021-26-08",
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "BIK - فایل ویدئویی Bink",
@@ -15,7 +15,7 @@
 "پسوند فایل bik",
 "افزونه",
 "قالب"
-]،
+],
   "description": "درباره فرمت فایل BIK و APIهایی که می‌توانند فایل‌های BIK را ایجاد و باز کنند، بیاموزید.",
   "linktitle": "BIK",
   "menu": {
@@ -23,7 +23,7 @@
       "parent": "video",
       "identifier": "video-bi-fak"
 }
-}،
+},
   "lastmod": "2023-02-07"
 }
 

@@ -2,7 +2,7 @@
   "date" : "2023-01-23",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل HDR- فرمت فایل سربرگ ESRI BIL",
@@ -13,7 +13,7 @@
       "identifier":"gis-hdr-fa",
       "parent" : "gis"
 }
-}،
+},
   "lastmod" : "2023-01-23"
 }
 

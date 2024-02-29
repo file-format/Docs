@@ -9,10 +9,10 @@
 "پسوند فایل dvd",
 "افزونه",
 "فایل"
-]،
+],
    "author":{
       "display_name":"Shakeel Faiz"
-}،
+},
    "draft":"false",
    "toc":true,
    "title":"فرمت فایل DVD - درایور دستگاه DOS",
@@ -23,7 +23,7 @@
          "identifier":"system-dvd-dos-fa",
          "parent":"system"
 }
-}،
+},
    "lastmod":"2023-11-01"
 }
 

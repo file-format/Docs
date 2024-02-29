@@ -7,10 +7,10 @@
 "افزونه",
 "API",
 "مجموعه برگه اتوکد"
-]،
+],
   "author":{
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "DST - فایل مجموعه برگه اتوکد",
@@ -21,7 +21,7 @@
       "parent": "cad",
       "identifier": "cad-ds-fat"
 }
-}،
+},
   "lastmod": "2022-01-04"
 }
 

@@ -8,10 +8,10 @@
 "فرمت فایل",
 "کتاب الکترونیکی",
 "فلیپ کارت"
-]،
+],
   "author": {
     "display_name": "Sami Cheema"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل FKB و APIهایی که می‌توانند فایل‌های FKB را ایجاد و باز کنند، بیاموزید.",
@@ -22,7 +22,7 @@
       "parent": "ebook",
       "identifier": "ebook-fk-fab"
 }
-}،
+},
   "lastmod": "2021-04-03"
 }
 

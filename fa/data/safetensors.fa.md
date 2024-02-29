@@ -2,7 +2,7 @@
   "date" : "2023-12-28",
   "author" : {
     "display_name" : "Shakeel Faiz"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "SAFETENSORS - مدل انتشار پایدار - SAFETENSORS چیست و چگونه آن را باز کنیم؟",
@@ -13,7 +13,7 @@
       "identifier": "data-safetensors-fa",
       "parent" : "data"
 }
-}،
+},
   "lastmod" : "2023-12-28"
 }
 

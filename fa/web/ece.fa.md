@@ -2,7 +2,7 @@
   "date": "2021-08-04",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فایل ECE - فرمت فایل صفحه وب پویا Escenic",
@@ -13,7 +13,7 @@
       "parent": "web",
       "identifier": "web-ec-fae"
 }
-}،
+},
   "lastmod": "2021-08-04"
 }
 

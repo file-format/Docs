@@ -7,10 +7,10 @@
 "فرمت فایل",
 "ASHX",
 "فایل ASP.NET Web Handler"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "پسوند فایل ASHX - یک فایل مدیریت وب ASP.NET",
@@ -21,7 +21,7 @@
       "parent": "web",
       "identifier": "web-ash-fax"
 }
-}،
+},
   "lastmod": "2021-06-10"
 }
 

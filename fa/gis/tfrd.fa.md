@@ -2,7 +2,7 @@
   "date" : "2022-05-06",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل TFRD - فایل سند مورد نیاز قالب تصویر نواری",
@@ -13,7 +13,7 @@
       "identifier":"gis-tfrd-fa",
       "parent" : "gis"
 }
-}،
+},
   "lastmod" : "2022-05-06"
 }
 

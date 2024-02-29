@@ -2,7 +2,7 @@
   "date" : "2022-04-03",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل ASI - فرمت فایل متغیر آلفا پنج",
@@ -13,7 +13,7 @@
       "identifier" : "programming-asi-fa",
       "parent" : "programming"
 }
-}،
+},
   "lastmod" : "2022-04-03"
 }
 

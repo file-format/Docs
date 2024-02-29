@@ -9,10 +9,10 @@
 "پسوند فایل zl",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "ZL - فرمت فایل فشرده ZLIP",
@@ -23,7 +23,7 @@
       "parent": "compression",
       "identifier": "compression-z-fal"
 }
-}،
+},
   "lastmod": "2021-04-14"
 }
 

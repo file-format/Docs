@@ -2,7 +2,7 @@
   "date": "2022-09-29",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فایل EPIBRW - فایل پروژه Adobe Edge",
@@ -13,7 +13,7 @@
       "parent": "web",
       "identifier": "web-epibr-faw"
 }
-}،
+},
   "lastmod": "2022-09-29"
 }
 

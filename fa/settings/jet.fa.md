@@ -9,10 +9,10 @@
 "فایل",
 "پسوند فایل jet",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل JET - تنظیمات بسته پارتی Jackbox",
@@ -23,7 +23,7 @@
       "identifier": "settings-jet-fa",
       "parent": "settings"
 }
-}،
+},
   "lastmod": "2023-09-05"
 }
 

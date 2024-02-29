@@ -2,7 +2,7 @@
   "date": "2019-10-11",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل BML - فایل زبان نشانه گذاری Bean",
@@ -13,7 +13,7 @@
       "parent": "web",
       "identifier": "web-bm-fal"
 }
-}،
+},
   "lastmod": "2021-08-12"
 }
 

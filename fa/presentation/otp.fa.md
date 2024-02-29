@@ -9,10 +9,10 @@
 "پسوند فایل otp",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "OTP - OpenDocument Presentation Template",
@@ -23,7 +23,7 @@
       "parent": "presentation",
       "identifier": "presentation-ot-fap"
 }
-}،
+},
   "lastmod": "2021-01-21"
 }
 

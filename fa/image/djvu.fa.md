@@ -9,10 +9,10 @@
 "پسوند فایل djvu",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل DJVU",
@@ -23,7 +23,7 @@
       "parent": "image",
       "identifier": "image-djv-fau"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

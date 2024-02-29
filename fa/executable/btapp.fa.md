@@ -2,7 +2,7 @@
   "date": "2022-05-16",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل BTAPP و API هایی که می توانند فایل های BTAPP را ایجاد و باز کنند، بیاموزید.",
@@ -13,7 +13,7 @@
       "parent": "executable",
       "identifier": "executable-btap-fap"
 }
-}،
+},
   "lastmod": "2022-05-16"
 }
 

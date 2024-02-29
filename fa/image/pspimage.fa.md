@@ -2,7 +2,7 @@
   "date": "2022-04-27",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل PSPIMAGE - فایل تصویری PaintShop Pro",
@@ -13,7 +13,7 @@
       "parent": "image",
       "identifier": "image-pspimag-fae"
 }
-}،
+},
   "lastmod": "2022-04-27"
 }
 ## فایل PSPIMAGE چیست؟

@@ -11,10 +11,10 @@
 "قالب",
 "iso",
 "فشرده سازی DAX"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل CSO و APIهایی که می‌توانند فایل‌های CSO را ایجاد و باز کنند، بیاموزید.",
@@ -25,7 +25,7 @@
       "parent": "disc-and-media",
       "identifier": "disc-and-media-cs-fao"
 }
-}،
+},
   "lastmod": "2021-08-09"
 }
 

@@ -13,10 +13,10 @@
 "مثال HS",
 "پسوند فایل hs",
 "نحوه باز کردن فایل hs"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "HS - فرمت فایل اسکریپت Haskell",
@@ -27,7 +27,7 @@
       "parent": "programming",
       "identifier": "programming-h-fas"
 }
-}،
+},
   "lastmod": "2021-06-15"
 }
 

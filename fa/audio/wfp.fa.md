@@ -2,7 +2,7 @@
   "date": "2022-04-29",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل WFP و APIهایی که می‌توانند فایل‌های WFP را ایجاد و باز کنند، بیاموزید.",
@@ -13,7 +13,7 @@
       "parent": "audio",
       "identifier": "audio-wf-fap"
 }
-}،
+},
   "lastmod": "2022-04-29"
 }
 

@@ -7,10 +7,10 @@
 "قالب",
 "سه بعدی",
 "Khronos Group 3D"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فایل‌های GLTF و APIهایی که می‌توانند فایل‌های GLTF را ایجاد و باز کنند، بیاموزید.",
@@ -21,7 +21,7 @@
       "parent": "3d",
       "identifier": "3d-glt-faf"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

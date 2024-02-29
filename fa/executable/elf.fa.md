@@ -3,7 +3,7 @@
   "keywords" : ["elf file", "what is an elf file", "file", "how to open elf file", "elf file extension","extension"],
   "author" : {
     "display_name" : "Shakeel Faiz"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "description" : "درباره فرمت فایل ELF و APIهایی که می‌توانند فایل‌های ELF را ایجاد و باز کنند، بیاموزید.",
@@ -14,7 +14,7 @@
       "identifier":"executable-elf-fa",
       "parent" : "executable"
 }
-}،
+},
   "lastmod" : "2023-01-31"
 }
 

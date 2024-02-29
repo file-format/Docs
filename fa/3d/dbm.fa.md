@@ -2,7 +2,7 @@
   "date" : "2022-09-07",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "description":"درباره فرمت فایل DBM و APIهایی که می‌توانند فایل‌های DBM را باز کرده و ایجاد کنند، بیاموزید.",
@@ -13,7 +13,7 @@
       "identifier":"3d-dbm-fa",
       "parent" : "3d"
 }
-}،
+},
   "lastmod" : "2022-09-07"
 }
 

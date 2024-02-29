@@ -7,10 +7,10 @@
 "نحوه باز کردن فایل veg",
 "پسوند فایل veg",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل VEG - پروژه ویدئویی MAGIX VEGAS",
@@ -21,7 +21,7 @@
       "identifier": "video-veg-fa",
       "parent": "video"
 }
-}،
+},
   "lastmod": "2023-02-07"
 }
 

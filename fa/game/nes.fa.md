@@ -8,10 +8,10 @@
 "فایل",
 "پسوند فایل nes",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل NES - فایل ROM سیستم سرگرمی نینتندو",
@@ -22,7 +22,7 @@
       "identifier": "game-nes-fa",
       "parent": "game"
 }
-}،
+},
   "lastmod": "2023-05-29"
 }
 

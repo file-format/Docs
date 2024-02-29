@@ -9,10 +9,10 @@
 "پسوند فایل mng",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل MNG - فرمت فایل گرافیکی شبکه چندگانه",
@@ -23,7 +23,7 @@
       "parent": "image",
       "identifier": "image-mn-fag"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

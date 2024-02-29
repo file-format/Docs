@@ -2,7 +2,7 @@
   "date" : "2023-05-10",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل CPIO - فرمت فایل آرشیو یونیکس CPIO",
@@ -13,7 +13,7 @@
       "identifier" : "compression-cpio-fa",
       "parent" : "compression"
 }
-}،
+},
   "lastmod" : "2023-05-10"
 }
 

@@ -3,7 +3,7 @@
   "keywords" : [ "vstm file", "vstm file format", "what is a vstm file", "file", "vstm example", "vstm file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "VSTM - فرمت فایل قالب Microsoft Visio",
@@ -14,7 +14,7 @@
 	  "identifier":"visio-vstm-fa",
       "parent" : "visio"
 }
-}،
+},
   "lastmod" : "2019-09-10"
 }
 

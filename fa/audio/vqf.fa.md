@@ -9,10 +9,10 @@
 "پسوند فایل vqf",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "با فرمت فایل VQF و API هایی که می توانند فایل های VQF را ایجاد و باز کنند آشنا شوید.",
@@ -23,7 +23,7 @@
       "parent": "audio",
       "identifier": "audio-vq-faf"
 }
-}،
+},
   "lastmod": "2021-08-27"
 }
 

@@ -2,7 +2,7 @@
   "date": "2023-02-15",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فایل VGA - فرمت فایل درایور نمایشگر VGA",
@@ -13,7 +13,7 @@
       "parent": "system",
       "identifier": "system-vg-faa"
 }
-}،
+},
   "lastmod": "2023-02-15"
 }
 

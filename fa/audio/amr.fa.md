@@ -12,10 +12,10 @@
 "فایل amr",
 "تبدیل فایل amr به mp3",
 "پخش فایل amr"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل AMR و APIهایی که می‌توانند فایل‌های AMR را ایجاد، تبدیل و باز کنند، بیاموزید.",
@@ -26,7 +26,7 @@
       "parent": "audio",
       "identifier": "audio-am-far"
 }
-}،
+},
   "lastmod": "2021-04-29"
 }
 

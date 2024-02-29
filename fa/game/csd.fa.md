@@ -2,7 +2,7 @@
   "date" : "2022-02-08",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "description":"درباره فرمت فایل پشتیبان گیری داده های بازی CSD Steam و API ها بیاموزید.",
@@ -13,7 +13,7 @@
       "identifier": "game-csd-fa",
       "parent" : "game"
 }
-}،
+},
   "lastmod" : "2022-02-08"
 }
 

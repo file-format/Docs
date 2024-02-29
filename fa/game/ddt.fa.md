@@ -8,10 +8,10 @@
 "فایل",
 "پسوند فایل ddt",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل DDT - فایل داده بازی Football Manager",
@@ -22,7 +22,7 @@
       "identifier": "game-ddt-fa",
       "parent": "game"
 }
-}،
+},
   "lastmod": "2023-05-16"
 }
 

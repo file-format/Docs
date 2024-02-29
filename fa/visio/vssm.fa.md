@@ -3,7 +3,7 @@
   "keywords" : [ "vssm file", "vssm file format", "what is a vssm file", "file", "vssm example", "vssm file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "VSSM - فرمت فایل ماکرو فعال شده Microsoft Visio",
@@ -14,7 +14,7 @@
 	  "identifier":"visio-vssm-fa",
       "parent" : "visio"
 }
-}،
+},
   "lastmod" : "2019-09-10"
 }
 

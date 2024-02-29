@@ -8,10 +8,10 @@
 "پسوند فایل bdmv",
 "افزونه",
 "فایل"
-]،
+],
    "author":{
       "display_name":"Shakeel Faiz"
-}،
+},
    "draft":"false",
    "toc":true,
    "title":"فرمت فایل BDMV - فایل اطلاعات فیلم دیسک Blu-ray",
@@ -22,7 +22,7 @@
          "identifier":"video-bdmv-fa",
          "parent":"video"
 }
-}،
+},
    "lastmod":"2023-09-21"
 }
 

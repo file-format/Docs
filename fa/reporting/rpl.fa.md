@@ -2,7 +2,7 @@
   "date": "2021-03-02",
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "RPL - گزارش طرح صفحه",
@@ -12,7 +12,7 @@
 "XSD",
 "SQL Server",
 "گزارش نویسی"
-]،
+],
   "description": "در مورد قالب جریان RPL که یک فرمت باینری داخلی است که توسط Microsoft SQL Server Reporting Services هنگام تماس با کنترل‌های بیننده استفاده می‌شود، بیاموزید.",
   "linktitle": "RPL",
   "menu": {
@@ -20,7 +20,7 @@
       "parent": "reporting",
       "identifier": "reporting-rp-fal"
 }
-}،
+},
   "lastmod": "2021-03-02"
 }
 

@@ -3,7 +3,7 @@
   "keywords" : [ "aml file", "aml file format", "what is an aml file", "file", "aml example", "aml file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل AML - فایل زبان نشانه گذاری خودکار",
@@ -14,7 +14,7 @@
       "identifier":"misc-aml-fa",
       "parent" : "misc"
 }
-}،
+},
   "lastmod" : "2022-01-28"
 }
 

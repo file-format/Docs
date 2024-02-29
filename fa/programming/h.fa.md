@@ -11,10 +11,10 @@
 "فرمت فایل h",
 "پسوند فایل h",
 "نمونه فایل H"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "H - فرمت فایل هدر C/C++",
@@ -25,7 +25,7 @@
       "parent": "programming",
       "identifier": "programming--fah"
 }
-}،
+},
   "lastmod": "2021-05-07"
 }
 

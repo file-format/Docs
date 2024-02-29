@@ -9,10 +9,10 @@
 "پسوند فایل لاتکس",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "لاتکس - فایل سند لاتکس",
@@ -23,7 +23,7 @@
       "parent": "word-processing",
       "identifier": "word-processing-late-fax"
 }
-}،
+},
   "lastmod": "2021-05-18"
 }
 

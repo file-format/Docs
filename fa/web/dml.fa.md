@@ -8,10 +8,10 @@
 "فایل",
 "نوع",
 "فایل DML چیست"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "DML - فایل HTML DynaScript",
@@ -22,7 +22,7 @@
       "parent": "web",
       "identifier": "web-dm-fal"
 }
-}،
+},
   "lastmod": "2021-05-25"
 }
 

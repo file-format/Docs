@@ -9,10 +9,10 @@
 "پسوند فایل w3n",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل Warcraft III Frozen Throne W3N و APIهایی که می‌توانند فایل‌های W3N را ایجاد و باز کنند، بیاموزید.",
@@ -23,7 +23,7 @@
       "parent": "game",
       "identifier": "game-w3-fan"
 }
-}،
+},
   "lastmod": "2021-09-08"
 }
 

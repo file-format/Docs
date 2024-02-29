@@ -7,10 +7,10 @@
 "فرمت فایل",
 "فرمت فایل",
 "زبان نشانه گذاری فرامتن توسعه یافته"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "XHT",
@@ -21,7 +21,7 @@
       "parent": "web",
       "identifier": "web-xh-fat"
 }
-}،
+},
   "lastmod": "2021-05-24"
 }
 

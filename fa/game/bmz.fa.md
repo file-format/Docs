@@ -9,10 +9,10 @@
 "فایل زیپ نقشه پاداش پورتال",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "با فرمت فایل ZIP BMZ و APIهایی که می‌توانند فایل‌های BMZ را ایجاد و باز کنند، درباره نقشه پاداش پورتال بیاموزید.",
@@ -23,7 +23,7 @@
       "parent": "game",
       "identifier": "game-bm-faz"
 }
-}،
+},
   "lastmod": "2021-10-20"
 }
 

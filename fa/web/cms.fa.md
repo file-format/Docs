@@ -2,7 +2,7 @@
   "date" : "2022-08-24",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل CMS - فرمت فایل سیستم مدیریت محتوا",
@@ -13,7 +13,7 @@
       "identifier":"web-cms-fa",
       "parent" : "web"
 }
-}،
+},
   "lastmod" : "2022-08-24"
 }
 

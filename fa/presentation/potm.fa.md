@@ -9,10 +9,10 @@
 "پسوند فایل potm",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "POTM - فایل قالب پاورپوینت مایکروسافت با ماکرو",
@@ -23,7 +23,7 @@
       "parent": "presentation",
       "identifier": "presentation-pot-fam"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

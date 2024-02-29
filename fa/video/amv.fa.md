@@ -2,7 +2,7 @@
   "date": "2021-16-04",
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل AMV",
@@ -15,7 +15,7 @@
 "فایل AMV چیست؟",
 "فرمت فایل amv",
 "ویدیو amv"
-]،
+],
   "description": "درباره فرمت فایل AMV و APIهایی که می توانند ایجاد کنند و نحوه باز کردن فایل AMV را نشان دهند، بیاموزید.",
   "linktitle": "AMV",
   "menu": {
@@ -23,7 +23,7 @@
       "parent": "video",
       "identifier": "video-am-fav"
 }
-}،
+},
   "lastmod": "2021-16-04"
 }
 

@@ -2,7 +2,7 @@
   "date" : "2022-07-04",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "description":"درباره فرمت فایل KIT و APIهایی که می‌توانند فایل‌های KIT را ایجاد و باز کنند، بیاموزید.",
@@ -13,7 +13,7 @@
       "identifier":"web-kit-fa",
       "parent" : "web"
 }
-}،
+},
   "lastmod" : "2022-07-04"
 }
 

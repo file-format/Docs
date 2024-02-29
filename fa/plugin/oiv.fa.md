@@ -2,7 +2,7 @@
   "date" : "2023-12-08",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل OIV - فایل OIV چیست و چگونه آن را باز کنیم؟",
@@ -13,7 +13,7 @@
       "parent" : "plugin",
       "identifier":"plugin-en-oi-fav"
 }
-}،
+},
   "lastmod" : "2023-12-08"
 }
 

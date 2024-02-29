@@ -9,10 +9,10 @@
 "پسوند فایل heif",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "HEIF - فرمت فایل تصویری با کارایی بالا",
@@ -23,7 +23,7 @@
       "parent": "image",
       "identifier": "image-hei-faf"
 }
-}،
+},
   "lastmod": "2021-03-29"
 }
 

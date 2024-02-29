@@ -2,7 +2,7 @@
   "date": "2022-03-02",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "ARF - فایل ضبط پیشرفته WebEx",
@@ -13,7 +13,7 @@
       "parent": "video",
       "identifier": "video-ar-faf"
 }
-}،
+},
   "lastmod": "2022-03-02"
 }
 

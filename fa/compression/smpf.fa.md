@@ -8,10 +8,10 @@
 "فایل",
 "پسوند فایل smpf",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل SMPF - پروژه Sprite Monkey",
@@ -22,7 +22,7 @@
       "identifier": "compression-smpf-fa",
       "parent": "compression"
 }
-}،
+},
   "lastmod": "2023-05-24"
 }
 

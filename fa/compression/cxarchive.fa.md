@@ -9,10 +9,10 @@
 "فایل",
 "پسوند فایل cxarchive",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل CXARCHIVE - بایگانی بطری CrossOver",
@@ -23,7 +23,7 @@
       "identifier": "compression-cxarchive-fa",
       "parent": "compression"
 }
-}،
+},
   "lastmod": "2023-10-04"
 }
 

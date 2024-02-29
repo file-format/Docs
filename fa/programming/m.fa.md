@@ -6,10 +6,10 @@
 "افزونه",
 "قالب",
 "فرمت فایل M"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "M - فایل کد منبع متلب",
@@ -20,7 +20,7 @@
       "parent": "programming",
       "identifier": "programming--fam"
 }
-}،
+},
   "lastmod": "2020-09-10"
 }
 

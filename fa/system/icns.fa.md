@@ -6,10 +6,10 @@
 "فایل",
 "پسوند فایل icns",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل ICNS - منبع آیکون macOS",
@@ -20,7 +20,7 @@
       "identifier": "system-icns-fa",
       "parent": "system"
 }
-}،
+},
   "lastmod": "2023-03-08"
 }
 

@@ -8,10 +8,10 @@
 "فایل کد بایت اکشن اسکریپت",
 "نحوه باز کردن فایل ane",
 "فرمت فایل ane"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "ANE - Adobe AIR Native Extension",
@@ -22,7 +22,7 @@
       "parent": "programming",
       "identifier": "programming-an-fae"
 }
-}،
+},
   "lastmod": "2021-12-14"
 }
 

@@ -2,7 +2,7 @@
   "date": "2023-01-08",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فایل VFB - فرمت فایل فونت استودیو FontLab",
@@ -13,7 +13,7 @@
       "parent": "font",
       "identifier": "font-vf-fab"
 }
-}،
+},
   "lastmod": "2023-01-08"
 }
 

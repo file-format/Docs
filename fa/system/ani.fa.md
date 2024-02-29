@@ -7,10 +7,10 @@
 "نحوه باز کردن فایل ani",
 "پسوند فایل ani",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل ANI - مکان نما متحرک ویندوز",
@@ -21,7 +21,7 @@
       "identifier": "system-ani-fa",
       "parent": "system"
 }
-}،
+},
   "lastmod": "2023-03-08"
 }
 

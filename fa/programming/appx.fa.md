@@ -6,10 +6,10 @@
 "قالب",
 "نحوه باز کردن فایل appx",
 "فرمت فایل appx"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "APPX - فایل APPX چیست؟",
@@ -20,7 +20,7 @@
       "parent": "programming",
       "identifier": "programming-app-fax"
 }
-}،
+},
   "lastmod": "2021-12-16"
 }
 

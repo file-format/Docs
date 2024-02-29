@@ -8,10 +8,10 @@
 "فرمت فایل",
 "بایگانی StuffIt X",
 "SITX"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "SITX - قالب فایل بایگانی StuffIt X",
@@ -22,7 +22,7 @@
       "parent": "compression",
       "identifier": "compression-sit-fax"
 }
-}،
+},
   "lastmod": "2021-04-30"
 }
 

@@ -9,10 +9,10 @@
 "پسوند فایل sdf",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "SFD - قالب پایگاه داده قلم Spline",
@@ -23,7 +23,7 @@
       "parent": "font",
       "identifier": "font-sf-fad"
 }
-}،
+},
   "lastmod": "2020-09-24"
 }
 

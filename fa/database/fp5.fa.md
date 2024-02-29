@@ -2,7 +2,7 @@
   "date": "2022-05-25",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل FP5 و APIهایی که می‌توانند فایل‌های FP5 را ایجاد و باز کنند، بیاموزید.",
@@ -13,7 +13,7 @@
       "parent": "database",
       "identifier": "database-fp-fa5"
 }
-}،
+},
   "lastmod": "2022-05-25"
 }
 

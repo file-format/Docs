@@ -9,10 +9,10 @@
 "پسوند فایل mgx",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل MGX Expansion Replay Age of Empires 2 و APIهایی که می‌توانند فایل‌های MGX ایجاد و باز کنند، بیاموزید.",
@@ -23,7 +23,7 @@
       "parent": "game",
       "identifier": "game-mg-fax"
 }
-}،
+},
   "lastmod": "2021-09-08"
 }
 

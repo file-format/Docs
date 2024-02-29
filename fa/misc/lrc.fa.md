@@ -2,7 +2,7 @@
   "date": "2022-01-26",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل LRC - فایل LRC چیست؟",
@@ -13,7 +13,7 @@
       "parent": "misc",
       "identifier": "misc-lr-fac"
 }
-}،
+},
   "lastmod": "2022-01-26"
 }
 

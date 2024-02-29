@@ -2,7 +2,7 @@
   "date" : "2023-11-13",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "MILK File - فایل MILK چیست و چگونه آن را باز کنیم؟",
@@ -13,7 +13,7 @@
       "parent" : "plugin",
       "identifier":"plugin-en-mil-fak"
 }
-}،
+},
   "lastmod" : "2023-11-13"
 }
 

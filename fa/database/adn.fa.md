@@ -8,10 +8,10 @@
 "نوع فایل پایگاه داده",
 "فرمت فایل پایگاه داده",
 "به الگوی پروژه خالی دسترسی پیدا کنید"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل ADN و APIهایی که می‌توانند فایل‌های ADN را ایجاد و باز کنند، بیاموزید.",
@@ -22,7 +22,7 @@
       "parent": "database",
       "identifier": "database-ad-fan"
 }
-}،
+},
   "lastmod": "2021-09-06"
 }
 

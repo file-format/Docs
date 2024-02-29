@@ -7,10 +7,10 @@
 "فایل",
 "نوع",
 "فایل crt چیست"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "CRDOWNLOAD - فایل نیمه بارگیری شده Chrome",
@@ -21,7 +21,7 @@
       "parent": "web",
       "identifier": "web-crdownloa-fad"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

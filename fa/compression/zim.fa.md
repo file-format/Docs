@@ -2,7 +2,7 @@
   "date": "2019-12-09",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل ZIM - فایل بایگانی OpenZIM",
@@ -13,7 +13,7 @@
       "parent": "compression",
       "identifier": "compression-zi-fam"
 }
-}،
+},
   "lastmod": "2019-12-09"
 }
 

@@ -2,7 +2,7 @@
   "date" : "2023-08-07",
   "author" : {
     "display_name" : "Shakeel Faiz"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "اسکریپت شل - نحوه اجرای آن در اوبونتو و لینوکس",
@@ -13,7 +13,7 @@
       "identifier": "misc-shell-script-fa",
       "parent" : "misc"
 }
-}،
+},
   "lastmod" : "2023-08-07"
 }
 

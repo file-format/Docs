@@ -7,10 +7,10 @@
 "فرمت فایل",
 "فرمت فایل",
 "زبان نشانه گذاری توسعه پذیر"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل XML",
@@ -21,7 +21,7 @@
       "parent": "web",
       "identifier": "web-xm-fal"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

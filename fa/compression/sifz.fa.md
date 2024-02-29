@@ -2,7 +2,7 @@
   "date": "2021-04-30",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل SIFZ - فایل پروژه فشرده Synfig Studio",
@@ -13,7 +13,7 @@
       "parent": "compression",
       "identifier": "compression-sif-faz"
 }
-}،
+},
   "lastmod": "2021-04-30"
 }
 

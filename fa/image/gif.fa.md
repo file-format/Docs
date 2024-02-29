@@ -9,10 +9,10 @@
 "پسوند فایل gif",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "GIF - فرمت فایل تصویر",
@@ -23,7 +23,7 @@
       "parent": "image",
       "identifier": "image-gi-faf"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

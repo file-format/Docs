@@ -9,10 +9,10 @@
 "فرمت فایل پایگاه داده",
 "فایل dbf چیست",
 "dBASE"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل DBF و APIهایی که می توانند فایل های DBF را ایجاد و باز کنند، بیاموزید.",
@@ -23,7 +23,7 @@
       "parent": "database",
       "identifier": "database-db-faf"
 }
-}،
+},
   "lastmod": "2021-06-15"
 }
 

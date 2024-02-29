@@ -11,10 +11,10 @@
 "قالب",
 "کنترل CloneCD",
 "img"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل CCD و APIهایی که می‌توانند فایل‌های CCD را ایجاد و باز کنند، بیاموزید.",
@@ -25,7 +25,7 @@
       "parent": "disc-and-media",
       "identifier": "disc-and-media-cc-fad"
 }
-}،
+},
   "lastmod": "2021-08-06"
 }
 

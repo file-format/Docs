@@ -2,7 +2,7 @@
   "date": "2019-10-11",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "EMLX - فرمت فایل ایمیل اپل",
@@ -13,7 +13,7 @@
       "parent": "email",
       "identifier": "email-eml-fax"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

@@ -7,10 +7,10 @@
 "فایل",
 "پسوند فایل nut",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل NUT - فایل ویدئویی NUT",
@@ -21,7 +21,7 @@
       "identifier": "video-nut-fa",
       "parent": "video"
 }
-}،
+},
   "lastmod": "2023-07-13"
 }
 

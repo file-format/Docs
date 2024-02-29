@@ -3,7 +3,7 @@
   "keywords": [ "executable files", "what are executable files", "extension", "format" ],
   "author" : {
     "display_name" : "Muhammad Umar"
-}،
+},
   "draft" : "false",
   "categories" : [ "fundamentals" ],
   "title" : "درباره فرمت‌های فایل اجرایی و APIهایی که می‌توانند فایل‌های اجرایی را باز کرده و ایجاد کنند، بیاموزید",
@@ -12,9 +12,9 @@
   "menu" : {
     "docs" : {
       "parent" : "executable",
-"وزن : 01"
+"weight" : "01"
 }
-}،
+},
   "lastmod" : "2021-06-24"
 }
 

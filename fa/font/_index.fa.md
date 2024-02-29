@@ -3,7 +3,7 @@
   "keywords" : [ "font", "file", "format", "extension" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "description" : "فایل های فونت حاوی اطلاعاتی در مورد انواع مختلف فونت هستند. فرمت های رایج فایل فونت عبارتند از CFF، CFF2، TTF، FNT، FON و PFA.",
   "categories" : [ "fundamentals" ],
@@ -12,9 +12,9 @@
   "menu" : {
     "docs" : {
       "parent" : "font",
-"وزن : 01"
+"weight" : "01"
 }
-}،
+},
   "lastmod" : "2020-09-17"
 }
 

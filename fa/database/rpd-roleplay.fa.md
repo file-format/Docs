@@ -9,10 +9,10 @@
 "فایل",
 "پسوند فایل rpd",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل RPD - فایل داده طراح نقش بازی",
@@ -23,7 +23,7 @@
       "identifier": "database-rpd-roleplay-fa",
       "parent": "database"
 }
-}،
+},
   "lastmod": "2023-04-27"
 }
 

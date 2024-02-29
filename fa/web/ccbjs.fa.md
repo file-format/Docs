@@ -2,7 +2,7 @@
   "date" : "2023-06-08",
   "author" : {
     "display_name" : "Sami Cheema"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "CCBJS - فرمت فایل جاوا اسکریپت CopperCube",
@@ -13,7 +13,7 @@
       "parent" : "web",
       "identifier":"web-ccbj-fas"
 }
-}،
+},
   "lastmod" : "2023-06-08"
 }
 

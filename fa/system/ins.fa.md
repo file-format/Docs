@@ -9,10 +9,10 @@
 "پسوند فایل ins",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "با فرمت فایل INS و API هایی که می توانند فایل های INS را ایجاد و باز کنند آشنا شوید.",
@@ -23,7 +23,7 @@
       "parent": "system",
       "identifier": "system-in-fas"
 }
-}،
+},
   "lastmod": "2021-07-16"
 }
 

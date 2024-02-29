@@ -8,10 +8,10 @@
 "فرمت فایل",
 "یونیکس",
 "کارتز"
-]،
+],
   "author": {
     "display_name": "Sami Cheema"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل فشرده Z",
@@ -22,7 +22,7 @@
       "parent": "compression",
       "identifier": "compression--faz"
 }
-}،
+},
   "lastmod": "2021-06-22"
 }
 

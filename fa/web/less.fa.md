@@ -2,7 +2,7 @@
   "date": "2022-04-09",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فایل LESS - فایل برگه سبک کمتر",
@@ -13,7 +13,7 @@
       "parent": "web",
       "identifier": "web-les-fas"
 }
-}،
+},
   "lastmod": "2022-04-09"
 }
 

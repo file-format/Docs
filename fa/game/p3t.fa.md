@@ -8,10 +8,10 @@
 "فایل",
 "پسوند فایل p3t",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل P3T - فایل تم پلی استیشن 3",
@@ -22,7 +22,7 @@
       "identifier": "game-p3t-fa",
       "parent": "game"
 }
-}،
+},
   "lastmod": "2023-05-04"
 }
 

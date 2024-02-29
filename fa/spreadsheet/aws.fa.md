@@ -7,10 +7,10 @@
 "فرمت فایل",
 "صفحه گسترده توانایی",
 "صفحه گسترده"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "فایل AWS و API هایی که می توانند فایل های AWS را ایجاد و باز کنند چیست؟",
@@ -21,7 +21,7 @@
       "parent": "spreadsheet",
       "identifier": "spreadsheet-aw-fas"
 }
-}،
+},
   "lastmod": "2021-11-25"
 }
 

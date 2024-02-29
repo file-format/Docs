@@ -8,10 +8,10 @@
 "کتاب الکترونیکی",
 "فرمت فایل Kindle",
 "ساختار فایل AZW3"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل AZW3 و APIهایی که می‌توانند فایل‌های AZW3 را ایجاد و باز کنند، بیاموزید.",
@@ -22,7 +22,7 @@
       "parent": "ebook",
       "identifier": "ebook-azw-fa3"
 }
-}،
+},
   "lastmod": "2021-06-04"
 }
 

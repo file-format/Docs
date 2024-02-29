@@ -8,10 +8,10 @@
 "فایل",
 "نوع",
 "فایل mhtml چیست"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "MHTML - MIME HTML فایل",
@@ -22,7 +22,7 @@
       "parent": "web",
       "identifier": "web-mhtm-fal"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

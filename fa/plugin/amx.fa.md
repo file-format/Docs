@@ -2,7 +2,7 @@
   "date" : "2023-12-02",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل AMX - فایل AMX چیست و چگونه آن را باز کنیم؟",
@@ -13,7 +13,7 @@
       "parent" : "plugin",
       "identifier":"plugin-en-am-fax"
 }
-}،
+},
   "lastmod" : "2023-12-02"
 }
 

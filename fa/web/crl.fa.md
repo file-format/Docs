@@ -2,7 +2,7 @@
   "date": "2022-09-01",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فایل CRL - لیست ابطال گواهی",
@@ -13,7 +13,7 @@
       "parent": "web",
       "identifier": "web-cr-fal"
 }
-}،
+},
   "lastmod": "2022-09-01"
 }
 

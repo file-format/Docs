@@ -7,10 +7,10 @@
 "خواندن",
 "ايجاد كردن",
 "CAD"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل DWFX و APIهایی که می توانند فایل های DWFX را ایجاد و باز کنند، بیاموزید.",
@@ -21,7 +21,7 @@
       "parent": "cad",
       "identifier": "cad-dwf-fax"
 }
-}،
+},
   "lastmod": "2020-07-28"
 }
 

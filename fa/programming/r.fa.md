@@ -14,10 +14,10 @@
 "کد R",
 "زبان R",
 "RStudio"
-]،
+],
   "author": {
     "display_name": "Sami Cheema"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "R - فایل زبان برنامه نویسی",
@@ -28,7 +28,7 @@
       "parent": "programming",
       "identifier": "programming--far"
 }
-}،
+},
   "lastmod": "2021-09-06"
 }
 

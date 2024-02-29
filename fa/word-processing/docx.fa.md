@@ -7,10 +7,10 @@
 "نوع فایل",
 "افزونه",
 "فایل DOCX چیست؟"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "DOCX",
@@ -21,7 +21,7 @@
       "parent": "word-processing",
       "identifier": "word-processing-doc-fax"
 }
-}،
+},
   "lastmod": "2019-12-03"
 }
 

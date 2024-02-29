@@ -2,7 +2,7 @@
   "date" : "2023-11-01",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل BKUP - فرمت فایل پشتیبان تعمیم یافته برای پشتیبان گیری از فایل ها",
@@ -13,7 +13,7 @@
       "identifier":"misc-bkup-fa",
       "parent" : "misc"
 }
-}،
+},
   "lastmod" : "2023-11-01"
 }
 

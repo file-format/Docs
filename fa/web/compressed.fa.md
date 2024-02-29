@@ -2,7 +2,7 @@
   "date": "2023-05-23",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فایل فشرده - فرمت فایل فشرده شده صفحه وب WordCompress",
@@ -13,7 +13,7 @@
       "parent": "web",
       "identifier": "web-compresse-fad"
 }
-}،
+},
   "lastmod": "2023-05-23"
 }
 

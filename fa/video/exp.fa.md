@@ -7,10 +7,10 @@
 "فایل",
 "پسوند فایل exp",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل EXP - فایل ویدئویی صادر شده سری DX",
@@ -21,7 +21,7 @@
       "identifier": "video-exp-fa",
       "parent": "video"
 }
-}،
+},
   "lastmod": "2023-07-13"
 }
 

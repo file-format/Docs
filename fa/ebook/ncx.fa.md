@@ -8,10 +8,10 @@
 "کتاب الکترونیکی",
 "TOC",
 "کنسرسیوم دیزی"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل XML (NCX) کنترل ناوبری EPUB و APIهایی که می‌توانند فایل‌های NCX را ایجاد و باز کنند، بیاموزید.",
@@ -22,7 +22,7 @@
       "parent": "ebook",
       "identifier": "ebook-ncx"
 }
-}،
+},
   "lastmod": "2021-03-22"
 }
 

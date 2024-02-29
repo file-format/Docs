@@ -3,7 +3,7 @@
   "keywords" : [ "FDB", "what is a FDB file", "extension", "file", "file format", "Database File Type", "Database File Format", "Database Files" ],
   "author" : {
     "display_name" : "Shakeel Faiz"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "description" : "درباره فرمت فایل FDB و API هایی که می توانند فایل های FDB ایجاد و باز کنند، بیاموزید.",
@@ -14,7 +14,7 @@
       "identifier":"database-fdb-fa",
       "parent" : "database"
 }
-}،
+},
   "lastmod" : "2020-01-18"
 }
 

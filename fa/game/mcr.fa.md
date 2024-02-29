@@ -2,7 +2,7 @@
   "date": "2022-12-13",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل MCR و APIهایی که می‌توانند فایل‌های MCR را ایجاد و باز کنند، بیاموزید.",
@@ -13,7 +13,7 @@
       "parent": "game",
       "identifier": "game-mc-far"
 }
-}،
+},
   "lastmod": "2022-12-14"
 }
 

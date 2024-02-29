@@ -8,10 +8,10 @@
 "فایل",
 "پسوند فایل rpd",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل RPD - فایل پایگاه داده پروژه RIB",
@@ -22,7 +22,7 @@
       "identifier": "database-rpd-fa",
       "parent": "database"
 }
-}،
+},
   "lastmod": "2023-09-05"
 }
 

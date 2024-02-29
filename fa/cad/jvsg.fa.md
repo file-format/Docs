@@ -4,10 +4,10 @@
 "فایل JVSG",
 "قالب",
 "CAD"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل JVSG و APIهایی که می توانند فایل های JVSG ایجاد و باز کنند، بیاموزید.",
@@ -18,7 +18,7 @@
       "parent": "cad",
       "identifier": "cad-jvs-fag"
 }
-}،
+},
   "lastmod": "2020-10-24"
 }
 

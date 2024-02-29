@@ -3,7 +3,7 @@
   "keywords" : [ "sav file", "sav file format", "what is a sav file", "file", "sav example", "Nintendo sav file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "description":"درباره قالب فایل Nintendo DS SAV و APIهایی که می‌توانند فایل‌های SAV را ایجاد و باز کنند، بیاموزید.",
@@ -14,7 +14,7 @@
       "identifier":"game-sav-fa",
       "parent" : "game"
 }
-}،
+},
   "lastmod" : "2021-09-08"
 }
 

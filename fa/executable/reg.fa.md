@@ -9,10 +9,10 @@
 "پسوند فایل reg",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "با فرمت فایل REG و APIهایی که می توانند فایل های REG را ایجاد و باز کنند آشنا شوید.",
@@ -23,7 +23,7 @@
       "parent": "executable",
       "identifier": "executable-re-fag"
 }
-}،
+},
   "lastmod": "2021-08-02"
 }
 

@@ -8,10 +8,10 @@
 "کتاب الکترونیکی",
 "TomeRaider",
 "یادابایت"
-]،
+],
   "author": {
     "display_name": "Sami Cheema"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل TR3 و API هایی که می توانند فایل های TR3 را ایجاد و باز کنند، بیاموزید.",
@@ -22,7 +22,7 @@
       "parent": "ebook",
       "identifier": "ebook-tr-fa3"
 }
-}،
+},
   "lastmod": "2021-04-10"
 }
 

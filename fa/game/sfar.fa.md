@@ -9,10 +9,10 @@
 "پسوند فایل Mass Effect 3 DLC",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره قالب فایل Mass Effect 3 SFAR و APIهایی که می‌توانند فایل‌های SFAR را ایجاد و باز کنند، بیاموزید.",
@@ -23,7 +23,7 @@
       "parent": "game",
       "identifier": "game-sfa-far"
 }
-}،
+},
   "lastmod": "2021-10-20"
 }
 

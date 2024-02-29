@@ -4,10 +4,10 @@
 "فایل DC3",
 "فرمت فایل",
 "CAD"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل DC3 و APIهایی که می‌توانند فایل‌های DC3 را ایجاد و باز کنند، بیاموزید.",
@@ -18,7 +18,7 @@
       "parent": "cad",
       "identifier": "cad-dc-fa3"
 }
-}،
+},
   "lastmod": "2020-09-10"
 }
 

@@ -7,10 +7,10 @@
 "نحوه باز کردن فایل wq2",
 "پسوند فایل wq2",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل WQ2 - Quattro Pro برای فایل صفحه گسترده DOS",
@@ -21,7 +21,7 @@
       "identifier": "spreadsheet-wq2-fa",
       "parent": "spreadsheet"
 }
-}،
+},
   "lastmod": "2023-02-28"
 }
 

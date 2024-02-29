@@ -2,7 +2,7 @@
   "date" : "2024-01-18",
   "author" : {
     "display_name" : "Shakeel Faiz"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل CDX - Compound Index File - فایل cdx چیست و چگونه آن را باز کنیم؟",
@@ -13,7 +13,7 @@
       "identifier" : "data-cdx-fa",
       "parent" : "data"
 }
-}،
+},
   "lastmod" : "2024-01-18"
 }
 

@@ -9,10 +9,10 @@
 "پسوند فایل cue",
 "افزونه",
 "فایل"
-]،
+],
    "author":{
       "display_name":"Shakeel Faiz"
-}،
+},
    "draft":"false",
    "toc":true,
    "title":"فرمت فایل CUE - CDRWIN Cue Sheet",
@@ -23,7 +23,7 @@
          "identifier":"disc-and-media-cue-cdrwin-fa",
          "parent":"disc-and-media"
 }
-}،
+},
    "lastmod":"2023-10-18"
 }
 

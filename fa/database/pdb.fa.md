@@ -9,10 +9,10 @@
 "RCSB PDB",
 "نحوه باز کردن فایل های pdf",
 "پسوند فایل pdf"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فایل های PDB چیست؟ درک PDB Files: A Crucial Tool for Structural Biology",
@@ -23,7 +23,7 @@
       "identifier": "database-pdb",
       "parent": "database"
 }
-}،
+},
   "lastmod": "2023-06-26"
 }
 

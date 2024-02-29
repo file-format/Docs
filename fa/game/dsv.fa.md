@@ -2,7 +2,7 @@
   "date" : "2024-02-01",
   "author" : {
     "display_name" : "Shakeel Faiz"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل DSV - فایل بازی ذخیره شده DeSmuME - فایل dsv چیست و چگونه آن را باز کنیم؟",
@@ -13,7 +13,7 @@
       "identifier" : "game-en-dsv-fa",
       "parent" : "game"
 }
-}،
+},
   "lastmod" : "2024-02-01"
 }
 

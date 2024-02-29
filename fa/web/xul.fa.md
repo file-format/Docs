@@ -7,10 +7,10 @@
 "فرمت فایل",
 "فرمت فایل",
 "زبان رابط کاربری XML"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "XUL - فایل زبان رابط کاربری XML",
@@ -21,7 +21,7 @@
       "parent": "web",
       "identifier": "web-xu-fal"
 }
-}،
+},
   "lastmod": "2021-05-24"
 }
 

@@ -2,7 +2,7 @@
   "date" : "2023-02-02",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل XPD - فرمت فایل سند خط لوله XML",
@@ -13,7 +13,7 @@
       "identifier":"web-xpd-fa",
       "parent" : "web"
 }
-}،
+},
   "lastmod" : "2023-02-02"
 }
 

@@ -2,7 +2,7 @@
   "date": "2022-06-26",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل GZIP - فایل بایگانی فشرده گنو",
@@ -13,7 +13,7 @@
       "parent": "compression",
       "identifier": "compression-gzi-fap"
 }
-}،
+},
   "lastmod": "2022-06-26"
 }
 

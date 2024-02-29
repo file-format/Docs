@@ -8,10 +8,10 @@
 "پسوند فایل gml",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "GML - فرمت فایل زبان نشانه گذاری جغرافیا",
@@ -22,7 +22,7 @@
       "parent": "gis",
       "identifier": "gis-gm-fal"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

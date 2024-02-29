@@ -2,7 +2,7 @@
   "date": "2023-01-31",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "SEAM File - Seam Framework فرمت فایل Java Servlet",
@@ -10,11 +10,10 @@
   "linktitle": "SEAM",
   "menu": {
     "docs": {
-"شناسه»: «درز وب",
       "parent": "web",
       "identifier": "web-sea-fam"
 }
-}،
+},
   "lastmod": "2023-01-31"
 }
 

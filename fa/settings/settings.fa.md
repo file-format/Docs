@@ -6,10 +6,10 @@
 "فایل",
 "پسوند فایل تنظیمات",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل تنظیمات - فایل تنظیمات ویژوال استودیو",
@@ -20,7 +20,7 @@
       "identifier": "settings-settings-fa",
       "parent": "settings"
 }
-}،
+},
   "lastmod": "2023-03-29"
 }
 

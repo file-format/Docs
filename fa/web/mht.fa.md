@@ -8,10 +8,10 @@
 "فایل",
 "نوع",
 "فایل mht چیست"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل MHT - MIME HTML",
@@ -22,7 +22,7 @@
       "parent": "web",
       "identifier": "web-mh-fat"
 }
-}،
+},
   "lastmod": "2021-02-29"
 }
 

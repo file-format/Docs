@@ -8,10 +8,10 @@
 "فایل",
 "نوع",
 "فایل asp چیست"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "ASP - فرمت فایل صفحات سرور فعال",
@@ -22,7 +22,7 @@
       "parent": "web",
       "identifier": "web-as-fap"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

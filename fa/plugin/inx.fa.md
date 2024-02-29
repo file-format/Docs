@@ -2,7 +2,7 @@
   "date" : "2023-12-11",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل INX - فایل INX چیست و چگونه آن را باز کنیم؟",
@@ -13,7 +13,7 @@
       "parent" : "plugin",
       "identifier":"plugin-en-in-fax"
 }
-}،
+},
   "lastmod" : "2023-12-11"
 }
 

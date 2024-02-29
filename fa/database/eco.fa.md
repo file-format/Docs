@@ -8,10 +8,10 @@
 "فایل",
 "پسوند فایل eco",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل ECO - فایل پایگاه داده ECCO",
@@ -22,7 +22,7 @@
       "identifier": "database-eco-fa",
       "parent": "database"
 }
-}،
+},
   "lastmod": "2023-08-03"
 }
 

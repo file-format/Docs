@@ -2,7 +2,7 @@
   "date" : "2023-01-24",
   "author" : {
     "display_name" : "Shakeel Faiz"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "description" : "با فرمت فایل MDF و API هایی که می توانند فایل های MDF را ایجاد و باز کنند آشنا شوید.",
@@ -13,7 +13,7 @@
       "identifier":"disc-and-media-mdf-fa",
       "parent" : "disc-and-media"
 }
-}،
+},
   "lastmod" : "2023-01-24"
 }
 

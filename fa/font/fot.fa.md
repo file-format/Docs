@@ -2,7 +2,7 @@
   "date" : "2020-08-20",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "FOT - فرمت فایل منبع فونت",
@@ -13,7 +13,7 @@
       "identifier":"font-fot-fa",
       "parent" : "font"
 }
-}،
+},
   "lastmod" : "2020-10-30"
 }
 

@@ -9,10 +9,10 @@
 "ویدیوی TrueMotion",
 "VPX",
 "On2 Technologies"
-]،
+],
   "author": {
     "display_name": "Sami Cheema"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "VP9 - فایل ویدئویی TrueMotion",
@@ -23,7 +23,7 @@
       "parent": "video",
       "identifier": "video-vp-fa9"
 }
-}،
+},
   "lastmod": "2021-03-27"
 }
 

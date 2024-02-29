@@ -7,10 +7,10 @@
 "فایل",
 "پسوند فایل ttr",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل TTR - پخش مجدد TETR.IO",
@@ -21,7 +21,7 @@
       "identifier": "game-ttr-fa",
       "parent": "game"
 }
-}،
+},
   "lastmod": "2023-04-04"
 }
 

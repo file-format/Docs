@@ -2,7 +2,7 @@
   "date": "2022-04-20",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل NEF - تصویر RAW با فرمت الکترونیکی نیکون",
@@ -13,7 +13,7 @@
       "parent": "image",
       "identifier": "image-ne-faf"
 }
-}،
+},
   "lastmod": "2022-04-20"
 }
 

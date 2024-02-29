@@ -8,10 +8,10 @@
 "وب",
 "گواهی",
 "زبان"
-]،
+],
   "author": {
     "display_name": "Sami Cheema"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "CER - فرمت فایل گواهی",
@@ -22,7 +22,7 @@
       "parent": "web",
       "identifier": "web-ce-far"
 }
-}،
+},
   "lastmod": "2021-07-13"
 }
 

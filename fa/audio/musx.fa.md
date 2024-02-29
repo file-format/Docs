@@ -2,7 +2,7 @@
   "date" : "2024-01-10",
   "author" : {
     "display_name" : "Shakeel Faiz"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل MUSX - Finale Notation File - فایل musx چیست و چگونه آن را باز کنیم؟",
@@ -13,7 +13,7 @@
       "identifier": "audio-musx-fa",
       "parent" : "audio"
 }
-}،
+},
   "lastmod" : "2024-01-10"
 }
 

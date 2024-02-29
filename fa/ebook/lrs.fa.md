@@ -7,10 +7,10 @@
 "قالب",
 "کتاب الکترونیکی",
 "کتاب دیجیتال"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره قالب فایل LRS و APIهایی که می‌توانند فایل‌های LRS را ایجاد و باز کنند، بیاموزید.",
@@ -21,7 +21,7 @@
       "parent": "ebook",
       "identifier": "ebook-lr-fas"
 }
-}،
+},
   "lastmod": "2020-11-04"
 }
 

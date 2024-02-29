@@ -2,7 +2,7 @@
   "date": "2022-09-17",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فایل DISCO - فرمت فایل سند کشف DISCO",
@@ -13,7 +13,7 @@
       "parent": "web",
       "identifier": "web-disc-fao"
 }
-}،
+},
   "lastmod": "2022-09-17"
 }
 

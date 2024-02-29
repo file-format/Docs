@@ -11,10 +11,10 @@
 "نصاب",
 "برپایی",
 "AdvPak"
-]،
+],
   "author": {
     "display_name": "Sami Cheema"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "CAB - فایل کابینت ویندوز",
@@ -25,7 +25,7 @@
       "parent": "system",
       "identifier": "system-ca-fab"
 }
-}،
+},
   "lastmod": "2021-06-29"
 }
 

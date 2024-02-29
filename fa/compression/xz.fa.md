@@ -9,10 +9,10 @@
 "پسوند فایل xz",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فایل XZ - بایگانی فشرده XZ",
@@ -23,7 +23,7 @@
       "parent": "compression",
       "identifier": "compression-x-faz"
 }
-}،
+},
   "lastmod": "2022-01-23"
 }
 

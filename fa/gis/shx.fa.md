@@ -9,10 +9,10 @@
 "پسوند فایل shx",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "SHX - فرمت شاخص شکل فایل شکل",
@@ -23,7 +23,7 @@
       "parent": "gis",
       "identifier": "gis-sh-fax"
 }
-}،
+},
   "lastmod": "2021-07-29"
 }
 

@@ -2,7 +2,7 @@
   "date": "2022-06-20",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل FZPZ - فایل قسمت Fritzing",
@@ -13,7 +13,7 @@
       "parent": "compression",
       "identifier": "compression-fzp-faz"
 }
-}،
+},
   "lastmod": "2022-06-20"
 }
 

@@ -6,10 +6,10 @@
 "فرمت فایل",
 "نوع فایل",
 "فایل .asa چیست؟"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "ASA - فایل پیکربندی ASP",
@@ -20,7 +20,7 @@
       "parent": "web",
       "identifier": "web-as-faa"
 }
-}،
+},
   "lastmod": "2021-12-09"
 }
 

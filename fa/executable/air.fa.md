@@ -6,10 +6,10 @@
 "نحوه باز کردن فایل ایر",
 "پسوند فایل air",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل AIR و APIهایی که می‌توانند فایل‌های AIR را ایجاد و باز کنند، بیاموزید.",
@@ -20,7 +20,7 @@
       "identifier": "executable-air-fa",
       "parent": "executable"
 }
-}،
+},
   "lastmod": "2023-02-01"
 }
 

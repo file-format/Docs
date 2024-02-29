@@ -9,10 +9,10 @@
 "فایل",
 "پسوند فایل bak",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل BAK - Terraria World یا Player Backup",
@@ -23,7 +23,7 @@
       "identifier": "game-bak-terraria-fa",
       "parent": "game"
 }
-}،
+},
   "lastmod": "2023-06-12"
 }
 

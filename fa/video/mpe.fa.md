@@ -2,7 +2,7 @@
   "date": "2022-02-19",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فایل MPE - فرمت فایل فیلم MPEG",
@@ -19,7 +19,7 @@
 "ویدئو",
 "MPEG-1",
 "MPEG-2"
-]،
+],
   "description": "درباره فرمت فایل MPG و APIهایی که می توانند ایجاد کنند و نحوه باز کردن فایل های MPG را نشان دهند، بیاموزید.",
   "linktitle": "MPE",
   "menu": {
@@ -27,7 +27,7 @@
       "parent": "video",
       "identifier": "video-mp-fae"
 }
-}،
+},
   "lastmod": "2022-02-19"
 }
 

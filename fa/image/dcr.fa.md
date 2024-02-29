@@ -3,7 +3,7 @@
   "keywords" : [ "dcr file", "dcr file format", "what is a dcr file", "file", "dcr example", "dcr file extension","extension", "format" ],
   "author" : {
     "display_name" : "Muhammad Umar"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "DCR - فایل تصویری RAW دوربین دیجیتال",
@@ -14,7 +14,7 @@
       "identifier":"image-dcr-fa",
       "parent" : "image"
 }
-}،
+},
   "lastmod" : "2021-26-08"
 }
 

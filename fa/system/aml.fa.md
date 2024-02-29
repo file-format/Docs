@@ -2,7 +2,7 @@
   "date" : "2022-04-12",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل AML - فایل زبان ماشین ACPI",
@@ -13,7 +13,7 @@
       "identifier" : "system-aml-fa",
       "parent" : "system"
 }
-}،
+},
   "lastmod" : "2022-04-12"
 }
 

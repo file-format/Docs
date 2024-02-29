@@ -4,10 +4,10 @@
 "فایل PLT",
 "فرمت فایل",
 "CAD"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل PLT و API هایی که می توانند فایل های PLT را ایجاد و باز کنند، بیاموزید.",
@@ -18,7 +18,7 @@
       "parent": "cad",
       "identifier": "cad-pl-fat"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

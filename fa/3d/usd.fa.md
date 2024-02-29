@@ -8,10 +8,10 @@
 "فایل",
 "افزونه",
 "3 بعدی"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "USD - فرمت توصیف صحنه جهانی",
@@ -22,7 +22,7 @@
       "parent": "3d",
       "identifier": "3d-us-fad"
 }
-}،
+},
   "lastmod": "2021-02-01"
 }
 

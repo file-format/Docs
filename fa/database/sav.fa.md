@@ -3,7 +3,7 @@
   "keywords" : [ "SAV", "extension", "sav file", "sav file format", "Database File Type", "Database File Format", "what is a sav file" ],
   "author" : {
     "display_name" : "Muhammad Umar"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "description" : "درباره فرمت فایل SAV و APIهایی که می‌توانند فایل‌های SAV را ایجاد و باز کنند، بیاموزید.",
@@ -14,7 +14,7 @@
       "identifier":"database-sav-fa",
       "parent" : "database"
 }
-}،
+},
   "lastmod" : "2021-06-14"
 }
 

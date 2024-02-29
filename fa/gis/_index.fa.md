@@ -3,7 +3,7 @@
   "keywords" : [ "GIS", "File", "Format", "GIS data", "List of GIS Data formats" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "description" : "فایل های GIS حاوی اطلاعاتی در مورد داده های جغرافیایی است که شامل اطلاعات مکانی است. فرمت های فایل GIS شامل فایل های SHP، KML، KMZ، GeoJSON، FileGDB و OpenStreetMap می باشد.",
   "categories" : [ "fundamentals" ],
@@ -12,9 +12,9 @@
   "menu" : {
     "docs" : {
       "parent" : "gis",
-"وزن : 01"
+"weight" : "01"
 }
-}،
+},
   "lastmod" : "2019-09-10"
 }
 

@@ -9,10 +9,10 @@
 "پسوند فایل smc",
 "افزونه",
 "فایل"
-]،
+],
    "author" : {
       "display_name" : "Shakeel Faiz"
-}،
+},
    "draft" : "false",
    "toc" : true,
    "title" : "SMC File - Super Nintendo Game ROM - فایل .smc چیست و چگونه آن را باز کنیم؟",
@@ -23,7 +23,7 @@
          "identifier" : "game-smc-fa",
          "parent" : "game"
 }
-}،
+},
    "lastmod" : "2023-12-14"
 }
 

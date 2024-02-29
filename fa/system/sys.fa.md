@@ -11,10 +11,10 @@
 "برنامه ها",
 "کامپیوتر",
 "کاربرد"
-]،
+],
   "author": {
     "display_name": "Sami Cheema"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "SYS - فرمت فایل سیستم",
@@ -25,7 +25,7 @@
       "parent": "system",
       "identifier": "system-sy-fas"
 }
-}،
+},
   "lastmod": "2021-07-08"
 }
 

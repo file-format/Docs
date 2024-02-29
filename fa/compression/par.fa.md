@@ -8,10 +8,10 @@
 "پسوند فایل PAR",
 "افزونه",
 "فایل"
-]،
+],
    "author":{
       "display_name":"Shakeel Faiz"
-}،
+},
    "draft":"false",
    "toc":true,
    "title":"فرمت فایل PAR - فایل فهرست پارشیو",
@@ -22,7 +22,7 @@
          "identifier":"compression-par-fa",
          "parent":"compression"
 }
-}،
+},
    "lastmod":"2023-07-18"
 }
 

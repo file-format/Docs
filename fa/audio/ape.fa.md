@@ -12,10 +12,10 @@
 "فایل میمون",
 "پسوند فایل ape",
 "نحوه باز کردن فایل میمون"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل APE و APIهایی که می توانند فایل های APE را ایجاد، تبدیل و باز کنند، بیاموزید.",
@@ -26,7 +26,7 @@
       "parent": "audio",
       "identifier": "audio-ap-fae"
 }
-}،
+},
   "lastmod": "2021-04-30"
 }
 

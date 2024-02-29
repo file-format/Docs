@@ -2,7 +2,7 @@
   "date" : "2022-03-07",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل DAP - دانلود فایل Accelerator Plus دانلود در حال انجام",
@@ -13,7 +13,7 @@
       "identifier":"misc-dap-fa",
       "parent" : "misc"
 }
-}،
+},
   "lastmod" : "2022-03-07"
 }
 

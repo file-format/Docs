@@ -2,7 +2,7 @@
   "date": "2022-03-01",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فایل WUX - فرمت فایل تصویر دیسک Wii U فشرده",
@@ -13,7 +13,7 @@
       "parent": "compression",
       "identifier": "compression-wu-fax"
 }
-}،
+},
   "lastmod": "2022-03-01"
 }
 

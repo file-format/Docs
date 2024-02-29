@@ -9,10 +9,10 @@
 "پسوند فایل mpkg",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل MPKG - فایل Meta Package",
@@ -23,7 +23,7 @@
       "parent": "compression",
       "identifier": "compression-mpk-fag"
 }
-}،
+},
   "lastmod": "2021-04-02"
 }
 

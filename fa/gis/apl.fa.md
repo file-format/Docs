@@ -2,7 +2,7 @@
   "date": "2021-08-26",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "APL - فایل لایه ArcPad",
@@ -13,7 +13,7 @@
       "parent": "gis",
       "identifier": "gis-ap-fal"
 }
-}،
+},
   "lastmod": "2021-08-26"
 }
 

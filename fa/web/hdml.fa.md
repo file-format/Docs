@@ -2,7 +2,7 @@
   "date": "2021-08-21",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فایل زبان نشانه گذاری دستگاه دستی",
@@ -13,7 +13,7 @@
       "parent": "web",
       "identifier": "web-hdm-fal"
 }
-}،
+},
   "lastmod": "2021-08-21"
 }
 

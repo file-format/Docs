@@ -7,10 +7,10 @@
 "قالب",
 "کتاب الکترونیکی",
 "کتاب دیجیتال"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل LRF و APIهایی که می‌توانند فایل‌های LRF را ایجاد و باز کنند، بیاموزید.",
@@ -21,7 +21,7 @@
       "parent": "ebook",
       "identifier": "ebook-lr-faf"
 }
-}،
+},
   "lastmod": "2019-12-12"
 }
 

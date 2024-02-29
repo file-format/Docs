@@ -2,7 +2,7 @@
   "date": "2022-03-02",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فایل TGZ - فایل Gzipped Tar",
@@ -13,7 +13,7 @@
       "parent": "compression",
       "identifier": "compression-tg-faz"
 }
-}،
+},
   "lastmod": "2022-03-02"
 }
 

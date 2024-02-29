@@ -9,10 +9,10 @@
 "پسوند فایل cff",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "CFF - فرمت فایل فونت فشرده",
@@ -23,7 +23,7 @@
       "parent": "font",
       "identifier": "font-cf-faf"
 }
-}،
+},
   "lastmod": "2020-10-21"
 }
 

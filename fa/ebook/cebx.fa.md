@@ -9,10 +9,10 @@
 "کتاب الکترونیکی",
 "کتاب الکترونیکی چینی",
 "Apabi Reader 4.5"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل CEBX و APIهایی که می‌توانند فایل‌های CEBX را ایجاد و باز کنند، بیاموزید.",
@@ -23,7 +23,7 @@
       "parent": "ebook",
       "identifier": "ebook-ceb-fax"
 }
-}،
+},
   "lastmod": "2021-03-15"
 }
 

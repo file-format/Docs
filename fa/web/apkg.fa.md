@@ -8,10 +8,10 @@
 "فایل",
 "نوع",
 "فایل APKG چیست؟"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل APKG - Anki Flashcard Deck",
@@ -22,7 +22,7 @@
       "parent": "web",
       "identifier": "web-apk-fag"
 }
-}،
+},
   "lastmod": "2021-06-16"
 }
 

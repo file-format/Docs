@@ -6,10 +6,10 @@
 "فایل",
 "پسوند فایل crypt12",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل CRYPT12 - فایل پایگاه داده رمزگذاری شده WhatsApp",
@@ -20,7 +20,7 @@
       "identifier": "database-crypt12-fa",
       "parent": "database"
 }
-}،
+},
   "lastmod": "2023-03-14"
 }
 

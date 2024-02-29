@@ -9,10 +9,10 @@
 "پسوند فایل lst",
 "افزونه",
 "فایل"
-]،
+],
    "author":{
       "display_name":"Shakeel Faiz"
-}،
+},
    "draft":"false",
    "toc":true,
    "title":"فایل LST - فهرست داده ها - فایل lst چیست و چگونه آن را باز کنیم؟",
@@ -23,7 +23,7 @@
          "identifier":"word-processing-lst-fa",
          "parent":"word-processing"
 }
-}،
+},
    "lastmod":"2023-11-15"
 }
 

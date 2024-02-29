@@ -7,10 +7,10 @@
 "فایل",
 "پسوند فایل iss",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل ISS - Inno Setup Script",
@@ -21,7 +21,7 @@
       "identifier": "settings-iss-fa",
       "parent": "settings"
 }
-}،
+},
   "lastmod": "2023-03-28"
 }
 

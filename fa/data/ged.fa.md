@@ -9,10 +9,10 @@
 "پسوند فایل ged",
 "افزونه",
 "فایل"
-]،
+],
    "author" : {
       "display_name" : "Shakeel Faiz"
-}،
+},
    "draft" : "false",
    "toc" : true,
    "title" : "فایل GED - GEDCOM Genealogy Data File - فایل .ged چیست و چگونه آن را باز کنیم؟",
@@ -23,7 +23,7 @@
          "identifier" : "data-ged-fa",
          "parent" : "data"
 }
-}،
+},
    "lastmod" : "2023-12-14"
 }
 

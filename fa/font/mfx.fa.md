@@ -9,10 +9,10 @@
 "پسوند فایل mfx",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فایل MFX - فرمت فایل فونت Maxis",
@@ -23,7 +23,7 @@
       "parent": "font",
       "identifier": "font-mf-fax"
 }
-}،
+},
   "lastmod": "2022-02-14"
 }
 

@@ -6,10 +6,10 @@
 "فایل",
 "پسوند فایل opdownload",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل OPDOWNLOAD - فایل جزئی بارگیری شده اپرا",
@@ -20,7 +20,7 @@
       "identifier": "web-opdownload-fa",
       "parent": "web"
 }
-}،
+},
   "lastmod": "2023-03-14"
 }
 

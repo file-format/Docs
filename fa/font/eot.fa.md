@@ -9,10 +9,10 @@
 "پسوند فایل eot",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "EOT - فرمت فایل فونت TrueType",
@@ -23,7 +23,7 @@
       "parent": "font",
       "identifier": "font-eo-fat"
 }
-}،
+},
   "lastmod": "2020-10-21"
 }
 

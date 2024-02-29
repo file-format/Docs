@@ -7,10 +7,10 @@
 "فرمت فایل",
 "برتری داشتن",
 "صفحه گسترده"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره اینکه یک فایل XL چیست و APIهایی که می توانند فایل های XL را ایجاد و باز کنند، بیاموزید.",
@@ -21,7 +21,7 @@
       "parent": "spreadsheet",
       "identifier": "spreadsheet-x-fal"
 }
-}،
+},
   "lastmod": "2021-07-11"
 }
 

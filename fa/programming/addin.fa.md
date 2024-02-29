@@ -9,10 +9,10 @@
 "پسوند فایل addin",
 "نحوه باز کردن فایل addin",
 "فرمت فایل addin"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "ADDIN - فایل تعریف افزودنی ویژوال استودیو",
@@ -23,7 +23,7 @@
       "parent": "programming",
       "identifier": "programming-addi-fan"
 }
-}،
+},
   "lastmod": "2021-12-12"
 }
 

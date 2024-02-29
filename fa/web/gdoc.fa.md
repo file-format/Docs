@@ -2,7 +2,7 @@
   "date": "2022-01-23",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فایل GDOC - میانبر Google Docs",
@@ -13,7 +13,7 @@
       "parent": "web",
       "identifier": "web-gdo-fac"
 }
-}،
+},
   "lastmod": "2022-01-23"
 }
 

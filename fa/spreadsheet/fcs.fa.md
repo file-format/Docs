@@ -7,10 +7,10 @@
 "فرمت فایل",
 "انتخاب اول",
 "صفحه گسترده"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "یک فایل FCS و APIهایی که می توانند فایل های FCS را ایجاد و باز کنند چیست؟",
@@ -21,7 +21,7 @@
       "parent": "spreadsheet",
       "identifier": "spreadsheet-fc-fas"
 }
-}،
+},
   "lastmod": "2021-11-30"
 }
 

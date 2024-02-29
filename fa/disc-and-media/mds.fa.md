@@ -2,7 +2,7 @@
   "date" : "2023-01-23",
   "author" : {
     "display_name" : "Shakeel Faiz"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "description" : "درباره فرمت فایل MDS و APIهایی که می‌توانند فایل‌های MDS را ایجاد و باز کنند، بیاموزید.",
@@ -13,7 +13,7 @@
       "identifier":"disc-and-media-mds-fa",
       "parent" : "disc-and-media"
 }
-}،
+},
   "lastmod" : "2023-01-23"
 }
 

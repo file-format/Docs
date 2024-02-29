@@ -2,7 +2,7 @@
   "date" : "2022-04-10",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فرمت فایل MM - فایل منبع Objective-C++",
@@ -13,7 +13,7 @@
       "identifier":"programming-mm-fa",
       "parent" : "programming"
 }
-}،
+},
   "lastmod" : "2022-04-10"
 }
 

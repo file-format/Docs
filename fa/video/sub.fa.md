@@ -11,10 +11,10 @@
 "فایل",
 "پسوند فایل SUB",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل SUB - فایل زیرنویس MicroDVD",
@@ -25,7 +25,7 @@
       "identifier": "video-sub-fa",
       "parent": "video"
 }
-}،
+},
   "lastmod": "2023-06-21"
 }
 

@@ -7,10 +7,10 @@
 "فایل",
 "نمونه غذا",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل FOMOD و API هایی که می توانند فایل های FOMOD را ایجاد و باز کنند، بیاموزید.",
@@ -21,7 +21,7 @@
       "parent": "game",
       "identifier": "game-fomo-fad"
 }
-}،
+},
   "lastmod": "2022-01-06"
 }
 

@@ -6,10 +6,10 @@
 "CAD",
 "باز کن",
 "ايجاد كردن"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل DWG و APIهایی که می‌توانند فایل‌های DWG را ایجاد و باز کنند، بیاموزید.",
@@ -20,7 +20,7 @@
       "parent": "cad",
       "identifier": "cad-dw-fag"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

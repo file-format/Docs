@@ -2,7 +2,7 @@
   "date" : "2022-12-26",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل ZST - فرمت فایل فشرده استاندارد ZST",
@@ -13,7 +13,7 @@
       "identifier":"compression-zst-fa",
       "parent" : "compression"
 }
-}،
+},
   "lastmod" : "2022-12-26"
 }
 

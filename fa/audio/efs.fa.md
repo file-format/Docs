@@ -7,10 +7,10 @@
 "نحوه باز کردن فایل efs",
 "پسوند فایل efs",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل EFS - فایل Ensoniq SQ-80",
@@ -21,7 +21,7 @@
       "identifier": "audio-efs-fa",
       "parent": "audio"
 }
-}،
+},
   "lastmod": "2023-02-16"
 }
 

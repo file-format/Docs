@@ -7,10 +7,10 @@
 "پسوند فایل BIN",
 "افزونه",
 "فایل"
-]،
+],
    "author":{
       "display_name":"Shakeel Faiz"
-}،
+},
    "draft":"false",
    "toc":true,
    "title":"فرمت فایل BIN - فایل اجرایی Unix",
@@ -21,7 +21,7 @@
          "identifier":"executable-bin-fa",
          "parent":"executable"
 }
-}،
+},
    "lastmod":"2023-07-20"
 }
 

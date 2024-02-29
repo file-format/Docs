@@ -9,10 +9,10 @@
 "نحوه حذف فایل nomedia در واتساپ",
 "فایل",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل NOMEDIA - اندروید بدون فایل رسانه ای",
@@ -23,7 +23,7 @@
       "identifier": "misc-nomedia-fa",
       "parent": "misc"
 }
-}،
+},
   "lastmod": "2023-04-06"
 }
 

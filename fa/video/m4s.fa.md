@@ -2,7 +2,7 @@
   "date": "2022-07-18",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فایل M4S - فایل M4S چیست؟",
@@ -13,7 +13,7 @@
       "parent": "video",
       "identifier": "video-m4-fas"
 }
-}،
+},
   "lastmod": "2022-07-18"
 }
 

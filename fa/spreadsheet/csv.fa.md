@@ -7,10 +7,10 @@
 "فرمت فایل",
 "مقادیر جدا شده با کاما",
 "صفحه گسترده"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره قالب فایل CSV و APIهایی که می‌توانند فایل‌های CSV را ایجاد و باز کنند، بیاموزید.",
@@ -21,7 +21,7 @@
       "parent": "spreadsheet",
       "identifier": "spreadsheet-cs-fav"
 }
-}،
+},
   "lastmod": "2019-12-10"
 }
 

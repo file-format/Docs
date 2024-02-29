@@ -9,10 +9,10 @@
 "پسوند فایل kodu",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل Microsfot Kodu و API هایی که می توانند فایل های Kodu را ایجاد و باز کنند، بیاموزید.",
@@ -23,7 +23,7 @@
       "parent": "game",
       "identifier": "game-kod-fau"
 }
-}،
+},
   "lastmod": "2021-09-08"
 }
 

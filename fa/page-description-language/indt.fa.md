@@ -7,10 +7,10 @@
 "فرمت فایل",
 "صفحه آرایی",
 "قالب Adobe InDesign"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل INDT و APIهایی که می توانند فایل های INDT را ایجاد و باز کنند، بیاموزید.",
@@ -21,7 +21,7 @@
       "parent": "page-description-language",
       "identifier": "page-description-language-ind-fat"
 }
-}،
+},
   "lastmod": "2021-12-24"
 }
 

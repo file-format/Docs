@@ -7,10 +7,10 @@
 "فایل",
 "پسوند فایل STY",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل STY - سبک صفحه کلید Yamaha یا Korg",
@@ -21,7 +21,7 @@
       "identifier": "audio-sty-fa",
       "parent": "audio"
 }
-}،
+},
   "lastmod": "2023-06-15"
 }
 

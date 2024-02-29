@@ -8,10 +8,10 @@
 "فایل",
 "نوع",
 "فایل crt چیست"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "CRT - فرمت فایل گواهی امنیتی",
@@ -22,7 +22,7 @@
       "parent": "web",
       "identifier": "web-cr-fat"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

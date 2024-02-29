@@ -10,10 +10,10 @@
 "پسوند wv",
 "فایل های wv",
 "کمپرسور سونارک"
-]،
+],
   "author": {
     "display_name": "Sami Cheema"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل WV و APIهایی که می‌توانند فایل‌های WV را ایجاد و باز کنند، بیاموزید.",
@@ -24,7 +24,7 @@
       "parent": "audio",
       "identifier": "audio-w-fav"
 }
-}،
+},
   "lastmod": "2021-08-03"
 }
 

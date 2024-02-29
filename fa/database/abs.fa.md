@@ -2,7 +2,7 @@
   "date" : "2023-06-18",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "description" : "درباره فرمت فایل ABS و APIهایی که می‌توانند فایل‌های ABS را ایجاد و باز کنند، بیاموزید.",
@@ -13,7 +13,7 @@
       "identifier":"database-abs-fa",
       "parent" : "database"
 }
-}،
+},
   "lastmod" : "2023-06-18"
 }
 

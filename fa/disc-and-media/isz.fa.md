@@ -2,7 +2,7 @@
   "date" : "2023-01-25",
   "author" : {
     "display_name" : "Shakeel Faiz"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "description" : "درباره فرمت فایل ISZ و APIهایی که می توانند فایل های ISZ را ایجاد و باز کنند، بیاموزید.",
@@ -13,7 +13,7 @@
       "identifier":"disc-and-media-isz-fa",
       "parent" : "disc-and-media"
 }
-}،
+},
   "lastmod" : "2023-01-25"
 }
 

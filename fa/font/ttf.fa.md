@@ -9,10 +9,10 @@
 "پسوند فایل ttf",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "TTF - فرمت فایل فونت TrueType",
@@ -23,7 +23,7 @@
       "parent": "font",
       "identifier": "font-tt-faf"
 }
-}،
+},
   "lastmod": "2020-09-21"
 }
 

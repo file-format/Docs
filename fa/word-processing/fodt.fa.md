@@ -7,10 +7,10 @@
 "نوع",
 "قالب",
 "OpenDocument"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "FODT - OpenDocument Flat XML Document",
@@ -21,7 +21,7 @@
       "parent": "word-processing",
       "identifier": "word-processing-fod-fat"
 }
-}،
+},
   "lastmod": "2021-07-25"
 }
 

@@ -9,10 +9,10 @@
 "پسوند فایل heic",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "HEIC - فرمت فایل تصویری با کارایی بالا",
@@ -23,7 +23,7 @@
       "parent": "image",
       "identifier": "image-hei-fac"
 }
-}،
+},
   "lastmod": "2021-03-29"
 }
 

@@ -2,7 +2,7 @@
   "date": "2022-08-19",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فایل HDMP - فرمت فایل Windows Heap Dump",
@@ -13,7 +13,7 @@
       "parent": "system",
       "identifier": "system-hdm-fap"
 }
-}،
+},
   "lastmod": "2022-08-19"
 }
 

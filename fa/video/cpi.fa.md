@@ -9,10 +9,10 @@
 "پسوند فایل cpi",
 "افزونه",
 "فایل"
-]،
+],
    "author":{
       "display_name":"Shakeel Faiz"
-}،
+},
    "draft":"false",
    "toc":true,
    "title":"فرمت فایل CPI - اطلاعات کلیپ ویدیویی AVCHD",
@@ -23,7 +23,7 @@
          "identifier":"video-cpi-fa",
          "parent":"video"
 }
-}،
+},
    "lastmod":"2023-10-18"
 }
 

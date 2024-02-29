@@ -9,10 +9,10 @@
 "پسوند فایل dng",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "DNG - فرمت فایل تصویر دوربین دیجیتال",
@@ -23,7 +23,7 @@
       "parent": "image",
       "identifier": "image-dn-fag"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

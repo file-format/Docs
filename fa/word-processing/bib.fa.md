@@ -9,10 +9,10 @@
 "پسوند فایل bib",
 "افزونه",
 "فایل"
-]،
+],
    "author" : {
       "display_name" : "Shakeel Faiz"
-}،
+},
    "draft" : "false",
    "toc" : true,
    "title" : "فایل BIB - BibTeX Bibliography - فایل .bib چیست و چگونه آن را باز کنیم؟",
@@ -23,7 +23,7 @@
          "identifier" : "word-processing-bib-fa",
          "parent" : "word-processing"
 }
-}،
+},
    "lastmod" : "2023-12-14"
 }
 

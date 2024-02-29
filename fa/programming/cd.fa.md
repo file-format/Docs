@@ -10,10 +10,10 @@
 "فایل سی دی",
 "فرمت فایل cd",
 "پسوند فایل cd"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "سی دی - فایل نمودار کلاس ویژوال استودیو",
@@ -24,7 +24,7 @@
       "parent": "programming",
       "identifier": "programming-c-fad"
 }
-}،
+},
   "lastmod": "2021-06-24"
 }
 

@@ -2,7 +2,7 @@
   "date" : "2021-09-08",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "description":"درباره فرمت فایل OSZ و APIهایی که می‌توانند فایل‌های OSZ را ایجاد و باز کنند، بیاموزید.",
@@ -13,7 +13,7 @@
       "identifier":"game-osz-fa",
       "parent" : "game"
 }
-}،
+},
   "lastmod" : "2021-09-08"
 }
 

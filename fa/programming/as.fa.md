@@ -11,10 +11,10 @@
 "Аdоbe Flash",
 "اکشن اسکریپت",
 "Mасrоmediaа فلاش"
-]،
+],
   "author": {
     "display_name": "Sami Cheema"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "AS - فرمت فایل ActionScript",
@@ -25,7 +25,7 @@
       "parent": "programming",
       "identifier": "programming-a-fas"
 }
-}،
+},
   "lastmod": "2021-08-31"
 }
 

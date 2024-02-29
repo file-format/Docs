@@ -8,10 +8,10 @@
 "xlsx",
 "صفحه گسترده",
 "iCloud"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "دانش فرمت فایل در مورد فایل Numbers-TEF و APIهایی که می توانند آنها را ایجاد و باز کنند.",
@@ -22,7 +22,7 @@
       "parent": "spreadsheet",
       "identifier": "spreadsheet-numbers-te-faf"
 }
-}،
+},
   "lastmod": "2021-03-03"
 }
 

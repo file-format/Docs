@@ -6,10 +6,10 @@
 "فایل",
 "پسوند فایل asl",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل ASL - سبک لایه فتوشاپ",
@@ -20,7 +20,7 @@
       "identifier": "settings-asl-fa",
       "parent": "settings"
 }
-}،
+},
   "lastmod": "2023-04-28"
 }
 

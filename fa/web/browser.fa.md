@@ -2,7 +2,7 @@
   "date" : "2023-06-06",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل BROWSER - فرمت فایل تعریف مرورگر ASP.NET",
@@ -13,7 +13,7 @@
       "parent" : "web",
       "identifier": "web-browse-far"
 }
-}،
+},
   "lastmod" : "22023-06-06"
 }
 

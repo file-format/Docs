@@ -13,10 +13,10 @@
 "yaml در مقابل json",
 "نمونه فایل YAML",
 "نمونه فایل docker yaml"
-]،
+],
   "author": {
     "display_name": "Muhammad Ahmad Chishti"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": " درباره فرمت فایل YAML و APIهایی که می توانند یک فایل YAML ایجاد و باز کنند، بیاموزید.",
@@ -27,7 +27,7 @@
       "parent": "programming",
       "identifier": "programming-yam-fal"
 }
-}،
+},
   "lastmod": "2021-05-05"
 }
 

@@ -2,7 +2,7 @@
   "date": "2022-02-03",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فایل WBS - فایل پروژه WebBlender",
@@ -13,7 +13,7 @@
       "parent": "web",
       "identifier": "web-wb-fas"
 }
-}،
+},
   "lastmod": "2022-02-03"
 }
 

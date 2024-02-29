@@ -9,10 +9,10 @@
 "فایل",
 "پسوند فایل cfg",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل CFG - فایل پیکربندی مدل Cal3D",
@@ -23,7 +23,7 @@
       "identifier": "misc-cfg-cal3d-fa",
       "parent": "misc"
 }
-}،
+},
   "lastmod": "2023-09-27"
 }
 

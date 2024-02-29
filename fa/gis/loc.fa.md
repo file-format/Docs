@@ -7,10 +7,10 @@
 "فرمت فایل",
 "موقعیت مکانی GPS",
 "نقطه راه"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "LOC - فرمت فایل مکان GPS",
@@ -21,7 +21,7 @@
       "parent": "gis",
       "identifier": "gis-lo-fac"
 }
-}،
+},
   "lastmod": "2021-07-18"
 }
 

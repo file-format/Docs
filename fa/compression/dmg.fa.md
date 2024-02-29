@@ -8,10 +8,10 @@
 "فرمت فایل",
 "تصویر دیسک اپل",
 "مکینتاش"
-]،
+],
   "author": {
     "display_name": "Sami Cheema"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "DMG - Apple Disk Image",
@@ -22,7 +22,7 @@
       "parent": "compression",
       "identifier": "compression-dm-fag"
 }
-}،
+},
   "lastmod": "2021-04-30"
 }
 

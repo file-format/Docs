@@ -12,10 +12,10 @@
 "فایل DSS",
 "تبدیل dss به mp3",
 "نحوه پخش فایل های DSS"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل DSS و APIهایی که می‌توانند فایل‌های DSS را ایجاد، تبدیل و باز کنند، بیاموزید.",
@@ -26,7 +26,7 @@
       "parent": "audio",
       "identifier": "audio-ds-fas"
 }
-}،
+},
   "lastmod": "2021-28-05"
 }
 

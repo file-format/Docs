@@ -6,10 +6,10 @@
 "افزونه",
 "قالب",
 "فرمت فایل mf"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "MF - فرمت فایل مانیفست جاوا",
@@ -20,7 +20,7 @@
       "parent": "programming",
       "identifier": "programming-m-faf"
 }
-}،
+},
   "lastmod": "2020-09-10"
 }
 

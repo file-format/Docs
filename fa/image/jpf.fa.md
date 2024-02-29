@@ -9,10 +9,10 @@
 "پسوند فایل jpf",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "JPF - فرمت فایل تصویر",
@@ -23,7 +23,7 @@
       "parent": "image",
       "identifier": "image-jp-faf"
 }
-}،
+},
   "lastmod": "2021-02-10"
 }
 

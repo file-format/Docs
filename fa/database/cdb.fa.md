@@ -8,10 +8,10 @@
 "نوع فایل پایگاه داده",
 "فرمت فایل پایگاه داده",
 "فایل cdb چیست"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "با فرمت فایل CDB و APIهایی که می توانند فایل های CDB را ایجاد و باز کنند آشنا شوید.",
@@ -22,7 +22,7 @@
       "parent": "database",
       "identifier": "database-cd-fab"
 }
-}،
+},
   "lastmod": "2021-06-16"
 }
 

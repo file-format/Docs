@@ -10,10 +10,10 @@
 "نمونه RS",
 "زنگ",
 "VBScript"
-]،
+],
   "author": {
     "display_name": "Sami Cheema"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "RS - فایل برنامه نویسی Rust",
@@ -24,7 +24,7 @@
       "parent": "programming",
       "identifier": "programming-r-fas"
 }
-}،
+},
   "lastmod": "2021-09-01"
 }
 

@@ -2,7 +2,7 @@
   "date": "2021-08-19",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل CODASITE - فایل سایت کدا",
@@ -13,7 +13,7 @@
       "parent": "web",
       "identifier": "web-codasit-fae"
 }
-}،
+},
   "lastmod": "2021-08-19"
 }
 

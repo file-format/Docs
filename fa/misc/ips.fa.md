@@ -9,10 +9,10 @@
 "فایل",
 "پسوند فایل ips",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل IPS - داده های تجزیه و تحلیل iOS",
@@ -23,7 +23,7 @@
       "identifier": "misc-ips-fa",
       "parent": "misc"
 }
-}،
+},
   "lastmod": "2023-09-21"
 }
 

@@ -9,10 +9,10 @@
 "پسوند فایل cmx",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "CMX - Corel Metafile Exchange Image",
@@ -23,7 +23,7 @@
       "parent": "image",
       "identifier": "image-cm-fax"
 }
-}،
+},
   "lastmod": "2020-08-03"
 }
 

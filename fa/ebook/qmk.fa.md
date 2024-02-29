@@ -8,10 +8,10 @@
 "قالب",
 "کتاب الکترونیکی",
 "نوع فایل"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "با فرمت فایل QMK و APIهایی که می توانند فایل های QMK را ایجاد و باز کنند آشنا شوید.",
@@ -22,7 +22,7 @@
       "parent": "ebook",
       "identifier": "ebook-qm-fak"
 }
-}،
+},
   "lastmod": "2021-03-31"
 }
 

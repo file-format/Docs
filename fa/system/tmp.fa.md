@@ -12,10 +12,10 @@
 "فایل موقت",
 "کاربرد",
 "برنامه ها"
-]،
+],
   "author": {
     "display_name": "Sami Cheema"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "TMP - فرمت فایل موقت",
@@ -26,7 +26,7 @@
       "parent": "system",
       "identifier": "system-tm-fap"
 }
-}،
+},
   "lastmod": "2021-07-15"
 }
 

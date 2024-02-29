@@ -9,10 +9,10 @@
 "پسوند فایل wps",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "WPS - سند پردازشگر Word Microsoft Works",
@@ -23,7 +23,7 @@
       "parent": "word-processing",
       "identifier": "word-processing-wp-fas"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

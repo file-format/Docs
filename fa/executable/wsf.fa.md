@@ -9,10 +9,10 @@
 "پسوند فایل wsf",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل WSF و APIهایی که می توانند فایل های WSF را ایجاد و باز کنند، بیاموزید.",
@@ -23,7 +23,7 @@
       "parent": "executable",
       "identifier": "executable-ws-faf"
 }
-}،
+},
   "lastmod": "2021-06-30"
 }
 

@@ -2,7 +2,7 @@
   "date": "2022-02-23",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فایل PUZ - فایل ناشر بسته بندی شده",
@@ -13,7 +13,7 @@
       "parent": "publisher",
       "identifier": "publisher-pu-faz"
 }
-}،
+},
   "lastmod": "2022-02-23"
 }
 

@@ -2,7 +2,7 @@
   "date": "2022-11-24",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "با فرمت فایل NPA و API های Steins;Gate Archive که می توانند فایل های NPA را ایجاد و باز کنند آشنا شوید.",
@@ -13,7 +13,7 @@
       "parent": "game",
       "identifier": "game-np-faa"
 }
-}،
+},
   "lastmod": "2022-11-24"
 }
 

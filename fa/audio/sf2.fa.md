@@ -7,10 +7,10 @@
 "نحوه باز کردن فایل sf2",
 "پسوند فایل sf2",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل SF2 - SoundFont 2 Sound Bank",
@@ -21,7 +21,7 @@
       "identifier": "audio-sf2-fa",
       "parent": "audio"
 }
-}،
+},
   "lastmod": "2023-02-14"
 }
 

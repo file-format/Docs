@@ -9,10 +9,10 @@
 "پسوند فایل dae",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل DAE و APIهایی که می توانند فایل های DAE را باز کرده و ایجاد کنند، بیاموزید.",
@@ -23,7 +23,7 @@
       "parent": "3d",
       "identifier": "3d-da-fae"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

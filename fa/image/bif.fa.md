@@ -2,7 +2,7 @@
   "date" : "2022-11-17",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل BIF - فرمت تصویر کامل اسلاید Ventana",
@@ -13,7 +13,7 @@
       "identifier":"image-bif-fa",
       "parent" : "image"
 }
-}،
+},
   "lastmod" : "2022-11-17"
 }
 

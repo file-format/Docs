@@ -2,7 +2,7 @@
   "date" : "2022-11-03",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل ALB - فرمت فایل کتابخانه آلفا پنج",
@@ -13,7 +13,7 @@
       "identifier": "programming-alb-fa",
       "parent" : "programming"
 }
-}،
+},
   "lastmod" : "2022-11-03"
 }
 

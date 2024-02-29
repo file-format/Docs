@@ -9,10 +9,10 @@
 "پسوند فایل جوهر",
 "افزونه",
 "فایل"
-]،
+],
    "author":{
       "display_name":"Shakeel Faiz"
-}،
+},
    "draft":"false",
    "toc":true,
    "title":"فایل INK - نوت بوک Mimio - فایل ink چیست و چگونه آن را باز کنیم؟",
@@ -23,7 +23,7 @@
          "identifier":"data-ink-fa",
          "parent":"data"
 }
-}،
+},
    "lastmod":"2023-11-09"
 }
 

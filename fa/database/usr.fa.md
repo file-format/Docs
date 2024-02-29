@@ -8,10 +8,10 @@
 "فایل",
 "پسوند فایل usr",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل USR - فایل پایگاه داده FileMaker Pro",
@@ -22,7 +22,7 @@
       "identifier": "database-usr-fa",
       "parent": "database"
 }
-}،
+},
   "lastmod": "2023-08-03"
 }
 

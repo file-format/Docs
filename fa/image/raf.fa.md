@@ -9,10 +9,10 @@
 "فایل",
 "پسوند فایل raf",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل RAF - Fujifilm Image RAW",
@@ -23,7 +23,7 @@
       "identifier": "image-raf-fa",
       "parent": "image"
 }
-}،
+},
   "lastmod": "2023-06-15"
 }
 

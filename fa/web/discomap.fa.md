@@ -2,7 +2,7 @@
   "date": "2022-09-17",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فایل DISCOMAP - فرمت فایل خروجی DISCO Discovery",
@@ -13,7 +13,7 @@
       "parent": "web",
       "identifier": "web-discoma-fap"
 }
-}،
+},
   "lastmod": "2022-09-17"
 }
 

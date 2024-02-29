@@ -9,10 +9,10 @@
 "پسوند فایل kgb",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "KGB - فرمت فایل بایگانی KGB",
@@ -23,7 +23,7 @@
       "parent": "compression",
       "identifier": "compression-kg-fab"
 }
-}،
+},
   "lastmod": "2021-04-18"
 }
 

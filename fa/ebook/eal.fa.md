@@ -7,10 +7,10 @@
 "قالب",
 "کتاب الکترونیکی",
 "دستگاه خواندن الکترونیکی آمازون کیندل"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل EAL و APIهایی که می‌توانند فایل‌های EAL را ایجاد و باز کنند، بیاموزید.",
@@ -21,7 +21,7 @@
       "parent": "ebook",
       "identifier": "ebook-ea-fal"
 }
-}،
+},
   "lastmod": "2021-03-16"
 }
 

@@ -8,10 +8,10 @@
 "پسوند فایل bps",
 "افزونه",
 "فایل"
-]،
+],
    "author":{
       "display_name":"Shakeel Faiz"
-}،
+},
    "draft":"false",
    "toc":true,
    "title":"فرمت فایل BPS - فایل پچ BPS",
@@ -22,7 +22,7 @@
          "identifier":"game-bps-fa",
          "parent":"game"
 }
-}،
+},
    "lastmod":"2023-09-21"
 }
 

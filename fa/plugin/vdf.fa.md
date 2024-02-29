@@ -2,7 +2,7 @@
   "date" : "2024-01-18",
   "author" : {
     "display_name" : "Shakeel Faiz"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل VDF - VirtualDub Video Filter - فایل .vdf چیست و چگونه آن را باز کنیم؟",
@@ -13,7 +13,7 @@
       "identifier" : "plugin-vdf-fa",
       "parent" : "plugin"
 }
-}،
+},
   "lastmod" : "2024-01-18"
 }
 

@@ -3,7 +3,7 @@
   "keywords" : [ "DSN", "what is a DSN file", "extension", "file", "file format", "Database File Type", "Database File Format", "Database Files" ],
   "author" : {
     "display_name" : "Shakeel Faiz"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "description" : "با فرمت فایل DSN و APIهایی که می توانند فایل های DSN را ایجاد و باز کنند آشنا شوید.",
@@ -14,7 +14,7 @@
       "identifier":"database-dsn-fa",
       "parent" : "database"
 }
-}،
+},
   "lastmod" : "2020-01-17"
 }
 

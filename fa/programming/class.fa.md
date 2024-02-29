@@ -11,10 +11,10 @@
 "فرمت فایل کلاس",
 "پسوند کلاس",
 "فایل کلاس در جاوا"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "کلاس - فرمت فایل کلاس جاوا",
@@ -25,7 +25,7 @@
       "parent": "programming",
       "identifier": "programming-clas-fas"
 }
-}،
+},
   "lastmod": "2020-09-10"
 }
 

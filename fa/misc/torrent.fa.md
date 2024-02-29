@@ -2,7 +2,7 @@
   "date" : "2022-05-16",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فرمت فایل تورنت - فایل بیت تورنت",
@@ -13,7 +13,7 @@
       "identifier":"misc-torrent-fa",
       "parent" : "misc"
 }
-}،
+},
   "lastmod" : "2022-01-12"
 }
 

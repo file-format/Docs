@@ -8,10 +8,10 @@
 "کتاب الکترونیکی",
 "BookBuddi",
 "مایکروسافت متن به گفتار عامل"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل Amazon BKK و APIهایی که می‌توانند فایل‌های BKK را ایجاد و باز کنند، بیاموزید.",
@@ -22,7 +22,7 @@
       "parent": "ebook",
       "identifier": "ebook-bk-fak"
 }
-}،
+},
   "lastmod": "2021-03-12"
 }
 

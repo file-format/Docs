@@ -2,7 +2,7 @@
   "date": "2022-07-08",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل CTS و APIهایی که می‌توانند فایل‌های CTS را ایجاد و باز کنند، بیاموزید.",
@@ -13,7 +13,7 @@
       "parent": "spreadsheet",
       "identifier": "spreadsheet-ct-fas"
 }
-}،
+},
   "lastmod": "2022-07-08"
 }
 

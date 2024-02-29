@@ -2,7 +2,7 @@
   "date" : "2023-12-28",
   "author" : {
     "display_name" : "Shakeel Faiz"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل PDO - Pepakura Designer File - فایل pdo چیست و چگونه آن را باز کنیم؟",
@@ -13,7 +13,7 @@
       "identifier": "misc-pdo-fa",
       "parent" : "misc"
 }
-}،
+},
   "lastmod" : "2023-12-28"
 }
 

@@ -2,7 +2,7 @@
   "date" : "2019-10-11",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "categories" : [ "fundamentals" ],
   "description":"فایل های پردازش کلمه حاوی اطلاعات کاربر در قالب متن ساده یا متن غنی هستند. باز کردن قالب های سند محبوب مانند TXT، RTF، CSV، DOC و DOCX را بیاموزید.",
@@ -11,9 +11,9 @@
   "menu" : {
     "docs" : {
       "parent" : "word-processing",
-"وزن : 01"
+"weight" : "01"
 }
-}،
+},
   "lastmod" : "2019-09-10"
 }
 

@@ -2,7 +2,7 @@
   "date" : "2024-02-01",
   "author" : {
     "display_name" : "Shakeel Faiz"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل DCE - DriveCam Event File - فایل .dce چیست و چگونه آن را باز کنیم؟",
@@ -13,7 +13,7 @@
       "identifier" : "video-en-dce-fa",
       "parent" : "video"
 }
-}،
+},
   "lastmod" : "2024-02-01"
 }
 

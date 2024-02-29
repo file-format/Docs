@@ -9,10 +9,10 @@
 "پسوند فایل pwf",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل PWF Counter-Strike PODBot Waypoint و APIهایی که می‌توانند فایل‌های PWF را ایجاد و باز کنند، بیاموزید.",
@@ -23,7 +23,7 @@
       "parent": "game",
       "identifier": "game-pw-faf"
 }
-}،
+},
   "lastmod": "2021-10-17"
 }
 

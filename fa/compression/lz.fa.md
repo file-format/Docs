@@ -9,10 +9,10 @@
 "پسوند فایل lz",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "LZ - فرمت فایل فشرده Lzip",
@@ -23,7 +23,7 @@
       "parent": "compression",
       "identifier": "compression-l-faz"
 }
-}،
+},
   "lastmod": "2021-04-19"
 }
 

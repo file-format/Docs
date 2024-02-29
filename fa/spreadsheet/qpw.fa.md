@@ -7,10 +7,10 @@
 "نحوه باز کردن فایل qpw",
 "پسوند فایل qpw",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل QPW - صفحه گسترده Quattro Pro",
@@ -21,7 +21,7 @@
       "identifier": "spreadsheet-qpw-fa",
       "parent": "spreadsheet"
 }
-}،
+},
   "lastmod": "2023-02-28"
 }
 

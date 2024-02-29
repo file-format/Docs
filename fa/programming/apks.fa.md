@@ -8,10 +8,10 @@
 "بایگانی مجموعه APK",
 "نحوه باز کردن فایل apks",
 "فرمت فایل apks"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فایل APKS - بایگانی مجموعه APK",
@@ -22,7 +22,7 @@
       "parent": "programming",
       "identifier": "programming-apk-fas"
 }
-}،
+},
   "lastmod": "2022-02-06"
 }
 

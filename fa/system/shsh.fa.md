@@ -2,7 +2,7 @@
   "date" : "2023-02-16",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل SHSH - فرمت فایل SHSH Blob Touch iPhone/iPod",
@@ -13,7 +13,7 @@
       "identifier":"system-shsh-fa",
       "parent" : "system"
 }
-}،
+},
   "lastmod" : "2023-02-16"
 }
 

@@ -4,10 +4,10 @@
 "فایل IGES",
 "فرمت فایل",
 "CAD"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "با فرمت فایل IGES و APIهایی که می توانند فایل های IGES را ایجاد و باز کنند آشنا شوید.",
@@ -18,7 +18,7 @@
       "parent": "cad",
       "identifier": "cad-ige-fas"
 }
-}،
+},
   "lastmod": "2020-07-28"
 }
 

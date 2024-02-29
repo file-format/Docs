@@ -8,10 +8,10 @@
 "قالب",
 "کتاب الکترونیکی",
 "کیندل آمازون"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل Amazon APNX و APIهایی که می توانند فایل های APNX را ایجاد و باز کنند، بیاموزید.",
@@ -22,7 +22,7 @@
       "parent": "ebook",
       "identifier": "ebook-apn-fax"
 }
-}،
+},
   "lastmod": "2021-05-28"
 }
 

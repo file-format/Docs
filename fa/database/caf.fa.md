@@ -2,7 +2,7 @@
   "date" : "2023-05-31",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "description" : "درباره فرمت فایل CAF و APIهایی که می‌توانند فایل‌های CAF را ایجاد و باز کنند، بیاموزید.",
@@ -13,7 +13,7 @@
       "identifier":"database-caf-fa",
       "parent" : "database"
 }
-}،
+},
   "lastmod" : "2023-05-31"
 }
 

@@ -9,10 +9,10 @@
 "فرمت فایل",
 "آموزش اپل سوئیفت",
 "راهنمای برنامه نویسی"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "سوئیفت - فایل کد منبع اپل",
@@ -23,7 +23,7 @@
       "parent": "programming",
       "identifier": "programming-swif-fat"
 }
-}،
+},
   "lastmod": "2020-09-10"
 }
 

@@ -9,10 +9,10 @@
 "پسوند فایل caf",
 "افزونه",
 "فایل"
-]،
+],
    "author":{
       "display_name":"Shakeel Faiz"
-}،
+},
    "draft":"false",
    "toc":true,
    "title":"فرمت فایل CAF - فایل انیمیشن باینری Cal3D",
@@ -23,7 +23,7 @@
          "identifier":"3d-caf-cal3d-fa",
          "parent":"3d"
 }
-}،
+},
    "lastmod":"2023-01-04"
 }
 

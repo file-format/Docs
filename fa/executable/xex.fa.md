@@ -9,10 +9,10 @@
 "پسوند فایل xex",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل XEX و APIهایی که می‌توانند فایل‌های XEX را ایجاد و باز کنند، بیاموزید.",
@@ -23,7 +23,7 @@
       "parent": "executable",
       "identifier": "executable-xe-fax"
 }
-}،
+},
   "lastmod": "2022-03-23"
 }
 

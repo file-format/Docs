@@ -8,10 +8,10 @@
 "فایل",
 "مثال ipynb",
 "نوت بوک ژوپیتر"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "IPYNB - فایل نوت بوک Jupyter",
@@ -22,7 +22,7 @@
       "parent": "word-processing",
       "identifier": "word-processing-ipyn-fab"
 }
-}،
+},
   "lastmod": "2021-12-28"
 }
 

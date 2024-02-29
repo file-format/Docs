@@ -9,10 +9,10 @@
 "پسوند فایل qgs",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "QGS - قالب فایل پروژه QGIS",
@@ -23,7 +23,7 @@
       "parent": "gis",
       "identifier": "gis-qg-fas"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

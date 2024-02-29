@@ -2,7 +2,7 @@
   "date": "2021-02-15",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل QT - فایل سریع فیلم",
@@ -15,7 +15,7 @@
 "QTFF",
 "ویدئو",
 "سیب"
-]،
+],
   "description": "با فرمت فایل QT و APIهایی که می توانند فایل های QT را ایجاد و باز کنند آشنا شوید.",
   "linktitle": "QT",
   "menu": {
@@ -23,7 +23,7 @@
       "parent": "video",
       "identifier": "video-q-fat"
 }
-}،
+},
   "lastmod": "2021-02-16"
 }
 

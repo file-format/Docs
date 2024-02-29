@@ -2,7 +2,7 @@
   "date": "2021-27-05",
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "RPT - فایل گزارش کریستال",
@@ -12,7 +12,7 @@
 "فرمت فایل rpt",
 "فایل گزارش کریستال",
 "گزارش نویسی"
-]،
+],
   "description": "با فرمت جریان RPT که توسط نرم افزار Crystal Reports برای ذخیره طرح یا الگوی واکشی داده ها از یک منبع به فایل همراه یا بدون داده استفاده می شود، آشنا شوید.",
   "linktitle": "RPT",
   "menu": {
@@ -20,7 +20,7 @@
       "parent": "reporting",
       "identifier": "reporting-rp-fat"
 }
-}،
+},
   "lastmod": "2021-27-05"
 }
 

@@ -7,10 +7,10 @@
 "فرمت فایل",
 "کلمه",
 "سند"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "DOC - فایل سند Microsoft Word",
@@ -21,7 +21,7 @@
       "parent": "word-processing",
       "identifier": "word-processing-do-fac"
 }
-}،
+},
   "lastmod": "2019-12-03"
 }
 

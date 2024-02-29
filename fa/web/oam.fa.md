@@ -2,7 +2,7 @@
   "date" : "2023-01-30",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل OAM - فرمت فایل ویجت متحرک Adobe Edge",
@@ -13,7 +13,7 @@
       "identifier":"web-oam-fa",
       "parent" : "web"
 }
-}،
+},
   "lastmod" : "2023-01-30"
 }
 

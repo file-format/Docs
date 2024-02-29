@@ -9,10 +9,10 @@
 "کتاب صوتی شنیدنی",
 "پسوند 8svx",
 "فایل های 8svx"
-]،
+],
   "author": {
     "display_name": "Sami Cheema"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل 8SVX و APIهایی که می توانند فایل های 8SVX ایجاد و باز کنند، بیاموزید.",
@@ -23,7 +23,7 @@
       "parent": "audio",
       "identifier": "audio-8sv-fax"
 }
-}،
+},
   "lastmod": "2021-08-04"
 }
 

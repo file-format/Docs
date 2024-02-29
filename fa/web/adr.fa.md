@@ -6,10 +6,10 @@
 "فرمت فایل",
 "نوع فایل",
 "فایل adr چیست"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "ADR - فرمت فایل نشانک‌های اپرا",
@@ -20,7 +20,7 @@
       "parent": "web",
       "identifier": "web-ad-far"
 }
-}،
+},
   "lastmod": "2021-12-06"
 }
 

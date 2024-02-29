@@ -2,7 +2,7 @@
   "date" : "2023-10-27",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فرمت فایل XMZX - چیست و چگونه فایل XMZX را باز کنیم؟",
@@ -13,7 +13,7 @@
       "identifier":"misc-xmzx-fa",
       "parent" : "misc"
 }
-}،
+},
   "lastmod" : "2023-10-27"
 }
 

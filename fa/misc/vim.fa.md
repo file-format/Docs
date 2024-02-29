@@ -2,7 +2,7 @@
   "date" : "2022-04-16",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فرمت فایل VIM - فایل تنظیمات Vim",
@@ -13,7 +13,7 @@
       "identifier":"misc-vim-fa",
       "parent" : "misc"
 }
-}،
+},
   "lastmod" : "2022-04-16"
 }
 

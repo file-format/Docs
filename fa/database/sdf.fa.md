@@ -11,10 +11,10 @@
 "نوع فایل پایگاه داده",
 "فرمت فایل پایگاه داده",
 "فایل های پایگاه داده"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل SDF و APIهایی که می‌توانند فایل‌های SDF را ایجاد و باز کنند، بیاموزید.",
@@ -25,7 +25,7 @@
       "parent": "database",
       "identifier": "database-sd-faf"
 }
-}،
+},
   "lastmod": "2021-05-03"
 }
 

@@ -8,10 +8,10 @@
 "فایل",
 "پسوند فایل xem",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل XEM - فایل تعریف مدل PowerDesigner",
@@ -22,7 +22,7 @@
       "identifier": "database-xem-fa",
       "parent": "database"
 }
-}،
+},
   "lastmod": "2023-04-27"
 }
 

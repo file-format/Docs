@@ -2,7 +2,7 @@
   "date" : "2023-01-02",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل PMF - قالب فایل نقشه منتشر شده ESRI",
@@ -13,7 +13,7 @@
       "identifier": "gis-pmf-fa",
       "parent" : "gis"
 }
-}،
+},
   "lastmod" : "2023-01-02"
 }
 

@@ -2,7 +2,7 @@
   "date": "2021-26-05",
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل M2TS",
@@ -15,7 +15,7 @@
 "فایل m2ts",
 "فرمت فایل m2ts",
 "فایل m2ts چیست"
-]،
+],
   "description": "درباره فرمت فایل M2TS و API هایی که می توانند ایجاد کنند و نحوه باز کردن فایل های M2TS را نشان دهند، بیاموزید.",
   "linktitle": "M2TS",
   "menu": {
@@ -23,7 +23,7 @@
       "parent": "video",
       "identifier": "video-m2t-fas"
 }
-}،
+},
   "lastmod": "2021-26-05"
 }
 

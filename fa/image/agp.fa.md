@@ -2,7 +2,7 @@
   "date" : "2022-11-14",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل AGP - قالب فایل پروژه ArtGem",
@@ -13,7 +13,7 @@
       "identifier":"image-agp-fa",
       "parent" : "image"
 }
-}،
+},
   "lastmod" : "2022-11-14"
 }
 

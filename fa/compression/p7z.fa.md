@@ -2,7 +2,7 @@
   "date" : "2022-04-02",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فرمت فایل P7Z - فایل پیام ایمیل فشرده S/MIME",
@@ -13,7 +13,7 @@
       "identifier" : "compression-p7z-fa",
       "parent" : "compression"
 }
-}،
+},
   "lastmod" : "2022-04-02"
 }
 

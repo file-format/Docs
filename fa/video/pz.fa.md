@@ -2,7 +2,7 @@
   "date": "2021-02-15",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل PZ - فایل پروژه ویدئویی Panzoid",
@@ -13,7 +13,7 @@
       "parent": "video",
       "identifier": "video-p-faz"
 }
-}،
+},
   "lastmod": "2021-02-16"
 }
 

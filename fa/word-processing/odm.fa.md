@@ -2,7 +2,7 @@
   "date": "2021-08-04",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "ODM - فایل سند اصلی OpenDocument",
@@ -13,7 +13,7 @@
       "parent": "word-processing",
       "identifier": "word-processing-od-fam"
 }
-}،
+},
   "lastmod": "2021-08-04"
 }
 

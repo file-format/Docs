@@ -11,10 +11,10 @@
 "فرمت فایل m4b",
 "M4b در مقابل MP3",
 "مشخصات فرمت فایل m4b"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل M4B و APIهایی که می‌توانند فایل‌های M4B را ایجاد، تبدیل و باز کنند، بیاموزید.",
@@ -25,7 +25,7 @@
       "parent": "audio",
       "identifier": "audio-m4-fab"
 }
-}،
+},
   "lastmod": "2021-06-09"
 }
 

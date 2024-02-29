@@ -2,7 +2,7 @@
   "date": "2019-10-11",
   "author": {
     "display_name": "Muhammad Ahmad Chishti"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل MKV",
@@ -14,7 +14,7 @@
 "ویدئو",
 "فایل",
 "قالب"
-]،
+],
   "description": "درباره فرمت فایل MKV و APIهایی که می‌توانند فایل‌های MKV را ایجاد و باز کنند، بیاموزید.",
   "linktitle": "MKV",
   "menu": {
@@ -22,7 +22,7 @@
       "parent": "video",
       "identifier": "video-mk-fav"
 }
-}،
+},
   "lastmod": "2020-17-11"
 }
 

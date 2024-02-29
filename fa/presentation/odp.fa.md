@@ -9,10 +9,10 @@
 "پسوند فایل odp",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "ODP - فرمت فایل ارائه OpenOffice",
@@ -23,7 +23,7 @@
       "parent": "presentation",
       "identifier": "presentation-od-fap"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

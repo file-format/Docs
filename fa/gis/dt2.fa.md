@@ -2,7 +2,7 @@
   "date": "2022-12-07",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فایل DT2 - فرمت فایل سطح 2 DTED",
@@ -13,7 +13,7 @@
       "parent": "gis",
       "identifier": "gis-dt-fa2"
 }
-}،
+},
   "lastmod": "2022-12-07"
 }
 

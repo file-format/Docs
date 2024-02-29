@@ -7,10 +7,10 @@
 "نحوه باز کردن فایل wproj",
 "پسوند فایل wproj",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل WPROJ - Wwise Project File",
@@ -21,7 +21,7 @@
       "identifier": "audio-wproj-fa",
       "parent": "audio"
 }
-}،
+},
   "lastmod": "2023-02-17"
 }
 

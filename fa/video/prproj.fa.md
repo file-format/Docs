@@ -8,10 +8,10 @@
 "نحوه باز کردن فایل prproj",
 "پسوند فایل prproj",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل PRPROJ - پروژه Adobe Premiere Pro",
@@ -22,7 +22,7 @@
       "identifier": "video-prproj-fa",
       "parent": "video"
 }
-}،
+},
   "lastmod": "2023-02-06"
 }
 

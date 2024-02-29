@@ -8,10 +8,10 @@
 "پسوند فایل com",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "با فرمت فایل COM و APIهایی که می توانند فایل های COM ایجاد و باز کنند آشنا شوید.",
@@ -22,7 +22,7 @@
       "parent": "executable",
       "identifier": "executable-co-fam"
 }
-}،
+},
   "lastmod": "2021-06-29"
 }
 

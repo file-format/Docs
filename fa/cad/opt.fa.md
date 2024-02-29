@@ -7,10 +7,10 @@
 "نحوه باز کردن فایل opt",
 "پسوند فایل را انتخاب کنید",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل OPT - فایل Opterecenja",
@@ -21,7 +21,7 @@
       "identifier": "cad-opt-fa",
       "parent": "cad"
 }
-}،
+},
   "lastmod": "2023-02-21"
 }
 

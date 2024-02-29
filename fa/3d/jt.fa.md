@@ -7,10 +7,10 @@
 "قالب",
 "fbx سه بعدی",
 ""
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "با فرمت فایل JT و APIهایی که می توانند فایل های JT را ایجاد و باز کنند آشنا شوید.",
@@ -21,7 +21,7 @@
       "parent": "3d",
       "identifier": "3d-j-fat"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

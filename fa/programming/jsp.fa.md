@@ -13,10 +13,10 @@
 "jsp مثال",
 "پسوند فایل jsp",
 "نحوه باز کردن فایل jsp"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "JSP - فرمت فایل صفحات سرور جاوا",
@@ -27,7 +27,7 @@
       "parent": "programming",
       "identifier": "programming-js-fap"
 }
-}،
+},
   "lastmod": "2021-05-07"
 }
 

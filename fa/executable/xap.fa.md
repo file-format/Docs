@@ -7,10 +7,10 @@
 "نحوه باز کردن فایل xap",
 "پسوند فایل xap",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "با فرمت فایل XAP و API هایی که می توانند فایل های XAP را ایجاد و باز کنند آشنا شوید.",
@@ -21,7 +21,7 @@
       "identifier": "executable-xap-fa",
       "parent": "executable"
 }
-}،
+},
   "lastmod": "2023-02-01"
 }
 

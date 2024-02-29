@@ -9,10 +9,10 @@
 "پسوند فایل vdi",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "با فرمت فایل VDI و API هایی که می توانند فایل های VDI را ایجاد و باز کنند، آشنا شوید.",
@@ -23,7 +23,7 @@
       "parent": "disc-and-media",
       "identifier": "disc-and-media-vd-fai"
 }
-}،
+},
   "lastmod": "2021-08-11"
 }
 

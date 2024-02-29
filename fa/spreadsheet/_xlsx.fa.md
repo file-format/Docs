@@ -2,7 +2,7 @@
   "date": "2019-12-10",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "راهنمای فرمت فایل شما برای اینکه بدانید فایل _XLSX و APIهایی که می توانند فایل های _XLSX را ایجاد و باز کنند چیست.",
@@ -13,7 +13,7 @@
       "parent": "spreadsheet",
       "identifier": "spreadsheet-_xls-fax"
 }
-}،
+},
   "lastmod": "2021-11-22"
 }
 

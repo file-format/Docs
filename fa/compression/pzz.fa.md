@@ -2,7 +2,7 @@
   "date": "2023-10-30",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فایل PZZ - فایل .pzz چیست و چگونه آن را باز کنیم؟",
@@ -13,7 +13,7 @@
       "identifier": "compression-pzz-fa",
       "parent": "compression"
 }
-}،
+},
   "lastmod": "2023-10-30"
 }
 

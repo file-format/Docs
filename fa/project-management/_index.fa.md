@@ -3,7 +3,7 @@
   "keywords" : [ "Project Management", "File", "Extension", "File Format", "Project", "Management", "Microsoft Project"],
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "categories" : [ "fundamentals" ],
   "description":"فایل های پروژه شامل مجموعه ای از وظایف و فعالیت هایی است که برای تکمیل یک پروژه باید انجام شوند. با فرمت های رایج فایل پروژه مانند MPP، XER، MPT و MPX آشنا شوید.",
@@ -12,9 +12,9 @@
   "menu" : {
     "docs" : {
       "parent" : "project-management",
-"وزن : 01"
+"weight" : "01"
 }
-}،
+},
   "lastmod" : "2020-09-01"
 }
 

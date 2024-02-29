@@ -3,7 +3,7 @@
   "keywords" : [ "vssx file", "vssx file format", "what is a vssx file", "file", "vssx example", "vssx file extension","extension", "format" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "VSSX - فرمت فایل Visio Stencil",
@@ -14,7 +14,7 @@
 	  "identifier":"visio-vssx-fa",
       "parent" : "visio"
 }
-}،
+},
   "lastmod" : "2019-09-10"
 }
 

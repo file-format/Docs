@@ -2,7 +2,7 @@
   "date": "2022-05-23",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره قالب فایل TEACHER و APIهایی که می‌توانند فایل‌های TEACHER را ایجاد و باز کنند، بیاموزید.",
@@ -13,7 +13,7 @@
       "parent": "database",
       "identifier": "database-teache-far"
 }
-}،
+},
   "lastmod": "2021-08-24"
 }
 

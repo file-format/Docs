@@ -2,7 +2,7 @@
   "date": "2020-08-20",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "WOFF - قالب فایل باز وب",
@@ -13,7 +13,7 @@
       "parent": "font",
       "identifier": "font-wof-faf"
 }
-}،
+},
   "lastmod": "2020-09-30"
 }
 

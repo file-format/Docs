@@ -2,7 +2,7 @@
   "date": "2023-01-08",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "VLW - پردازش فرمت فایل فونت",
@@ -13,7 +13,7 @@
       "parent": "font",
       "identifier": "font-vl-faw"
 }
-}،
+},
   "lastmod": "2023-01-08"
 }
 

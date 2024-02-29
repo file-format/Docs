@@ -9,10 +9,10 @@
 "پسوند فایل ups",
 "افزونه",
 "فایل"
-]،
+],
    "author":{
       "display_name":"Shakeel Faiz"
-}،
+},
    "draft":"false",
    "toc":true,
    "title":"فرمت فایل UPS - فایل پچ UPS",
@@ -23,7 +23,7 @@
          "identifier":"game-ups-fa",
          "parent":"game"
 }
-}،
+},
    "lastmod":"2023-01-04"
 }
 

@@ -7,10 +7,10 @@
 "فرمت فایل",
 "3 بعدی",
 "دانلود فایل usdz"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "USDZ - فرمت ZIP توضیحات صحنه جهانی",
@@ -21,7 +21,7 @@
       "parent": "3d",
       "identifier": "3d-usd-faz"
 }
-}،
+},
   "lastmod": "2021-02-01"
 }
 

@@ -10,10 +10,10 @@
 "مدیریت",
 "پریماورا",
 "P6"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "XER - پروژه Primavera P6",
@@ -24,7 +24,7 @@
       "parent": "project-management",
       "identifier": "project-management-xe-far"
 }
-}،
+},
   "lastmod": "2021-05-07"
 }
 

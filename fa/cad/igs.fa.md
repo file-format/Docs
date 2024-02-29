@@ -4,10 +4,10 @@
 "فایل IGS",
 "فرمت فایل",
 "CAD"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل IGS و APIهایی که می‌توانند فایل‌های IGS را ایجاد و باز کنند، بیاموزید.",
@@ -18,7 +18,7 @@
       "parent": "cad",
       "identifier": "cad-ig-fas"
 }
-}،
+},
   "lastmod": "2020-10-28"
 }
 

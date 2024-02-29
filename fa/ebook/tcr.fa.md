@@ -6,10 +6,10 @@
 "افزونه",
 "قالب",
 "کتاب الکترونیکی"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل TCR برای سری Psion 3 و APIهایی که می‌توانند فایل‌های tcr را ایجاد و باز کنند، بیاموزید.",
@@ -20,7 +20,7 @@
       "parent": "ebook",
       "identifier": "ebook-tc-far"
 }
-}،
+},
   "lastmod": "2021-03-09"
 }
 

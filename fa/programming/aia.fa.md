@@ -2,7 +2,7 @@
   "date" : "2022-10-30",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل AIA - فرمت فایل پروژه مخترع برنامه MIT",
@@ -13,7 +13,7 @@
       "identifier": "programming-aia-fa",
       "parent" : "programming"
 }
-}،
+},
   "lastmod" : "2022-10-30"
 }
 

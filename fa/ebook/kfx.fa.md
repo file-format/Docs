@@ -9,10 +9,10 @@
 "کتاب الکترونیکی",
 "فایل کتاب الکترونیکی Amazon KF10",
 "باز کن"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل KFX و APIهایی که می توانند فایل های KFX را ایجاد و باز کنند، بیاموزید.",
@@ -23,7 +23,7 @@
       "parent": "ebook",
       "identifier": "ebook-kf-fax"
 }
-}،
+},
   "lastmod": "2019-11-22"
 }
 

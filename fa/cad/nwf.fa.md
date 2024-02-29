@@ -4,10 +4,10 @@
 "فایل NWF",
 "قالب",
 "CAD"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل NWF و APIهایی که می‌توانند فایل‌های NWF را ایجاد و باز کنند، بیاموزید.",
@@ -18,7 +18,7 @@
       "parent": "cad",
       "identifier": "cad-nw-faf"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

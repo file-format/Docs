@@ -7,10 +7,10 @@
 "خواندن",
 "ايجاد كردن",
 "CAD"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "Learn about DWF file format and APIs that can create and open DWF files.",
@@ -21,7 +21,7 @@
       "parent": "cad",
       "identifier": "cad-dwf"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

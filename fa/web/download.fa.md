@@ -2,7 +2,7 @@
   "date": "2022-09-28",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "دانلود فایل - فرمت فایل جزئی دانلود شده",
@@ -13,7 +13,7 @@
       "parent": "web",
       "identifier": "web-downloa-fad"
 }
-}،
+},
   "lastmod": "2022-09-28"
 }
 

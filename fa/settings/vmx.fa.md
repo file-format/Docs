@@ -10,10 +10,10 @@
 "فایل",
 "پسوند فایل vmx",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل VMX - فایل پیکربندی ماشین مجازی VMware",
@@ -24,7 +24,7 @@
       "identifier": "settings-vmx-fa",
       "parent": "settings"
 }
-}،
+},
   "lastmod": "2023-06-08"
 }
 

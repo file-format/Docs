@@ -8,10 +8,10 @@
 "پسوند ldb",
 "فایل",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل LDB - فایل قفل Microsoft Access",
@@ -22,7 +22,7 @@
       "identifier": "misc-ldb-fa",
       "parent": "misc"
 }
-}،
+},
   "lastmod": "2023-04-20"
 }
 

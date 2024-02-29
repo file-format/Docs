@@ -9,10 +9,10 @@
 "باز کن",
 "XML",
 "خواندن"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل FB2 و APIهایی که می‌توانند فایل‌های FB2 را ایجاد و باز کنند، بیاموزید.",
@@ -23,7 +23,7 @@
       "parent": "ebook",
       "identifier": "ebook-fb-fa2"
 }
-}،
+},
   "lastmod": "2019-11-22"
 }
 

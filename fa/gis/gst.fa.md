@@ -2,7 +2,7 @@
   "date" : "2022-12-22",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل GST- فرمت فایل MapInfo Geoset",
@@ -13,7 +13,7 @@
       "identifier":"gis-gst-fa",
       "parent" : "gis"
 }
-}،
+},
   "lastmod" : "2022-12-22"
 }
 

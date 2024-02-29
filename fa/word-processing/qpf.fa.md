@@ -9,10 +9,10 @@
 "پسوند فایل qpf",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "QPF - فایل سند رمزگذاری شده QuickPad",
@@ -23,7 +23,7 @@
       "parent": "word-processing",
       "identifier": "word-processing-qp-faf"
 }
-}،
+},
   "lastmod": "2021-05-20"
 }
 

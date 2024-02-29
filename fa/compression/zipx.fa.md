@@ -2,7 +2,7 @@
   "date": "2022-06-06",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "ZIP",
@@ -13,7 +13,7 @@
       "parent": "compression",
       "identifier": "compression-zip-fax"
 }
-}،
+},
   "lastmod": "2022-06-06"
 }
 

@@ -9,10 +9,10 @@
 "پسوند فایل ctg",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "CTG - فایل کاتالوگ دوربین دیجیتال کانن",
@@ -23,7 +23,7 @@
       "parent": "misc",
       "identifier": "misc-ct-fag"
 }
-}،
+},
   "lastmod": "2022-01-12"
 }
 

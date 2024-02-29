@@ -2,7 +2,7 @@
   "date" : "2022-12-19",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "فایل MPK - قالب فایل بسته نقشه ArcGIS",
@@ -13,7 +13,7 @@
       "identifier":"gis-mpk-fa",
       "parent" : "gis"
 }
-}،
+},
   "lastmod" : "2022-12-19"
 }
 

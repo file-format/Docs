@@ -9,10 +9,10 @@
 "کتاب الکترونیکی",
 "Adobe Reader",
 "فرمت انتقال داده EBX"
-]،
+],
   "author": {
     "display_name": "Sami Cheema"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل ETD و APIهایی که می‌توانند فایل‌های ETD را ایجاد و باز کنند، بیاموزید.",
@@ -23,7 +23,7 @@
       "parent": "ebook",
       "identifier": "ebook-et-fad"
 }
-}،
+},
   "lastmod": "2021-04-03"
 }
 

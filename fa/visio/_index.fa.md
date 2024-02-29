@@ -3,7 +3,7 @@
   "keywords" : [ "visio file", "visio file format", "what is a visio file", "file" ],
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "categories" : [ "fundamentals" ],
   "title" : "درباره فرمت‌های فایل Visio و APIهایی که می‌توانند فایل‌های Visio را باز کرده و ایجاد کنند، بیاموزید",
@@ -12,9 +12,9 @@
   "menu" : {
     "docs" : {
       "parent" : "visio",
-"وزن : 01"
+"weight" : "01"
 }
-}،
+},
   "lastmod" : "2022-01-16"
 }
 

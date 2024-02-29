@@ -8,10 +8,10 @@
 "فایل",
 "نوع",
 "فایل html چیست"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل HTML",
@@ -22,7 +22,7 @@
       "parent": "web",
       "identifier": "web-htm-fal"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

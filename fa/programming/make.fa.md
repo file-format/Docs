@@ -2,7 +2,7 @@
   "date": "2019-10-11",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "ساخت فایل - فایل اسکریپت Xcode Makefile",
@@ -13,7 +13,7 @@
       "parent": "programming",
       "identifier": "programming-mak-fae"
 }
-}،
+},
   "lastmod": "2020-09-10"
 }
 

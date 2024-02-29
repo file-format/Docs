@@ -9,10 +9,10 @@
 "دانلود فایل ma",
 "فایل .ma",
 "مادر"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل MA و APIهایی که می‌توانند فایل‌های MA را باز کرده و ایجاد کنند، بیاموزید.",
@@ -23,7 +23,7 @@
       "parent": "3d",
       "identifier": "3d-m-faa"
 }
-}،
+},
   "lastmod": "2021-06-04"
 }
 

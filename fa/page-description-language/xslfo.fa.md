@@ -7,10 +7,10 @@
 "افزونه",
 "فرمت فایل",
 "زبان صفحه سبک قابل توسعه"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "XSLFO",
@@ -21,7 +21,7 @@
       "parent": "page-description-language",
       "identifier": "page-description-language-xslf-fao"
 }
-}،
+},
   "lastmod": "2021-04-23"
 }
 

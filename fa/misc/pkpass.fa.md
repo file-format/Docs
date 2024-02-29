@@ -8,10 +8,10 @@
 "آیا امکان تبدیل فایل pkpass به pdf وجود دارد؟",
 "فایل",
 "افزونه"
-]،
+],
   "author": {
     "display_name": "Shakeel Faiz"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل PKPASS - Apple Wallet Pass",
@@ -22,7 +22,7 @@
       "identifier": "misc-pkpass-fa",
       "parent": "misc"
 }
-}،
+},
   "lastmod": "2023-04-06"
 }
 

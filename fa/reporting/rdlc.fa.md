@@ -2,7 +2,7 @@
   "date": "2021-03-02",
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "RDLC - زبان تعریف گزارش سمت مشتری",
@@ -12,7 +12,7 @@
 "فرمت mkv",
 "XSD",
 "سمت مشتری زبان تعریف گزارش"
-]،
+],
   "description": "در مورد فرمت فایل RDLC که یک نمایش XML از تعریف گزارش سرویس گزارش دهی سرور SQL است، بیاموزید.",
   "linktitle": "RDLC",
   "menu": {
@@ -20,7 +20,7 @@
       "parent": "reporting",
       "identifier": "reporting-rdl-fac"
 }
-}،
+},
   "lastmod": "2021-03-02"
 }
 

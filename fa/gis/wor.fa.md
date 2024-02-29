@@ -2,7 +2,7 @@
   "date" : "2022-11-29",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "title" : "WOR File- MapInfo فرمت فایل فضای کاری",
@@ -13,7 +13,7 @@
       "identifier":"gis-wor-fa",
       "parent" : "gis"
 }
-}،
+},
   "lastmod" : "2022-11-29"
 }
 

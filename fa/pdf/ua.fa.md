@@ -2,7 +2,7 @@
   "date": "2019-10-11",
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل PDF/UA",
@@ -13,7 +13,7 @@
       "parent": "pdf",
       "identifier": "pdf-u-faa"
 }
-}،
+},
   "lastmod": "2019-09-10"
 }
 

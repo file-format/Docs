@@ -8,10 +8,10 @@
 "فایل",
 "نوع",
 "فایل aro چیست"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "فرمت فایل ARO - فایل برنامه وب SteelArrow",
@@ -22,7 +22,7 @@
       "parent": "web",
       "identifier": "web-ar-fao"
 }
-}،
+},
   "lastmod": "2021-12-09"
 }
 

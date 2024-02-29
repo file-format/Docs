@@ -2,7 +2,7 @@
   "date" : "2022-11-22",
   "author" : {
     "display_name" : "Kashif Iqbal"
-}،
+},
   "draft" : "false",
   "toc" : true,
   "description":"درباره فرمت فایل SIMS3PACK و APIهایی که می‌توانند فایل‌های SIMS3PACK را ایجاد و باز کنند، بیاموزید.",
@@ -13,7 +13,7 @@
       "identifier":"game-sims3pack-fa",
       "parent" : "game"
 }
-}،
+},
   "lastmod" : "2022-11-22"
 }
 

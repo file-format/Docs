@@ -9,10 +9,10 @@
 "پسوند فایل xbe",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "درباره فرمت فایل XBE و APIهایی که می توانند فایل های XBE را ایجاد و باز کنند، بیاموزید.",
@@ -23,7 +23,7 @@
       "parent": "executable",
       "identifier": "executable-xb-fae"
 }
-}،
+},
   "lastmod": "2021-08-31"
 }
 

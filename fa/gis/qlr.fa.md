@@ -9,10 +9,10 @@
 "پسوند فایل qlr",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Kashif Iqbal"
-}،
+},
   "draft": "false",
   "toc": true,
   "title": "QLR - فایل تعریف لایه QGIS",
@@ -23,7 +23,7 @@
       "parent": "gis",
       "identifier": "gis-ql-far"
 }
-}،
+},
   "lastmod": "2021-03-14"
 }
 

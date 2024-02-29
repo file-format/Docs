@@ -9,10 +9,10 @@
 "پسوند فایل sdi",
 "افزونه",
 "قالب"
-]،
+],
   "author": {
     "display_name": "Muhammad Umar"
-}،
+},
   "draft": "false",
   "toc": true,
   "description": "با فرمت فایل SDI و APIهایی که می توانند فایل های SDI را ایجاد و باز کنند آشنا شوید.",
@@ -23,7 +23,7 @@
       "parent": "disc-and-media",
       "identifier": "disc-and-media-sd-fai"
 }
-}،
+},
   "lastmod": "2021-08-13"
 }
 

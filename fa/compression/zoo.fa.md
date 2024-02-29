@@ -9,10 +9,10 @@
 "پسوند فایل zoo",
 "افزونه",
 "فایل"
-]،
+],
    "author":{
       "display_name":"Shakeel Faiz"
-}،
+},
    "draft":"false",
    "toc":true,
    "title":"فایل ZOO - فایل zoo چیست و چگونه آن را باز کنیم؟",
@@ -23,7 +23,7 @@
          "identifier":"compression-zoo-fa",
          "parent":"compression"
 }
-}،
+},
    "lastmod":"2023-11-09"
 }
 
