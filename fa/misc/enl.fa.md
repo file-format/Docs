@@ -27,6 +27,4 @@ A file with .enl extension is a data file created with [Clarivate](https://suppo
 
 ## منابع
 
-* [اهمیت پوشه داده‌های EndNote](https://support.clarivate.com/Endnote/s/article/EndNote-Description-of-the-Data-folder-that-companies-enl-library-files)
-
-
+* [Improtance of the EndNote Data Folder](https://support.clarivate.com/Endnote/s/article/EndNote-Description-of-the-Data-folder-that-accompanies-enl-library-files)

@@ -27,4 +27,4 @@ EDGE files are saved in a plain text format and uses jQuery for enabling the ani
 
 ## References
 
-* [Adobe Edge](https://www.adobe.com/sea/products/edge-animate.html)
+* [Adobe Edge](https://en.wikipedia.org/wiki/Adobe_Edge_Animate)

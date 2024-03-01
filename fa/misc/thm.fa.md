@@ -30,10 +30,4 @@ A THM file contains an XML file, several image file sin [.png](/image/png/), [.p
 
 ## چگونه تم سونی اریکسون ایجاد کنیم؟
 
-از نرم افزار Sony Themes Creator می توان برای تولید تم های جدید برای موبایل های سونی اریکسون استفاده کرد. کاربران می توانند سونی [Themes Creator Developer Guide](https://developer.sony.com/theme-creator/get-started) را برای ایجاد تم دنبال کنند.
-
-## منابع
-
-* [راهنمای برنامه‌نویس ایجاد تم سونی](https://developer.sony.com/theme-creator/get-started)
-
-
+از نرم افزار Sony Themes Creator می توان برای تولید تم های جدید برای موبایل های سونی اریکسون استفاده کرد. کاربران می توانند سونی Themes Creator Developer Guide را برای ایجاد تم دنبال کنند.

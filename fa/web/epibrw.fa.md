@@ -24,7 +24,4 @@
 هنگامی که یک فایل EPIBRW دوبار کلیک می شود، ممکن است در مرورگر باز شود و محتویات را نمایش دهد. با این حال، اگر فایل برای دانلود پیوند داده شده باشد، فرآیند دانلود فایل در نتیجه این رویداد آغاز می شود.
 
 ## منابع
-
-* [Adobe Edge](https://www.adobe.com/sea/products/edge-animate.html)
-
-
+* [Adobe Edge](https://en.wikipedia.org/wiki/Adobe_Edge_Animate)

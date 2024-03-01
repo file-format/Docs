@@ -23,8 +23,3 @@
 
 فایل های DAP را می توان با نرم افزار SpeedBit Download Accelerator Plus (DAP) باز کرد.
 
-## منابع
-
-* [DAP Help - Manage Saving Folders](http://www.speedbit.com/dap-help/download-accelerator-file-manager/)
-
-

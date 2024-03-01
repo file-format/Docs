@@ -29,4 +29,4 @@ Client browsers can access the content on ECE servers through HTTP/REST API. In 
 
 ## References
 
-* [Adobe Edge](https://www.adobe.com/sea/products/edge-animate.html)
+* [Adobe Edge](https://en.wikipedia.org/wiki/Adobe_Edge_Animate)

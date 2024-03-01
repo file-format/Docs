@@ -40,7 +40,7 @@
 
 * [برترین‌های محبوب محتوایی را که کلیک می‌کنند آشکار می‌کنند](https://www.searchenginepeople.com/blog/kindle-highlights.html)
 
-* [How to Turn Off Popular Highlights on Your Kindle](https://www.howtogeek.com/355701/how-to-turn-off-popular-highlights-on-your-kindle)
+* [How to Turn Off Popular Highlights on Your Kindle](https://www.howtogeek.com/355701/how-to-turn-off-popular-highlights-on-your-kindle/)
 
 
 

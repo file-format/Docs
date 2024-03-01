@@ -32,7 +32,7 @@
 
 ## مشخصات فرمت فایل NSF
 
-فایل های NSF ماهیت باینری دارند و مشخصات آنها توسط یواخیم متز در [Github](https://github.com/libyal/libnsfdb/blob/main/documentation/Notes%20Storage%20Facility%20(NSF)%20database%20file%20format.asciidoc در دسترس است. طبق این جزئیات، یک فایل NSF شامل موارد زیر است:
+فایل های NSF ماهیت باینری دارند و مشخصات آنها توسط یواخیم متز در [Github](https://github.com/libyal/libnsfdb/blob/main/documentation/Notes%20Storage%20Facility%20(NSF)%20database%20file%20format.asciidoc) در دسترس است. طبق این جزئیات، یک فایل NSF شامل موارد زیر است:
 
  * سربرگ فایل
  * سربرگ پایگاه داده

@@ -66,15 +66,13 @@
 
 فرمت XPS Document شامل مجموعه ای از قطعات و روابط کاملاً تعریف شده است که هر کدام هدف خاصی را در سند انجام می دهند. این قالب همچنین ویژگی‌های بسته را گسترش می‌دهد، از جمله امضای دیجیتال، ریز عکس‌ها و interleaving.
 
-یک سند معمولی XPS به شکل زیر است و می تواند در پرتو فرمت فایل XPS [specifications](https://www.ecma-international.org/activities/XML%20Paper%20Specification/XPS%20Standard.pdf) تجزیه و تحلیل شود.
+یک سند معمولی XPS به شکل زیر است و می تواند در پرتو فرمت فایل XPS specifications تجزیه و تحلیل شود.
 
 {{< figure src="../XPS-2.png" alt="فرمت فایل XPS" >}}
 
 
 ## منابع ##
-
 * [مشخصات فرمت فایل XPS](https://www.ecma-international.org/publications-and-standards/standards/ecma-388/)
-
 * [XPS - توسط Wikipedia](https://en.wikipedia.org/wiki/Open_XML_Paper_Specification#Viewing_and_creating_XPS_documents)
 
 

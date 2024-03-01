@@ -29,7 +29,7 @@
 
 ## What is a RTF file?
 
-Introduced and documented by Microsoft, the Rich Text Format (**RTF**) represents a method of encoding formatted text and graphics for use within applications. The format facilitates cross-platform document exchange with other Microsoft Products, thus serving the purpose of interoperability. This capability makes it a standard of data transfer between word processing software and, hence, contents can be transferred from one operating system to another without losing document formatting. The file format specifications are available by Microsoft for public [download](https://interoperability.blob.core.windows.net/files/Archive_References/%5bMSFT-RTF%5d.pdf) and can be referred to from developer's perspective.
+Introduced and documented by Microsoft, the Rich Text Format (**RTF**) represents a method of encoding formatted text and graphics for use within applications. The format facilitates cross-platform document exchange with other Microsoft Products, thus serving the purpose of interoperability. This capability makes it a standard of data transfer between word processing software and, hence, contents can be transferred from one operating system to another without losing document formatting. The file format specifications are available by Microsoft for public download and can be referred to from developer's perspective.
 
 ## Brief History of RTF File Format ##
 
@@ -73,7 +73,7 @@ A group can consist of text, control words, or control symbols enclosed in brac
 
 An RTF file has the following Standard syntax:
 
-Introduced and documented by Microsoft, the Rich Text Format (**RTF**) represents a method of encoding formatted text and graphics for use within applications. The format facilitates cross-platform document exchange with other Microsoft Products, thus serving the purpose of interoperability. This capability makes it a standard of data transfer between word processing software and, hence, contents can be transferred from one operating system to another without losing document formatting. The file format specifications are available by Microsoft for public [download](https://interoperability.blob.core.windows.net/files/Archive_References/%5bMSFT-RTF%5d.pdf) and can be referred to from developer's perspective.
+Introduced and documented by Microsoft, the Rich Text Format (**RTF**) represents a method of encoding formatted text and graphics for use within applications. The format facilitates cross-platform document exchange with other Microsoft Products, thus serving the purpose of interoperability. This capability makes it a standard of data transfer between word processing software and, hence, contents can be transferred from one operating system to another without losing document formatting. The file format specifications are available by Microsoft for public download and can be referred to from developer's perspective.
 
 #### RTF Header ####
 
@@ -137,6 +137,4 @@ In a document with that font table, `{\f2 stuff}` would print “stuff” in C
 Every RTF document must end with a }, to close the group opened by the { that is the first character in the document. Nothing can follow the final }, except possibly a newline.
 
 ## References ##
-
-* [RTF 1.9.1 Specifications](https://interoperability.blob.core.windows.net/files/Archive_References/%5bMSFT-RTF%5d.pdf)
 * [Rich Text Format](https://en.wikipedia.org/wiki/Rich_Text_Format)

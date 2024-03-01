@@ -24,5 +24,4 @@ An EPIBRW file is a generic file hosted on Microsoft IIS-based web server. The p
 When an EPIBRW file is double clicked, it may open in browser displaying the contents. However, if the file is linked for download, the file download process will initiate as result of this event.
 
 ## References
-
-* [Adobe Edge](https://www.adobe.com/sea/products/edge-animate.html)
+* [Adobe Edge](https://en.wikipedia.org/wiki/Adobe_Edge_Animate)

@@ -29,5 +29,5 @@ SP3 files are saved to disc in ASCII file format and its contents can be opened 
 
 ## References
 
-* [The Extended Standard Product 3 Orbit Format (SP3-c)](http://epncb.oma.be/ftp/data/format/sp3c.txt#:~:text=The%20SP3%20format%20is%20similar,a%20more%20flexible%20header%20structure)
-* [Extending the  National Geodetic Survey Standard GPS Orbit Formats](https://beta.ngs.noaa.gov/PUBS_LIB/Extending_the_NGS_Standard_GPS_Orbit_Formats_TR_NOS133_NGS46.pdf)
+* [The Extended Standard Product 3 Orbit Format (SP3-c)](https://epncb.oma.be/ftp/data/format/sp3c.txt)
+

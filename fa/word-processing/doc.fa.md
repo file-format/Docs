@@ -146,7 +146,4 @@ Table Stream نباید بیشتر از 2147 مگابایت باشد.
 ## منابع ##
 
 * [مشخصات تشکیل پرونده MS-DOC](https://msdn.microsoft.com/en-us/library/cc313153(v#office.12).aspx)
-
-* [محاسبات سند](https://en.wikipedia.org/wiki/Doc_(محاسبات))
-
-
+* [محاسبات سند](https://en.wikipedia.org/wiki/Doc_(computing))

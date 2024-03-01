@@ -36,7 +36,4 @@ Hello World from Java to the console.
 ```
 
 ## منابع ##
-
-* [جاوا (زبان برنامه‌نویسی) - ویکی‌پدیا](https://en.wikipedia.org/wiki/Java_(زبان_برنامه‌نویسی))
-
-
+* [جاوا (زبان برنامه‌نویسی) - ویکی‌پدیا](https://en.wikipedia.org/wiki/Java_(programming_language))

@@ -13,9 +13,9 @@
 },
   "draft": "false",
   "toc": true,
-  "title": "نقطه",
+  "title": "DOT",
   "description": "Learn about نقطه file format and APIs that can create and open نقطه files.",
-  "linktitle": "نقطه",
+  "linktitle": "DOT",
   "menu": {
     "docs": {
       "parent": "word-processing",

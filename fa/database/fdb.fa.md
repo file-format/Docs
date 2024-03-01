@@ -49,7 +49,3 @@
 
 ## منابع
 * [Microsoft Dynamics NAV](https://dynamics.microsoft.com/en-us/nav-erp/)
-
-* [نحوه افزودن فایل‌های پایگاه داده جدید در Dynamics NAV](https://learn.microsoft.com/en-us/dynamics-nav/how-to-add-new-database-files)
-
-

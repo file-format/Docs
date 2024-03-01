@@ -42,7 +42,7 @@
 
 ## منابع
 
-* [Shapfile - توسط ویکی پدیا)](https://en.wikipedia.org/wiki/Shapfile)
+* [Shapfile - توسط ویکی پدیا)](https://en.wikipedia.org/wiki/Shapefile)
 
 
 

@@ -72,8 +72,4 @@ _هنگام برخورد با فایل های BIN بارگیری شده یا ا�
 - [BIN - PSX PlayStation BIOS Image](/game/bin-pcsx/)
 
 ## منابع
-
-* [نحوه اجرای فایل های باینری در لینوکس](https://linuzhint.com/execute-binary-files-in-linux/)
-
-
-
+* [How to Execute Binary Files in Linux](https://linuxhint.com/execute-binary-files-in-linux/)

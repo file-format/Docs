@@ -33,7 +33,7 @@ A file with a .qt extension is a multimedia container file that is used by the Q
 
 ## QT File Format
 
-The QTFF is object-oriented that exposes a flexible collection of objects for ease of parsing and expansion. Each track in a QT file contains a digitally-encoded media stream or a data reference to the media stream located in another file. The hierarchical data structure consisting of objects called atoms acts as tracks containers. File format specifications for [QT file format](https://developer.apple.com/library/archive/documentation/QuickTime/QTFF/QTFFPreface/qtffPreface.html) are officially available by Apple Inc for the developer's reference.
+The QTFF is object-oriented that exposes a flexible collection of objects for ease of parsing and expansion. Each track in a QT file contains a digitally-encoded media stream or a data reference to the media stream located in another file. The hierarchical data structure consisting of objects called atoms acts as tracks containers. File format specifications for [QT file format](https://developer.apple.com/documentation/quicktime-file-format) are officially available by Apple Inc for the developer's reference.
 
 ### Media description
 
@@ -65,5 +65,5 @@ The next chunk is located at offset 32+8#40 (hex: 28) and has a size 3,263,028 (
 
 ## References ##
 
-* [QT File Format - Apple Inc.](https://developer.apple.com/library/archive/documentation/QuickTime/QTFF/QTFFPreface/qtffPreface.html)
+* [QT File Format - Apple Inc.](https://developer.apple.com/documentation/quicktime-file-format)
 * [QuickTime File Format - Wikipedia](https://en.wikipedia.org/wiki/QuickTime_File_Format)

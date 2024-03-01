@@ -35,11 +35,5 @@
 همه فایل‌های Microsoft Access 2007+ از Jet ACE (موتور پایگاه داده دسترسی) استفاده می‌کنند که از خانواده فرمت فایل ACCDB استفاده می‌کند. با این حال، مایکروسافت یک پیاده سازی متن باز یا مشخصات فنی دقیق ارائه نمی دهد.
 
 ## منابع
-
 * [چگونه کد VBA را از کاربران پنهان کنیم؟](https://support.microsoft.com/en-us/office/hide-vba-code-from-users-ce6ab610-af07-4008-91e0-1ef1b796ff18)
-
 * [ابزار MDB](https://github.com/mdbtools/mdbtools/blob/master/HACKING)
-
-* [راهنمای غیر رسمی MDB](http://jabakobob.net/mdb/)
-
-

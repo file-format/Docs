@@ -38,7 +38,4 @@
 فایل های ASV در فرمت فایل باینری ذخیره می شوند و محتویات آنها به شکل قابل خواندن توسط انسان نیست.
 
 ## منابع
-
-* [بارگیری فایل ASV در Adobe Photoshop](https://community.adobe.com/t5/photoshop-ecosystem-discussions/photoshop-asv-file-preset-wont-open/mp/12587356)
-
-
+* [Load ASV File in Adobe Photoshop](https://community.adobe.com/t5/photoshop-ecosystem-discussions/photoshop-asv-file-preset-wont-open/m-p/12587356)

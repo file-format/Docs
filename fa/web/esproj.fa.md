@@ -26,7 +26,4 @@
 فایل های ESPROJ به عنوان فایل های باینری ذخیره می شوند و محتویات آن توسط انسان قابل خواندن نیست. دایرکتوری فایل ESPROJ همچنین دایرکتوری اصلی وب سایت است.
 
 ## منابع
-
-* [Adobe Edge](https://www.adobe.com/sea/products/edge-animate.html)
-
-
+* [Adobe Edge](https://en.wikipedia.org/wiki/Adobe_Edge_Animate)

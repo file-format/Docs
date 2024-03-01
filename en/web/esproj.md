@@ -26,5 +26,4 @@ An ESPROJ file is a project file created by webpages creating software, Espresso
 ESPROJ files are saved as binary files and its contents are not human-readable. The ESPROJ file directory is also the root directory for the website.
 
 ## References
-
-* [Adobe Edge](https://www.adobe.com/sea/products/edge-animate.html)
+* [Adobe Edge](https://en.wikipedia.org/wiki/Adobe_Edge_Animate)

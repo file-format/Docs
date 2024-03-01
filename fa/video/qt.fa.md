@@ -33,7 +33,7 @@
 
 ## فرمت فایل QT
 
-QTFF شی گرا است که مجموعه ای انعطاف پذیر از اشیاء را برای سهولت تجزیه و بسط در معرض دید قرار می دهد. هر آهنگ در یک فایل QT حاوی یک جریان رسانه ای رمزگذاری شده دیجیتالی یا یک مرجع داده به جریان رسانه ای است که در فایل دیگری قرار دارد. ساختار داده سلسله مراتبی متشکل از اشیایی به نام اتم ها به عنوان کانتینرهای مسیر عمل می کند. مشخصات قالب فایل برای [QT file format](https://developer.apple.com/library/archive/documentation/QuickTime/QTFF/QTFFPreface/qtffPreface.html) به طور رسمی توسط Apple Inc برای مرجع توسعه دهنده در دسترس است.
+QTFF شی گرا است که مجموعه ای انعطاف پذیر از اشیاء را برای سهولت تجزیه و بسط در معرض دید قرار می دهد. هر آهنگ در یک فایل QT حاوی یک جریان رسانه ای رمزگذاری شده دیجیتالی یا یک مرجع داده به جریان رسانه ای است که در فایل دیگری قرار دارد. ساختار داده سلسله مراتبی متشکل از اشیایی به نام اتم ها به عنوان کانتینرهای مسیر عمل می کند. مشخصات قالب فایل برای [QT file format](https://developer.apple.com/documentation/quicktime-file-format) به طور رسمی توسط Apple Inc برای مرجع توسعه دهنده در دسترس است.
 
 ### Media description
 
@@ -65,7 +65,7 @@ Here is a sample example: Inspecting a sample MOV file’s binary data it is evi
 
 ## منابع ##
 
-* [فرمت فایل QT - Apple Inc.](https://developer.apple.com/library/archive/documentation/QuickTime/QTFF/QTFFPreface/qtffPreface.html)
+* [فرمت فایل QT - Apple Inc.](https://developer.apple.com/documentation/quicktime-file-format)
 
 * [فرمت فایل QuickTime - ویکی پدیا](https://en.wikipedia.org/wiki/QuickTime_File_Format)
 

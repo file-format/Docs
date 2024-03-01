@@ -44,6 +44,6 @@ It was first launched in 2003 by Apple and was known as  Keynote 1.0. سازگا
 
 ## منابع ##
 
-* [Keynote - Wikipedia](https://en.wikipedia.org/wiki/Keynote_(Presentation_software))
+* [Keynote - Wikipedia](https://en.wikipedia.org/wiki/Keynote_(presentation_software))
 
 

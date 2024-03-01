@@ -38,5 +38,4 @@ relative or absolute method.
 ASV files are saved in binary file format and their contents are not in human readable form.
 
 ## References
-
 * [Load ASV File in Adobe Photoshop](https://community.adobe.com/t5/photoshop-ecosystem-discussions/photoshop-asv-file-preset-wont-open/m-p/12587356)

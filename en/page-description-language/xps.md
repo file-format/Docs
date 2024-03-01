@@ -57,7 +57,7 @@ These files retain the document contents in such a way that if, for example, som
 
 The XPS Document format includes a well-defined set of parts and relationships, each fulfilling a particular purpose in the document. The format also extends the package features, including digital signatures, thumbnails, and interleaving.
 
-A typical XPS document looks as follows and can be analyzed in light of XPS file format [specifications](https://www.ecma-international.org/activities/XML%20Paper%20Specification/XPS%20Standard.pdf).
+A typical XPS document looks as follows and can be analyzed in light of XPS file format specifications.
 
 {{< figure src="../XPS-2.png" alt="XPS File Format" >}}
 

@@ -41,14 +41,3 @@ Only record with integer tag 999. دیکشنری را از مشاهدات داد
 - **کد 0**: فشرده شده توسط بایت کد
 - **کد 1**: با استفاده از فشرده سازی ZLIB فشرده شده است
  
-
-
-
-
-
-
-## منابع ##
-
-* [خانواده فرمت فایل داده سیستم SPSS (.sav)](https://www.loc.gov/preseration/digital/formats/fdd/fdd000469.shtml)
-
-

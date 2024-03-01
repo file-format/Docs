@@ -44,7 +44,4 @@
 `Security Features:` The firmware may include various security features, such as firewalls, VPN support, or intrusion detection systems, that help protect the router and the network from unauthorized access or attacks.
 
 ## ارجاع
-
-* [روتر چیست؟](https://en.wikipedia.org/wiki/Router_(محاسبات))
-
-
+* [روتر چیست؟](https://en.wikipedia.org/wiki/Router_(computing))

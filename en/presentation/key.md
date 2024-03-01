@@ -43,5 +43,4 @@ KEY files can be opened on macOS or any other iOS device. It can also be convert
 Some specific tools can be used during a presentation using these file formats or on an Apple device like the user can share his screen to the presenter screen and can still look at the notes on his desktop.
 
 ## References ##
-
 * [Keynote - Wikipedia](https://en.wikipedia.org/wiki/Keynote_(presentation_software))

@@ -49,6 +49,6 @@ The Gothic video game series is a series of action role-playing games (RPGs) tha
 - [VDF - VirtualDub Video Filter File](/plugin/vdf/)
 
 ## منابع
-* [گوتیک (سریال)](https://en.wikipedia.org/wiki/Gothic_(سریال))
+* [گوتیک (سریال)](https://en.wikipedia.org/wiki/Gothic_(series))
 
 

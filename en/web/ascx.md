@@ -57,6 +57,4 @@ In order to use a single user control on many pages, the web control can be regi
 </configuration>
 ```
 ## References
-
- * [ASCX vs ASMX](https://social.msdn.microsoft.com/Forums/en-US/a27d4c2f-b972-439e-a7fe-f4b7e3637700/how-to-work-with-ascx-files?forum=aspwebforms)
  * [ASCX User Control](https://beansoftware.com/ASP.NET-Tutorials/User-Control.aspx)

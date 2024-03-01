@@ -63,5 +63,5 @@ SQLite یک سیستم مدیریت پایگاه داده محبوب است که
 ## منابع
  * [Fix corrupted Contacts database](https://discussions.apple.com/docs/DOC-10581)
  * [Contact Database For Mac](https://nitroreward.weebly.com/blog/contact-database-for-mac)
- * [چگونه می توانم یک فایل abcddb را در ویندوز 7 اکسل باز یا صادر کنم؟](https://apple.stackexchange.com/questions/52888/how-can-i-open-or-export-a-abcddb-file-in -ویندوز 7-اکسل)
+ * [چگونه می توانم یک فایل abcddb را در ویندوز 7 اکسل باز یا صادر کنم؟](https://apple.stackexchange.com/questions/52888/how-can-i-open-or-export-a-abcddb-file-in-windows-7-excel)
 
