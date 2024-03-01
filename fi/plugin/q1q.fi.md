@@ -25,7 +25,7 @@
 
 Q1Q-laajennustiedostot on tallennettu Flaming Pear -tiedostomuotoon, eivätkä sen sisäiset tiedostomuodot ole saatavilla julkisesti. Seuraava kuva näyttää Q1Q-laajennuksen käyttöliittymän, kun se on ladattu Photoshopiin.
 
-{{<figure src=../q1q.png alt=LunarCell PluginFile Format > }}
+{{<figure src="../q1q.png" alt="LunarCell PluginFile Format" >}}
 
 ## Kuinka avata Q1Q -tiedosto?
 

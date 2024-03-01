@@ -10,7 +10,6 @@
   "linktitle": "SEAM",
   "menu": {
     "docs": {
-"tunniste: verkkosauma",
       "parent": "web",
       "identifier": "web-sea-fim"
 }

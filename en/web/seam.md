@@ -10,7 +10,6 @@
   "linktitle": "SEAM",
   "menu": {
     "docs": {
-      "identifer": "web-seam",
       "parent": "web",
       "identifier": "web-seam"
     }

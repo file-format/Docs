@@ -11,7 +11,7 @@
   "menu" : {
     "docs" : {
       "parent" : "word-processing",
-"paino : 01"
+"weight" : "01"
 }
 },
   "lastmod" : "2019-09-10"

@@ -12,7 +12,7 @@
   "menu" : {
     "docs" : {
       "parent" : "font",
-"paino : 01"
+"weight" : "01"
 }
 },
   "lastmod" : "2020-09-17"

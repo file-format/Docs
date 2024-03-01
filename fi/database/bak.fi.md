@@ -53,7 +53,7 @@ Kuvauslohkoja (DBLK) käytetään muodon hallintaan ja ne muodostavat MTF-tiedos
  * Käyttöjärjestelmän tiedot - Tietyt tiedot, jotka on määritelty DBLK:n ja käyttöjärjestelmien tyypin perusteella
  * DBLK-tiedot - Vaihtuvapituiset DBLK-tiedot, joita ei voida tallentaa kiinteän pituisten DBLK-tietojen kanssa.
 
-{{< figure src=../bak.png alt=Microsoft SQL -varmuuskopiotiedostomuoto >}}
+{{< figure src="../bak.png" alt="Microsoft SQL Backup File Format" >}}
 
 #### Datavirta
 
