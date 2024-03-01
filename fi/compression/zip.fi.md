@@ -15,9 +15,9 @@
 },
   "draft": "false",
   "toc": true,
-  "title": "POSTINUMERO",
+  "title": "ZIP",
   "description": "What is a POSTINUMERO file and APIs that can create and open POSTINUMERO files.",
-  "linktitle": "POSTINUMERO",
+  "linktitle": "ZIP",
   "menu": {
     "docs": {
       "parent": "compression",

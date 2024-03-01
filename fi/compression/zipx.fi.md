@@ -5,9 +5,9 @@
 },
   "draft": "false",
   "toc": true,
-  "title": "POSTINUMERO",
+  "title": "ZIPX",
   "description": "What is a POSTINUMEROX file and APIs that can create and open POSTINUMEROX files.",
-  "linktitle": "POSTINUMEROX",
+  "linktitle": "ZIPX",
   "menu": {
     "docs": {
       "parent": "compression",
