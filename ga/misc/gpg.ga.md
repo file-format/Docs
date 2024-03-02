@@ -58,8 +58,8 @@ gpg cfile.txt.gpg
 
 ## Tagairtí
 
-* [GNUPG]( https://gnupg.org/)
+* [GNUPG](https://gnupg.org/)
 
-* [HDF - Vicipéid]( https://ga.wikipedia.org/wiki/Hierarchical_Data_Format)
+* [HDF - Vicipéid](https://ga.wikipedia.org/wiki/Hierarchical_Data_Format)
 
 

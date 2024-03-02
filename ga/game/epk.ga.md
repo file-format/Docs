@@ -51,6 +51,6 @@ Chun comhad EPK a chruthú do do shaol cluiche Eaglercraft, beidh ort na céimea
 Cé gur cluiche an-taitneamhach é Minecraft is féidir a imirt ar ardáin éagsúla, d’fhéadfadh roinnt imreoirí roghanna eile a lorg. Is leagan gréasáin den scoth den chluiche é Eaglercraft atá inrochtana tríd an gcuid is mó de na brabhsálaithe idirlín agus a thairgeann eispéireas cearrbhachais inchomparáide.
 
 ## Tagairtí
-* [Minecraft Eaglercraft – Cad É?]( https://apexminecrafthosting.com/eaglercraft-minecraft/)
+* [Minecraft Eaglercraft – Cad É?](https://apexminecrafthosting.com/eaglercraft-minecraft/)
 
 

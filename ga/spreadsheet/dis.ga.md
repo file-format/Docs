@@ -40,7 +40,7 @@ Déantar comhaid DIS a shábháil ar diosca mar chomhaid dhénártha ach níl a 
 
 ## Tagairtí
 
-* [Aimsitheoir Oracle - Vicipéid]( https://ga.wikipedia.org/wiki/Oracle_Discoverer)
+* [Aimsitheoir Oracle - Vicipéid](https://ga.wikipedia.org/wiki/Oracle_Discoverer)
 
 * [Fusion Middleware User's Guide for Oracle Business Intelligence Discoverer EUL Java Command Line](https://docs.oracle.com/cd/E28280_01/bi.1111/b40108/toc.htm)
 

@@ -96,6 +96,6 @@ Seo cineálacha comhaid eile a úsáideann an síneadh comhad **.chr**.
 - [CHR - Doki Doki Literature Club! Character File](/game/chr-doki/)
 
 ## Tagairtí
-* [Club Litríochta Doki Doki!]( https://en.wikipedia.org/wiki/Doki_Doki_Literature_Club!)
+* [Club Litríochta Doki Doki!](https://en.wikipedia.org/wiki/Doki_Doki_Literature_Club!)
 
 

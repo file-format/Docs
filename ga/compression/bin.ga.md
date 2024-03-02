@@ -85,6 +85,6 @@ Seo cineálacha comhaid eile a úsáideann an síneadh comhad **.bin**.
 
 ## Tagairtí
 
-* [MacBinary]( https://ga.wikipedia.org/wiki/MacBinary)
+* [MacBinary](https://ga.wikipedia.org/wiki/MacBinary)
 
 

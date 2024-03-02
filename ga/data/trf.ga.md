@@ -42,6 +42,6 @@ Feidhmchlár deisce é TorrentRover atá deartha chun taithí chuardaigh torrent
 - **Torrentrover ** (Saor in Aisce) le haghaidh Windows
 
 ## Tagairtí
-* [TorrentRover]( https://www.torrentrover.com/)
+* [TorrentRover](https://www.torrentrover.com/)
 
 

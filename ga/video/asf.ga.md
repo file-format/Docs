@@ -86,6 +86,6 @@ Tá an dá chineál seo a leanas ag réada innéacs barrleibhéil ASF:
 
 * [Formáid Comhaid ASF - Microsoft](https://download.microsoft.com/download/7/9/0/790fecaa-f64a-4a5e-a430-0bccdab3f1b4/ASF_Specification.doc)
 
-* [Formáid Comhaid QuickTime - Vicipéid]( https://ga.wikipedia.org/wiki/QuickTime_File_Format)
+* [Formáid Comhaid QuickTime - Vicipéid](https://ga.wikipedia.org/wiki/QuickTime_File_Format)
 
 

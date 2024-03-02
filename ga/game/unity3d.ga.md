@@ -67,6 +67,6 @@ Tá Unity3D ar fáil i leaganacha saor in aisce agus íoctha araon. Soláthraío
 Úsáidtear Unity3D freisin i dtionscail éagsúla lasmuigh den chearrbhachas, amhail feithicleach, scannán agus fógraíocht, chun eispéiris agus insamhaltaí idirghníomhacha a chruthú.
 
 ## Tagairtí
-* [Unity (inneall cluiche)]( https://en.wikipedia.org/wiki/Unity_(game_engine))
+* [Unity (inneall cluiche)](https://en.wikipedia.org/wiki/Unity_(game_engine))
 
 

@@ -29,6 +29,6 @@ Is formáid comhaid veicteora é formáid comhaid MIF a stóráiltear mar ghnát
 
 ## Tagairtí
 
-* [MapInfo Professional - Vicipéid]( https://ga.wikipedia.org/wiki/MapInfo_Professional)
+* [MapInfo Professional - Vicipéid](https://ga.wikipedia.org/wiki/MapInfo_Professional)
 
 

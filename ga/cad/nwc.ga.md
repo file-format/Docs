@@ -32,5 +32,5 @@ Is é NWC formáid comhaid dílseánaigh Autodesk agus sin an fáth nach bhfuil 
 
 ## Tagairtí ##
 
- * [Navisworks le wikipedia]( https://en.wikipedia.org/wiki/Navisworks)
+ * [Navisworks le wikipedia](https://en.wikipedia.org/wiki/Navisworks)
 

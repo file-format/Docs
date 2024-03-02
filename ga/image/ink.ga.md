@@ -54,6 +54,6 @@ Féadfaidh an fhormáid comhaid .ink sonraí a bhaineann le dathanna dúch Panto
 Is bogearraí grafaicí veicteora é CorelDRAW a thacaíonn le dathanna Pantone agus a sholáthraíonn uirlisí chun oibriú leo.
 
 ## Tagairt
-* [CorelDRAW]( https://en.wikipedia.org/wiki/CorelDRAW)
+* [CorelDRAW](https://en.wikipedia.org/wiki/CorelDRAW)
 
 

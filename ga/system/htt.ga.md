@@ -44,6 +44,6 @@ Cuimsíonn comhad HTT go hiondúil HTML agus cód scripte ar féidir a úsáid m
 Tríd is tríd, cuireann comhad HTT bealach ar fáil d’fhorbróirí teimpléid ath-inúsáidte a chruthú do leathanaigh ghréasáin dhinimiciúla, rud a ligeann dóibh an ciseal cur i láthair a scaradh ó na sonraí agus an loighic bhunúsach. Mar sin féin, mar gheall ar theorainneacha na formáide agus méadú ar theicneolaíochtaí forbartha gréasáin níos forbartha, ní úsáidtear comhaid HTT go forleathan a thuilleadh.
 
 ## Tagairtí
-* [Hipirthéacs]( https://ga.wikipedia.org/wiki/Hypertext)
+* [Hipirthéacs](https://ga.wikipedia.org/wiki/Hypertext)
 
 

@@ -50,8 +50,8 @@ The following table gives a brief description of these elements.
 
 ## Tagairtí
 
-* [Comhad an Tionscadail a Thuiscint]( https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file)
+* [Comhad an Tionscadail a Thuiscint](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project-file)
 
-* [Eilimintí Scéimre MSBuild]( https://learn.microsoft.com/en-us/visualstudio/msbuild/msbuild-project-file-schema-reference?view=vs-2019)
+* [Eilimintí Scéimre MSBuild](https://learn.microsoft.com/en-us/visualstudio/msbuild/msbuild-project-file-schema-reference?view=vs-2019)
 
 

@@ -60,6 +60,6 @@ Seo a leanas ceanntásc formáid comhaid NKIT.
 
 ## Tagairtí ##
 
-* [Formáid Comhaid NKIT - le gbatemp]( https://wiki.gbatemp.net/wiki/NKit/NKitFormat)
+* [Formáid Comhaid NKIT - le gbatemp](https://wiki.gbatemp.net/wiki/NKit/NKitFormat)
 
 

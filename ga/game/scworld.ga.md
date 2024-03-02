@@ -51,6 +51,6 @@ Níl formáid inmheánach an chomhaid .scworld” a úsáidtear in Survivalcraft
 Mar sin féin, bunaithe ar bhreathnuithe agus iarrachtaí droim ar ais ó phobal an chluiche, creidtear gur formáid chartlainne chomhbhrúite atá san fhormáid comhaid .scworld. Is dócha go bhfuil bailiúchán comhad agus eolairí ann a stórálann comhpháirteanna agus sonraí éagsúla de shaol an chluiche, mar shampla sonraí tír-raoin, socrúchán réad, uigeachtaí, agus faisnéis ábhartha eile.
 
 ## Tagairtí
-* [Survivalcraft]( https://ga.wikipedia.org/wiki/Survivalcraft)
+* [Survivalcraft](https://ga.wikipedia.org/wiki/Survivalcraft)
 
 

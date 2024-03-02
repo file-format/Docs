@@ -57,6 +57,6 @@ Chun comhad RIP a oscailt, beidh ort na bogearraí eagarthóireachta fuaime Hit'
 4. Roghnaigh an comhad RIP is mian leat a oscailt agus cliceáil Oscail.
 
 ## Tagairtí
-* [Buail’n’Mix – Bogearraí]( https://hitnmix.com/)
+* [Buail’n’Mix – Bogearraí](https://hitnmix.com/)
 
 

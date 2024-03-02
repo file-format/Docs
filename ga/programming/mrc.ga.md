@@ -98,7 +98,7 @@ on *:Text:die*:#: { .mode $chan +b $nick | kick $chan $nick Dont say that again 
 
 ## Tagairt ##
 
-* [MIRC - le Vicipéid]( https://en.wikipedia.org/wiki/MIRC_scripting_language )
+* [MIRC - le Vicipéid](https://en.wikipedia.org/wiki/MIRC_scripting_language )
 
 
 

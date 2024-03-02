@@ -94,6 +94,6 @@ Ba cheart go mbeadh cuma mar seo ar aschur an chomhaid ordaithe thuas:
 
 ## Tagairtí ##
 
-* [TEX - Vicipéid]( https://ga.wikipedia.org/wiki/TeX)
+* [TEX - Vicipéid](https://ga.wikipedia.org/wiki/TeX)
 
 

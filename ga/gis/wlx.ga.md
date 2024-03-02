@@ -31,6 +31,6 @@ Ní thacaíonn Garmin níos mó le MapSource agus cuireadh BaseCamp ina ionad at
 
 ## Tagairtí ##
 
-* [MapSource - Le Vicipéid]( https://wiki.openstreetmap.org/wiki/MapSource)
+* [MapSource - Le Vicipéid](https://wiki.openstreetmap.org/wiki/MapSource)
 
 

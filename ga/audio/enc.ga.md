@@ -47,6 +47,6 @@ Is féidir leat comhad ENC a bhaineann le comhdhéanamh ceoil a oscailt ag baint
 Ag baint úsáide as na bogearraí thuas, is féidir leat comhaid ENC a thiontú go formáid [.MXL](/audio/mxl/) (Ceol ComhbhrúiteXML) chomh maith.
 
 ## Tagairtí
-* [Encore Software]( https://en.wikipedia.org/wiki/Encore_(software))
+* [Encore Software](https://en.wikipedia.org/wiki/Encore_(software))
 
 

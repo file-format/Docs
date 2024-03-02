@@ -45,5 +45,5 @@ Tá sé beagán deacair an comhad IPT de shamhail 3d a aimsiú agus a íoslódá
 
 ## Tagairtí
 
- * [Comhaid IPT - Autodesk]( https://help.autodesk.com/view/INVNTOR/2018/ENU/?guid=GUID-94B779C0-6B2B-499A-A4F9-2E4BAB49712F)
+ * [Comhaid IPT - Autodesk](https://help.autodesk.com/view/INVNTOR/2018/ENU/?guid=GUID-94B779C0-6B2B-499A-A4F9-2E4BAB49712F)
 

@@ -45,6 +45,6 @@ Tá prótacal torrenting do mhalartú sonraí idir úsáideoirí P2P sábháilte
 
 ## Tagairtí
 
-* [Comhad TORRENT - wikipedia]( https://en.wikipedia.org/wiki/Torrent_file)
+* [Comhad TORRENT - wikipedia](https://en.wikipedia.org/wiki/Torrent_file)
 
 

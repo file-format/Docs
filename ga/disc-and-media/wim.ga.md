@@ -50,7 +50,7 @@ Is gnách go dtacaíonn na huirlisí seo a leanas le formáid comhaid WIM:
 
 ## Tagairtí 
 
-* [Formáid Íomháú Windows - le Vicipéid]( https://en.wikipedia.org/wiki/Windows_Imaging_Format)
+* [Formáid Íomháú Windows - le Vicipéid](https://en.wikipedia.org/wiki/Windows_Imaging_Format)
 
 
 

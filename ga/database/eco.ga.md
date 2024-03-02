@@ -46,6 +46,6 @@ However, NetManage discontinued ECCO, and the last official version was released
 - NetManage ECCO Pro
 
 ## Tagairtí
-* [Ecco Pro]( https://en.wikipedia.org/wiki/Ecco_Pro)
+* [Ecco Pro](https://en.wikipedia.org/wiki/Ecco_Pro)
 
 

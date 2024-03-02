@@ -83,8 +83,8 @@ Seo a leanas sonraíochtaí Dolby Digital.
 
 ## Tagairtí
 
-* [AC3 - Le Wikiepedia]( https://en.wikipedia.org/wiki/Dolby_Digital)
+* [AC3 - Le Wikiepedia](https://en.wikipedia.org/wiki/Dolby_Digital)
 
-* [Dolby Digital 5.1]( https://professional.dolby.com/tv/dolby-digital)
+* [Dolby Digital 5.1](https://professional.dolby.com/tv/dolby-digital)
 
 

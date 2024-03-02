@@ -44,6 +44,6 @@ Is féidir leat na bogearraí seo a leanas a úsáid chun comhaid STY a oscailt.
 - Tarracóir WAVE
 
 ## Tagairtí
-* [Stíleanna Méarchláir Yamaha]( https://psrtutorial.com/sty/yamaha/index.html)
+* [Stíleanna Méarchláir Yamaha](https://psrtutorial.com/sty/yamaha/index.html)
 
 

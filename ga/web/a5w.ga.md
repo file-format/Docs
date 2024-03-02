@@ -38,6 +38,6 @@ Is comhaid gnáth-théacs iad comhaid A5W ina bhfuil cód foinse mar aon le cód
 
 ## Tagairtí
 
- * [Alfa a Cúig]( https://www.alphasoftware.com/)
- * [Doiciméadúchán Alfa Cúig]( https://documentation.alphasoftware.com/documentation/pages/index.html)
+ * [Alfa a Cúig](https://www.alphasoftware.com/)
+ * [Doiciméadúchán Alfa Cúig](https://documentation.alphasoftware.com/documentation/pages/index.html)
 

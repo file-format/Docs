@@ -69,6 +69,6 @@ Chun comhad ovpn a oscailt, beidh ort bogearraí cliant OpenVPN a bheith suiteá
 Nuair a bheidh an nasc bunaithe, is féidir leat brabhsáil ar an idirlíon le seoladh IP shuíomh an fhreastalaí VPN. Coinnigh i gcuimhne go bhféadfadh na céimeanna cruinne chun comhad ovpn a oscailt a bheith éagsúil ag brath ar na bogearraí cliant OpenVPN atá in úsáid agat.
 
 ## Tagairtí
-* [OpenVPN]( https://en.wikipedia.org/wiki/OpenVPN)
+* [OpenVPN](https://en.wikipedia.org/wiki/OpenVPN)
 
 

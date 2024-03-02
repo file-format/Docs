@@ -28,6 +28,6 @@ Comhaid dhénártha GIS is ea APL agus níl a faisnéis maidir le formáid comha
 
 ## Tagairtí ##
 
-* [ArcPad Pro]( https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/brochures/pdfs/arcpadbro.pdf)
+* [ArcPad Pro](https://www.esri.com/content/dam/esrisites/sitecore-archive/Files/Pdfs/library/brochures/pdfs/arcpadbro.pdf)
 
 

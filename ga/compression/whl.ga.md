@@ -49,6 +49,6 @@ cryptography-2.9.2-cp35-abi3-macosx_10_9_x86_64.whl
 
 * [Cad is Rothaí Python ann agus Cén Fáth ar Chóir duit Aire a thabhairt?](https://realpython.com/python-wheels/)
 
-* [Roth Python]( https://pypi.org/project/wheel/)
+* [Roth Python](https://pypi.org/project/wheel/)
 
 

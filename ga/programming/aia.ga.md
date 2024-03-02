@@ -33,6 +33,6 @@ Soláthraíonn App Inventor roinnt ranganna teagaisc do thosaitheoirí chun aipe
 
 ## Tagairtí
 
- * [MIT App Aireagóir]( https://appinventor.mit.edu/)
- * [ MIT App Inventor Ranganna Teagaisc]( https://appinventor.mit.edu/explore/ai2/tutorials)
+ * [MIT App Aireagóir](https://appinventor.mit.edu/)
+ * [ MIT App Inventor Ranganna Teagaisc](https://appinventor.mit.edu/explore/ai2/tutorials)
 

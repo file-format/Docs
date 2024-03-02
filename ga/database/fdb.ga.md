@@ -48,7 +48,7 @@ Is féidir leat an comhad .fdb a oscailt freisin trí nascadh leis an mbunachar 
 Is féidir freisin comhaid .fdb a oscailt le bogearraí bainistíochta córas bainistíochta bunachar sonraí Firebird, toisc gurb é an t-inneall bunachar sonraí bunúsach a úsáideann Microsoft Dynamics NAV.
 
 ## Tagairtí
-* [Microsoft Dynamics NAV]( https://dynamics.microsoft.com/en-us/nav-erp/)
+* [Microsoft Dynamics NAV](https://dynamics.microsoft.com/en-us/nav-erp/)
 
 * [Conas Comhaid Bhunachair Sonraí Nua a Chur Leis i Dinimic NAV](https://learn.microsoft.com/en-us/dynamics-nav/how-to--add-new-database-files)
 

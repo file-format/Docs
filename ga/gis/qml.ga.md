@@ -41,7 +41,7 @@ Taispeánann an figiúr thíos na clibeanna barrleibhéil de chomhad QML (gan ac
 
 ## Tagairtí
 
-* [QGIS]( https://www.qgis.org/ga/site/)
+* [QGIS](https://www.qgis.org/ga/site/)
 
 * [QML](https://docs.qgis.org/3.16/en/docs/user_manual/appendices/qgis_file_formats.html)
 

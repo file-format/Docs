@@ -39,7 +39,7 @@ Imríonn an comhad amh an ról sa ghrianghrafadóireacht dhigiteach mar a imrío
 
 ## Tagairtí ##
 
-* [Formáid íomhá amh - Le Vicipéid]( https://en.wikipedia.org/wiki/Raw_image_format )
+* [Formáid íomhá amh - Le Vicipéid](https://en.wikipedia.org/wiki/Raw_image_format )
 
 * [Cad is Comhad DCR ann](https://expertphotography.com/dcr-file/)
 

@@ -31,5 +31,5 @@ Is éard atá i gcomhad CATPART formáid comhaid dhúchais bhogearraí CATIA V5.
 
 ## Tagairtí
 
- * [Suíomh Gréasáin CATIA]( https://www.3ds.com/products-services/catia/)
+ * [Suíomh Gréasáin CATIA](https://www.3ds.com/products-services/catia/)
 

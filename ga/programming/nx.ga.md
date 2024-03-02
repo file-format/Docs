@@ -42,6 +42,6 @@ Tá leagan iOS ag LowRes NX is féidir le forbróirí a úsáid chun comhaid NX 
 
 ## Tagairt ##
 
-* [LowRes NX]( https://lowresnx.inutilis.com/)
+* [LowRes NX](https://lowresnx.inutilis.com/)
 
 

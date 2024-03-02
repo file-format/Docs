@@ -27,7 +27,7 @@ Stóráiltear comhaid MÚINTEOIR ar diosca i bhformáid dhénártha comhaid. Ní
 
 ## Tagairtí
 
-* [Oideachas SmartTech]( https://www.smarttech.com/ga/education)
+* [Oideachas SmartTech](https://www.smarttech.com/ga/education)
 
 * [Córas Cliste Freagartha - Ionad Oiliúna](https://downloads.smarttech.com/media/trainingcenter/qrsrespsettingup.pdf)
 

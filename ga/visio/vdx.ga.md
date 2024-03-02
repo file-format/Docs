@@ -113,8 +113,8 @@ Seo a leanas roinnt bunghnéithe / buntáistí a bhaineann le MS Visio:
 
 ## Tagairtí ##
 
-* [Microsoft Visio - Le Vicipéid]( https://ga.wikipedia.org/wiki/Microsoft_Visio)
+* [Microsoft Visio - Le Vicipéid](https://ga.wikipedia.org/wiki/Microsoft_Visio)
 
-* [Forbhreathnú Visio - Le Microsoft]( https://www.microsoft.com/en-ww/microsoft-365/visio/flowchart-software)
+* [Forbhreathnú Visio - Le Microsoft](https://www.microsoft.com/en-ww/microsoft-365/visio/flowchart-software)
 
 

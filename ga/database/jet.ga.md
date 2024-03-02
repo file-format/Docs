@@ -80,6 +80,6 @@ Tacaíonn bunachair shonraí JET le cineálacha éagsúla sonraí, lena n-áirí
 
 
 ## Tagairtí
-* [Inneall Bunachair Rochtana]( https://en.wikipedia.org/wiki/Access_Database_Engine)
+* [Inneall Bunachair Rochtana](https://en.wikipedia.org/wiki/Access_Database_Engine)
 
 

@@ -50,6 +50,6 @@ Is féidir an Próifíleoir Freastalaí SQL a úsáid chun logáil feidhmíochta
 
 ## Tagairtí ##
 
-* [Próifíleoir Freastalaí SQL]( https://learn.microsoft.com/en-us/sql/tools/sql-server-profiler/sql-server-profiler?view=sql-server-ver15)
+* [Próifíleoir Freastalaí SQL](https://learn.microsoft.com/en-us/sql/tools/sql-server-profiler/sql-server-profiler?view=sql-server-ver15)
 
 

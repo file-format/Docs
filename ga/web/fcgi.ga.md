@@ -27,6 +27,6 @@ Cad a dhéanann tábhacht le comhad FCGI? Tacaíonn comhéadan FCGI le ríomhair
 
 ## Tagairtí
 
-* [CGI tapa]( https://metacpan.org/pod/FCGI)
+* [CGI tapa](https://metacpan.org/pod/FCGI)
 
 

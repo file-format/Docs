@@ -35,8 +35,8 @@ Déantar comhad SCALA a shábháil mar chomhad gnáth-théacs is féidir a oscai
 
 ## Tagairtí
 
-* [Doiciméadúchán Scala]( https://www.scala-lang.org/documentation/)
+* [Doiciméadúchán Scala](https://www.scala-lang.org/documentation/)
 
-* [Scala]( https://www.scala-lang.org/)
+* [Scala](https://www.scala-lang.org/)
 
 

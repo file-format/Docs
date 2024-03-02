@@ -110,11 +110,11 @@ Is féidir le roinnt imreoirí meán agus eagarthóirí físeáin, lena n-áirí
 ## Open Source API le haghaidh Comhaid MOV
 
  * [React Native API chun MOV a thiontú go MP4](https://github.com/taltultc/react-native-mov-to-mp4)
- * [Python API chun Comhaid MOV a dheisiú]( https://github.com/nrosenstein-stuff/movrepair)
- * [Ruby API chun MOV a thiontú go GIF]( https://github.com/skygroundmedia/convert-mov-to-gif)
+ * [Python API chun Comhaid MOV a dheisiú](https://github.com/nrosenstein-stuff/movrepair)
+ * [Ruby API chun MOV a thiontú go GIF](https://github.com/skygroundmedia/convert-mov-to-gif)
 
 ## Tagairtí
 
-* [ https://en.wikipedia.org/wiki/QuickTime_File_Format]( https://en.wikipedia.org/wiki/QuickTime_File_Format)
+* [https://en.wikipedia.org/wiki/QuickTime_File_Format](https://en.wikipedia.org/wiki/QuickTime_File_Format)
 
 

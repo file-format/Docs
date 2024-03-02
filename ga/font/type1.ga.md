@@ -55,7 +55,7 @@ Tá dhá chomhad ar leith i sonraí cló Cineál 1 i bhfuinneoga:
 2. Tá na sonraí méadrachta sa chomhad leis an síneadh .PFM”.
 
 ## Tagairtí
- * [Clónna Cineál 1]( https://www.prepressure.com/fonts/basics/type1)
+ * [Clónna Cineál 1](https://www.prepressure.com/fonts/basics/type1)
  * [Foirceann tacaíochta clónna PostScript Cineál 1](https://helpx.adobe.com/fonts/kb/postscript-type-1-fonts-end-of-support.html)
- * [Clónna PostScript (Wikipedia)]( https://en.wikipedia.org/wiki/PostScript_fonts)
+ * [Clónna PostScript (Wikipedia)](https://en.wikipedia.org/wiki/PostScript_fonts)
 

@@ -56,6 +56,6 @@ Is bogearraí gairmiúla grafaice ríomhaireachta 3D é Autodesk 3ds Max, ar a d
 
 ## Tagairtí
 
- * [Adobe 3DS Max]( https://www.autodesk.com/products/3ds-max/overview?term=1-YEAR&tab=subscription)
+ * [Adobe 3DS Max](https://www.autodesk.com/products/3ds-max/overview?term=1-YEAR&tab=subscription)
 
 

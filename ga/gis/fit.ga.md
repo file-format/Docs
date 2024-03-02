@@ -48,11 +48,11 @@ D’fhéadfadh roinnt cineálacha teachtaireachtaí riachtanacha a bheith i gcom
 
 ## Acmhainní Úsáideacha Comhad FIT
 
- * [Comhaid Gníomhaíochta FIT á ndíchódú]( https://developer.garmin.com/fit/cookbook/decoding-activity-files/)
- * [Á ionchódú Comhaid Gníomhaíochta FIT]( https://developer.garmin.com/fit/cookbook/encoding-activity-files/)
+ * [Comhaid Gníomhaíochta FIT á ndíchódú](https://developer.garmin.com/fit/cookbook/decoding-activity-files/)
+ * [Á ionchódú Comhaid Gníomhaíochta FIT](https://developer.garmin.com/fit/cookbook/encoding-activity-files/)
  
 ## Tagairtí ##
 
-* [Comhad Gníomhaíochta FIT]( https://developer.garmin.com/fit/file-types/activity/)
+* [Comhad Gníomhaíochta FIT](https://developer.garmin.com/fit/file-types/activity/)
 
 

@@ -41,6 +41,6 @@ Cruthóidh sé seo comhad VPK ón eolaire sonraithe, agus sábhálfaidh sé é m
 
 ## Tagairtí
 
- * [Bogearraí comhla]( https://www.valvesoftware.com/ga/)
- * [Acmhainní Forbróra VPK]( https://developer.valvesoftware.com/wiki/GCF)
+ * [Bogearraí comhla](https://www.valvesoftware.com/ga/)
+ * [Acmhainní Forbróra VPK](https://developer.valvesoftware.com/wiki/GCF)
 

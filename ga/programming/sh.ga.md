@@ -63,8 +63,8 @@ De ghnáth ritheann na comhaid SH ar Linux, fiú amháin i Windows ní mór duit
 
 ## Tagairtí
 
-* [Bashscripting for Beginners]( https://help.ubuntu.com/community/Beginners/BashScripting)
+* [Bashscripting for Beginners](https://help.ubuntu.com/community/Beginners/BashScripting)
 
-* [Shellscript]( https://www.shellscript.sh/)
+* [Shellscript](https://www.shellscript.sh/)
 
 

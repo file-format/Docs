@@ -32,5 +32,5 @@ Is féidir comhad PYD a chruthú trí mhodúl a bhfuil ainm air m.sh. exmaple.py
 ## Tagairtí ##
 
  * [Eisínteachtaí Python á gcruthú i C/C++](https://sebsauvage.net/python/mingw.html)
- * [Python (teanga ríomhchlárúcháin) - Vicipéid]( https://en.wikipedia.org/wiki/Python_(programming_language))
+ * [Python (teanga ríomhchlárúcháin) - Vicipéid](https://en.wikipedia.org/wiki/Python_(programming_language))
 

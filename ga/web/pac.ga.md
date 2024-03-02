@@ -77,6 +77,6 @@ function FindProxyForURL(url, host) {
 ```
 ## Tagairtí
 
-* [Cad é comhad PAC?]( https://findproxyforurl.com/)
+* [Cad é comhad PAC?](https://findproxyforurl.com/)
 
 

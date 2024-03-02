@@ -35,6 +35,6 @@ Sábháladh comhaid ART ar diosca mar chomhaid dhénártha gan aon sonraíochta�
 
 ## Tagairtí
 
- * [ArtCAM Autodesk]( https://www.autodesk.com/products/artcam/overview)
+ * [ArtCAM Autodesk](https://www.autodesk.com/products/artcam/overview)
  
 

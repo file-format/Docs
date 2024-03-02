@@ -35,10 +35,10 @@ Ligeann na leabharlanna [openNURBS](https://github.com/mcneel/opennurbs) do dhui
 
 ## Tagairtí ##
 
-* [Srónbheannach]( https://www.rhino3d.com/download/openNURBS)
+* [Srónbheannach](https://www.rhino3d.com/download/openNURBS)
 
-* [Srónbheannach - Vicipéid]( https://ga.wikipedia.org/wiki/Rhinoceros_3D)
+* [Srónbheannach - Vicipéid](https://ga.wikipedia.org/wiki/Rhinoceros_3D)
 
-* [openNURBS ar GitHub]( https://github.com/mcneel/opennurbs)
+* [openNURBS ar GitHub](https://github.com/mcneel/opennurbs)
 
 

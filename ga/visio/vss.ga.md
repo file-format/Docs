@@ -32,8 +32,8 @@ Initially Visio was produced as a standalone product by Shapeware Corporation in
 
 ## Tagairtí ##
 
-* [Réamhrá ar Fhormáid Chomhaid Visio]( https://learn.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
+* [Réamhrá ar Fhormáid Chomhaid Visio](https://learn.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
 
-* [Léarscáil Scéime - Visio XML]( https://learn.microsoft.com/en-us/office/client-developer/visio/schema-mapvisio-xml)
+* [Léarscáil Scéime - Visio XML](https://learn.microsoft.com/en-us/office/client-developer/visio/schema-mapvisio-xml)
 
 

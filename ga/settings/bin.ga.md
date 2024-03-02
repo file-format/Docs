@@ -60,6 +60,6 @@ Seo cineálacha comhaid eile a úsáideann an síneadh comhad **.bin**.
 - [BIN - PSX PlayStation BIOS Image](/game/bin-pcsx/)
 
 ## Tagairtí
-* [BlackBerry Unified Endpoint Manager]( https://en.wikipedia.org/wiki/BlackBerry_Unified_Endpoint_Manager)
+* [BlackBerry Unified Endpoint Manager](https://en.wikipedia.org/wiki/BlackBerry_Unified_Endpoint_Manager)
 
 

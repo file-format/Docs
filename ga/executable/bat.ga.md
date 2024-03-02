@@ -100,8 +100,8 @@ DEL . DR
 
 ## Tagairtí 
 
-* [Script Baisc - Treoir Thapa]( https://www.tutorialspoint.com/batch_script/batch_script_quick_guide.htm)
+* [Script Baisc - Treoir Thapa](https://www.tutorialspoint.com/batch_script/batch_script_quick_guide.htm)
 
-* [Baiscchomhad - le Wikipewdia]( https://en.wikipedia.org/wiki/Batch_file)
+* [Baiscchomhad - le Wikipewdia](https://en.wikipedia.org/wiki/Batch_file)
 
 

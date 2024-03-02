@@ -107,6 +107,6 @@ Seo cineálacha comhaid eile a úsáideann an síneadh comhad **.caf**.
 - [CAF - CryENGINE Character Animation File](/programming/caf-cryengine/)
 
 ## Tagairtí
-* [Formáid CAF]( https://developer.apple.com/library/archive/documentation/MusicAudio/Reference/CAFSpec/CAF_spec/CAF_spec.html)
+* [Formáid CAF](https://developer.apple.com/library/archive/documentation/MusicAudio/Reference/CAFSpec/CAF_spec/CAF_spec.html)
 
 

@@ -29,8 +29,8 @@ Sábháltar comhaid CMS i bhformáid gréasáin agus áirítear orthu seo roinnt
 
 ## Tagairtí
 
-* [Cabhair HTML Microsoft]( https://learn.microsoft.com/en-us/previous-versions/windows/desktop/htmlhelp/microsoft-html-help-1-4-sdk)
+* [Cabhair HTML Microsoft](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/htmlhelp/microsoft-html-help-1-4-sdk)
 
-* [Cabhair HTML arna thiomsú ag Microsoft]( https://en.wikipedia.org/wiki/Microsoft_Compiled_HTML_Help)
+* [Cabhair HTML arna thiomsú ag Microsoft](https://en.wikipedia.org/wiki/Microsoft_Compiled_HTML_Help)
 
 

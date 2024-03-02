@@ -103,7 +103,7 @@ Seo léiriú heicsidheachúlach de chomhad PIF:
 
 * [Comhad faisnéise an chláir (PIF)](http://justsolve.archiveteam.org/wiki/Program_information_file)
 
-* [Comhad faisnéise an chláir - le Vicipéid ]( https://en.wikipedia.org/wiki/Program_information_file )
+* [Comhad faisnéise an chláir - le Vicipéid ](https://en.wikipedia.org/wiki/Program_information_file )
 
 
 

@@ -38,8 +38,8 @@ Seo liosta d’Osclóirí Comhad SIT.
 Áiríonn MAC OS tacaíocht ionsuite chun comhaid SIT a bhaint amach, agus ní gá go mbeadh bogearraí breise ag teastáil uait. Faigh an comhad .sit gur mian leat a bhaint as ar do Mac. I bhformhór na gcásanna, is féidir leat cliceáil faoi dhó ar an gcomhad .sit. Ba cheart go n-aithneodh macOS an fhormáid StuffIt agus go n-úsáidfeadh sé an Fóntas Cartlainne ionsuite go huathoibríoch chun an t-ábhar a bhaint as. Cuirfear na comhaid agus na fillteáin asbhainte san eolaire céanna leis an mbunchomhad .sit.
 
 ## Tagairtí
-* [StuffIt - Le Vicipéid]( https://ga.wikipedia.org/wiki/StuffIt)
+* [StuffIt - Le Vicipéid](https://ga.wikipedia.org/wiki/StuffIt)
 
-* [StuffIt]( https://stuffit.com/)
+* [StuffIt](https://stuffit.com/)
 
 

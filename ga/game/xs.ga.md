@@ -34,8 +34,8 @@ Déantar comhaid XS a shábháil mar chomhaid gnáth-théacs ar féidir iad a os
 
 ## Tagairtí
 
-* [Aois Impireachtaí III - Ábhair]( https://github.com/topics/aoe)
+* [Aois Impireachtaí III - Ábhair](https://github.com/topics/aoe)
 
-* [Fóram - Aois Impireachtaí III]( https://forums.ageofempires.com/t/please-make-the-ai-fight-for-map-control-and-resources-long-post-but-worth- é/176307)
+* [Fóram - Aois Impireachtaí III](https://forums.ageofempires.com/t/please-make-the-ai-fight-for-map-control-and-resources-long-post-but-worth- é/176307)
 
 

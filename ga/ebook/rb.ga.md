@@ -51,6 +51,6 @@ I bhformhór na gcásanna, seo a leanas an clár ábhair (ar fhritháireamh 128)
 
 ## Tagairtí
 
-* [Ríomhléitheoir - Le MobileRead]( https://en.wikipedia.org/wiki/E-reader)
+* [Ríomhléitheoir - Le MobileRead](https://en.wikipedia.org/wiki/E-reader)
 
 

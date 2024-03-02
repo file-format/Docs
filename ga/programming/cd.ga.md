@@ -56,6 +56,6 @@ Ligeann Visual Studio léaráidí ranga a thiontú/onnmhairiú go híomhánna ar
 
 ## Tagairtí
 
-* [Ranganna Dearaidh in Visual Studio]( https://learn.microsoft.com/en-us/visualstudio/ide/class-designer/designing-and-viewing-classes-and-types?view=vs-2019)
+* [Ranganna Dearaidh in Visual Studio](https://learn.microsoft.com/en-us/visualstudio/ide/class-designer/designing-and-viewing-classes-and-types?view=vs-2019)
 
 

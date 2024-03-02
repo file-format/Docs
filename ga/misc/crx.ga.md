@@ -72,6 +72,6 @@ Is formáid shonrach í formáid comhaid CRX chun síntí Google Chrome a phacá
 - **Cartlann ZIP:** Cuimsíonn na bearta atá fágtha den chomhad CRX cartlann ZIP chomhbhrúite. Tá na comhaid agus na fillteáin síntí riachtanacha go léir sa chartlann seo, lena n-áirítear comhad follasach, comhaid JavaScript, comhaid HTML, comhaid CSS, íomhánna, agus aon acmhainní eile.
 
 ## Tagairtí
-* [sonraíocht fhormáide CRX]( https://groups.google.com/a/chromium.org/g/chromium-extensions/c/K3YIsNL_Et4)
+* [sonraíocht fhormáide CRX](https://groups.google.com/a/chromium.org/g/chromium-extensions/c/K3YIsNL_Et4)
 
 

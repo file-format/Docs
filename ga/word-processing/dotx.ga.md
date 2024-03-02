@@ -41,7 +41,7 @@ Leanann formáid comhaid DOTX an struchtúr DOCX céanna bunaithe ar fhormáid c
 
 ## Tagairtí ##
 
-* [MS - Formáid Chomhaid Docx]( https://msdn.microsoft.com/en-us/library/dd773189(v#office.12).aspx)
+* [MS - Formáid Chomhaid Docx](https://msdn.microsoft.com/en-us/library/dd773189(v#office.12).aspx)
 
 * [Office Open XML](http://officeopenxml.com/)
 

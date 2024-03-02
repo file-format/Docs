@@ -45,6 +45,6 @@ Chun comhad PXP a úsáid le PODBot, lean na céimeanna seo:
 Tabhair faoi deara go gcaithfidh tú PODBot a bheith suiteáilte agus cumraithe i gceart chun comhaid PXP a úsáid le Frith-Stailc. Chomh maith leis sin, d'fhéadfadh sé nach mbeadh roinnt comhad PXP comhoiriúnach le gach leagan de PODBot nó Frith-Stailc, mar sin bí cinnte seiceáil le haghaidh comhoiriúnachta sula n-úsáidfear iad.
 
 ## Tagairtí
-* [PODbot]( https://counterstrike.fandom.com/wiki/Bot)
+* [PODbot](https://counterstrike.fandom.com/wiki/Bot)
 
 

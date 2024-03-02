@@ -29,7 +29,7 @@ Cruthaítear agus sábháiltear comhaid RBXM i bhformáid dhénártha comhaid ag
 
 ## Tagairtí
 
-* [Roblox RBXM ar Github]( https://github.com/search?q=rbxm)
+* [Roblox RBXM ar Github](https://github.com/search?q=rbxm)
 
 * [Tiontaigh an Comhad RBXM go OBJ 3D](https://devforum.roblox.com/t/how-do-i-make-a-rbxm-file-be-a-obj-file/1522460)
 

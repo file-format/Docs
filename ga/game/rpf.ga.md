@@ -39,6 +39,6 @@ Seo liosta na gclár ar féidir leo comhaid RPF a oscailt.
 - **SparkIV (Saor in Aisce)** le haghaidh Windows
 
 ## Tagairtí
-* [OpenIV]( https://openiv.com/)
+* [OpenIV](https://openiv.com/)
 
 

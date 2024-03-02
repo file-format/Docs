@@ -86,6 +86,6 @@ Tá formáid comhaid ar leith ag an AIF (Formáid Comhaid Idirmhalartaithe Fuaim
 - `fuaime / aiff`
 
 ## Tagairtí
-* [Formáid Comhaid Idirmhalartaithe Fuaime]( https://en.wikipedia.org/wiki/Audio_Interchange_File_Format)
+* [Formáid Comhaid Idirmhalartaithe Fuaime](https://en.wikipedia.org/wiki/Audio_Interchange_File_Format)
 
 

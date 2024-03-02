@@ -88,6 +88,6 @@ Toisc gur féidir le réimsí meamram ábhar luachmhar téacs a choinneáil, tá
 - [FPT - Alpha Five Table Memo File](/database/fpt-alphafive/)
 
 ## Tagairtí
-* [FileMaker]( https://ga.wikipedia.org/wiki/FileMaker)
+* [FileMaker](https://ga.wikipedia.org/wiki/FileMaker)
 
 

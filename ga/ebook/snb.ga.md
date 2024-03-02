@@ -44,7 +44,7 @@ Mura bhfuil tú in ann an comhad SNB a oscailt agus a rith; ní chiallaíonn sé
 
 ## Tagairtí
 
-* [Fóin Samsung Galaxy Note]( https://www.samsung.com/us/mobile/phones/galaxy-note/)
+* [Fóin Samsung Galaxy Note](https://www.samsung.com/us/mobile/phones/galaxy-note/)
 
 
 

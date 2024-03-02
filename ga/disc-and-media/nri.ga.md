@@ -35,6 +35,6 @@ Chun an comhad .nri a oscailt i Nero Burning ROM, bheadh ort na bogearraí a bhe
 Nó, is féidir leat comhad .nri a oscailt freisin trí chliceáil faoi dhó air, má tá Nero Burning ROM socraithe mar an réamhchlár chun comhaid .nri a oscailt. Is féidir leat bogearraí eile a úsáid freisin a thacaíonn le formáid nri mar Nero Express, Nero BackItUp, Nero MediaHome agus Nero Recode.
 
 ## Tagairtí
-* [Nero Burning ROM]( https://ga.wikipedia.org/wiki/Nero_Burning_ROM)
+* [Nero Burning ROM](https://ga.wikipedia.org/wiki/Nero_Burning_ROM)
 
 

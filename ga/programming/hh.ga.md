@@ -66,8 +66,8 @@ Leis an gceannteideal seo, seiceálann an réamhphróiseálaí an bhfuil an `ANY
 
 ## Tagairtí
 
-* [Comhdóirí Ceanntásc - Microsoft]( https://learn.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-160)
+* [Comhdóirí Ceanntásc - Microsoft](https://learn.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-160)
 
-* [Difríocht idir formáidí comhaid .h agus .hh]( https://stackoverflow.com/questions/10354321/c-reason-why-using-hh-as-extension-for-c-header-files)
+* [Difríocht idir formáidí comhaid .h agus .hh](https://stackoverflow.com/questions/10354321/c-reason-why-using-hh-as-extension-for-c-header-files)
 
 

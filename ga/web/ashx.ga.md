@@ -111,6 +111,6 @@ public class QueryStringHandler : IHttpHandler
 
 ## Tagairtí
 
- * [Tiomsaigh Comhad ASHX]( https://stackoverflow.com/questions/25510189/how-to-dynamically-compile-a-ashx-file)
+ * [Tiomsaigh Comhad ASHX](https://stackoverflow.com/questions/25510189/how-to-dynamically-compile-a-ashx-file)
  
 

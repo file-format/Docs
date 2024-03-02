@@ -27,6 +27,6 @@ D'úsáid an cluiche ríomhaire, Game Never Ending, comhaid GNE, arna fhorbairt 
 
 ## Tagairtí
 
-* [Ludicorp]( https://ga.wikipedia.org/wiki/Ludicorp)
+* [Ludicorp](https://ga.wikipedia.org/wiki/Ludicorp)
 
 

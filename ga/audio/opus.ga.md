@@ -34,6 +34,6 @@ Is formáid comhaid fuaime é Opus a chruthaigh Fondúireacht Xiph.Org agus atá
 
 ## Tagairtí ##
 
-* [OPUS - Le Vicipéid]( https://en.wikipedia.org/wiki/Opus_(audio_format))
+* [OPUS - Le Vicipéid](https://en.wikipedia.org/wiki/Opus_(audio_format))
 
 

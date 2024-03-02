@@ -105,5 +105,5 @@ namespace MyStuff
 
 ## Tagairtí
 
- * [ASP.NET WebApps - Microsoft]( https://learn.microsoft.com/en-us/troubleshoot/webapps/welcome-webapps)
+ * [ASP.NET WebApps - Microsoft](https://learn.microsoft.com/en-us/troubleshoot/webapps/welcome-webapps)
 

@@ -33,6 +33,6 @@ Tá uirlisí iolracha ann ar féidir leo Raster a thiontú go comhaid DTED. Is u
 
 ## Tagairtí
 
- * [ArgGIS Pro]( https://pro.arcgis.com/en/pro-app/latest/tool-reference/data-management/raster-to-dted.htm)
+ * [ArgGIS Pro](https://pro.arcgis.com/en/pro-app/latest/tool-reference/data-management/raster-to-dted.htm)
  * [Formáid Chomhaid KML](/gis/kml/)
 

@@ -53,7 +53,7 @@ I dteannta le tarchur teachtaireachta simplí, bhí feidhmchlár bunaidh TNEF le
 
 ## Tagairtí
 
-* [Formáid Iompar Neodrach um Imchochlú]( https://en.wikipedia.org/wiki/Transport_Neutral_Encapsulation_Format)
+* [Formáid Iompar Neodrach um Imchochlú](https://en.wikipedia.org/wiki/Transport_Neutral_Encapsulation_Format)
 
 * [Seoltaí ríomhphoist agus leabhair seoltaí in Exchange Server](https://learn.microsoft.com/en-us/exchange/email-addresses-and-address-books/email-addresses-and-address-books?view# seachfhreastalaí-2019)
 

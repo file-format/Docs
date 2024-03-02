@@ -44,8 +44,8 @@ Tá na hailt seo a leanas i gcomhad tipiciúil OSU.
 
 ## Tagairtí
 
-* [OSU! Cluiche Rhythm]( https://osu.ppy.sh/home)
+* [OSU! Cluiche Rhythm](https://osu.ppy.sh/home)
 
-* [Formáid comhaid OSU]( https://osu.ppy.sh/wiki/en/Client/File_formats/Osu_%28file_format%29)
+* [Formáid comhaid OSU](https://osu.ppy.sh/wiki/en/Client/File_formats/Osu_%28file_format%29)
 
 

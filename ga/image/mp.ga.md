@@ -45,7 +45,7 @@ bye
 ```
 ## Tagairtí ##
 
-* [MetaPost le Vicipéid]( https://ga.wikipedia.org/wiki/MetaPost)
+* [MetaPost le Vicipéid](https://ga.wikipedia.org/wiki/MetaPost)
 
 * [Metapost samplach laitéis le Vicipéid Oideachais Berkeley](https://math.berkeley.edu/computing/wiki/index.php/Latex_sample_metapost)
 

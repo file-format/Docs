@@ -41,8 +41,8 @@ Is féidir na heilimintí cluiche seo a leanas a shaincheapadh le comhad .osk.
 
 ## Tagairtí
 
-* [OSU! Cluiche Rhythm]( https://osu.ppy.sh/home)
+* [OSU! Cluiche Rhythm](https://osu.ppy.sh/home)
 
-* [Formáid Comhaid OSK]( https://osu.ppy.sh/wiki/ga/osu%21_File_Formats/Osk_%28file_format%29)
+* [Formáid Comhaid OSK](https://osu.ppy.sh/wiki/ga/osu%21_File_Formats/Osk_%28file_format%29)
 
 

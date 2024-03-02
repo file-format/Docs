@@ -41,6 +41,6 @@ Soláthraíonn Visual Studio uirlis Dearthóir Socruithe a ligeann d'fhorbróir�
 Chomh maith leis an gcomhad réamhshocraithe .settings, is féidir le forbróirí comhaid socruithe saincheaptha a chruthú dá gcuid tionscadal. Is féidir na comhaid seo a úsáid chun sonraí cumraíochta breise a bhaineann go sonrach lena bhfeidhmchlár a stóráil, mar teaghráin nasc, eochracha API, nó sonraí íogaire eile. Chun na sonraí seo a chosaint, is féidir le forbróirí na comhaid socruithe saincheaptha a chriptiú ag baint úsáide as an API Cosanta Sonraí (DPAPI), a chinntíonn go bhfuil na sonraí slán fiú má tá an comhad i mbaol.
 
 ## Tagairtí
-* [Visual Studio]( https://en.wikipedia.org/wiki/Visual_Studio)
+* [Visual Studio](https://en.wikipedia.org/wiki/Visual_Studio)
 
 

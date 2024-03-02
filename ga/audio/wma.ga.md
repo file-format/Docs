@@ -48,6 +48,6 @@ struct WMA_TYPE_SPECIFIC_DATA
 ```
 ## Tagairtí
 
-* [Forbhreathnú ASF - Microsoft]( https://learn.microsoft.com/en-us/windows/win32/wmformat/overview-of-the-asf-format)
+* [Forbhreathnú ASF - Microsoft](https://learn.microsoft.com/en-us/windows/win32/wmformat/overview-of-the-asf-format)
 
 

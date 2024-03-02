@@ -27,8 +27,8 @@ Déantar comhaid GST a shábháil i bhformáid comhaid dílsithe agus níl a son
 
 ## Tagairtí ##
 
-* [MAPX]( https://www.mapx.org/)
+* [MAPX](https://www.mapx.org/)
 
-* [MapXtreme]( https://mappingsolutions.com/mapxtreme/)
+* [MapXtreme](https://mappingsolutions.com/mapxtreme/)
 
 

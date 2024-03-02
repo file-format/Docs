@@ -56,6 +56,6 @@ Chun comhad PMP a chruthú in AutoCAD, is féidir leat na céimeanna seo a lean�
 11. Tá an comhad PMP sábháilte anois agus is féidir é a úsáid le haghaidh jabanna a bhreacadh amach anseo.
 
 ## Tagairtí
-* [Bogearraí AutoCAD]( https://en.wikipedia.org/wiki/AutoCAD)
+* [Bogearraí AutoCAD](https://en.wikipedia.org/wiki/AutoCAD)
 
 

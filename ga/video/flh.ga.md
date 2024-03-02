@@ -42,6 +42,6 @@ Is cluiche ríomhaire tóir é Lego Rock Raiders a eisíodh i 1999 a chomhcheang
 - IrfanAmharc
 
 ## Tagairtí
-* [FLIC (formáid comhaid)]( https://en.wikipedia.org/wiki/FLIC_(file_format))
+* [FLIC (formáid comhaid)](https://en.wikipedia.org/wiki/FLIC_(file_format))
 
 

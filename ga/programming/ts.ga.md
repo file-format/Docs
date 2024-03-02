@@ -112,7 +112,7 @@ function id<T>(x: T): T {
 
 ## Tagairt ##
 
-* [TS - le Vicipéid]( https://en.wikipedia.org/wiki/TypeScript)
+* [TS - le Vicipéid](https://en.wikipedia.org/wiki/TypeScript)
 
 
 

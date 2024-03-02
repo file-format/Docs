@@ -53,6 +53,6 @@ Tá sonraí uigeachta i gcomhad TXD a úsáideann sraith cluichí físeáin Gran
 - **Sonraí eile:** Ar deireadh, féadfaidh sonraí eile a bheith i gcomhad TXD, mar shampla faisnéis chumraíochta don inneall cluiche nó faisnéis faoin leagan sonrach den chluiche.
 
 ## Tagairtí
-* [TXD]( https://gta.fandom.com/wiki/TXD)
+* [TXD](https://gta.fandom.com/wiki/TXD)
 
 

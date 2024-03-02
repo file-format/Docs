@@ -52,6 +52,6 @@ hello:   db   'Hello, .COM programmer!',13,10,'$'
 
 ## Tagairtí 
 
-* [comhad COM - le Wikipewdia]( https://en.wikipedia.org/wiki/COM_file)
+* [comhad COM - le Wikipewdia](https://en.wikipedia.org/wiki/COM_file)
 
 

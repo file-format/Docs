@@ -146,6 +146,6 @@ Caithfidh } críochnú le gach doiciméad RTF, chun an grúpa a d'oscail an { is
 
 * [Sonraíochtaí RTF 1.9.1](https://interoperability.blob.core.windows.net/files/Archive_References/%5bMSFT-RTF%5d.pdf)
 
-* [Formáid Téacs saibhir]( https://en.wikipedia.org/wiki/Rich_Text_Format)
+* [Formáid Téacs saibhir](https://en.wikipedia.org/wiki/Rich_Text_Format)
 
 

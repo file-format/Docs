@@ -326,6 +326,6 @@ Seo liosta de roinnt saincheisteanna coitianta a d’fhéadfadh teacht chun cinn
 
 ## Tagairtí ##
 
-* [MPX - Microsoft Knowledge Base]( https://support.microsoft.com/en-us/office/file-formats-supported-by-project-desktop-face808f-77ab-4fce-9353-14144ba1b9ae)
+* [MPX - Microsoft Knowledge Base](https://support.microsoft.com/en-us/office/file-formats-supported-by-project-desktop-face808f-77ab-4fce-9353-14144ba1b9ae)
 
 

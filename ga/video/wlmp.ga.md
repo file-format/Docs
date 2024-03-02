@@ -58,6 +58,6 @@ Chun comhad WLMP a oscailt, ní mór duit an feidhmchlár Windows Live Movie Mak
 Tabhair faoi deara nach comhad físe é comhad WLMP, ach comhad tionscadail ina bhfuil faisnéis faoi shocrú gearrthóga físe, grianghraif agus rianta fuaime i dtionscadal scannáin. Ní mór duit Windows Live Movie Maker a úsáid chun an tionscadal a chur in eagar agus é a onnmhairiú mar fhormáid comhaid físe cosúil le WMV nó MP4 a bheidh le himirt ar imreoirí meán.
 
 ## Tagairtí
-* [Windows Live Movie Maker]( https://en.wikipedia.org/wiki/Windows_Movie_Maker)
+* [Windows Live Movie Maker](https://en.wikipedia.org/wiki/Windows_Movie_Maker)
 
 

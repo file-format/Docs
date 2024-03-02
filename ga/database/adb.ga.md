@@ -36,10 +36,10 @@ Níl an fhaisnéis maidir le formáid comhaid inmheánach de chomhaid .adb ar f�
 
 ## Tagairtí
 
-* [Alfa Áit ar bith]( https://www.alphasoftware.com/)
+* [Alfa Áit ar bith](https://www.alphasoftware.com/)
 
-* [Alfa Áit ar bith - OneHourApp]( https://github.com/alphaanywhere/OneHourApp)
+* [Alfa Áit ar bith - OneHourApp](https://github.com/alphaanywhere/OneHourApp)
 
-* [Cineálacha Comhaid Alfa Áit ar bith]( https://documentation.alphasoftware.com/documentation/pages/Guides/Desktop/Design/Data/Set/Alpha%20Anywhere%20File%20Types.xml)
+* [Cineálacha Comhaid Alfa Áit ar bith](https://documentation.alphasoftware.com/documentation/pages/Guides/Desktop/Design/Data/Set/Alpha%20Anywhere%20File%20Types.xml)
 
 

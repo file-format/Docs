@@ -35,7 +35,7 @@ Tá faisnéis meiteashonraí i gcomhaid XMP faoi ghnéithe éagsúla den íomhá
 
 ## Tagairtí
 
-* [Ardán Meiteashonraí Infhillte - Vicipéid]( https://en.wikipedia.org/wiki/Extensible_Metadata_Platform)
+* [Ardán Meiteashonraí Infhillte - Vicipéid](https://en.wikipedia.org/wiki/Extensible_Metadata_Platform)
 
 * [XMP Specifications Part 3](https://developer.adobe.com/xmp/docs/XMPSpecifications/)
 

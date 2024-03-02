@@ -69,6 +69,6 @@ Seo cineálacha comhaid eile a úsáideann an síneadh comhad **.cs**.
 - [CS - CSharp Code File](/programming/cs/)
 
 ## Tagairtí
-* [ColorSchemer Studio 2]( https://www.colorschemer.com/)
+* [ColorSchemer Studio 2](https://www.colorschemer.com/)
 
 

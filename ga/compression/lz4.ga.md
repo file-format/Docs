@@ -75,6 +75,6 @@ Fíoraíonn an Content_Checksum bailíocht an ábhair atá á dhíchódú i gcea
 
 * [Formáid Fráma LZ4](https://github.com/lz4/lz4/blob/dev/doc/lz4_Frame_format.md)
 
-* [Algartam Comhbhrú LZ4 - Vicipéid]( https://ga.wikipedia.org/wiki/LZ4_(compression_algorithm))
+* [Algartam Comhbhrú LZ4 - Vicipéid](https://ga.wikipedia.org/wiki/LZ4_(compression_algorithm))
 
 

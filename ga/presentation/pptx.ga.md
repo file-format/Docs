@@ -109,7 +109,7 @@ agus comhaid xml a leanas:
 
 ## Tagairtí ##
 
-* [[MS-PPTX] - Formáid Chomhaid PPTX]( https://learn.microsoft.com/en-us/openspecs/office_standards/ms-pptx/efd8bb2d-d888-4e2e-af25-cad476730c9f)
+* [[MS-PPTX] - Formáid Chomhaid PPTX](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-pptx/efd8bb2d-d888-4e2e-af25-cad476730c9f)
 
 * [Oifig Oscailte XML](http://officeopenxml.com/anatomyofOOXML-pptx.php)
 

@@ -86,10 +86,10 @@ Tá an t-aschur XML a ghintear leis an easpórtáil mar a thaispeántar thíos.
 
 ## Tagairtí ##
 
-* [DRAWIO - Github]( https://github.com/jgraph/drawio)
+* [DRAWIO - Github](https://github.com/jgraph/drawio)
 
 * [DRAWIO - App Ar Líne] ( https://app.diagrams.net/)
 
-* [Diagrams.Net]( https://www.diagrams.net/)
+* [Diagrams.Net](https://www.diagrams.net/)
 
 

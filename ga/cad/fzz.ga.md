@@ -60,7 +60,7 @@ Seo forbhreathnú gairid ar a bhféadfá a bheith ag súil leis i gcomhad .fzz:
 - **Fritzing** (Íoctha) le haghaidh (Windows, Mac, Linux)
 
 ## Tagairtí
-* [Fritzing]( https://fritzing.org/)
+* [Fritzing](https://fritzing.org/)
 
 
 

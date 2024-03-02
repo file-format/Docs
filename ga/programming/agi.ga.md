@@ -47,5 +47,5 @@ Is féidir scripteanna AGI a scríobh go hiondúil i Perl, [PHP](/programming/ph
 
 ## Tagairtí
 
- * [Script AGI réiltín]( https://www.oreilly.com/library/view/asterisk-the-future/9780596510480/ch09.html)
+ * [Script AGI réiltín](https://www.oreilly.com/library/view/asterisk-the-future/9780596510480/ch09.html)
 

@@ -48,6 +48,6 @@ I measc roinnt samplaí de chluichí GTA a úsáideann comhaid GXT tá:
 - Grand Theft Auto V
 
 ## Tagairtí
-* [Grand Theft Auto]( https://en.wikipedia.org/wiki/Grand_Theft_Auto)
+* [Grand Theft Auto](https://en.wikipedia.org/wiki/Grand_Theft_Auto)
 
 

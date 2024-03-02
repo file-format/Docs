@@ -78,7 +78,7 @@ Tosaíonn na sonraí dénártha le ceanntásc a bhfuil an fhormáid a thaispeán
 
 ## Tagairtí
 
- * [Tábla Dlúth Formáid Cló]( https://learn.microsoft.com/en-us/typography/opentype/spec/cff)
+ * [Tábla Dlúth Formáid Cló](https://learn.microsoft.com/en-us/typography/opentype/spec/cff)
  * [Formáid Comhaid CFF](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5176.CFF.pdf)
- * [Tacar Cairte CFF2]( https://learn.microsoft.com/en-us/typography/opentype/spec/cff2charstr)
+ * [Tacar Cairte CFF2](https://learn.microsoft.com/en-us/typography/opentype/spec/cff2charstr)
 

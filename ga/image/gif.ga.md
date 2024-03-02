@@ -67,6 +67,6 @@ Léiríonn leantóir beart amháin de shonraí arb é an carachtar deiridh sa ch
 
 ## Tagairtí ##
 
-* [Formáid comhaid GIF]( https://en.wikipedia.org/wiki/GIF)
+* [Formáid comhaid GIF](https://en.wikipedia.org/wiki/GIF)
 
 

@@ -69,7 +69,7 @@ agus comhaid xml a leanas:
 
 ## Tagairtí ##
 
-* [Formáid Comhaid MS-XLSX]( https://msdn.microsoft.com/en-us/library/dd922181(v#office.12).aspx)
+* [Formáid Comhaid MS-XLSX](https://msdn.microsoft.com/en-us/library/dd922181(v#office.12).aspx)
 
 * [Oifig Oscailte XML](http://officeopenxml.com/anatomyofOOXML-xlsx.php)
 

@@ -23,6 +23,6 @@ Is comhad scripte leathanaigh ghréasáin é comhad BWP a cruthaíodh sa teanga 
 
 ## Tagairtí
 
-* [BuRg3r - Github]( https://github.com/jacquelinekong/BURGer)
+* [BuRg3r - Github](https://github.com/jacquelinekong/BURGer)
 
 

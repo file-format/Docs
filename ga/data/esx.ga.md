@@ -56,6 +56,6 @@ Chun comhad ESX a oscailt agus a rochtain ag baint úsáide as leagan deisce de 
 I gcás úsáideoirí a roghnaíonn leagan ar líne de bhogearraí Xactimate, is éard atá i gceist leis an bpróiseas cliceáil ar an gcnaipe Aistriú Sonraí. Ó ann, roghnaigh Fillteán, cliceáil Brabhsáil agus téigh ar aghaidh chun an comhad ESX atá ag teastáil a ainmniú le haghaidh oscailt agus úsáid laistigh den ardán ar líne.
 
 ## Tagairt
-* [xactimate]( https://www.verisk.com/insurance/products/xactimate/)
+* [xactimate](https://www.verisk.com/insurance/products/xactimate/)
 
 

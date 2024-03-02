@@ -44,6 +44,6 @@ To open an EFS file, you will need a software program that supports the Ensoniq 
 Nuair a bheidh na bogearraí suiteáilte agat, is féidir leat an comhad EFS a oscailt tríd an rogha Oscailte nó Iompórtáil a roghnú sna bogearraí agus brabhsáil chuig suíomh an chomhaid EFS ar do ríomhaire. Ón áit sin, ba cheart go mbeifeá in ann liosta na bhfuaimeanna agus na sonraí eile atá sa chomhad EFS a fheiceáil, agus is féidir leat iad a chur in eagar nó a mhodhnú de réir mar is gá.
 
 ## Tagairtí
-* [Ensoniq ESQ-1]( https://en.wikipedia.org/wiki/Ensoniq_ESQ-1)
+* [Ensoniq ESQ-1](https://en.wikipedia.org/wiki/Ensoniq_ESQ-1)
 
 

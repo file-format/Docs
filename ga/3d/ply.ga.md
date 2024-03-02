@@ -137,6 +137,6 @@ Ciallaíonn sé seo go bhfuil san airí vertex_index ruabhr gan síniú ar dtús
 
 * [Formáid Chomhaid PLY](http://paulbourke.net/dataformats/ply/)
 
-* [PLY - Le Vicipéid]( https://en.wikipedia.org/wiki/PLY_(file_format))
+* [PLY - Le Vicipéid](https://en.wikipedia.org/wiki/PLY_(file_format))
 
 

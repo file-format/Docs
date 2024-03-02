@@ -60,6 +60,6 @@ Seo cineálacha comhaid eile a úsáideann an síneadh comhad **.vdf**.
 - [VDF - VirtualDub Video Filter File](/plugin/vdf/)
 
 ## Tagairtí
-* [Foinse (inneall cluiche)]( https://en.wikipedia.org/wiki/Source_(game_engine))
+* [Foinse (inneall cluiche)](https://en.wikipedia.org/wiki/Source_(game_engine))
 
 

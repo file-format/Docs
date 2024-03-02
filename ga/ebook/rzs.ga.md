@@ -44,7 +44,7 @@ Mura bhfuil tú in ann an comhad RZS a oscailt agus a rith; ní chiallaíonn sé
 
 ## Tagairtí
 
-* [Ríomhleabhar Red Zion ]( https://submitfile.com/download/red-zion-e-book)
+* [Ríomhleabhar Red Zion ](https://submitfile.com/download/red-zion-e-book)
 
 
 

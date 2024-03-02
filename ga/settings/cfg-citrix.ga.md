@@ -120,6 +120,6 @@ Seo cineálacha comhaid eile a úsáideann an síneadh comhad **.cfg**.
 - [CFG - Cal3D Model Configuration File](/misc/cfg-cal3d/)
 
 ## Tagairtí
-* [Aipeanna Fíorúla Citrix]( https://en.wikipedia.org/wiki/Citrix_Virtual_Apps)
+* [Aipeanna Fíorúla Citrix](https://en.wikipedia.org/wiki/Citrix_Virtual_Apps)
 
 

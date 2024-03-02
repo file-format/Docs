@@ -27,6 +27,6 @@ Tá formáid comhaid 3DL dílsithe agus níl sé doiciméadaithe go poiblí. Dé
 
 ## Tagairtí
 
-* [láithreán gréasáin NNG]( https://www.nng.com/)
+* [láithreán gréasáin NNG](https://www.nng.com/)
 
 

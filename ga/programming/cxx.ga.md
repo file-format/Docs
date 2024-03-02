@@ -35,6 +35,6 @@ Stóráiltear comhaid CXX mar chomhad gnáth-théacs agus tá cód scríofa i gc
 
 ## Tagairtí
 
-* [Forfheidhmiú an Aicme - Le Vicipéid]( https://en.wikipedia.org/wiki/Class_implementation_file)
+* [Forfheidhmiú an Aicme - Le Vicipéid](https://en.wikipedia.org/wiki/Class_implementation_file)
 
 

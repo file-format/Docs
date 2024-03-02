@@ -51,7 +51,7 @@ Seo cineálacha comhaid eile a úsáideann an síneadh comhad **.bin**.
 
 ## Tagairtí 
 
-* [Roxio Tósta - Vicipéid]( https://ga.wikipedia.org/wiki/Roxio_Toast)
+* [Roxio Tósta - Vicipéid](https://ga.wikipedia.org/wiki/Roxio_Toast)
 
 
 

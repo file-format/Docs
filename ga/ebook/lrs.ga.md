@@ -35,6 +35,6 @@ Tá comhaid LRS bunaithe ar fhormáid comhaid [XML](/web/xml/) agus tá a sonra�
 
 ## Tagairtí
 
-* [BBeB - Le Vicipéid]( https://ga.wikipedia.org/wiki/BBeB)
+* [BBeB - Le Vicipéid](https://ga.wikipedia.org/wiki/BBeB)
 
 

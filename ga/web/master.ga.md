@@ -43,6 +43,6 @@ Léiríonn leathanach ábhair an t-ábhar le haghaidh rialuithe áitsealbhóirí
 
 ## Tagairtí
 
-* [Forbhreathnú Máistir Leathanaigh ASP.NET]( https://learn.microsoft.com/en-us/previous-versions/aspnet/wtxbf3hh(v=vs.100))
+* [Forbhreathnú Máistir Leathanaigh ASP.NET](https://learn.microsoft.com/en-us/previous-versions/aspnet/wtxbf3hh(v=vs.100))
 
 

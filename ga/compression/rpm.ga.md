@@ -42,8 +42,8 @@ Is comhad dénártha é comhad RPM ar féidir sraith comhad a chuimsiú. An chui
 
 ## Tagairtí
 
-* [RPM - Vicipéid]( https://rpm.org)
+* [RPM - Vicipéid](https://rpm.org)
 
-* [Doiciméadúchán RPM]( https://rpm.org/documentation.html)
+* [Doiciméadúchán RPM](https://rpm.org/documentation.html)
 
 

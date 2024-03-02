@@ -235,6 +235,6 @@ Níl an teaghrán foirceanta nialasach, agus d'fhéadfadh go mbeadh \0 carachtai
 
 * [Sonraíochtaí Formáid Chomhaid Dénártha FBX](https://code.blender.org/2013/08/fbx-binary-file-format-specification/)
 
-* [FBX - Vicipéid]( https://en.wikipedia.org/wiki/FBX#File_format )
+* [FBX - Vicipéid](https://en.wikipedia.org/wiki/FBX#File_format )
 
 

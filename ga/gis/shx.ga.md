@@ -42,7 +42,7 @@ Leis an innéacs seo is féidir cuardach a dhéanamh ar gcúl sa chomhad cruth t
 
 ## Tagairtí
 
-* [Shapefile - le Vicipéid)]( https://en.wikipedia.org/wiki/Shapefile)
+* [Shapefile - le Vicipéid)](https://en.wikipedia.org/wiki/Shapefile)
 
 
 

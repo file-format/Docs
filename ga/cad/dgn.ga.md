@@ -53,7 +53,7 @@ Tá comhad MicroStation V8 DGN comhdhéanta de mhúnla amháin nó níos mó. Is
 
 ## Tagairtí
 
-* [DNG - Le Vicipéid]( https://ga.wikipedia.org/wiki/DGN)
+* [DNG - Le Vicipéid](https://ga.wikipedia.org/wiki/DGN)
 
 * [MicroStation V8 DGN File Format](https://web.archive.org/web/20120713013730/http://docs.bentley.com/ko/MicroStation/ustnhelp47.html)
 

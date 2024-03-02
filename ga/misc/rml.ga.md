@@ -38,6 +38,6 @@ Chun teimpléad RML a ghiniúint i Repertoire Elixir, is féidir na céimeanna s
 
 ## Tagairtí
 
-* [Repertoire Elixir]( https://elixirtech.com/repertoire-2/)
+* [Repertoire Elixir](https://elixirtech.com/repertoire-2/)
 
 

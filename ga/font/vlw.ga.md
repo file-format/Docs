@@ -27,6 +27,6 @@ Déantar comhaid VLW a shábháil ar diosca mar chomhaid dhénártha. I bPróise
 
 ## **Tagairtí**
 
- * [Próiseáil]( https://processing.org/)
- * [Próiseáil Ar github]( https://github.com/processing)
+ * [Próiseáil](https://processing.org/)
+ * [Próiseáil Ar github](https://github.com/processing)
 

@@ -33,6 +33,6 @@ Is féidir leat comhaid TPSR a oscailt ag baint úsáide as an leagan deisce de 
 
 ## Tagairtí ##
 
-* [TPSR]( https://community.teamviewer.com/English/kb/articles/46456-using-teamviewer-assist-ar)
+* [TPSR](https://community.teamviewer.com/English/kb/articles/46456-using-teamviewer-assist-ar)
 
 

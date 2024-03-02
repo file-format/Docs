@@ -61,7 +61,7 @@ Sa sampla seo, sainmhíníonn an cineál port GluaisTéarmaí oibríocht aontreo
 
 ## Tagairtí
 
-* [WSDL XML]( https://www.w3schools.com/xml/xml_wsdl.asp)
+* [WSDL XML](https://www.w3schools.com/xml/xml_wsdl.asp)
 
 * [Sonraíochtaí formáid comhaid WSDL](https://www.w3.org/TR/2007/REC-wsdl20-20070626/)
 

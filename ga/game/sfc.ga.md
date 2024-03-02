@@ -41,6 +41,6 @@ Seo roinnt clár a úsáidtear go coitianta chun comhaid SFC a oscailt:
 1.  ** Super Nt Jailbreak ** - Mod firmware le haghaidh consól Super Nt, a cheadaíonn ROManna a luchtú ó chárta SD.
 
 ## Tagairtí
-* [SNES]( https://ga.wikipedia.org/wiki/Nintendo_Entertainment_System)
+* [SNES](https://ga.wikipedia.org/wiki/Nintendo_Entertainment_System)
 
 

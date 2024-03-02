@@ -48,6 +48,6 @@ I mbeagán focal, is comhad teimpléid é comhad TPF a úsáidtear chun táblaí
 Is féidir comhaid TPF a úsáid in éineacht leis an ngné Treoraí Téacs chun aschur saincheaptha a chruthú le haghaidh anailísí sonraí téacs. Mar shampla, d'fhéadfá comhad TPF a chruthú a shonraíonn formáidiú agus cuma táblaí nó cairteacha a ghintear ó shonraí téacs, agus ansin an teimpléad sin a chur i bhfeidhm ag baint úsáide as an ngné Treoraí Téacs.
 
 ## Tagairtí
-* [An féidir liom an comhad .tpf a chruthaíonn an Treoraí Téacs a chur in eagar?]( https://www.ibm.com/support/pages/can-i-edit-tpf-file-text-wizard-creates)
+* [An féidir liom an comhad .tpf a chruthaíonn an Treoraí Téacs a chur in eagar?](https://www.ibm.com/support/pages/can-i-edit-tpf-file-text-wizard-creates)
 
 

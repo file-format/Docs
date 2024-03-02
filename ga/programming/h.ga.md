@@ -132,6 +132,6 @@ namespace N  // namespace declaration
 
 ## Tagairtí
 
-* [Comhdóirí Ceanntásc - Microsoft]( https://learn.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-160)
+* [Comhdóirí Ceanntásc - Microsoft](https://learn.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-160)
 
 

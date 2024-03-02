@@ -67,6 +67,6 @@ Chun paiste UPS a chur i bhfeidhm, beidh uirlis phaiste UPS uait, mar shampla Lu
 - **MultiPatch** (do ardáin iolracha)
 
 ## Tagairtí
-* [Lunar IPS]( https://www.romhacking.net/utilities/240/)
+* [Lunar IPS](https://www.romhacking.net/utilities/240/)
 
 

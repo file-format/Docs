@@ -49,6 +49,6 @@ Seo a leanas na riachtanais struchtúir a bhaineann le comhad VTT.
 
 ## Tagairtí
 
- * [VTT - W3 Schools]( https://www.w3.org/TR/webvtt1/)
+ * [VTT - W3 Schools](https://www.w3.org/TR/webvtt1/)
  * [WebVTT - Mozilla](https://developer.mozilla.org/en-US/docs/Web/API/WebVTT_API) 
 

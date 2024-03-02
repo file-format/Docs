@@ -29,6 +29,6 @@ Stóráiltear comhaid CHA taobh le comhaid suiteála eile an chliaint IRC. Nuair
 
 ## Tagairtí
 
-* [Cabhair mIRC]( https://www.mirc.com/help/html/index.html?dcc.html)
+* [Cabhair mIRC](https://www.mirc.com/help/html/index.html?dcc.html)
 
 

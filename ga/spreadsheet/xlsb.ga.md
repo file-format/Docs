@@ -87,6 +87,6 @@ The first byte is 11111101, specifying a low value of 125 and that the record ty
 
 ## Tagairtí ##
 
-* [[MS-XLSB] - Formáid Chomhaid Dhénártha Excel (.xlsb)]( https://msdn.microsoft.com/en-us/library/cc313133(v#office.12).aspx)
+* [[MS-XLSB] - Formáid Chomhaid Dhénártha Excel (.xlsb)](https://msdn.microsoft.com/en-us/library/cc313133(v#office.12).aspx)
 
 

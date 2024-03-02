@@ -27,6 +27,6 @@ Stóráiltear comhaid GSP i bhformáid comhaid gréasáin agus is furasta iad a 
 
 ## Tagairtí
 
-* [Earráid nuair a chóipeáil tú comhaid teachtaireachta ríomhphoist MSG in Outlook]( https://learn.microsoft.com/en-us/outlook/troubleshoot/performance/error-when-copying-msg-with-many-attachments-or- faighteoirí)
+* [Earráid nuair a chóipeáil tú comhaid teachtaireachta ríomhphoist MSG in Outlook](https://learn.microsoft.com/en-us/outlook/troubleshoot/performance/error-when-copying-msg-with-many-attachments-or- faighteoirí)
 
 

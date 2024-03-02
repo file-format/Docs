@@ -102,6 +102,6 @@ Déantar cur síos iarbhír ar an íomhá ag an léiriú DWORDs 32-giotán den e
 ## Tagairtí ##
 
 * [Windows MetaFile Format](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-wmf/4813e7fd-52d0-4f42-965f-228c8b7488d2)
-* [Formáid Chomhaid BMP]( https://en.wikipedia.org/wiki/BMP_file_format )
+* [Formáid Chomhaid BMP](https://en.wikipedia.org/wiki/BMP_file_format )
 
 

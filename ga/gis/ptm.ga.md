@@ -27,8 +27,8 @@ Is formáid comhaid dílseánaigh í formáid chomhdaithe PTM agus níl strucht�
 
 ## Tagairtí ##
 
-* [Comhad PTM]( https://social.microsoft.com/Forums/en-US/home?forum=streetsandtrips)
+* [Comhad PTM](https://social.microsoft.com/Forums/en-US/home?forum=streetsandtrips)
 
-* [Roghanna Malartacha MapPoint]( https://www.microsoft.com/en-us/maps/mappoint-alternatives)
+* [Roghanna Malartacha MapPoint](https://www.microsoft.com/en-us/maps/mappoint-alternatives)
 
 

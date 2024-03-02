@@ -36,8 +36,8 @@ Léiríonn an mhír thuas go n-éascaíonn Nótaí Mobipocket na húsáideoirí 
 
 ## Tagairtí
 
-* [Léitheoir MBP]( https://www.angelfire.com/ego2/idleloop/mbp_reader.html)
+* [Léitheoir MBP](https://www.angelfire.com/ego2/idleloop/mbp_reader.html)
 
-* [Formáidí Comhaid Mobipocket]( https://www.loc.gov/preservation/digital/formats/fdd/fdd000472.shtml)
+* [Formáidí Comhaid Mobipocket](https://www.loc.gov/preservation/digital/formats/fdd/fdd000472.shtml)
 
 

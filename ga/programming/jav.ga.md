@@ -37,6 +37,6 @@ Hello World from Java to the console.
 
 ## Tagairtí ##
 
-* [Java (teanga ríomhchlárúcháin) - Vicipéid]( https://ga.wikipedia.org/wiki/Java_(programming_language))
+* [Java (teanga ríomhchlárúcháin) - Vicipéid](https://ga.wikipedia.org/wiki/Java_(programming_language))
 
 

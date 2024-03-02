@@ -34,6 +34,6 @@ Sábháiltear comhaid SLDPRT mar chomhaid dhénártha agus níl a sonraíochtaí
 ## Tagairtí ##
 
 * [Bogearraí SmartCAM CAD/CAM](https://www.solidworks.com/partner-product/smartcam-cadcam-software)
-* [Easpórtáil SLDPRT go DXF]( https://github.com/GitHubVents/ExportSLDPRTToDXF)
+* [Easpórtáil SLDPRT go DXF](https://github.com/GitHubVents/ExportSLDPRTToDXF)
 
 

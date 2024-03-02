@@ -54,6 +54,6 @@ Is féidir sonraí iomlána faoin bhformáid comhaid PPT a fháil sa doiciméad 
 
 * [[MS-OFFCRYPTO] - Struchtúr Cripteagrafaíochta Doiciméad Oifige](https://msdn.microsoft.com/en-us/library/office/cc313071(v#office.12).aspx)
 
-* [Formáidí Comhaid PowerPoint]( https://en.wikipedia.org/wiki/Microsoft_PowerPoint#File_formats)
+* [Formáidí Comhaid PowerPoint](https://en.wikipedia.org/wiki/Microsoft_PowerPoint#File_formats)
 
 

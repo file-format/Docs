@@ -67,6 +67,6 @@ Tá an chéad smután eile suite ag fritháireamh 32+8#40 (hex: 28) agus tá mé
 
 * [Formáid Comhaid QT - Apple Inc.](https://developer.apple.com/library/archive/documentation/QuickTime/QTFF/QTFFPreface/qtffPreface.html)
 
-* [Formáid Comhaid QuickTime - Vicipéid]( https://ga.wikipedia.org/wiki/QuickTime_File_Format)
+* [Formáid Comhaid QuickTime - Vicipéid](https://ga.wikipedia.org/wiki/QuickTime_File_Format)
 
 

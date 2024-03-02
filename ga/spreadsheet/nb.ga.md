@@ -49,6 +49,6 @@ Is féidir Leabhair Nótaí Mathematica a onnmhairiú chuig go leor formáidí c
 
 ## Tagairtí
 
-* [Bunús an Leabhair Nótaí Mathematica]( https://reference.wolfram.com/language/guide/NotebookBasics.html)
+* [Bunús an Leabhair Nótaí Mathematica](https://reference.wolfram.com/language/guide/NotebookBasics.html)
 
 

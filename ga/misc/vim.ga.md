@@ -23,6 +23,6 @@ Is comhad cumraíochta/socruithe é comhad VIM a úsáideann an clár eagarthói
 
 ## Tagairtí
 
-* [Vim]( https://www.vim.org/)
+* [Vim](https://www.vim.org/)
 
 

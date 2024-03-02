@@ -56,6 +56,6 @@ Chomh maith le fístaifeadadh, soláthraíonn córais Tiomnaithe Micros DVR toil
 Chun an tslándáil a fheabhsú, ionchorpraítear i gcórais Tiomnaithe Micros DVR halgartaim braite gluaisne, ag spreagadh taifeadtaí nó gníomhartha bunaithe ar imeachtaí nuair a bhraitear gluaisne. Is féidir le húsáideoirí fógraí imeachta láithreacha a fháil freisin trí fholáirimh ríomhphoist nó trí theachtaireachtaí SMS, á gcoimeád ar an eolas faoi imeachtaí criticiúla ina réimsí monatóireachta.
 
 ## Tagairtí
-* [NetVu]( https://netvu.org.uk/)
+* [NetVu](https://netvu.org.uk/)
 
 

@@ -71,6 +71,6 @@ SAMI (Subtitles And Metadata Interchange) files support a limited set of HTML-li
 Seo cuid de na clibeanna bunúsacha a fhaigheann tacaíocht ó chomhaid SAMI. Tá sé tábhachtach a thabhairt faoi deara nach dtacaíonn SAMI leis an raon iomlán clibeanna agus tréithe HTML. Tá na clibeanna tacaithe dírithe go príomha ar stíliú agus suíomh na bhfotheideal seachas ar struchtúrú doiciméad fairsing nó idirghníomhaíocht a sholáthar.
 
 ## Tagairtí
-* [SAMI]( https://ga.wikipedia.org/wiki/SAMI)
+* [SAMI](https://ga.wikipedia.org/wiki/SAMI)
 
 

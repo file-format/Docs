@@ -91,6 +91,6 @@ Seo cineálacha comhaid eile a úsáideann an síneadh comhad **.cdr**.
 - [CDR - Vector Drawing Image File](/image/cdr/)
 
 ## Tagairtí
-* [Cóip Fuaime Beacht]( https://en.wikipedia.org/wiki/Exact_Audio_Copy)
+* [Cóip Fuaime Beacht](https://en.wikipedia.org/wiki/Exact_Audio_Copy)
 
 

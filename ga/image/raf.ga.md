@@ -70,6 +70,6 @@ I measc go leor feidhmchlár eile, is féidir Adobe Photoshop lena fhóntas Came
 Is formáid dhénártha é formáid comhaid RAF.
 
 ## Tagairtí
-* [Formáid íomhá amh]( https://en.wikipedia.org/wiki/Raw_image_format )
+* [Formáid íomhá amh](https://en.wikipedia.org/wiki/Raw_image_format )
 
 

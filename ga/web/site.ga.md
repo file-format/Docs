@@ -29,6 +29,6 @@ Stóráiltear comhaid SITE ar diosca i bhformáid comhaid dílseánaigh Adobe ag
 
 ## Tagairtí
 
-* [Áirítear Taobh an Fhreastalaí]( https://en.wikipedia.org/wiki/Server_Side_Includes)
+* [Áirítear Taobh an Fhreastalaí](https://en.wikipedia.org/wiki/Server_Side_Includes)
 
 

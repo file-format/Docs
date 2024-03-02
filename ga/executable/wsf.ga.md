@@ -138,7 +138,7 @@ Notes for this very formal example:
 
 ## Tagairtí 
 
-* [Suiteálaí Windows - le Vicipéid]( https://en.wikipedia.org/wiki/Windows_Installer)
+* [Suiteálaí Windows - le Vicipéid](https://en.wikipedia.org/wiki/Windows_Installer)
 
 
 

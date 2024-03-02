@@ -33,7 +33,7 @@ Sábháiltear comhaid brabhsálaí i bhformáid gnáth-théacs. Is féidir leat 
 
 ## Tagairtí
 
- * [Ag obair le Comhaid i Leathanaigh Ghréasáin ASP.NET]( https://learn.microsoft.com/en-us/aspnet/web-pages/overview/data/working-with-files)
+ * [Ag obair le Comhaid i Leathanaigh Ghréasáin ASP.NET](https://learn.microsoft.com/en-us/aspnet/web-pages/overview/data/working-with-files)
 
 
 

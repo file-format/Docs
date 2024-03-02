@@ -27,7 +27,7 @@ Ní fios sonraí formáid comhaid inmheánaigh formáid comhaid TFRD. Mar sin f�
 
 ## Tagairtí ##
 
-* [Faisnéis Geospásúil Náisiúnta - NGA]( https://www.nga.mil/index.html)
+* [Faisnéis Geospásúil Náisiúnta - NGA](https://www.nga.mil/index.html)
 
 * [Formáidí Comhaid GIS](/gis/)
 

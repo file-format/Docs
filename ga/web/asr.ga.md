@@ -27,7 +27,7 @@ Tá script sa chomhad ASR a fhorbraítear i dteanga chaighdeánach scriptithe. I
 
 ## Tagairtí
 
-* [Adobe Contribute - Le Vicipéid]( https://ga.wikipedia.org/wiki/Adobe_Contribute)
+* [Adobe Contribute - Le Vicipéid](https://ga.wikipedia.org/wiki/Adobe_Contribute)
 
 * [Ag Cruthú Leathanaigh ASP Simplí](https://learn.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
 

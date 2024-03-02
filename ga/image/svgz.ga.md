@@ -37,5 +37,5 @@ SVGZ, being compressed [SVG](/page-description-language/svg/), is based on open 
 
 ## Tagairtí
 
- * [SVGZ le Vicipéid]( https://en.wikipedia.org/wiki/Scalable_Vector_Graphics#Compression)
+ * [SVGZ le Vicipéid](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics#Compression)
 

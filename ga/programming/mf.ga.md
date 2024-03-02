@@ -66,5 +66,5 @@ Sainmhíníonn rannóg aonair tréithe éagsúla do phacáistí nó do chomhaid 
 ## Tagairtí
 
  * [Oracle - JAR File Format](https://docs.oracle.com/javase/8/docs/technotes/guides/jar/jar.html)
- * [Formáid Comhaid JAR]( https://en.wikipedia.org/wiki/JAR_(file_format))
+ * [Formáid Comhaid JAR](https://en.wikipedia.org/wiki/JAR_(file_format))
 

@@ -68,5 +68,5 @@ Is éard atá i gcomhad ASAX amháin ná go leor ranna a scríobhtar chun imeach
 ## Tagairtí
 
  * [Láimhseálaithe HTTP agus Forbhreathnú ar Mhodúil HTTP](https://msdn.microsoft.com/en-us/library/bb398986(v=vs.100))
- * [Global.asax Comhréir]( https://learn.microsoft.com/en-us/previous-versions/dotnet/netframework-4.0/2027ewzw(v=vs.100))
+ * [Global.asax Comhréir](https://learn.microsoft.com/en-us/previous-versions/dotnet/netframework-4.0/2027ewzw(v=vs.100))
 

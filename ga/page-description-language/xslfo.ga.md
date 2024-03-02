@@ -81,8 +81,8 @@ Tá gnéithe ag XSL-FO 1.1 a chuidíonn le hinnéacs a ghiniúint trí thagairt 
 
 ## Tagairtí ##
 
-* [Cad é XSL-FO?]( https://www.xml.com/articles/2017/01/01/what-is-xsl-fo/)
+* [Cad é XSL-FO?](https://www.xml.com/articles/2017/01/01/what-is-xsl-fo/)
 
-* [Oibiachtaí Formáidithe XSL]( https://en.wikipedia.org/wiki/XSL_Formatting_Objects)
+* [Oibiachtaí Formáidithe XSL](https://en.wikipedia.org/wiki/XSL_Formatting_Objects)
 
 

@@ -28,6 +28,6 @@ Déantar comhaid ERR a shábháil ar diosca mar chomhaid gnáth-théacs agus is 
 
 ## Tagairtí
 
-* [Tábhacht an Fhillteáin Sonraí EndNote]( https://support.clarivate.com/Endnote/s/article/EndNote-Description-of-the-Data-folder-that-accompanies-enl-library-files?language= ga_US)
+* [Tábhacht an Fhillteáin Sonraí EndNote](https://support.clarivate.com/Endnote/s/article/EndNote-Description-of-the-Data-folder-that-accompanies-enl-library-files?language= ga_US)
 
 

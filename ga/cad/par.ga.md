@@ -61,6 +61,6 @@ I measc na bpríomhghnéithe de Solid Edge tá:
 - **Bainistíocht Sonraí:** Ionchorpraíonn Solid Edge gnéithe bainistíochta sonraí chun sonraí dearaidh a eagrú agus a rialú. Ceadaíonn sé do rialú athbhreithnithe, dearadh comhoibríoch, agus comhtháthú le bainistíocht saolré táirgí.
 
 ## Tagairtí
-* [Solid Edge]( https://en.wikipedia.org/wiki/Solid_Edge)
+* [Solid Edge](https://en.wikipedia.org/wiki/Solid_Edge)
 
 

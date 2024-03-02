@@ -34,17 +34,17 @@ Tá comhaid M4S bunaithe ar an [ISO Base Media File (ISOBMFF) format](https://ww
 Tá API foinse oscailte ar fáil ar féidir iad a úsáid chun comhaid M4S a léamh agus a thiontú.
 
  * [libdash](https://github.com/bitmovin/libdash) - .NET API le haghaidh comhaid M4S
- * [dash.js]( https://github.com/Dash-Industry-Forum/dash.js ) - Cliant javascript le haghaidh comhad M4S
+ * [dash.js](https://github.com/Dash-Industry-Forum/dash.js ) - Cliant javascript le haghaidh comhad M4S
  * [Téigh chuig an Leabharlann chun Comhaid Dash a chruthú] (https://github.com/zencoder/go-dash)
 
 ### Foinse Oscailte API chun M4S a thiontú go MP4
 
- * [MFourStoMp4]( https://github.com/muri11o/mfourstomp4)
+ * [MFourStoMp4](https://github.com/muri11o/mfourstomp4)
 
 ## Tagairtí ###
 
 * [Formáid Bhunchomhad Meán ISO (ISOBMFF)](https://www.w3.org/TR/mse-byte-stream-format-isobmff/)
 
-* [Sruthú Oiriúnaitheach Dinimiciúla thar HTTP - MPEG-DASH]( https://en.wikipedia.org/wiki/Dynamic_Adaptive_Streaming_over_HTTP)
+* [Sruthú Oiriúnaitheach Dinimiciúla thar HTTP - MPEG-DASH](https://en.wikipedia.org/wiki/Dynamic_Adaptive_Streaming_over_HTTP)
 
 

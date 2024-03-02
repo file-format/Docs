@@ -60,6 +60,6 @@ Tá faisnéis meiteashonraí faoi mhúnla PowerDesigner i gcomhad XEM in PowerDe
 Féadfaidh na heilimintí agus na sonraí sonracha a chuimsítear i gcomhad .xem athrú ag brath ar na socruithe agus na roghanna a roghnaítear le linn an phróisis easpórtála. Agus comhad .xem á iompórtáil isteach i múnla nua, is féidir leat a roghnú cé na gnéithe sonracha le cur san áireamh, rud a ligeann duit na heilimintí iompórtáilte a chumasc leis an múnla atá ann cheana ar bhealach solúbtha.
 
 ## Tagairtí
-* [PowerDesigner]( https://en.wikipedia.org/wiki/PowerDesigner)
+* [PowerDesigner](https://en.wikipedia.org/wiki/PowerDesigner)
 
 

@@ -27,8 +27,8 @@ Déantar comhaid WUX a shábháil mar chomhaid chomhbhrúite ar féidir iad a dh
 
 ## Tagairtí
 
-* [ Aithriseoir Wii U - Cemu]( https://cemu.info/)
+* [ Aithriseoir Wii U - Cemu](https://cemu.info/)
 
-* [Cemu - Vicipéid]( https://ga.wikipedia.org/wiki/Cemu)
+* [Cemu - Vicipéid](https://ga.wikipedia.org/wiki/Cemu)
 
 

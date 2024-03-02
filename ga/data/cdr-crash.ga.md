@@ -80,6 +80,6 @@ Seo cineálacha comhaid eile a úsáideann an síneadh comhad **.cdr**.
 - [CDR - Vector Drawing Image File](/image/cdr/)
 
 ## Tagairtí
-* [Diagnóisic Bosch]( https://cdr.boschdiagnostics.com/cdr/)
+* [Diagnóisic Bosch](https://cdr.boschdiagnostics.com/cdr/)
 
 

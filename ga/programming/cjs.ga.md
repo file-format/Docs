@@ -50,6 +50,6 @@ console.log(myModule.add(10, 20)); // 30
 
 ## Tagairtí
 
-* [Ranganna Dearaidh sa Stiúideo Amharc]( https://en.wikipedia.org/wiki/CommonJS)
+* [Ranganna Dearaidh sa Stiúideo Amharc](https://en.wikipedia.org/wiki/CommonJS)
 
 

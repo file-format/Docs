@@ -73,8 +73,8 @@ Sonraíonn an tábla seo a leanas na horduithe PML:
 
 ## Tagairtí
 
-* [Teanga Palm Markup - Le MobileRead]( https://wiki.mobileread.com/wiki/EReader)
+* [Teanga Palm Markup - Le MobileRead](https://wiki.mobileread.com/wiki/EReader)
 
-* [Ríomhléitheoir - Le MobileRead]( https://en.wikipedia.org/wiki/E-reader)
+* [Ríomhléitheoir - Le MobileRead](https://en.wikipedia.org/wiki/E-reader)
 
 

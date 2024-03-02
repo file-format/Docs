@@ -63,6 +63,6 @@ Is féidir comhad CUBE a oscailt agus tagairt a dhéanamh dó ag baint úsáide 
 - **NWChem ** (Saor in Aisce) le haghaidh (Windows, MAC, Linux)
 
 ## Tagairtí
-* [Formáid Comhaid Ciúb Gaúisise]( https://paulbourke.net/dataformats/cube/)
+* [Formáid Comhaid Ciúb Gaúisise](https://paulbourke.net/dataformats/cube/)
 
 

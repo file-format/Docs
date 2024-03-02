@@ -78,6 +78,6 @@ Tá na sonraí picteilín comhbhrúite go pointe áirithe. Is minic a chomhbhrú
 
 ## Tagairt ##
 
-* [ICNS - Vicipéid]( https://en.wikipedia.org/wiki/Apple_Icon_Image_format)
+* [ICNS - Vicipéid](https://en.wikipedia.org/wiki/Apple_Icon_Image_format)
 
 

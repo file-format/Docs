@@ -56,6 +56,6 @@ Seo a leanas ceanntásc agus téacs pointe bealaigh amháin ó chomhad LOC. Mar 
 
 ## Tagairtí
 
-* [TopGraphic EasyGPS]( https://www.easygps.com/)
+* [TopGraphic EasyGPS](https://www.easygps.com/)
 
 

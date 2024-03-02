@@ -36,6 +36,6 @@ Stóráiltear comhaid AN ar diosca i bhformáid gnáth-théacs agus is féidir i
 
 ## Tagairtí
 
-* [Adobe Edge Animate]( https://www.adobe.com/products/animate.html)
+* [Adobe Edge Animate](https://www.adobe.com/products/animate.html)
 
 

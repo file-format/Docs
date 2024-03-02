@@ -60,6 +60,6 @@ for mxd in arcpy.ListFiles("*.mxd"):
 
 ## Tagairtí
 
-* [Léarscáil an Phacáiste]( https://desktop.arcgis.com/ga/arcmap/10.3/tools/data-management-toolbox/package-map.htm)
+* [Léarscáil an Phacáiste](https://desktop.arcgis.com/ga/arcmap/10.3/tools/data-management-toolbox/package-map.htm)
 
 

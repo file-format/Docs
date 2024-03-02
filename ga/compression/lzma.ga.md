@@ -64,8 +64,8 @@ Stóráiltear an Méid Neamh-chomhbhrúite mar shlánuimhir endian beag 64-giot�
 
 ## Tagairtí
 
-* [Formáid Comhaid LZMA]( https://svn.python.org/projects/external/xz-5.0.3/doc/lzma-file-format.txt)
+* [Formáid Comhaid LZMA](https://svn.python.org/projects/external/xz-5.0.3/doc/lzma-file-format.txt)
 
-* [algartam slabhra Lempel–Ziv–Markov]( https://en.wikipedia.org/wiki/Lempel%E2%80%93Ziv%E2%80%93Markov_chain_algorithm)
+* [algartam slabhra Lempel–Ziv–Markov](https://en.wikipedia.org/wiki/Lempel%E2%80%93Ziv%E2%80%93Markov_chain_algorithm)
 
 

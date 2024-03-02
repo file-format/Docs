@@ -59,6 +59,6 @@ Seo a leanas na roinnt fadhbanna a d'fhéadfadh a bheith ina gcúis le droch-oib
   
 ## Tagairtí ##
 
-* [LZO - Le Vicipéid]( https://en.wikipedia.org/wiki/Lempel%E2%80%93Ziv%E2%80%93Oberhumer)
+* [LZO - Le Vicipéid](https://en.wikipedia.org/wiki/Lempel%E2%80%93Ziv%E2%80%93Oberhumer)
 
 

@@ -35,6 +35,6 @@ Is clár bogearraí foinse oscailte é TreeSheets atá ar fáil don ilardán. Li
 
 ## Tagairtí
 
-* [Foinse Dáileadh TreeSheets - Github]( https://github.com/aardappel/treesheets)
+* [Foinse Dáileadh TreeSheets - Github](https://github.com/aardappel/treesheets)
 
 

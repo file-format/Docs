@@ -91,6 +91,6 @@ Seo a leanas cineálacha comhaid eile a úsáideann **.cfg** síneadh comhad.
 - [CFG - Cal3D Model Configuration File](/misc/cfg-cal3d/)
 
 ## Tagairtí
-* [Foinse (inneall cluiche)]( https://en.wikipedia.org/wiki/Source_(game_engine))
+* [Foinse (inneall cluiche)](https://en.wikipedia.org/wiki/Source_(game_engine))
 
 

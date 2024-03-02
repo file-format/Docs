@@ -48,6 +48,6 @@ Chomh maith leis an bhformáid ACO, tacaíonn Adobe Photoshop freisin le formái
 Is féidir leat comhad ACO a oscailt le Adobe Photoshop. Oscail Adobe Photoshop, roghnaigh Luchtaigh Swatches ó roghchlár Windows, roghnaigh suíomh an chomhaid ACO, ansin cliceáil ar Luchtaigh chun comhad ACO a oscailt.
 
 ## Tagairtí
-* [Adobe Color Swatch]( https://color.adobe.com/create/color-wheel)
+* [Adobe Color Swatch](https://color.adobe.com/create/color-wheel)
 
 

@@ -48,6 +48,6 @@ Tá dhá mhodh ann ar féidir a úsáid chun comhaid APPX a chruthú.
 
 ## Tagairtí
 
- * [Cruthaigh pacáiste nó beart MSIX le MakeAppx.exe]( https://learn.microsoft.com/en-us/windows/msix/package/create-app-package-with-makeappx-tool)
- * [Cruthaigh comhaid APPX ag baint úsáide as Microsoft Visual Studio]( https://learn.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
+ * [Cruthaigh pacáiste nó beart MSIX le MakeAppx.exe](https://learn.microsoft.com/en-us/windows/msix/package/create-app-package-with-makeappx-tool)
+ * [Cruthaigh comhaid APPX ag baint úsáide as Microsoft Visual Studio](https://learn.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
 

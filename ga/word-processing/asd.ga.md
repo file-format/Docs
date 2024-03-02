@@ -39,6 +39,6 @@ Tá comhaid ASD a cruthaíodh i gcoinne na gcomhad bunaidh fós ar fáil taobh l
 
 ## Tagairtí
 
-* [Athshlánaigh Doiciméad Microsoft Word]( https://learn.microsoft.com/en-us/office/troubleshoot/word/recover-lost-unsaved-corrupted-document)
+* [Athshlánaigh Doiciméad Microsoft Word](https://learn.microsoft.com/en-us/office/troubleshoot/word/recover-lost-unsaved-corrupted-document)
 
 

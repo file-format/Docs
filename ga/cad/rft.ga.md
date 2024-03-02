@@ -37,5 +37,5 @@ Is comhaid teimpléid teaghlaigh iad comhaid RFT ar féidir iad a luchtú (mar a
 
 ## Tagairtí
 
- * [Cineálacha comhaid Revit]( https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/Revit-file-types.html)
+ * [Cineálacha comhaid Revit](https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/Revit-file-types.html)
 

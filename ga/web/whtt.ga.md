@@ -27,6 +27,6 @@ Déantar comhaid WHTT a shábháil mar mheascán de leathanaigh ghréasáin THML
 
 ## Tagairtí
 
-* [Cóipeálaí Gréasáin HTTP]( https://www.httrack.com/)
+* [Cóipeálaí Gréasáin HTTP](https://www.httrack.com/)
 
 

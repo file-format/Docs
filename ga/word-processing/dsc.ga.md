@@ -27,6 +27,6 @@ Cruthaítear comhaid DSC agus stóráiltear iad ar diosca mar chomhaid gnáth-th
 
 ## Tagairtí
 
-* [Formáid Comhaid TXT]( https://en.wikipedia.org/wiki/Text_file)
+* [Formáid Comhaid TXT](https://en.wikipedia.org/wiki/Text_file)
 
 

@@ -44,8 +44,8 @@ Ar ndóigh, tá sé éasca a láimhseáil comhaid MHT nó MHTML mar an comhad, i
 
 ## Tagairtí
 
-* [MHTML - Vicipéid]( https://ga.wikipedia.org/wiki/MHTML)
+* [MHTML - Vicipéid](https://ga.wikipedia.org/wiki/MHTML)
 
-* [MHT RFC]( https://tools.ietf.org/html/rfc822)
+* [MHT RFC](https://tools.ietf.org/html/rfc822)
 
 

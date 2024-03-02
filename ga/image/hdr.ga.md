@@ -44,5 +44,5 @@ Tá na trí chuid seo a leanas i gcomhad íomhá HDR:
 ## Tagairtí
 
  * [Radiance HDR](http://paulbourke.net/dataformats/pic/)
- * [imageinfo]( https://github.com/xiaozhuai/imageinfo)
+ * [imageinfo](https://github.com/xiaozhuai/imageinfo)
 

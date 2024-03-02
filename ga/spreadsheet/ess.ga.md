@@ -43,5 +43,5 @@ Comhad scarbhileoige is ea comhad ESS arna chruthú agus á thacú ag bogearraí
 
 ## Tagairtí
 
- * [EasyOffice - Le Vicipéid]( https://en.wikipedia.org/wiki/EasyOffice)
+ * [EasyOffice - Le Vicipéid](https://en.wikipedia.org/wiki/EasyOffice)
 

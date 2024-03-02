@@ -67,10 +67,10 @@ Nuair a bheidh MCEdit suiteáilte agat, is féidir leat do chomhad réigiún Anv
 
 ## Tagairtí
 
-* [Eagarthóir Domhanda le haghaidh Minecraft]( https://www.mcedit.net/)
+* [Eagarthóir Domhanda le haghaidh Minecraft](https://www.mcedit.net/)
 
-* [Maidir le Minecraft]( https://www.minecraft.net/)
+* [Maidir le Minecraft](https://www.minecraft.net/)
 
-* [Formáid Comhaid Réigiún]( https://minecraft.fandom.com/wiki/Region_file_format )
+* [Formáid Comhaid Réigiún](https://minecraft.fandom.com/wiki/Region_file_format )
 
 

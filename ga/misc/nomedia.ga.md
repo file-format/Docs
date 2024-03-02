@@ -60,6 +60,6 @@ Má scriostar an comhad NOMEDIA i bhfillteán meán WhatsApp, cuirfear na comhai
 Nuair a bheidh an comhad NOMEDIA scriosta agat, beidh na comhaid meán atá stóráilte i bhfillteán meán WhatsApp le feiceáil in aip gailearaí do ghléas agus in feidhmchláir meán eile. Mar sin féin, más mian leat leanúint ar aghaidh i bhfolach do chomhaid meán WhatsApp, is féidir leat comhad NOMEDIA nua a chruthú i bhfillteán meán WhatsApp. Níl ort ach comhad téacs nua a chruthú agus ainmnigh .nomedia é, agus beidh na comhaid meán san fhillteán sin i bhfolach arís ó fheidhmchláir meán eile.
 
 ## Tagairtí
-* [An féidir liom comhaid nomedia a scriosadh?]( https://www.quora.com/Can-I-delete-nomedia-files)
+* [An féidir liom comhaid nomedia a scriosadh?](https://www.quora.com/Can-I-delete-nomedia-files)
 
 

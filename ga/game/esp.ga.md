@@ -54,6 +54,6 @@ Chun a bhfuil i gcomhad `.esp` a oscailt agus a fheiceáil, is gnách go mbíonn
 Ligeann na huirlisí seo duit inneachar na gcomhad `.esp` a fheiceáil agus a mhodhnú, lena n-áirítear rudaí nua a chur leis, ábhar atá ann cheana a chur in eagar, socruithe a choigeartú, agus tuilleadh.
 
 ## Tagairtí
-* [Morrowind]( https://ga.wikipedia.org/wiki/The_Elder_Scrolls_III:_Morrowind)
+* [Morrowind](https://ga.wikipedia.org/wiki/The_Elder_Scrolls_III:_Morrowind)
 
 

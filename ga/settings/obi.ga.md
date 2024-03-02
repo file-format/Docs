@@ -50,6 +50,6 @@ Tá comhaid OBI comhdhéanta de shraith d’eilimintí neadaithe gach ceann acu 
 Is féidir le heilimintí linbh a sheasann d'fho-fhillteáin nó d'fhochatagóirí laistigh de liosta fothaí RSS a bheith i ngach eilimint imlíne. Ligeann struchtúr an chomhaid OBI do shíntiúis fotha RSS a eagrú agus a bhainistiú go héasca agus is féidir é a úsáid chun síntiúis a aistriú idir léitheoirí éagsúla RSS nó chun síntiúis a chúltacú agus a athchóiriú.
 
 ## Tagairtí
-* [Cad iad fothaí RSS?]( https://support.microsoft.com/en-us/office/what-are-rss-feeds-e8aaebc3-a0a7-40cd-9e10-88f9c1e74b97)
+* [Cad iad fothaí RSS?](https://support.microsoft.com/en-us/office/what-are-rss-feeds-e8aaebc3-a0a7-40cd-9e10-88f9c1e74b97)
 
 

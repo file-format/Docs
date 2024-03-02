@@ -175,6 +175,6 @@ Seo a leanas sonraí an tsampla.
 
 ## Tagairtí
 
- * [JRXML - Vicipéid]( https://ga.wikipedia.org/wiki/JasperReports#JRXML)
+ * [JRXML - Vicipéid](https://ga.wikipedia.org/wiki/JasperReports#JRXML)
  * [Foinsí JRXML agus Comhaid Jasper](https://community.jaspersoft.com/documentation/tibco-jaspersoft-studio-user-guide/v630/jrxml-sources-and-jasper-files)
 

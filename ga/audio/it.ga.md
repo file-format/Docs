@@ -55,6 +55,6 @@ Is samplaí iad OpenMPT agus Schism Tracker de chláir a thairgeann an cumas com
 - [FLAC](/audio/flac/) - Comhad Fuaime In Aisce Gan Cailliúint
 
 ## Tagairtí
-* [Rianaire Impulse]( https://en.wikipedia.org/wiki/Impulse_Tracker)
+* [Rianaire Impulse](https://en.wikipedia.org/wiki/Impulse_Tracker)
 
 

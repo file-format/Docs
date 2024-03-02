@@ -102,6 +102,6 @@ Seo cineálacha comhaid eile a úsáideann an síneadh comhad **.shader**.
 - [SHADER - Unity Shader Asset](/game/shader-unity/)
 
 ## Tagairtí
-* [Godot (inneall cluiche)]( https://en.wikipedia.org/wiki/Godot_(game_engine))
+* [Godot (inneall cluiche)](https://en.wikipedia.org/wiki/Godot_(game_engine))
 
 

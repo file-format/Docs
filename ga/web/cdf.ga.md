@@ -59,6 +59,6 @@ LEIBHÉAL=1>
 
 ## Tagairtí
 
-* [Formáid sainmhínithe cainéil - Le Vicipéid]( https://en.wikipedia.org/wiki/Channel_Definition_Format)
+* [Formáid sainmhínithe cainéil - Le Vicipéid](https://en.wikipedia.org/wiki/Channel_Definition_Format)
 
 

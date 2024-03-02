@@ -27,6 +27,6 @@ Déantar comhaid MXT a shábháil mar chomhaid dhénártha ach níl a sonraí ma
 
 ## Tagairtí
 
-* [Ag baint úsáide as Teimpléid MXD]( https://desktop.arcgis.com/ga/arcmap/10.3/map/page-layouts/using-mxd-templates.htm)
+* [Ag baint úsáide as Teimpléid MXD](https://desktop.arcgis.com/ga/arcmap/10.3/map/page-layouts/using-mxd-templates.htm)
 
 

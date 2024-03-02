@@ -40,6 +40,6 @@ Seo roinnt feidhmchlár a úsáidtear go coitianta ar féidir leo comhaid RPF a 
 6.  **3ds Max**: Cé go bhfuil baint níos dlúithe ag 3ds Max le formáid OpenEXR le haghaidh íomhánna ilchisealacha, tá roinnt comhoiriúnachta aige le comhaid RPF, rud a ligeann duit iad a allmhairiú chun críocha áirithe.
 
 ## Tagairtí
-* [Formáid Rich picteilíní]( https://help.autodesk.com/view/3DSMAX/2024/ENU/?guid=GUID-4647FCAE-3781-43C0-99B3-01D9A531E6A8)
+* [Formáid Rich picteilíní](https://help.autodesk.com/view/3DSMAX/2024/ENU/?guid=GUID-4647FCAE-3781-43C0-99B3-01D9A531E6A8)
 
 

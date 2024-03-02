@@ -63,7 +63,7 @@ Tairgeann comhaid DLG ar scála mór na naoi sraithe go léir, agus cuireann sc�
 
 ## Tagairtí
 
-* [Graif líne dhigiteach - de réir Vicipéid)]( https://ga.wikipedia.org/wiki/Digital_line_graph)
+* [Graif líne dhigiteach - de réir Vicipéid)](https://ga.wikipedia.org/wiki/Digital_line_graph)
 
 
 

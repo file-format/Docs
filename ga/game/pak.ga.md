@@ -84,5 +84,5 @@ simutrans_src
 
 ## Tagairtí
 
- * [Simutrans]( https://ga.wikipedia.org/wiki/Simutrans)
+ * [Simutrans](https://ga.wikipedia.org/wiki/Simutrans)
 

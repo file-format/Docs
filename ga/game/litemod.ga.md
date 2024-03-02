@@ -41,6 +41,6 @@ Is cluiche físeán bosca gainimh é Minecraft a bhfuil an-tóir air a ligeann d
 Ós rud é gur comhad mod é, i gcomhthéacs an chearrbhachais, tagraíonn comhad mod (gearr do chomhad modhnuithe) do chomhad nó do bhailiúchán comhaid a mhodhnaíonn cód, sócmhainní nó iompar cluiche. Cruthaíonn forbróirí cluiche nó modders tríú páirtí comhaid mod, agus is féidir leo gnéithe nua a chur leis, meicnic gameplay atá ann cheana féin a athrú, nó taithí iomlán an chluiche a fheabhsú. Is féidir go leor foirmeacha a bheith i gcomhaid mod, ag brath ar an gcluiche agus na huirlisí modding atá ar fáil. Mar shampla, i gcás Minecraft, is féidir comhaid mod a bheith i bhfoirm comhaid .jar, comhaid .zip, nó comhaid LITEMOD, ag brath ar an API modding a úsáidtear.
 
 ## Tagairtí
-* [Minecraft]( https://ga.wikipedia.org/wiki/Minecraft)
+* [Minecraft](https://ga.wikipedia.org/wiki/Minecraft)
 
 

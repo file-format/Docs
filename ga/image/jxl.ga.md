@@ -53,5 +53,5 @@ Is féidir comhaid JXL a thiontú go roinnt formáidí comhaid íomhá eile mar:
 
 ## Tagairtí
 
- * [JXL - Vicipéid]( https://ga.wikipedia.org/wiki/JPEG_XL)
+ * [JXL - Vicipéid](https://ga.wikipedia.org/wiki/JPEG_XL)
 

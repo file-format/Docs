@@ -47,8 +47,8 @@ Déantar comhaid SKP a shábháil ar diosca i bhformáid dhénártha dílseánai
 
 ## Tagairtí
 
-* [SketchUp]( https://www.sketchup.com/)
+* [SketchUp](https://www.sketchup.com/)
 
-* [API SketchUp C#]( https://github.com/moethu/SketchUpNET)
+* [API SketchUp C#](https://github.com/moethu/SketchUpNET)
 
 

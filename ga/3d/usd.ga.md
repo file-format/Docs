@@ -142,8 +142,8 @@ def Sphere "Planet" (
 ```
 ## Tagairtí ##
 
-* [Réamhrá ar USD]( https://openusd.org/release/intro.html)
+* [Réamhrá ar USD](https://openusd.org/release/intro.html)
 
-* [Tagairt API USD]( https://openusd.org/release/apiDocs.html)
+* [Tagairt API USD](https://openusd.org/release/apiDocs.html)
 
 

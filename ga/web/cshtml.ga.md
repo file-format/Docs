@@ -75,6 +75,6 @@ End Code
 
 ## Tagairtí
 
-* [Tagairt Comhréire Razor - Microsoft]( https://learn.microsoft.com/en-us/aspnet/core/mvc/views/razor?view=aspnetcore-5.0)
+* [Tagairt Comhréire Razor - Microsoft](https://learn.microsoft.com/en-us/aspnet/core/mvc/views/razor?view=aspnetcore-5.0)
 
 

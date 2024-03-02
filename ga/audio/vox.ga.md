@@ -57,6 +57,6 @@ Tá an comhad seo ionchódaithe le húsáid ADPCM. Gearrann sé na sonraí fuaim
 
 ## Tagairtí ##
 
-* [VOX - Le Vicipéid]( https://en.wikipedia.org/wiki/Dialogic_ADPCM)
+* [VOX - Le Vicipéid](https://en.wikipedia.org/wiki/Dialogic_ADPCM)
 
 

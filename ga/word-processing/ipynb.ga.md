@@ -55,6 +55,6 @@ Tá dhá mhodh ann chun comhaid IPYNB a fheiceáil nó a oscailt.
 ## Tagairtí ##
 
 * [Jupyter Notebook](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html?highlight=ipynb#notebook-documents)
-* [Leabhar Nótaí Iúpatair - Github]( https://github.com/jupyter/notebook)
+* [Leabhar Nótaí Iúpatair - Github](https://github.com/jupyter/notebook)
 
 

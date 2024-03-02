@@ -47,6 +47,6 @@ Version 3 expanded on this, making substantial use of the technology introduced 
 Baineadh úsáid go príomha as doiciméid WPD chun téacs ullmhaithe a phróiseáil. Mar thoradh air sin, cuimsíonn na comhaid sin smután téacs. Úsáidtear clibeanna chun faisnéis formáidithe a chuimsiú, a aithníonn WordPerfect mar chód. Déanann sé seo i bhfad níos éasca saincheisteanna formáidithe a aimsiú toisc go n-aibhsíonn an feidhmchlár réimsí den téacs agus nochtar an fhormáidiú a fuarthas le hoidhreacht. Is féidir le doiciméid WPD, cosúil le cineálacha comhaid próiseála focal ar nós [DOC](/word-processing/doc/), sonraí a ionchorprú ó fhoinsí éagsúla ar nós comhaid, bunachair shonraí, nó dearaí.
 ## Tagairtí ##
 
-* [WPD - Vicipéid]( https://ga.wikipedia.org/wiki/WordPerfect)
+* [WPD - Vicipéid](https://ga.wikipedia.org/wiki/WordPerfect)
 
 

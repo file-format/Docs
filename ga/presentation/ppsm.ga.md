@@ -97,7 +97,7 @@ agus comhaid xml a leanas:
 
 ## Tagairtí ##
 
-* [Formáid Chomhaid Láithreachais OpenXML]( https://msdn.microsoft.com/en-us/library/dd926741(v#office.12).aspx)
+* [Formáid Chomhaid Láithreachais OpenXML](https://msdn.microsoft.com/en-us/library/dd926741(v#office.12).aspx)
 
 * [Oifig Oscailte XML](http://officeopenxml.com/anatomyofOOXML-pptx.php)
 

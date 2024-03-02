@@ -190,8 +190,8 @@ Is féidir le bríonna éagsúla a bheith ag faisnéis atá in aon chomhad Geosp
 
 * [Tagairt KML] ( https://developers.google.com/kml/documentation/kmlreference )
 
-* [Teagasc Forbróra Google le haghaidh KML]( https://developers.google.com/kml/documentation/kml_tut)
+* [Teagasc Forbróra Google le haghaidh KML](https://developers.google.com/kml/documentation/kml_tut)
 
-* [Formáid Chomhaid KML]( https://en.wikipedia.org/wiki/Keyhole_Markup_Language)
+* [Formáid Chomhaid KML](https://en.wikipedia.org/wiki/Keyhole_Markup_Language)
 
 

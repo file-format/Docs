@@ -66,7 +66,7 @@ Is féidir le **cdbdump** a bhfuil i mbunachar sonraí a phriontáil i bhformái
 
 ## Tagairtí ##
 
-* [cdb (bogearraí) - Vicipéid]( https://ga.wikipedia.org/wiki/Cdb_(software))
+* [cdb (bogearraí) - Vicipéid](https://ga.wikipedia.org/wiki/Cdb_(software))
 
 * [sonraíocht CDB](http://cr.yp.to/cdb.html)
 

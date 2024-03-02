@@ -23,5 +23,5 @@ Is comhad téacs é comhad ML a cruthaíodh leis an teanga ríomhchláraithe fei
 
 ## Tagairtí
 
- * [ML Teanga Ríomhchlárúcháin - Le Vicipéid]( https://en.wikipedia.org/wiki/ML_(programming_language))
+ * [ML Teanga Ríomhchlárúcháin - Le Vicipéid](https://en.wikipedia.org/wiki/ML_(programming_language))
 

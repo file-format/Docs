@@ -27,5 +27,5 @@ Is formáid comhaid dílseánaigh é BNDL a úsáideann an cluiche Need for Spee
 
 ## Tagairtí
 
-  * [Ealaíona Leictreonacha]( https://www.ea.com/)
+  * [Ealaíona Leictreonacha](https://www.ea.com/)
 

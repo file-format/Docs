@@ -68,6 +68,6 @@ Laistigh de na fo-eolaire seo, aimseoidh tú comhad socruithe JET amháin nó n�
 - [JET - Microsoft JET Database File](/database/jet/)
 
 ## Tagairtí
-* [Paca Cóisir an Bhosca Jack]( https://en.wikipedia.org/wiki/The_Jackbox_Party_Pack)
+* [Paca Cóisir an Bhosca Jack](https://en.wikipedia.org/wiki/The_Jackbox_Party_Pack)
 
 

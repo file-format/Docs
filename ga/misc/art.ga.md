@@ -37,7 +37,7 @@ Tá an fhaisnéis seo a leanas i bhformáid comhaid ART:
 
 ## Tagairtí
 
-* [BERNINA]( https://www.bernina.com/en-US/Home-United-States)
+* [BERNINA](https://www.bernina.com/en-US/Home-United-States)
 
 * [Bogearraí Bróidnéireachta BERNINA V8: faoi fhormáidí, síntí agus comhaid](https://blog.bernina.com/ga/2019/07/lesson-14-bernina-embroidery-software-v8/)
 

@@ -56,6 +56,6 @@ Is féidir leat Adobe Photoshop a úsáid ag baint úsáide as breiseán **Adobe
 Is formáid dhénártha í formáid comhaid BAY.
 
 ## Tagairtí
-* [Formáid íomhá amh]( https://en.wikipedia.org/wiki/Raw_image_format )
+* [Formáid íomhá amh](https://en.wikipedia.org/wiki/Raw_image_format )
 
 

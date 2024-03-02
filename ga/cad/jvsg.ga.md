@@ -30,5 +30,5 @@ Is féidir líonraí ceamaraí slándála gnólachtaí éagsúla a dteastaíonn 
 
 ## Tagairtí ##
 
- * [Bogearraí Dearaidh CCTV]( https://www.jvsg.com/collection-of-3d-models-security/)
+ * [Bogearraí Dearaidh CCTV](https://www.jvsg.com/collection-of-3d-models-security/)
 

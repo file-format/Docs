@@ -27,8 +27,8 @@ Déantar comhaid VIMRC a shábháil mar chomhaid gnáth-théacs agus is féidir 
 
 ## Tagairtí
 
-* [Treoir VIMRC]( https://gist.github.com/simonista/8703722)
+* [Treoir VIMRC](https://gist.github.com/simonista/8703722)
 
-* [VIMRC]( https://github.com/amix/vimrc)
+* [VIMRC](https://github.com/amix/vimrc)
 
 

@@ -101,6 +101,6 @@ END:VCARD
 
 ## Tagairtí
 
-* [VCF - Le Vicipéid]( https://ga.wikipedia.org/wiki/VCard)
+* [VCF - Le Vicipéid](https://ga.wikipedia.org/wiki/VCard)
 
 

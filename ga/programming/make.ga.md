@@ -39,6 +39,6 @@ hello world
 ```
 
 ## Tagairtí
- * [XCode and Make - Fóraim Apple]( https://developer.apple.com/forums/thread/657458)
- * [Treoir Cuspóir-C]( https://blog.teamtreehouse.com/beginners-guide-objective-c-classes-objects)
+ * [XCode and Make - Fóraim Apple](https://developer.apple.com/forums/thread/657458)
+ * [Treoir Cuspóir-C](https://blog.teamtreehouse.com/beginners-guide-objective-c-classes-objects)
 

@@ -43,6 +43,6 @@ Tá comhaid OPDOWNLOAD mórán cosúil le comhaid .CRDOWNLOAD a úsáideann Goog
 Is gnách gur comhad íoslódála neamhiomlán é comhad OPDOWNLOAD cruthaithe ag brabhsálaí gréasáin Opera. Nuair a íoslódálann tú comhad in Opera, cruthaíonn sé comhad OPDOWNLOAD agus nuair a bhíonn an íoslódáil críochnaithe, athainmníonn sé an comhad chuig a bhunfhormáid. Mar sin, ní féidir comhad OPDOWNLOAD a thiontú go MP4 nó ZIP, toisc nach formáid comhaid bhailí é. Ní mór duit fanacht go dtí go mbeidh an íoslódáil críochnaithe agus go n-athainmnítear an comhad go dtí an fhormáid bhunaidh sular féidir leat é a thiontú go MP4 nó ZIP. Mura bhfuil tú in ann an íoslódáil a chríochnú nó má tá an comhad truaillithe, seans go mbeidh ort an íoslódáil a atosú nó iarracht a dhéanamh an comhad a íoslódáil ó fhoinse eile.
 
 ## Tagairtí
-* [Opera (brabhsálaí gréasáin)]( https://en.wikipedia.org/wiki/Opera_(web_browser))
+* [Opera (brabhsálaí gréasáin)](https://en.wikipedia.org/wiki/Opera_(web_browser))
 
 

@@ -54,5 +54,5 @@ bundletool build-apks --bundle=/MyApp/my_app.aab --output=/MyApp/my_app.apks
 
 ## Tagairtí
 
- * [bundletool - líne na n-orduithe]( https://developer.android.com/tools/bundletool)
+ * [bundletool - líne na n-orduithe](https://developer.android.com/tools/bundletool)
 

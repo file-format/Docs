@@ -54,6 +54,6 @@ Chun comhad EC3 a oscailt, beidh seinnteoir meáin nó bogearraí eagarthóireac
 3. Díchódóir Dolby Digital Plus: Má tá díchódóir Dolby Digital Plus suiteáilte ar do ríomhaire, is féidir leat é a úsáid chun an comhad EC3 a dhíchódú agus é a thiontú go formáid fuaime níos coitianta, mar WAV nó MP3.
 
 ## Tagairtí
-* [Dolby Digital Plus]( https://en.wikipedia.org/wiki/Dolby_Digital_Plus)
+* [Dolby Digital Plus](https://en.wikipedia.org/wiki/Dolby_Digital_Plus)
 
 

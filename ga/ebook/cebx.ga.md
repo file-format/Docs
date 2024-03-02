@@ -33,6 +33,6 @@ Tugtar **Comhaid ríomhleabhar Apabi** ar na comhaid leis an síneadh .cebx (rí
 
 ## Tagairtí
 
-*[Comparáid idir formáidí ríomhleabhar - de réir Vicipéid]( https://en.wikipedia.org/wiki/Comparison_of_e-book_formats)
+*[Comparáid idir formáidí ríomhleabhar - de réir Vicipéid](https://en.wikipedia.org/wiki/Comparison_of_e-book_formats)
 
 

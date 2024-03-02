@@ -74,6 +74,6 @@ Tacaíonn SWF 9 le cineál amháin slánuimhir ionchódaithe agus níos déanaí
 
 ## Tagairtí
 
-* [formáid comhaid SWF]( https://en.wikipedia.org/wiki/Swf)
+* [formáid comhaid SWF](https://en.wikipedia.org/wiki/Swf)
 
 

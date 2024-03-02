@@ -54,6 +54,6 @@ Chun an comhad SXC a oscailt, tá gá le clár cuí a bheith bainteach leis an g
 
 ## Tagairtí ##
 
-* [StarOffice - Le Vicipéid]( https://ga.wikipedia.org/wiki/StarOffice)
+* [StarOffice - Le Vicipéid](https://ga.wikipedia.org/wiki/StarOffice)
 
 

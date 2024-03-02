@@ -52,6 +52,6 @@ Próiseálann léitheoirí an comhad comics.txt agus gineann siad clár na n-áb
 
 ## Tagairtí
 
-* [Calibre]( https://calibre-ebook.com/)
+* [Calibre](https://calibre-ebook.com/)
 
 

@@ -35,5 +35,5 @@ Foilsítear comhaid APPXBUNDLE i bhformáid ZIP. Más mian leat a bhfuil sa phac
 ## Tagairtí
 
  * [Dependency packages for .appx and .appxbundle packages](https://www.ibm.com/docs/en/maas360?topic=catalog-dependency-packages-appx-appxbundle-packages)
- * [Cruthaigh comhaid APPX ag baint úsáide as Microsoft Visual Studio]( https://learn.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
+ * [Cruthaigh comhaid APPX ag baint úsáide as Microsoft Visual Studio](https://learn.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
 

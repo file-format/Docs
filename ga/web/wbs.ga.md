@@ -23,6 +23,6 @@ Is comhad tionscadail é comhad WBS a chruthaigh WebBlender ar clár cur i láth
 
 ## Tagairtí
 
-* [Tech4Learning]( https://www.tech4learning.com/)
+* [Tech4Learning](https://www.tech4learning.com/)
 
 

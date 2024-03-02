@@ -46,8 +46,8 @@ Is féidir doiciméid LEATHANACH Apple a thiontú go formáidí comhaid éagsúl
 
 ## Tagairtí
 
-* [Tiontaigh Doiciméid Leathanaigh]( https://support.apple.com/en-us/HT202227)
+* [Tiontaigh Doiciméid Leathanaigh](https://support.apple.com/en-us/HT202227)
 
-* [Leathanaigh Apple - Vicipéid]( https://ga.wikipedia.org/wiki/Pages_(word_processor))
+* [Leathanaigh Apple - Vicipéid](https://ga.wikipedia.org/wiki/Pages_(word_processor))
 
 

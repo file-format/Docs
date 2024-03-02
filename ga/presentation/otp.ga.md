@@ -46,6 +46,6 @@ Tá an fhormáid comhaid OTP bunaithe ar an gcaighdeán OpenDocument a thacaíon
 
 ## Tagairtí
 
-* [OpenDocument - Le Vicipéid]( https://en.wikipedia.org/wiki/OpenDocument)
+* [OpenDocument - Le Vicipéid](https://en.wikipedia.org/wiki/OpenDocument)
 
 

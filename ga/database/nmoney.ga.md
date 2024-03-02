@@ -41,6 +41,6 @@ Déantar comhaid Denaro a shábháil ar diosca i bhformáid dhénártha comhaid.
 
 ## Tagairtí
 
- * [Nickvision]( https://nickvision.org/)
- * [NIckVision - Github]( https://github.com/NickvisionApps/Denaro)
+ * [Nickvision](https://nickvision.org/)
+ * [NIckVision - Github](https://github.com/NickvisionApps/Denaro)
 

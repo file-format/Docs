@@ -35,7 +35,7 @@ Is formáid comhaid íomhá raster é comhad **PNG** (Grafaic Líonra Inaistrith
 
 The main reason behind the creation of PNG file format was the patented compression algorithm, Lempel-Ziv-Welch, used in the GIF file format. This along with other GIF limitations created a need for replacement of [**GIF**](/image/gif/) file format. The first proposal and name for PNG file format came in January 1995. Tá príomhimeachtaí maidir le formáidí comhaid PNG liostaithe thíos:
 
-* Deireadh Fómhair 1996: Sonraíochtaí PNG Eisíodh Leagan 1.0 agus foilsíodh é ina dhiaidh sin mar [RFC]( https://en.wikipedia.org/wiki/Request_for_Comments) 2083. Rinneadh Moladh W3C mar an gcéanna i mí Dheireadh Fómhair 1996.
+* Deireadh Fómhair 1996: Sonraíochtaí PNG Eisíodh Leagan 1.0 agus foilsíodh é ina dhiaidh sin mar [RFC](https://en.wikipedia.org/wiki/Request_for_Comments) 2083. Rinneadh Moladh W3C mar an gcéanna i mí Dheireadh Fómhair 1996.
 
 * Nollaig 1998: Eisíodh Leagan 1.1, le roinnt athruithe beaga agus trí smután nua leis.
 

@@ -55,8 +55,8 @@ $ head -c 200 animated-sticker
 ```
 ## Tagairtí ##
 
-* [TGS]( https://core.telegram.org/stickers#animated-stickers)
+* [TGS](https://core.telegram.org/stickers#animated-stickers)
 
-* [gzip - Vicipéid]( https://ga.wikipedia.org/wiki/Gzip)
+* [gzip - Vicipéid](https://ga.wikipedia.org/wiki/Gzip)
 
 

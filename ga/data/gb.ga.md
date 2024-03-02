@@ -48,6 +48,6 @@ Is féidir comhad GB a bhaineann le formáid comhaid GenBank a oscailt agus taga
 - **Baser DNA Heracle BioSoft** (Triail In Aisce) le haghaidh Windows
 
 ## Tagairtí
-* [DNA Baser]( https://www.dnabaser.com/)
+* [DNA Baser](https://www.dnabaser.com/)
 
 

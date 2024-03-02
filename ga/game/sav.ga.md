@@ -30,6 +30,6 @@ Déantar comhaid SAVE Nintendo DS a shábháil ar diosca i bhformáid dhénárth
 
 * [DeSmuME](http://desmume.org/)
 
-* [NO$GBA]( https://www.nogba.com/)
+* [NO$GBA](https://www.nogba.com/)
 
 

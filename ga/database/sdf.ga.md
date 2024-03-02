@@ -38,7 +38,7 @@ Tá an coinbhinsiún ainmnithe .sdf roghnach, agus is féidir aon síneadh a ús
 
 ## Tagairtí
 
- * [Dlúth Freastalaí SQL - Vicipéid]( https://en.wikipedia.org/wiki/SQL_Server_Compact)
+ * [Dlúth Freastalaí SQL - Vicipéid](https://en.wikipedia.org/wiki/SQL_Server_Compact)
  * [Ag baint úsáide as SQL Server Compact le haghaidh Feidhmchláir Ghréasáin ASP.NET](https://learn.microsoft.com/en-us/previous-versions/aspnet/ms247257(v=vs.110))
 
 

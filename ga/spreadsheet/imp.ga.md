@@ -35,6 +35,6 @@ Stóráiltear comhaid IMP ar dhiosca mar chomhaid dhénártha agus níl a bhform
 
 ## Tagairtí ##
 
-* [Lotus Improv - Le Vicipéid]( https://en.wikipedia.org/wiki/Lotus_Improv)
+* [Lotus Improv - Le Vicipéid](https://en.wikipedia.org/wiki/Lotus_Improv)
 
 

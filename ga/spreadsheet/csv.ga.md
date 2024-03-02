@@ -39,7 +39,7 @@ Seo a leanas roinnt fíricí gasta faoi bhunús agus stair fhormáid comhaid CSV
 * 1978 - Thacaigh FORTRAN 77 le hionchur/aschur liosta-treoraithe a d’úsáid camóga agus spásanna le haghaidh teorannóirí
 
 
-* 2005 - Rinneadh CSV a chaighdeánú le [RFC4180]( https://tools.ietf.org/html/rfc4180 ) mar Chineál Ábhar MIME.
+* 2005 - Rinneadh CSV a chaighdeánú le [RFC4180](https://tools.ietf.org/html/rfc4180 ) mar Chineál Ábhar MIME.
 
 
 * 2013 - Láimhseáil moladh W3C easnaimh RFC4180
@@ -89,10 +89,10 @@ Mar sin féin, i bhfianaise na húsáide nua-aimseartha, níl an teorannóir teo
 
 ## Tagairtí
 
-* [RFC 4180]( https://tools.ietf.org/html/rfc4180)
+* [RFC 4180](https://tools.ietf.org/html/rfc4180)
 
-* [RFC 2048]( https://tools.ietf.org/html/rfc2048)
+* [RFC 2048](https://tools.ietf.org/html/rfc2048)
 
-* [CSV - Vicipéid]( https://en.wikipedia.org/wiki/Comma-separated_values )
+* [CSV - Vicipéid](https://en.wikipedia.org/wiki/Comma-separated_values )
 
 

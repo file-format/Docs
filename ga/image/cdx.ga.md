@@ -45,6 +45,6 @@ Seo cineálacha comhaid eile a úsáideann an síneadh comhad **.cdx**.
 - [CDX - Alpha Five Table Index File](/programming/cdx/)
 
 ## Tagairtí
-* [CorelDRAW]( https://en.wikipedia.org/wiki/CorelDRAW)
+* [CorelDRAW](https://en.wikipedia.org/wiki/CorelDRAW)
 
 

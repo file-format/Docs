@@ -45,6 +45,6 @@ De ghnáth is grafach neamhspleách í íomhá sprite a léiríonn fráma amhái
 Stóráiltear sprites go hiondúil mar chomhaid íomhá ar leith cosúil le PNG, JPEG nó GIF agus is minic a eagraítear iad i leatháin sprite, ar íomhánna aonair iad ina bhfuil frámaí sprite iolracha eagraithe i ngreille. Cuidíonn na bileoga sprite seo le húsáid chuimhne a bharrfheabhsú agus éascaíonn siad rindreáil éifeachtach sprites iolracha ag an am céanna.
 
 ## Tagairtí
-* [Sprite (grafaicí ríomhaireachta)]( https://en.wikipedia.org/wiki/Sprite_(computer_graphics))
+* [Sprite (grafaicí ríomhaireachta)](https://en.wikipedia.org/wiki/Sprite_(computer_graphics))
 
 

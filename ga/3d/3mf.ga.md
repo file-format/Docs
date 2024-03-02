@@ -83,8 +83,8 @@ Tugann na rannáin [Parts and Relationships](https://github.com/3MFConsortium/sp
 
 ## Tagairtí ##
 
-* [Sonraíochtaí Formáid Chomhaid 3MF]( https://github.com/3MFConsortium/spec_core)
+* [Sonraíochtaí Formáid Chomhaid 3MF](https://github.com/3MFConsortium/spec_core)
 
-* [3MF - Le Vicipéid]( https://en.wikipedia.org/wiki/3D_Manufacturing_Format)
+* [3MF - Le Vicipéid](https://en.wikipedia.org/wiki/3D_Manufacturing_Format)
 
 

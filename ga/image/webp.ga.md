@@ -101,8 +101,8 @@ Sa chomhad WebP, sa chás seo, tá:
 
 ## Tagairtí ##
 
-* [Tagairt Fhorbróra WebP - Le Google]( https://developers.google.com/speed/webp/)
+* [Tagairt Fhorbróra WebP - Le Google](https://developers.google.com/speed/webp/)
 
-* [Formáid Chomhaid WebP - Le Vicipéid]( https://en.wikipedia.org/wiki/WebP)
+* [Formáid Chomhaid WebP - Le Vicipéid](https://en.wikipedia.org/wiki/WebP)
 
 

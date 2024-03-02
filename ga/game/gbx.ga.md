@@ -37,7 +37,7 @@ Is formáid comhaid ildánach agus éifeachtach é formáid comhaid GBX a bhí i
 
 ## Tagairtí
 
-* [Formáid comhaid GAM]( https://gibberlings3.github.io/iesdp/file_formats/ie_formats/gam_v2.0.htm#GAMEV2_0_Stored)
+* [Formáid comhaid GAM](https://gibberlings3.github.io/iesdp/file_formats/ie_formats/gam_v2.0.htm#GAMEV2_0_Stored)
 
 * [Formáid Comhaid SAV](/game/sav/)
 

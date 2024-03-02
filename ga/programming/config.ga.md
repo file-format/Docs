@@ -109,5 +109,5 @@ use_anonymous = True
 
  * [Comhaid cumraíochta Linux a thuiscint](https://developer.ibm.com/technologies/linux/articles/l-config/)
  * [Configuration and credential file settings](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-files.html)
- * [Comhaid cumraíochta i Python]( https://martin-thoma.com/configuration-files-in-python/)
+ * [Comhaid cumraíochta i Python](https://martin-thoma.com/configuration-files-in-python/)
 

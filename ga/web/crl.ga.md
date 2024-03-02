@@ -39,10 +39,10 @@ D’fhéadfadh go mbeadh roinnt cúiseanna ann le deimhniú do shuíomh Gréasá
 
 ## Tagairtí
 
-* [An Institiúid Náisiúnta um Chaighdeáin agus Teicneolaíocht (NIST)]( https://csrc.nist.gov/glossary/term/CRL)
+* [An Institiúid Náisiúnta um Chaighdeáin agus Teicneolaíocht (NIST)](https://csrc.nist.gov/glossary/term/CRL)
 
-* [Tascfhórsa Innealtóireachta Idirlín (IETF) RFC 5280]( https://tools.ietf.org/html/rfc5280)
+* [Tascfhórsa Innealtóireachta Idirlín (IETF) RFC 5280](https://tools.ietf.org/html/rfc5280)
 
-* [Liosta Cúlghairme Deimhnithe]( https://en.wikipedia.org/wiki/Certificate_revocation_list)
+* [Liosta Cúlghairme Deimhnithe](https://en.wikipedia.org/wiki/Certificate_revocation_list)
 
 

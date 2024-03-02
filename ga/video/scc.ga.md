@@ -51,6 +51,6 @@ Seo thíos na cláir a osclaíonn nó a thagraíonn comhaid SCC
 - Telestream ScreenFlow
 
 ## Tagairtí
-* [ScreenFlow]( https://en.wikipedia.org/wiki/ScreenFlow)
+* [ScreenFlow](https://en.wikipedia.org/wiki/ScreenFlow)
 
 

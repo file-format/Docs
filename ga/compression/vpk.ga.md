@@ -45,12 +45,12 @@ vpk x <vpkfile> <filename1> <filename2> ...
 
 ## Amharcóir VPK
 
- * [Amharcóir VRF VPK]( https://github.com/SteamDatabase/ValveResourceFormat)
+ * [Amharcóir VRF VPK](https://github.com/SteamDatabase/ValveResourceFormat)
 
 ## Tagairtí
 
 * [Formáid Comhaid VPK](https://developer.valvesoftware.com/wiki/VPK_File_Format)
 
-* [Comhaid VPK]( https://developer.valvesoftware.com/wiki/VPK)
+* [Comhaid VPK](https://developer.valvesoftware.com/wiki/VPK)
 
 

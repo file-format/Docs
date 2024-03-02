@@ -113,5 +113,5 @@ Is ionann na 26 beart deiridh den chomhad agus an buntásc, rud a chiallaíonn m
 ## Tagairtí
 
  * [TGA 2.0 File Format Specifications](https://products.conholdate.app/viewer/view/rVqTeZPLAL/tga-file-format-specifications.pdf?default=view&preview = true.pdf)
- * [TGA le Vicipéid]( https://ga.wikipedia.org/wiki/Truevision_TGA)
+ * [TGA le Vicipéid](https://ga.wikipedia.org/wiki/Truevision_TGA)
 

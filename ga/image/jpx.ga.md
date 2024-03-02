@@ -56,6 +56,6 @@ Ceadaíonn formáid comhaid JPX an sruth cód íomhá a roinnt ina blúirí. Mar
 
 ## Tagairtí ##
 
-* [Forbhreathnú ar JPEG 2000]( https://jpeg.org/jpeg2000/)
+* [Forbhreathnú ar JPEG 2000](https://jpeg.org/jpeg2000/)
 
 

@@ -61,6 +61,6 @@ Is síneadh é an fhormáid .xip ar an bhformáid chaighdeánach comhaid ZIP, le
 Mar sin féin, murab ionann agus comhad .zip rialta, cuimsíonn an fhormáid .xip síniú digiteach a sholáthraíonn fíorú sláine agus barántúlacht. Cinntíonn an síniú seo nár cuireadh isteach ar a bhfuil sa chomhad .xip agus gur ó fhoinse iontaofa iad.
 
 ## Tagairtí
-* [Formáid Comhaid XIP]( https://en.wikipedia.org/wiki/.XIP)
+* [Formáid Comhaid XIP](https://en.wikipedia.org/wiki/.XIP)
 
 

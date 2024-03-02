@@ -64,5 +64,5 @@ Is féidir leat comhad .milk a oscailt le [projectM](https://github.com/projectM
 
 ## Tagairtí
 
- * [projectM]( https://github.com/projectM-visualizer/projectm)
+ * [projectM](https://github.com/projectM-visualizer/projectm)
 

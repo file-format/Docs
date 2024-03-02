@@ -29,6 +29,6 @@ Is féidir comhaid SSP a easpórtáil go formáid comhaid [SCR](/system/scr/).
 
 ## Tagairtí
 
-* [Axialis Software SSP]( https://www.axialis.com/ssp/)
+* [Axialis Software SSP](https://www.axialis.com/ssp/)
 
 

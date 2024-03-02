@@ -80,8 +80,8 @@ Go dtí seo, tá JT Open Toolkit (mar chaighdeán) agus comhbhrú chun cinn dhá
 
 ## Tagairtí ##
 
-* [Tagairt Formáid Comhaid JT]( https://www.plm.automation.siemens.com/en_us/Images/JT-v10-file-format-reference-rev-B_tcm1023-233786.pdf)
+* [Tagairt Formáid Comhaid JT](https://www.plm.automation.siemens.com/en_us/Images/JT-v10-file-format-reference-rev-B_tcm1023-233786.pdf)
 
-* [JT (formáid léirshamhlaithe)]( https://en.wikipedia.org/wiki/JT_(visualization_format)#Data_model)
+* [JT (formáid léirshamhlaithe)](https://en.wikipedia.org/wiki/JT_(visualization_format)#Data_model)
 
 

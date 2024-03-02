@@ -55,6 +55,6 @@ PS(.ps) is the file extension for a PostScript document. UK National Archives ca
 
 ## Tagairtí ##
 
-* [Teaghlach Formáid PostScript]( https://www.loc.gov/preservation/digital/formats/fdd/fdd000029.shtml)
+* [Teaghlach Formáid PostScript](https://www.loc.gov/preservation/digital/formats/fdd/fdd000029.shtml)
 
 

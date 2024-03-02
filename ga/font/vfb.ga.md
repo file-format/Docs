@@ -38,6 +38,6 @@ Is féidir leat a thiontú:
 
 ## **Tagairtí**
 
- * [Próiseáil]( https://processing.org/)
- * [Próiseáil Ar github]( https://github.com/processing)
+ * [Próiseáil](https://processing.org/)
+ * [Próiseáil Ar github](https://github.com/processing)
 

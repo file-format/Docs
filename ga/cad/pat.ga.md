@@ -58,5 +58,5 @@ Seo a leanas sampla eile a léiríonn patrún comhthreomharáin.
 ```
 ## Tagairtí ##
 
- * [Patrúin Hash le Autodesk]( https://help.autodesk.com/view/ACDLT/2018/ENU/?guid=GUID-A6F2E6FF-1717-44B6-A476-0CA817ADD77E)
+ * [Patrúin Hash le Autodesk](https://help.autodesk.com/view/ACDLT/2018/ENU/?guid=GUID-A6F2E6FF-1717-44B6-A476-0CA817ADD77E)
 

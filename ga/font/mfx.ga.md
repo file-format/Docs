@@ -35,6 +35,6 @@ Is cluiche ríomhaireachta insamhalta é SimCity 4 chun ionsamhlúcháin tógál
 
 ## Tagairtí
 
- * [SimCity 4 - Le Vicipéid]( https://en.wikipedia.org/wiki/SimCity_4)
- * [EA SimCity-4]( https://www.ea.com/games/simcity/simcity-4)
+ * [SimCity 4 - Le Vicipéid](https://en.wikipedia.org/wiki/SimCity_4)
+ * [EA SimCity-4](https://www.ea.com/games/simcity/simcity-4)
 

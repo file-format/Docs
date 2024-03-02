@@ -29,6 +29,6 @@ Déantar comhaid ASC a shábháil mar chomhaid téacs ar féidir iad a oscailt a
 ## Tagairt ##
 
 * [.swf file format](/page-description-language/swf/)
-* [Ionchódóir Meán Adobe]( https://www.adobe.com/products/media-encoder.html)
+* [Ionchódóir Meán Adobe](https://www.adobe.com/products/media-encoder.html)
 
 

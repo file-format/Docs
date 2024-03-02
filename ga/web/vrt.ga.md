@@ -27,5 +27,5 @@ Stóráiltear comhaid CCF i bhformáid comhaid dílseánaigh Viscape agus níl a
 
 ## Tagairtí
 
- * [Viscape 360]( https://www.viscape360.com/)
+ * [Viscape 360](https://www.viscape360.com/)
 

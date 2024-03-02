@@ -78,6 +78,6 @@ Tá ceanntásc fráma VP6 mar a thaispeántar thíos a leanann an pacáil giotá
 
 ## Tagairtí
 
-* [VP6 Vicipéid]( https://en.wikipedia.org/wiki/VP6#:~:text=On2%20TrueMotion%20VP6%20is%20a,Video%2C%20and%20JavaFX%20media%20files.)
+* [VP6 Vicipéid](https://en.wikipedia.org/wiki/VP6#:~:text=On2%20TrueMotion%20VP6%20is%20a,Video%2C%20and%20JavaFX%20media%20files.)
 
 

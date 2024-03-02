@@ -80,6 +80,6 @@ Ceadaíonn comhad OBJ faisnéis datha agus uigeachta a stóráil i bhformáid co
 
 ## Tagairtí
 
-* [Comhad Wavefront .obj]( https://en.wikipedia.org/wiki/Wavefront_.obj_file)
+* [Comhad Wavefront .obj](https://en.wikipedia.org/wiki/Wavefront_.obj_file)
 
 

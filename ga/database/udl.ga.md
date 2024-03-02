@@ -55,7 +55,7 @@ Is féidir na hairíonna seo a leanas a shocrú i UDL chun an nascacht cheart a 
 
 ## Tagairtí ##
 
-* [Comhpháirteanna Microsoft Rochtana Sonraí]( https://en.wikipedia.org/wiki/Microsoft_Data_Access_Components#Universal_data_link)
+* [Comhpháirteanna Microsoft Rochtana Sonraí](https://en.wikipedia.org/wiki/Microsoft_Data_Access_Components#Universal_data_link)
 
 * [Cumraíocht Nasc Sonraí Uilíoch (UDL)](https://learn.microsoft.com/en-us/sql/connect/oledb/help-topics/data-link-pages?view=sql-server-ver15)
 

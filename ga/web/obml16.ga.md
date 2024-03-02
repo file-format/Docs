@@ -27,6 +27,6 @@ Tá OBML16 bunaithe ar fhormáid comhaid OBML ar formáid dhlúth é chun leatha
 
 ## Tagairtí
 
-* [Formáid OMBL]( https://github.com/grawity/obml-parser/blob/master/obml.md)
+* [Formáid OMBL](https://github.com/grawity/obml-parser/blob/master/obml.md)
 
 

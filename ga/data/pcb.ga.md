@@ -38,6 +38,6 @@ Is féidir comhaid PCB a oscailt ag baint úsáide as na cláir seo a leanas
 - **KiCad**
 
 ## Tagairtí
-* [KiCad]( https://ga.wikipedia.org/wiki/KiCad)
+* [KiCad](https://ga.wikipedia.org/wiki/KiCad)
 
 

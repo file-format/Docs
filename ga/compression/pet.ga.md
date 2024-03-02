@@ -27,6 +27,6 @@ Déantar comhaid PET a shábháil ar dhiosca mar chartlanna comhbhrúite i bhfor
 
 ## Tagairtí
 
- * [PuppyLinux]( https://en.wikipedia.org/wiki/Puppy_Linux)
+ * [PuppyLinux](https://en.wikipedia.org/wiki/Puppy_Linux)
  * [Innéacs na bpacáistí PuppyLinux PET](https://distro.ibiblio.org/puppylinux/pet-packages-lucid/)
 

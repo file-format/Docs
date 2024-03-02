@@ -29,6 +29,6 @@ Stóráiltear comhaid LAN ar diosca i bhformáid dhénártha comhaid agus níl s
 
 ## Tagairtí
 
-* [LAN – Erdas 7.x .LAN agus .GIS]( https://gdal.org/drivers/raster/lan.html)
+* [LAN – Erdas 7.x .LAN agus .GIS](https://gdal.org/drivers/raster/lan.html)
 
 

@@ -90,5 +90,5 @@ Sa sampla thuas,
 
 ## Tagairtí
 
- * [Script Dúshlán Tairseach]( https://developer.valvesoftware.com/wiki/Portal_Challenge_Script)
+ * [Script Dúshlán Tairseach](https://developer.valvesoftware.com/wiki/Portal_Challenge_Script)
 

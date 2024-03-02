@@ -43,6 +43,6 @@ Le PowerDesigner, is féidir le húsáideoirí léiriúcháin amhairc dá samhla
 Is minic a úsáidtear PowerDesigner i dtionscail amhail airgeadas, déantúsaíocht agus rialtas áit ar gá córais agus próisis chasta a mhúnlú agus a bhainistiú. Tá na bogearraí ar fáil i leaganacha ar an áitreabh agus néal-bhunaithe, agus is féidir iad a úsáid le héagsúlacht bunachar sonraí agus córais eile.
 
 ## Tagairtí
-* [PowerDesigner]( https://en.wikipedia.org/wiki/PowerDesigner)
+* [PowerDesigner](https://en.wikipedia.org/wiki/PowerDesigner)
 
 

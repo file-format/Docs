@@ -74,7 +74,7 @@ Cuireadh an réad ASPError i bhfeidhm in ASP 3.0 agus tá sé ar fáil in IIS5 a
 
 ## Tagairtí
 
-* [ASP - Le W3C]( https://www.w3schools.com/asp/default.asp)
+* [ASP - Le W3C](https://www.w3schools.com/asp/default.asp)
 
 * [Ag Cruthú Leathanaigh ASP Simplí](https://learn.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
 

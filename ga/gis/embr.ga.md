@@ -29,7 +29,7 @@ Is comhaid téacs iad comhaid EMBR a stórálann sonraí staidrimh de phointe so
 
 ## Tagairtí
 
-* [Google Earth don Ghréasán]( https://earth.google.com/web/)
+* [Google Earth don Ghréasán](https://earth.google.com/web/)
 
 * [gpx](/gis/gpx/), [geojson](/gis/geojson/), [kml](/gis/kml/), agus [kmz](/gis/kmz/)
 

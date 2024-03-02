@@ -35,8 +35,8 @@ Stóráiltear comhaid AWS go diosca mar chomhaid dhénártha. Mar sin féin, ní
 
 ## Tagairtí ##
 
-* [Oifig Cumais - Vicipéid]( https://en.wikipedia.org/wiki/Ability_Office )
+* [Oifig Cumais - Vicipéid](https://en.wikipedia.org/wiki/Ability_Office )
 
-* [Oifig Cumais]( https://www.ability.com/en/home/home)
+* [Oifig Cumais](https://www.ability.com/en/home/home)
 
 

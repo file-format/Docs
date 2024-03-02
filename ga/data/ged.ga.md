@@ -73,6 +73,6 @@ Nuair a bheidh do bhogearraí ginealais roghnaithe agat, lorg rogha cosúil le I
 - Aon eagarthóir téacs
 
 ## Tagairtí
-* [GEDCOM]( https://ga.wikipedia.org/wiki/GEDCOM)
+* [GEDCOM](https://ga.wikipedia.org/wiki/GEDCOM)
 
 

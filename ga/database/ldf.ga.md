@@ -48,6 +48,6 @@ The LDF file consists of SQL Server transaction records that are arranged as str
  
 ## Tagairtí
 
- * [Comhaid Bunachar Sonraí agus Grúpaí Comhad]( https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?view=sql-server-ver15)
- * [Treoir Ailtireachta agus Bainistíochta Loga Idirbheart]( https://learn.microsoft.com/en-us/sql/relational-databases/sql-server-transaction-log-architecture-and-management-guide?view=sql-server -ver15)
+ * [Comhaid Bunachar Sonraí agus Grúpaí Comhad](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?view=sql-server-ver15)
+ * [Treoir Ailtireachta agus Bainistíochta Loga Idirbheart](https://learn.microsoft.com/en-us/sql/relational-databases/sql-server-transaction-log-architecture-and-management-guide?view=sql-server -ver15)
 

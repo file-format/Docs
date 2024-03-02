@@ -54,6 +54,6 @@ Stórálann comhad cumaisc an fhaisnéis go léir a bhaineann le radharc 3D, ag 
 Is féidir leat comhad BLEND a oscailt trí chumascóir a sheoladh agus ansin cliceáil ar an roghchlár Comhad agus roghnaigh Oscail ón roghchlár anuas. Nó, is féidir leat an comhad cumaisc a tharraingt agus a scaoileadh isteach i mbogearraí Cumascóra agus osclóidh sé an comhad cumaisc.
 
 ## Tagairtí
-* [Blender (bogearraí)]( https://en.wikipedia.org/wiki/Blender_(software))
+* [Blender (bogearraí)](https://en.wikipedia.org/wiki/Blender_(software))
 
 

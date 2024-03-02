@@ -27,6 +27,6 @@ Déantar comhaid TRM a shábháil i bhformáid comhaid dílseánaigh Oracle agus
 
 ## Tagairtí ##
 
-* [Cad é comhad .trm in oracle 11g?]( https://forums.oracle.com/ords/apexds/post/what-is-trm-file-in-oracle-11g-0659)
+* [Cad é comhad .trm in oracle 11g?](https://forums.oracle.com/ords/apexds/post/what-is-trm-file-in-oracle-11g-0659)
 
 

@@ -43,6 +43,6 @@ Is comhaid dhénártha iad PKR atá comhbhrúite chun méid iomlán an chomhaid 
 
 * [Formáid Chomhaid an Phacáiste Chomhréidh](http://s.sudre.free.fr/Stuff/Ivanhoe/FLAT.html)
 
-* [PKG - Vicipéid]( https://ga.wikipedia.org/wiki/.pkg)
+* [PKG - Vicipéid](https://ga.wikipedia.org/wiki/.pkg)
 
 

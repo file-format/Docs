@@ -34,6 +34,6 @@ Tá dhá chineál faisnéise i gcomhad QBL.
 
 ## Tagairtí
 
- * [QuickBooks le Intuit]( https://quickbooks.intuit.com/)
+ * [QuickBooks le Intuit](https://quickbooks.intuit.com/)
  * [QuickBooks - Ag giniúint an chomhaid qbregistration.dat](https://quickbooks.intuit.com/learn-support/en-us/help-article/license-information/create-create-qbregistration-dat-file/L7S5BwSst_US_en_US)
 

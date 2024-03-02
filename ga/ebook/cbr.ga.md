@@ -36,8 +36,8 @@ Is cartlann [RAR](/compression/rar/) é comhad CBR a stóráiltear mar chomhad d
 
 ## Tagairtí
 
-* [Cartlann Comic Book]( https://en.wikipedia.org/wiki/Comic_book_archive)
+* [Cartlann Comic Book](https://en.wikipedia.org/wiki/Comic_book_archive)
 
-* [Calibre]( https://calibre-ebook.com/)
+* [Calibre](https://calibre-ebook.com/)
 
 

@@ -23,6 +23,6 @@ A DCR file is a media file that is created and saved in the Adobe Shockwave form
 
 ## Tagairtí
 
-* [Adobe Director]( https://en.wikipedia.org/wiki/Adobe_Director)
+* [Adobe Director](https://en.wikipedia.org/wiki/Adobe_Director)
 
 

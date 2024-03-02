@@ -61,6 +61,6 @@ Tá an fhaisnéis seo a leanas i gcomhad CSR.
 
 ## Tagairtí
 
-* [Freastalaí Feidhmchláir Coincheap]( https://github.com/Devronium/ConceptApplicationServer)
+* [Freastalaí Feidhmchláir Coincheap](https://github.com/Devronium/ConceptApplicationServer)
 
 

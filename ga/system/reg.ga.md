@@ -70,6 +70,6 @@ Cruthaíonn sé seo eochair nua ar a dtugtar Sampla faoin eochair Bogearraí i h
 Tabharfar leid duit a dhearbhú gur mian leat an iontráil a chur leis an gclárlann. Nuair a dheimhníonn tú, cuirfear an iontráil nua leis an gclár, agus is féidir leat é a fhíorú ag baint úsáide as uirlis Eagarthóir na Clárlainne.
 
 ## Tagairtí
-* [Clárlann Windows]( https://en.wikipedia.org/wiki/Windows_Registry)
+* [Clárlann Windows](https://en.wikipedia.org/wiki/Windows_Registry)
 
 

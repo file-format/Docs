@@ -31,6 +31,6 @@ Is féidir leat feidhmchláir bogearraí GIS a úsáid mar QGIS, ArcGIS, agus Gl
 
 ## Tagairtí
 
-* [/gis/]( https://support.esri.com/ga/technical-article/000005936)
+* [/gis/](https://support.esri.com/ga/technical-article/000005936)
 
 

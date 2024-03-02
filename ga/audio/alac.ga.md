@@ -40,10 +40,10 @@ Is comhaid dhénártha iad comhaid atá bunaithe ar chód ALAC atá ar fáil mar
 
 ## Tagairtí
 
-* [ALAC - Vicipéid]( https://ga.wikipedia.org/wiki/Apple_Lossless)
+* [ALAC - Vicipéid](https://ga.wikipedia.org/wiki/Apple_Lossless)
 
-* [Codc Fuaime Apple Lossless]( https://macosforge.github.io/alac/)
+* [Codc Fuaime Apple Lossless](https://macosforge.github.io/alac/)
 
-* [macosforge - alac ar GitHub]( https://github.com/macosforge/alac)
+* [macosforge - alac ar GitHub](https://github.com/macosforge/alac)
 
 

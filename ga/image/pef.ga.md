@@ -61,6 +61,6 @@ Is formáid dhílseánaigh í formáid comhaid PEF a d’fhorbair Pentax chun so
 Cuimsíonn comhaid PEF meascán d'fhaisnéis ceanntásca, meiteashonraí, sonraí braite íomhá agus struchtúir sonraí eile a bhaineann go sonrach le ceamaraí Pentax. Baineann leagan amach agus eagrú beacht na gcomhpháirteanna seo laistigh den chomhad go sonrach le formáid PEF agus féadfaidh siad athrú ag brath ar mhúnla an cheamara agus ar an leagan firmware.
 
 ## Tagairtí
-* [Comhad Leictreonach Pentax]( https://www.wikidata.org/wiki/Q3964876)
+* [Comhad Leictreonach Pentax](https://www.wikidata.org/wiki/Q3964876)
 
 

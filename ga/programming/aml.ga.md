@@ -52,8 +52,8 @@ Is féidir comhaid MAML a chruthú trí úsáid a bhaint as Sandcastle, sraith s
 
 ## Tagairtí
 
- * [Cruthaigh cúnamh bunaithe ar XML ag úsáid PlatyPS]( https://learn.microsoft.com/en-us/powershell/utility-modules/platyps/create-help-using-platyps?view=ps-modules)
- * [Teanga Mharcála Cúnta Microsoft]( https://en.wikipedia.org/wiki/Microsoft_Assistance_Markup_Language)
+ * [Cruthaigh cúnamh bunaithe ar XML ag úsáid PlatyPS](https://learn.microsoft.com/en-us/powershell/utility-modules/platyps/create-help-using-platyps?view=ps-modules)
+ * [Teanga Mharcála Cúnta Microsoft](https://en.wikipedia.org/wiki/Microsoft_Assistance_Markup_Language)
 
 # AML - Comhad Teanga Arc Macra
 
@@ -67,6 +67,6 @@ Is comhaid scripte iad AML, sábháil an fhaisnéis ar diosca mar chomhaid gnát
 
 ## Tagairtí
 
- * [Teanga Macra ARC]( https://ga.wikipedia.org/wiki/ARC_Macro_Language)
+ * [Teanga Macra ARC](https://ga.wikipedia.org/wiki/ARC_Macro_Language)
  * [Ag baint úsáide as AML le Script Uirlisí](https://desktop.arcgis.com/en/arcmap/latest/analyze/creating-tools/using-amls-with-script-tools.htm)
 

@@ -193,6 +193,6 @@ Priontálann sé seo an Dia duit, Domhanda! ráiteas don aschur.
 
 ## Tagairtí
 
- * [Haskell]( https://wiki.haskell.org/Haskell)
- * [Haskell In 5 Easy Steps]( https://wiki.haskell.org/Haskell_in_5_steps)
+ * [Haskell](https://wiki.haskell.org/Haskell)
+ * [Haskell In 5 Easy Steps](https://wiki.haskell.org/Haskell_in_5_steps)
 

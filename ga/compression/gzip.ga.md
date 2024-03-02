@@ -31,10 +31,10 @@ Is minic a shábháiltear comhaid GZIP i bhformáid comhaid [GZ](/compression/gz
 
 * [gzip](http://www.gzip.org/)
 
-* [gzip - Vicipéid]( https://ga.wikipedia.org/wiki/Gzip)
+* [gzip - Vicipéid](https://ga.wikipedia.org/wiki/Gzip)
 
 * [RFC1952: Sonraíocht formáid comhaid GZIP](https://datatracker.ietf.org/doc/html/rfc1952), le IETF
 
-* [RFC 1951]( https://tools.ietf.org/html/rfc1951)
+* [RFC 1951](https://tools.ietf.org/html/rfc1951)
 
 

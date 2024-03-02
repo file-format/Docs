@@ -35,6 +35,6 @@ Sábháladh comhaid XLR mar chomhaid dhénártha gan aon sonraí faoina sonraío
 
 ## Tagairtí
 
-* [Microsoft Works]( https://ga.wikipedia.org/wiki/Microsoft_Works)
+* [Microsoft Works](https://ga.wikipedia.org/wiki/Microsoft_Works)
 
 

@@ -80,6 +80,6 @@ func main() {
 
 ## Tagairt ##
 
-* [TÉIGH - le Vicipéid]( https://en.wikipedia.org/wiki/Go_(programming_language))
+* [TÉIGH - le Vicipéid](https://en.wikipedia.org/wiki/Go_(programming_language))
 
 

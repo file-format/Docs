@@ -35,7 +35,7 @@ Stóráiltear rasters GRID i spásanna oibre, áit a bhfuil fochomhadlann faisn�
 
 ## Tagairtí ##
 
-* [Formáid Eangaí ESRI]( https://desktop.arcgis.com/ga/arcmap/latest/manage-data/raster-and-images/esri-grid-format.htm)
+* [Formáid Eangaí ESRI](https://desktop.arcgis.com/ga/arcmap/latest/manage-data/raster-and-images/esri-grid-format.htm)
 
 
 

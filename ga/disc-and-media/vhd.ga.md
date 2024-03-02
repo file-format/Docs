@@ -51,7 +51,7 @@ Is féidir na comhaid VHD seo a mhalartú go héasca ón diosca crua fíorúil g
 
 ## Tagairtí ##
 
-* [VHD - le Vicipéid]( https://en.wikipedia.org/wiki/VHD_(file_format))
+* [VHD - le Vicipéid](https://en.wikipedia.org/wiki/VHD_(file_format))
 
 
 

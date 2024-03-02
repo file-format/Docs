@@ -30,7 +30,7 @@
 
 ## Tagairtí
 
-* [Amharcóir eBook Pro 5.5]( https://ebook-pro-viewer.software.informer.com/5.5/)
+* [Amharcóir eBook Pro 5.5](https://ebook-pro-viewer.software.informer.com/5.5/)
 
 
 

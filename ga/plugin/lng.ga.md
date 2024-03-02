@@ -41,5 +41,5 @@ I measc na bpríomhghnéithe de Winamp tá:
 
 ## Tagairtí
 
- * [Winamp]( https://www.winamp.com/)
+ * [Winamp](https://www.winamp.com/)
 

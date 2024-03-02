@@ -46,6 +46,6 @@ md5sum -c abc_987_123456.grb.md5
 
 ## Tagairtí
 
-* [md5sum - Vicipéid]( https://ga.wikipedia.org/wiki/Md5sum)
+* [md5sum - Vicipéid](https://ga.wikipedia.org/wiki/Md5sum)
 
 

@@ -42,7 +42,7 @@ Is féidir an comhad SDI féin a fhoroinnt sna hailt seo a leanas:
 
 ## Tagairtí 
 
-* [Íomhá Imlonnaithe an Chórais - le Vicipéid]( https://en.wikipedia.org/wiki/System_Deployment_Image)
+* [Íomhá Imlonnaithe an Chórais - le Vicipéid](https://en.wikipedia.org/wiki/System_Deployment_Image)
 
 
 

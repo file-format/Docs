@@ -38,10 +38,10 @@ Teastaíonn eolas áirithe chun AML a úsáid chun faisnéis innealtóireachta a
 
 ## Tagairtí
 
-* [Cad é UathoibriúML]( https://www.automationml.org/about-automationml/automationml/)
+* [Cad é UathoibriúML](https://www.automationml.org/about-automationml/automationml/)
 
-* [UathoibriúML - Vicipéid]( https://ga.wikipedia.org/wiki/AutomationML)
+* [UathoibriúML - Vicipéid](https://ga.wikipedia.org/wiki/AutomationML)
 
-* [Sonraíochtaí UathoibriúML]( https://www.automationml.org/about-automationml/specifications/)
+* [Sonraíochtaí UathoibriúML](https://www.automationml.org/about-automationml/specifications/)
 
 

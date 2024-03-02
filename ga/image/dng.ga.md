@@ -117,9 +117,9 @@ Tá na hardghnéithe seo a leanas ag DNG Leagan 1.4 Deireadh Fómhair 2012.
 
 ## Tagairtí ##
 
-* [Sonraíochtaí DNG - Le Adobe]( https://web.archive.org/web/20170829200857/http://wwwimages.adobe.com/content/dam/Adobe/en/products/photoshop/pdfs/dng_spec_1.4.0 .0.pdf)
+* [Sonraíochtaí DNG - Le Adobe](https://web.archive.org/web/20170829200857/http://wwwimages.adobe.com/content/dam/Adobe/en/products/photoshop/pdfs/dng_spec_1.4.0 .0.pdf)
 
-* [Diúltach Digiteach - Vicipéid]( https://ga.wikipedia.org/wiki/Digital_Negative)
+* [Diúltach Digiteach - Vicipéid](https://ga.wikipedia.org/wiki/Digital_Negative)
 
 * [DNG - An fhormáid chartlainne phoiblí le haghaidh sonraí amha ceamara digiteach](https://helpx.adobe.com/camera-raw/digital-negative.html)
 

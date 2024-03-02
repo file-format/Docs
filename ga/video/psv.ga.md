@@ -58,6 +58,6 @@ Seo roinnt rudaí tábhachtacha atá ar eolas agat faoi Pluralsight agus a chomh
 - **Course Updates:** It's important to note that course content on Pluralsight is regularly updated and improved. Therefore, it's recommended to periodically check for updates to ensure you have the most up-to-date information.
 
 ## Tagairtí
-* [Iolradharc]( https://en.wikipedia.org/wiki/Pluralsight)
+* [Iolradharc](https://en.wikipedia.org/wiki/Pluralsight)
 
 

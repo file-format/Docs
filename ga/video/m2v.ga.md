@@ -95,6 +95,6 @@ M2V files, as MPEG-2 video streams, are related to several other multimedia form
 - Media Player Classic (Windows)
 
 ## Tagairtí
-* [Formáid comhaid físe]( https://en.wikipedia.org/wiki/Video_file_format)
+* [Formáid comhaid físe](https://en.wikipedia.org/wiki/Video_file_format)
 
 

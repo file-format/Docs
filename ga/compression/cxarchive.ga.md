@@ -66,6 +66,6 @@ Seo roinnt príomhghnéithe agus gnéithe de CrossOver:
 - **CodeWeavers CrossOver ** (Triail In Aisce) le haghaidh (MAC, Linux)
 
 ## Tagairtí
-* [CrossOver (bogearraí)]( https://en.wikipedia.org/wiki/CrossOver_(software))
+* [CrossOver (bogearraí)](https://en.wikipedia.org/wiki/CrossOver_(software))
 
 

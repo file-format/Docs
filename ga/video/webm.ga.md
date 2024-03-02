@@ -69,8 +69,8 @@ Tugtar tacaíocht dóibh seo a leanas atá ag lorg faisnéise.
 
 ## Tagairtí
 
-* [WebM]( https://www.webmproject.org/)
+* [WebM](https://www.webmproject.org/)
 
-* [Stórtha Cód WebM]( https://www.webmproject.org/code/#webp-repositories)
+* [Stórtha Cód WebM](https://www.webmproject.org/code/#webp-repositories)
 
 

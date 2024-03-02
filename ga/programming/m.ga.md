@@ -55,8 +55,8 @@ TimeToGround(100)
 
 ## Tagairtí
 
- * [Matlab - Formáidí Comhaid Thacaithe]( https://www.mathworks.com/help/matlab/standard-file-formats.html)
- * [Ag úsáid Matlab]( https://www.maths.unsw.edu.au/sites/default/files/MatlabSelfPaced/lesson0/MatlabLesson0_Mfiles.html)
+ * [Matlab - Formáidí Comhaid Thacaithe](https://www.mathworks.com/help/matlab/standard-file-formats.html)
+ * [Ag úsáid Matlab](https://www.maths.unsw.edu.au/sites/default/files/MatlabSelfPaced/lesson0/MatlabLesson0_Mfiles.html)
 
 # M - Comhad Forfheidhmithe Cuspóir-C
 
@@ -101,5 +101,5 @@ UrlConnection.m
 
 ## Tagairtí
  * [Maidir le Cuspóir C](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html#//apple_ref/doc/uid/TP40011210-CH1-SW1)
- * [Treoir Cuspóir-C]( https://blog.teamtreehouse.com/beginners-guide-objective-c-classes-objects)
+ * [Treoir Cuspóir-C](https://blog.teamtreehouse.com/beginners-guide-objective-c-classes-objects)
 

@@ -87,6 +87,6 @@ Is é `app.pkg` - an fo-phacáiste atá le suiteáil. Is eolaire é den strucht�
 
 * [Pacáistí Comhréidh OSX](https://matthew-brett.github.io/docosx/flat_packages.html)
 
-* [C++ Bainisteoir Pacáiste MPKG]( https://github.com/puellavulnerata/mpkg)
+* [C++ Bainisteoir Pacáiste MPKG](https://github.com/puellavulnerata/mpkg)
 
 

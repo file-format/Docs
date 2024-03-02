@@ -27,7 +27,7 @@ Déantar comhaid MXD a shábháil i bhformáid comhaid dílseánaigh ArcGIS agus
 
 ## Tagairtí
 
-* [Léarscáil an Phacáiste]( https://desktop.arcgis.com/ga/arcmap/10.3/tools/data-management-toolbox/package-map.htm)
+* [Léarscáil an Phacáiste](https://desktop.arcgis.com/ga/arcmap/10.3/tools/data-management-toolbox/package-map.htm)
 
 * [Formáid Comhaid MXD](http://wiki.gis.com/wiki/index.php/File_Format_MXD)
 

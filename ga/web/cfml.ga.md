@@ -63,6 +63,6 @@ Seo sampla a úsáideann clib CFML iarbhír - an chlib `cfoutput`:
 
 ## Tagairtí
 
-* [ColdFusion]( https://www.quackit.com/coldfusion/tutorial/)
+* [ColdFusion](https://www.quackit.com/coldfusion/tutorial/)
 
 

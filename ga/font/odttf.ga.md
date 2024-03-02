@@ -29,6 +29,6 @@ NiXPS View, agus NiXPS Edit.
 Ní fios struchtúr inmheánach formáid comhaid formáid comhaid ODTTF mar go stóráiltear iad seo mar fhormáid imleacáin leabaithe. Is féidir iad seo a neadú i ndoiciméid dhigiteacha mar .PDF nó .DOCX.
 
 ## Tagairtí
- * [Sonraíochtaí Cló OpenType le Microsoft]( https://learn.microsoft.com/en-us/typography/opentype/spec/overview)
- * [Forbhreathnú TrueType]( https://learn.microsoft.com/en-us/typography/truetype/)
+ * [Sonraíochtaí Cló OpenType le Microsoft](https://learn.microsoft.com/en-us/typography/opentype/spec/overview)
+ * [Forbhreathnú TrueType](https://learn.microsoft.com/en-us/typography/truetype/)
 

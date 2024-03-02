@@ -39,6 +39,6 @@ De ghnáth déantar eagarthóireacht ar chomhad .conf ag baint úsáide as eagar
 Is cuid riachtanach de chórais Unix-bhunaithe iad na comhaid .conf, ag soláthar bealach solúbtha agus caighdeánaithe chun feidhmchláir agus comhpháirteanna córais a chumrú. Is scil thábhachtach do riarthóirí agus d’fhorbróirí córais Unix é tuiscint a fháil ar conas comhaid .conf a chur in eagar agus a bhainistiú.
 
 ## Tagairtí
-* [Comhad Cumraíochta Unix]( https://en.wikipedia.org/wiki/Configuration_file)
+* [Comhad Cumraíochta Unix](https://en.wikipedia.org/wiki/Configuration_file)
 
 

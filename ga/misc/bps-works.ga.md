@@ -64,6 +64,6 @@ Seo cineálacha comhaid eile a úsáideann an síneadh comhad **.bps**.
 - [BPS - BPS Malware file from SpywareCops](/misc/bps-malware/)
 
 ## Tagairtí
-* [Microsoft Works]( https://ga.wikipedia.org/wiki/Microsoft_Works)
+* [Microsoft Works](https://ga.wikipedia.org/wiki/Microsoft_Works)
 
 

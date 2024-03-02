@@ -27,6 +27,6 @@ Comhaid dhénártha is ea OLM le cineál MIME Application/octet-stream. Níl na 
 
 ## Tagairtí
 
-* [Formáid Comhaid OLM?]( https://social.msdn.microsoft.com/Forums/office/en-US/4ce689ee-8fad-4362-a0eb-06382646a845/olm-file-format?forum=os_binaryfile)
+* [Formáid Comhaid OLM?](https://social.msdn.microsoft.com/Forums/office/en-US/4ce689ee-8fad-4362-a0eb-06382646a845/olm-file-format?forum=os_binaryfile)
 
 

@@ -27,6 +27,6 @@ Stóráiltear comhaid WEBLOC i bhformáid comhaid gnáth-théacs. Is féidir iad
 
 ## Tagairtí
 
-* [Osclóir WEBLOC]( https://github.com/benchdoos/WeblocOpener)
+* [Osclóir WEBLOC](https://github.com/benchdoos/WeblocOpener)
 
 

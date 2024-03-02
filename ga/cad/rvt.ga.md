@@ -32,5 +32,5 @@ Tá comhaid RVT bunaithe ar fhormáid comhaid dílseánaigh Autodesk agus níl a
 
 ## Tagairtí
 
- * [Autodesk Revit]( https://ga.wikipedia.org/wiki/Autodesk_Revit)
+ * [Autodesk Revit](https://ga.wikipedia.org/wiki/Autodesk_Revit)
 

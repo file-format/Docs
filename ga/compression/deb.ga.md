@@ -56,8 +56,8 @@ Is féidir inneachar mar seo a leanas a áireamh sa chartlann rialaithe.
 
 ## Tagairtí
 
-* [DEB - Vicipéid]( https://ga.wikipedia.org/wiki/Deb_(file_format))
+* [DEB - Vicipéid](https://ga.wikipedia.org/wiki/Deb_(file_format))
 
-* [Formáid pacáiste dénártha Debian]( https://manpages.debian.org/buster/dpkg-dev/deb.5.en.html)
+* [Formáid pacáiste dénártha Debian](https://manpages.debian.org/buster/dpkg-dev/deb.5.en.html)
 
 

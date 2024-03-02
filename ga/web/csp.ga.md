@@ -23,6 +23,6 @@ Is comhad leathanach gréasáin dinimiciúil é comhad CSP ina bhfuil ábhar at�
 
 ## Tagairtí
 
-* [Freastalaí Feidhmchláir Coincheap]( https://github.com/Devronium/ConceptApplicationServer)
+* [Freastalaí Feidhmchláir Coincheap](https://github.com/Devronium/ConceptApplicationServer)
 
 

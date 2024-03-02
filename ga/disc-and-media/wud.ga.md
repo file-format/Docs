@@ -27,8 +27,8 @@ Déantar comhaid WUD a shábháil ar diosca i bhformáid comhaid dílseánaigh a
 
 ## Tagairtí
 
-* [ Aithriseoir Wii U - Cemu]( https://cemu.info/)
+* [ Aithriseoir Wii U - Cemu](https://cemu.info/)
 
-* [Cemu - Vicipéid]( https://ga.wikipedia.org/wiki/Cemu)
+* [Cemu - Vicipéid](https://ga.wikipedia.org/wiki/Cemu)
 
 

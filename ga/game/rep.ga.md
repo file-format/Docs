@@ -39,5 +39,5 @@ Tá sonraíochtaí formáid comhaid REP ar fáil ar [gta fandom](https://gta.fan
 
 ## Tagairtí
 
- * [Formáid Comhaid REP Athsheinn GTA]( https://gta.fandom.com/wiki/Replay/Format_details)
+ * [Formáid Comhaid REP Athsheinn GTA](https://gta.fandom.com/wiki/Replay/Format_details)
 

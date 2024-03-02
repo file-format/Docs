@@ -37,8 +37,8 @@ Níl aon sonraí feidhmiúcháin teicniúla ar fáil maidir le formáid comhaid 
 
 ## Tagairtí
 
-* [KGB - Vicipéid]( https://ga.wikipedia.org/wiki/KGB_Archiver )
+* [KGB - Vicipéid](https://ga.wikipedia.org/wiki/KGB_Archiver )
 
-* [Cartlannaí KGB]( https://sourceforge.net/projects/kgbarchiver/)
+* [Cartlannaí KGB](https://sourceforge.net/projects/kgbarchiver/)
 
 

@@ -56,6 +56,6 @@ Chun comhaid Cairte Nascleanúna Leictreonaí (ENC) a oscailt, de ghnáth teasta
 - TIMEZERO
 
 ## Tagairtí
-* [Cairt loingseoireachta leictreonach]( https://en.wikipedia.org/wiki/Electronic_navigational_chart)
+* [Cairt loingseoireachta leictreonach](https://en.wikipedia.org/wiki/Electronic_navigational_chart)
 
 

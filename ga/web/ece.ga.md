@@ -29,6 +29,6 @@ Is féidir le brabhsálaithe cliaint rochtain a fháil ar an ábhar ar fhreastal
 
 ## Tagairtí
 
-* [Adobe Edge]( https://www.adobe.com/sea/products/edge-animate.html)
+* [Adobe Edge](https://www.adobe.com/sea/products/edge-animate.html)
 
 

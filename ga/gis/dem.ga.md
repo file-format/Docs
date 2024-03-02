@@ -37,8 +37,8 @@ Bíonn comhaid DEM ar fáil go coitianta ar an idirlíon agus is féidir sampla�
 
 ## Tagairtí
 
-* [Comhaid DEM]( https://en.wikipedia.org/wiki/Digital_elevation_model)
+* [Comhaid DEM](https://en.wikipedia.org/wiki/Digital_elevation_model)
 
-* [USGS - DEM]( https://www.usgs.gov/)
+* [USGS - DEM](https://www.usgs.gov/)
 
 

@@ -46,8 +46,8 @@ Seo a leanas cineálacha comhaid eile a úsáideann an síneadh comhad **.cbz**.
 
 ## Tagairtí
 
-* [Cartlann Comic Book]( https://en.wikipedia.org/wiki/Comic_book_archive)
+* [Cartlann Comic Book](https://en.wikipedia.org/wiki/Comic_book_archive)
 
-* [Calibre]( https://calibre-ebook.com/)
+* [Calibre](https://calibre-ebook.com/)
 
 

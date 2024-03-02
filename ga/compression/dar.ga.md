@@ -57,6 +57,6 @@ Seo a leanas cuid de na gnéithe a bhaineann le formáid comhaid DAR.
 
 * [DAR](http://dar.linux.free.fr/)
 
-* [Cartlannaí Diosca DAR]( https://en.wikipedia.org/wiki/Dar_(disk_archiver))
+* [Cartlannaí Diosca DAR](https://en.wikipedia.org/wiki/Dar_(disk_archiver))
 
 

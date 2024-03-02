@@ -52,6 +52,6 @@ Chun comhad FLP a oscailt, beidh ort bogearraí stáisiún oibre fuaime digiteac
 5. Nuair a bheidh an comhad FLP iompórtáilte, ba cheart go mbeifeá in ann rochtain a fháil ar na sonraí agus na socruithe tionscadail atá san áireamh i FL Studio.
 
 ## Tagairtí
-* [FL Studio]( https://ga.wikipedia.org/wiki/FL_Studio)
+* [FL Studio](https://ga.wikipedia.org/wiki/FL_Studio)
 
 

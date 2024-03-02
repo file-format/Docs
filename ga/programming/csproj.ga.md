@@ -107,6 +107,6 @@ Ní mór tascanna a bheith laistigh de mhíreanna [Target](https://msdn.microsof
 
 ## Tagairtí
 
-* [Comhad an Tionscadail a Thuiscint - MSDN]( https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project- comhad)
+* [Comhad an Tionscadail a Thuiscint - MSDN](https://learn.microsoft.com/en-us/aspnet/web-forms/overview/deployment/web-deployment-in-the-enterprise/understanding-the-project- comhad)
 
 

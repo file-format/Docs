@@ -28,6 +28,6 @@ Níl sonraí inmheánacha formáid comhaid ETA ar fáil go poiblí agus níl aon
 
 ## Tagairtí
 
-* [Google Earth don Ghréasán]( https://earth.google.com/web/)
+* [Google Earth don Ghréasán](https://earth.google.com/web/)
 
 

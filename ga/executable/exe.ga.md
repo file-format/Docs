@@ -65,8 +65,8 @@ Ní úsáidtear comhaid exe mar earraí inrite ar Mac OS. Mar sin féin, más mi
 
 ## Tagairtí
 
-* [.exe- le Wikipewdia]( https://en.wikipedia.org/wiki/.exe)
+* [.exe- le Wikipewdia](https://en.wikipedia.org/wiki/.exe)
 
-* [x86 Disassembly/Comhaid Inrite Windows]( https://en.wikibooks.org/wiki/X86_Disassembly/Windows_Executable_Files#MS-DOS_EXE_Files)
+* [x86 Disassembly/Comhaid Inrite Windows](https://en.wikibooks.org/wiki/X86_Disassembly/Windows_Executable_Files#MS-DOS_EXE_Files)
 
 

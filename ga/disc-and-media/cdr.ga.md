@@ -89,6 +89,6 @@ Seo cineálacha comhaid eile a úsáideann an síneadh comhad **.cdr**.
 
 
 ## Tagairtí
-* [Cad é HFSExplorer?]( https://catacombae.org/hfsexplorer/)
+* [Cad é HFSExplorer?](https://catacombae.org/hfsexplorer/)
 
 

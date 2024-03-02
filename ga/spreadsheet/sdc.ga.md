@@ -39,10 +39,10 @@ Déantar comhaid SDC a shábháil i bhformáid comhaid dílseánaigh agus ní fi
 
 * [RÉAMHRÁ DON SCÁTHAIR CALC](https://www.pitt.edu/~poole/libreofficeTutorials/libreofficeLesson4.pdf)
 
-* [StarOffice - Le Vicipéid]( https://ga.wikipedia.org/wiki/StarOffice)
+* [StarOffice - Le Vicipéid](https://ga.wikipedia.org/wiki/StarOffice)
 
-* [Cineálacha MIME - Apache]( https://www.openoffice.org/framework/documentation/mimetypes/mimetypes.html)
+* [Cineálacha MIME - Apache](https://www.openoffice.org/framework/documentation/mimetypes/mimetypes.html)
 
-* [Calc - Libreoffice]( https://www.libreoffice.org/discover/calc/)
+* [Calc - Libreoffice](https://www.libreoffice.org/discover/calc/)
 
 

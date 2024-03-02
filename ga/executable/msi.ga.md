@@ -43,7 +43,7 @@ Ainmnítear i bpacáiste suiteáil táirge iomlán amháin nó níos mó agus sa
 
 ## Tagairtí 
 
-* [Suiteálaí Windows - le Vicipéid]( https://en.wikipedia.org/wiki/Windows_Installer)
+* [Suiteálaí Windows - le Vicipéid](https://en.wikipedia.org/wiki/Windows_Installer)
 
 
 

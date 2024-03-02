@@ -53,6 +53,6 @@ Seo na céimeanna chun comhad 8CK a oscailt ag baint úsáide as TI Connect CE:
 Féadfaidh an próiseas a bhaineann le hábhar comhaid 8CK a oscailt agus a fheiceáil a athrú ag brath ar na bogearraí atá in úsáid agat agus ar a bhfuil sa chomhad féin. Más gá duit ábhar an chomhaid a mhodhnú nó a chur in eagar, beidh ort bogearraí ríomhchlárúcháin a úsáid atá comhoiriúnach leis an áireamhán TI-84 Plus C Silver Edition.
 
 ## Tagairtí
-* [sraith TI-84 Plus]( https://en.wikipedia.org/wiki/TI-84_Plus_series)
+* [sraith TI-84 Plus](https://en.wikipedia.org/wiki/TI-84_Plus_series)
 
 

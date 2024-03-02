@@ -57,6 +57,6 @@ g++ -o myprogram myfile.cc
 ```
 
 ## Tagairtí
-* [Bailiúchán Tiomsaitheoir GNU]( https://en.wikipedia.org/wiki/GNU_Compiler_Collection )
+* [Bailiúchán Tiomsaitheoir GNU](https://en.wikipedia.org/wiki/GNU_Compiler_Collection )
 
 

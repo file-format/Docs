@@ -45,5 +45,5 @@ An Indd file is created when you create a new project with [Adobe InDesign](http
 
 ## Tagairtí
 
- * [Cineál Comhaid INDD - Adobe]( https://www.adobe.com/creativecloud/file-types/image/vector/indd-file.html)
+ * [Cineál Comhaid INDD - Adobe](https://www.adobe.com/creativecloud/file-types/image/vector/indd-file.html)
 

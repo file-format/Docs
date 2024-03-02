@@ -43,8 +43,8 @@ Is féidir sonraí comhaid ETL a léamh agus a léirshamhlú i dtáblaí agus i 
 
 ## Tagairtí
 
-* [Anailíseoir Feidhmíochta Windows]( https://learn.microsoft.com/en-us/windows-hardware/test/wpt/getting-started--windows-performance-analyzer--wpa-)
+* [Anailíseoir Feidhmíochta Windows](https://learn.microsoft.com/en-us/windows-hardware/test/wpt/getting-started--windows-performance-analyzer--wpa-)
 
-* [Treoir Mhearthosaithe WPA]( https://learn.microsoft.com/en-us/windows-hardware/test/wpt/wpa-quick-start-guide)
+* [Treoir Mhearthosaithe WPA](https://learn.microsoft.com/en-us/windows-hardware/test/wpt/wpa-quick-start-guide)
 
 

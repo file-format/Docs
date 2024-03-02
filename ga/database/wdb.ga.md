@@ -43,6 +43,6 @@ Tá struchtúr an chomhaid WDB tugtha thíos:
 
 ## Tagairtí ##
 
-* [Úsáideoir:Formáid JesseW/wtb]( https://en.wikipedia.org/wiki/User:JesseW/wdb_format)
+* [Úsáideoir:Formáid JesseW/wtb](https://en.wikipedia.org/wiki/User:JesseW/wdb_format)
 
 

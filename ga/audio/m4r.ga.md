@@ -38,6 +38,6 @@ Is féidir ábhar fuaime agus físe a bheith i gcomhaid M4R, cé go dtugann an i
 Is féidir comhaid M4R a chruthú ag baint úsáide as feidhmchláir bogearraí éagsúla, lena n-áirítear iTunes, a chuimsíonn cruthaitheoir ringtone ionsuite. Is féidir feidhmchláir bogearraí tríú páirtí, mar GarageBand agus Ringtone Maker, a úsáid freisin chun comhaid M4R a chruthú. Is féidir comhaid M4R a aistriú chuig iPhone ag baint úsáide as iTunes, nó tríd an gcomhad a shioncronú leis an iPhone ag baint úsáide as seirbhísí stórála scamall mar iCloud nó Dropbox.
 
 ## Tagairtí
-* [M4R á iompórtáil]( https://discussions.apple.com/thread/254412135)
+* [M4R á iompórtáil](https://discussions.apple.com/thread/254412135)
 
 

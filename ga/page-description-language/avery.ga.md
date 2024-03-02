@@ -31,5 +31,5 @@ Is féidir comhad AVERY a shábháil mar PDF nó is féidir é a phriontáil go 
 
 ## Tagairtí
 
- * [AVRY Dearadh & Priontáil]( https://www.avery.com/software/design-and-print/)
+ * [AVRY Dearadh & Priontáil](https://www.avery.com/software/design-and-print/)
 

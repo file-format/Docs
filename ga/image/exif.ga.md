@@ -131,7 +131,7 @@ Más é '1' luach na Clib Comhbhrú(0x0103) in IFD1, níl aon chomhbhrú i bhfor
 
 ## Tagairtí ##
 
-* [EXIF - Le Vicipéid]( https://ga.wikipedia.org/wiki/Exif)
+* [EXIF - Le Vicipéid](https://ga.wikipedia.org/wiki/Exif)
 
 * [Formáid Comhaid EXIF](https://www.media.mit.edu/pia/Research/deepview/exif.html)
 

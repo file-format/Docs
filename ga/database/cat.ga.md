@@ -29,7 +29,7 @@ Advanced Disk Catalog is a cataloguing program for Windows XP/2003. Tá solúbth
 Íoslódáil an clár Elcomsoft Casta Diosca. Ar Windows, is féidir leat cliceáil ar dheis ar taiscéalaí comhad agus ansin roghnaigh oscailte le roghchlár comhthéacs, sonraigh cosán bogearraí Catalóg Diosca Casta Elcomsoft chun an comhad cat a oscailt.
 
 ## Tagairtí
- * [Elcomsoft]( https://www.elcomsoft.com/)
+ * [Elcomsoft](https://www.elcomsoft.com/)
  * [Catalóg Diosca Casta (ADC)](http://pcprosoft.blogspot.com/2009/01/advanced-disk-catalog-adc.html)
 
 

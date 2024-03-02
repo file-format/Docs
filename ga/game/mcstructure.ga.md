@@ -53,6 +53,6 @@ Chun comhad MCSTRUCTURE a iompórtáil i Minecraft, déan na céimeanna seo:
 5. Nuair a bheidh an comhad luchtaithe, roghnaigh Iompórtáil chun an struchtúr a chur i saol an chluiche.
 
 ## Tagairtí
-* [Comhad Mcstructure]( https://wiki.bedrock.dev/nbt/mcstructure.html)
+* [Comhad Mcstructure](https://wiki.bedrock.dev/nbt/mcstructure.html)
 
 

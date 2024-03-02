@@ -61,6 +61,6 @@ Thug Microsoft isteach AVI i 1992 agus é mar aidhm aige formáid comhaid fuaime
 
 ## Tagairtí ##
 
-* [AVI - Le Vicipéid]( https://ga.wikipedia.org/wiki/Audio_Video_Interleave)
+* [AVI - Le Vicipéid](https://ga.wikipedia.org/wiki/Audio_Video_Interleave)
 
 

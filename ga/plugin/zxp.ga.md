@@ -41,5 +41,5 @@ Má tá tú ag obair le síntí Adobe Creative Cloud nó ag forbairt ceann duit 
 
 ## Tagairtí
 
- * [Suiteálaí ZXP]( https://zxpinstaller.com/)
+ * [Suiteálaí ZXP](https://zxpinstaller.com/)
  * [Adobe Extension Manager](https://www.adobe.com/exchange/em_download/)

@@ -38,6 +38,6 @@ Más mian leat do cheol a roinnt le daoine eile, cabhraíonn Finale leis sin fre
 Oscail clár MakeMusic Finale. Ansin, téigh go dtí an roghchlár ag barr an scáileáin agus cliceáil ar Comhad. Tar éis sin, roghnaigh Oscail ... ó na roghanna. Aimsigh do chomhad MUSX ar do ríomhaire agus cliceáil air chun é a oscailt.
 
 ## Tagairtí
-* [Finale (scórscríbhneoir)]( https://en.wikipedia.org/wiki/Finale_(scorewriter))
+* [Finale (scórscríbhneoir)](https://en.wikipedia.org/wiki/Finale_(scorewriter))
 
 

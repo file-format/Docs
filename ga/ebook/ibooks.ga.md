@@ -45,6 +45,6 @@ On January 19, 2012, Apple announced iBooks Author at an education-related speci
 
 ## Tagairtí ##
 
-* [StackExchange]( https://apple.stackexchange.com/questions/2587/what-ebook-formats-does-ibooks-support)
+* [StackExchange](https://apple.stackexchange.com/questions/2587/what-ebook-formats-does-ibooks-support)
 
 

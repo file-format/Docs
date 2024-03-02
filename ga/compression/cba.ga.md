@@ -71,6 +71,6 @@ Is bealach simplí í an fhormáid TAR chun comhaid iolracha a chur i gcomhad ca
 Caomhnaíonn an fhormáid TAR struchtúr comhaid, ceadanna comhaid agus stampaí ama na gcomhad atá san áireamh. Stórálann sé comhaid go seicheamhach laistigh den chartlann, rud a ligeann do chomhaid aonair nó don chartlann iomlán a bhaint go héasca.
 
 ## Tagairtí
-* [Cartlann leabhar grinn]( https://en.wikipedia.org/wiki/Comic_book_archive)
+* [Cartlann leabhar grinn](https://en.wikipedia.org/wiki/Comic_book_archive)
 
 

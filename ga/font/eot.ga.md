@@ -92,7 +92,7 @@ Rinneadh trí athbhreithniú ar struchtúr EMBEDDEDFONT, agus cuireadh sonraí b
 
 ## Tagairtí
 
- * [Formáid Comhaid EOT]( https://www.w3.org/Submission/EOT/)
- * [Embedded OpenType]( https://en.wikipedia.org/wiki/Embedded_OpenType)
- * [Leabú Cló]( https://en.wikipedia.org/wiki/Font_embedding )
+ * [Formáid Comhaid EOT](https://www.w3.org/Submission/EOT/)
+ * [Embedded OpenType](https://en.wikipedia.org/wiki/Embedded_OpenType)
+ * [Leabú Cló](https://en.wikipedia.org/wiki/Font_embedding )
 

@@ -50,6 +50,6 @@ Tá comhaid ASMX difriúil ó chomhaid ASPX agus ASCX.
 
 ## Tagairtí
 
- * [Seirbhís ASMX á ídiú]( https://learn.microsoft.com/en-us/xamarin/xamarin-forms/data-cloud/web-services/asmx)
+ * [Seirbhís ASMX á ídiú](https://learn.microsoft.com/en-us/xamarin/xamarin-forms/data-cloud/web-services/asmx)
  * [Rialú Úsáideora ASCX](https://beansoftware.com/ASP.NET-Tutorials/User-Control.aspx)
 

@@ -42,5 +42,5 @@ Gabhann comhaid AAE leis na pictiúir curtha in eagar nuair a iompórtálann tú
 
 ## Tagairtí
 
- * [Cad is comhad AAE ann?]( https://discussions.apple.com/thread/7810994)
+ * [Cad is comhad AAE ann?](https://discussions.apple.com/thread/7810994)
 

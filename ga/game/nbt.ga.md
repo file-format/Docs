@@ -36,6 +36,6 @@ Tá roinnt uirlisí bogearraí ar fáil chun comhaid NBT a oscailt agus a chur i
 - **MCEdit** (Saor in Aisce) le haghaidh (Windows, Linux)
 
 ## Tagairtí
-* [Formáid NBT]( https://minecraft.wiki/w/NBT_format)
+* [Formáid NBT](https://minecraft.wiki/w/NBT_format)
 
 

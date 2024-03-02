@@ -47,7 +47,7 @@ I socrú simplí:
 
 ## Tagairtí
 * [Autoconf Software](https://www.gnu.org/software/autoconf/)
-* [Bunús an Autotools]( https://devmanual.gentoo.org/general-concepts/autotools/index.html)
+* [Bunús an Autotools](https://devmanual.gentoo.org/general-concepts/autotools/index.html)
 
 
 

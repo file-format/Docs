@@ -37,6 +37,6 @@ OSU! tá treoracha mionsonraithe le haghaidh [creating OSZ](https://osu.ppy.sh/w
 
 ## Tagairtí
 
-* [OSU! Cluiche Rhythm]( https://osu.ppy.sh/home)
+* [OSU! Cluiche Rhythm](https://osu.ppy.sh/home)
 
 

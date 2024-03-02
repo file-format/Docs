@@ -31,6 +31,6 @@ Cruthaítear comhad próifíl CMS ag baint úsáide as Connection Manager agus d
 
 ## Tagairtí
 
-* [Bainisteoir Ceangail Windows a thuiscint agus a chumrú]( https://learn.microsoft.com/en-us/windows-hardware/drivers/mobilebroadband/understanding-and-configuring-windows-connection-manager)
+* [Bainisteoir Ceangail Windows a thuiscint agus a chumrú](https://learn.microsoft.com/en-us/windows-hardware/drivers/mobilebroadband/understanding-and-configuring-windows-connection-manager)
 
 

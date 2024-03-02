@@ -98,6 +98,6 @@ Seo cineálacha comhaid eile a úsáideann an síneadh comhad **.cue**.
 
 ## Tagairtí
 
-* [comhad .cda - Le Vicipéid]( https://en.wikipedia.org/wiki/.cda_file)
+* [comhad .cda - Le Vicipéid](https://en.wikipedia.org/wiki/.cda_file)
 
 

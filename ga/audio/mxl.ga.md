@@ -41,8 +41,8 @@ Sa sampla seo, tá an<container> eilimint an doiciméid. Tá an<rootfiles> is f�
 
 ## Tagairtí
 
-* [Comhaid MXL comhbhrúite]( https://www.w3.org/2021/06/musicxml40/tutorial/compressed-mxl-files/)
+* [Comhaid MXL comhbhrúite](https://www.w3.org/2021/06/musicxml40/tutorial/compressed-mxl-files/)
 
-* [RFC 1951]( https://www.ietf.org/rfc/rfc1951.txt)
+* [RFC 1951](https://www.ietf.org/rfc/rfc1951.txt)
 
 

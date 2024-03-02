@@ -57,6 +57,6 @@ Chun comhad .piv a oscailt in Pivot Animator, lean na céimeanna seo:
 7. Is féidir leat an beochan a chur in eagar anois nó é a sheinm ach Play> Seinn Beochan a roghnú.
 
 ## Tagairtí
-* [PIV - Beochan a Choigilt & a Oscailt]( https://pivotanimator.net/help4-2/saving___opening_animations.htm)
+* [PIV - Beochan a Choigilt & a Oscailt](https://pivotanimator.net/help4-2/saving___opening_animations.htm)
 
 

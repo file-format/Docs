@@ -39,6 +39,6 @@ Mar sin, is é WAL an téarma ginearálta don fhormáid comhaid, is é .db-wal c
 ## Tagairtí
 * [Formáid Comhaid mód WAL](https://www.sqlite.org/walformat.html)
 
-* [Scríobh-Logáil Roimh Ré]( https://www.sqlite.org/wal.html)
+* [Scríobh-Logáil Roimh Ré](https://www.sqlite.org/wal.html)
 
 

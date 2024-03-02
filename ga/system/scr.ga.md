@@ -77,7 +77,7 @@ Athraigh síneadh an chomhaid inrite ó .exe go .scr. Mar sin is féidir an comh
 
 ## Tagairtí 
 
-* [Scáileán]( https://ga.wikipedia.org/wiki/Screensaver)
+* [Scáileán](https://ga.wikipedia.org/wiki/Screensaver)
 
 * [Scríobh spárálaíscáileáin a oibríonn i ndáiríre](https://www.codeproject.com/Articles/14081/Write-a-Screensaver-that-Actually-Works)
 

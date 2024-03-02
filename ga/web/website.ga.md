@@ -31,6 +31,6 @@ Is féidir comhad SUÍOMH GRÉASÁIN a chruthú in IE trí chliceáil ar an URL 
 
 ## Tagairtí
 
-* [Osclóir WEBLOC]( https://github.com/benchdoos/WeblocOpener)
+* [Osclóir WEBLOC](https://github.com/benchdoos/WeblocOpener)
 
 

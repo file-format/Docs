@@ -27,6 +27,6 @@ Sábháiltear comhaid ESPROJ mar chomhaid dhénártha agus níl a bhfuil iontu i
 
 ## Tagairtí
 
-* [Adobe Edge]( https://www.adobe.com/sea/products/edge-animate.html)
+* [Adobe Edge](https://www.adobe.com/sea/products/edge-animate.html)
 
 

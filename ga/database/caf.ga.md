@@ -45,6 +45,6 @@ Seo cineálacha comhaid eile a úsáideann an síneadh comhad **.caf**.
 
 ## Tagairtí
 
- * [Cathy - Íoslódáil]( https://cathy.en.lo4d.com/windows)
+ * [Cathy - Íoslódáil](https://cathy.en.lo4d.com/windows)
 
 

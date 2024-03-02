@@ -36,9 +36,9 @@ Is féidir an síneadh comhad .opf a chatagóiriú i gcineálacha éagsúla comh
 
 ## Tagairtí ##
 
-* [Comhad OPF]( https://www.lynda.com/InDesign-tutorials/OPF-file/2803422/2247530-4.html)
+* [Comhad OPF](https://www.lynda.com/InDesign-tutorials/OPF-file/2803422/2247530-4.html)
 
-* [Leabhar oscailte]( https://en.wikipedia.org/wiki/Open_eBook)
+* [Leabhar oscailte](https://en.wikipedia.org/wiki/Open_eBook)
 
 
 

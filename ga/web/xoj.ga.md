@@ -47,6 +47,6 @@ Is il-ardán é Xournal agus is féidir a leabhair nótaí a shábháil mar chom
 
 ## Tagairtí
 
-* [Xournal++]( https://github.com/xournalpp/xournalpp)
+* [Xournal++](https://github.com/xournalpp/xournalpp)
 
 

@@ -63,9 +63,9 @@ Seo liosta de na gnéithe suntasacha a thairgeann Uimhreacha IWork:
 
 ## Tagairtí ##
 
-* [Uimhreacha (scarbhileog) - Vicipéid]( https://ga.wikipedia.org/wiki/Numbers_ (scarbhileog))
+* [Uimhreacha (scarbhileog) - Vicipéid](https://ga.wikipedia.org/wiki/Numbers_ (scarbhileog))
 
-* [Tugann Numbers do shonraí beo]( https://www.apple.com/numbers/)
+* [Tugann Numbers do shonraí beo](https://www.apple.com/numbers/)
 
 
 

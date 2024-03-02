@@ -27,7 +27,7 @@ Tagraíonn comhad .dbs, go sonrach iad siúd leis an síneadh SQLBase, do chomha
 Tá formáid comhaid .dbs de SQLBase dílsithe, ní féidir é a rochtain nó a mhodhnú ach úsáid a bhaint as uirlisí a bhaineann go sonrach le SQLBase. Is féidir na sonraí atá stóráilte i gcomhad .dbs a easpórtáil i bhformáidí eile cosúil le .csv agus .xls le haghaidh cúltaca nó le haghaidh aistrithe chuig córais bhainistíochta bunachar sonraí eile.
 
 ## Tagairtí
-* [SQLBase RDBMS - Gupta Technologies]( https://en.wikipedia.org/wiki/Gupta_Technologies)
+* [SQLBase RDBMS - Gupta Technologies](https://en.wikipedia.org/wiki/Gupta_Technologies)
 
 
 

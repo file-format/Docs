@@ -58,6 +58,6 @@ Go bunúsach is cartlann 7-Zip í an fhormáid CB7 féin le síneadh comhaid ar 
 Go hinmheánach, i gcomhad CB7 tá leathanaigh iolracha leabhar grinn nó íomhánna a chomhdhéanann an bailiúchán leabhar grinn. Go hiondúil déantar comhaid íomhá aonair a stóráil ar na leathanaigh seo, mar shampla JPEG, PNG nó GIF laistigh den chartlann. Féadfaidh nósanna imeachta eagrúcháin agus ainmniúcháin na leathanaigh seo a bheith éagsúil ag brath ar chruthaitheoir nó soláthraí an chomhaid CB7.
 
 ## Tagairtí
-* [Cartlann leabhar grinn]( https://en.wikipedia.org/wiki/Comic_book_archive)
+* [Cartlann leabhar grinn](https://en.wikipedia.org/wiki/Comic_book_archive)
 
 

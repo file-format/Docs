@@ -39,6 +39,6 @@ Is féidir le FileMaker Pro FM a thiontú go formáid comhaid .fmp12 go díreach
 
 ## Tagairtí
 
- * [FileMaker Pro]( https://www.claris.com/filemaker/)
+ * [FileMaker Pro](https://www.claris.com/filemaker/)
  * [PRONOM - Formáid Chomhaid FM](https://www.nationalarchives.gov.uk/PRONOM/fmt/1059)
 

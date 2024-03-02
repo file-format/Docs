@@ -104,6 +104,6 @@ Soláthraíonn Córas Priontála Windows don chuid is mó de na printéirí HP L
 
 ## Tagairtí ##
 
-* [PCL - Le Vicipéid]( https://en.wikipedia.org/wiki/Printer_Command_Language )
+* [PCL - Le Vicipéid](https://en.wikipedia.org/wiki/Printer_Command_Language )
 
 

@@ -44,6 +44,6 @@ Is logchomhad é logáil freastalaí i ndáiríre ina bhfuil liosta de ghníomha
 
 ## Tagairtí ##
 
-* [Comhad logála - Vicipéid]( https://ga.wikipedia.org/wiki/Log_file)
+* [Comhad logála - Vicipéid](https://ga.wikipedia.org/wiki/Log_file)
 
 

@@ -60,6 +60,6 @@ Oibríonn GSM ar líonra struchtúrtha ina bhfuil na codanna seo a leanas:
 
 ## Tagairtí ##
 
-* [GSM - Le Vicipéid]( https://en.wikipedia.org/wiki/Comparison_of_audio_coding_formats)
+* [GSM - Le Vicipéid](https://en.wikipedia.org/wiki/Comparison_of_audio_coding_formats)
 
 

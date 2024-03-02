@@ -27,9 +27,9 @@ Is cartlann iad comhaid NUPKG {{ HYPERLINK1}} ina bhfuil na leabharlanna pacáis
 
 ## Tagairt
 
-* [Nuget.org]( https://nuget.org)
+* [Nuget.org](https://nuget.org)
 
-* [Quickstart: Suiteáil agus úsáid pacáiste in Visual Studio (Windows amháin)]( https://learn.microsoft.com/en-us/nuget/quickstart/install-and-use-a-package-in-visual- stiúideo)
+* [Quickstart: Suiteáil agus úsáid pacáiste in Visual Studio (Windows amháin)](https://learn.microsoft.com/en-us/nuget/quickstart/install-and-use-a-package-in-visual- stiúideo)
 
 * [Conas Pacáiste Nuget a Chruthú agus a Fhoilsiú](https://learn.microsoft.com/en-us/nuget/quickstart/create-and-publish-a-package-using-visual-studio?tabs=netcore- cli)
 

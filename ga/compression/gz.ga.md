@@ -109,7 +109,7 @@ Tá buntásc an chomhaid 8 mbeart agus tá an fhaisnéis seo a leanas ann.
 
 ## Tagairtí ##
 
-* [gzip - Vicipéid]( https://ga.wikipedia.org/wiki/Gzip)
+* [gzip - Vicipéid](https://ga.wikipedia.org/wiki/Gzip)
 
 * [RFC1952: Sonraíocht formáid comhaid GZIP](https://datatracker.ietf.org/doc/html/rfc1952), le IETF.
 

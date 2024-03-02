@@ -115,6 +115,6 @@ Mar gheall ar [security vulnerability](https://support.microsoft.com/en-us/offic
 
 ## Tagairtí
 
-* [PostScript Encapsulated - Le Vicipéid]( https://en.wikipedia.org/wiki/Encapsulated_PostScript)
+* [PostScript Encapsulated - Le Vicipéid](https://en.wikipedia.org/wiki/Encapsulated_PostScript)
 
 

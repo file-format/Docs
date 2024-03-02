@@ -37,6 +37,6 @@ Is féidir comhaid bunachar sonraí CRYPT12 iolracha a aimsiú ar ghléas Androi
 Freagraíonn ainmneacha comhaid chomhaid CRYPT12 go hiondúil d’uimhir theileafóin nó ainm an teagmhálaí nó an ghrúpa a bhaineann le comhrá. Más gá duit do stair comhrá WhatsApp a aistriú chuig gléas nua, is féidir leat comhaid CRYPT12 a aistriú go gléas nua agus iad a dhíchriptiú ag baint úsáide as eochair criptithe chuí. Tabharfaidh sé seo deis duit rochtain a fháil ar do stair comhrá ar ghléas nua gan aon cheann de do theachtaireachtaí nó ceangaltáin a chailliúint.
 
 ## Tagairtí
-* [WhatsApp]( https://ga.wikipedia.org/wiki/WhatsApp)
+* [WhatsApp](https://ga.wikipedia.org/wiki/WhatsApp)
 
 

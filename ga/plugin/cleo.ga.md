@@ -37,5 +37,5 @@ Is breiseán insínte móréilimh é CLEO don tsraith cluichí Grand Theft Auto 
 
 ## Tagairtí
 
- * [Breiseáin CLEO]( https://cleo.li/plugins.html)
+ * [Breiseáin CLEO](https://cleo.li/plugins.html)
  * [CLEO](https://cleo.li/)

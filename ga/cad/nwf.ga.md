@@ -32,5 +32,5 @@ Níl sonraí formáid comhaid inmheánaigh NWF ar fáil mar is formáid comhaid 
 
 ## Tagairtí ##
 
- * [Navisworks le wikipedia]( https://en.wikipedia.org/wiki/Navisworks)
+ * [Navisworks le wikipedia](https://en.wikipedia.org/wiki/Navisworks)
 

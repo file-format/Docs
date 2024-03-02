@@ -37,5 +37,5 @@ Is féidir comhaid PSPIMAGE a chruthú mar Chomhad nua laistigh de PaintShop Pro
 
 ## Tagairtí
 
- * [Tiontú PSPIMAGE]( https://community.adobe.com/t5/photoshop-ecosystem-discussions/pspimage-conversion/mp/5288141)
+ * [Tiontú PSPIMAGE](https://community.adobe.com/t5/photoshop-ecosystem-discussions/pspimage-conversion/mp/5288141)
 

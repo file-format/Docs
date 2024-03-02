@@ -38,7 +38,7 @@ Is comhad fuaime é an comhad APE atá comhbhrúite le **Monkey's Audio**; algar
 
 ## Tagairtí
 
-* [Fuaim Moncaí - Le Vicipéid]( https://ga.wikipedia.org/wiki/Monkey%27s_Audio)
+* [Fuaim Moncaí - Le Vicipéid](https://ga.wikipedia.org/wiki/Monkey%27s_Audio)
 
 * [Monkey's Audio - comhbhrúiteoir fuaime tapa agus cumhachtach gan chailliúint] (https://monkeysaudio.com/index.html)
 

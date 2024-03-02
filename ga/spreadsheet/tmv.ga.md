@@ -35,6 +35,6 @@ Stóráiltear comhaid TMV ar diosca i bhformáid comhaid dílseánaigh CaseMap n
 
 ## Tagairtí ##
 
-* [LexisNexis CaseMap]( https://www.lexisnexis.com/en-us/products/casemap.page)
+* [LexisNexis CaseMap](https://www.lexisnexis.com/en-us/products/casemap.page)
 
 

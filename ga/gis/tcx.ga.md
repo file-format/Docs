@@ -40,7 +40,7 @@ A swift version of TCX XML format is available on Github as [TcxDataProtocol](ht
 
 ## Tagairtí ##
 
-* [Ionad Oiliúna XML]( https://en.wikipedia.org/wiki/Training_Center_XML)
+* [Ionad Oiliúna XML](https://en.wikipedia.org/wiki/Training_Center_XML)
 
 * [Amharcóir TCX](http://www.whiterocksoftware.com/2019/02/tcx-viewer.html)
 

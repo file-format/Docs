@@ -50,6 +50,6 @@ Leathnaíonn sciatha Arduino, cláir bhreise, feidhmiúlachtaí, ag tairiscint g
 Is féidir **Timpeallacht Chomhtháite Forbartha Arduino** a úsáid chun comhad INO a oscailt. Ach ós rud é gur comhaid gnáth-théacs iad, is féidir aon eagarthóir téacs a úsáid chun a ábhar a oscailt nó a chur in eagar.
 
 ## Tagairtí
-* [Arduino]( https://ga.wikipedia.org/wiki/Arduino)
+* [Arduino](https://ga.wikipedia.org/wiki/Arduino)
 
 

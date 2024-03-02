@@ -49,6 +49,6 @@ Is cuid thábhachtach de chóras oibriúcháin Windows é Bainisteoir Idirbheart
 Má scriostar an comhad seo, seans go mbeidh earráidí nó fadhbanna leis an gcóras oibriúcháin nó leis na bogearraí suiteáilte. Is féidir go mbeidh fadhbanna agat freisin maidir le cobhsaíocht an chórais, feidhmíocht nó feidhmiúlacht. Mar sin féin, is féidir comhaid regtrans-ms a cruthaíodh roimh an tosaithe córais deiridh a scriosadh go sábháilte.
 
 ## Tagairtí
-* [Clárlann Windows]( https://en.wikipedia.org/wiki/Windows_Registry)
+* [Clárlann Windows](https://en.wikipedia.org/wiki/Windows_Registry)
 
 

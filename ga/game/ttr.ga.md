@@ -52,6 +52,6 @@ Chun comhad TTR a oscailt, beidh ort TETR.IO a bheith suiteáilte ar do ríomhai
 Ní féidir leat ach comhaid TTR a oscailt laistigh de TETR.IO, mar go mbaineann siad go sonrach leis an gcluiche agus ní féidir iad a oscailt le bogearraí eile.
 
 ## Tagairtí
-* [TETR.IO]( https://tetris.wiki/TETR.IO)
+* [TETR.IO](https://tetris.wiki/TETR.IO)
 
 

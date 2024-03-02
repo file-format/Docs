@@ -60,6 +60,6 @@ Chun oibriú le comhaid .kodu, is gnách go n-úsáidfeá bogearraí Kodu Game L
 
 ## Tagairtí
 
-* [Kodu Game Lab]( https://www.kodugamelab.com/)
+* [Kodu Game Lab](https://www.kodugamelab.com/)
 
 

@@ -39,10 +39,10 @@ Is féidir le comhad ADMX a imscartar i dtimpeallacht oibre ligean do riarthóir
 
 ## Tagairtí
 
-* [Comhaid Teimpléad Riaracháin - ADMX]( https://learn.microsoft.com/en-us/mem/intune/configuration/administrative-templates-windows)
+* [Comhaid Teimpléad Riaracháin - ADMX](https://learn.microsoft.com/en-us/mem/intune/configuration/administrative-templates-windows)
 
 * [NetIQ - Comhaid Teimpléad Riaracháin a Bhainistiú](https://www.netiq.com/documentation/group-policy-administrator-69/grouppolicyadministratoruserguide/data/administrativetemplatefiles.html)
 
-* [SSDT]( https://wiki.osdev.org/SSDT )
+* [SSDT](https://wiki.osdev.org/SSDT )
 
 

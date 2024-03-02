@@ -24,5 +24,5 @@ Is comhad leathanach gréasáin é comhad XPD a cruthaíodh as doiciméad XML. N
 
 ## Tagairtí
 
- * [Píblíne XML]( https://www.w3.org/TR/xml-pipeline/)
+ * [Píblíne XML](https://www.w3.org/TR/xml-pipeline/)
 

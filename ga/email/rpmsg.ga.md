@@ -27,6 +27,6 @@ Déantar comhaid RPMSG a shábháil ar diosca i bhformáid dhénártha comhaid. 
 
 ## Tagairtí
 
-* [Microsoft Outlook]( https://outlook.live.com/owa/)
+* [Microsoft Outlook](https://outlook.live.com/owa/)
 
 

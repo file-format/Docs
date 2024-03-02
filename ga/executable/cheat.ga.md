@@ -62,6 +62,6 @@ Comhaid gnáth-théacs is ea comhaid CHEAT, ionas gur féidir iad a oscailt le h
 Chun comhad CHEAT a úsáid le Navi, feidhmchlár teirminéil tras-ardáin, is féidir leat an comhad a allmhairiú ó stór GitHub nó é a chur in eolaire Navi. Nuair a dhéanfaidh tú é seo, cuirfear na horduithe atá sa chomhad CHEAT ar fáil laistigh de Navi, rud a ligfidh duit tagairt a dhéanamh go tapa agus iad a úsáid.
 
 ## Tagairtí
-* [Navi – Cheatsheet Tool]( https://ostechnix.com/navi-an-interactive-commandline-cheatsheet-tool/)
+* [Navi – Cheatsheet Tool](https://ostechnix.com/navi-an-interactive-commandline-cheatsheet-tool/)
 
 

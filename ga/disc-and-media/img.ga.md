@@ -44,7 +44,7 @@ Bíonn an comhad tuairisceora den chuid is mó ag gabháil le híomhánna diosca
 
 ## Tagairtí ##
 
-* [IMG - le Vicipéid]( https://en.wikipedia.org/wiki/IMG_(file_format))
+* [IMG - le Vicipéid](https://en.wikipedia.org/wiki/IMG_(file_format))
 
 
 

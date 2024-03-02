@@ -28,6 +28,6 @@ Is comhaid dhénártha iad PSS nach bhfuil a sonraí formáid comhaid inmheánac
 
 ## Tagairtí
 
-* [Comhaid Scannáin PSS Playstation 2 á sracadh]( https://www.youtube.com/watch?v=_4nlHBoLp3o)
+* [Comhaid Scannáin PSS Playstation 2 á sracadh](https://www.youtube.com/watch?v=_4nlHBoLp3o)
 
 

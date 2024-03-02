@@ -90,7 +90,7 @@ An bhfuil ort rud éigin a roinnt faoi fhormáidí comhaid XLSX nó Scarbhileog?
 
 ## Tagairtí
 
-* [[MS-XLSX] - Formáid Chomhaid XLSX]( https://learn.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e)
+* [[MS-XLSX] - Formáid Chomhaid XLSX](https://learn.microsoft.com/en-us/openspecs/office_standards/ms-xlsx/2c5dee00-eff2-4b22-92b6-0738acd4475e)
 
 * [Oifig Oscailte XML](http://officeopenxml.com/anatomyofOOXML-xlsx.php)
 

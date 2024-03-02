@@ -49,6 +49,6 @@ Seo cineálacha comhaid eile a úsáideann an síneadh comhad **.cdx**.
 - [CDX - Alpha Five Table Index File](/programming/cdx/)
 
 ## Tagairtí
-* [Visual FoxPro]( https://en.wikipedia.org/wiki/Visual_FoxPro)
+* [Visual FoxPro](https://en.wikipedia.org/wiki/Visual_FoxPro)
 
 

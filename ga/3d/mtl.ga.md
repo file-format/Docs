@@ -101,6 +101,6 @@ Is comhaid téacs-bhunaithe iad comhaid MTL, ionas gur féidir iad a oscailt le 
 - Cheetah 3D
 
 ## Tagairtí
-* [Comhad Wavefront .obj]( https://en.wikipedia.org/wiki/Wavefront_.obj_file)
+* [Comhad Wavefront .obj](https://en.wikipedia.org/wiki/Wavefront_.obj_file)
 
 

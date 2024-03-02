@@ -64,6 +64,6 @@ Is iad seo a leanas teorainneacha VP8 i dtéarmaí réitigh, ráta sonraí agus 
  
 ## Tagairtí
 
- * [VP8 Vicipéid]( https://en.wikipedia.org/wiki/VP8#:~:text=VP8%20was%20first%20released%20by,%2C%20replace%20its%20predecessor%2C%20VP7.&text=On % 20 Bealtaine% 2019% 2C% 20 ag% 20its,% 20 neamh-inchúlghairthe% 20 in aisce% 20 paitinne% 20 ceadúnas)
- * [Nasc an Earraigh]( https://link.springer.com/chapter/10.1007/978-81-322-1157-0_32)
+ * [VP8 Vicipéid](https://en.wikipedia.org/wiki/VP8#:~:text=VP8%20was%20first%20released%20by,%2C%20replace%20its%20predecessor%2C%20VP7.&text=On % 20 Bealtaine% 2019% 2C% 20 ag% 20its,% 20 neamh-inchúlghairthe% 20 in aisce% 20 paitinne% 20 ceadúnas)
+ * [Nasc an Earraigh](https://link.springer.com/chapter/10.1007/978-81-322-1157-0_32)
 

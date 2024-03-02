@@ -37,8 +37,8 @@ Déantar comhaid KLQ a shábháil ar diosca i bhformáid chriptithe ionas nach m
 
 ## Tagairtí
 
-* [Sonraí Comhaid Coraintín]( https://forum.kaspersky.com/)
+* [Sonraí Comhaid Coraintín](https://forum.kaspersky.com/)
 
-* [Comhad KLQ]( https://forum.kaspersky.com/?q=klq%20file)
+* [Comhad KLQ](https://forum.kaspersky.com/?q=klq%20file)
 
 

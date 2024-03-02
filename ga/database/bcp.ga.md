@@ -68,5 +68,5 @@ Léirítear struchtúr an chomhaid fhormáide san fhormáid seo a leanas.
 
 ## Tagairtí
 
- * [Formáid BCP - Microsoft]( https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-bcp/54965c4d-34c7-400d-b970-1007984315a5)
+ * [Formáid BCP - Microsoft](https://learn.microsoft.com/en-us/openspecs/sql_data_portability/ms-bcp/54965c4d-34c7-400d-b970-1007984315a5)
 

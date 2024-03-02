@@ -44,7 +44,7 @@ Sainmhíníonn an caighdeán UDF na trí athrú córais comhad seo a leanas:
 
 ## Tagairtí 
 
-* [Formáid Íomháú Windows - le Vicipéid]( https://en.wikipedia.org/wiki/Windows_Imaging_Format)
+* [Formáid Íomháú Windows - le Vicipéid](https://en.wikipedia.org/wiki/Windows_Imaging_Format)
 
 
 

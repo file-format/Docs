@@ -32,5 +32,5 @@ Is comhad scarbhileog é comhad FCS a cruthaíodh le bogearraí PFS:First Choice
 ## Tagairtí
 
  * [PFD: First Choice](http://justsolve.archiveteam.org/wiki/PFS:First_Choice)
- * [Corparáid Foilsitheoireachta Bogearraí]( https://en.wikipedia.org/wiki/Software_Publishing_Corporation)
+ * [Corparáid Foilsitheoireachta Bogearraí](https://en.wikipedia.org/wiki/Software_Publishing_Corporation)
 

@@ -70,6 +70,6 @@ header := {
 ```
 ## Tagairtí
 
-* [Formáid OMBL]( https://github.com/grawity/obml-parser/blob/master/obml.md)
+* [Formáid OMBL](https://github.com/grawity/obml-parser/blob/master/obml.md)
 
 

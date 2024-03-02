@@ -61,6 +61,6 @@ Léiríonn an tábla seo a leanas an fhaisnéis faoi ghnáthfhritháireamh:
 
 ## Tagairtí
 
-* [comhad .cda - Le Vicipéid]( https://en.wikipedia.org/wiki/.cda_file)
+* [comhad .cda - Le Vicipéid](https://en.wikipedia.org/wiki/.cda_file)
 
 

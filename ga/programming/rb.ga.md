@@ -110,6 +110,6 @@ Gnáth-théacs is ea formáid an chomhaid .rb”, agus ionchódaítear é de ghn
 - `iarratas/x-ruby`
 
 ## Tagairtí
-* [Ruby (teanga ríomhchlárúcháin)]( https://en.wikipedia.org/wiki/Ruby_(programming_language))
+* [Ruby (teanga ríomhchlárúcháin)](https://en.wikipedia.org/wiki/Ruby_(programming_language))
 
 

@@ -77,8 +77,8 @@ Ionchódaíonn GML 1.0 agus 2.0 Polagán, Pointí agus réada LineString mar a l
 
 ## Tagairtí ##
 
-* [Sonraíochtaí GML]( https://www.ogc.org/standard/gml/)
+* [Sonraíochtaí GML](https://www.ogc.org/standard/gml/)
 
-* [GML - Le Vicipéid]( https://ga.wikipedia.org/wiki/Geography_Markup_Language)
+* [GML - Le Vicipéid](https://ga.wikipedia.org/wiki/Geography_Markup_Language)
 
 

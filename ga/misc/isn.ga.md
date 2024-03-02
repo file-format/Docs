@@ -39,6 +39,6 @@ Ag brath ar chastacht na mbogearraí atá á suiteáil, féadfaidh an draoi suit
 Tar éis na comhaid go léir a chóipeáil, féadfaidh an draoi spreagadh a thabhairt don úsáideoir aicearraí deisce a chruthú nó iontrálacha roghchláir a thosú do na bogearraí nua-shuiteáilte. Nuair a bheidh an tsuiteáil críochnaithe, is féidir leis an úsáideoir na bogearraí a sheoladh agus tosú á úsáid.
 
 ## Tagairtí
-* [InstallShield]( https://www.revenera.com/install/products/installshield)
+* [InstallShield](https://www.revenera.com/install/products/installshield)
 
 

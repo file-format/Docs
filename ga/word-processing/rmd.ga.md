@@ -48,6 +48,6 @@ Go ginearálta ba chóir duit comhad RMD a oscailt in RStudio, mar go dtacaíonn
 Más é do rún ach féachaint ar a bhfuil sa chomhad RMD, is féidir leat é a oscailt le haon eagarthóir téacs.
 
 ## Tagairtí
-* [Réamhrá ar R Markdown]( https://rmarkdown.rstudio.com/articles_intro.html)
+* [Réamhrá ar R Markdown](https://rmarkdown.rstudio.com/articles_intro.html)
 
 

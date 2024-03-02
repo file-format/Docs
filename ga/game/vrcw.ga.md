@@ -58,6 +58,6 @@ Má tá tú ag teacht ar theachtaireacht earráide nó saincheist a deir Níl VR
 - Saincheisteanna ardán VRChat: Ó am go chéile, d'fhéadfadh saincheisteanna teicniúla nó bristeacha a bheith ag an ardán VRChat a chuireann cosc ar Worlds ó luchtú i gceart. Sna cásanna seo, b'fhéidir go bhfaighidh tú teachtaireacht earráide a deir Níl VRCW ann agus tú ag iarraidh Domhan a luchtú.
 
 ## Tagairtí
-* [VRChat]( https://ga.wikipedia.org/wiki/VRChat)
+* [VRChat](https://ga.wikipedia.org/wiki/VRChat)
 
 

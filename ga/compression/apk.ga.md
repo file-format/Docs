@@ -81,6 +81,6 @@ Is fiú a thabhairt faoi deara go bhfuil an comhad APK a ghintear ó Android Stu
 
 ## Tagairtí
 
-* [Formáid Comhaid APK]( https://en.wikipedia.org/wiki/Android_application_package)
+* [Formáid Comhaid APK](https://en.wikipedia.org/wiki/Android_application_package)
 
 

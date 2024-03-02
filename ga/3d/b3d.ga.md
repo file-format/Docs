@@ -71,6 +71,6 @@ BB3D
 
 
 ## Tagairtí
- * [B3D]( https://moddb.fandom.com/wiki/B3D )
- * [Blitz BASIC]( https://ga.wikipedia.org/wiki/Blitz_BASIC)
+ * [B3D](https://moddb.fandom.com/wiki/B3D )
+ * [Blitz BASIC](https://ga.wikipedia.org/wiki/Blitz_BASIC)
 

@@ -51,6 +51,6 @@ Tairgeann bogearraí TeX roinnt gnéithe nach raibh ar fáil, nó ar cháilíoch
 
 ## Tagairtí ##
 
-* [Córas clóchuradóireachta TeX]( https://en.wikipedia.org/wiki/TeX)
+* [Córas clóchuradóireachta TeX](https://en.wikipedia.org/wiki/TeX)
 
 

@@ -46,7 +46,7 @@ Forbraíodh formáid comhaid .PRC níos déanaí, agus úsáidtear í chun ábha
 Cé go mbaineann an fhormáid PalmDOC go príomha le feistí Palm Pilot, tá sé in úsáid ag roinnt gléasanna r-léitheoir eile agus ardáin bogearraí thar na blianta. Tá an fhormáid .prc i léig den chuid is mó anois, tar éis na formáidí .mobi agus .azw níos nuaí a úsáideann ardán Kindle Amazon a chur ina n-ionad. Mar sin féin, d'fhéadfadh roinnt gléasanna agus bogearraí ríomhléitheoir níos sine tacú le comhaid .prc fós, agus is féidir comhaid .prc a thiontú go formáidí eile ag baint úsáide as uirlisí bogearraí cosúil le Calibre nó bogearraí Amazon Kindle Convert.
 
 ## Tagairtí
-* [PRC (Palm OS)]( https://en.wikipedia.org/wiki/PRC_(Palm_OS))
+* [PRC (Palm OS)](https://en.wikipedia.org/wiki/PRC_(Palm_OS))
 
 
 

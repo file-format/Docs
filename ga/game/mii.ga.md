@@ -47,8 +47,8 @@ I ngach cás, ní mór cuntas Nintendo a bheith agat chun do avatar a chruthú a
 
 ## Tagairtí
 
-* [Mo Eagarthóir Avatar]( https://rc24.xyz/goodies/mii/)
+* [Mo Eagarthóir Avatar](https://rc24.xyz/goodies/mii/)
 
-* [Wii Brew]( https://wiibrew.org/wiki/Mii_data)
+* [Wii Brew](https://wiibrew.org/wiki/Mii_data)
 
 

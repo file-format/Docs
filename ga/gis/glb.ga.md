@@ -27,6 +27,6 @@ Stórálann comhaid GLB faisnéis faoi uigeachtaí, íomhánna, agus comhaid eil
 
 ## Tagairtí ##
 
-* [AGI - An Buntáiste gltf]( https://www.agi.com/products/stk/the-gltf-advantage)
+* [AGI - An Buntáiste gltf](https://www.agi.com/products/stk/the-gltf-advantage)
 
 

@@ -38,7 +38,7 @@ Den chuid is mó tá daoine fiosrach a fháil amach an féidir comhaid XPI a shu
 
 ## Tagairtí
 
-* [XPInstall - Vicipéid]( https://ga.wikipedia.org/wiki/XPInstall)
+* [XPInstall - Vicipéid](https://ga.wikipedia.org/wiki/XPInstall)
 
 * [Conas is féidir liom Síneadh Comhad XPI a oscailt?](https://support.mozilla.org/en-US/questions/1009049)
 

@@ -66,6 +66,6 @@ Is féidir tagairt iomlán a dhéanamh d'acmhainní freisin. Tá URL iomlán an 
 
 ## Tagairtí ##
 
-* [Comhaid Google Earth agus KMZ]( https://developers.google.com/kml/documentation/kmzarchives#google-earth-and-kmz-archives)
+* [Comhaid Google Earth agus KMZ](https://developers.google.com/kml/documentation/kmzarchives#google-earth-and-kmz-archives)
 
 

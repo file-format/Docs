@@ -73,6 +73,6 @@ Is féidir leis an Autodesk Fusion 360 comhaid STP a thiontú go dtí na formái
 
 ## Tagairtí
 
- * [ISO 10303-21 - Vicipéid]( https://ga.wikipedia.org/wiki/ISO_10303-21)
+ * [ISO 10303-21 - Vicipéid](https://ga.wikipedia.org/wiki/ISO_10303-21)
  * [Autodesk Fusion 360](https://www.autodesk.com/products/fusion-360/overview)
 

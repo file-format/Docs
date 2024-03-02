@@ -79,6 +79,6 @@ Tá comhaid HPGL i bhformáid ASCII (comhad téacs) agus is beag orduithe socrai
 |LBHello World*;|tarraing lipéad|
 
 ## Tagairtí
- * [HPGL le Vicipéid]( https://ga.wikipedia.org/wiki/HP-GL)
+ * [HPGL le Vicipéid](https://ga.wikipedia.org/wiki/HP-GL)
  * [Treoir Tagartha HPGL](https://www.isoplotec.co.jp/HPGL/eHPGL.htm)
 

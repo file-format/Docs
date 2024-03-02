@@ -124,10 +124,10 @@ Níl sa leantóir foirceanta comhaid le haghaidh DWF ach opcode speisialta a lé
 
 ## Tagairtí ##
 
-* [DWF - Le Vicipéid]( https://ga.wikipedia.org/wiki/Design_Web_Format)
+* [DWF - Le Vicipéid](https://ga.wikipedia.org/wiki/Design_Web_Format)
 
 * [Formáid Sonraí WHIP](http://paulbourke.net/dataformats/whip/)
 
-* [ https://learn.microsoft.com/en-us/archive/blogs/opc/adventures-in-packaging-episode-1 ]( https://learn.microsoft.com/en-us/archive/blogs /opc/eachtraí-i-phacáistiú-eipeasóid-1)
+* [https://learn.microsoft.com/en-us/archive/blogs/opc/adventures-in-packaging-episode-1 ](https://learn.microsoft.com/en-us/archive/blogs /opc/eachtraí-i-phacáistiú-eipeasóid-1)
 
 

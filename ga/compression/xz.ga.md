@@ -54,6 +54,6 @@ $ xz --decompress compressed_xz_file.xz
 
 ## Tagairtí
 
-* [XZ Utils]( https://ga.wikipedia.org/wiki/XZ_Utils)
+* [XZ Utils](https://ga.wikipedia.org/wiki/XZ_Utils)
 
 

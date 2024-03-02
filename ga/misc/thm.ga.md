@@ -34,6 +34,6 @@ Is féidir bogearraí Sony Themes Creator a úsáid chun téamaí nua a ghiniúi
 
 ## Tagairtí
 
-* [Treoir Fhorbróirí Cruthaitheoir Téamaí Sony]( https://developer.sony.com/theme-creator/get-started)
+* [Treoir Fhorbróirí Cruthaitheoir Téamaí Sony](https://developer.sony.com/theme-creator/get-started)
 
 

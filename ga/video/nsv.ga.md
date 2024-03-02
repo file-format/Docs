@@ -27,5 +27,5 @@ Is formáid comhaid físe coimeádán gaile é NSV a forbraíodh chun físeáin 
 
 ## Tagairtí
 
- * [Físeán NullSoft Stream - Vicipéid]( https://en.wikipedia.org/wiki/Nullsoft_Streaming_Video)
+ * [Físeán NullSoft Stream - Vicipéid](https://en.wikipedia.org/wiki/Nullsoft_Streaming_Video)
 

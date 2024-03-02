@@ -27,7 +27,7 @@ Cruthaítear comhaid NÍOS LÚ i bhformáid CSS, ag leathnú a chumais trí na g
 
 ## Tagairtí
 
-* [Stílbhileoga níos tanaí]( https://lesscss.org/)
+* [Stílbhileoga níos tanaí](https://lesscss.org/)
 
 * [Leaner Style Sheets Docs - Github](https://github.com/less/less-docs)
 

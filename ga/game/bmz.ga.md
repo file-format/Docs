@@ -50,5 +50,5 @@ Tá treoirlínte bunaithe ag an bpobal forbróirí ag Valve Software do dhaoine 
 ## Tagairtí
 
  * [Cruthaigh agus Suiteáil Comhaid Léarscáil Bónais - De réir Bogearraí Comhla](https://developer.valvesoftware.com/wiki/Bonus_Maps)
- * [Script Dúshlán Tairseach]( https://developer.valvesoftware.com/wiki/Portal_Challenge_Script)
+ * [Script Dúshlán Tairseach](https://developer.valvesoftware.com/wiki/Portal_Challenge_Script)
 

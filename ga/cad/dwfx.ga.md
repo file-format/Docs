@@ -32,5 +32,5 @@ Cosúil le DWF, déanann Autodesk DWFx a fhorbairt i bhformáid chomhbhrúite ch
 
 ## Tagairtí
 
- * [Formáid Ghréasáin Dearaidh]( https://en.wikipedia.org/wiki/Design_Web_Format)
+ * [Formáid Ghréasáin Dearaidh](https://en.wikipedia.org/wiki/Design_Web_Format)
 

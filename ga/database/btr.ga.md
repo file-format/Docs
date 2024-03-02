@@ -47,7 +47,7 @@ Braitheann sonraí a aisghabháil ó chomhad BTR ar an gcomhad DDF a bhaineann l
 
 ## Tagairtí
 
-* [Btrieve - Vicipéid]( https://ga.wikipedia.org/wiki/Btrieve)
+* [Btrieve - Vicipéid](https://ga.wikipedia.org/wiki/Btrieve)
 
 * [Introduction to Btreive APIs](https://docs.actian.com/psql/PSQLv13/index.html#page/btrieveapi%2Fbtrintro.htm)
 

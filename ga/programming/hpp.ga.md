@@ -85,6 +85,6 @@ Is comhad gnáth-théacs é HPP ach leanann sé rialacha ginearálta agus comhr�
 - **Dearbhuithe Ainmspáis:** Má tá spásanna ainmneacha á n-úsáid agat i do chód, is féidir leat iad a dhearbhú laistigh de chomhad .hpp. Déantar é seo trí úsáid a bhaint as eochairfhocal `namespace` agus an t-ainm spásainm ina dhiaidh sin agus an cód ábhartha laistigh den bhloc ainmspáis faoi iamh.
 
 ## Tagairtí
-* [Comhaid header (C++)]( https://learn.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-160)
+* [Comhaid header (C++)](https://learn.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-160)
 
 

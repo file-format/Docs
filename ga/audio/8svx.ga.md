@@ -49,6 +49,6 @@ Seo sampla de chomhad fuaime 8SVX IFF amháin:
 
 ## Tagairtí ##
 
-* [8SVX - Le Vicipéid]( https://ga.wikipedia.org/wiki/8SVX)
+* [8SVX - Le Vicipéid](https://ga.wikipedia.org/wiki/8SVX)
 
 

@@ -27,6 +27,6 @@ Déantar comhaid SFG a shábháil ar diosca i bhformáid chomhaid ZIP chomhbhrú
 
 ## Tagairtí
 
- * [Synfig Studio]( https://www.synfig.org/)
+ * [Synfig Studio](https://www.synfig.org/)
  * [Synfig Documentation](https://synfig.readthedocs.io/en/latest/index.html)
 

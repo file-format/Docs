@@ -44,6 +44,6 @@ D'fhorbair Mike O'Brien an fhormáid comhaid MPQ ar dtús chun sonraí cluiche a
 
 ## Tagairtí
 
-* [HandWiki - MPQ]( https://handwiki.org/wiki/MPQ_(file_format))
+* [HandWiki - MPQ](https://handwiki.org/wiki/MPQ_(file_format))
 
 

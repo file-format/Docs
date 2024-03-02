@@ -105,8 +105,8 @@ cá
 
 ## Tagairtí
 
-* [Formáid Cartlainne RAR 5.0]( https://www.rarlab.com/technote.htm)
+* [Formáid Cartlainne RAR 5.0](https://www.rarlab.com/technote.htm)
 
-* [RAR - Le Vicipéid]( https://en.wikipedia.org/wiki/RAR_(file_format))
+* [RAR - Le Vicipéid](https://en.wikipedia.org/wiki/RAR_(file_format))
 
 

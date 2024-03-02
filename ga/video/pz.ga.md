@@ -35,8 +35,8 @@ Tá na cláir ClipMaker agus Backgrounder ag Panzoid a úsáidtear le chéile ch
 
 ## Tagairtí ##
 
-* [Panzoid]( https://panzoid.com/)
+* [Panzoid](https://panzoid.com/)
 
-* [Plé Panzoid]( https://panzoid.com/discussions)
+* [Plé Panzoid](https://panzoid.com/discussions)
 
 

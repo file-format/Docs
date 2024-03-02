@@ -27,6 +27,6 @@ Déantar comhaid DOCHTML a shábháil ar diosca i bhformáid HTML atá réidh le
 
 ## Tagairtí ##
 
-* [DOCTYPE HTML]( https://www.w3schools.com/tags/tag_doctype.asp)
+* [DOCTYPE HTML](https://www.w3schools.com/tags/tag_doctype.asp)
 
 

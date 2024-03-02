@@ -49,6 +49,6 @@ Seo cineálacha comhaid eile a úsáideann an síneadh comhad **.vdf**.
 - [VDF - VirtualDub Video Filter File](/plugin/vdf/)
 
 ## Tagairtí
-* [Gotach (sraith)]( https://en.wikipedia.org/wiki/Gothic_(series))
+* [Gotach (sraith)](https://en.wikipedia.org/wiki/Gothic_(series))
 
 

@@ -61,6 +61,6 @@ Seo na táblaí Ceanntásc TTC den dá leagan:
 |uint32| dsigOffset |Fritháireamh (i mbeart) an tábla DSIG ó thús an chomhaid TTC (níl aon síniú)|
 
 ## Tagairtí
- * [An Comhad Cló OpenType]( https://learn.microsoft.com/en-us/typography/opentype/spec/otff)
- * [TrueType (Wikipedia)]( https://en.wikipedia.org/wiki/TrueType)
+ * [An Comhad Cló OpenType](https://learn.microsoft.com/en-us/typography/opentype/spec/otff)
+ * [TrueType (Wikipedia)](https://en.wikipedia.org/wiki/TrueType)
 

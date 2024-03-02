@@ -49,7 +49,7 @@ Mura bhfuil tú in ann an comhad AEP a oscailt agus a rith; ní chiallaíonn sé
 
 ## Tagairtí
 
-* [Tiomsaitheoir Ríomhleabhar Gníomhach 4.22]( https://activ-e-book-compiler.software.informer.com/)
+* [Tiomsaitheoir Ríomhleabhar Gníomhach 4.22](https://activ-e-book-compiler.software.informer.com/)
 
 
 

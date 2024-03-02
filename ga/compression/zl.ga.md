@@ -58,6 +58,6 @@ bits 4 to 7  CINFO  Compression info
 
 ## Tagairtí ##
 
-* [Sonraíochtaí Formáid Comhaid Zlib]( https://tools.ietf.org/html/rfc1950)
+* [Sonraíochtaí Formáid Comhaid Zlib](https://tools.ietf.org/html/rfc1950)
 
 

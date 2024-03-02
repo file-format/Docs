@@ -59,6 +59,6 @@ Is gnách go ndéantar comhaid EXP a phróiseáil go huathoibríoch ag uirlisí 
 Más forbróir thú a oibríonn le comhad EXP, de ghnáth ní gá duit an comhad a oscailt de láimh nó idirghníomhú leis. Ina áit sin, bheifeá ag brath ar uirlisí forbartha nó timpeallachtaí ríomhchlárúcháin a úsáideann an comhad EXP go hinmheánach chun a gcríocha faoi seach, mar nascadh, dífhabhtú nó próifíliú.
 
 ## Tagairtí
-* [Comhaid Exp mar Ionchur Linker]( https://learn.microsoft.com/en-us/cpp/build/reference/dot-exp-files-as-linker-input?view=msvc-170)
+* [Comhaid Exp mar Ionchur Linker](https://learn.microsoft.com/en-us/cpp/build/reference/dot-exp-files-as-linker-input?view=msvc-170)
 
 

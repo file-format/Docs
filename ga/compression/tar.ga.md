@@ -106,8 +106,8 @@ Má tá Linux nó an aip Mac Terminal in úsáid agat, úsáid tar -xvf le hagha
 
 ## Tagairtí ##
 
-* [TAR - Le Vicipéid]( https://ga.wikipedia.org/wiki/Tar_(computing))
+* [TAR - Le Vicipéid](https://ga.wikipedia.org/wiki/Tar_(computing))
 
-* [Formáid Bhunúsach TAR]( https://www.gnu.org/software/tar/manual/html_node/Standard.html)
+* [Formáid Bhunúsach TAR](https://www.gnu.org/software/tar/manual/html_node/Standard.html)
 
 

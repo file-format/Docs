@@ -35,6 +35,6 @@ Tá an fhaisnéis seo leabaithe ag baint úsáide as an teicneolaíocht Public-E
 
 ## Tagairtí ##
 
-* [Uirlis Chomhartha Microsoft]( https://learn.microsoft.com/en-us/windows-hardware/drivers/devtest/signtool)
+* [Uirlis Chomhartha Microsoft](https://learn.microsoft.com/en-us/windows-hardware/drivers/devtest/signtool)
 
 

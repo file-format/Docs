@@ -129,8 +129,8 @@ Tacaíonn go leor pacáistí bogearraí mapála agus GIS le GeoJSON lena n-áir�
 
 ## Tagairtí ##
 
-* [macwright.org]( https://macwright.org/2015/03/23/geojson-second-bite.html)
+* [macwright.org](https://macwright.org/2015/03/23/geojson-second-bite.html)
 
-* [GeoJSON - Le Vicipéid]( https://en.wikipedia.org/wiki/GeoJSON)
+* [GeoJSON - Le Vicipéid](https://en.wikipedia.org/wiki/GeoJSON)
 
 

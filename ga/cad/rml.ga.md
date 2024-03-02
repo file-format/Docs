@@ -27,5 +27,5 @@ Cruthaítear comhaid RML agus sábháltar iad ar diosca i bhformáid comhaid XML
 
 ## Tagairtí
 
- * [Autodesk]( https://autodesk.com)
+ * [Autodesk](https://autodesk.com)
 

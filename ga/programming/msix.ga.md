@@ -42,6 +42,6 @@ Tá pacáiste MSIX comhdhéanta de na comhaid seo a leanas.
 
 ## Tagairtí
 
- * [Forbhreathnú MSIX]( https://learn.microsoft.com/en-us/windows/msix/overview)
- * [Cruthaigh comhaid APPX ag baint úsáide as Microsoft Visual Studio]( https://learn.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
+ * [Forbhreathnú MSIX](https://learn.microsoft.com/en-us/windows/msix/overview)
+ * [Cruthaigh comhaid APPX ag baint úsáide as Microsoft Visual Studio](https://learn.microsoft.com/en-us/windows/msix/desktop/vs-package-overview)
 

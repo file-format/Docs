@@ -36,6 +36,6 @@ Is formáid dlúthchomhaid é AZW agus níl a sonraíochtaí ar fáil go poiblí
 
 ## Tagairtí ##
 
-* [Formáid Kindle Comhaid - Vicipéid]( https://en.wikipedia.org/wiki/Kindle_File_Format)
+* [Formáid Kindle Comhaid - Vicipéid](https://en.wikipedia.org/wiki/Kindle_File_Format)
 
 

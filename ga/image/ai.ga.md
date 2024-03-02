@@ -60,6 +60,6 @@ Is seichimh d’eilimintí grafacha iad na hoibreoirí sa script atá scríofa s
 ## Tagairtí
 * [Sonraíochtaí Formáid Comhaid Adobe Illustrator](https://web.archive.org/web/20150906044646/http://partners.adobe.com/public/developer/en/illustrator/sdk/AI7FileFormat.pdf)
 
-* [Formáid Comhaid AI le PaintShopPro]( https://www.paintshoppro.com/en/pages/ai-file/)
+* [Formáid Comhaid AI le PaintShopPro](https://www.paintshoppro.com/en/pages/ai-file/)
 
 

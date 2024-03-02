@@ -27,6 +27,6 @@ Sábháltar comhaid SAORWAY i bhformáid comhaid dílseánaigh agus níl a sonra
 
 ## Tagairtí
 
-* [Bogearraí Freeway]( https://ga.wikipedia.org/wiki/Freeway_(software))
+* [Bogearraí Freeway](https://ga.wikipedia.org/wiki/Freeway_(software))
 
 

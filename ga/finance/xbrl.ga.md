@@ -56,7 +56,7 @@ Is féidir le ríomhchláraitheoirí faisnéis iomlán faoin [XBRL 2.1 tags](htt
 
 ## Tagairtí ##
 
-* [XBRL - Le Vicipéid]( https://ga.wikipedia.org/wiki/XBRL)
+* [XBRL - Le Vicipéid](https://ga.wikipedia.org/wiki/XBRL)
 
 * [Teanga Tuairiscithe Gnó Leathnaithe (XBRL) 2.1](https://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected- errata-2013-02-20.html)
 

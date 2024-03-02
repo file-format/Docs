@@ -75,6 +75,6 @@ Déantar idirdhealú idir Swift agus teangacha cláir eile bunaithe ar na gnéit
 `Foinse Oscailte` - Is foinse oscailte é Swift leis na céadta ranníocaíocht ó bhaill Swift Community. Tá rianaithe fabhtanna láidir, fóraim agus tógálacha forbartha rialta mar thaca aige atá ar fáil go poiblí do chách.
 
 ## Tagairtí
- * [Swift - GitHub]( https://github.com/apple/swift)
- * [Swift - Vicipéid]( https://ga.wikipedia.org/wiki/Swift_(programming_language))
+ * [Swift - GitHub](https://github.com/apple/swift)
+ * [Swift - Vicipéid](https://ga.wikipedia.org/wiki/Swift_(programming_language))
 

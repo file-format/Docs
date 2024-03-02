@@ -27,7 +27,7 @@ Déantar comhaid AP a óstáil ar an bhfreastalaí Gréasáin le cabhair ó na b
 
 ## Tagairtí
 
-* [ASP - Le W3C]( https://www.w3schools.com/asp/default.asp)
+* [ASP - Le W3C](https://www.w3schools.com/asp/default.asp)
 
 * [Ag Cruthú Leathanaigh ASP Simplí](https://learn.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524741(v=vs.90))
 

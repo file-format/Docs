@@ -80,7 +80,7 @@ Tugtar méid fráma na modhanna AMR i mbeart (lena n-áirítear beart an cheannt
 
 ## Tagairtí ##
 
-* [Codaitheoir fuaime Ilráta Oiriúnaitheach - De réir Vicipéid]( https://en.wikipedia.org/wiki/Adaptive_Multi-Rate_audio_codec)
+* [Codaitheoir fuaime Ilráta Oiriúnaitheach - De réir Vicipéid](https://en.wikipedia.org/wiki/Adaptive_Multi-Rate_audio_codec)
 
 * [Formáid Pála-Ualaigh RTP agus Formáid Stórála Comhad le haghaidh codecs Fuaime AMR agus AMR-WB](https://tools.ietf.org/html/rfc4867#page-35)
 

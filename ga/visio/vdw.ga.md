@@ -29,6 +29,6 @@ The technical specifications of VDW file format are available online by [Microso
 
 ## Tagairtí
 
-* [[MS-VGSFF]: Formáid Comhaid Visio Graphics Service (.vdw)]( https://msdn.microsoft.com/en-us/library/dd924076(v#office.12).aspx)
+* [[MS-VGSFF]: Formáid Comhaid Visio Graphics Service (.vdw)](https://msdn.microsoft.com/en-us/library/dd924076(v#office.12).aspx)
 
 

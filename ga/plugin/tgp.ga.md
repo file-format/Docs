@@ -29,5 +29,5 @@ Bhí cáil ar Terragen Classic mar gheall ar a chumais chun tírdhreacha agus t�
 
 ## Tagairtí
 
- * [Bogearraí PlanetSide]( https://planetside.co.uk/)
+ * [Bogearraí PlanetSide](https://planetside.co.uk/)
 

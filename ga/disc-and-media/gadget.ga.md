@@ -46,8 +46,8 @@ Is féidir Ilchéimeanna de chomhad GADGET a rith go comhuaineach. Mar shampla, 
 
 ## Tagairtí 
 
-* [Bar Taoibh Windows - le Microsoft]( https://learn.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-entry)
+* [Bar Taoibh Windows - le Microsoft](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-entry)
 
-* [Giuirléid a fhorbairt do Windows Sidebar Cuid 1]( https://learn.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-overview-gdo)
+* [Giuirléid a fhorbairt do Windows Sidebar Cuid 1](https://learn.microsoft.com/en-us/previous-versions/windows/desktop/sidebar/-sidebar-overview-gdo)
 
 

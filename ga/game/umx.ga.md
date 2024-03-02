@@ -37,7 +37,7 @@ Déantar comhaid UMX a shábháil ar diosca i bhformáid dhénártha comhaid ag 
 
 ## Tagairtí
 
- * [Comórtas Unreal]( https://www.epicgames.com/unrealtournament/en-US/)
- * [Tournament Unreal]( https://ga.wikipedia.org/wiki/Unreal_Tournament)
- * [Pobal Tournament Unreal]( https://discord.com/invite/unrealtournament)
+ * [Comórtas Unreal](https://www.epicgames.com/unrealtournament/en-US/)
+ * [Tournament Unreal](https://ga.wikipedia.org/wiki/Unreal_Tournament)
+ * [Pobal Tournament Unreal](https://discord.com/invite/unrealtournament)
 

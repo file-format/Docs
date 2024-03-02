@@ -85,5 +85,5 @@ Main-Class: com.example.MyClassName
 ## Tagairtí
 
  * [JAR File Overview](https://docs.oracle.com/javase/8/docs/technotes/guides/jar/jarGuide.html)
- * [Formáid Comhaid JAR]( https://en.wikipedia.org/wiki/JAR_(file_format))
+ * [Formáid Comhaid JAR](https://en.wikipedia.org/wiki/JAR_(file_format))
 

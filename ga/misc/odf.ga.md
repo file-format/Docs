@@ -43,8 +43,8 @@ Is féidir comhaid ODF a oscailt san fheidhmchlár OpenOffice Math. Mar sin féi
 
 ## Tagairtí
 
-* [ODF - Vicipéid]( https://ga.wikipedia.org/wiki/OpenDocument)
+* [ODF - Vicipéid](https://ga.wikipedia.org/wiki/OpenDocument)
 
-* [Ag úsáid Apache OpenOffice Math]( https://wiki.openoffice.org/wiki/Documentation/OOo3_User_Guides/Math_Guide)
+* [Ag úsáid Apache OpenOffice Math](https://wiki.openoffice.org/wiki/Documentation/OOo3_User_Guides/Math_Guide)
 
 

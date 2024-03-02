@@ -34,7 +34,7 @@ Déantar comhaid XFDF a shábháil i bhformáid comhaid XML, formáid uilíoch a
 
 ## Tagairtí
 
-* [Tacaíocht Formáid FDF le Acrobat]( https://helpx.adobe.com/coldfusion/developing-applications/working-with-documents-charts-and-reports/assembling-pdf-documents/fdf-format-support-for -acroforms.html)
+* [Tacaíocht Formáid FDF le Acrobat](https://helpx.adobe.com/coldfusion/developing-applications/working-with-documents-charts-and-reports/assembling-pdf-documents/fdf-format-support-for -acroforms.html)
 
 * [Adobe Developer Resources](https://opensource.adobe.com/dc-acrobat-sdk-docs/)
 

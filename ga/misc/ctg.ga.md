@@ -37,6 +37,6 @@ Déantar comhaid CTG a shábháil i bhformáid comhaid dílseánaigh canon. Gint
 
 ## Tagairtí
 
-* [Fillteán Java timpeall ar Fhoireann Forbartha Bogearraí Digiteach Canon EOS EDSDK]( https://github.com/kritzikratzi/edsdk4j|
+* [Fillteán Java timpeall ar Fhoireann Forbartha Bogearraí Digiteach Canon EOS EDSDK](https://github.com/kritzikratzi/edsdk4j|
 
 

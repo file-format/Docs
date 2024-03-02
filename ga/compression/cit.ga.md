@@ -31,6 +31,6 @@ Is comhlacht bogearraí é In8 a bhfuil saineolas aige ar fheidhmchláir a fhorb
 
 ## Tagairtí
 
-* [In8Cite]( https://www.in8development.com/in8cite-2/)
+* [In8Cite](https://www.in8development.com/in8cite-2/)
 
 

@@ -159,8 +159,8 @@ Modhanna Comhbhrúite:
 
 ## Tagairt ##
 
-* [Formáid Chomhaid PSB - Le Adobe]( https://www.adobe.com/devnet-apps/photoshop/fileformatashtml/)
+* [Formáid Chomhaid PSB - Le Adobe](https://www.adobe.com/devnet-apps/photoshop/fileformatashtml/)
 
-* [PSB - Vicipéid]( https://ga.wikipedia.org/wiki/Adobe_Photoshop#File_format)
+* [PSB - Vicipéid](https://ga.wikipedia.org/wiki/Adobe_Photoshop#File_format)
 
 

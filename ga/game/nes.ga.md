@@ -64,6 +64,6 @@ Is féidir leat comhad NES a oscailt le go leor aithriseoir NES agus an cluiche 
 - Virtuanes
 
 ## Tagairtí
-* [Córas Siamsaíochta Nintendo]( https://en.wikipedia.org/wiki/Nintendo_Entertainment_System)
+* [Córas Siamsaíochta Nintendo](https://en.wikipedia.org/wiki/Nintendo_Entertainment_System)
 
 

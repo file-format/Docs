@@ -27,6 +27,6 @@ Déantar comhaid LGO a shábháil i bhformáid comhaid dílseánaigh agus níl a
 
 ## Tagairt ##
 
-* [LUA - le Vicipéid]( https://en.wikipedia.org/wiki/Lua_(programming_language))
+* [LUA - le Vicipéid](https://en.wikipedia.org/wiki/Lua_(programming_language))
 
 

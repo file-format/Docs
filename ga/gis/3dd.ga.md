@@ -27,10 +27,10 @@ Stóráiltear comhaid 3DD go diosca i bhformáid dhénártha comhaid agus níl f
 
 ## Tagairtí
 
-* [ESRI ArcGIS Pro]( https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview)
+* [ESRI ArcGIS Pro](https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview)
 
-* [Doiciméad 3D a shábháil]( https://desktop.arcgis.com/ga/arcmap/10.3/guide-books/extensions/3d-analyst/about-saving-a-3d-document.htm)
+* [Doiciméad 3D a shábháil](https://desktop.arcgis.com/ga/arcmap/10.3/guide-books/extensions/3d-analyst/about-saving-a-3d-document.htm)
 
-* [Anailísí 3D agus ArcGlobe]( https://desktop.arcgis.com/en/arcmap/latest/extensions/3d-analyst/3d-analyst-and-arcglobe.htm)
+* [Anailísí 3D agus ArcGlobe](https://desktop.arcgis.com/en/arcmap/latest/extensions/3d-analyst/3d-analyst-and-arcglobe.htm)
 
 

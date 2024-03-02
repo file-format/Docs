@@ -36,8 +36,8 @@ Is comhaid dhénártha iad comhaid KF8 agus coinníonn siad struchtúr formáid 
 
 ## Tagairtí ##
 
-* [KF8 - Le Vicipéid]( https://en.wikipedia.org/wiki/Kindle_File_Format)
+* [KF8 - Le Vicipéid](https://en.wikipedia.org/wiki/Kindle_File_Format)
 
-* [Díphacáil Kindle]( https://github.com/kevinhendricks/KindleUnpack)
+* [Díphacáil Kindle](https://github.com/kevinhendricks/KindleUnpack)
 
 

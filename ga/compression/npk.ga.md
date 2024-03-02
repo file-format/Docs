@@ -31,6 +31,6 @@ Nuair a uaslódáiltear comhad NPK chuig ródaire, ní thagann OS an ródaire i 
 
 * [MikroTik - Uasghrádú an Ródaire OS](https://mikrotik.com/download)
 
-* [Conas Comhaid NPK a Chruthú]( https://forum.mikrotik.com/viewtopic.php?t=87126)
+* [Conas Comhaid NPK a Chruthú](https://forum.mikrotik.com/viewtopic.php?t=87126)
 
 

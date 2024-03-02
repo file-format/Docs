@@ -55,6 +55,6 @@ Is féidir na cineálacha sonraí fad athraitheach seo a leanas a úsáid i dtio
 
 ## Tagairtí
 
-* [Tionscadal Rochtana á chruthú]( https://support.microsoft.com/en-us/office/create-an-access-project-89c48da0-55a4-45d4-9ee5-95f67383d4cb)
+* [Tionscadal Rochtana á chruthú](https://support.microsoft.com/en-us/office/create-an-access-project-89c48da0-55a4-45d4-9ee5-95f67383d4cb)
 
 

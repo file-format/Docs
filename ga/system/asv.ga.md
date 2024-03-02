@@ -39,6 +39,6 @@ Déantar comhaid ASV a shábháil i bhformáid dhénártha comhaid agus níl a n
 
 ## Tagairtí
 
-* [Luchtaigh Comhad ASV in Adobe Photoshop]( https://community.adobe.com/t5/photoshop-ecosystem-discussions/photoshop-asv-file-preset-wont-open/mp/12587356)
+* [Luchtaigh Comhad ASV in Adobe Photoshop](https://community.adobe.com/t5/photoshop-ecosystem-discussions/photoshop-asv-file-preset-wont-open/mp/12587356)
 
 

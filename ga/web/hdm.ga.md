@@ -39,7 +39,7 @@ Seo a leanas roinnt gnéithe a sholáthraíonn timpeallacht ama rite do HDML agu
 
 ## Tagairtí
 
-* [HDML - Vicipéid]( https://ga.wikipedia.org/wiki/Handheld_Device_Markup_Language)
+* [HDML - Vicipéid](https://ga.wikipedia.org/wiki/Handheld_Device_Markup_Language)
 
 * [Sonraíochtaí HDML - Scoileanna W3](https://www.w3.org/TR/NOTE-Submission-HDML-spec.html)
 

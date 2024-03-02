@@ -23,5 +23,5 @@ Is formáid comhaid bunachar sonraí é comhad ITW a úsáideann an feidhmchlár
 
 ## Tagairtí
 
- * [InTouch]( https://www.intouchsoftware.co.uk/InTouch)
+ * [InTouch](https://www.intouchsoftware.co.uk/InTouch)
 

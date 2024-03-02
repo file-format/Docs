@@ -91,6 +91,6 @@ Seo a leanas sampla de chomhad AMF is féidir a chóipeáil go comhad [text](/wo
 ```
 ## Tagairtí
 
- * [AMF - Vicipéid]( https://ga.wikipedia.org/wiki/Additive_manufacturing_file_format)
+ * [AMF - Vicipéid](https://ga.wikipedia.org/wiki/Additive_manufacturing_file_format)
  * [Sonraíochtaí AMF ar ISO](https://www.iso.org/standard/67472.html)
 

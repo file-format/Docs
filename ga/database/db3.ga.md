@@ -43,8 +43,8 @@ Commonly SQLite, version 3 related db file format can be considered as the DB3 f
 
 ## Tagairtí ##
 
-* [SQLite - Vicipéid]( https://ga.wikipedia.org/wiki/SQLite)
+* [SQLite - Vicipéid](https://ga.wikipedia.org/wiki/SQLite)
 
-* [SQLite, Leagan 3]( https://www.loc.gov/preservation/digital/formats/fdd/fdd000461.shtml)
+* [SQLite, Leagan 3](https://www.loc.gov/preservation/digital/formats/fdd/fdd000461.shtml)
 
 

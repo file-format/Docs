@@ -34,6 +34,6 @@ Déantar comhaid AVL a shábháil i bhformáid gnáth-théacs. Ciallaíonn sé g
 
 ## Tagairtí
 
-* [Difríocht idir Comhaid .lyr agus .avl]( https://support.esri.com/ga/technical-article/000005936)
+* [Difríocht idir Comhaid .lyr agus .avl](https://support.esri.com/ga/technical-article/000005936)
 
 

@@ -53,7 +53,7 @@ Roinntear comhaid PCC neamh-chomhbhrúite i gcúig chuid a leanas.
 
 ## Tagairtí
 
- * [Me3Explorer - Formáid Chomhaid CSP]( https://me3explorer.fandom.com/wiki/PCC_File_Format)
- * [Cluiche Aifreann Éifeacht]( https://www.ea.com/games/mass-effect/mass-effect-3)
- * [Bioware]( https://www.bioware.com/about/)
+ * [Me3Explorer - Formáid Chomhaid CSP](https://me3explorer.fandom.com/wiki/PCC_File_Format)
+ * [Cluiche Aifreann Éifeacht](https://www.ea.com/games/mass-effect/mass-effect-3)
+ * [Bioware](https://www.bioware.com/about/)
 

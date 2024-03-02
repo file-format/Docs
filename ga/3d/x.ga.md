@@ -94,6 +94,6 @@ Tá an ceannteideal fad athraitheach éigeantach agus caithfidh sé a bheith ag 
 
 ## Tagairtí
 
- * [Oidhreacht X Comhad]( https://learn.microsoft.com/en-us/windows/win32/direct3d9/x-files--legacy-)
- * [Tagairt Formáid Comhaid DirectX 9]( https://learn.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format)
+ * [Oidhreacht X Comhad](https://learn.microsoft.com/en-us/windows/win32/direct3d9/x-files--legacy-)
+ * [Tagairt Formáid Comhaid DirectX 9](https://learn.microsoft.com/en-us/windows/win32/direct3d9/dx9-graphics-reference-x-file-format)
 

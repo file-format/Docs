@@ -73,8 +73,8 @@ Breathnaíonn an doiciméad XPS tipiciúil mar seo a leanas agus is féidir é a
 
 ## Tagairtí ##
 
-* [Sonraíochtaí Formáid Chomhaid XPS]( https://www.ecma-international.org/publications-and-standards/standards/ecma-388/)
+* [Sonraíochtaí Formáid Chomhaid XPS](https://www.ecma-international.org/publications-and-standards/standards/ecma-388/)
 
-* [XPS - Le Vicipéid]( https://en.wikipedia.org/wiki/Open_XML_Paper_Specification#Viewing_and_creating_XPS_documents)
+* [XPS - Le Vicipéid](https://en.wikipedia.org/wiki/Open_XML_Paper_Specification#Viewing_and_creating_XPS_documents)
 
 

@@ -45,6 +45,6 @@ Tarchuireann na hAitheantais Acmhainní acmhainní i gcomhad APK, agus réitíte
 
 ## Tagairtí
 
-* [Struchtúr Tábla Acmhainní Dénártha]( https://stackoverflow.com/questions/27548810/android-compiled-resources-resources-arsc)
+* [Struchtúr Tábla Acmhainní Dénártha](https://stackoverflow.com/questions/27548810/android-compiled-resources-resources-arsc)
 
 

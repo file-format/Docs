@@ -98,7 +98,7 @@ $b eat               → error "unknown command"
 
 ## Tagairt ##
 
-* [TCL - le Vicipéid]( https://ga.wikipedia.org/wiki/Tcl)
+* [TCL - le Vicipéid](https://ga.wikipedia.org/wiki/Tcl)
 
 
 

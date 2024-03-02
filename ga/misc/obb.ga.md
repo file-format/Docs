@@ -45,6 +45,6 @@ Is féidir na comhaid leathnaithe seo a óstáil mar ** phríomhchomhad leathnai
 
 ## Tagairtí
 
-* [Forbróirí Android - Comhaid Leathnaithe]( https://developer.android.com/google/play/expansion-files)
+* [Forbróirí Android - Comhaid Leathnaithe](https://developer.android.com/google/play/expansion-files)
 
 

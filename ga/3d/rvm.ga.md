@@ -48,5 +48,5 @@ Ní féidir mórán sonraí a fháil faoin bhformáid comhaid RVM ach amháin gu
 
 ## Tagairtí
 
- * [Parsálaí RVM]( https://github.com/cdyk/rvmparser)
+ * [Parsálaí RVM](https://github.com/cdyk/rvmparser)
 

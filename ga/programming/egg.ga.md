@@ -31,6 +31,6 @@ Is féidir comhaid Uibheacha a chruthú leis an bpacáiste **distutils** atá ar
 
 ## Tagairt ##
 
-* [Uibheacha Python]( https://python101.pythonlibrary.org/chapter38_eggs.html)
+* [Uibheacha Python](https://python101.pythonlibrary.org/chapter38_eggs.html)
 
 

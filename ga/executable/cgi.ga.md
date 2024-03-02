@@ -92,6 +92,6 @@ WINDIR="C:\Windows"
 
 ## Tagairtí 
 
-* [Common Gateway Interface - le Wikipewdia]( https://en.wikipedia.org/wiki/Common_Gateway_Interface)
+* [Common Gateway Interface - le Wikipewdia](https://en.wikipedia.org/wiki/Common_Gateway_Interface)
 
 

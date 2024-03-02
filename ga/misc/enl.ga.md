@@ -27,6 +27,6 @@ Stóráiltear comhaid ENL mar chomhaid dhénártha gan aon sonraí a bheith ar f
 
 ## Tagairtí
 
-* [Tábhacht an Fhillteáin Sonraí EndNote]( https://support.clarivate.com/Endnote/s/article/EndNote-Description-of-the-Data-folder-that-accompanies-enl-library-files)
+* [Tábhacht an Fhillteáin Sonraí EndNote](https://support.clarivate.com/Endnote/s/article/EndNote-Description-of-the-Data-folder-that-accompanies-enl-library-files)
 
 

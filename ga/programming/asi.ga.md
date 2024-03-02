@@ -29,6 +29,6 @@ Déantar comhaid ASI a shábháil i bhformáid comhaid dílseánaigh Alfa Five. 
 
 ## Tagairt ##
 
-* [Doiciméadúchán Alfa Cúig]( https://documentation.alphasoftware.com/)
+* [Doiciméadúchán Alfa Cúig](https://documentation.alphasoftware.com/)
 
 

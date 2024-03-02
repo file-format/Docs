@@ -92,6 +92,6 @@ I gcás gach tábla ardleibhéil sa chló, tá Taifead Tábla ina bhfuil na réi
 Tá gach tábla sa chlóchomhad OpenType léirithe ag ainmneacha ar a dtugtar clibeanna tábla. Ní mór na taifid go léir san eagar a shórtáil in ord ardaitheach de réir clib.
 
 ## Tagairtí
- * [Sonraíochtaí Cló OpenType le Microsoft]( https://learn.microsoft.com/en-us/typography/opentype/spec/overview)
- * [Forbhreathnú TrueType]( https://learn.microsoft.com/en-us/typography/truetype/)
+ * [Sonraíochtaí Cló OpenType le Microsoft](https://learn.microsoft.com/en-us/typography/opentype/spec/overview)
+ * [Forbhreathnú TrueType](https://learn.microsoft.com/en-us/typography/truetype/)
 

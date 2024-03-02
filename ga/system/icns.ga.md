@@ -43,7 +43,7 @@ Tá comhaid ICNS ar macOS cosúil le comhaid .ICO ar Windows sa mhéid is go bhf
 Mar sin féin, tá roinnt difríochtaí idir comhaid ICNS agus ICO. Mar shampla, is féidir le comhaid ICNS íomhánna taifeach níos airde ná comhaid ICO a stóráil, rud a fhágann go bhfuil siad níos oiriúnaí le húsáid ar thaispeántais ardtaifigh, mar thaispeántais Reitine ar fheistí macOS. Ina theannta sin, is féidir íomhánna le cainéal alfa a bheith i gcomhaid ICNS, rud a ligeann do chúlraí trédhearcacha, nach dtacaítear leo i gcomhaid ICO.
 
 ## Tagairtí
-* [Formáid comhaid ICNS]( https://en.wikipedia.org/wiki/Apple_Icon_Image_format)
+* [Formáid comhaid ICNS](https://en.wikipedia.org/wiki/Apple_Icon_Image_format)
 
 
 

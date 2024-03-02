@@ -80,8 +80,8 @@ Déantar tagairt do mhaoláin agus acmhainní Íomhá trí URIanna. Caithfidh na
 
 ## Tagairtí ##
 
-* [Sonraíochtaí glTF 2.0 - Khronos]( https://github.com/KhronosGroup/glTF)
+* [Sonraíochtaí glTF 2.0 - Khronos](https://github.com/KhronosGroup/glTF)
 
-* [Formáid Comhaid glTF - Le Vicipéid]( https://ga.wikipedia.org/wiki/GlTF)
+* [Formáid Comhaid glTF - Le Vicipéid](https://ga.wikipedia.org/wiki/GlTF)
 
 

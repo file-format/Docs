@@ -27,6 +27,6 @@ Sábháiltear comhaid OBML15 ar dhiosca mar chomhaid dhénártha i bhformáid co
 
 ## Tagairtí
 
-* [Formáid OMBL]( https://github.com/grawity/obml-parser/blob/master/obml.md)
+* [Formáid OMBL](https://github.com/grawity/obml-parser/blob/master/obml.md)
 
 

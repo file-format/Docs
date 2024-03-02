@@ -44,6 +44,6 @@ Is féidir roinnt uirlisí sonracha a úsáid le linn cur i láthair ag baint ú
 
 ## Tagairtí ##
 
-* [Keynote - Vicipéid]( https://en.wikipedia.org/wiki/Keynote_(presentation_software))
+* [Keynote - Vicipéid](https://en.wikipedia.org/wiki/Keynote_(presentation_software))
 
 

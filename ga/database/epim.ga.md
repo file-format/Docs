@@ -47,6 +47,6 @@ Braitheann suíomh na gcomhad .epim in EssentialPIM ar an gcóras oibriúcháin 
 Is féidir leat an rogha Comhad -> Bunachar Sonraí Oscailte a úsáid freisin chun comhad .epim atá ann cheana féin a oscailt ó áit eile ar do ríomhaire nó gléas.
 
 ## Tagairtí
-* [Bogearraí RiachtanachPIM]( https://www.essentialpim.com/features)
+* [Bogearraí RiachtanachPIM](https://www.essentialpim.com/features)
 
 

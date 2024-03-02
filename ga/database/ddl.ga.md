@@ -62,6 +62,6 @@ CREATE TABLE employees (
 
 ## Tagairtí ##
 
-* [DDL le Vicipéid]( https://ga.wikipedia.org/wiki/Data_definition_language)
+* [DDL le Vicipéid](https://ga.wikipedia.org/wiki/Data_definition_language)
 
 

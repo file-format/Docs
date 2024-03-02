@@ -30,5 +30,5 @@ Is comhad tionscadail é comhad a bhfuil síneadh .phj air a cruthaíodh le boge
 
 ## Tagairtí
 
- * [PhCNC]( https://www.accuratecnc.com/PhCNC.php)
+ * [PhCNC](https://www.accuratecnc.com/PhCNC.php)
 

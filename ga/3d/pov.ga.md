@@ -81,6 +81,6 @@ cylinder {
 Sa sampla seo, sonraíonn an bloc ceamara suíomh agus treoshuíomh an cheamara sa radharc, dearbhaíonn an bloc `foinse_solais` foinse solais agus sonraíonn sé a shuíomh agus a dath, agus dearbhaíonn an bloc `sorcóir` réad sorcóra agus sonraíonn sé a chríochphointí, ga, agus airíonna ábhar. Nuair a osclaíonn tú an comhad .pov seo sna bogearraí POV-Ray, soláthróidh sé íomhá de shorcóir gorm amháin.
 
 ## Tagairtí
- * [POV-Ray - Vicipéid]( https://ga.wikipedia.org/wiki/POV-Ray)
+ * [POV-Ray - Vicipéid](https://ga.wikipedia.org/wiki/POV-Ray)
  * [Láithreán Gréasáin POV-Ray Doiciméadaithe](http://www.povray.org/documentation/)
 

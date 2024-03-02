@@ -80,7 +80,7 @@ Taispeánann an sampla seo uimhreacha na leathanach i mbunachar sonraí ina bhfu
 
 ## Tagairtí
 
- * [Comhaid Bunachar Sonraí agus Grúpaí Comhad]( https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?view=sql-server-ver16)
- * [Bunachar Sonraí Dícheangail agus Ceangail - Freastalaí SQL]( https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-detach-and-attach-sql-server?view=sql-server- leagan 15)
- * [Anailís a dhéanamh ar Anatamaíocht Chomhad Sonraí Freastalaí SQL]( https://blog.pythian.com/analyzing-sql-server-data-file-anatomy/)
+ * [Comhaid Bunachar Sonraí agus Grúpaí Comhad](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?view=sql-server-ver16)
+ * [Bunachar Sonraí Dícheangail agus Ceangail - Freastalaí SQL](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-detach-and-attach-sql-server?view=sql-server- leagan 15)
+ * [Anailís a dhéanamh ar Anatamaíocht Chomhad Sonraí Freastalaí SQL](https://blog.pythian.com/analyzing-sql-server-data-file-anatomy/)
 

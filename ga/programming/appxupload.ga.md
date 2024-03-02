@@ -34,5 +34,5 @@ Déantar na comhaid APPXBUNDLE a shábháil ar diosca i bhformáid dhénártha c
 
 ## Tagairtí
 
- * [Cineálacha Pacáistí Aipe]( https://learn.microsoft.com/en-us/windows/msix/package/packaging-uwp-apps)
+ * [Cineálacha Pacáistí Aipe](https://learn.microsoft.com/en-us/windows/msix/package/packaging-uwp-apps)
 

@@ -53,7 +53,7 @@ Tá an struchtúr seo a leanas ag an gcomhad GAM:
 
 ## Tagairtí 
 
-* [Formáid comhaid GAM]( https://gibberlings3.github.io/iesdp/file_formats/ie_formats/gam_v2.0.htm#GAMEV2_0_Stored)
+* [Formáid comhaid GAM](https://gibberlings3.github.io/iesdp/file_formats/ie_formats/gam_v2.0.htm#GAMEV2_0_Stored)
 
 
 

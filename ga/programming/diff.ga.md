@@ -23,5 +23,5 @@ Is comhaid théacsúla iad comhaid DIFF ina bhfuil difríochtaí téacsacha den 
 
 ## Tagairtí ##
 
- * [SCM Mercurial - Comhad paiste]( https://www.mercurial-scm.org/wiki/PatchFile)
+ * [SCM Mercurial - Comhad paiste](https://www.mercurial-scm.org/wiki/PatchFile)
 

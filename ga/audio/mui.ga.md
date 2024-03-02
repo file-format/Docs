@@ -50,7 +50,7 @@ Chun an comhad MUI a oscailt, beidh ort na bogearraí Harmony Assistant a bheith
 5. Nuair a bheidh an comhad MUI iompórtáilte, ba cheart go mbeifeá in ann rochtain a fháil ar na fuaimeanna ionstraime atá san áireamh agus ar shonraí eile sna bogearraí Harmony Assistant.
 
 ## Tagairtí
-* [Cúntóir Harmony]( https://www.myriad-online.com/ga/products/harmony.htm)
+* [Cúntóir Harmony](https://www.myriad-online.com/ga/products/harmony.htm)
 
 
 

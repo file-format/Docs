@@ -46,6 +46,6 @@ Chun comhad ELF a oscailt, teastaíonn clár uait atá in ann a bhfuil sa chomha
 5. Luchtaigh an comhad: Luchtaigh an comhad ELF isteach san aithriseoir nó dífhabhtóir agus rith nó féach air mar is gá.
 
 ## Tagairtí
-* [Formáid Inrite agus Nasctha]( https://en.wikipedia.org/wiki/Executable_and_Linkable_Format)
+* [Formáid Inrite agus Nasctha](https://en.wikipedia.org/wiki/Executable_and_Linkable_Format)
 
 

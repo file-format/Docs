@@ -54,6 +54,6 @@ These files can be compatible with various devices. Players for these files are 
 
 ## Tagairtí ##
 
-* [AA - Le Vicipéid]( https://en.wikipedia.org/wiki/Audible_(service))
+* [AA - Le Vicipéid](https://en.wikipedia.org/wiki/Audible_(service))
 
 

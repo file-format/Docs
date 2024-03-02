@@ -99,6 +99,6 @@ Seo cineálacha comhaid eile a úsáideann an síneadh comhad **.cfg**.
 - [CFG - Cal3D Model Configuration File](/misc/cfg-cal3d/)
 
 ## Tagairtí
-* [Mugen (inneall cluiche)]( https://en.wikipedia.org/wiki/Mugen_(game_engine))
+* [Mugen (inneall cluiche)](https://en.wikipedia.org/wiki/Mugen_(game_engine))
 
 

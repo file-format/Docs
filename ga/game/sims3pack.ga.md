@@ -38,5 +38,5 @@ Is cluiche insamhalta saoil é Sims 3 ag Electronic Arts (EA) agus tá an-tóir 
 
 ## Tagairtí
 
- * [Sims 3 - Le EA Sports]( https://www.ea.com/games/the-sims)
+ * [Sims 3 - Le EA Sports](https://www.ea.com/games/the-sims)
 

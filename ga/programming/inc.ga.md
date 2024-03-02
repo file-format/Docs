@@ -41,6 +41,6 @@ Is scripteanna freastalaí iad PHP a ritheann ar an bhfreastalaí agus a sheolan
 
 ## Tagairtí
 
-* [Ag baint úsáide as INC i PHP]( https://stackoverflow.com/questions/7129842/what-is-an-inc-and-why-use-it)
+* [Ag baint úsáide as INC i PHP](https://stackoverflow.com/questions/7129842/what-is-an-inc-and-why-use-it)
 
 

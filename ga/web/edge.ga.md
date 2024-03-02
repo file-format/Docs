@@ -27,6 +27,6 @@ Sábháiltear comhaid EDGE i bhformáid gnáth-théacs agus úsáidtear jQuery c
 
 ## Tagairtí
 
-* [Adobe Edge]( https://www.adobe.com/sea/products/edge-animate.html)
+* [Adobe Edge](https://www.adobe.com/sea/products/edge-animate.html)
 
 

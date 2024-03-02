@@ -31,5 +31,5 @@ Thug CELSYS formáid comhaid CLIP isteach in ionad na formáide comhaid LIP buna
 Is féidir le formáid comhaid CLIP beochan agus léaráidí a stóráil ar féidir iad a úsáid i gcineálacha éagsúla oibre.
 
 ## Tagairtí
-  * [Péinteáil Stiúideo CLIP]( https://www.celsys.co.jp/ga/service/studio_paint/)
+  * [Péinteáil Stiúideo CLIP](https://www.celsys.co.jp/ga/service/studio_paint/)
 

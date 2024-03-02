@@ -43,6 +43,6 @@ Déantar forbairt foinse oscailte Gnumeric a óstáil agus a chothabháil ar st�
 
 ## Tagairtí
 
- * [Tionscadal GNOME]( https://en.wikipedia.org/wiki/The_GNOME_Project)
- * [Gnumeric - Le Vicipéid]( https://en.wikipedia.org/wiki/Gnumeric)
+ * [Tionscadal GNOME](https://en.wikipedia.org/wiki/The_GNOME_Project)
+ * [Gnumeric - Le Vicipéid](https://en.wikipedia.org/wiki/Gnumeric)
 

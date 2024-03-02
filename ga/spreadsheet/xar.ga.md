@@ -32,8 +32,8 @@ Is féidir le comhaid XAR gach cineál comhaid Excel a shábháil ar nós XLS, X
 
 ## Tagairtí
 
-* [Feidhmeanna Aisghabhála Atuo in Excel]( https://learn.microsoft.com/en-us/office/troubleshoot/excel/autorecover-functions-in-excel)
+* [Feidhmeanna Aisghabhála Atuo in Excel](https://learn.microsoft.com/en-us/office/troubleshoot/excel/autorecover-functions-in-excel)
 
-* [Cabhair Comhad XAR]( https://answers.microsoft.com/en-us/msoffice/forum/msoffice_excel-mso_win10-mso_365hp/2016-excel-xar-files/5af5e10c-027a-4c24-a403-939e9c)
+* [Cabhair Comhad XAR](https://answers.microsoft.com/en-us/msoffice/forum/msoffice_excel-mso_win10-mso_365hp/2016-excel-xar-files/5af5e10c-027a-4c24-a403-939e9c)
 
 

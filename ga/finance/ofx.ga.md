@@ -111,8 +111,8 @@ Is féidir an fhaisnéis seo go léir a allmhairiú i gclár bogearraí airgeada
 
 ## Tagairtí ##
 
-* [Malartú Airgeadais Oscailte - Le Vicipéid]( https://en.wikipedia.org/wiki/Open_Financial_Exchange)
+* [Malartú Airgeadais Oscailte - Le Vicipéid](https://en.wikipedia.org/wiki/Open_Financial_Exchange)
 
-* [Caighdeán ISO do Mhalartú Leictreonach Sonraí]( https://en.wikipedia.org/wiki/ISO_20022)
+* [Caighdeán ISO do Mhalartú Leictreonach Sonraí](https://en.wikipedia.org/wiki/ISO_20022)
 
 

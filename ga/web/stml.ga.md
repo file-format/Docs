@@ -74,6 +74,6 @@ Tá STML bunaithe ar ghnáthfhormáid comhaid téacs ascii atá inléite ag an d
 ```
 ## Tagairtí
 
-* [Áirítear Taobh an Fhreastalaí]( https://en.wikipedia.org/wiki/Server_Side_Includes)
+* [Áirítear Taobh an Fhreastalaí](https://en.wikipedia.org/wiki/Server_Side_Includes)
 
 

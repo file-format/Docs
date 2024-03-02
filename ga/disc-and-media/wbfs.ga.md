@@ -34,6 +34,6 @@ Is comhaid dhénártha iad WBFS a bhfuil formáid comhaid dílseánaigh acu. Ní
 
 ## Tagairtí
 
-* [Uirlisí ISO WIIMMS]( https://github.com/Wiimm/wiimms-iso-tools)
+* [Uirlisí ISO WIIMMS](https://github.com/Wiimm/wiimms-iso-tools)
 
 

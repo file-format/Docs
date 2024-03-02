@@ -51,6 +51,6 @@ Ligeann fráma inspioráideach meiteashonraí atá sainithe ag an úsáideoir a 
 
 ## Tagairtí ##
 
-* [Comhbhrú RFC 8878 Zstandard]( https://www.rfc-editor.org/rfc/rfc8878)
+* [Comhbhrú RFC 8878 Zstandard](https://www.rfc-editor.org/rfc/rfc8878)
 
 

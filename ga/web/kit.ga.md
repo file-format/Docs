@@ -46,6 +46,6 @@ Is féidir leat freisin níos mó ná comhad amháin a iompórtáil ag an am cé
 
 ## Tagairtí
 
-* [Cad é Kit?]( https://codekitapp.com/help/kit/)
+* [Cad é Kit?](https://codekitapp.com/help/kit/)
 
 

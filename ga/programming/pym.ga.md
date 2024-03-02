@@ -67,5 +67,5 @@ Seo a leanas an t-aschur chun é seo a rith trí PYM:
 ## Tagairtí ##
 
  * [PYM - Réamhphróiseálaí Macra Bunaithe ar Python](http://web.archive.org/web/20051122185426/http://ray.cg.tuwien.ac.at/rft/Papers/PYM/pym.html)
- * [Ateangairí PYM]( https://github.com/interpreters/pym)
+ * [Ateangairí PYM](https://github.com/interpreters/pym)
 

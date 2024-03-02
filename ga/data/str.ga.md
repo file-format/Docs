@@ -45,6 +45,6 @@ Is é an príomhbhealach chun comhaid .str a oscailt ná dBASE féin a úsáid, 
 Ós rud é gur comhaid gnáth-théacs go bunúsach iad comhaid .str ina bhfuil faisnéis faoi struchtúr an bhunachair sonraí, is féidir leat iad a oscailt freisin trí úsáid a bhaint as eagarthóir téacs. I measc samplaí d’eagarthóirí téacs tá Microsoft Notepad ar Windows agus Apple TextEdit ar Mac. Nuair a osclaítear é in eagarthóir téacs, beidh tú in ann inneachar an chomhaid, lena n-áirítear ainmneacha réimse, cineálacha sonraí, agus faisnéis struchtúrach eile, a fheiceáil i bhformáid atá inléite ag an duine.
 
 ## Tagairtí
-* [dBase]( https://ga.wikipedia.org/wiki/DBase)
+* [dBase](https://ga.wikipedia.org/wiki/DBase)
 
 

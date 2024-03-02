@@ -29,8 +29,8 @@ Féadfaidh tábla ábhar agus innéacs a bheith i gcomhaid ODM freisin. Gach uai
 
 ## Tagairtí
 
-* [Máistir Doiciméid]( https://wiki.openoffice.org/wiki/Documentation/UserGuide/Writer/MasterDoc)
+* [Máistir Doiciméid](https://wiki.openoffice.org/wiki/Documentation/UserGuide/Writer/MasterDoc)
 
-* [Ag cruthú comhad amháin ó mháistirdhoiciméad agus a fhodhoiciméid]( https://wiki.openoffice.org/wiki/Documentation/OOo3_User_Guides/Writer_Guide/Creating_one_file_from_a_master_document)
+* [Ag cruthú comhad amháin ó mháistirdhoiciméad agus a fhodhoiciméid](https://wiki.openoffice.org/wiki/Documentation/OOo3_User_Guides/Writer_Guide/Creating_one_file_from_a_master_document)
 
 

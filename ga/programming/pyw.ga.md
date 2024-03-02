@@ -29,6 +29,6 @@ Baineann cineál comhaid PYW go príomha le Python ag Python Software Foundation
 
 ## Tagairtí
 
- * [Python Vicí]( https://wiki.python.org/moin/Pyrex )
- * [Python (teanga ríomhchlárúcháin) - Vicipéid]( https://en.wikipedia.org/wiki/Python_(programming_language))
+ * [Python Vicí](https://wiki.python.org/moin/Pyrex )
+ * [Python (teanga ríomhchlárúcháin) - Vicipéid](https://en.wikipedia.org/wiki/Python_(programming_language))
 

@@ -55,8 +55,8 @@ Tá buntáistí ag baint leis an gcaighdeán PDF/E;
 
 ## Tagairtí ##
 
-* [PDF/E - Le Vicipéid]( https://ga.wikipedia.org/wiki/PDF/E)
+* [PDF/E - Le Vicipéid](https://ga.wikipedia.org/wiki/PDF/E)
 
-* [ISO 24517]( https://www.iso.org/standard/42274.html)
+* [ISO 24517](https://www.iso.org/standard/42274.html)
 
 

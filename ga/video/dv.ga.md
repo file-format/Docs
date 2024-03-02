@@ -80,6 +80,6 @@ Baineann an comhbhrú físeáin i bhformáid dv úsáid as CODEC dv ar foirm de 
 Is gnách go mbíonn an fhuaim i bhformáid dv neamh-chomhbhrúite agus ionchódaithe ag baint úsáide as PCM (Modhnú Cód Pulse) a sholáthraíonn atáirgeadh fuaime ar ardchaighdeán. Déantar na samplaí fuaime a shioncronú le frámaí físe comhfhreagracha chun ailíniú fuaime-físe a choinneáil.
 
 ## Tagairtí
-* [dv]( https://ga.wikipedia.org/wiki/DV)
+* [dv](https://ga.wikipedia.org/wiki/DV)
 
 

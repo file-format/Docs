@@ -44,6 +44,6 @@ Chun comhad .xap a oscailt, beidh ort brabhsálaí gréasáin a úsáid le taca�
 Mar mhalairt air sin, is féidir leat ábhar an chomhaid .xap a bhaint as trína athainmniú go .zip agus é a dhí-chomhbhrú ag baint úsáide as uirlis comhbhrú comhad mar WinZip nó 7-Zip. Tabharfaidh sé seo deis duit rochtain a fháil ar na comhaid aonair atá sa chartlann .xap.
 
 ## Tagairtí
-* [XAP - formáid comhaid]( https://en.wikipedia.org/wiki/XAP_(file_format))
+* [XAP - formáid comhaid](https://en.wikipedia.org/wiki/XAP_(file_format))
 
 

@@ -74,6 +74,6 @@ Scríobhtar comhaid SHTML i ngnáth-théacs agus úsáideann siad an [SSI comman
 ```
 ## Tagairtí
 
-* [Áirítear Taobh an Fhreastalaí]( https://en.wikipedia.org/wiki/Server_Side_Includes)
+* [Áirítear Taobh an Fhreastalaí](https://en.wikipedia.org/wiki/Server_Side_Includes)
 
 

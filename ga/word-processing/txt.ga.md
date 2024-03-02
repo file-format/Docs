@@ -47,6 +47,6 @@ Déanann gach córas den sórt sin fíneáil ar chomhad téacs mar chomhad a bhf
 
 ## Tagairtí ##
 
-* [Formáid Comhaid TXT]( https://en.wikipedia.org/wiki/Text_file)
+* [Formáid Comhaid TXT](https://en.wikipedia.org/wiki/Text_file)
 
 

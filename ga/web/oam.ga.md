@@ -53,6 +53,6 @@ Is féidir leat na feidhmchláir seo a leanas a úsáid chun comhaid OAM a oscai
 
 ## Tagairtí
 
-* [Foilsitheoireacht OAM]( https://helpx.adobe.com/animate/using/OAM-publishing.html)
+* [Foilsitheoireacht OAM](https://helpx.adobe.com/animate/using/OAM-publishing.html)
 
 

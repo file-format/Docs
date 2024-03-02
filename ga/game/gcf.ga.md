@@ -30,9 +30,9 @@ Déantar comhaid GCF a shábháil ar diosca mar chomhaid dhénártha. Úsáidead
 TABHAIR FAOI DEARA: Is é GCF an réamhtheachtaí ar [VPK file format](/game/vpk/).
 ## Tagairtí
 
-* [Bogearraí comhla]( https://www.valvesoftware.com/ga/)
+* [Bogearraí comhla](https://www.valvesoftware.com/ga/)
 
-* [Formáid Comhaid GCF]( https://developer.valvesoftware.com/wiki/GCF)
+* [Formáid Comhaid GCF](https://developer.valvesoftware.com/wiki/GCF)
 
 * [HLLib - Leabharlann Ríomhchláraithe Foinse Oscailte C++ chun Comhaid GCF a léamh](https://developer.valvesoftware.com/wiki/HLLib)
 

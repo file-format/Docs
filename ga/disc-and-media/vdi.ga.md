@@ -53,7 +53,7 @@ Cuireann na cártaí líonra aithrise ar chumas OSanna aoi rith gan gá le tiom�
 
 ## Tagairtí 
 
-* [VirtualBox - le Vicipéid]( https://en.wikipedia.org/wiki/VirtualBox#VirtualBox_Disk_Image)
+* [VirtualBox - le Vicipéid](https://en.wikipedia.org/wiki/VirtualBox#VirtualBox_Disk_Image)
 
 
 

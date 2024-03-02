@@ -31,5 +31,5 @@ Is íomhánna raster iad comhaid THM a shábháiltear ar diosca i bhformáid dh�
 Is íomhánna mionsamhlacha iad comhaid THM do na físeáin a thaifeadann camcorders. Ní bheidh aon éifeacht ag scriosadh iad seo mar go bhfuil an bunfhíseán fós caomhnaithe.
 
 ## Tagairtí
- * [Adobe Photoshop]( https://www.adobe.com/products/photoshop.html)
+ * [Adobe Photoshop](https://www.adobe.com/products/photoshop.html)
 

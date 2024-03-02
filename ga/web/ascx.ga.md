@@ -58,6 +58,6 @@ D'fhonn rialú úsáideora aonair a úsáid ar go leor leathanaigh, is féidir a
 ```
 ## Tagairtí
 
- * [ASCX vs ASMX]( https://social.msdn.microsoft.com/Forums/en-US/a27d4c2f-b972-439e-a7fe-f4b7e3637700/how-to-work-with-ascx-files?forum=aspwebforms)
+ * [ASCX vs ASMX](https://social.msdn.microsoft.com/Forums/en-US/a27d4c2f-b972-439e-a7fe-f4b7e3637700/how-to-work-with-ascx-files?forum=aspwebforms)
  * [Rialú Úsáideora ASCX](https://beansoftware.com/ASP.NET-Tutorials/User-Control.aspx)
 

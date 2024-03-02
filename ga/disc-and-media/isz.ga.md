@@ -48,6 +48,6 @@ Tá roinnt roghanna eile saor in aisce ann freisin mar Daemon Tools Lite, Gizmo 
 Is féidir leat an uirlis líne ordaithe 'zisofs-tools' a úsáid freisin chun an comhad ISZ a dhí-chomhbhrú go ISO.
 
 ## Tagairtí
-* [UltraISO]( https://www.ultraiso.com/)
+* [UltraISO](https://www.ultraiso.com/)
 
 

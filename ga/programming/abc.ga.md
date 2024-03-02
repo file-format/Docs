@@ -72,5 +72,5 @@ abcFile
 
 ## Tagairtí
 
- * [Robust ABC (ActionScript Bytecode) [Dis-]Cóimeálaí - Github]( https://github.com/CyberShadow/RABCDAsm)
+ * [Robust ABC (ActionScript Bytecode) [Dis-]Cóimeálaí - Github](https://github.com/CyberShadow/RABCDAsm)
 

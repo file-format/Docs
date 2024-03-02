@@ -45,5 +45,5 @@ Is féidir comhaid AFPHOTO a thiontú go formáidí éagsúla ag baint úsáide 
 
 ## Tagairtí
 
- * [Grianghraf Cleamhnas]( https://affinity.serif.com/en-gb/photo/)
+ * [Grianghraf Cleamhnas](https://affinity.serif.com/en-gb/photo/)
 

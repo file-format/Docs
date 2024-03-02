@@ -56,6 +56,6 @@ Tá teorainneacha áirithe ag baint le formáid comhaid MOBI mar atá liostaithe
 
 ## Tagairtí
 
-* [Formáid Comhaid MobiPocket]( https://www.loc.gov/preservation/digital/formats/fdd/fdd000472.shtml)
+* [Formáid Comhaid MobiPocket](https://www.loc.gov/preservation/digital/formats/fdd/fdd000472.shtml)
 
 

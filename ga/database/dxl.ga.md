@@ -62,5 +62,5 @@ Seo a leanas an t-aschur sliocht téacs aschuir le haghaidh doiciméad Nótaí.
 
 ## Tagairtí
 
- * [Formáid DXL - Microsoft]( https://help.hcltechsw.com/dom_designer/9.0.1/appdev/H_EXAMPLE_DOCUMENT_NOTEINFO_AND_ITEM_ELEMENTS_XML.html)
+ * [Formáid DXL - Microsoft](https://help.hcltechsw.com/dom_designer/9.0.1/appdev/H_EXAMPLE_DOCUMENT_NOTEINFO_AND_ITEM_ELEMENTS_XML.html)
 

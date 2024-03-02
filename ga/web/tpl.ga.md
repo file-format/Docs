@@ -138,8 +138,8 @@ Tugann an rannán uaslódáil an freagra HTML iarbhír ón bhfreastalaí bunaith
 
 ## Tagairtí
 
-* [HFS]( https://www.rejetto.com/wiki/index.php/Refinements)
+* [HFS](https://www.rejetto.com/wiki/index.php/Refinements)
 
-* [TPL Exmaple - Github]( https://github.com/heiswayi/hfs-templates/blob/master/HFSTemplate_myHFS.tpl)
+* [TPL Exmaple - Github](https://github.com/heiswayi/hfs-templates/blob/master/HFSTemplate_myHFS.tpl)
 
 

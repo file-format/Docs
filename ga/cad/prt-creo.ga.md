@@ -95,6 +95,6 @@ Seo cineálacha comhaid eile a úsáideann an síneadh comhad **.prt**.
 - [PRT - Presentations Template](/data/prt-template/)
 
 ## Tagairtí
-* [Eilimintí Creo PTC]( https://en.wikipedia.org/wiki/PTC_Creo_Elements/Pro)
+* [Eilimintí Creo PTC](https://en.wikipedia.org/wiki/PTC_Creo_Elements/Pro)
 
 

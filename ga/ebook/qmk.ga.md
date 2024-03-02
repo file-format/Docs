@@ -44,7 +44,7 @@ Mura bhfuil tú in ann an comhad QMK a oscailt agus a rith; ní chiallaíonn sé
 
 ## Tagairtí
 
-* [YanCEyDesktop le Remington]( https://en.freedownloadmanager.org/Windows-PC/YanCEyDesktop-FREE.html)
+* [YanCEyDesktop le Remington](https://en.freedownloadmanager.org/Windows-PC/YanCEyDesktop-FREE.html)
 
 
 

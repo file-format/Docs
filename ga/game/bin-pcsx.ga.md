@@ -98,6 +98,6 @@ Seo cineálacha comhaid eile a úsáideann an síneadh comhad **.bin**.
 - [BIN - Sega Genesis Game ROM](/game/bin/)
 
 ## Tagairtí
-* [PCSX2]( https://ga.wikipedia.org/wiki/PCSX2)
+* [PCSX2](https://ga.wikipedia.org/wiki/PCSX2)
 
 

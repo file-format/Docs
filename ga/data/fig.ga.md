@@ -61,6 +61,6 @@ Chun comhad FIG a oscailt in MATLAB, lean na céimeanna seo:
 Nó is féidir leat feidhm `openfig` a úsáid i MATLAB:
 
 ## Tagairtí
-* [MATLAB]( https://ga.wikipedia.org/wiki/MATLAB)
+* [MATLAB](https://ga.wikipedia.org/wiki/MATLAB)
 
 

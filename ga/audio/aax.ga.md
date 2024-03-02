@@ -55,8 +55,8 @@ Ach is féidir leat go leor uirlisí bogearraí eile a fháil ar féidir leo ria
 
 ## Tagairtí ##
 
-* [Inchloiste (seirbhís) - Le Vicipéid]( https://en.wikipedia.org/wiki/Audible_(service))
+* [Inchloiste (seirbhís) - Le Vicipéid](https://en.wikipedia.org/wiki/Audible_(service))
 
-* [Formáid comhaid fuaime - Le Vicipéid]( https://en.wikipedia.org/wiki/Audio_file_format )
+* [Formáid comhaid fuaime - Le Vicipéid](https://en.wikipedia.org/wiki/Audio_file_format )
 
 

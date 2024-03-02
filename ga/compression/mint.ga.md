@@ -27,5 +27,5 @@ Níl na sonraí maidir le formáid comhaid inmheánach formáid comhaid MINT ar 
 
 ## Tagairtí
 
- * [Linux Mint]( https://linuxmint.com/)
+ * [Linux Mint](https://linuxmint.com/)
 

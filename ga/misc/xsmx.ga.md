@@ -27,6 +27,6 @@ Déantar na comhaid XSMX a shábháil agus a sheoladh chuig glacadóirí scrúda
 
 ## Tagairtí
 
-* [ExamSoft SoftTest]( https://examsoft.com/about-examsoft/)
+* [ExamSoft SoftTest](https://examsoft.com/about-examsoft/)
 
 

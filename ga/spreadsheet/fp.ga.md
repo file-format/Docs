@@ -35,6 +35,6 @@ Déantar comhaid FP a shábháil i bhformáid comhaid dílseánaigh agus níl a 
 
 ## Tagairtí
 
- * [FileMaker Pro]( https://www.claris.com/filemaker/)
- * [fmapi]( https://github.com/stevenwhitespacesystems/fm-xml2json)
+ * [FileMaker Pro](https://www.claris.com/filemaker/)
+ * [fmapi](https://github.com/stevenwhitespacesystems/fm-xml2json)
 

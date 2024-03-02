@@ -59,7 +59,7 @@ Léifidh sé an comhad archive.cpio ón ionchur caighdeánach agus bainfidh sé 
 
 ## Tagairtí
 
-* [CPIO - Le Vicipéid]( https://en.wikipedia.org/wiki/Cpio)
+* [CPIO - Le Vicipéid](https://en.wikipedia.org/wiki/Cpio)
 
 * [CPIO File Format](https://www.ibm.com/docs/en/zos/2.2.0?topic=formats-cpio-format-cpio-archives)
 

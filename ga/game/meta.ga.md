@@ -47,6 +47,6 @@ Is féidir leis na cláir seo a leanas comhaid META a bhaineann le cluiche a osc
 - Éin Angry Rovio Téigh!
 
 ## Tagairtí
-* [Exient Entertainment]( https://en.wikipedia.org/wiki/Exient_Entertainment)
+* [Exient Entertainment](https://en.wikipedia.org/wiki/Exient_Entertainment)
 
 

@@ -58,6 +58,6 @@ Lean na céimeanna seo le do thoil chun comhad ND5 a oscailt
 - Aithriseoir DraStic DS (Android).
 
 ## Tagairtí
-* [Nintendo DS]( https://ga.wikipedia.org/wiki/Nintendo_DS)
+* [Nintendo DS](https://ga.wikipedia.org/wiki/Nintendo_DS)
 
 

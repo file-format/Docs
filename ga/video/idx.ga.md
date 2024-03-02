@@ -114,6 +114,6 @@ Is comhad fotheideal simplí é an [SRT](/video/srt/) (formáid comhaid SubRip) 
 
 ## Tagairtí
 
- * [VobSub]( https://www.videohelp.com/software/VobSub)
+ * [VobSub](https://www.videohelp.com/software/VobSub)
  * [VOBsub - Wiki Multimedia](https://wiki.multimedia.cx/index.php?title=VOBsub)
 

@@ -53,6 +53,6 @@ To open an MTM (MultiTracker Module) file, you will need a media player or softw
 2. Winamp: Is seinnteoir meáin eile é Winamp a thacaíonn le comhaid MTM, chomh maith le go leor formáidí comhaid fuaime eile. Is féidir leat an t-imreoir a íoslódáil agus a shuiteáil ar do ríomhaire agus ansin an rogha Oscailte a úsáid chun do chomhad MTM a bhrabhsáil agus a oscailt.
 
 ## Tagairtí
-* [Comhad modúil]( https://en.wikipedia.org/wiki/Module_file)
+* [Comhad modúil](https://en.wikipedia.org/wiki/Module_file)
 
 

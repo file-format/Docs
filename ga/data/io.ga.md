@@ -57,6 +57,6 @@ Seo liosta de na cláir is féidir a oscailt comhaid IO.
 - **Stud.io**
 
 ## Tagairtí
-* [BrickLink Studio]( https://www.bricklink.com/v3/studio/download.page)
+* [BrickLink Studio](https://www.bricklink.com/v3/studio/download.page)
 
 

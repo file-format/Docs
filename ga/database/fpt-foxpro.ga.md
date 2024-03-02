@@ -71,6 +71,6 @@ Please note that Microsoft ended mainstream support for Visual FoxPro in 2007, a
 - [FPT - FileMaker Pro Database Memo File](/database/fpt/)
 
 ## Tagairtí
-* [Visual FoxPro]( https://en.wikipedia.org/wiki/Visual_FoxPro)
+* [Visual FoxPro](https://en.wikipedia.org/wiki/Visual_FoxPro)
 
 

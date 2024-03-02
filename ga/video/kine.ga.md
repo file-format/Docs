@@ -55,6 +55,6 @@ Is féidir comhaid KINE a oscailt ag baint úsáide as bogearraí eagarthóireac
 Tabhair faoi deara le do thoil nach féidir comhaid KINE a oscailt ach amháin i KineMaster agus nach féidir iad a oscailt ná a chur in eagar i mbogearraí eagarthóireachta físeáin eile. Más gá duit an tionscadal a roinnt le duine nach bhfuil KineMaster suiteáilte aige, is féidir leat an tionscadal a onnmhairiú mar chomhad físe agus é a roinnt leo.
 
 ## Tagairtí
-* [KineMaster]( https://www.kinemaster.com/)
+* [KineMaster](https://www.kinemaster.com/)
 
 

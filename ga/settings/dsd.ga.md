@@ -46,6 +46,6 @@ Seolfaidh sé seo bosca dialóige Sheet Set Properties, a bhfuil roinnt cluaisí
 Déan athruithe riachtanacha ar chomhad DSD ag baint úsáide as na cluaisíní éagsúla sa bhosca dialóige Roinnéad Socraigh Bileog, agus cliceáil OK chun do chuid athruithe a shábháil. Ba cheart go léireodh do chomhad DSD anois na socruithe agus na cumraíochtaí nuashonraithe a shonraigh tú.
 
 ## Tagairtí
-* [AutoCad]( https://ga.wikipedia.org/wiki/AutoCAD)
+* [AutoCad](https://ga.wikipedia.org/wiki/AutoCAD)
 
 

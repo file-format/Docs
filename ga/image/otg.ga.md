@@ -133,6 +133,6 @@ Tá fráma i ndoiciméad mar a thaispeántar thíos.
 ## Tagairtí ##
 * [Formáid Doiciméid Oscailte OASIS le haghaidh Feidhmchláir Oifige](https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=office)
 
-* [Formáid OpenDocument - Vicipéid]( https://ga.wikipedia.org/wiki/OpenDocument)
+* [Formáid OpenDocument - Vicipéid](https://ga.wikipedia.org/wiki/OpenDocument)
 
 

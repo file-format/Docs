@@ -91,5 +91,5 @@ Tosaíonn na sonraí dénártha le ceanntásc a bhfuil an fhormáid a thaispeán
 
 ## Tagairtí
 
- * [Formáid Comhaid CFF2]( https://learn.microsoft.com/en-us/typography/opentype/spec/cff2)
+ * [Formáid Comhaid CFF2](https://learn.microsoft.com/en-us/typography/opentype/spec/cff2)
 

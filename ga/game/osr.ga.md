@@ -53,8 +53,8 @@ Déantar comhaid OSR a shábháil mar chomhaid dhénártha le réimsí sonraí s
 
 ## Tagairtí
 
-* [OSU! Cluiche Rhythm]( https://osu.ppy.sh/home)
+* [OSU! Cluiche Rhythm](https://osu.ppy.sh/home)
 
-* [Formáid Chomhaid OSR]( https://osu.ppy.sh/wiki/en/Client/File_formats/Osr_%28file_format%29#data-types)
+* [Formáid Chomhaid OSR](https://osu.ppy.sh/wiki/en/Client/File_formats/Osr_%28file_format%29#data-types)
 
 

@@ -30,5 +30,5 @@ Déantar comhaid ALB a shábháil i bhformáid comhaid dílseánaigh Alpha File 
 ## Tagairtí
 
  * [Comhad ADB](/database/adb/)
- * [The Alpha Anywhere IDE]( https://documentation.alphasoftware.com/pages/GettingStarted/IDE/index.xml)
+ * [The Alpha Anywhere IDE](https://documentation.alphasoftware.com/pages/GettingStarted/IDE/index.xml)
 

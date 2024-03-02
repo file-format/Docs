@@ -101,6 +101,6 @@ PAUSE
 
 * [Conas Script CMD a Scríobh](https://smallbusiness.chron.com/write-cmd-script-53226.html)
 
-* [Comhad CMD (CP/M) - le Vicipéid]( https://en.wikipedia.org/wiki/CMD_file_(CP/M))
+* [Comhad CMD (CP/M) - le Vicipéid](https://en.wikipedia.org/wiki/CMD_file_(CP/M))
 
 

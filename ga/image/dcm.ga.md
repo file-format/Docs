@@ -77,6 +77,6 @@ Soláthraíonn Sraith Formáid na Meán an Fhaisnéis Bainistíochta Comhad seo 
   * Rialú rochtana meán fisiceach (m.sh., cosaint scríobh)
 
 ## Tagairtí ##
-  * [Caighdeán DICOM]( https://www.dicomstandard.org/current/)
+  * [Caighdeán DICOM](https://www.dicomstandard.org/current/)
   * [Formáid Comhaid DICOM](https://dicom.nema.org/dicom/2013/output/chtml/part10/chapter_7.html)
 

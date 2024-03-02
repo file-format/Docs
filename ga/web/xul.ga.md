@@ -58,8 +58,8 @@ xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
 
 ## Tagairtí
 
-* [XUL - Le Vicipéid]( https://ga.wikipedia.org/wiki/XUL)
+* [XUL - Le Vicipéid](https://ga.wikipedia.org/wiki/XUL)
 
-* [Doiciméadúchán Cartlainne XUL - Le Mozilla]( https://wiki.mozilla.org/XUL:Home_Page)
+* [Doiciméadúchán Cartlainne XUL - Le Mozilla](https://wiki.mozilla.org/XUL:Home_Page)
 
 

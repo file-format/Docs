@@ -27,6 +27,6 @@ Déantar comhad iarratais BTAPP a shábháil mar chomhad dénártha. Tá cód [H
 
 ## Tagairtí
 
-* [Comhad TORRENT - wikipedia]( https://en.wikipedia.org/wiki/Torrent_file)
+* [Comhad TORRENT - wikipedia](https://en.wikipedia.org/wiki/Torrent_file)
 
 

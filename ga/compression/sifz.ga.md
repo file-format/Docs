@@ -29,6 +29,6 @@ Tá comhaid SIFZ, á gcomhbhrú, níos lú ná na comhaid SIF neamh-chomhbhrúit
 
 ## Tagairtí
 
- * [Foinse Oscailte Synfig - Github]( https://github.com/synfig/synfig/)
+ * [Foinse Oscailte Synfig - Github](https://github.com/synfig/synfig/)
  * [Synfig Documentation](https://synfig.readthedocs.io/en/latest/index.html)
 

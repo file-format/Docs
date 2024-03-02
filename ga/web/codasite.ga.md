@@ -27,6 +27,6 @@ Déantar comhad tionscadail CODASITE a shábháil ar dhiosca mar chomhaid dhén�
 
 ## Tagairtí
 
-* [Córas Comhad Coda]( https://en.wikipedia.org/wiki/Coda_(file_system))
+* [Córas Comhad Coda](https://en.wikipedia.org/wiki/Coda_(file_system))
 
 

@@ -114,6 +114,6 @@ Mar shampla, is féidir le Microsoft Outlook comhad EML a thiontú go dtí na fo
 
 ## Tagairtí
 
-* [RFC 822]( https://www.ietf.org/rfc/rfc0822.txt)
+* [RFC 822](https://www.ietf.org/rfc/rfc0822.txt)
 
 

@@ -70,6 +70,6 @@ Ag baint úsáide as na softwares thuas, is féidir comhad ARW a thiontú go
 Is formáid dhénártha í formáid an chomhaid ARW.
 
 ## Tagairtí
-* [Formáid íomhá amh]( https://en.wikipedia.org/wiki/Raw_image_format )
+* [Formáid íomhá amh](https://en.wikipedia.org/wiki/Raw_image_format )
 
 

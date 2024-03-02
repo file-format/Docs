@@ -45,6 +45,6 @@ Is féidir formáid comhaid GB a oscailt nó tagairt a dhéanamh dó ag baint ú
 - **KiGB** (Saor in Aisce)
 
 ## Tagairtí
-* [VisualBoyAdvance]( https://en.wikipedia.org/wiki/VisualBoyAdvance)
+* [VisualBoyAdvance](https://en.wikipedia.org/wiki/VisualBoyAdvance)
 
 

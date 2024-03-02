@@ -36,6 +36,6 @@ Déantar comhaid AQ a shábháil mar chomhaid dhénártha agus níl a bhformáid
 
 ## Tagairtí
 
-* [Ráth na Seansaireachta]( https://www.ancquest.com/index.htm)
+* [Ráth na Seansaireachta](https://www.ancquest.com/index.htm)
 
 

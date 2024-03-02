@@ -60,6 +60,6 @@ Chun comhad ANI a oscailt, is féidir leat na céimeanna seo a leanúint:
 5. Nó, is féidir leat an comhad ANI a thiontú go formáid comhaid níos coitianta, mar GIF, ag baint úsáide as uirlis tiontaire ar líne. Nuair a bheidh an comhad a thiontú go GIF, is féidir leat é a oscailt le haon breathnóir íomhá nó seinnteoir meáin a thacaíonn leis an bhformáid comhaid seo.
 
 ## Tagairtí
-* [ANI (formáid comhaid)]( https://en.wikipedia.org/wiki/ANI_(file_format))
+* [ANI (formáid comhaid)](https://en.wikipedia.org/wiki/ANI_(file_format))
 
 

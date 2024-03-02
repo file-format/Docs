@@ -147,6 +147,6 @@ Má tá an sruth seo i láthair, NÍ MÓR an Stóráil Spáis Sonraí um Bainist
 
 * [Sonraíochtaí Foirmithe Comhad MS-DOC](https://msdn.microsoft.com/en-us/library/cc313153(v#office.12).aspx)
 
-* [Doc Ríomhaireachta]( https://en.wikipedia.org/wiki/Doc_(computing))
+* [Doc Ríomhaireachta](https://en.wikipedia.org/wiki/Doc_(computing))
 
 

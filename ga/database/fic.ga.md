@@ -29,7 +29,7 @@ Baineann comhad FIC le WINDEV, uirlis forbartha bogearraí cruthaithe ag PCSoft,
 In WinDev, i gcomhad FIC a chruthaítear do bhunachar sonraí HyperFileSQL Mobile tá an cód inrite don bhunachar sonraí, chomh maith leis na sonraí atá sa bhunachar sonraí. Is córas bainistíochta bunachar sonraí gaolmhar é HyperFileSQL Mobile atá cuimsithe le WINDEV agus atá deartha go sonrach le haghaidh feidhmchláir mhóibíleacha agus as líne. Is féidir an comhad FIC a dháileadh mar chomhad inrite neamhspleách nó mar chuid de phacáiste suiteála, agus is féidir é a rith ar an ngléas sprice chun rochtain a fháil ar na sonraí sa bhunachar sonraí HyperFileSQL Mobile agus iad a bhainistiú. Nuair a reáchtálfar an comhad FIC, osclóidh sé an bunachar sonraí agus cuirfidh sé na sonraí ar fáil le húsáid san fheidhmchlár soghluaiste.
 
 ## Tagairtí
-* [Doiciméid faoi WinDev]( https://windev.com/pcsoft/documentations.html)
+* [Doiciméid faoi WinDev](https://windev.com/pcsoft/documentations.html)
 
 * [Bunachar sonraí Cliant/Freastalaí HFSQL](https://help.windev.com/?1000017310&name=hfsql_clientserver_database_recommendations_about_security)
 

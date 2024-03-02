@@ -73,6 +73,6 @@ Is formáid dhílseánaigh ESRI é Comhad GDB agus níl a shonraíochtaí ar fá
 
 ## Tagairtí ##
 
-* [Sonraíochtaí FGDB]( https://github.com/rouault/dump_gdbtable/wiki/FGDB-Spec)
+* [Sonraíochtaí FGDB](https://github.com/rouault/dump_gdbtable/wiki/FGDB-Spec)
 
 

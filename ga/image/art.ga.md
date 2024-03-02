@@ -27,6 +27,6 @@ Is éard atá i gcomhad ART ná comhad íomhá giotánmapa comhbhrúite a chruth
 Úsáideann formáid comhaid ART comhbhrú le haghaidh aistriú éasca ar an idirlíon agus a roinnt i measc úsáideoirí AOL. Baineadh úsáid as chun íomhá a chur i láthair sa tseirbhís ar líne ag baint úsáide as brabhsálaí gréasáin an chliaint. Éascaíonn méid laghdaithe na gcomhad EALAÍN íoslódálacha níos tapúla fiú ar naisc idirlín níos moille sna laethanta tosaigh.
 
 ## Tagairtí
-* [Formáid Comhaid Íomhá ART - Le Vicipéid]( https://en.wikipedia.org/wiki/ART_image_file_format )
+* [Formáid Comhaid Íomhá ART - Le Vicipéid](https://en.wikipedia.org/wiki/ART_image_file_format )
 
 

@@ -100,6 +100,6 @@ Tá gnéithe agus socruithe éagsúla i gcomhad VCProj a bhaineann le tionscadal
 Tá formáid comhaid VCProj bunaithe ar XML (Teanga Mharcála eXtensible), ar teanga mharcála chaighdeánach í le haghaidh ionadaíochta sonraí struchtúrtha. Ceadaíonn an fhormáid XML faisnéis agus socruithe a bhaineann go sonrach le tionscadail a eagrú agus a stóráil i struchtúr ordlathach.
 
 ## Tagairtí
-* [Comhaid Tionscadail agus Réitigh]( https://learn.microsoft.com/en-us/cpp/build/reference/project-and-solution-files?view=msvc-170)
+* [Comhaid Tionscadail agus Réitigh](https://learn.microsoft.com/en-us/cpp/build/reference/project-and-solution-files?view=msvc-170)
 
 

@@ -27,6 +27,6 @@ Forbraítear comhaid RBXL le Stiúideo Roblox agus sábháltar iad i bhformáid 
 
 ## Tagairtí
 
- * [UasmhéidADHD C# API]( https://github.com/MaximumADHD/Roblox-File-Format)
- * [Oscail Comhad Roblox RBXL]( https://www.reddit.com/r/robloxgamedev/comments/no1cm9/rbxl_file_will_not_open/)
+ * [UasmhéidADHD C# API](https://github.com/MaximumADHD/Roblox-File-Format)
+ * [Oscail Comhad Roblox RBXL](https://www.reddit.com/r/robloxgamedev/comments/no1cm9/rbxl_file_will_not_open/)
 

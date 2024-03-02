@@ -54,6 +54,6 @@ I measc na gclár a osclaíonn comhaid NSZ tá clár **nsz** ar féidir cartlann
 - **nsz** (Saor in Aisce) le haghaidh (Windows, Mac, Linux)
 
 ## Tagairtí
-* [Yuzu Aithriseoir]( https://en.wikipedia.org/wiki/Yuzu_(emulator))
+* [Yuzu Aithriseoir](https://en.wikipedia.org/wiki/Yuzu_(emulator))
 
 

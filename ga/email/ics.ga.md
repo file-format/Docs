@@ -81,8 +81,8 @@ Is féidir leat freisin comhad ICS a allmhairiú isteach i d'aip féilire trí �
 
 * [Sonraíocht na gCroí-Oibiachtaí maidir le Féilire agus Sceidealú Idirlín](https://www.ietf.org/rfc/rfc5545.txt)
 
-* [iCalendar (RFC 5545)]( https://icalendar.org/RFC-Specifications/iCalendar-RFC-5545/)
+* [iCalendar (RFC 5545)](https://icalendar.org/RFC-Specifications/iCalendar-RFC-5545/)
 
-* [iCalendar]( https://en.wikipedia.org/wiki/ICalendar#History_and_design)
+* [iCalendar](https://en.wikipedia.org/wiki/ICalendar#History_and_design)
 
 

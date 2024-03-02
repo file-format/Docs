@@ -59,6 +59,6 @@ by a blank line.</p>
 
 ## Tagairt ##
 
-* [ReStructuredText - le Vicipéid]( https://en.wikipedia.org/wiki/ReStructuredText)
+* [ReStructuredText - le Vicipéid](https://en.wikipedia.org/wiki/ReStructuredText)
 
 

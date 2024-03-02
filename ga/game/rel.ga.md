@@ -90,7 +90,7 @@ Is iad na sonraí athlonnaithe liosta amháin nó níos mó de struchtúir beart
 
 ## Tagairtí 
 
-* [Formáid Modúil Oibiachta In-athshuite]( https://en.wikipedia.org/wiki/Relocatable_Object_Module_Format)
+* [Formáid Modúil Oibiachta In-athshuite](https://en.wikipedia.org/wiki/Relocatable_Object_Module_Format)
 
 
 

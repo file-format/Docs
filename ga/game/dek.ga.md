@@ -37,6 +37,6 @@ Stóráiltear comhaid DEK mar chomhaid ghnáth-théacs illíne i bhformáid [XML
 
 ## Tagairtí
 
-* [Draíocht: The Gathering Formats]( https://en.wikipedia.org/wiki/Magic:_The_Gathering_formats)
+* [Draíocht: The Gathering Formats](https://en.wikipedia.org/wiki/Magic:_The_Gathering_formats)
 
 

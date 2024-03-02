@@ -37,5 +37,5 @@ Faightear comhaid le síneadh STAP, díreach cosúil le haon fhormáid comhaid e
 Is gnách go n-eascraíonn fadhbanna le bheith ag obair le comhaid STAP toisc nach bhfuil aon bhogearraí cuí atá comhoiriúnach le comhaid STAP i láthair ar an meaisín. Is é an réiteach is fearr ná Apple Soundtrack Pro a íoslódáil agus a shuiteáil nó ceann ar an gclár liostaithe mar Apple Final Cut Pro.
 
 ## Tagairtí
- * [Final Cut Pro - Apple Inc.]( https://www.apple.com/final-cut-pro/)
+ * [Final Cut Pro - Apple Inc.](https://www.apple.com/final-cut-pro/)
 

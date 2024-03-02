@@ -50,7 +50,7 @@ Tá roinnt clár bogearraí malartacha ann ar féidir comhaid MDF a oscailt. I m
 Tabhair faoi deara, le do thoil, go bhféadfadh sé nach dtacaíonn cuid de na bogearraí seo leis an bhformáid comhaid MDS, a bhaineann le comhaid MDF, agus nach féidir leo ach na comhaid MDF a oscailt gan aithris a dhéanamh ar an diosca fisiceach. Ba cheart duit seiceáil ar chomhoiriúnacht na mbogearraí leis an leagan de chomhad MDF agus an ghné is mian leat a dhéanamh roimh iad a shuiteáil nó a úsáid.
 
 ## Tagairtí
-* [Alcól 120% - Aithriseoir íomhá diosca]( https://en.wikipedia.org/wiki/Alcohol_120%25)
+* [Alcól 120% - Aithriseoir íomhá diosca](https://en.wikipedia.org/wiki/Alcohol_120%25)
 
 
 

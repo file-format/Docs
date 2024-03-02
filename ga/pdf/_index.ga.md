@@ -125,10 +125,10 @@ Déanann na hoibreoirí grafaicí a úsáidtear i sruthanna ábhair PDF cur sío
 
 ## Tagairtí ##
 
-* [Formáid Chomhaid PDF: Struchtúr Bunúsach]( https://resources.infosecinstitute.com/topics/hacking/pdf-file-format-basic-structure/)
+* [Formáid Chomhaid PDF: Struchtúr Bunúsach](https://resources.infosecinstitute.com/topics/hacking/pdf-file-format-basic-structure/)
 
-* [PDF - Vicipéid]( https://ga.wikipedia.org/wiki/PDF)
+* [PDF - Vicipéid](https://ga.wikipedia.org/wiki/PDF)
 
-* [Tagairt PDF - Adobe]( https://www.adobe.com/devnet-apps/photoshop/fileformatashtml/)
+* [Tagairt PDF - Adobe](https://www.adobe.com/devnet-apps/photoshop/fileformatashtml/)
 
 

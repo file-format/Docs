@@ -72,7 +72,7 @@ Ciallaíonn an smután deiridh na comharthaí nach bhfuil a thuilleadh smután a
 
 ## Tagairtí ##
 
-* [NRG - le Vicipéid]( https://en.wikipedia.org/wiki/NRG_(file_format))
+* [NRG - le Vicipéid](https://en.wikipedia.org/wiki/NRG_(file_format))
 
 
 

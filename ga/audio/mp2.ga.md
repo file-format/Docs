@@ -56,6 +56,6 @@ Tugtar roinnt sonraíochtaí teicniúla tábhachtacha de MP2 sa tábla thíos:
 
 ## Tagairtí ##
 
-* [Ciseal Fuaime MPEG-1 II - Le Vicipéid]( https://en.wikipedia.org/wiki/MPEG-1_Audio_Layer_II)
+* [Ciseal Fuaime MPEG-1 II - Le Vicipéid](https://en.wikipedia.org/wiki/MPEG-1_Audio_Layer_II)
 
 

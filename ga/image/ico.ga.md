@@ -74,7 +74,7 @@ San eolaire atá i gcomhad ICO, arna léiriú mar struchtúr ICONDIR, tá struch
 
 ## Tagairtí ##
 
-* [ICO - Le Vicipéid]( https://en.wikipedia.org/wiki/ICO_(file_format))
+* [ICO - Le Vicipéid](https://en.wikipedia.org/wiki/ICO_(file_format))
 
 * [IANA - vnd.microsoft.icon](http://www.iana.org/assignments/media-types/image/vnd.microsoft.icon)
 

@@ -37,5 +37,5 @@ File format details for DRC are not available publicly. Google has hosted the Dr
 
 ## Tagairt
 
- * [DRACO - GITHUB]( https://github.com/google/draco)
+ * [DRACO - GITHUB](https://github.com/google/draco)
 

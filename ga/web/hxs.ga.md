@@ -29,6 +29,6 @@ Cruthaítear comhaid HXS agus sábháltar iad mar chomhaid chomhbhrúite ó ábh
 
 ## Tagairtí
 
-* [Comhad Microsoft Help 2.0]( https://en.wikipedia.org/wiki/Microsoft_Help_2)
+* [Comhad Microsoft Help 2.0](https://en.wikipedia.org/wiki/Microsoft_Help_2)
 
 

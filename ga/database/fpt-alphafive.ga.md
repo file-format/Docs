@@ -58,6 +58,6 @@ Go háirithe, d'éascaigh Alpha Five cruthú feidhmchlár gréasáin lena chomh�
 - [FPT - FileMaker Pro Database Memo File](/database/fpt/)
 
 ## Tagairtí
-* [Alfa Áit ar bith]( https://www.alphasoftware.com/mobile-app-development-platform)
+* [Alfa Áit ar bith](https://www.alphasoftware.com/mobile-app-development-platform)
 
 

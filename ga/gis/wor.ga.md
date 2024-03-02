@@ -27,6 +27,6 @@ Cuimsíonn comhaid WOR sraitheanna iolracha a rindreáiltear in ord sonrach nuai
 
 ## Tagairtí ##
 
-* [MapSource - Le Vicipéid]( https://wiki.openstreetmap.org/wiki/MapSource)
+* [MapSource - Le Vicipéid](https://wiki.openstreetmap.org/wiki/MapSource)
 
 

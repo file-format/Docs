@@ -93,5 +93,5 @@ Leanann an rannán Sonraí Paraiméadar an chuid Iontrálacha Sonraí. Liostaío
 
 
 ## Tagairtí
- * [IGES le WikiPedia]( https://en.wikipedia.org/wiki/IGES)
+ * [IGES le WikiPedia](https://en.wikipedia.org/wiki/IGES)
 

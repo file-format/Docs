@@ -29,6 +29,6 @@ Stóráiltear comhaid CHAT mar chomhaid dhénártha chuig diosca. Nuair is mian 
 
 ## Tagairtí
 
-* [Cabhair mIRC]( https://www.mirc.com/help/html/index.html?dcc.html)
+* [Cabhair mIRC](https://www.mirc.com/help/html/index.html?dcc.html)
 
 

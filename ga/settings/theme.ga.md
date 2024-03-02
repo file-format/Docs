@@ -59,6 +59,6 @@ Nuair a osclaítear comhad .theme, léann córas oibriúcháin Windows é, a chu
 Tríd is tríd, Microsoft Plus! Ligeann comhad Téama Deisce d'úsáideoirí gnéithe amhairc agus fuaime a ndeasc Windows a shaincheapadh go héasca le cliceáil amháin.
 
 ## Tagairtí
-* [Téamaí Deisce]( https://support.microsoft.com/en-us/windows/desktop-themes-94880287-6046-1d35-6d2f-35dee759701e)
+* [Téamaí Deisce](https://support.microsoft.com/en-us/windows/desktop-themes-94880287-6046-1d35-6d2f-35dee759701e)
 
 

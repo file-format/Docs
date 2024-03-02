@@ -45,8 +45,8 @@ I measc na gcomhad eile is féidir a fháil i bpacáiste OVF tá íomhánna dios
 
 ## Tagairtí
 
-* [Formáid Fíorúilithe Oscailte - DMTF]( https://www.dmtf.org/standards/ovf)
+* [Formáid Fíorúilithe Oscailte - DMTF](https://www.dmtf.org/standards/ovf)
 
-* [Sonraíochtaí Formáid Comhaid OVF]( https://www.dmtf.org/sites/default/files/standards/documents/DSP0243_1.1.0.pdf)
+* [Sonraíochtaí Formáid Comhaid OVF](https://www.dmtf.org/sites/default/files/standards/documents/DSP0243_1.1.0.pdf)
 
 

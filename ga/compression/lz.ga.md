@@ -50,8 +50,8 @@ Seo a leanas na seacht gcineál paicéad ([Wikipedia](https://en.wikipedia.org/w
 
 ## Tagairtí
 
-* [LZMA - Vicipéid]( https://en.wikipedia.org/wiki/Lempel%E2%80%93Ziv%E2%80%93Markov_chain_algorithm#Compressed_format_overview)
+* [LZMA - Vicipéid](https://en.wikipedia.org/wiki/Lempel%E2%80%93Ziv%E2%80%93Markov_chain_algorithm#Compressed_format_overview)
 
-* [Lzip]( https://ga.wikipedia.org/wiki/Lzip)
+* [Lzip](https://ga.wikipedia.org/wiki/Lzip)
 
 

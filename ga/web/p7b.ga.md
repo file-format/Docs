@@ -37,8 +37,8 @@ XjlakuoieulalxkjflaiuEggHozdmgGz7zbC1mcJ2rcNAQEEBBAYTAlVTMRMwMIICCDAaBgyAEFKaEEC
 
 ## Tagairtí ##
 
-* [Criptagrafaíocht Eochracha Poiblí]( https://en.wikipedia.org/wiki/Public-key_cryptography)
+* [Criptagrafaíocht Eochracha Poiblí](https://en.wikipedia.org/wiki/Public-key_cryptography)
 
-* [Conas comhad P7C a chruthú?]( https://www.ibm.com/support/pages/how-create-pkcs7-p7b-p7c-certificate-your-trading-partner)
+* [Conas comhad P7C a chruthú?](https://www.ibm.com/support/pages/how-create-pkcs7-p7b-p7c-certificate-your-trading-partner)
 
 

@@ -31,5 +31,5 @@ Is comhad sonraí é comhad DEF a cruthaíodh in [spreadsheet file format](/spre
 
 ## Tagairtí
 
- * [SmartWare]( https://ga.wikipedia.org/wiki/SmartWare)
+ * [SmartWare](https://ga.wikipedia.org/wiki/SmartWare)
 

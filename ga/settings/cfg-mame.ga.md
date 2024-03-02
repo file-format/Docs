@@ -99,6 +99,6 @@ Seo cineálacha comhaid eile a úsáideann an síneadh comhad **.cfg**.
 - [CFG - Cal3D Model Configuration File](/misc/cfg-cal3d/)
 
 ## Tagairtí
-* [MAME]( https://ga.wikipedia.org/wiki/MAME)
+* [MAME](https://ga.wikipedia.org/wiki/MAME)
 
 

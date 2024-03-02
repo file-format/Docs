@@ -35,5 +35,5 @@ Soláthraíonn Adobe InDesign roinnt teimpléid leis na bogearraí chomh maith l
 
 ## Tagairtí
 
- * [Cineál Comhaid INDD - Adobe]( https://www.adobe.com/creativecloud/file-types/image/vector/indd-file.html)
+ * [Cineál Comhaid INDD - Adobe](https://www.adobe.com/creativecloud/file-types/image/vector/indd-file.html)
 

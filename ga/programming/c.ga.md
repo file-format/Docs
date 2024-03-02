@@ -80,6 +80,6 @@ long some_function();
 
 ## **Tagairtí** ##
 
-* [Forfheidhmiú an Aicme - Le Vicipéid]( https://en.wikipedia.org/wiki/Class_implementation_file)
+* [Forfheidhmiú an Aicme - Le Vicipéid](https://en.wikipedia.org/wiki/Class_implementation_file)
 
 

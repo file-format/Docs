@@ -70,6 +70,6 @@ Chun comhaid LRV (Físeán Íseal-Taifeach) a oscailt agus a fheiceáil, is féi
 - **Tiontú Comhad:** Más fearr leat comhaid LRV a thiontú go formáid físeáin a dtacaítear níos forleithne léi, is féidir leat bogearraí comhshó físeáin a úsáid. Ligeann uirlisí ar nós _Handbrake_ nó _Freemake Video Converter_ duit comhaid LRV a thiontú go formáidí ar nós [MP4](/video/mp4/), ar féidir le raon leathan seinnteoirí meán nó bogearraí eagarthóireachta físeáin iad a oscailt.
 
 ## Tagairtí
-* [Comhaid GoPro LRV agus THM]( https://shotkit.com/lrv-thm-file/)
+* [Comhaid GoPro LRV agus THM](https://shotkit.com/lrv-thm-file/)
 
 

@@ -41,8 +41,8 @@ Tá go leor buntáistí ag baint le formáid comhaid DSS mar gheall ar a bhform�
 
 ## Tagairtí
 
-* [Caighdeán Digiteach Urlabhra - Vicipéid]( https://ga.wikipedia.org/wiki/Digital_Speech_Standard)
+* [Caighdeán Digiteach Urlabhra - Vicipéid](https://ga.wikipedia.org/wiki/Digital_Speech_Standard)
 
-* [Caighdeán Digiteach Urlabhra (.dss / .ds 2) - Olympus-europa]( https://www.olympus-europa.com/site/en/a/audio_support/audio_support_help/digital_speech_standard/index.html )
+* [Caighdeán Digiteach Urlabhra (.dss / .ds 2) - Olympus-europa](https://www.olympus-europa.com/site/en/a/audio_support/audio_support_help/digital_speech_standard/index.html )
 
 

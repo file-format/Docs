@@ -72,6 +72,6 @@ Seo cineálacha comhaid eile a úsáideann an síneadh comhad **.cpi**.
 - [CPI - Codepage Information File](/system/cpi/)
 
 ## Tagairtí
-* [Leathanach an chóid]( https://ga.wikipedia.org/wiki/Code_page)
+* [Leathanach an chóid](https://ga.wikipedia.org/wiki/Code_page)
 
 

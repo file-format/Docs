@@ -42,7 +42,7 @@ Baineadh úsáid go príomha as beart comhaid OEBZIP mar fhormáid lárstáit, a
 
 * [OEBPS (Struchtúr Foilsithe an Fhóraim Ríomhleabhair Oscailte) 1.2](https://www.loc.gov/preservation/digital/formats/fdd/fdd000171.shtml)
 
-* [Leabhar oscailte]( https://en.wikipedia.org/wiki/Open_eBook)
+* [Leabhar oscailte](https://en.wikipedia.org/wiki/Open_eBook)
 
 
 

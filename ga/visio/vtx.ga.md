@@ -37,6 +37,6 @@ I measc na gcineálacha comhaid áirithe eile a chuimsíonn formáid comhaid Vis
 
 ## Tagairtí ##
 
-* [Réamhrá ar Fhormáid Chomhaid Visio]( https://learn.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
+* [Réamhrá ar Fhormáid Chomhaid Visio](https://learn.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
 
 

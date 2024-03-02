@@ -36,8 +36,8 @@ tar zxvf tgzCompressedFile.tgz
 Dí-chomhbhrúíonn an t-ordú thuas an comhad TGZ comhbhrúite agus baintear a chuid comhad as an gcartlann TAR go diosca.
 ## Tagairtí ##
 
-* [TGS]( https://core.telegram.org/stickers#animated-stickers)
+* [TGS](https://core.telegram.org/stickers#animated-stickers)
 
-* [gzip - Vicipéid]( https://ga.wikipedia.org/wiki/Gzip)
+* [gzip - Vicipéid](https://ga.wikipedia.org/wiki/Gzip)
 
 

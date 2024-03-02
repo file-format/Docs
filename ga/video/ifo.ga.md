@@ -31,6 +31,6 @@ Is féidir le comhaid IFO damáiste a dhéanamh má fhaigheann an DVD scratches.
 
 ## Tagairtí
 
- * [VobSub]( https://www.videohelp.com/software/VobSub)
+ * [VobSub](https://www.videohelp.com/software/VobSub)
  * [Inside Video DVD-Comhaid Físe](https://en.wikibooks.org/wiki/Inside_DVD-Video/IFO_Files)
 

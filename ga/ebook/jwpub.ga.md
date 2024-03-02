@@ -42,6 +42,6 @@ Más mian leat rochtain a fháil ar na comhaid taobh istigh de chomhad JWPUB, is
 Tá sé tábhachtach a thabhairt faoi deara go n-úsáideann bogearraí Leabharlainne Watchtower struchtúr comhaid ar leith agus coinbhinsiún ainmniúcháin dá bhfoilseachán, mar sin má athraíonn tú nó má scriosann tú aon chomhaid taobh istigh de chomhad JWPUB, seans go mbeidh earráidí nó fadhbanna agat agus na bogearraí á n-úsáid agat. Mar sin, moltar duit na comhaid a bhaint as comhad JWPUB ach amháin má tá riachtanas nó cuspóir ar leith agat, agus níor cheart duit aon chomhaid a mhodhnú nó a scriosadh mura bhfuil tú eolach ar struchtúr agus ar oibriú comhaid na mbogearraí.
 
 ## Tagairtí
-* [Leabharlann an Túir Faire]( https://www.jw.org/ga/online-help/watchtower-library/)
+* [Leabharlann an Túir Faire](https://www.jw.org/ga/online-help/watchtower-library/)
 
 

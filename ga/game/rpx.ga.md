@@ -27,6 +27,6 @@ Déantar comhaid RPX a shábháil ar diosca i bhformáid comhaid dílseánaigh. 
 
 ## Tagairtí
 
- * [Formáidí Comhaid Wii U]( https://www.retroreversing.com/WiiUFileFormats)
+ * [Formáidí Comhaid Wii U](https://www.retroreversing.com/WiiUFileFormats)
  * [Comhbhrúigh nó Dí-chomhbhrú comhaid RPL/RPX le haghaidh Wii U](https://github.com/0CBH0/wiiurpxtool)
 

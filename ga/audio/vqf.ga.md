@@ -38,6 +38,6 @@ Mharg Yamaha an CODEC comhbhrú fuaime seo mar mhalairt ar MP3, ach níor tháin
 
 ## Tagairtí
 
-* [TwinVQ - le Vicipéid]( https://en.wikipedia.org/wiki/TwinVQ)
+* [TwinVQ - le Vicipéid](https://en.wikipedia.org/wiki/TwinVQ)
 
 

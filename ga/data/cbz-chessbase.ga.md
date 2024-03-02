@@ -82,6 +82,6 @@ Seo a leanas cineálacha comhaid eile a úsáideann an síneadh comhad **.cbz**.
 - [CBZ - Comic Book ZIP Archive File Format](/ebook/cbz/)
 
 ## Tagairtí
-* [ChessBase]( https://en.wikipedia.org/wiki/ChessBase)
+* [ChessBase](https://en.wikipedia.org/wiki/ChessBase)
 
 

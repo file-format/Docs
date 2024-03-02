@@ -43,6 +43,6 @@ Féadfar an comhad XML forléirithe a áireamh sa phacáiste feidhmchláir nó m
 Mar shampla, i gCreat Microsoft .NET, úsáidtear comhad XML follasach chun cur síos a dhéanamh ar na spleáchais agus ar an bhfaisnéis faoin leagan d’fheidhmchlár, agus de ghnáth cuimsítear é mar chuid de chomhthionól an fheidhmchláir. Úsáideann an Comhad Am Reatha Teanga (CLR) an comhad chun na leaganacha cearta de chomhthionóil le luchtú a chinneadh agus chun a chinntiú go n-oibríonn an feidhmchlár i gceart.
 
 ## Tagairtí
-* [Comhad follasach]( https://en.wikipedia.org/wiki/Manifest_file)
+* [Comhad follasach](https://en.wikipedia.org/wiki/Manifest_file)
 
 

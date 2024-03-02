@@ -33,6 +33,6 @@ Cruthaítear comhad HYPE agus tú ag baint úsáide as an bhfeidhmchlár Hype ch
 
 ## Tagairtí
 
-* [Tumult Hype]( https://tumult.com/hype/)
+* [Tumult Hype](https://tumult.com/hype/)
 
 

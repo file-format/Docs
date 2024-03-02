@@ -38,8 +38,8 @@ Stóráiltear comhaid EX mar chomhaid ghnáth-théacs agus tá an cód foinse an
 
 ## Tagairt ##
 
-* [Euphoria Mear]( https://www.rapideuphoria.com/)
+* [Euphoria Mear](https://www.rapideuphoria.com/)
 
-* [Fóraim OpenEuphoria]( https://openeuphoria.org/forum/index.wc)
+* [Fóraim OpenEuphoria](https://openeuphoria.org/forum/index.wc)
 
 

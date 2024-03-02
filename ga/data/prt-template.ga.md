@@ -95,6 +95,6 @@ Seo cineálacha comhaid eile a úsáideann an síneadh comhad **.prt**.
 - [PRT - Presentations Template](/data/prt-template/)
 
 ## Tagairtí
-* [Léirmheasanna Corel]( https://en.wikipedia.org/wiki/Corel_Presentations)
+* [Léirmheasanna Corel](https://en.wikipedia.org/wiki/Corel_Presentations)
 
 

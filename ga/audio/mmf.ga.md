@@ -66,6 +66,6 @@ Seo sampla de chomhad MMF:
 
 ## Tagairtí
 
-* [MMF - Le Vicipéid]( https://en.wikipedia.org/wiki/Synthetic_music_mobile_application_format)
+* [MMF - Le Vicipéid](https://en.wikipedia.org/wiki/Synthetic_music_mobile_application_format)
 
 

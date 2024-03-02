@@ -73,6 +73,6 @@ Is iad seo a leanas na príomhdhifríochtaí idir AAC agus MP3 i dtéarmaí feab
 
 ## Tagairtí ##
 
-* [AAC - Le Vicipéid]( https://en.wikipedia.org/wiki/Advanced_Audio_Coding)
+* [AAC - Le Vicipéid](https://en.wikipedia.org/wiki/Advanced_Audio_Coding)
 
 

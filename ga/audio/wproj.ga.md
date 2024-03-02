@@ -53,6 +53,6 @@ Nuair a bheidh na bogearraí Wwise suiteáilte agat ar do ríomhaire, lean na c�
 Ansin luchtóidh bogearraí Wwise an comhad Wwise Project agus na sócmhainní agus na socruithe fuaime go léir a bhaineann leis. Is féidir leat ansin an tionscadal a chur in eagar agus a mhodhnú de réir mar is gá ag baint úsáide as na huirlisí agus na gnéithe éagsúla a sholáthraíonn bogearraí Wwise.
 
 ## Tagairtí
-* [Audiokinetic Wwise]( https://en.wikipedia.org/wiki/Audiokinetic_Wwise)
+* [Audiokinetic Wwise](https://en.wikipedia.org/wiki/Audiokinetic_Wwise)
 
 

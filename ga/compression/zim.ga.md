@@ -52,8 +52,8 @@ A ZIM file starts with a header that is at offset 0. Tá na comhábhair go léir
 
 ## Tagairtí ##
 
-* [OpenZIM]( https://openzim.org/)
+* [OpenZIM](https://openzim.org/)
 
-* [C++ LibZim]( https://openzim.org/wiki/Zimlib)
+* [C++ LibZim](https://openzim.org/wiki/Zimlib)
 
 

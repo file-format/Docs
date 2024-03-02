@@ -60,6 +60,6 @@ Is iad comhaid doiciméad scarbhileog an fothacar de chomhaid ODF ina bhfuil an 
 
 ## Tagairtí
 
-* [OpenDocument - Le Vicipéid]( https://en.wikipedia.org/wiki/OpenDocument)
+* [OpenDocument - Le Vicipéid](https://en.wikipedia.org/wiki/OpenDocument)
 
 

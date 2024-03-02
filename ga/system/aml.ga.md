@@ -48,10 +48,10 @@ DefinitionBlock ("test.aml", "DSDT", 1, "OEMID ", "TABLEID  ", 0x00000000)
 
 ## Tagairtí
 
-* [ACPI AML]( https://wiki.osdev.org/AML)
+* [ACPI AML](https://wiki.osdev.org/AML)
 
-* [DSDT]( https://wiki.osdev.org/DSDT)
+* [DSDT](https://wiki.osdev.org/DSDT)
 
-* [SSDT]( https://wiki.osdev.org/SSDT )
+* [SSDT](https://wiki.osdev.org/SSDT )
 
 

@@ -49,6 +49,6 @@ Is próiseas simplí é comhad DESKTHEMEPACK a shuiteáil i Windows. Seo na céi
 Más mian leat an téama a dhíshuiteáil níos déanaí, is féidir leat é sin a dhéanamh trí dul go dtí na socruithe Pearsantú i bPainéal Rialúcháin Windows, roghnaigh an téama is mian leat a bhaint, agus cliceáil ar Scrios téama.
 
 ## Tagairtí
-* [Téamaí Deisce]( https://support.microsoft.com/en-us/windows/desktop-themes-94880287-6046-1d35-6d2f-35dee759701e)
+* [Téamaí Deisce](https://support.microsoft.com/en-us/windows/desktop-themes-94880287-6046-1d35-6d2f-35dee759701e)
 
 

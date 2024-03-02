@@ -116,7 +116,7 @@ The EMF file format has been revised twice. The changed versions are original, e
 
 ## Tagairtí ##
 
-* [ Meiteashonraí Formáideacha Feabhsaithe | Microsoft Docs]( https://learn.microsoft.com/en-us/windows/desktop/gdi/enhanced-format-metafiles)
+* [ Meiteashonraí Formáideacha Feabhsaithe | Microsoft Docs](https://learn.microsoft.com/en-us/windows/desktop/gdi/enhanced-format-metafiles)
 
 * [Formáid agus Sonraíocht Meiteafile Feabhsaithe](https://msdn.microsoft.com/en-us/library/cc230514.aspx)
 

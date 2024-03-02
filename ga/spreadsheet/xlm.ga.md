@@ -49,6 +49,6 @@ Ceadaíonn VBA rochtain ar gach réimse den fheidhmchlár chomh maith le córas 
 
 * [[MS-XLS] - Struchtúr Formáide Comhad Dénártha Excel](https://msdn.microsoft.com/en-us/library/cc313154(v#office.12).aspx)
 
-* [Macra-ríomhchlárú]( https://en.wikipedia.org/wiki/Microsoft_Excel#Macro_programming)
+* [Macra-ríomhchlárú](https://en.wikipedia.org/wiki/Microsoft_Excel#Macro_programming)
 
 

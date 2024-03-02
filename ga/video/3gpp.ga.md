@@ -70,6 +70,6 @@ I mbeagán focal, leanann formáid comhaid 3GPP formáid coimeádán MP4, rud a 
 - `físeán/3gpp`
 
 ## Tagairtí
-* [3GP agus 3G2]( https://en.wikipedia.org/wiki/3GP_and_3G2)
+* [3GP agus 3G2](https://en.wikipedia.org/wiki/3GP_and_3G2)
 
 

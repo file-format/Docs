@@ -45,8 +45,8 @@ Sa sampla seo a leanas de chód ZUML, sonraíonn an chéad líne teideal an leat
 Is féidir scéimre ZUL a íoslódáil ó https://www.zkoss.org/2005/zul/zul.xsd.
 ## Tagairtí
 
-* [ZUL - Le ZK]( https://www.zkoss.org/wiki/ZK_Getting_Started/Tutorial)
+* [ZUL - Le ZK](https://www.zkoss.org/wiki/ZK_Getting_Started/Tutorial)
 
-* [Scéim ZUL]( https://www.zkoss.org/2005/zul/zul.xsd)
+* [Scéim ZUL](https://www.zkoss.org/2005/zul/zul.xsd)
 
 

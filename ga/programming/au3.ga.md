@@ -29,6 +29,6 @@ Déantar comhaid AU3 a shábháil mar chomhaid téacs agus tá teanga scriptithe
 
 ## Tagairt
 
-* [AutoIt v3]( https://www.autoitscript.com/site/)
+* [AutoIt v3](https://www.autoitscript.com/site/)
 
 

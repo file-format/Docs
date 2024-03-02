@@ -36,7 +36,7 @@ Is formáid comhaid ríomhleabhair é an AZW1 ar a dtugtar **ríomhleabhar Amazo
 
 ## Tagairtí
 
-* [Treoirleabhar_Gaeilge_Gaeilge_Kindle_User]( https://kindle.s3.amazonaws.com/Kindle_User%27s_Guide_English.pdf)
+* [Treoirleabhar_Gaeilge_Gaeilge_Kindle_User](https://kindle.s3.amazonaws.com/Kindle_User%27s_Guide_English.pdf)
 
 
 

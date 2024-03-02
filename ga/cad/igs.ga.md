@@ -31,5 +31,5 @@ Is éard atá i gcomhad le síneadh .igs (Malartú Grafaic Tosaigh) ná formáid
 Tá comhaid IGS i bhformáid téacschomhaid ASCII agus is féidir iad a oscailt le haon eagarthóir téacs. Tá gach taifead i gcomhad IGS 80 carachtar ar fad. Sábhálann agus easpórtálann feidhmchláir CAD sonraí veicteora i bhformáid comhaid IGS chun comhaid mhúnla 3D a aistriú idir pacáistí bogearraí éagsúla. Cé gur féidir comhaid IGS a oscailt in aon eagarthóir téacs, ní féidir an tsamhail nó an dearadh a fheiceáil ach trí fheidhmchláir léirshamhlaithe a thacaíonn le formáid comhaid IGS.
 
 ## Tagairtí
- * [IGES le WikiPedia]( https://en.wikipedia.org/wiki/IGES)
+ * [IGES le WikiPedia](https://en.wikipedia.org/wiki/IGES)
 

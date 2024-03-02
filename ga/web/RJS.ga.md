@@ -59,6 +59,6 @@ foo = -> { "bar" }
 ```
 ## Tagairtí
 
-* [RJS]( https://github.com/makevoid/rjs)
+* [RJS](https://github.com/makevoid/rjs)
 
 

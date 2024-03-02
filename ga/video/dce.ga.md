@@ -30,6 +30,6 @@ Má tá comhad DCE agat ó chóras DriveCam, d’fhéadfadh go mbeadh bogearraí
 Is féidir leat an comhad DCE a thiontú go formáid AVI freisin agus ansin seinnteoir AVI a úsáid chun an físeán a sheinm.
 
 ## Tagairtí
-* [Lytx]( https://www.lytx.com/)
+* [Lytx](https://www.lytx.com/)
 
 

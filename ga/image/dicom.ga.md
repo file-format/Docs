@@ -119,12 +119,12 @@ Soláthraíonn DICOM seirbhísí éagsúla, a bhaineann go príomha le cumarsái
 
 ## Tagairtí ##
 
-* [https://en.wikipedia.org/wiki/DICOM]( https://en.wikipedia.org/wiki/DICOM)
+* [https://en.wikipedia.org/wiki/DICOM](https://en.wikipedia.org/wiki/DICOM)
 
-* [https://www.leadtools.com/sdk/medical/dicom-spec]( https://www.leadtools.com/sdk/medical/dicom-spec)
+* [https://www.leadtools.com/sdk/medical/dicom-spec](https://www.leadtools.com/sdk/medical/dicom-spec)
 
-* [https://www.dicomstandard.org/concepts/]( https://www.dicomstandard.org/concepts/)
+* [https://www.dicomstandard.org/concepts/](https://www.dicomstandard.org/concepts/)
 
-* [ https://www.dicomlibrary.com/dicom/ ]( https://www.dicomlibrary.com/dicom/)
+* [https://www.dicomlibrary.com/dicom/ ](https://www.dicomlibrary.com/dicom/)
 
 

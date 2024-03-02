@@ -27,7 +27,7 @@ Cuimsíonn an teaghlach caighdeán PDF/X roinnt leaganacha, gach ceann acu deart
 
 * `PDF/X-1a` - Ar a dtugtar an chéad chaighdeán de theaghlach PDF/X freisin, éilíonn PDF/X-1a go mbeadh gach ábhar mar chuid den doiciméad PDF ionas gur féidir é a phriontáil. Ní cheadaítear eilimintí doiciméad ar nós clónna, foirmeacha, cosaint pasfhocail, agus nótaí sofheicthe. Tá a cheanglais shonracha féin ag PDF/X-1a chomh maith, amhail na ceanglais a bhaineann le trédhearcacht agus ceadaítear sraitheanna. Éilíonn siad seo freisin nach n-úsáidfidh eilimintí priontála ach CMYK, liathscála nó spotdathanna, rud a fhágann nach n-úsáidfear spásanna datha RGB nó gléas-neamhspleách. is le haghaidh malartuithe ina bhfuil gach comhad le seachadadh i CMYK (agus/nó spotdathanna), gan aon RGB nó sonraí arna mbainistiú ag dathanna. Tagraítear do PDF/X-1a freisin mar Malartú Iomlán mar gheall ar chomhláine an eolais a theastaíonn ó
 
-* `PDF/X-3` - tugadh isteach é i 2002 agus baineadh go leor srianta PDF/X-1a. Chuir sé seo ar chumas na ngrafaicí i PDF/X-3 spásanna datha CMYK, grescale, RGB, Lab agus ICC a úsáid. Tá sé bunaithe i ndáiríre ar chaighdeáin PDF 1.3 le [próifíl ICC]( https://en.wikipedia.org/wiki/ICC_Profile). Tugtar Bainistíocht Dathanna air freisin mar gheall ar an tsolúbthacht agus na rialacha a thugann sé isteach maidir le dathanna atá san áireamh i ndoiciméad PDF.
+* `PDF/X-3` - tugadh isteach é i 2002 agus baineadh go leor srianta PDF/X-1a. Chuir sé seo ar chumas na ngrafaicí i PDF/X-3 spásanna datha CMYK, grescale, RGB, Lab agus ICC a úsáid. Tá sé bunaithe i ndáiríre ar chaighdeáin PDF 1.3 le [próifíl ICC](https://en.wikipedia.org/wiki/ICC_Profile). Tugtar Bainistíocht Dathanna air freisin mar gheall ar an tsolúbthacht agus na rialacha a thugann sé isteach maidir le dathanna atá san áireamh i ndoiciméad PDF.
 
 * `PDF/X-4` - tacaíonn sé le trédhearcacht, agus mar sin tá na sonraí go léir a theastaíonn le haghaidh aschur gan leata i PDF-X/4.
 
@@ -36,6 +36,6 @@ Cuimsíonn an teaghlach caighdeán PDF/X roinnt leaganacha, gach ceann acu deart
 
 ## Tagairtí ##
 
-* [PDF/X - Le Vicipéid]( https://ga.wikipedia.org/wiki/PDF/X)
+* [PDF/X - Le Vicipéid](https://ga.wikipedia.org/wiki/PDF/X)
 
 

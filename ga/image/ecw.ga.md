@@ -43,7 +43,7 @@ Seo roinnt airíonna tipiciúla formáid ECW:
 
 ## Tagairtí ##
 
-* [ECW (formáid comhaid) - Le Vicipéid]( https://en.wikipedia.org/wiki/ECW_(file_format))
+* [ECW (formáid comhaid) - Le Vicipéid](https://en.wikipedia.org/wiki/ECW_(file_format))
 
 
 

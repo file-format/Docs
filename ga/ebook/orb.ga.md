@@ -42,6 +42,6 @@ The files with .orb extension are actually compressed with Zip compression; cont
 
 ## Tagairtí
 
-* [Orb Books - Vicipéid]( https://ga.wikipedia.org/wiki/Orb_Books )
+* [Orb Books - Vicipéid](https://ga.wikipedia.org/wiki/Orb_Books )
 
 

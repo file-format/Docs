@@ -29,11 +29,11 @@ Ní fios struchtúr inmheánach comhad formáid comhaid MPS mar tá deireadh cur
 
 Tá roinnt feidhmchlár GIS ar féidir a úsáid mar mhalairt ar MapPoint.
 
- * [RouteSavvy]( https://www.routesavvy.com/)
- * [Críoch Éasca]( https://www.easyterritory.com/)
+ * [RouteSavvy](https://www.routesavvy.com/)
+ * [Críoch Éasca](https://www.easyterritory.com/)
 
 ## Tagairtí
 
-* [TopGraphic EasyGPS]( https://www.easygps.com/)
+* [TopGraphic EasyGPS](https://www.easygps.com/)
 
 

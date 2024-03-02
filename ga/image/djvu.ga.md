@@ -86,7 +86,7 @@ Cuireann an modh ionchódaithe JB2 deireadh le cuid mhór den iomarcaíocht san 
 
 ## Tagairtí ##
 
-* [DjVu - Vicipéid]( https://ga.wikipedia.org/wiki/DjVu)
+* [DjVu - Vicipéid](https://ga.wikipedia.org/wiki/DjVu)
 
 * [DjVu File Format](https://www.cuminas.jp/docs/techinfo/DjVu3Spec.pdf)
 

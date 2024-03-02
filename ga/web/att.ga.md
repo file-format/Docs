@@ -25,6 +25,6 @@ I measc na n-iarratas ar féidir **comhaid ATT a oscailt** tá eagarthóirí té
 
 ## Tagairtí
 
-* [Foirmeacha Gréasáin - Microsoft]( https://learn.microsoft.com/en-us/aspnet/web-forms/what-is-web-forms)
+* [Foirmeacha Gréasáin - Microsoft](https://learn.microsoft.com/en-us/aspnet/web-forms/what-is-web-forms)
 
 

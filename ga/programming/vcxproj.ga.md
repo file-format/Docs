@@ -80,8 +80,8 @@ Tá socruithe sa rannán seo a sholáthraíonn faisnéis do leibhéal an tionsca
 
 ## Tagairtí
 
-* [Struchtúr VCXPROJ - MSDN]( https://learn.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure?view=msvc-160)
+* [Struchtúr VCXPROJ - MSDN](https://learn.microsoft.com/en-us/cpp/build/reference/vcxproj-file-structure?view=msvc-160)
 
-* [C++ Comhaid Tionscadail]( https://learn.microsoft.com/en-us/cpp/build/reference/project-files?view=msvc-160)
+* [C++ Comhaid Tionscadail](https://learn.microsoft.com/en-us/cpp/build/reference/project-files?view=msvc-160)
 
 

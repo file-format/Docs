@@ -71,6 +71,6 @@ Tá na cineálacha smután chun AIFF a fhoirmiú tugtha sa tábla thíos:
 
 ## Tagairtí ##
 
-* [Formáid Comhaid Idirmhalartaithe Fuaime - De réir Vicipéid]( https://en.wikipedia.org/wiki/Audio_Interchange_File_Format)
+* [Formáid Comhaid Idirmhalartaithe Fuaime - De réir Vicipéid](https://en.wikipedia.org/wiki/Audio_Interchange_File_Format)
 
 

@@ -39,6 +39,6 @@ Tá eilimintí grafacha (íomhá, cruthanna agus téacs) i gcomhaid XD i sraithe
 
 ## Tagairtí
 
-* [Treoir Úsáideora Adobe XD]( https://helpx.adobe.com/xd/user-guide.html)
+* [Treoir Úsáideora Adobe XD](https://helpx.adobe.com/xd/user-guide.html)
 
 

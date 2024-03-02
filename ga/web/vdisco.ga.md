@@ -29,9 +29,9 @@ Déantar comhad VDISCO a shábháil agus a óstáil i bhformáid comhaid [XML](/
 
 ## Tagairtí
 
-* [DISCO]( https://appsource.microsoft.com/en-us/product/office/WA104381894)
+* [DISCO](https://appsource.microsoft.com/en-us/product/office/WA104381894)
 
-* [Fionnachtain Seirbhísí Gréasáin]( https://en.wikipedia.org/wiki/Web_Services_Discovery)
+* [Fionnachtain Seirbhísí Gréasáin](https://en.wikipedia.org/wiki/Web_Services_Discovery)
 
 * [C# Example of DiscoveryClient Class](https://learn.microsoft.com/en-us/dotnet/api/system.web.services.discovery.discoveryclientprotocol?view=netframework-4.8)
 

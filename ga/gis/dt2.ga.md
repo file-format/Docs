@@ -29,6 +29,6 @@ Sábháiltear comhaid DT2 mar chomhaid dhénártha ar diosca agus is féidir iad
 
 ## Tagairtí
 
- * [ArgGIS Pro]( https://pro.arcgis.com/en/pro-app/latest/tool-reference/data-management/raster-to-dted.htm)
+ * [ArgGIS Pro](https://pro.arcgis.com/en/pro-app/latest/tool-reference/data-management/raster-to-dted.htm)
  * [Formáid Chomhaid KML](/gis/kml/)
 

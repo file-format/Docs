@@ -35,6 +35,6 @@ Cruthaítear comhaid TMVT agus sábháltar iad ar diosca i bhformáid dhénárth
 
 ## Tagairtí ##
 
-* [LexisNexis CaseMap]( https://www.lexisnexis.com/en-us/products/casemap.page)
+* [LexisNexis CaseMap](https://www.lexisnexis.com/en-us/products/casemap.page)
 
 

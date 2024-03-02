@@ -59,6 +59,6 @@ Chun pacáiste uigeachta MCPACK a shuiteáil in Minecraft Buncharraige Edition, 
 
 ## Tagairtí
 
-* [Forbairt Breiseán don Eagrán Buncharraige]( https://learn.microsoft.com/en-us/minecraft/creator/documents/gettingstarted)
+* [Forbairt Breiseán don Eagrán Buncharraige](https://learn.microsoft.com/en-us/minecraft/creator/documents/gettingstarted)
 
 

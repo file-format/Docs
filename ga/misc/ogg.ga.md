@@ -32,8 +32,8 @@ Soláthraíonn bogearraí Origin an rogha freisin le húsáid mar Fhreastalaí U
 
 ## Tagairtí
 
-* [OriginLab]( https://www.originlab.com/)
+* [OriginLab](https://www.originlab.com/)
 
-* [Python API for OriginLab]( https://github.com/jsbangsund/python_to_originlab)
+* [Python API for OriginLab](https://github.com/jsbangsund/python_to_originlab)
 
 

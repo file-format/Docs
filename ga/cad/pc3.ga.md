@@ -76,6 +76,6 @@ Seo cuid de na socruithe is féidir a stóráil i gcomhad PC3:
 Trí chomhad PC3 a chruthú agus a úsáid ina bhfuil socruithe cearta do do phrintéir nó do bhreatóir ar leith, is féidir leat a chinntiú go bhfuil do líníochtaí clóite nó breactha go cruinn agus le cáilíocht chomhsheasmhach.
 
 ## Tagairtí
-* [PC3 in AutoCAD]( https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/Creating-plotter-configuration-files-PC3.html)
+* [PC3 in AutoCAD](https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/Creating-plotter-configuration-files-PC3.html)
 
 

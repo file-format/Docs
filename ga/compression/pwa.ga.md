@@ -48,6 +48,6 @@ Seo a leanas roinnt príomhghnéithe a fhaightear go coitianta i mbogearraí bai
 - **Nótaí slána agus sonraí eile:** Féadfaidh Gníomhaire Pasfhocal tacú le faisnéis bhreise a stóráil amhail nótaí slána, sonraí cárta creidmheasa agus sonraí íogaire eile.
 
 ## Tagairtí
-* [Bogearraí Gníomhaire Pasfhocal]( https://moonsoftware.com/)
+* [Bogearraí Gníomhaire Pasfhocal](https://moonsoftware.com/)
 
 

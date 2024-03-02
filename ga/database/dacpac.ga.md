@@ -62,8 +62,8 @@ Ní mór a thabhairt faoi deara nach bhfuil SONRAÍ agus réada eile ar leibhéa
 
 ## Tagairtí
 
-* [Feidhmchláir Shraith Sonraí - Buntáistí]( https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/data-tier-applications)
+* [Feidhmchláir Shraith Sonraí - Buntáistí](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/data-tier-applications)
 
-* [Feidhmchlár Sraith Sonraí á Imscaradh - Microsoft]( https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/deploy-a-data-tier-application)
+* [Feidhmchlár Sraith Sonraí á Imscaradh - Microsoft](https://learn.microsoft.com/en-us/sql/relational-databases/data-tier-applications/deploy-a-data-tier-application)
 
 * [How to create DACPAC File?](https://azureplayer.net/2018/10/how-to-create-dacpac-file/)

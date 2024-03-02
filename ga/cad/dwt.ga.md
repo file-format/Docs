@@ -34,10 +34,10 @@ Is féidir DWT a mheas mar DWG le luachanna réamhshainithe is féidir a úsáid
 
 ### Tagairtí
 
-* [Sonraíochtaí Formáid Comhaid DWG]( https://www.opendesign.com/files/guestdownloads/OpenDesign_Specification_for_.dwg_files.pdf)
+* [Sonraíochtaí Formáid Comhaid DWG](https://www.opendesign.com/files/guestdownloads/OpenDesign_Specification_for_.dwg_files.pdf)
 
-* [Sonraíocht an Chomhaid DWG]( https://www.scan2cad.com/blog/dwg/file-spec/)
+* [Sonraíocht an Chomhaid DWG](https://www.scan2cad.com/blog/dwg/file-spec/)
 
-* [DWG - Le Vicipéid]( https://ga.wikipedia.org/wiki/.dwg)
+* [DWG - Le Vicipéid](https://ga.wikipedia.org/wiki/.dwg)
 
 

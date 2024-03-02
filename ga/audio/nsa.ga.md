@@ -23,6 +23,6 @@ Sruthaítear comhaid NSA ar líne ag baint úsáide as formáid comhaid fuaime c
 
 ## Tagairtí
 
-* [NullSoft - Vicipéid]( https://ga.wikipedia.org/wiki/Nullsoft)
+* [NullSoft - Vicipéid](https://ga.wikipedia.org/wiki/Nullsoft)
 
 

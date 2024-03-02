@@ -29,6 +29,6 @@ Tá comhaid DOWNLAOD cosúil le comhaid [.CRDOWNLOAD](/web/crdownload/) a úsái
 
 ## Tagairtí ##
 
-* [DOCTYPE HTML]( https://www.w3schools.com/tags/tag_doctype.asp)
+* [DOCTYPE HTML](https://www.w3schools.com/tags/tag_doctype.asp)
 
 

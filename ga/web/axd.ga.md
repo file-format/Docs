@@ -31,5 +31,5 @@ Sábhálann formhór na dtionscadal ASP.NET comhaid AXD mar chomhaid WebResource
 
 ## Tagairtí
 
- * [WebResource.axd]( https://social.msdn.microsoft.com/Forums/en-US/e6559555-5723-4590-9eb6-4b2af26a54cd/what-is-webresourceaxd?forum=aspgettingstarted)
+ * [WebResource.axd](https://social.msdn.microsoft.com/Forums/en-US/e6559555-5723-4590-9eb6-4b2af26a54cd/what-is-webresourceaxd?forum=aspgettingstarted)
 

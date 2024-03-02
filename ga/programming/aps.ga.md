@@ -36,6 +36,6 @@ Níl i bhformáid comhaid APS ach céim tiomsaithe agus ní stórálann ach sonr
 
 ## Tagairtí
 
- * [Comhaid Acmhainní (C++)]( https://learn.microsoft.com/en-us/cpp/windows/resource-files-visual-studio?view=msvc-160)
+ * [Comhaid Acmhainní (C++)](https://learn.microsoft.com/en-us/cpp/windows/resource-files-visual-studio?view=msvc-160)
  
 

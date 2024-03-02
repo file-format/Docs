@@ -122,6 +122,6 @@ Sruth roghnach a bhfuil a ainm NÍ MÓR a bheith _signatures. BA CHÓIR é a fh�
 
 * [[MS-OFFCRYPTO] - Struchtúr Cripteagrafaíochta Doiciméad Oifige](https://msdn.microsoft.com/en-us/library/office/cc313071(v#office.12).aspx)
 
-* [Formáidí Comhaid PowerPoint]( https://en.wikipedia.org/wiki/Microsoft_PowerPoint#File_formats)
+* [Formáidí Comhaid PowerPoint](https://en.wikipedia.org/wiki/Microsoft_PowerPoint#File_formats)
 
 

@@ -33,5 +33,5 @@ Is féidir leat an comhad breiseán BAV a luchtú ag baint úsáide as na bogear
 
 ## Tagairtí
 
- * [RITLABS]( https://www.ritlabs.com/ga/)
+ * [RITLABS](https://www.ritlabs.com/ga/)
  * [AVG Ultimate](https://www.avg.com/)

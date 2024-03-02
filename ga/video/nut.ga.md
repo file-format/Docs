@@ -42,6 +42,6 @@ Cé gur fhorbair tionscadail ilmheán creidiúnacha an fhormáid NUT, ní raibh 
 Má thagann tú trasna ar chomhad NUT agus má theastaíonn uait oibriú leis, b’fhéidir go mbeidh ort é a thiontú go formáid a bhfuil tacaíocht níos forleithne aici le haghaidh comhoiriúnacht níos fearr. Tá uirlisí comhshó físe éagsúla ar fáil a chabhróidh leat comhaid NUT a thiontú go formáidí cosúil le MP4 nó MKV.
 
 ## Tagairtí
-* [Formáid Coimeádán Oscailte NUT]( https://ffmpeg.org/~michael/nut.txt)
+* [Formáid Coimeádán Oscailte NUT](https://ffmpeg.org/~michael/nut.txt)
 
 

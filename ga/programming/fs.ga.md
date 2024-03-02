@@ -42,6 +42,6 @@ Tá cód foinse scríofa i **F# teanga ríomhchlárúcháin** i gComhaid Fhoinse
 - **Microsoft Visual Studio 2022 ** (Saor in Aisce) le haghaidh Windows
 
 ## Tagairtí
-* [F Sharp (teanga ríomhchlárúcháin)]( https://en.wikipedia.org/wiki/F_Sharp_(programming_language))
+* [F Sharp (teanga ríomhchlárúcháin)](https://en.wikipedia.org/wiki/F_Sharp_(programming_language))
 
 

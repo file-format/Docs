@@ -76,8 +76,8 @@ Tá faisnéis sa chomhad meta.xml faoi mheiteashonraí an chomhaid mar Údar, D�
 
 ## Tagairtí ##
 
-* [sonraíocht OpenDocument 1.2]( https://www.oasis-open.org/standards#opendocumentv1.2)
+* [sonraíocht OpenDocument 1.2](https://www.oasis-open.org/standards#opendocumentv1.2)
 
-* [OpenDocument - Le Vicipéid]( https://en.wikipedia.org/wiki/OpenDocument)
+* [OpenDocument - Le Vicipéid](https://en.wikipedia.org/wiki/OpenDocument)
 
 

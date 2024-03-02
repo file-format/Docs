@@ -78,8 +78,8 @@ INSERT INTO STATS VALUES (88, 7, 65.8, 4.52);
 
 ## Tagairtí ##
 
-* [SQL le Vicipéid]( https://ga.wikipedia.org/wiki/SQL)
+* [SQL le Vicipéid](https://ga.wikipedia.org/wiki/SQL)
 
-* [Comhréir SQL]( https://ga.wikipedia.org/wiki/SQL_syntax)
+* [Comhréir SQL](https://ga.wikipedia.org/wiki/SQL_syntax)
 
 

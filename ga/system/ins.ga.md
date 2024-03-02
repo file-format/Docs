@@ -58,7 +58,7 @@ Tá na socruithe INS féideartha tugtha sa tábla seo a leanas:
 
 ## Tagairtí 
 
-* [Úsáid comhaid Socruithe Idirlín (.INS) le IEAK 11]( https://learn.microsoft.com/en-us/internet-explorer/ie11-ieak/using-internet-settings-ins-files)
+* [Úsáid comhaid Socruithe Idirlín (.INS) le IEAK 11](https://learn.microsoft.com/en-us/internet-explorer/ie11-ieak/using-internet-settings-ins-files)
 
 
 

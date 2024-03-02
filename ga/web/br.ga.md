@@ -29,6 +29,6 @@ Mar gheall ar a mhéid beag, úsáideann freastalaithe gréasáin agus líonraí
 
 ## Tagairtí
 
-* [Brotli - Vicipéid]( https://ga.wikipedia.org/wiki/Brotli)
+* [Brotli - Vicipéid](https://ga.wikipedia.org/wiki/Brotli)
 
 

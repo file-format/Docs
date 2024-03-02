@@ -23,5 +23,5 @@ Is comhad cód foinse é comhad MM ar féidir cód ríomhchlárúcháin Cuspóir
 
 ## Tagairtí
 
- * [Earráid Iompórtála sa Tionscadal iOS]( https://developer.apple.com/forums/thread/92931)
+ * [Earráid Iompórtála sa Tionscadal iOS](https://developer.apple.com/forums/thread/92931)
 

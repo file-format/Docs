@@ -44,5 +44,5 @@ Cuimsíonn comhaid CR3 clibeanna saincheaptha chun críocha éagsúla. Tá cuid 
 ## Tagairtí
 
  * [Formáid Comhaid CR2](http://lclevy.free.fr/cr2/)
- * [Clibeanna Canon]( https://exiftool.org/TagNames/Canon.html#uuid)
+ * [Clibeanna Canon](https://exiftool.org/TagNames/Canon.html#uuid)
 

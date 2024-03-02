@@ -37,6 +37,6 @@ Is formáid comhaid dílseánaigh é DZ agus níl a sonraí teicniúla ar fáil.
 
 ## Tagairtí
 
-* [Dzip]( https://speedemosarchive.com/dzip/)
+* [Dzip](https://speedemosarchive.com/dzip/)
 
 

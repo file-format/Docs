@@ -40,6 +40,6 @@ Déantar comhaid XAPK a chomhbhrú trí úsáid a bhaint as an bhformáid chaigh
 
 ## Tagairtí
 
-* [Comhad Pacáiste Android]( https://en.wikipedia.org/wiki/Android_application_package)
+* [Comhad Pacáiste Android](https://en.wikipedia.org/wiki/Android_application_package)
 
 

@@ -58,6 +58,6 @@ Is comhaid dhénártha iad na comhaid DDT, rud a chiallaíonn go bhfuil sonraí 
 Ós rud é nach bhfuil an fhormáid doiciméadaithe go poiblí, ní thacaítear go hoifigiúil le hinneachar na gcomhad DDT a mhodhnú nó a rochtain de láimh. Chun idirghníomhú le sonraí Bainisteoir Peile nó modhnuithe a dhéanamh, moltar iniúchadh a dhéanamh ar na huirlisí modding oifigiúla nó ar an bpobal modding tiomnaithe do Bainisteoir Peile, áit ar féidir leat teacht ar acmhainní agus tacaíocht chun an taithí cluiche a shaincheapadh laistigh de na treoirlínte a sholáthraíonn forbróirí an chluiche.
 
 ## Tagairtí
-* [Bainisteoir Peile]( https://en.wikipedia.org/wiki/Football_Manager)
+* [Bainisteoir Peile](https://en.wikipedia.org/wiki/Football_Manager)
 
 

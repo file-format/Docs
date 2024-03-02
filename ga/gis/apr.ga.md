@@ -27,7 +27,7 @@ Stóráiltear comhaid APR ar diosca mar chomhaid gnáth-théacs ar féidir iad a
 
 ## Tagairtí ##
 
-* [ESRI ArcGIS Pro]( https://fileinfo.com/software/esri/arcgis_for_desktop)
+* [ESRI ArcGIS Pro](https://fileinfo.com/software/esri/arcgis_for_desktop)
 
 * [Formáid Comhaid APR - MIT](http://kb.mit.edu/confluence/pages/viewpage.action?pageId=11338198)
 

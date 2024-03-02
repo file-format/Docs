@@ -78,6 +78,6 @@ Tacaíonn Fusion 360 le formáidí onnmhairithe éagsúla. Is féidir leis comha
 - [.USDZ](/3d/usdz/) - Formáid zipped Cur Síos ar an Radharc Uilíoch
 
 ## Tagairtí
-* [Fusion 360]( https://ga.wikipedia.org/wiki/Fusion_360)
+* [Fusion 360](https://ga.wikipedia.org/wiki/Fusion_360)
 
 

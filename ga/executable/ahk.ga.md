@@ -65,8 +65,8 @@ Is féidir na céimeanna seo a leanas a úsáid chun comhad AHK a chruthú. Glac
 
 ## Tagairtí
 
-* [AutoHotkey]( https://www.autohotkey.com/)
+* [AutoHotkey](https://www.autohotkey.com/)
 
-* [Baiscchomhad - le Wikipewdia]( https://en.wikipedia.org/wiki/Batch_file)
+* [Baiscchomhad - le Wikipewdia](https://en.wikipedia.org/wiki/Batch_file)
 
 

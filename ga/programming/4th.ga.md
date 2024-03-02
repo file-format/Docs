@@ -63,5 +63,5 @@ Mar thoradh air seo bheadh an t-aschur 3628800, arb é 10 fachtóir é.
 
 ## Tagairtí
 
- * [Forth Teanga Ríomhchlárúcháin]( https://en.wikipedia.org/wiki/Forth_(programming_language))
+ * [Forth Teanga Ríomhchlárúcháin](https://en.wikipedia.org/wiki/Forth_(programming_language))
 

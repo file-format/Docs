@@ -82,6 +82,6 @@ Tá formáid an choimeádáin Ogg struchtúrtha mar shraith de leathanaigh Ogg, 
 Tagraíonn formáid comhaid OGV go sonrach d’úsáid formáid coimeádán Ogg chun sonraí físeáin a stóráil. Go hiondúil déantar comhpháirt físe an chomhaid OGV a ionchódú trí úsáid a bhaint as an gcód fístéip Theora, agus is minic a ionchódaítear an chomhpháirt fuaime ag baint úsáide as an gcód fuaime Vorbis. Tá na codecs seo fillte laistigh den choimeádán Ogg chun an comhad OGV a chruthú.
 
 ## Tagairtí
-* [OGV - codec físeán Theora]( https://en.wikipedia.org/wiki/Theora)
+* [OGV - codec físeán Theora](https://en.wikipedia.org/wiki/Theora)
 
 

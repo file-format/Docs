@@ -49,8 +49,8 @@ Mura bhfuil tú in ann an comhad TCR a oscailt agus a rith; ní chiallaíonn sé
 
 ## Tagairtí
 
-* [TCR - Le MobileRead]( https://wiki.mobileread.com/wiki/TCR)
+* [TCR - Le MobileRead](https://wiki.mobileread.com/wiki/TCR)
 
-* [Léitheoir Comhad Téacs Comhbhrúite ZVR]( https://iay.org.uk/zvr/)
+* [Léitheoir Comhad Téacs Comhbhrúite ZVR](https://iay.org.uk/zvr/)
 
 

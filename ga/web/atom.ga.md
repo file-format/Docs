@@ -35,9 +35,9 @@ Stóráiltear agus foilsítear comhaid ATOM san fhormáid chomhaid XML a bhfuil 
 
 ## Tagairtí
 
-* [Formáid Sindeacáitithe Adamh - RFC]( https://www.rfc-editor.org/rfc/rfc4287.html)
+* [Formáid Sindeacáitithe Adamh - RFC](https://www.rfc-editor.org/rfc/rfc4287.html)
 
 * [Overview of Atom Feeds - IBM](https://www.ibm.com/docs/en/cics-ts/5.4?topic=support-overview-atom-feeds)
-* [Atom - Caighdeán Gréasáin]( https://en.wikipedia.org/wiki/Atom_(web_standard))
+* [Atom - Caighdeán Gréasáin](https://en.wikipedia.org/wiki/Atom_(web_standard))
 
 

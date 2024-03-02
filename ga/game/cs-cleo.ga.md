@@ -109,6 +109,6 @@ Seo cineálacha comhaid eile a úsáideann an síneadh comhad **.cs**.
 - [CS - CSharp Code File](/programming/cs/)
 
 ## Tagairtí
-* [leabharlann CLEO]( https://cleo.li/)
+* [leabharlann CLEO](https://cleo.li/)
 
 

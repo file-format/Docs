@@ -62,7 +62,7 @@ call    _ExitProcess@4
 
 ## Tagairt ##
 
-* [Teanga an Tionóil - le Vicipéid]( https://en.wikipedia.org/wiki/Assembly_language )
+* [Teanga an Tionóil - le Vicipéid](https://en.wikipedia.org/wiki/Assembly_language )
 
 * [Teanga Tionóil - Comhréir Bunúsach](https://www.tutorialspoint.com/assembly_programming/assembly_basic_syntax.htm)
 

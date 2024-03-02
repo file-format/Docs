@@ -44,7 +44,7 @@ WScript.Quit
 
 ## Tagairtí 
 
-* [Óstríomhaire Windows Script - le Vicipéid]( https://en.wikipedia.org/wiki/Windows_Script_Host)
+* [Óstríomhaire Windows Script - le Vicipéid](https://en.wikipedia.org/wiki/Windows_Script_Host)
 
 
 

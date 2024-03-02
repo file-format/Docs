@@ -36,5 +36,5 @@ Déantar comhaid EFU a shábháil ar dhiosca i gcomhad luachanna scartha le cam�
 
 ## Tagairtí
 
- * [Gach - voidtools]( https://www.voidtools.com/)
+ * [Gach - voidtools](https://www.voidtools.com/)
 

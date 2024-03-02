@@ -27,5 +27,5 @@ Déantar comhaid SVR a shábháil ar diosca i bhformáidí dénártha comhaid. I
 
 ## Tagairtí
 
- * [Viscape 360]( https://www.viscape360.com/)
+ * [Viscape 360](https://www.viscape360.com/)
 

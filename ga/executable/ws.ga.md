@@ -63,6 +63,6 @@ Is comhaid gnáth-théacs iad comhaid WS, mar sin más mian leat iad a oscailt n
 Tabhair faoi deara le do thoil más mian leat an script a rith taobh istigh de chomhad WS, is féidir leat cliceáil faoi dhó air nó úsáid a bhaint as an ordú `wscript` ar an líne ordaithe.
 
 ## Tagairtí
-* [Óstríomhaire Windows Script]( https://en.wikipedia.org/wiki/Windows_Script_Host)
+* [Óstríomhaire Windows Script](https://en.wikipedia.org/wiki/Windows_Script_Host)
 
 

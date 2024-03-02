@@ -56,6 +56,6 @@ Chun an comhad ISS a thiomsú
 3. Cliceáil ar an gcnaipe Tiomsaigh chun an comhad thus inrite a ghiniúint.
 
 ## Tagairtí
-* [Bogearraí Socraithe Inno]( https://jrsoftware.org/isdl.php)
+* [Bogearraí Socraithe Inno](https://jrsoftware.org/isdl.php)
 
 

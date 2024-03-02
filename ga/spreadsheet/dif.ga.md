@@ -120,6 +120,6 @@ EOD
 
 ## Tagairtí ##
 
-* [DIF - Le Vicipéid]( https://ga.wikipedia.org/wiki/Data_Interchange_Format)
+* [DIF - Le Vicipéid](https://ga.wikipedia.org/wiki/Data_Interchange_Format)
 
 

@@ -80,6 +80,6 @@ ENDFONT
 
 
 ## Tagairtí
- * [Formáid Dáileacháin Glyph Bitmap]( https://en.wikipedia.org/wiki/Glyph_Bitmap_Distribution_Format)
+ * [Formáid Dáileacháin Glyph Bitmap](https://en.wikipedia.org/wiki/Glyph_Bitmap_Distribution_Format)
  * [Sonraíocht Formáid Dáileacháin Glyph Bitmap (BDF)](https://adobe-type-tools.github.io/font-tech-notes/pdfs/5005.BDF_Spec.pdf)
 

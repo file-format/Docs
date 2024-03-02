@@ -202,7 +202,7 @@ print(vec.y)
 
 ## Tagairt ##
 
-* [LUA - le Vicipéid]( https://en.wikipedia.org/wiki/Lua_(programming_language))
+* [LUA - le Vicipéid](https://en.wikipedia.org/wiki/Lua_(programming_language))
 
 
 

@@ -31,8 +31,8 @@ Tarlaíonn an rud céanna nuair a iarrtar nuashonrú. Nuair a iarrann úsáideoi
 
 ## Tagairtí
 
-* [SHSH Blob - Le Vicipéid]( https://ga.wikipedia.org/wiki/SHSH_blob)
+* [SHSH Blob - Le Vicipéid](https://ga.wikipedia.org/wiki/SHSH_blob)
 
-* [TSS Saver]( https://tsssaver.1conan.com/v2/)
+* [TSS Saver](https://tsssaver.1conan.com/v2/)
 
 

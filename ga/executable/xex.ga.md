@@ -39,6 +39,6 @@ Sábháiltear comhaid XEX ar diosca mar chomhaid dhénártha agus is féidir iad
 
 * [Uirlis XEX](https://digiex.net/threads/xextool-6-3-download.9523/)
 
-* [Tiontú XEX go EXE - Reddit]( https://www.reddit.com/r/Roms/comments/kl382s/xex_file_to_exe_file/)
+* [Tiontú XEX go EXE - Reddit](https://www.reddit.com/r/Roms/comments/kl382s/xex_file_to_exe_file/)
 
 

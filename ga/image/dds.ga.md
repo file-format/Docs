@@ -43,7 +43,7 @@ Déanann an [programming guide of DDS file format](https://learn.microsoft.com/e
 
 ## Tagairtí
 
-* [DDS - Le Vicipéid]( https://ga.wikipedia.org/wiki/DirectDraw_Surface)
+* [DDS - Le Vicipéid](https://ga.wikipedia.org/wiki/DirectDraw_Surface)
 
 * [Lámhleabhar Tagartha Teicniúil Formáid Chomhaid ZSoft PCX](http://qzx.com/pc-gpe/pcx.txt)
 

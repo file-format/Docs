@@ -90,8 +90,8 @@ SEE ALSO
 
 ## Tagairtí
 
-* [Sonraíochtaí Teicniúla OpenDocument - Le Vicipéid]( https://en.wikipedia.org/wiki/OpenDocument_technical_specification)
+* [Sonraíochtaí Teicniúla OpenDocument - Le Vicipéid](https://en.wikipedia.org/wiki/OpenDocument_technical_specification)
 
-* [fear(1) - leathanach láimhe Linux]( https://man7.org/linux/man-pages/man1/man.1.html)
+* [fear(1) - leathanach láimhe Linux](https://man7.org/linux/man-pages/man1/man.1.html)
 
 

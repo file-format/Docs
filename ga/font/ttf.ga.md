@@ -100,5 +100,5 @@ Caithfidh a iontráil eolaire tábla féin a bheith ag gach tábla i gcomhad cl�
 
 ## Tagairtí
  * [Lámhleabhar Tagartha Cló TrueType](https://developer.apple.com/fonts/TrueType-Reference-Manual/)
- * [Forbhreathnú TrueType]( https://learn.microsoft.com/en-us/typography/truetype/)
+ * [Forbhreathnú TrueType](https://learn.microsoft.com/en-us/typography/truetype/)
 

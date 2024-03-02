@@ -77,6 +77,6 @@ Seo cineálacha comhaid eile a úsáideann an síneadh comhad **.bps**.
 - [BPS - Microsoft Works Document Backup](/misc/bps-works/)
 
 ## Tagairtí
-* [IPS ar Snámh]( https://www.gamebrew.org/wiki/Floating_IPS)
+* [IPS ar Snámh](https://www.gamebrew.org/wiki/Floating_IPS)
 
 

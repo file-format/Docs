@@ -39,6 +39,6 @@ Is féidir Dahua Smart Player a úsáid chun comhaid DAV a oscailt agus a imirt.
 
 ## Tagairtí ##
 
- * [Dahua Technology]( https://www.dahuasecurity.com/)
- * [Cúntóir Baile Dahua Comhtháthú]( https://github.com/rroller/dahua)
+ * [Dahua Technology](https://www.dahuasecurity.com/)
+ * [Cúntóir Baile Dahua Comhtháthú](https://github.com/rroller/dahua)
 

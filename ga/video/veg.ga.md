@@ -48,6 +48,6 @@ Chun comhad VEG a oscailt i MAGIX VEGAS Pro, lean na céimeanna seo:
 5. Déanfar an tionscadal a luchtú isteach i MAGIX VEGAS Pro agus beidh na heilimintí go léir, lena n-áirítear gearrthóga físe agus fuaime, aistrithe, éifeachtaí, agus socruithe amlíne agus seicheamh, ar fáil le haghaidh eagarthóireacht.
 
 ## Tagairtí
-* [VEGAS Pro]( https://ga.wikipedia.org/wiki/Vegas_Pro)
+* [VEGAS Pro](https://ga.wikipedia.org/wiki/Vegas_Pro)
 
 

@@ -55,6 +55,6 @@ Chun comhad PRPROJ a oscailt in Adobe Premiere Pro, lean na céimeanna seo:
 5. Lódálfar an tionscadal isteach i Adobe Premiere Pro agus beidh na heilimintí go léir, lena n-áirítear gearrthóga físe agus fuaime, aistrithe, éifeachtaí, agus socruithe amlíne agus seicheamh, ar fáil le haghaidh eagarthóireacht.
 
 ## Tagairtí
-* [Adobe Premiere Pro]( https://en.wikipedia.org/wiki/Adobe_Premiere_Pro)
+* [Adobe Premiere Pro](https://en.wikipedia.org/wiki/Adobe_Premiere_Pro)
 
 

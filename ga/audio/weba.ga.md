@@ -48,6 +48,6 @@ Is féidir comhaid WEBA a thiontú go formáidí comhaid fuaime eile. Toisc go b
 
 ## Tagairtí
 
-* [Formáid Chomhaid OGG]( https://en.wikipedia.org/wiki/Ogg)
+* [Formáid Chomhaid OGG](https://en.wikipedia.org/wiki/Ogg)
 
 

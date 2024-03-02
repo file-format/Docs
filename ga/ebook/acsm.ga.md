@@ -38,7 +38,7 @@ Nuair a dhéanann na custaiméirí a gceannach, is é an ACSM an t-aon chomhad i
 
 ## Tagairtí
 
-* [Freastalaí Ábhar Adobe - Le Vicipéid]( https://en.wikipedia.org/wiki/Adobe_Content_Server)
+* [Freastalaí Ábhar Adobe - Le Vicipéid](https://en.wikipedia.org/wiki/Adobe_Content_Server)
 
 
 

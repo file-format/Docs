@@ -37,6 +37,6 @@ Is féidir na comhaid pacáilte Foilsitheoir a dhíphacáil trí úsáid a bhain
 
 ## Tagairtí ##
 
-* [Comhad Foilsitheoir .puz]( https://answers.microsoft.com/en-us/msoffice/forum/all/publisher-puz-file/2de8b31c-36cc-4c0c-a947-c120172949ee)
+* [Comhad Foilsitheoir .puz](https://answers.microsoft.com/en-us/msoffice/forum/all/publisher-puz-file/2de8b31c-36cc-4c0c-a947-c120172949ee)
 
 

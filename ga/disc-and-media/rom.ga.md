@@ -44,7 +44,7 @@ Dearadh formáid an chomhaid ROM chun sonraí chóip chruinn de datha físchluic
 
 ## Tagairtí 
 
-* [íomhá ROM - le Vicipéid]( https://ga.wikipedia.org/wiki/ROM_image)
+* [íomhá ROM - le Vicipéid](https://ga.wikipedia.org/wiki/ROM_image)
 
 
 

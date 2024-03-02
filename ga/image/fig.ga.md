@@ -41,6 +41,6 @@ Is féidir comhaid FIG a oscailt nó tagairt a dhéanamh dóibh ag baint úsáid
 - **WinFIG** (Íoctha) le haghaidh (Windows, Mac, Linux)
 
 ## Tagairtí
-* [Xfig]( https://ga.wikipedia.org/wiki/Xfig)
+* [Xfig](https://ga.wikipedia.org/wiki/Xfig)
 
 

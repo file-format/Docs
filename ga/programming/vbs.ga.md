@@ -73,7 +73,7 @@ When VBScript is hosted by the Script host of Windows, it provides various featu
 
 ## Tagairt ##
 
-* [VBS - le Vicipéid]( https://en.wikipedia.org/wiki/VBScript)
+* [VBS - le Vicipéid](https://en.wikipedia.org/wiki/VBScript)
 
 
 

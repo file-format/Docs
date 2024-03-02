@@ -71,8 +71,8 @@ Thug WMV-9 aghaidh ar an bhfadhb seo le tabhairt isteach teicnící éagsúla at
 
 ## Tagairtí
 
-* [ https://bytescout.com/blog/2018/02/windows-media-video-format.html ]( https://bytescout.com/blog/2018/02/windows-media-video-format.html )
+* [https://bytescout.com/blog/2018/02/windows-media-video-format.html ](https://bytescout.com/blog/2018/02/windows-media-video-format.html )
 
-* [ https://en.wikipedia.org/wiki/Windows_Media_Video ]( https://en.wikipedia.org/wiki/Windows_Media_Video )
+* [https://en.wikipedia.org/wiki/Windows_Media_Video ](https://en.wikipedia.org/wiki/Windows_Media_Video )
 
 

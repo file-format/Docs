@@ -64,6 +64,6 @@ Is formáid comhaid dhénártha í an fhormáid comhaid .mscz a úsáideann Muse
 Tá sonraí sonracha formáid comhaid .mscz dílseánaigh do MuseScore agus d’fhéadfadh go n-athróidh struchtúr inmheánach agus eagrúchán an chomhaid idir leaganacha éagsúla de MuseScore. Ciallaíonn sé seo nach féidir ach le MuseScore agus bogearraí comhoiriúnacha eile léirmhíniú agus oibriú go hiontaofa le comhaid .mscz.
 
 ## Tagairtí
-* [MuseScore]( https://ga.wikipedia.org/wiki/MuseScore)
+* [MuseScore](https://ga.wikipedia.org/wiki/MuseScore)
 
 

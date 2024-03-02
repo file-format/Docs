@@ -26,5 +26,5 @@ I measc na n-iarratas atá in ann comhaid ACD a oscailt tá Rockwell Automation 
 
 ## Tagairtí
 
- * [Uathoibriú Rockwell]( https://www.rockwellautomation.com/en-us.html)
+ * [Uathoibriú Rockwell](https://www.rockwellautomation.com/en-us.html)
 

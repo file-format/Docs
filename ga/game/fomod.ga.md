@@ -39,8 +39,8 @@ Is féidir comhaid FOMOD a shuiteáil trí chliceáil faoi dhó air. Osclóidh s
 
 ## Tagairtí
 
-* [Formáid comhaid FOMOD]( https://wiki.nexusmods.com/index.php/Installing_A_Mod_With_FOMM)
+* [Formáid comhaid FOMOD](https://wiki.nexusmods.com/index.php/Installing_A_Mod_With_FOMM)
 
-* [Modhnú Cluiche Físeáin]( https://en.wikipedia.org/wiki/Video_game_modding)
+* [Modhnú Cluiche Físeáin](https://en.wikipedia.org/wiki/Video_game_modding)
 
 

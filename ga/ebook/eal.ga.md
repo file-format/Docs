@@ -35,7 +35,7 @@ Is comhad xml é an comhad .EAL atá comhdhéanta de shonraí na gcustaiméirí 
 
 ## Tagairtí ##
 
-* [Formáid Kindle Comhaid - le Vicipéid]( https://en.wikipedia.org/wiki/Kindle_File_Format)
+* [Formáid Kindle Comhaid - le Vicipéid](https://en.wikipedia.org/wiki/Kindle_File_Format)
 
 
 

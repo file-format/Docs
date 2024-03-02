@@ -52,6 +52,6 @@ I measc roinnt feidhmeanna sonracha C4D tá:
 Tá clú ar C4D mar gheall ar a éascaíocht úsáide, a solúbthacht agus a luas, rud a fhágann go bhfuil tóir ag ealaíontóirí agus dearthóirí 3D air. Áiríonn sé raon gnéithe le haghaidh samhaltú, téacsáil, soilsiú, beochan, agus rindreáil, agus is féidir é a leathnú le forlíontáin tríú páirtí chun feidhmiúlacht bhreise a chur leis.
 
 ## Tagairtí
-* [Cinema 4D]( https://en.wikipedia.org/wiki/Cinema_4D)
+* [Cinema 4D](https://en.wikipedia.org/wiki/Cinema_4D)
 
 

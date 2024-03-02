@@ -27,6 +27,6 @@ Is comhad sonraí GPS é comhad 3DC a úsáideann feidhmchlár bogearraí nascle
 
 ## Tagairtí
 
-* [Bogearraí Nascleanúna iGO]( https://en.wikipedia.org/wiki/IGO_(software))
+* [Bogearraí Nascleanúna iGO](https://en.wikipedia.org/wiki/IGO_(software))
 
 

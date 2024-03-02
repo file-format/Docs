@@ -49,9 +49,9 @@ TRANSFORMS=transform1.mst;transform2.mst;transform3.mst
 
 ## Tagairtí 
 
-* [Comhaid Trasfhoirmithe MST]( https://www.exemsi.com/documentation/mst-transformation-files/)
+* [Comhaid Trasfhoirmithe MST](https://www.exemsi.com/documentation/mst-transformation-files/)
 
-* [maoin TRANSFORMS]( https://learn.microsoft.com/en-us/windows/win32/msi/transforms)
+* [maoin TRANSFORMS](https://learn.microsoft.com/en-us/windows/win32/msi/transforms)
 
 
 

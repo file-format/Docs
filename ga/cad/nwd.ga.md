@@ -32,5 +32,5 @@ Is é NWD formáid comhaid dílseánaigh Autodesk agus is é sin an fáth nach b
 
 ## Tagairtí ##
 
- * [Navisworks le wikipedia]( https://en.wikipedia.org/wiki/Navisworks)
+ * [Navisworks le wikipedia](https://en.wikipedia.org/wiki/Navisworks)
 

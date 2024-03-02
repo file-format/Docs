@@ -197,6 +197,6 @@ Cuireann MP4 gnéithe agus cumais níos airde ar fáil, lena n-áirítear tacaí
 Is féidir le MPEG agus MP4 cáilíocht físeáin den chineál céanna a bhaint amach nuair a bhíonn socruithe comhbhrú inchomparáide á n-úsáid. Mar sin féin, ceadaíonn tacaíocht MP4 do codecs físeán níos forbartha do chaighdeán níos fearr ag giotán níos ísle.
 
 ## Tagairtí
-* [MPEG-1]( https://ga.wikipedia.org/wiki/MPEG-1)
+* [MPEG-1](https://ga.wikipedia.org/wiki/MPEG-1)
 
 

@@ -35,6 +35,6 @@ Stóráiltear comhaid FODT i bhformáid simplí comhaid XML (ar a dtugtar Flat X
 
 ## Tagairtí ##
 
-* [Sonraíochtaí Teicniúla OpenDocument - Le Vicipéid]( https://en.wikipedia.org/wiki/OpenDocument_technical_specification)
+* [Sonraíochtaí Teicniúla OpenDocument - Le Vicipéid](https://en.wikipedia.org/wiki/OpenDocument_technical_specification)
 
 

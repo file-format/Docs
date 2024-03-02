@@ -75,7 +75,7 @@ Seo a leanas sonraí gach rannáin.
 
 ## Tagairtí
 
-* [XPM - Vicipéid]( https://ga.wikipedia.org/wiki/X_PixMap)
+* [XPM - Vicipéid](https://ga.wikipedia.org/wiki/X_PixMap)
 
 * [Lámhleabhar XPM](http://www.xfree86.org/current/xpm.pdf)
 

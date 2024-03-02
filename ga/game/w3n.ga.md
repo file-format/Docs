@@ -49,7 +49,7 @@ I measc roinnt samplaí de léarscáileanna feachtais tá:
 
 ## Tagairtí
 
-* [Warcraft III: The Reoite Throne]( https://ga.wikipedia.org/wiki/Warcraft_III:_The_Frozen_Throne)
+* [Warcraft III: The Reoite Throne](https://ga.wikipedia.org/wiki/Warcraft_III:_The_Frozen_Throne)
 
 * [Warcraft III: The Frozen Throne Review](https://web.archive.org/web/20110719200624/http://www.gamespot.com/pc/strategy/warcraft3thefrozenthrone/review.html)
 

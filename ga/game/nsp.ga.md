@@ -70,6 +70,6 @@ Níl formáid comhaid NSP doiciméadaithe go poiblí ag Nintendo, toisc go bhfui
 - **Ticket:** The NSP file may include a ticket, which is a digital certificate that verifies legitimacy of content and authorizes its installation on Nintendo Switch console.
 
 ## Tagairtí
-* [Nintendo Switch]( https://en.wikipedia.org/wiki/Nintendo_Switch)
+* [Nintendo Switch](https://en.wikipedia.org/wiki/Nintendo_Switch)
 
 

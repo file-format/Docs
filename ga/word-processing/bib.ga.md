@@ -85,6 +85,6 @@ Más gá duit tagairtí bibleagrafaíochta do dhoiciméad LaTeX a bhainistiú; s
 - Bib2x
 
 ## Tagairtí
-* [BibTeX]( https://ga.wikipedia.org/wiki/BibTeX)
+* [BibTeX](https://ga.wikipedia.org/wiki/BibTeX)
 
 

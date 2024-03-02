@@ -57,6 +57,6 @@ Is féidir comhaid SBV a chruthú agus a chur in eagar le héagsúlacht bogearra
 Is comhaid téacs iad comhaid SBV ionas gur féidir leat é a oscailt le haon eagarthóir téacs m.sh. Notepad nó Notepad++
 
 ## Tagairtí
-* [SubViewer]( https://wiki.videolan.org/SubViewer/)
+* [SubViewer](https://wiki.videolan.org/SubViewer/)
 
 

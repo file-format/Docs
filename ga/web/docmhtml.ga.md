@@ -27,6 +27,6 @@ Baineadh úsáid as comhaid DOCMHTML chun iad a shábháil i bhformáid HTML. D�
 
 ## Tagairtí ##
 
-* [DOCTYPE HTML]( https://www.w3schools.com/tags/tag_doctype.asp)
+* [DOCTYPE HTML](https://www.w3schools.com/tags/tag_doctype.asp)
 
 

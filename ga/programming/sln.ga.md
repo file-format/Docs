@@ -97,7 +97,7 @@ Bunaithe ar an bhfaisnéis atá sa rannán tionscadail den chomhad .sln, lódál
 
 ### **Tagairtí** ###
 
-* [Comhad Réitigh - Le MSDN]( https://learn.microsoft.com/en-us/visualstudio/extensibility/internals/solution-dot-sln-file?view#vs-2017)
+* [Comhad Réitigh - Le MSDN](https://learn.microsoft.com/en-us/visualstudio/extensibility/internals/solution-dot-sln-file?view#vs-2017)
 
 * [GUIDanna Cineál Tionscadail](https://www.codeproject.com/Reference/720512/List-of-Visual-Studio-Project-Type-GUIDs)
 

@@ -62,5 +62,5 @@ Cuimsíonn an ceanntásc WOFF síniú aitheantais a léiríonn an cineál sonra�
 
 
 ## Tagairtí
- * [W3 WOFF2 Formáid Comhaid]( https://www.w3.org/TR/WOFF2/)
+ * [W3 WOFF2 Formáid Comhaid](https://www.w3.org/TR/WOFF2/)
 

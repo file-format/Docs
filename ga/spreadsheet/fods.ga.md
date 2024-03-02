@@ -34,6 +34,6 @@ Sainmhíníonn OpenDocument [ZIP](/compression/zip/) chomh maith le [XML](/web/x
 
 ## Tagairtí ##
 
-* [OpenDocument - Le Vicipéid]( https://en.wikipedia.org/wiki/OpenDocument)
+* [OpenDocument - Le Vicipéid](https://en.wikipedia.org/wiki/OpenDocument)
 
 

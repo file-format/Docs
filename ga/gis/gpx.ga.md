@@ -90,8 +90,8 @@ Taispeánann an comhad GPX seo a leanas eagrú sonraí GPS i gcomhad GPX agus f�
 
 ## Tagairtí ##
 
-* [Formáid Comhaid GPX]( https://www.topografix.com/gpx.asp)
+* [Formáid Comhaid GPX](https://www.topografix.com/gpx.asp)
 
-* [GPX - Le Vicipéid]( https://ga.wikipedia.org/wiki/GPS_Exchange_Format)
+* [GPX - Le Vicipéid](https://ga.wikipedia.org/wiki/GPS_Exchange_Format)
 
 

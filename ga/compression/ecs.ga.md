@@ -27,6 +27,6 @@ Sábháiltear comhaid ECS mar chartlanna ZIP chomhbhrúite. Is féidir é a osca
 
 ## Tagairtí
 
-* [Dzip]( https://speedemosarchive.com/dzip/)
+* [Dzip](https://speedemosarchive.com/dzip/)
 
 

@@ -27,6 +27,6 @@ Déantar comhaid DOTHTML a shábháil mar chomhaid [HTML](/web/html/) agus tá c
 
 ## Tagairtí ##
 
-* [DOCTYPE HTML]( https://www.w3schools.com/tags/tag_doctype.asp)
+* [DOCTYPE HTML](https://www.w3schools.com/tags/tag_doctype.asp)
 
 

@@ -54,6 +54,6 @@ Ba é an t-íosfhráma ama ná 0.02 soicind sa bhunchomhad MOD, nó eatramh blan
 
 ## Tagairtí
 
-* [MOD (formáid comhaid) - Le Vicipéid]( https://en.wikipedia.org/wiki/MOD_(file_format))
+* [MOD (formáid comhaid) - Le Vicipéid](https://en.wikipedia.org/wiki/MOD_(file_format))
 
 

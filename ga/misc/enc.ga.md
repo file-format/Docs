@@ -56,6 +56,6 @@ Má rinneadh do chomhad ENC a ionchódú trí fhormáid chaighdeánach, is féid
 I gcás comhaid ENC atá ionchódaithe ag baint úsáide as formáid dhílseánaigh, d'fhéadfaí é a oscailt leis an mbunchlár a chruthaigh an comhad; go leor comhaid ENC nach bhfuil deartha le haghaidh idirghníomhú díreach úsáideora; ina ionad sin feidhmíonn siad mar choimeádáin le haghaidh sonraí ionchódaithe, a lódálfaidh clár de réir mar is gá le linn a oibriú; ní fhéadfaidh sé faisnéis bhríoch a bheith mar thoradh ar chomhaid den sórt sin a oscailt gan clár gaolmhar toisc gurb é a bpríomhchuspóir sonraí ionchódaithe a stóráil le haghaidh oibriú inmheánach feidhmchlár nó córais ar leith.
 
 ## Tagairtí
-* [ionchódú carachtar]( https://en.wikipedia.org/wiki/Character_encoding)
+* [ionchódú carachtar](https://en.wikipedia.org/wiki/Character_encoding)
 
 

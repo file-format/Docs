@@ -33,6 +33,6 @@ Cruthaítear comhaid scm agus sábháltar iad i bhformáid gnáth-théacs le hao
 
 ## Tagairtí
 
-* [Clárú Scéimre - Vicipéid]( https://en.wikipedia.org/wiki/Scheme_(programming_language))
+* [Clárú Scéimre - Vicipéid](https://en.wikipedia.org/wiki/Scheme_(programming_language))
 
 

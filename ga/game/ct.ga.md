@@ -37,5 +37,5 @@ Déantar comhaid CT a shábháil le láithreacha seoltaí agus faisnéis ghaolmh
 
 ## Tagairtí
 
- * [Inneall Cheat]( https://www.cheatengine.org/)
+ * [Inneall Cheat](https://www.cheatengine.org/)
 

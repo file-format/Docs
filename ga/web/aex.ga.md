@@ -34,7 +34,7 @@ Déantar comhaid AEX a shábháil ar diosca i bhformáid dhénártha comhaid agu
 
 ## Tagairtí
 
- * [Alfa a Cúig]( https://www.alphasoftware.com/)
- * [Doiciméadúchán Alfa Cúig]( https://documentation.alphasoftware.com/documentation/pages/index.html)
- * [Treoir Xbasic]( https://documentation.alphasoftware.com/pages/Guides/Xbasic/index.xml)
+ * [Alfa a Cúig](https://www.alphasoftware.com/)
+ * [Doiciméadúchán Alfa Cúig](https://documentation.alphasoftware.com/documentation/pages/index.html)
+ * [Treoir Xbasic](https://documentation.alphasoftware.com/pages/Guides/Xbasic/index.xml)
 

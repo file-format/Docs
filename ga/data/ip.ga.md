@@ -42,6 +42,6 @@ Is féidir comhaid IP a oscailt nó tagairt a dhéanamh dóibh ag baint úsáide
 - ** Stardock IconPackager ** (Triail In Aisce) le haghaidh Windows
 
 ## Tagairtí
-* [IconPackager]( https://www.stardock.com/products/iconpackager/)
+* [IconPackager](https://www.stardock.com/products/iconpackager/)
 
 

@@ -46,6 +46,6 @@ Is comhad téacs é comhad Minecraft .lang, agus is féidir leat é a oscailt le
 Mar mhalairt air sin, is féidir leat an comhad .lang a tharraingt agus a scaoileadh ar dheilbhín d’eagarthóra téacs nó isteach i bhfuinneog oscailte eagarthóireachta chun é a oscailt.
 
 ## Tagairtí
-* [Minecraft]( https://ga.wikipedia.org/wiki/Minecraft)
+* [Minecraft](https://ga.wikipedia.org/wiki/Minecraft)
 
 

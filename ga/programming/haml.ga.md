@@ -45,6 +45,6 @@ a dhéanann an t-aschur HTML seo a leanas.
 
 ## Tagairtí
 
-* [HAML - Github]( https://github.com/haml/haml)
+* [HAML - Github](https://github.com/haml/haml)
 
 

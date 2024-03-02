@@ -79,6 +79,6 @@ Sainmhíníonn ailtireacht scéimre sonraí an IFC ceithre shraith choincheapa, 
 
 ## Tagairtí ##
 
-* [Bunranganna Tionscail - De réir Vicipéid]( https://en.wikipedia.org/wiki/Industry_Foundation_Classes)
+* [Bunranganna Tionscail - De réir Vicipéid](https://en.wikipedia.org/wiki/Industry_Foundation_Classes)
 
 

@@ -47,6 +47,6 @@ Seo cineálacha comhaid eile a úsáideann an síneadh comhad **.cdx**.
 - [CDX - Alpha Five Table Index File](/programming/cdx/)
 
 ## Tagairtí
-* [Bogearraí Alfa]( https://www.alphasoftware.com/)
+* [Bogearraí Alfa](https://www.alphasoftware.com/)
 
 

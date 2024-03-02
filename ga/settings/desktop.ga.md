@@ -102,6 +102,6 @@ Leanann formáid an chomhaid .desktop struchtúr agus formáid ar leith. Is comh
 - **Tuairimí:** Is féidir leat tuairimí a chur san áireamh i gcomhad .desktop ag baint úsáide as siombail '#'. Breathnaítear ar aon rud a leanann ‘#’ ar líne mar nóta agus déantar neamhaird de.
 
 ## Tagairtí
-* [Comhaid Iontrála Deisce]( https://www.baeldung.com/linux/desktop-entry-files)
+* [Comhaid Iontrála Deisce](https://www.baeldung.com/linux/desktop-entry-files)
 
 

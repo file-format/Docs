@@ -33,6 +33,6 @@ Soláthraíonn OpenIV comhéadan atá éasca le húsáid chun comhaid chluiche a
 
 ## Tagairtí
 
- * [OpenIV]( https://openiv.org/)
+ * [OpenIV](https://openiv.org/)
  * [Conas OpenIV a shuiteáil agus a úsáid le haghaidh GTA V ar ríomhaire?](https://openiv.org/openiv-for-gta-v/)
  * [https://openiv.org/how-to-use-openiv/](https://openiv.org/how-to-use-openiv/)

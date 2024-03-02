@@ -77,8 +77,8 @@ Windows Registry Editor Version 5.00
 
 ## Tagairtí
 
-* [Clárlann Windows- le Vicipéid]( https://ga.wikipedia.org/wiki/Windows_Registry)
+* [Clárlann Windows- le Vicipéid](https://ga.wikipedia.org/wiki/Windows_Registry)
 
-* [Conas subkeys agus luachanna clárlainne a chur leis, a mhodhnú nó a scriosadh trí chomhad .reg a úsáid]( https://support.microsoft.com/en-us/topic/how-to-add-modify-or-delete- clárlann-fo-eochracha-agus-luachanna-trí-úsáid-a-reg-comhad-9c7f37cf-a5e9-e1cd-c4fa-2a26218a1a23)
+* [Conas subkeys agus luachanna clárlainne a chur leis, a mhodhnú nó a scriosadh trí chomhad .reg a úsáid](https://support.microsoft.com/en-us/topic/how-to-add-modify-or-delete- clárlann-fo-eochracha-agus-luachanna-trí-úsáid-a-reg-comhad-9c7f37cf-a5e9-e1cd-c4fa-2a26218a1a23)
 
 

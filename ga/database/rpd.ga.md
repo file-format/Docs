@@ -87,6 +87,6 @@ Baineann céimeanna sonracha laistigh de chomhéadan na mbogearraí le cruthú, 
 - [RPD - Roleplay Designer Data File](/database/rpd-roleplay/)
 
 ## Tagairtí
-* [Bogearraí RIB]( https://ga.wikipedia.org/wiki/RIB_Software)
+* [Bogearraí RIB](https://ga.wikipedia.org/wiki/RIB_Software)
 
 

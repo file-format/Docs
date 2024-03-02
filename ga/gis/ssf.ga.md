@@ -29,6 +29,6 @@ Stóráiltear comhaid SSF ar diosca mar fhormáid comhaid dílseánaigh Trimble 
 
 ## Tagairtí
 
-* [Eisiúint Nuachta Trimble]( https://www.trimble.com/news/release.aspx?id=050510b)
+* [Eisiúint Nuachta Trimble](https://www.trimble.com/news/release.aspx?id=050510b)
 
 

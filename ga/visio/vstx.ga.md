@@ -57,6 +57,6 @@ Is doiciméid XML iad páirteanna caidrimh a chuireann síos ar na caidrimh idir
 
 ## Tagairtí ##
 
-* [Réamhrá ar Fhormáid Chomhaid Visio]( https://learn.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
+* [Réamhrá ar Fhormáid Chomhaid Visio](https://learn.microsoft.com/en-us/office/client-developer/visio/introduction-to-the-visio-file-formatvsdx)
 
 

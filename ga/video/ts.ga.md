@@ -38,6 +38,6 @@ Bhuel, is féidir comhaid TS a oscailt agus a sheinm i [VideoLAN VLC media playe
 
 ## Tagairtí ##
 
-* [Sruth Iompair MPEG - Vicipéid]( https://ga.wikipedia.org/wiki/MPEG_transport_stream)
+* [Sruth Iompair MPEG - Vicipéid](https://ga.wikipedia.org/wiki/MPEG_transport_stream)
 
 

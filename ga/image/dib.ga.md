@@ -96,5 +96,5 @@ typedef struct tagRGBQUAD {
 |Formáid 32 giotán|Tá 2^24 dathanna ar a mhéad ag íomhánna 32 ghiotán (biBitCount == 24).
 
 ## Tagairtí ##
-  * [Device-Independent Bitmaps - Le Microsoft]( https://learn.microsoft.com/en-us/windows/win32/gdi/device-independent-bitmaps)
+  * [Device-Independent Bitmaps - Le Microsoft](https://learn.microsoft.com/en-us/windows/win32/gdi/device-independent-bitmaps)
 

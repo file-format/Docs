@@ -58,6 +58,6 @@ Chun comhad MSWMM (Tionscadal Déantóir Scannán) a oscailt, ní mór duit feid
 Tabhair faoi deara le do thoil nach comhad físe é comhad MSWMM, ach comhad tionscadail ina bhfuil faisnéis faoi shocrú gearrthóga físe, grianghraif agus rianta fuaime i dtionscadal scannáin. Ní mór duit a úsáid Windows Déantóir Scannán a chur in eagar ar an tionscadal agus é a onnmhairiú mar formáid comhaid físe ar nós WMV nó MP4 a imirt ar imreoirí na meáin.
 
 ## Tagairtí
-* [Déantóir Scannán Windows]( https://en.wikipedia.org/wiki/Windows_Movie_Maker)
+* [Déantóir Scannán Windows](https://en.wikipedia.org/wiki/Windows_Movie_Maker)
 
 

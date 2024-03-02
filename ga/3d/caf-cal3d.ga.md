@@ -67,6 +67,6 @@ Seo cineálacha comhaid eile a úsáideann an síneadh comhad **.caf**.
 - [CAF - CryENGINE Character Animation File](/programming/caf-cryengine/)
 
 ## Tagairtí
-* [CAL3D]( https://github.com/mp3butcher/Cal3D)
+* [CAL3D](https://github.com/mp3butcher/Cal3D)
 
 

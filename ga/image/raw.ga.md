@@ -64,6 +64,6 @@ Is féidir le roinnt bogearraí eagarthóireachta íomhá comhad RAW a thiontú 
 Is formáid dhénártha é formáid comhaid RAW.
 
 ## Tagairtí
-* [Formáid íomhá amh]( https://en.wikipedia.org/wiki/Raw_image_format )
+* [Formáid íomhá amh](https://en.wikipedia.org/wiki/Raw_image_format )
 
 

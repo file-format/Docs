@@ -43,6 +43,6 @@ Seo a leanas sampla d'oibríocht mhodhnú ar nód. Caithfidh ID an tsocraithe at
 
 ## Tagairtí
 
-* [Formáid Comhaid JOSM]( https://wiki.openstreetmap.org/wiki/JOSM_file_format )
+* [Formáid Comhaid JOSM](https://wiki.openstreetmap.org/wiki/JOSM_file_format )
 
 

@@ -52,6 +52,6 @@ Is féidir na céimeanna seo a leanas a úsáid chun comhad MDMP a oscailt in Vi
 
 ## Tagairt
 
-* [Conas an comhad dumpála cuimhne beag atá cruthaithe ag Windows a léamh má tharlaíonn timpiste]( https://learn.microsoft.com/en-us/troubleshoot/windows-client/performance/read-small-memory-dump -comhad)
+* [Conas an comhad dumpála cuimhne beag atá cruthaithe ag Windows a léamh má tharlaíonn timpiste](https://learn.microsoft.com/en-us/troubleshoot/windows-client/performance/read-small-memory-dump -comhad)
 
 

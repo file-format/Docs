@@ -36,6 +36,6 @@ Sábháiltear comhaid ANE ar diosca mar chomhaid dhénártha nach bhfuil a sonra
 
 ## Tagairtí
 
- * [Adobe ActionScript]( https://en.wikipedia.org/wiki/ActionScript)
+ * [Adobe ActionScript](https://en.wikipedia.org/wiki/ActionScript)
  * [Ag baint úsáide as síntí dúchais le haghaidh Adobe AIR](https://help.adobe.com/en_US/air/build/WS597e5dadb9cc1e0253f7d2fc1311b491071-8000.html)
 

@@ -23,6 +23,6 @@ Déantar comhaid PYI a shábháil mar chomhaid gnáth-théacs is féidir a oscai
 
 ## Tagairtí ##
 
- * [Comhéadain - Java]( https://en.wikipedia.org/wiki/Interface_(Java))
- * [Ateangairí PYM]( https://github.com/interpreters/pym)
+ * [Comhéadain - Java](https://en.wikipedia.org/wiki/Interface_(Java))
+ * [Ateangairí PYM](https://github.com/interpreters/pym)
 

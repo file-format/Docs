@@ -56,6 +56,6 @@ Chun comhad pacáiste téama a oscailt i Windows, is féidir leat na céimeanna 
 5. Nuair a bheidh na hathruithe atá ag teastáil déanta agat, cliceáil Sábháil téama chun an téama modhnaithe a shábháil mar chomhad pacáiste téama nua.
 
 ## Tagairtí
-* [Téamaí Deisce]( https://support.microsoft.com/en-us/windows/desktop-themes-94880287-6046-1d35-6d2f-35dee759701e)
+* [Téamaí Deisce](https://support.microsoft.com/en-us/windows/desktop-themes-94880287-6046-1d35-6d2f-35dee759701e)
 
 

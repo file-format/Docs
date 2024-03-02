@@ -144,6 +144,6 @@ Tá na sonraí picteilín íomhá sa chuid Sonraí Íomhá den chomhad. Tá socr
 
 * [Sonraíochtaí Formáid Chomhaid PSD - Le Adobe](https://www.adobe.com/devnet-apps/photoshop/fileformatashtml/#50577409_pgfId-1030196)
 
-* [Formáid Comhaid Adobe Photoshop]( https://en.wikipedia.org/wiki/Adobe_Photoshop#File_format)
+* [Formáid Comhaid Adobe Photoshop](https://en.wikipedia.org/wiki/Adobe_Photoshop#File_format)
 
 
