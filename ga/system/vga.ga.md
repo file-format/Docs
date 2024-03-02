@@ -27,6 +27,6 @@ Ní fios formáid comhaid inmheánach formáid comhaid VGA le haghaidh tagartha 
 
 ## Tagairt ##
 
-* [TMP - Vicipéid](https://ga.wikipedia.org/wiki/Temporary_file)
+* [TMP - Vicipéid](https://en.wikipedia.org/wiki/Temporary_file)
 
 

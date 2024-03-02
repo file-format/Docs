@@ -99,6 +99,6 @@ end
 
 * [An Formáid STL](http://www.fabbers.com/tech/STL_Format)
 
-* [STL - le Vicipéid](https://ga.wikipedia.org/wiki/STL_(file_format))
+* [STL - le Vicipéid](https://en.wikipedia.org/wiki/STL_(file_format))
 
 

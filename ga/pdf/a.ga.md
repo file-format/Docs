@@ -67,7 +67,7 @@ Cuimsíonn PDF/A-3 na ceanglais chomhlíonta go léir de Leibhéal 2 agus ceada�
 
 ## Tagairtí ##
 
-* [PDF/A - Le Vicipéid](https://ga.wikipedia.org/wiki/PDF/A)
+* [PDF/A - Le Vicipéid](https://en.wikipedia.org/wiki/PDF/A)
 
 * [Páipéar Bán: PDF/A – Na Bunghnéithe](https://www.pdf-tools.com/public/downloads/whitepapers/whitepaper-pdfa.pdf)
 

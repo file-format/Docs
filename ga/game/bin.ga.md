@@ -57,6 +57,6 @@ Seo cineálacha comhaid eile a úsáideann an síneadh comhad **.bin**.
 - [BIN - PSX PlayStation BIOS Image](/game/bin-pcsx/)
 
 ## Tagairtí
-* [Sega Genesis](https://ga.wikipedia.org/wiki/Sega_Genesis)
+* [Sega Genesis](https://en.wikipedia.org/wiki/Sega_Genesis)
 
 

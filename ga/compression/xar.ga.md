@@ -111,6 +111,6 @@ Tosaíonn an carn díreach tar éis an toc comhbhrúite. Is carn neamhstruchtúr
 
 * [XAR](https://github.com/mackyle/xar/wiki/xarformat)
 
-* [XAR - Vicipéid](https://ga.wikipedia.org/wiki/Xar_(archiver))
+* [XAR - Vicipéid](https://en.wikipedia.org/wiki/Xar_(archiver))
 
 

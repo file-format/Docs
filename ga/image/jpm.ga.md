@@ -42,5 +42,5 @@ Sonraítear i gcaighdeán formáid comhaid JPM gur coimeádán dénártha é chu
 
  * [ITU-T Rec. T.805](https://www.itu.int/rec/T-REC-T.805/ga)
  * [ISO/IEC 15444-6:2013](https://www.iso.org/standard/61124.html)
- * [Vicipéid:JPEG 2000](https://ga.wikipedia.org/wiki/JPEG_2000)
+ * [Vicipéid:JPEG 2000](https://en.wikipedia.org/wiki/JPEG_2000)
 

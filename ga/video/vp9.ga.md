@@ -57,7 +57,7 @@ De ghnáth, ardaíonn an físeán 4K cáilíocht pictiúr trí picteilíní sonr
 
 ## Tagairtí
 
- * [VP9 Vicipéid](https://ga.wikipedia.org/wiki/VP9)
+ * [VP9 Vicipéid](https://en.wikipedia.org/wiki/VP9)
  * [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Video_codecs#vp9)
  * [Cnó cócó](https://www.coconut.co/)
 

@@ -28,5 +28,5 @@ Stóráiltear comhaid NC ar diosca mar chomhaid dhénártha agus níl a sonraío
 ## Tagairtí
 
  * [Bogearraí Mastercam CNC](https://www.mastercam.com/)
- * [Rialú Uimhriúil - Vicipéid](https://ga.wikipedia.org/wiki/Numerical_control)
+ * [Rialú Uimhriúil - Vicipéid](https://en.wikipedia.org/wiki/Numerical_control)
 

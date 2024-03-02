@@ -24,7 +24,7 @@ Sábháiltear na comhaid SPC ar diosca mar chomhaid dhénártha is féidir a osc
 
 ## Tagairtí
 
-* [PKCS 7](https://ga.wikipedia.org/wiki/PKCS_7)
+* [PKCS 7](https://en.wikipedia.org/wiki/PKCS_7)
 
 * [Tagairt SSP](https://scalate.github.io/scalate/documentation/ssp-reference.html)
 

@@ -55,6 +55,6 @@ Ní próiseas simplí é comhad PKPASS a thiontú go PDF toisc go bhfuil ábhar 
 Chun gabháil scáileáin den phas a ghlacadh san aip Wallet, oscail an aip Wallet, roghnaigh an pas is mian leat a thiontú, agus brúigh an cnaipe Codladh/Wake agus an cnaipe Baile ag an am céanna. Gabhfaidh sé seo gabháil scáileáin den phas, ar féidir leat a shábháil ansin chuig d'aip Grianghraif. Chun an screenshot a thiontú go PDF, is féidir leat uirlis chomhshó PDF nó aip scanóir doiciméad a úsáid a thacaíonn le comhshó PDF. Níl ort ach an screenshot a allmhairiú isteach san app, roghnaigh an rogha chomhshó PDF, agus an comhad PDF a shábháil ar do gléas.
 
 ## Tagairtí
-* [PKPASS](https://ga.wikipedia.org/wiki/PKPASS)
+* [PKPASS](https://en.wikipedia.org/wiki/PKPASS)
 
 

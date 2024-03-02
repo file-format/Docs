@@ -179,6 +179,6 @@ Más é {00000000-0000-0000-0000-000000000000} an GUID, ní dhéanann an réimse
 
 * [[MS-ONESTORE] - Formáid Chomhaid OneNote](https://msdn.microsoft.com/en-us/library/dd951288(v#office.12).aspx)
 
-* [Microsoft OneNote - Vicipéid](https://ga.wikipedia.org/wiki/Microsoft_OneNote#References)
+* [Microsoft OneNote - Vicipéid](https://en.wikipedia.org/wiki/Microsoft_OneNote#References)
 
 

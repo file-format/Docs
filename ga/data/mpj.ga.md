@@ -36,6 +36,6 @@ Tairgeann Minitab tacar cuimsitheach d’anailísí staitistiúla, lena n-áirí
 Soláthraíonn Minitab uirlisí grafacha éagsúla chun sonraí a léirshamhlú, mar histeagraim, ceapacha scaipthe, ceapacha bosca, cairteacha Pareto agus cairteacha rialaithe. Cuidíonn na graif seo le húsáideoirí a gcuid sonraí a fhiosrú agus torthaí a chur in iúl go héifeachtach.
 
 ## Tagairtí
-* [Minitab](https://ga.wikipedia.org/wiki/Minitab)
+* [Minitab](https://en.wikipedia.org/wiki/Minitab)
 
 

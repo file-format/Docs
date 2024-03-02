@@ -42,6 +42,6 @@ Más mian le húsáideoirí a gcuid comhad INSV a dhéanamh níos comhoiriúnach
 Is táirge é ceamara Insta360 a thairgeann Insta360, cuideachta atá ag speisialú i bhforbairt ceamaraí 360-céim agus gabhálais gaolmhara; tá na ceamaraí seo deartha chun físeáin agus íomhánna lánléargais a ghabháil, ag tabhairt radharc cuimsitheach d'úsáideoirí ar a dtimpeallacht. Tá an-tóir ar cheamara Insta360 i measc cruthaitheoirí ábhar, grianghrafadóirí, agus díograiseoirí atá ag lorg bealaí nuálacha chun eispéiris amhairc thumoideachais agus idirghníomhacha a ghabháil. Sármhaith le ceamaraí Insta360 maidir le hábhar a ghabháil thar réimse radhairc 360 céim iomlán. Ligeann an ghné seo d’úsáideoirí ábhar tumtha tarraingteach a chruthú a chlúdaíonn a dtimpeallacht iomlán. Cuireann Insta360 éagsúlacht samhlacha ceamara ar fáil, gach ceann acu ag freastal ar riachtanais agus roghanna éagsúla.
 
 ## Tagairtí
-* [Insta360](https://ga.wikipedia.org/wiki/Insta360)
+* [Insta360](https://en.wikipedia.org/wiki/Insta360)
 
 

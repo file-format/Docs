@@ -74,6 +74,6 @@ Tá URI comhiomlán MHTML difriúil ná URI a fhréamh URI. Ba cheart go mbeadh 
 
 * [IME Imchoimeád Doiciméad Comhiomlán - RFC 2557](https://tools.ietf.org/html/rfc2557)
 
-* [Formáid Comhaid MHTML - Le Vicipéid](https://ga.wikipedia.org/wiki/MHTML)
+* [Formáid Comhaid MHTML - Le Vicipéid](https://en.wikipedia.org/wiki/MHTML)
 
 

@@ -50,6 +50,6 @@ Chun comhad `.uasset` a oscailt, de ghnáth ní mór duit Eagarthóir Unreal Eng
 7.  Sábháil athruithe más gá.
 
 ## Tagairtí
-* [Inneall Unreal](https://ga.wikipedia.org/wiki/Unreal_Engine)
+* [Inneall Unreal](https://en.wikipedia.org/wiki/Unreal_Engine)
 
 

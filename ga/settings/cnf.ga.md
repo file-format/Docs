@@ -61,6 +61,6 @@ Is comhad téacs é an comhad CNF agus is féidir é a oscailt go héasca ag bai
 Tabhair faoi deara go bhfuil sé tábhachtach a bheith cúramach agus an comhad cumraíochta MySQL á chur in eagar, mar is féidir le socruithe mícheart a chur faoi deara go n-iompraíonn an freastalaí gan choinne nó nach dtosóidh sé ar chor ar bith. Moltar cúltaca a dhéanamh den bhunchomhad sula ndéantar aon athruithe, ionas gur féidir leat é a chur ar ais más gá.
 
 ## Tagairtí
-* [MySQL](https://ga.wikipedia.org/wiki/MySQL)
+* [MySQL](https://en.wikipedia.org/wiki/MySQL)
 
 

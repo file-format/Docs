@@ -80,6 +80,6 @@ Chun comhad tionscadail físe CyberLink PowerDirector (PDS) a thiontú go formá
 - **Aimsigh an Comhad AVI:** Nuair atá an chomhshó críochnaithe, nascleanúint a dhéanamh chuig an fillteán aschur a shonraigh tú níos luaithe. Ba cheart duit an comhad AVI tiontaithe a fháil ann, réidh le húsáid.
   
 ## Tagairtí
-* [PowerDirector](https://ga.wikipedia.org/wiki/PowerDirector)
+* [PowerDirector](https://en.wikipedia.org/wiki/PowerDirector)
 
 

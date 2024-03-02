@@ -37,6 +37,6 @@ Chun comhad DLC a oscailt, is féidir leat JDownloader a úsáid, rogha coitiant
 Is íoslódálaí DLC foinse oscailte saor in aisce é JDownloader a éascaíonn agus go tapa é a íoslódáil. Is féidir le húsáideoirí íoslódálacha a thosú, a stopadh nó a chur ar sos, teorainneacha bandaleithead a shocrú, cartlanna a bhaint go huathoibríoch agus go leor eile.
 
 ## Tagairtí
-* [JDownloader](https://ga.wikipedia.org/wiki/JDownloader)
+* [JDownloader](https://en.wikipedia.org/wiki/JDownloader)
 
 

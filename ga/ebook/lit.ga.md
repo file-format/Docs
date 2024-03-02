@@ -35,7 +35,7 @@ The **Microsoft Reader** is an application for reading e-books that have been di
 
 ## Tagairtí
 
-* [Microsoft Reader - Le Vicipéid](https://ga.wikipedia.org/wiki/Microsoft_Reader)
+* [Microsoft Reader - Le Vicipéid](https://en.wikipedia.org/wiki/Microsoft_Reader)
 
 
 

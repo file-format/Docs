@@ -110,6 +110,6 @@ Léiríonn na línte cód seo a leanas conas an<text> bloc chun téacs a thabhai
 
 * [Sonraíochtaí W3C SVG](https://www.w3.org/TR/SVG2/Overview.html)
 
-* [SVG - Vicipéid](https://ga.wikipedia.org/wiki/Scalable_Vector_Graphics)
+* [SVG - Vicipéid](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics)
 
 

@@ -97,6 +97,6 @@ Seo cineálacha comhaid eile a úsáideann an síneadh comhad **.cue**.
 - [CUE - CDRWIN Cue Sheet](/disc-and-media/cue-cdrwin/)
 
 ## Tagairtí
-* [CDRWIN](https://ga.wikipedia.org/wiki/CDRWIN)
+* [CDRWIN](https://en.wikipedia.org/wiki/CDRWIN)
 
 

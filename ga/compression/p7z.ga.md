@@ -29,6 +29,6 @@ Ní fios sonraí formáid comhaid inmheánacha formáid comhaid P7Z. Ligeann roi
 
 * [Formáid 7z - Le 7-ZIP](https://www.7-zip.org/7z.html)
 
-* [7z - Vicipéid](https://ga.wikipedia.org/wiki/7z)
+* [7z - Vicipéid](https://en.wikipedia.org/wiki/7z)
 
 

@@ -40,7 +40,7 @@ Teastaíonn eolas áirithe chun AML a úsáid chun faisnéis innealtóireachta a
 
 * [Cad é UathoibriúML](https://www.automationml.org/about-automationml/automationml/)
 
-* [UathoibriúML - Vicipéid](https://ga.wikipedia.org/wiki/AutomationML)
+* [UathoibriúML - Vicipéid](https://en.wikipedia.org/wiki/AutomationML)
 
 * [Sonraíochtaí UathoibriúML](https://www.automationml.org/about-automationml/specifications/)
 

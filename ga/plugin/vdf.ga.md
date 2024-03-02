@@ -57,6 +57,6 @@ Seo cineálacha comhaid eile a úsáideann an síneadh comhad **.vdf**.
 - [VDF - VirtualDub Video Filter File](/plugin/vdf/)
 
 ## Tagairtí
-* [VirtualDub](https://ga.wikipedia.org/wiki/VirtualDub)
+* [VirtualDub](https://en.wikipedia.org/wiki/VirtualDub)
 
 

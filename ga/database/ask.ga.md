@@ -36,6 +36,6 @@ Sábháiltear comhaid FAISNÉIS ar diosca i bhformáid dhénártha comhaid dhíl
 
 ## Tagairtí
 
-* [AskSam - Vicipéid](https://ga.wikipedia.org/wiki/AskSam)
+* [AskSam - Vicipéid](https://en.wikipedia.org/wiki/AskSam)
 
 

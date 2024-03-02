@@ -166,7 +166,7 @@ F-statistic: 91.88 on 1 and 4 DF,  p-value: 0.000662
 
 ## Tagairt ##
 
-* [R - le Vicipéid](https://ga.wikipedia.org/wiki/R_(programming_language))
+* [R - le Vicipéid](https://en.wikipedia.org/wiki/R_(programming_language))
 
 
 

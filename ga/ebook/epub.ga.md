@@ -78,6 +78,6 @@ Tacaíonn formáid comhaid EPUB leis na formáidí comhaid íomhá seo a leanas.
 
 ## Tagairtí ##
 
-* [EPUB - Le Vicipéid](https://ga.wikipedia.org/wiki/EPUB)
+* [EPUB - Le Vicipéid](https://en.wikipedia.org/wiki/EPUB)
 
 

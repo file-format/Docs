@@ -38,6 +38,6 @@ Is féidir DWT a mheas mar DWG le luachanna réamhshainithe is féidir a úsáid
 
 * [Sonraíocht an Chomhaid DWG](https://www.scan2cad.com/blog/dwg/file-spec/)
 
-* [DWG - Le Vicipéid](https://ga.wikipedia.org/wiki/.dwg)
+* [DWG - Le Vicipéid](https://en.wikipedia.org/wiki/.dwg)
 
 

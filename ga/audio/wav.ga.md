@@ -65,6 +65,6 @@ Tá ceanntásc comhaid WAV (RIFF) 44 beart ar fad agus tá an fhormáid seo a le
 
 ## Tagairtí ##
 
-* [WAV - Le Vicipéid](https://ga.wikipedia.org/wiki/WAV)
+* [WAV - Le Vicipéid](https://en.wikipedia.org/wiki/WAV)
 
 

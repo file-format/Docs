@@ -78,7 +78,7 @@ Soláthraítear faisnéis bhreise sa bhloc leantach maidir le rudaí a dhearbha�
 
 ## Tagairtí ##
 
-* [Formáid Chomhaid U3D - Vicipéid](https://ga.wikipedia.org/wiki/Universal_3D)
+* [Formáid Chomhaid U3D - Vicipéid](https://en.wikipedia.org/wiki/Universal_3D)
 
 * [Sonraíochtaí Formáid Comhaid ECMA U3D](https://www.ecma-international.org/publications-and-standards/standards/ecma-363/)
 

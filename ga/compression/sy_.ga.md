@@ -38,6 +38,6 @@ Tá comhaid SY_ cosúil le comhaid EX_ agus DL_.
 
 ## Tagairtí
 
- * [StuffIt - Le Vicipéid](https://ga.wikipedia.org/wiki/StuffIt)
+ * [StuffIt - Le Vicipéid](https://en.wikipedia.org/wiki/StuffIt)
  * [Microsoft Expand](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/expand)
 

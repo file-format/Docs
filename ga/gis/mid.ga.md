@@ -27,7 +27,7 @@ Déantar comhaid LÁR a shábháil ar diosca i bhformáid dhénártha comhaid. S
 
 ## Tagairtí
 
-* [MapInfo Professional - Vicipéid](https://ga.wikipedia.org/wiki/MapInfo_Professional)
+* [MapInfo Professional - Vicipéid](https://en.wikipedia.org/wiki/MapInfo_Professional)
 
 * [Precisely MapInfo MIF/MID Reader/Writer](https://docs.safe.com/fme/html/FME_Desktop_Documentation/FME_ReadersWriters/mif/mif.htm)
 

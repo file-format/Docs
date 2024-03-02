@@ -49,6 +49,6 @@ Sea, is féidir leat do leagan iOS a íosghrádú ag baint úsáide as comhad IP
 Sula dtosaíonn tú, tá sé tábhachtach a thabhairt faoi deara go scriosfaidh íosghrádú do leagan iOS na sonraí go léir ó do ghléas, mar sin bí cinnte cúltaca a dhéanamh de do ghléas sula dtéann tú ar aghaidh. Chun an comhad IPSW a íosghrádú, ceangail do ghléas le do ríomhaire agus oscail iTunes nó Aimsitheoir. Ansin coinnigh síos an eochair Rogha (Mac) nó eochair Shift (Windows) agus cliceáil ar Seiceáil le haghaidh Nuashonrú. Roghnaigh an comhad IPSW a d'íoslódáil tú agus cliceáil Nuashonraigh chun tús a chur leis an bpróiseas suiteála.
 
 ## Tagairtí
-* [IPSW](https://ga.wikipedia.org/wiki/IPSW)
+* [IPSW](https://en.wikipedia.org/wiki/IPSW)
 
 

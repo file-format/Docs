@@ -67,6 +67,6 @@ Is comhaid scripte iad AML, sábháil an fhaisnéis ar diosca mar chomhaid gnát
 
 ## Tagairtí
 
- * [Teanga Macra ARC](https://ga.wikipedia.org/wiki/ARC_Macro_Language)
+ * [Teanga Macra ARC](https://en.wikipedia.org/wiki/ARC_Macro_Language)
  * [Ag baint úsáide as AML le Script Uirlisí](https://desktop.arcgis.com/en/arcmap/latest/analyze/creating-tools/using-amls-with-script-tools.htm)
 

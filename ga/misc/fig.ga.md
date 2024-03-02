@@ -46,6 +46,6 @@ Má tá comhad FIG agat, is féidir leat é a fheiceáil agus a chur in eagar ag
 3.  **Aip Soghluaiste (Android nó iOS):** Tá aip shoghluaiste ag Figma ar fáil do ghléasanna Android agus iOS freisin. Suiteáil an app ar do ghléas soghluaiste, agus is féidir leat comhad FIG a oscailt nuair a théann tú.
 
 ## Tagairtí
-* [Figma](https://ga.wikipedia.org/wiki/Figma)
+* [Figma](https://en.wikipedia.org/wiki/Figma)
 
 

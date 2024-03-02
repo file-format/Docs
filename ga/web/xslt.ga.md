@@ -73,7 +73,7 @@ xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 ```
 ## Tagairtí ##
 
-* [XSLT - Le Vicipéid](https://ga.wikipedia.org/wiki/XSLT)
+* [XSLT - Le Vicipéid](https://en.wikipedia.org/wiki/XSLT)
 
 * [Eilimintí XSLT](https://en.wikipedia.org/wiki/XSLT_elements)
 

@@ -197,6 +197,6 @@ Seo cineálacha comhaid eile a úsáideann an síneadh comhad **.cfg**.
 - [CFG - Cal3D Model Configuration File](/misc/cfg-cal3d/)
 
 ## Tagairtí
-* [Celestia](https://ga.wikipedia.org/wiki/Celestia)
+* [Celestia](https://en.wikipedia.org/wiki/Celestia)
 
 

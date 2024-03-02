@@ -108,7 +108,7 @@ Tá struchtúr comhaid coitianta ag comhaid radhairc X3D:
 
 ## Tagairtí ##
 
-* [X3D - Le Vicipéid](https://ga.wikipedia.org/wiki/X3D)
+* [X3D - Le Vicipéid](https://en.wikipedia.org/wiki/X3D)
 
 * [láithreán gréasáin oifigiúil Web3D Consortium](https://www.web3d.org/)
 

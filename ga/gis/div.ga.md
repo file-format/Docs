@@ -27,6 +27,6 @@ Stóráiltear comhaid DIV ar diosca mar fhormáid comhaid dílseánaigh DIVA-GIS
 
 ## Tagairtí
 
-* [DIVA-GIS](https://ga.wikipedia.org/wiki/DIVA-GIS)
+* [DIVA-GIS](https://en.wikipedia.org/wiki/DIVA-GIS)
 
 

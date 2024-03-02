@@ -32,6 +32,6 @@ Tugtar **Comhaid ríomhleabhar Apabi** ar na comhaid leis an síneadh .ceb (río
 
 ## Tagairtí
 
-* [Iliad - le Vicipéid](https://ga.wikipedia.org/wiki/ILiad)
+* [Iliad - le Vicipéid](https://en.wikipedia.org/wiki/ILiad)
 
 

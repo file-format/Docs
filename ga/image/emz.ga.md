@@ -45,5 +45,5 @@ Tá faisnéis mhionsonraithe san fhormáid comhaid GZIP [specifications version 
 ## Tagairtí
 
  * [RFC1952: Sonraíocht formáid comhaid GZIP](https://datatracker.ietf.org/doc/html/rfc1952), le [IETF](https://www.ietf.org/)
- * [Windows MetaFile - Vicipéid](https://ga.wikipedia.org/wiki/Windows_Metafile)
+ * [Windows MetaFile - Vicipéid](https://en.wikipedia.org/wiki/Windows_Metafile)
 

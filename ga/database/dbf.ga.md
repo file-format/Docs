@@ -101,6 +101,6 @@ Tosaíonn gach taifead le bratach scriosta (1-beart). Tá réimsí fillte i dtai
 
 ## Tagairtí ##
 
-* [.dbf - Vicipéid](https://ga.wikipedia.org/wiki/.dbf)
+* [.dbf - Vicipéid](https://en.wikipedia.org/wiki/.dbf)
 
 

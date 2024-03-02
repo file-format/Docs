@@ -37,6 +37,6 @@ Is féidir inneachar an chomhaid MBox a mheascadh go dochúlaithe nuair a bhíon
 
 * [MBox - RFC4155](https://tools.ietf.org/rfc/rfc4155.txt)
 
-* [Mbox - Vicipéid](https://ga.wikipedia.org/wiki/Mbox)
+* [Mbox - Vicipéid](https://en.wikipedia.org/wiki/Mbox)
 
 

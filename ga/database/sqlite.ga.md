@@ -96,7 +96,7 @@ The SQLite database header is located in the first 100 bytes of the database fil
 
 * [Formáid Comhaid SQL - SQLite](https://www.sqlite.org/fileformat2.html)
 
-* [SQLite - Vicipéid](https://ga.wikipedia.org/wiki/SQLite)
+* [SQLite - Vicipéid](https://en.wikipedia.org/wiki/SQLite)
 
 * [SQLite - Sonraíochtaí Teanga C](https://www.sqlite.org/c3ref/intro.html)
 

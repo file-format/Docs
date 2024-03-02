@@ -37,6 +37,6 @@ LBR file format was designed by Gary P. Novosielski and has no technical details
 
 ## Tagairtí
 
-* [LBR - Vicipéid](https://ga.wikipedia.org/wiki/LBR_(file_format))
+* [LBR - Vicipéid](https://en.wikipedia.org/wiki/LBR_(file_format))
 
 

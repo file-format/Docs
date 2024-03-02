@@ -49,6 +49,6 @@ Tá na feidhmchláir ar nós CCleaner, Speccy, Defraggler, agus Recuva ag baint 
 
 ## Tagairtí ##
 
-* [Comhaid Sonraí - Vicipéid](https://ga.wikipedia.org/wiki/Data_file)
+* [Comhaid Sonraí - Vicipéid](https://en.wikipedia.org/wiki/Data_file)
 
 

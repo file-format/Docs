@@ -84,7 +84,7 @@ fn main() {
 
 ## Tagairt ##
 
-* [RS - le Vicipéid](https://ga.wikipedia.org/wiki/Rust_(programming_language))
+* [RS - le Vicipéid](https://en.wikipedia.org/wiki/Rust_(programming_language))
 
 
 

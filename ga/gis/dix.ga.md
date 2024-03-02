@@ -29,6 +29,6 @@ Stóráiltear comhad DIX ar diosca mar chomhad dénártha comhbhrúite. Mar ghea
 
 * [DIVA GIS)](http://www.diva-gis.org/)
 
-* [DIVA GIS - Vicipéid](https://ga.wikipedia.org/wiki/DIVA-GIS)
+* [DIVA GIS - Vicipéid](https://en.wikipedia.org/wiki/DIVA-GIS)
 
 

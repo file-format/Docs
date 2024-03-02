@@ -100,5 +100,5 @@ Tacaíonn an fhormáid OpenDocument leis na stíleanna seo a leanas.
 
 ## Tagairtí ##
   * [Formáid Doiciméad Oscailte OASIS le haghaidh Feidhmchláir Oifige](https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=office)
-  * [Formáid OpenDocument - Vicipéid](https://ga.wikipedia.org/wiki/OpenDocument)
+  * [Formáid OpenDocument - Vicipéid](https://en.wikipedia.org/wiki/OpenDocument)
 

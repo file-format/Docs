@@ -124,7 +124,7 @@ Níl sa leantóir foirceanta comhaid le haghaidh DWF ach opcode speisialta a lé
 
 ## Tagairtí ##
 
-* [DWF - Le Vicipéid](https://ga.wikipedia.org/wiki/Design_Web_Format)
+* [DWF - Le Vicipéid](https://en.wikipedia.org/wiki/Design_Web_Format)
 
 * [Formáid Sonraí WHIP](http://paulbourke.net/dataformats/whip/)
 

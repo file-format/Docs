@@ -61,6 +61,6 @@ Is éard atá i gcomhad MP3 frámaí MP3 ina bhfuil ceanntásc agus bloc sonraí
 
 ## Tagairtí ##
 
-* [MP3 - Le Vicipéid](https://ga.wikipedia.org/wiki/MP3)
+* [MP3 - Le Vicipéid](https://en.wikipedia.org/wiki/MP3)
 
 

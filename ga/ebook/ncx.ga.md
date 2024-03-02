@@ -73,7 +73,7 @@ including those that conform to the relaxed constraints of OPS 2.0 -->
 
 ## Tagairtí ##
 
-* [EPUB Ón Vicipéid](https://ga.wikipedia.org/wiki/EPUB)
+* [EPUB Ón Vicipéid](https://en.wikipedia.org/wiki/EPUB)
 
 * [What files to include in the toc.ncx](https://ebooks.stackexchange.com/questions/2332/what-files-to-include-in-the-toc-ncx)
 

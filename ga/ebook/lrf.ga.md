@@ -74,6 +74,6 @@ Tá na luachanna seo go léir in ord Intel (LSB ar dtús).
 
 * [Formáid Comhaid LRF](https://web.archive.org/web/20110809071744/http://www.sven.de/librie/Librie/LrfFormat)
 
-* [BBeB - Le Vicipéid](https://ga.wikipedia.org/wiki/BBeB)
+* [BBeB - Le Vicipéid](https://en.wikipedia.org/wiki/BBeB)
 
 

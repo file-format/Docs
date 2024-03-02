@@ -68,7 +68,7 @@ Tá an fhormáid chéanna ag HTAanna agus a chuimsíonn leathanach HTML ar bith 
 
 ## Tagairt ##
 
-* [HTA - le Vicipéid](https://ga.wikipedia.org/wiki/HTML_Application)
+* [HTA - le Vicipéid](https://en.wikipedia.org/wiki/HTML_Application)
 
 
 

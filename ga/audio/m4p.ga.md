@@ -48,7 +48,7 @@ Smután atriallta, go dtí go n-aimsítear smután den chineál anaithnid, Cumfa
 
 ## Tagairtí ##
 
-* [MPEG-4 Cuid 14 - Le Vicipéid](https://ga.wikipedia.org/wiki/MPEG-4_Part_14)
+* [MPEG-4 Cuid 14 - Le Vicipéid](https://en.wikipedia.org/wiki/MPEG-4_Part_14)
 
 * [MPEG-4 Cuid 14 Fuaime (M4A, M4B, M4P) Formáid & Aisghabháil Sampla](https://www.file-recovery.com/m4a-signature-format.htm)
 

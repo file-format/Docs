@@ -30,6 +30,6 @@ Tá comhaid GMAP cosúil le híomhá diosca crua agus tá sé bunaithe ar chóra
 
 ## Tagairtí ##
 
-* [Formáid Chomhaid GARMIN IMG - Vicipéid](https://ga.wikipedia.org/wiki/Garmin_.img)
+* [Formáid Chomhaid GARMIN IMG - Vicipéid](https://en.wikipedia.org/wiki/Garmin_.img)
 
 

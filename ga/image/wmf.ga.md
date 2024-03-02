@@ -83,6 +83,6 @@ Tá formáid chineálach ag taifid WMF, atá sonraithe i ndoiciméad sonraíocht
 
 * [[MS-WMF]: Formáid Metafile Windows](https://msdn.microsoft.com/en-us/library/cc250370.aspx)
 
-* [Windows MetaFile - Vicipéid](https://ga.wikipedia.org/wiki/Windows_Metafile)
+* [Windows MetaFile - Vicipéid](https://en.wikipedia.org/wiki/Windows_Metafile)
 
 

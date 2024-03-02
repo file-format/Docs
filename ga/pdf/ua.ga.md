@@ -71,7 +71,7 @@ Tá teicneolaíocht chúnta chomhlíontach ag teastáil chun tacú leis na gnéi
 
 ## Tagairtí ##
 
-* [PDF/UA - Le Vicipéid](https://ga.wikipedia.org/wiki/PDF/UA)
+* [PDF/UA - Le Vicipéid](https://en.wikipedia.org/wiki/PDF/UA)
 
 * [PDF/UA gan mhoill](https://pdfa.org/pdfua-in-a-nutshell/)
 

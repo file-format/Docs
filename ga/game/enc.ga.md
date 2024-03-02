@@ -42,6 +42,6 @@ Is dócha go mbeidh comhaid ENC comhbhrúite agus ionchódaithe ar chúiseanna s
 Éascaíonn an **Uirlis Cabal ENC do Windows** dí-chomhbhrú comhaid ENC, rud a chuireann ar chumas úsáideoirí a bhfuil iontu a iniúchadh. Ina theannta sin, cuireann an uirlis cumas chun comhaid a phacáistiú i bhformáid ENC. Ligeann an fheidhmiúlacht seo d'úsáideoirí, lena n-áirítear modders, inneachar na gcomhad ENC a dhíphacáil agus a iniúchadh, chomh maith le comhaid ENC nua a chruthú trí chomhaid shonracha a phacáistiú le chéile.
 
 ## Tagairtí
-* [Cabal Ar Líne](https://ga.wikipedia.org/wiki/Cabal_Online)
+* [Cabal Ar Líne](https://en.wikipedia.org/wiki/Cabal_Online)
 
 

@@ -55,6 +55,6 @@ Is formáidí comhaid iad an .air agus .dmg a úsáidtear chun feidhmchláir a d
 5. Formáid comhaid: Is comhaid dhénártha iad comhaid .air, agus is comhaid íomhá diosca iad comhaid .dmg. Is cineál comhaid cartlainne iad comhaid íomhá diosca ina bhfuil cóip iomlán de struchtúr sonraí, amhail córas comhaid nó deighilt diosca, in aon chomhad amháin.
 
 ## Tagairtí
-* [Adobe AIR](https://ga.wikipedia.org/wiki/Adobe_AIR)
+* [Adobe AIR](https://en.wikipedia.org/wiki/Adobe_AIR)
 
 

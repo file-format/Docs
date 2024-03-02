@@ -28,6 +28,6 @@ Déantar comhaid STC a shábháil ar diosca i bhformáid dhénártha comhaid. N�
 
 ## Tagairtí ##
 
-* [StarOffice - Le Vicipéid](https://ga.wikipedia.org/wiki/StarOffice)
+* [StarOffice - Le Vicipéid](https://en.wikipedia.org/wiki/StarOffice)
 
 

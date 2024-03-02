@@ -69,6 +69,6 @@ Le dímheas JWS, ní féidir feidhmchláir a forbraíodh bunaithe ar theicneola�
 
 * [Rith JNLP leis an Leagan is déanaí de Java](https://openwebstart.com/)
 
-* [Tosú Gréasáin Java - Vicipéid](https://ga.wikipedia.org/wiki/Java_Web_Start)
+* [Tosú Gréasáin Java - Vicipéid](https://en.wikipedia.org/wiki/Java_Web_Start)
 
 

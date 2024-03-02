@@ -36,6 +36,6 @@ Níl sonraíochtaí beachta formáid comhaid na gcomhad FWP ar fáil le haghaidh
 
 ## Tagairtí
 
-* [Gréasán Slonn Microsoft - Vicipéid](https://ga.wikipedia.org/wiki/Microsoft_Expression_Web)
+* [Gréasán Slonn Microsoft - Vicipéid](https://en.wikipedia.org/wiki/Microsoft_Expression_Web)
 
 

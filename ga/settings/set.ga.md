@@ -58,6 +58,6 @@ Chun comhad .set a oscailt le haghaidh feiste Xerox, beidh ort comhéadan gréas
 7. Is féidir an comhad .set a oscailt le heagarthóir téacs, mar Notepad, chun na socruithe a fheiceáil i bhformáid atá inléite ag an duine.
 
 ## Tagairtí
-* [Xerox](https://ga.wikipedia.org/wiki/Xerox)
+* [Xerox](https://en.wikipedia.org/wiki/Xerox)
 
 

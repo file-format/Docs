@@ -27,7 +27,7 @@ Tá cód foinse scríofa i gcomhréir Groovy i gcomhaid GROOVY. Is féidir cód 
 
 ## Tagairt ##
 
-* [APACHE GROOVY - le Vicipéid](https://ga.wikipedia.org/wiki/Apache_Groovy)
+* [APACHE GROOVY - le Vicipéid](https://en.wikipedia.org/wiki/Apache_Groovy)
 
 * [Teanga Groovy](https://groovy-lang.org/documentation.html)
 

@@ -55,6 +55,6 @@ Socraítear codanna i gcomhad DXF san ord seo a leanas:
 ## Tagairtí ##
 
 * [DXF File Specifications](http://images.autodesk.com/adsk/files/autocad_2012_pdf_dxf-reference_enu.pdf)
-* [AutoCAD DXF le Vicipéid](https://ga.wikipedia.org/wiki/AutoCAD_DXF)
+* [AutoCAD DXF le Vicipéid](https://en.wikipedia.org/wiki/AutoCAD_DXF)
 
 

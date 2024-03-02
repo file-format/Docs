@@ -91,6 +91,6 @@ Seo a leanas sampla simplithe de chatalóg CD ina bhfuil faisnéis i ngach taife
 
 ## Tagairtí
 
-* [XML - Le Vicipéid](https://ga.wikipedia.org/wiki/XML)
+* [XML - Le Vicipéid](https://en.wikipedia.org/wiki/XML)
 
 

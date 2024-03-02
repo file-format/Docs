@@ -29,7 +29,7 @@ Déantar comhaid AX a shábháil ar diosca i bhformáid dhénártha comhaid. Dé
 
 ## Tagairtí
 
-* [Microsoft AutoRoute](https://ga.wikipedia.org/wiki/Microsoft_AutoRoute)
+* [Microsoft AutoRoute](https://en.wikipedia.org/wiki/Microsoft_AutoRoute)
 
 * [Formáid Chomhaid KML](/gis/kml/)
 

@@ -33,7 +33,7 @@ Roghnaigh foireann Microsoft Global Graphics chun comhairleoireacht a sholáthar
 
 ## Tagairtí ##
 
-* [Vicipéid](https://ga.wikipedia.org/wiki/Open_XML_Paper_Specification)
+* [Vicipéid](https://en.wikipedia.org/wiki/Open_XML_Paper_Specification)
 
 * [Microsoft - OXPS](https://support.microsoft.com/en-us/topic/you-cannot-open-an-oxps-file-in-windows-7-or-in-windows-server-2008 -r2-7b483a76-0fee-1bc8-8d09-4f30b9c0a251)
 

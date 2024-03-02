@@ -82,7 +82,7 @@ package com.example
 
 ## Tagairt ##
 
-* [AS - le Vicipéid](https://ga.wikipedia.org/wiki/ActionScript)
+* [AS - le Vicipéid](https://en.wikipedia.org/wiki/ActionScript)
 
 
 

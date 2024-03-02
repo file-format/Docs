@@ -72,6 +72,6 @@ Leagan leathnaithe d'fhormáid shimplí an LRC is ea formáid fheabhsaithe an LR
 
 ## Tagairtí
 
-* [Formáid Chomhaid Lyrics LRC - Vicipéid](https://ga.wikipedia.org/wiki/LRC_(file_format))
+* [Formáid Chomhaid Lyrics LRC - Vicipéid](https://en.wikipedia.org/wiki/LRC_(file_format))
 
 

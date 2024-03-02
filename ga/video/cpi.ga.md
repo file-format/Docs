@@ -83,6 +83,6 @@ Seo cineálacha comhaid eile a úsáideann an síneadh comhad **.cpi**.
 - [CPI - Codepage Information File](/system/cpi/)
 
 ## Tagairtí
-* [Kdenlive](https://ga.wikipedia.org/wiki/Kdenlive)
+* [Kdenlive](https://en.wikipedia.org/wiki/Kdenlive)
 
 

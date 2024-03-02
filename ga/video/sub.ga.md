@@ -89,6 +89,6 @@ Chun Fo-chomhad a oscailt i seinnteoir VLC lean na céimeanna seo
 Más gá duit fochomhad a chur in eagar, is féidir leat é a oscailt le haon eagarthóir téacs m.sh. Microsoft Notepad (Windows) nó Apple TextEdit (Mac).
 
 ## Tagairtí
-* [MicroDVD](https://ga.wikipedia.org/wiki/MicroDVD)
+* [MicroDVD](https://en.wikipedia.org/wiki/MicroDVD)
 
 

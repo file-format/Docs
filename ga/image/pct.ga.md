@@ -34,6 +34,6 @@ Is féidir na sonraí íomhá i gcomhad PCT Macintosh a shábháil sa bhunfhorm�
 
 ## Tagairtí
 
-* [Formáid Comhaid PICT - Le Vicipéid](https://ga.wikipedia.org/wiki/PICT)
+* [Formáid Comhaid PICT - Le Vicipéid](https://en.wikipedia.org/wiki/PICT)
 
 

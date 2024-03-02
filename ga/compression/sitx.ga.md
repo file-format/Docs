@@ -43,5 +43,5 @@ Chuir an StuffIt X nuashonraithe feabhas ar an mbunfhormáid StuffIt trí halgar
 
 ## Tagairtí
 
- * [StuffIt - Le Vicipéid](https://ga.wikipedia.org/wiki/StuffIt)
+ * [StuffIt - Le Vicipéid](https://en.wikipedia.org/wiki/StuffIt)
 

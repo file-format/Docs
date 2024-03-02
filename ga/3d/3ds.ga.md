@@ -105,6 +105,6 @@ Cuimhnigh gur féidir le réad a bheith ina mhogalra, ina sholas nó ina cheamar
 
 * [Formáidí Comhaid Céimseata - Autodesk](https://help.autodesk.com/view/3DSMAX/2015/ENU/?guid=GUID-566E59EE-8221-4AC6-824B-5062C5AE0B32)
 
-* [3DS - Le Vicipéid](https://ga.wikipedia.org/wiki/.3ds)
+* [3DS - Le Vicipéid](https://en.wikipedia.org/wiki/.3ds)
 
 

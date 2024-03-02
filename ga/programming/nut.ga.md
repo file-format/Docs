@@ -107,7 +107,7 @@ class BaseVector {
 
 ## Tagairt ##
 
-* [NUT - le Vicipéid](https://ga.wikipedia.org/wiki/Squirrel_(programming_language))
+* [NUT - le Vicipéid](https://en.wikipedia.org/wiki/Squirrel_(programming_language))
 
 
 

@@ -27,7 +27,7 @@ Déantar comhaid TZ a shábháil mar chomhaid dhénártha ag baint úsáide as a
 
 ## Tagairtí
 
-* [TAR - Le Vicipéid](https://ga.wikipedia.org/wiki/Tar_(computing))
+* [TAR - Le Vicipéid](https://en.wikipedia.org/wiki/Tar_(computing))
 
 * [Formáid Bhunúsach TAR](https://www.gnu.org/software/tar/manual/html_node/Standard.html)
 

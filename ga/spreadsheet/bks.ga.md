@@ -35,6 +35,6 @@ Stóráiltear comhaid BKS ar diosca mar chomhaid dhénártha agus níl a sonraí
 
 ## Tagairtí ##
 
-* [Microsoft Works - Le Vicipéid](https://ga.wikipedia.org/wiki/Microsoft_Works)
+* [Microsoft Works - Le Vicipéid](https://en.wikipedia.org/wiki/Microsoft_Works)
 
 

@@ -76,5 +76,5 @@ Déantar idirdhealú idir Swift agus teangacha cláir eile bunaithe ar na gnéit
 
 ## Tagairtí
  * [Swift - GitHub](https://github.com/apple/swift)
- * [Swift - Vicipéid](https://ga.wikipedia.org/wiki/Swift_(programming_language))
+ * [Swift - Vicipéid](https://en.wikipedia.org/wiki/Swift_(programming_language))
 

@@ -62,6 +62,6 @@ Tá formáid comhaid P3T bunaithe ar Formáid Coimeádán Oscailte (OCF) agus ú
 Chun comhaid P3T a chruthú nó a mhodhnú, tá gá le bogearraí speisialaithe mar an t-iarratas oifigiúil PS3 Theme Builder a sholáthraíonn Sony. Tá uirlisí tríú páirtí ar fáil freisin ar féidir iad a úsáid chun comhaid P3T saincheaptha a chruthú ach ní thacaíonn Sony go hoifigiúil leis na huirlisí seo agus b'fhéidir nach mbeidh siad ag luí le gach córas PS3 nó leagan firmware.
 
 ## Tagairtí
-* [PlayStation 3](https://ga.wikipedia.org/wiki/PlayStation_3)
+* [PlayStation 3](https://en.wikipedia.org/wiki/PlayStation_3)
 
 

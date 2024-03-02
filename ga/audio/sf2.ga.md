@@ -54,6 +54,6 @@ Chun comhad SF2 a oscailt, beidh ort samplóir bogearraí nó seinnteoir SF2 a b
 6. Nuair a bheidh an comhad SF2 lódáilte, ba cheart go mbeifeá in ann na huirlisí agus na fuaimeanna atá san áireamh a sheinm ag baint úsáide as do mhéarchlár MIDI nó gléas ionchuir eile. Má tá a mhéarchlár ionsuite féin ag an imreoir nó ag an samplóir, is féidir leat é seo a úsáid chun na fuaimeanna a sheinm go díreach ó do ríomhaire.
 
 ## Tagairtí
-* [SoundFont](https://ga.wikipedia.org/wiki/SoundFont)
+* [SoundFont](https://en.wikipedia.org/wiki/SoundFont)
 
 

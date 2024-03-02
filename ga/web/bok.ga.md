@@ -29,6 +29,6 @@ Déantar comhaid BOK a shábháil mar leathanaigh ghréasáin atá i bhformáid 
 
 ## Tagairtí
 
-* [ProStores - Vicipéid](https://ga.wikipedia.org/wiki/ProStores)
+* [ProStores - Vicipéid](https://en.wikipedia.org/wiki/ProStores)
 
 

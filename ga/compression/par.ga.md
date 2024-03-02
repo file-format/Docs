@@ -59,6 +59,6 @@ Is formáid shonrach comhaid í formáid comhaid PAR, ar a dtugtar Parchive go c
 Tacaíonn bogearraí PAR go forleathan le formáidí comhaid PAR2 agus PAR3 araon agus cuireann siad an cumas chun sláine comhaid laistigh de chartlann a fhíorú agus sonraí a cailleadh nó a ndearnadh damáiste dóibh a aisghabháil. Úsáidtear comhaid PAR agus PAR2 go coitianta fós, agus tá comhaid PAR3 á nglacadh de réir a chéile mar gheall ar a gcumas feabhsaithe earráide.
 
 ## Tagairtí
-* [Parchive](https://ga.wikipedia.org/wiki/Parchive)
+* [Parchive](https://en.wikipedia.org/wiki/Parchive)
 
 

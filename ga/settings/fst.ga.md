@@ -36,6 +36,6 @@ Seo liosta d’oscailteoirí comhad FST.
 - **Image-Line FL Studio** (Triail In Aisce) le haghaidh (Windows)
 
 ## Tagairtí
-* [FL Studio](https://ga.wikipedia.org/wiki/FL_Studio)
+* [FL Studio](https://en.wikipedia.org/wiki/FL_Studio)
 
 

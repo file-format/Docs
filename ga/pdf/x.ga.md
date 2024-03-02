@@ -36,6 +36,6 @@ Cuimsíonn an teaghlach caighdeán PDF/X roinnt leaganacha, gach ceann acu deart
 
 ## Tagairtí ##
 
-* [PDF/X - Le Vicipéid](https://ga.wikipedia.org/wiki/PDF/X)
+* [PDF/X - Le Vicipéid](https://en.wikipedia.org/wiki/PDF/X)
 
 

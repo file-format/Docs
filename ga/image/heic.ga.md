@@ -69,7 +69,7 @@ Is féidir comhaid HEIC a thiontú go formáidí comhaid íomhá eile cosúil le
 
 ## Tagairtí
 
- * [HEIF - Vicipéid](https://ga.wikipedia.org/wiki/High_Efficiency_Image_File_Format)
+ * [HEIF - Vicipéid](https://en.wikipedia.org/wiki/High_Efficiency_Image_File_Format)
  * [Faisnéis HEIF ó Nokia Technologies](https://nokiatech.github.io/heif/)
  * [Cód Foinse Léitheoireachta/Scríbhneora HEIF ag GitHub](https://github.com/nokiatech/heif)
 

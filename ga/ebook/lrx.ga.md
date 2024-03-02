@@ -50,6 +50,6 @@ Tá comhaid LRX i bhformáid dhénártha comhaid agus tá gach a bhfuil sa chomh
 
 ## Tagairtí
 
-* [BBeB - Le Vicipéid](https://ga.wikipedia.org/wiki/BBeB)
+* [BBeB - Le Vicipéid](https://en.wikipedia.org/wiki/BBeB)
 
 

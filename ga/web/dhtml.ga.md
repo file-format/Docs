@@ -86,6 +86,6 @@ Scríobhann an cód seo an téacs Hello World chun aschur sa bhrabhsálaí.
 
 ## Tagairtí
 
-* [HTML dinimiciúil - Vicipéid](https://ga.wikipedia.org/wiki/Dynamic_HTML)
+* [HTML dinimiciúil - Vicipéid](https://en.wikipedia.org/wiki/Dynamic_HTML)
 
 

@@ -43,5 +43,5 @@ FODG is based on the OpenDocument's XML file format that conforms to OASIS OpenD
 ## Tagairtí ##
  * [Future Specifications for v 1.3 Standardization ](https://docs.oasis-open.org/office/OpenDocument/v1.3/cs01/OpenDocument-v1.3-cs01.zip)
  * [Formáid Doiciméad Oscailte OASIS le haghaidh Feidhmchláir Oifige](https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=office)
- * [Formáid OpenDocument - Vicipéid](https://ga.wikipedia.org/wiki/OpenDocument)
+ * [Formáid OpenDocument - Vicipéid](https://en.wikipedia.org/wiki/OpenDocument)
 

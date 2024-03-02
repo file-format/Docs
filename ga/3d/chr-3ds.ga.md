@@ -78,6 +78,6 @@ Seo cineálacha comhaid eile a úsáideann an síneadh comhad **.chr**.
 - [CHR - Doki Doki Literature Club! Character File](/game/chr-doki/)
 
 ## Tagairtí
-* [Autodesk 3ds Max](https://ga.wikipedia.org/wiki/Autodesk_3ds_Max)
+* [Autodesk 3ds Max](https://en.wikipedia.org/wiki/Autodesk_3ds_Max)
 
 

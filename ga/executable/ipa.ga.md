@@ -53,7 +53,7 @@ Is struchtúr ionsuite é an méid thuas chun iTunes agus App Store a aithint. D
 
 ## Tagairtí 
 
-* [.ipa - le Vicipéid](https://ga.wikipedia.org/wiki/.ipa)
+* [.ipa - le Vicipéid](https://en.wikipedia.org/wiki/.ipa)
 
 
 

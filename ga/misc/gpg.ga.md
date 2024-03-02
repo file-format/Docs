@@ -60,6 +60,6 @@ gpg cfile.txt.gpg
 
 * [GNUPG](https://gnupg.org/)
 
-* [HDF - Vicipéid](https://ga.wikipedia.org/wiki/Hierarchical_Data_Format)
+* [HDF - Vicipéid](https://en.wikipedia.org/wiki/Hierarchical_Data_Format)
 
 

@@ -52,7 +52,7 @@ Le FileMaker Pro Advanced, is féidir le húsáideoirí bunachair shonraí a fho
 - FileMaker Pro Advanced (Mac)
 
 ## Tagairtí
-* [FileMaker](https://ga.wikipedia.org/wiki/FileMaker)
+* [FileMaker](https://en.wikipedia.org/wiki/FileMaker)
 
 
 

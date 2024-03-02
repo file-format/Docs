@@ -76,7 +76,7 @@ Cé go bhfuil sonraí sonracha sa chomhad PAR a bhaineann le feidhmíocht an aer
 ## Tagairtí
 * [Insamhlóir Samhail-Eitilte (FMS)](https://modelsimulator.com/)
 
-* [Microsoft Flight Simulator](https://ga.wikipedia.org/wiki/Microsoft_Flight_Simulator)
+* [Microsoft Flight Simulator](https://en.wikipedia.org/wiki/Microsoft_Flight_Simulator)
 
 
 

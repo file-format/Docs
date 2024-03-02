@@ -61,7 +61,7 @@ Mar sin, is féidir leis an Roxio Toast comhaid Tósta a chruthú, ina bhfuil na
 
 ## Tagairtí 
 
-* [Roxio Tósta - Vicipéid](https://ga.wikipedia.org/wiki/Roxio_Toast)
+* [Roxio Tósta - Vicipéid](https://en.wikipedia.org/wiki/Roxio_Toast)
 
 
 

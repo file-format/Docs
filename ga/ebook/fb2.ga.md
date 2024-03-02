@@ -37,6 +37,6 @@ D'fhorbair Dmitry Gribov ó FictionBook sa Rúis formáid comhaid FictionBook 2.
 
 ## Tagairtí ##
 
-* [FB2 - Le Vicipéid](https://ga.wikipedia.org/wiki/FictionBook )
+* [FB2 - Le Vicipéid](https://en.wikipedia.org/wiki/FictionBook )
 
 

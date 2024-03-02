@@ -75,6 +75,6 @@ Tá DWG ar cheann de na formáidí comhaid a úsáidtear go forleathan i raon fe
 
 * [Sonraíocht an Chomhaid DWG](https://www.scan2cad.com/blog/dwg/file-spec/)
 
-* [DWG - Le Vicipéid](https://ga.wikipedia.org/wiki/.dwg)
+* [DWG - Le Vicipéid](https://en.wikipedia.org/wiki/.dwg)
 
 

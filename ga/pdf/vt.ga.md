@@ -42,7 +42,7 @@ Bronntar PDF/VT ar na trí leibhéal comhlíonta seo a leanas. Tá siad seo go l
 
 ## Tagairtí ##
 
-* [PDF/VT - Le Vicipéid](https://ga.wikipedia.org/wiki/PDF/VT)
+* [PDF/VT - Le Vicipéid](https://en.wikipedia.org/wiki/PDF/VT)
 
 * [ISO 16612-2 Teicneolaíocht Grafach](https://www.iso.org/standard/46428.html)
 

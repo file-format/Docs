@@ -103,6 +103,6 @@ paiste xdelta original_file paiste.xdelta updated_file
 Níl sé beartaithe comhaid XDELTA a oscailt go díreach. Más mian leat paiste XDELTA a chur i bhfeidhm ar chluiche nó ar chomhad eile, tá rogha agat ceachtar de xdelta a úsáid, atá comhoiriúnach thar ardáin iolracha, nó xdelta UI, atá deartha go sonrach d’úsáideoirí Windows.
 
 ## Tagairtí
-* [xdelta](https://ga.wikipedia.org/wiki/Xdelta)
+* [xdelta](https://en.wikipedia.org/wiki/Xdelta)
 
 

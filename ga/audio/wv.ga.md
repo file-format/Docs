@@ -50,6 +50,6 @@ Réitíonn an modh hibrideach i WV an cheist maidir le roghnú idir comhad beag 
 
 ## Tagairtí ##
 
-* [WV - Le Vicipéid](https://ga.wikipedia.org/wiki/WavPack)
+* [WV - Le Vicipéid](https://en.wikipedia.org/wiki/WavPack)
 
 

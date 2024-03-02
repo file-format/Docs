@@ -142,7 +142,7 @@ puts output = renderer.result(example.get_binding)
 
 ## Tagairt ##
 
-* [ERB - le Vicipéid](https://ga.wikipedia.org/wiki/ERuby)
+* [ERB - le Vicipéid](https://en.wikipedia.org/wiki/ERuby)
 
 
 

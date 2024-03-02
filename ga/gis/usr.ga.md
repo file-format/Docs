@@ -77,6 +77,6 @@ Tugann an t-ordú thuas treoir do GPSBabel an comhad ionchuir input.usr a léamh
 - GPSBabel (Linux)
 
 ## Tagairtí
-* [Lowrance Electronics](https://ga.wikipedia.org/wiki/Lowrance_Electronics)
+* [Lowrance Electronics](https://en.wikipedia.org/wiki/Lowrance_Electronics)
 
 

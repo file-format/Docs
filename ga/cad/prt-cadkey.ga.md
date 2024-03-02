@@ -63,6 +63,6 @@ Seo cineálacha comhaid eile a úsáideann an síneadh comhad **.prt**.
 - [PRT - Presentations Template](/data/prt-template/)
 
 ## Tagairtí
-* [CADKEY](https://ga.wikipedia.org/wiki/CADKEY)
+* [CADKEY](https://en.wikipedia.org/wiki/CADKEY)
 
 

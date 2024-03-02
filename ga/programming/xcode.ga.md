@@ -42,6 +42,6 @@ Is timpeallacht forbartha comhtháite (IDE) é Xcode a chruthaigh Apple le hagha
 Is féidir formáid comhaid XCODE a oscailt ag baint úsáide as an Xcode IDE. Roghnaigh Comhad > Oscail chun comhad XCODE a oscailt in Xcode IDE.
 
 ## Tagairtí
-* [Xcode](https://ga.wikipedia.org/wiki/Xcode)
+* [Xcode](https://en.wikipedia.org/wiki/Xcode)
 
 

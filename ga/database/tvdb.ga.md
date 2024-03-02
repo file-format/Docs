@@ -54,6 +54,6 @@ Níl sé i gceist comhaid TVDB a oscailt go díreach, úsáideann Apple TV iad a
 - **Apple TV** san áireamh le OS (MAC, iOS)
 
 ## Tagairtí
-* [Apple TV](https://ga.wikipedia.org/wiki/Apple_TV)
+* [Apple TV](https://en.wikipedia.org/wiki/Apple_TV)
 
 

@@ -44,6 +44,6 @@ Seo cineálacha comhaid eile a úsáideann an síneadh comhad **.wps**.
 
 ## Tagairtí ##
 
-* [Microsoft Works](https://ga.wikipedia.org/wiki/Microsoft_Works)
+* [Microsoft Works](https://en.wikipedia.org/wiki/Microsoft_Works)
 
 

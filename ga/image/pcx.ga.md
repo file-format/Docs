@@ -56,6 +56,6 @@ typedef struct _PcxHeader
 
 ## Tagairtí
 
-* [PCX - Le Vicipéid](https://ga.wikipedia.org/wiki/PCX)
+* [PCX - Le Vicipéid](https://en.wikipedia.org/wiki/PCX)
 
 

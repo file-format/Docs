@@ -30,5 +30,5 @@ Is iad an dá fhadhb is mó le AVIF faoi láthair ná luas ionchódaithe agus an
 
 ## Tagairtí ##
 
- * [AVIF - Vicipéid](https://ga.wikipedia.org/wiki/AV1#AV1_Image_File_Format_(AVIF))
+ * [AVIF - Vicipéid](https://en.wikipedia.org/wiki/AV1#AV1_Image_File_Format_(AVIF))
 

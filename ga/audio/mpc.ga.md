@@ -24,7 +24,7 @@ A file with .mpc extension is a [Musepack](https://musepack.net/) audio file for
 
 ## Tagairtí
 
-* [Musepack MPC - Vicipéid](https://ga.wikipedia.org/wiki/Musepack)
+* [Musepack MPC - Vicipéid](https://en.wikipedia.org/wiki/Musepack)
 
 * [Musepack MPC](https://musepack.net/)
 

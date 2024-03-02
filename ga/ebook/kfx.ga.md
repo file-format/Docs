@@ -37,7 +37,7 @@ Is formáid chasta é KFX mar go nascann sé roinnt gnéithe éagsúla de Kindle
 
 ## Tagairtí ##
 
-* [Cló Bookerly - Vicipéid](https://ga.wikipedia.org/wiki/Bookerly)
+* [Cló Bookerly - Vicipéid](https://en.wikipedia.org/wiki/Bookerly)
 
 * [KFX - Le Vicipéid](https://wiki.mobileread.com/wiki/KFX)
 

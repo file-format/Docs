@@ -65,7 +65,7 @@ Tá aidhm agus dearadh VRML bunaithe ar na riachtanais seo a leanas.
 
 ## Tagairtí ##
 
-* [VRML - Le Vicipéid](https://ga.wikipedia.org/wiki/VRML)
+* [VRML - Le Vicipéid](https://en.wikipedia.org/wiki/VRML)
 
 * [Sonraíochtaí Formáid Comhaid VRML v 2.0](http://gun.teipir.gr/VRML-amgem/spec/index.html)
 

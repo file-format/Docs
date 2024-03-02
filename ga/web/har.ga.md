@@ -56,6 +56,6 @@ Is féidir na céimeanna seo a leanas a dhéanamh ar leathanach gréasáin ina b
 
 ## Tagairtí
 
-* [HAR Formáid Comhaid - Vicipéid](https://ga.wikipedia.org/wiki/HAR_(file_format))
+* [HAR Formáid Comhaid - Vicipéid](https://en.wikipedia.org/wiki/HAR_(file_format))
 
 

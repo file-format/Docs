@@ -86,6 +86,6 @@ Cuimsíonn Ceanntásc comhad .ONE smután ina bhfuil aitheantais uathúla éags�
 
 * [[MS-ONESTORE] - Formáid Chomhaid OneNote](https://msdn.microsoft.com/en-us/library/dd951288(v#office.12).aspx)
 
-* [Microsoft OneNote - Vicipéid](https://ga.wikipedia.org/wiki/Microsoft_OneNote#References)
+* [Microsoft OneNote - Vicipéid](https://en.wikipedia.org/wiki/Microsoft_OneNote#References)
 
 

@@ -27,6 +27,6 @@ Sábháiltear comhaid PICT mar chomhaid íomhá dhénártha is féidir a oscailt
 
 ## Tagairtí
 
-* [Formáid Comhaid PICT - Le Vicipéid](https://ga.wikipedia.org/wiki/PICT)
+* [Formáid Comhaid PICT - Le Vicipéid](https://en.wikipedia.org/wiki/PICT)
 
 

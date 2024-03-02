@@ -56,6 +56,6 @@ Tagann gach uirlis díchriptithe lena sraith treoracha. Lean go cúramach na cé
 
 
 ## Tagairtí
-* [WhatsApp](https://ga.wikipedia.org/wiki/WhatsApp)
+* [WhatsApp](https://en.wikipedia.org/wiki/WhatsApp)
 
 

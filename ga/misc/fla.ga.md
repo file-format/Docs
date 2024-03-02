@@ -65,6 +65,6 @@ Is formáid dhénártha dílseánaigh í an fhormáid comhaid .fla a úsáideann
 Níl sonraí sonracha formáid comhaid .fla doiciméadaithe go poiblí ag Adobe, agus níl sé oscailte nó caighdeánach a dtacaítear go forleathan leis. Baineann struchtúr dénártha comhaid .fla go sonrach le Adobe Animate agus tá faisnéis ann faoi ghrafaicí, beochan, línte ama, sraitheanna, cód scriptithe, siombailí agus sócmhainní eile an tionscadail.
 
 ## Tagairtí
-* [Adobe Animate](https://ga.wikipedia.org/wiki/Adobe_Animate)
+* [Adobe Animate](https://en.wikipedia.org/wiki/Adobe_Animate)
 
 

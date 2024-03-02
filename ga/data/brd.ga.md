@@ -62,6 +62,6 @@ Seo liosta na gclár is féidir leat a úsáid chun comhaid BRD a oscailt.
 - ** Amharcóir Boird Oscailte ** (Saor in Aisce) le haghaidh Linux
 
 ## Tagairtí
-* [clár EAGLE](https://ga.wikipedia.org/wiki/EAGLE_(program))
+* [clár EAGLE](https://en.wikipedia.org/wiki/EAGLE_(program))
 
 

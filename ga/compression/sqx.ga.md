@@ -48,6 +48,6 @@ Is féidir comhad amháin nó níos mó agus eolairí a bheith i gcomhad .sqx, e
 Cé nach bhfuil sonraíochtaí cruinne formáid comhaid SQX doiciméadaithe go forleathan, soláthraíonn bogearraí SQX Archiver féin an fheidhmiúlacht riachtanach chun comhaid a chruthú agus a bhaint as cartlanna .sqx. Chun oibriú le comhad .sqx, d'úsáidfeá an SQX Archiver nó áirgiúlacht chomhoiriúnach a thuigeann formáid SQX.
 
 ## Tagairtí
-* [SQX](https://ga.wikipedia.org/wiki/SQX)
+* [SQX](https://en.wikipedia.org/wiki/SQX)
 
 

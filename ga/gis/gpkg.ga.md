@@ -64,7 +64,7 @@ Le haghaidh ábhar tagartha spáis; lena n-áirítear tíleanna agus gnéithe, a
 
 ## Tagairtí
 
-* [GeoPackage - le Vicipéid](https://ga.wikipedia.org/wiki/GeoPackage)
+* [GeoPackage - le Vicipéid](https://en.wikipedia.org/wiki/GeoPackage)
 
 * [Ag Tosú Le GeoPackage](http://www.geopackage.org/guidance/getting-started.html)
 

@@ -129,7 +129,7 @@ Tá meiteashonraí struchtúracha bunúsach i gcomhad MXF mar go bhfuil faisnéi
 
 ## Tagairtí
 
- * [MXF - Vicipéid](https://ga.wikipedia.org/wiki/Material_Exchange_Format)
+ * [MXF - Vicipéid](https://en.wikipedia.org/wiki/Material_Exchange_Format)
  * [MXF - Progress Report](https://tech.ebu.ch/docs/techreview/trev_2010-Q3_MXF-1.pdf)
  * [Leabharlann OpenSource C++ le haghaidh MXF](http://www.freemxf.org/)
 

@@ -39,6 +39,6 @@ Déantar comhaid GMAP a shábháil ar diosca mar chomhaid dhénártha agus níl 
 
 * [Cineálacha Comhaid a Thacaítear le Garmin](https://www8.garmin.com/manuals/webhelp/basecamppc/EN-US/GUID-43E0D8E9-E720-4895-827E-530751793EF3.html)
 
-* [GML - Le Vicipéid](https://ga.wikipedia.org/wiki/Geography_Markup_Language)
+* [GML - Le Vicipéid](https://en.wikipedia.org/wiki/Geography_Markup_Language)
 
 

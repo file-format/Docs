@@ -60,6 +60,6 @@ Tá comhad PDB ann le Ceanntásc arb é atá ann síniú chun an fhormáid shonr
 The PDB metadata is responsible to recognize all of the component streams, giving the length, and sequence of pages for each stream. Orders are given to streams consecutively; starting with 0. Tá sruth fréimhe neamh-ordaithe ann freisin, ina bhfuil cuid de na meiteashonraí.
 
 ## Tagairtí
- * [PDB - Vicipéid](https://ga.wikipedia.org/wiki/Program_database)
+ * [PDB - Vicipéid](https://en.wikipedia.org/wiki/Program_database)
  * [Microsoft PDB](https://github.com/Microsoft/microsoft-pdb)
 

@@ -52,6 +52,6 @@ Má tá comhad TuxGuitar agat (le síneadh .tg), is féidir leat é a oscailt le
 Ligeann an próiseas seo duit do chuid comhad TuxGuitar a rochtain agus oibriú leo laistigh den fheidhmchlár TuxGuitar.
 
 ## Tagairtí
-* [TuxGuitar](https://ga.wikipedia.org/wiki/TuxGuitar)
+* [TuxGuitar](https://en.wikipedia.org/wiki/TuxGuitar)
 
 

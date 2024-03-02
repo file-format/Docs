@@ -73,6 +73,6 @@ Chun comhad PC a oscailt, is gnách go mbíonn eagarthóir téacs nó Timpeallac
 - **NetBeans** le pacáiste C/C++
   
 ## Tagairtí
-* [Pro*C](https://ga.wikipedia.org/wiki/Pro*C)
+* [Pro*C](https://en.wikipedia.org/wiki/Pro*C)
 
 

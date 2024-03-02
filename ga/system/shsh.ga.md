@@ -33,7 +33,7 @@ Tá comhaid SHSH tábhachtach d'úsáideoirí atá ag iarraidh firmware a ngléa
 
 ## Tagairtí
 
-* [SHSH Blob - Le Vicipéid](https://ga.wikipedia.org/wiki/SHSH_blob)
+* [SHSH Blob - Le Vicipéid](https://en.wikipedia.org/wiki/SHSH_blob)
 
 * [TSS Saver](https://tsssaver.1conan.com/v2/)
 
