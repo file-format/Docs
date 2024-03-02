@@ -68,11 +68,11 @@ As the above descriptions should have made it clear an EPUB document consists of
 
 Tacaíonn formáid comhaid EPUB leis na formáidí comhaid íomhá seo a leanas.
 
-* [GIF] (/íomhá/gif/)
+* [GIF](/image/gif/)
 
-* [JPG] (/image/jpeg/)
+* [JPG](/image/jpeg/)
 
-* [PNG] (/image/png/)
+* [PNG](/image/png/)
 
 * [SVG](/page-description-language/svg/)
 

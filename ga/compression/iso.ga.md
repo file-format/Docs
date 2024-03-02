@@ -57,7 +57,7 @@ Is ionann méid gach tuairisceora toirte agus 2048 beart agus tá an struchtúr 
 
 * [Íomhá Diosca Optúil - Vicipéid](https://en.wikipedia.org/wiki/Optical_disc_image)
 
-* [Sínithe Comhad] (https://www.garykessler.net/library/file_sigs.html)
+* [Sínithe Comhad](https://www.garykessler.net/library/file_sigs.html)
 
 * [ISO 9660 - Vicipéid](https://ga.wikipedia.org/wiki/ISO_9660)
 

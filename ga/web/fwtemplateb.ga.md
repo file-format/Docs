@@ -29,6 +29,3 @@ Sábháiltear comhaid FWTEMPLATEB mar bhailiúchán de theimpléid tsuímh ghré
 
 * [FWTEMPLATE](/web/fwtemplate/)
 
-* [saorbhealach] (/gréasáin / bóthar mór/)
-
-

@@ -38,7 +38,7 @@ Is comhad dénártha é comhad RPM ar féidir sraith comhad a chuimsiú. An chui
  * Luaidhe - Aithníonn sé an comhad mar chomhad RPM
  * Síniú - Is féidir é a úsáid chun sláine agus/nó barántúlacht a chinntiú
  * Ceanntásc - Tá meiteashonraí ann lena n-áirítear ainm pacáiste, leagan, ailtireacht, liosta comhad, etc.
- * Cartlann Comhad - Ar a dtugtar freisin pálasta, a bhíonn i bhformáid cpio de ghnáth, comhbhrúite le [GZIP] (/compression/gz/)
+ * Cartlann Comhad - Ar a dtugtar freisin pálasta, a bhíonn i bhformáid cpio de ghnáth, comhbhrúite le [GZIP](/compression/gz/)
 
 ## Tagairtí
 

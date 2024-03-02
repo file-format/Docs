@@ -54,6 +54,6 @@ Go ginearálta, féadfaidh comhaid níos lú le líon maith síoladóirí an pr�
 Mura bhfuil tú ag fulaingt ar luasanna íoslódála mall nó mura bhfuil tú cinnte cé chomh fada agus a thógfaidh tú íoslódáil, is féidir leat dul chun cinn an íoslódála a sheiceáil i mbainisteoir íoslódála Pando. Léireoidh an barra dul chun cinn cé mhéad comhad a íoslódáladh, agus is féidir leat an t-am atá fágtha a mheas bunaithe ar do luas nasc idirlín agus ar an méid íoslódála.
 
 ## Tagairtí
-* [Pando] (https://download.cnet.com/Pando/3000-2196_4-10546621.html)
+* [Pando](https://download.cnet.com/Pando/3000-2196_4-10546621.html)
 
 

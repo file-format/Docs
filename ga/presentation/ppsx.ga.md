@@ -39,9 +39,8 @@ PPSX files are saved in the Open XML format, which was introduced in Microsoft O
 
 ## Féach freisin ##
 
-* [PPT](/cur i láthair/ppt/)
-
-* [PPTX](/cur i láthair/pptx/)
+* [PPT](/presentation/ppt/)
+* [PPTX](/presentation/pptx/)
 
 
 ## Tagairtí ##

@@ -29,7 +29,7 @@ Ní fios formáid inmheánach comhaid TE. Sholáthair Textease ceadúnais aonair
 
  * Téacs
  * Uimhir
- * [Íomhá](/íomhá/)
+ * Íomhá
  * Dath
  * Dáta (LL/MM/BBBB)
  * Airgeadra

@@ -31,17 +31,17 @@ Déantar comhad AFPHOTO a shábháil i bhformáid comhaid dhénártha dílseána
 
 Is féidir comhaid AFPHOTO a thiontú go formáidí éagsúla ag baint úsáide as bogearraí Serif Affinity Photo. Tacaítear leis na formáidí comhaid easpórtála seo a leanas.
 
- * [PSD] (/image/psd/) - Doiciméad Adobe Photoshop
+ * [PSD](/image/psd/) - Doiciméad Adobe Photoshop
  * [PDF](/pdf/) - Formáid Doiciméad Iniompartha
- * [JPG] (/image/jpeg/) - Íomhá JPEG
- * [PNG] (/image/png/) - Grafaic Líonra Inaistrithe
- * [GIF] (/image/gif/) - Formáid Idirmhalartaithe Ghrafaigh
+ * [JPG](/image/jpeg/) - Íomhá JPEG
+ * [PNG](/image/png/) - Grafaic Líonra Inaistrithe
+ * [GIF](/image/gif/) - Formáid Idirmhalartaithe Ghrafaigh
  * [EPS](/page-description-language/eps/) - Encapsulated PostScript
  * [SVG](/page-description-language/svg/) - Scalable Vector Graphics
- * [TIFF] (/image/tiff/) - Clibeáil Íomhá File Formáid
+ * [TIFF](/image/tiff/) - Clibeáil Íomhá File Formáid
  * TGA - Targa Grafach
  * EXR - Íomhá OpenEXR
- * [HDR] (/image/hdr/) - Íomhá Raon Dinimiciúla Ard
+ * [HDR](/image/hdr/) - Íomhá Raon Dinimiciúla Ard
 
 ## Tagairtí
 

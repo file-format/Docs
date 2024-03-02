@@ -117,7 +117,7 @@ Mar shampla, sonraíonn `memSize=8192` i gcomhad VMX gurb é 8192MB RAM an teora
 D’fhéadfadh go n-áireofaí i bhformáid comhaid VMX tráchtanna freisin, arna sonrú ag comhartha punt (#) ag tús na líne, a dtugann bogearraí VMware neamhaird orthu agus an comhad á pharsáil. Is minic a úsáidtear tuairimí chun faisnéis nó mínithe breise a sholáthar do shuíomhanna sonracha.
 
 ## Tagairtí
-* [Comhad VMX Sampla] ( https://www.vmware.com/pdf/vsp_4_vmdirectpath_host.pdf)
+* [Comhad VMX Sampla](https://www.vmware.com/pdf/vsp_4_vmdirectpath_host.pdf)
 
 
 

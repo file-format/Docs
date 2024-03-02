@@ -35,7 +35,7 @@ Tá API foinse oscailte ar fáil ar féidir iad a úsáid chun comhaid M4S a lé
 
  * [libdash](https://github.com/bitmovin/libdash) - .NET API le haghaidh comhaid M4S
  * [dash.js](https://github.com/Dash-Industry-Forum/dash.js ) - Cliant javascript le haghaidh comhad M4S
- * [Téigh chuig an Leabharlann chun Comhaid Dash a chruthú] (https://github.com/zencoder/go-dash)
+ * [Téigh chuig an Leabharlann chun Comhaid Dash a chruthú](https://github.com/zencoder/go-dash)
 
 ### Foinse Oscailte API chun M4S a thiontú go MP4
 

@@ -42,7 +42,7 @@ Is féidir leis an bhformáid HEIF na cineálacha íomhánna agus sonraí seo a 
  * Íomhánna aonair agus mionsamhlacha íomhá
  * Seichimh íomhánna
  * Treoracha iar-phróiseála
- * Meiteashonraí íomhá, amhail sonraí [EXIF] (/image/exif/).
+ * Meiteashonraí íomhá, amhail sonraí [EXIF](/image/exif/).
 
 Soláthraíonn formáid íomhá HEIF cumas roinnt formáidí éagsúla íomhá lena n-áirítear [JPEG](/image/jpeg/), [PNG](/image/png/), agus [GIF](/image/gif/) gan aon dochar a dhéanamh ar cháilíocht na híomhá.
 

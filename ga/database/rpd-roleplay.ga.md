@@ -57,6 +57,6 @@ HKEY_CURRENT_USER\SOFTWARE\RoleplayDesigner
 
 ## Tagairtí
 
-* [Bogearraí Dearthóir Rólghlacadh] (#roleplay-designer-soft)
+* [Bogearraí Dearthóir Rólghlacadh](#roleplay-designer-soft)
 
 

@@ -41,8 +41,8 @@ Is féidir doiciméid LEATHANACH Apple a thiontú go formáidí comhaid éagsúl
  * Microsoft Word [DOC](/word-processing/doc/) agus [DOCX](/word-processing/docx/)
  * [PDF](/pdf/)
  * [EPUB](/ebook/epub/)
- * [RTF](/próiseáil focal/rtf/)
- * [TXT](/próiseáil focal/txt/)
+ * [RTF](/word-processing/rtf/)
+ * [TXT](/word-processing/txt/)
 
 ## Tagairtí
 

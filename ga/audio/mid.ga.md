@@ -40,7 +40,7 @@ The first instrument, the Roland Jupiter-6 and the Prophet 600, were introduced 
  * Beag i méid - go minic chomh beag le 10 KB le haghaidh athsheinm aon nóiméad
  * Is féidir nóta, luas, agus tuinairde a choigeartú le haghaidh feidhmíochta inmhianaithe
  * Tá trí chuid ann - an cónascaire fisiceach, formáid na teachtaireachta agus an fhormáid stórála
- * Is féidir é a thiontú go MP3, WAV, WMA, FLAC, OGG, [AAC] (/ fuaime / aac/), MPC ar Windows trí Iomlán Fuaime Tiontaire.
+ * Is féidir é a thiontú go MP3, WAV, WMA, FLAC, OGG, AAC, MPC ar Windows trí Iomlán Fuaime Tiontaire.
 
 ## Tagairtí
 

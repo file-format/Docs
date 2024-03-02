@@ -46,7 +46,7 @@ Sainmhíníonn glTF sócmhainní mar chomhaid JSON le sonraí seachtracha tacaí
 * Full scene description contained in a JSON-formatted .glTF file that includes information about node hierarchy, materials, cameras, as well as descriptor information for meshes, animations and other constructs
 * Comhaid dhénártha (.bin) ina bhfuil sonraí céimseata agus beochana, agus sonraí eile atá bunaithe ar mhaoláin
 
-* Comhaid íomhá ([.jpg] (/image/jpeg/), [.png] (/image/png/)) le haghaidh uigeachtaí
+* Comhaid íomhá ([.jpg](/image/jpeg/), [.png](/image/png/)) le haghaidh uigeachtaí
 
 
 Stóráiltear aon sócmhainní seachtracha ar nós íomhánna i gcomhaid sheachtracha a ndéantar tagairt dóibh trí URI. Stóráiltear na URIanna seo taobh leis an gcoimeádán GLB nó leabaítear iad go díreach isteach sa JSON ag baint úsáide as URIanna sonraí. Ní mór do gach glTF bailí a leagan a shonrú.

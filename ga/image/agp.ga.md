@@ -29,6 +29,6 @@ Sábháladh comhaid AGP i bhformáid comhaid dílseánaigh ArtGem. Níl strucht�
 
 ## Tagairtí
 
-* [Formáid Comhaid JPEG] (/image/jpeg/)
+* [Formáid Comhaid JPEG](/image/jpeg/)
 
 

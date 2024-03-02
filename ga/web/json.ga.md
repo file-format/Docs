@@ -91,8 +91,8 @@ Is formáid comhaid choitianta eile é **XML** chun sonraí a mhalartú ar an id
  * **Cad chuige a n-úsáidtear comhad JSON?** Is féidir formáid comhaid JSON a úsáid mar fhormáid comhaid idirmheánach chun sonraí a ghintear a stóráil, mar shampla ó fhoirm a chuirtear isteach ar shuíomh Gréasáin. Úsáidtear é freisin mar chomhad formáid sonraí d’aon teanga ríomhchlárúcháin agus soláthraíonn sé idir-inoibritheacht idir cineálacha éagsúla sonraí.
  * **An ionann comhad JSON agus XML?** Ní hea i ndáiríre. Tá difríocht idir JSON agus XML sa mhéid is go bhfuil JSON níos giorra, gur féidir é a léamh agus i gceart go tapa, in ann eagair a úsáid agus ní úsáideann sé clib deiridh.
  * **Can I convert JSON to CSV?** Yes, there are certain online converter apps such as **GroupDocs Conversion apps** that can [convert JSON to CSV](https://products.groupdocs.app/conversion/json-to-csv).
- * **Conas JSON a Thiontú go PDF?** Is féidir leat aipeanna ar líne a úsáid mar Asopse.app for Cells chun [comhad JSON a thiontú go PDF](https://products.aspose.app/cells/conversion/json-to- pdf).
- * **Conas comhad JSON a oscailt i Word?** Is féidir leat aipeanna ar líne a úsáid mar Aspose.app for Words chun [comhad JSON a thiontú go Word] (Formáid JSON a thiontú go WORD in Android trí Java).
+ * **Conas JSON a Thiontú go PDF?** Is féidir leat aipeanna ar líne a úsáid mar Asopse.app for Cells chun [comhad JSON a thiontú go PDF](https://products.aspose.app/cells/conversion/json-to-pdf).
+ * **Conas comhad JSON a oscailt i Word?** Is féidir leat aipeanna ar líne a úsáid mar Aspose.app for Words chun comhad JSON a thiontú go Word.
 
 ## An raibh a fhios agat?
 

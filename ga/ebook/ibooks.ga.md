@@ -35,7 +35,7 @@ Mar fhormáid comhaid ríomhleabhair, bunaíodh formáid comhaid iBooks ar ghlé
 * Is féidir leabhair a choinnítear mar chomhaid iBooks a bheith ar fáil ar iTunes ansin d’úsáideoirí de gach cineál gléasanna Apple le híoslódáil agus le léamh
 * Go príomha, baineann formáid iBooks úsáid as an bhformáid iBooks 2 agus ní raibh sé in úsáid ach chun téacsleabhair a chruthú
 * Fós féin, sa lá atá inniu ann úsáidtear é chun gach cineál leabhar digiteach a ghiniúint, ní hamháin cinn oideachais
- *  Tacaíonn sé le formáidí [EPUB] (/ ebook/epub/) agus [PDF] (/ pdf/), agus is féidir an aip iBooks ar fheiste iOS nó Mac atá ag rith OS 10.9 nó níos luaithe a úsáid chun iad a léamh
+ *  Tacaíonn sé le formáidí [EPUB](/ebook/epub/) agus [PDF](/pdf/), agus is féidir an aip iBooks ar fheiste iOS nó Mac atá ag rith OS 10.9 nó níos luaithe a úsáid chun iad a léamh
  *  Cuireann Apple ardán iBooks Author ar fáil chun iBooks a chruthú. Ceadaíonn Údar iBooks d'úsáideoirí iBooks a chruthú ag baint úsáide as an gcaighdeán uathúil il-dteagmháil EPUB Apple-amháin
 
 ## Stair Ghearr ##

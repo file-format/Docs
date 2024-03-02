@@ -98,13 +98,13 @@ Tá neart na n-imreoirí meáin agus eagarthóirí físeán bogearraí ar fáil 
 
 Is féidir le roinnt imreoirí meán agus eagarthóirí físeáin, lena n-áirítear seinnteoir meáin VideoLAN VLC agus Eltima Elmedia Player, comhaid MOV a thiontú go formáidí eile. Is féidir leis na bogearraí seo comhaid MOV a thiontú go formáidí físeáin a leanas.
 
- * Físeán MPEG-4 - [MP4] (/físeán/mp4/)
+ * Físeán MPEG-4 - [MP4](/video/mp4/)
  * Físeán WebM - [WEBM](/video/webm/)
- * Sruth Físiompair - [TS](/fístéip/ts/)
+ * Sruth Físiompair - [TS](/video/ts/)
  * Formáid Ardchórais - [ASF](/video/ts/)
  * Fuaime Ogg Vorbis - [OGG](/audio/ogg/)
- * Fuaime MP3 - [MP3] (/audio/mp3/)
- * Codec Fuaime Gan Chailliúint Saor in Aisce - [FLAC](/audio/ flac/)
+ * Fuaime MP3 - [MP3](/audio/mp3/)
+ * Codec Fuaime Gan Chailliúint Saor in Aisce - [FLAC](/audio/flac/)
  * Fuaime WAVE - [WAV](/audio/wav/)
 
 ## Open Source API le haghaidh Comhaid MOV

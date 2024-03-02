@@ -73,7 +73,7 @@ Tosaíonn an ceanntásc le focal draíochta 4-bheart **!BDN** arna léiriú ag b
 |bidNextP (Unicode: 8 bytes; ANSI: 4 bytes)|An chéad leathanach eile CFG. Tá cuntar speisialta ag leathanaigh chun luachanna bidIndex a leithdháileadh. Leithdháiltear luach bidIndex le haghaidh CFGanna do leathanaigh ón gcuntar seo.
 |bidNextB     (4 bytes ANSI only): |Next BID. This value is the monotonic counter that indicates the BID to be assigned for the next allocated block. BID values advance in increments of 4. Le haghaidh tuilleadh sonraí, féach cuid 2.2.2.2.
 |dwUnique (4 byte)|Is luach é seo a mhéadaíonn go mona-tonach agus a athraítear gach uair a athraítear struchtúr HEADER an chomhaid PST. Is é feidhm an luacha seo luach uathúil a sholáthar, agus a chinntiú go bhfuil na CRCanna HEADER difriúil tar éis gach modhnú ceannteidil.
-|rgnid[] (128 beart)|Eagar seasta de 32 NID, gach ceann ag freagairt do cheann amháin de na 32 NID_TYPE (NID_TYPE, NID_TYPE_NORMAL_FOLDER, NID_TYPE_SEARCH_FOLDER, NID_TYPE_NORMAL_MESSAGE, NID_TYPE_ASSAGE)
+|rgnid[](128 beart)|Eagar seasta de 32 NID, gach ceann ag freagairt do cheann amháin de na 32 NID_TYPE (NID_TYPE, NID_TYPE_NORMAL_FOLDER, NID_TYPE_SEARCH_FOLDER, NID_TYPE_NORMAL_MESSAGE, NID_TYPE_ASSAGE)
 |qwUnused (8 beart)|Spás gan úsáid; NÍ MÓR a shocrú go nialas. Formáid comhaid Unicode PST amháin.
 |fréamh (Unicode: 72 beart; ANSI: 40 beart) | Struchtúr Fréamh (Roinn 2.2.2.5).
 |dwAilíniú (4 beart)|Bearta ailínithe neamhúsáidte; NÍ MÓR a shocrú go nialas. Formáid comhaid Unicode PST amháin.

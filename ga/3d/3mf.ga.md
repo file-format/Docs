@@ -41,7 +41,7 @@ Is formáid sonraí XML-bhunaithe é 3MF – XML comhbhrúite atá inléite ag a
 
 * ** Críochnaigh:** An fhaisnéis riachtanach ar fad faoi mhúnla, ábhar agus maoin a bheith i gcartlann amháin
 
-* **Inléite ag an duine:** Ag baint úsáide as struchtúir choiteanna ar nós OPC, [ZIP] (/compression/zip/), agus XML chun forbairt a éascú
+* **Inléite ag an duine:** Ag baint úsáide as struchtúir choiteanna ar nós OPC, [ZIP](/compression/zip/), agus XML chun forbairt a éascú
 
 * **Simplí:** Sonraíocht ghearr, shoiléir, a fhágann go bhfuil an fhorbairt éasca agus bailíochtaithe go tapa
 

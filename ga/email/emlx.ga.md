@@ -108,8 +108,7 @@ Sa sampla seo, taispeánann an 875 fad iomlán na teachtaireachta. Tá meiteasho
 
 ## Féach freisin ##
 
-* [EML](/ríomhphost/eml/)
-
-* [MSG](/ríomhphost/msg/)
+* [EML](/email/eml/)
+* [MSG](/email/msg/)
 
 

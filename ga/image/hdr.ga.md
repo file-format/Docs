@@ -37,8 +37,8 @@ Tá na trí chuid seo a leanas i gcomhad íomhá HDR:
 
 ## API Foinse Oscailte HDR/HDRI
 
- * **[imageinfo](https://github.com/xiaozhuai/imageinfo)** - Leabharlann ceanntásca singil sár-ghasta tras-ardán [C++] (/programming/cpp/) chun méid agus formáid na híomhá a fháil gan lódáil/díchódú.
- * **[imgaeinfo-rs](https://github.com/xiaozhuai/imageinfo-rs)** - Leabharlann meirge chun méid agus formáid na híomhá a fháil gan lódáil/díchódú. Tacaíonn [.avif] (/image/avif/), [.bmp] (/image/bmp/), [.cur] (/image/cur/), [.dds](/image/dds/), [ .gif](/image/gif/), hdr (pictiúr), [heic (heif)](/image/heic/), [.icns](/image/icns/), [.ico](/image/ ico/), [.jp2](/image/jp2/), [jpeg (jpg)](/image/jpeg/), [jpx](/image/jpx/), ktx, [png](/image/ png/), [psd] (/image/psd/), qoi, tga, tiff (tif), agus webp.
+ * **[imageinfo](https://github.com/xiaozhuai/imageinfo)** - Leabharlann ceanntásca singil sár-ghasta tras-ardán [C++](/programming/cpp/) chun méid agus formáid na híomhá a fháil gan lódáil/díchódú.
+ * **[imgaeinfo-rs](https://github.com/xiaozhuai/imageinfo-rs)** - Leabharlann meirge chun méid agus formáid na híomhá a fháil gan lódáil/díchódú. Tacaíonn [.avif](/image/avif/), [.bmp](/image/bmp/), [.cur](/image/cur/), [.dds](/image/dds/), [ .gif](/image/gif/), hdr (pictiúr), [heic (heif)](/image/heic/), [.icns](/image/icns/), [.ico](/image/ico/), [.jp2](/image/jp2/), [jpeg (jpg)](/image/jpeg/), [jpx](/image/jpx/), ktx, [png](/image/png/), [psd](/image/psd/), qoi, tga, tiff (tif), agus webp.
  * **[HdrHistogram](https://github.com/HdrHistogram/HdrHistogram)** - cur i bhfeidhm Java ar HdrHistogram.
 
 ## Tagairtí

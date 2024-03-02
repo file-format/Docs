@@ -40,7 +40,7 @@ Sábháiltear comhaid JXL mar chomhaid dhénártha agus is féidir iad a oscailt
 
 Is féidir comhaid JXL a thiontú go roinnt formáidí comhaid íomhá eile mar:
 
- * [. JPEG] (/image/jpeg/) - Íomhá JPEG
+ * [. JPEG](/image/jpeg/) - Íomhá JPEG
  * [.GIF ](/image/gif/) - Formáid Acomhal Grafach
  * [.PNG](/image/png/) - Grafach Líonra Inaistrithe
  * [.TIFF](/image/tiff/) - Clibeáil Íomhá File Formáid

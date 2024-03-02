@@ -27,6 +27,6 @@ Déantar comhaid GMD a shábháil i bhformáid dhénártha comhaid agus níl a s
 
 ## Tagairtí
 
-* [Déantóir Cluiche] ( https://gamemaker.io/ga)
+* [Déantóir Cluiche](https://gamemaker.io/ga)
 
 

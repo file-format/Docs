@@ -25,7 +25,7 @@ Is comhad teimpléid leathanach gréasáin é comhad le síneadh .dwt a cruthaí
 
 Déantar comhaid DWT a fhorbairt agus a shábháil mar chomhaid gnáth-théacs. Is féidir iad seo a oscailt in Dreamweaver nó in aon eagarthóir téacs, agus is féidir iad a chur in eagar le haghaidh athruithe a theastaíonn. Nuashonraíonn bogearraí Dreamweaver an Chomhéadain de réir mar a chuirtear athruithe i bhfeidhm agus is féidir leis an úsáideoir éifeacht na n-athruithe a fheiceáil go radhairc i gcomhéadan úsáideora an fheidhmchláir.
 
-Aon uair a shábhálann tú an leathanach [HTML] (/ web / html /) mar chomhad teimpléid, cruthaíonn Dreamweaver fillteán teimpléad ag bunleibhéal an fhillteáin fhréamh áitiúil. Tá an nasc briste má bhogtar an comhad .dwt ón bhfillteán Teimpléid nó má athainmnítear é. Mar sin, tá sé tábhachtach na comhaid .dwt a choinneáil san fhillteán Teimpléid ina gcruthaíonn Dreamweaver é. Is fearr gnéithe eile de do shuíomh a choinneáil, mar shampla comhaid foinse íomhá nó doiciméid HTML, ag láthair seachas an fillteán Teimpléid.
+Aon uair a shábhálann tú an leathanach [HTML](/web/html/) mar chomhad teimpléid, cruthaíonn Dreamweaver fillteán teimpléad ag bunleibhéal an fhillteáin fhréamh áitiúil. Tá an nasc briste má bhogtar an comhad .dwt ón bhfillteán Teimpléid nó má athainmnítear é. Mar sin, tá sé tábhachtach na comhaid .dwt a choinneáil san fhillteán Teimpléid ina gcruthaíonn Dreamweaver é. Is fearr gnéithe eile de do shuíomh a choinneáil, mar shampla comhaid foinse íomhá nó doiciméid HTML, ag láthair seachas an fillteán Teimpléid.
 
 ## Faoi Dreamweaver
 

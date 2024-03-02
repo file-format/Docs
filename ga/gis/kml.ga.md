@@ -188,7 +188,7 @@ Is féidir le bríonna éagsúla a bheith ag faisnéis atá in aon chomhad Geosp
 
 ## Tagairtí ##
 
-* [Tagairt KML] ( https://developers.google.com/kml/documentation/kmlreference )
+* [Tagairt KML](https://developers.google.com/kml/documentation/kmlreference )
 
 * [Teagasc Forbróra Google le haghaidh KML](https://developers.google.com/kml/documentation/kml_tut)
 

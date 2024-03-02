@@ -36,7 +36,5 @@ Is féidir comhaid ALF a oscailt le bogearraí SwiftPage ACT ar Windows OS.
 Déantar comhaid ALF a shábháil mar chomhaid dhénártha agus níl a bhformáid inmheánach comhaid ar fáil.
 
 ## Tagairtí
-
-* [ACHT! ADF](/bunachar sonraí/adf/)
-
+* [ACT! ADF](/database/adf/)
 
