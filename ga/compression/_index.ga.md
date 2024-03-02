@@ -11,7 +11,7 @@
   "menu" : {
     "docs" : {
       "parent" : "compression",
-"meáchan:01"
+"weight" : "01"
 }
 },
   "lastmod" : "2020-01-26"

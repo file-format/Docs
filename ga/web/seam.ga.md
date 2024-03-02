@@ -10,7 +10,6 @@
   "linktitle": "SEAM",
   "menu": {
     "docs": {
-"aitheantóir: léim gréasáin",
       "parent": "web",
       "identifier": "web-sea-gam"
 }

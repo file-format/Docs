@@ -12,7 +12,7 @@
   "menu" : {
     "docs" : {
       "parent" : "visio",
-"meáchan:01"
+"weight" : "01"
 }
 },
   "lastmod" : "2022-01-16"

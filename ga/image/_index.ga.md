@@ -12,7 +12,7 @@
   "menu" : {
     "docs" : {
       "parent" : "image",
-"meáchan:01"
+"weight" : "01"
 }
 },
   "lastmod" : "2019-09-10"

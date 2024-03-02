@@ -10,7 +10,7 @@
   "menu" : {
     "docs" : {
       "parent" : "plugin",
-"meáchan:01"
+"weight" : "01"
 }
 },
   "lastmod" : "2023-11-08"

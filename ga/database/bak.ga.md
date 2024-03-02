@@ -53,7 +53,7 @@ Is éard atá i gcomhad MTF roinnt gnéithe bunúsacha a chomhdhéanann a bloic 
  * `Sonraí an Chórais Oibriúcháin` - Sonraí sonracha a shainmhínítear bunaithe ar chineál na gcóras DBLK agus Oibriúcháin
  * `Faisnéis DBLK` - Faisnéis shainiúil DBLK ar fhad athraitheach nach féidir a shábháil leis an bhfaisnéis DBLK Fad Seasta.
 
-{{< figure src = ../bak.png alt=Formáid Comhaid Chúltaca Microsoft SQL> }}
+{{< figure src="../bak.png" alt="Microsoft SQL Backup File Format" >}}
 
 #### Sruth Sonraí
 

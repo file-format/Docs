@@ -10,7 +10,6 @@
   "linktitle": "RML",
   "menu": {
     "docs": {
-"aitheantais: cad-rml",
       "parent": "cad",
       "identifier": "cad-rm-gal"
 }

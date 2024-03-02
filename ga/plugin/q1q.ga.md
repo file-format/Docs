@@ -25,7 +25,7 @@ Is comhad breiseán Photoshop é comhad .q1q arna fhorbairt ag Flaming Pear Soft
 
 Déantar comhaid breiseán Q1Q a shábháil i bhformáid comhaid dílseánaigh Flaming Pear agus níl a sonraí formáid comhaid inmheánacha ar fáil go poiblí. Taispeánann an íomhá seo a leanas Comhéadan Úsáideora an bhreiseáin Q1Q nuair a luchtaítear é i Photoshop.
 
-{{<figure src=../q1q.png alt=LunarCell PluginFile Format > }}
+{{<figure src="../q1q.png" alt="LunarCell PluginFile Format" >}}
 
 ## Conas Comhad Q1Q a Oscailt?
 
