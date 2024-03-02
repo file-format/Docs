@@ -25,6 +25,3 @@ DCX-tiedosto on kuvatiedosto, joka koostuu useista sivuista digitaalisten faksit
 
 * [PCX - Wikipedia](https://en.wikipedia.org/wiki/PCX)
 
-* [ZSoft PCX File Format Technical Reference Manual](http://qzx.com/pc-gpe/pcx.txt)
-
-

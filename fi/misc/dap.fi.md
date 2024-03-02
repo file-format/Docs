@@ -22,9 +22,3 @@
 DAP-tiedosto on Download Accelerator Plus (DAP) -tiedoston luoma lataus käynnissä. Se luodaan, kun käyttäjät aloittavat latauksen mistä tahansa online-tiedostovarastosta DAP-ohjelmiston avulla. DAP tarjoaa mahdollisuuden keskeyttää ja jatkaa käynnissä olevaa latausta. Tätä tarkoitusta varten se tallentaa osittain ladatun tiedoston .dap-tunnisteella, kunnes se on ladattu kokonaan. DAP-tiedostoa voi esikatsella latausprosessin aikana.
 
 DAP-tiedostot voidaan avata SpeedBit Download Accelerator Plus (DAP) -ohjelmistolla.
-
-## Viitteet
-
-* [DAP-ohje - Hallitse tallennuskansioita](http://www.speedbit.com/dap-help/download-accelerator-file-manager/)
-
-

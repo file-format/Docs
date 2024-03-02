@@ -110,6 +110,4 @@ end
 - sovellus/x-ruby.
 
 ## Viitteet
-* [Ruby (ohjelmointikieli)](https://en.wikipedia.org/wiki/Ruby_(ohjelmointikieli))
-
-
+* [Ruby (programming language)](https://en.wikipedia.org/wiki/Ruby_(programming_language))

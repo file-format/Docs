@@ -63,9 +63,5 @@ Tässä on luettelo joistakin IWork Numbersin tarjoamista tärkeimmistä ominais
 
 ## Viitteet ##
 
-* [Numerot (laskentataulukko) - Wikipedia](https://en.wikipedia.org/wiki/Numbers_(laskentataulukko))
-
+* [Numbers (spreadsheet) - Wikipedia](https://en.wikipedia.org/wiki/Numbers_(spreadsheet))
 * [Numerot herättävät tietosi eloon](https://www.apple.com/numbers/)
-
-
-

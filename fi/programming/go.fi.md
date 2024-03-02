@@ -80,6 +80,4 @@ func main() {
 
 ## Viite ##
 
-* [GO - Wikipedia](https://en.wikipedia.org/wiki/Go_(ohjelmointikieli))
-
-
+* [GO - by Wikipedia](https://en.wikipedia.org/wiki/Go_(programming_language))

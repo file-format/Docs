@@ -37,8 +37,5 @@ GMAP-tiedostot tallennetaan levylle binääritiedostoina, eivätkä niiden sisä
 
 ## Viitteet
 
-* [Garminin tukemat tiedostotyypit](https://www8.garmin.com/manuals/webhelp/basecamppc/FI-US/GUID-43E0D8E9-E720-4895-827E-530751793EF3.html)
-
+* [Garmin Supported File Types](https://www8.garmin.com/manuals/webhelp/basecamppc/EN-US/GUID-43E0D8E9-E720-4895-827E-530751793EF3.html)
 * [GML - Wikipedia](https://en.wikipedia.org/wiki/Geography_Markup_Language)
-
-

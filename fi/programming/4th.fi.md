@@ -63,5 +63,5 @@ Tämä johtaisi ulostuloon 3628800, joka on kertoimella 10.
 
 ## Viitteet
 
- * [Forth Programming Language](https://en.wikipedia.org/wiki/Forth_(ohjelmointikieli))
+ * [Forth Programming Language](https://en.wikipedia.org/wiki/Forth_(programming_language))
 

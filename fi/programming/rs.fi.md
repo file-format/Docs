@@ -84,8 +84,4 @@ fn main() {
 
 ## Viite ##
 
-* [RS - Wikipedia](https://en.wikipedia.org/wiki/Rust_(ohjelmointikieli))
-
-
-
-
+* [RS - by Wikipedia](https://en.wikipedia.org/wiki/Rust_(programming_language))

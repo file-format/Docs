@@ -29,7 +29,7 @@
 
 ## Mikä on RTF-tiedosto?
 
-Microsoftin esittelemä ja dokumentoima Rich Text Format (**RTF**) edustaa tapaa koodata muotoiltua tekstiä ja grafiikkaa sovelluksissa käytettäväksi. Muoto mahdollistaa eri alustojen välisen asiakirjojen vaihdon muiden Microsoft-tuotteiden kanssa, mikä palvelee yhteentoimivuuden tarkoitusta. Tämä ominaisuus tekee siitä standardin tiedonsiirrossa tekstinkäsittelyohjelmistojen välillä, ja siten sisältöä voidaan siirtää käyttöjärjestelmästä toiseen menettämättä asiakirjan muotoilua. Tiedostomuotomääritykset ovat Microsoftin saatavilla julkisesti [download](https://interoperability.blob.core.windows.net/files/Archive_References/%5bMSFT-RTF%5d.pdf), ja niihin voidaan viitata kehittäjän näkökulmasta.
+Microsoftin esittelemä ja dokumentoima Rich Text Format (**RTF**) edustaa tapaa koodata muotoiltua tekstiä ja grafiikkaa sovelluksissa käytettäväksi. Muoto mahdollistaa eri alustojen välisen asiakirjojen vaihdon muiden Microsoft-tuotteiden kanssa, mikä palvelee yhteentoimivuuden tarkoitusta. Tämä ominaisuus tekee siitä standardin tiedonsiirrossa tekstinkäsittelyohjelmistojen välillä, ja siten sisältöä voidaan siirtää käyttöjärjestelmästä toiseen menettämättä asiakirjan muotoilua. Tiedostomuotomääritykset ovat Microsoftin saatavilla julkisesti download, ja niihin voidaan viitata kehittäjän näkökulmasta.
 
 ## RTF-tiedostomuodon ## lyhyt historia
 
@@ -79,7 +79,7 @@ Ryhmä voi koostua tekstistä, ohjaussanoista tai ohjaussymboleista aaltosulkeis
 
 RTF-tiedostolla on seuraava vakiosyntaksi:
 
-Microsoftin esittelemä ja dokumentoima Rich Text Format (**RTF**) edustaa tapaa koodata muotoiltua tekstiä ja grafiikkaa sovelluksissa käytettäväksi. Muoto mahdollistaa eri alustojen välisen asiakirjojen vaihdon muiden Microsoft-tuotteiden kanssa, mikä palvelee yhteentoimivuuden tarkoitusta. Tämä ominaisuus tekee siitä standardin tiedonsiirrossa tekstinkäsittelyohjelmistojen välillä, ja siten sisältöä voidaan siirtää käyttöjärjestelmästä toiseen menettämättä asiakirjan muotoilua. Tiedostomuotomääritykset ovat Microsoftin saatavilla julkisesti [download](https://interoperability.blob.core.windows.net/files/Archive_References/%5bMSFT-RTF%5d.pdf), ja niihin voidaan viitata kehittäjän näkökulmasta.
+Microsoftin esittelemä ja dokumentoima Rich Text Format (**RTF**) edustaa tapaa koodata muotoiltua tekstiä ja grafiikkaa sovelluksissa käytettäväksi. Muoto mahdollistaa eri alustojen välisen asiakirjojen vaihdon muiden Microsoft-tuotteiden kanssa, mikä palvelee yhteentoimivuuden tarkoitusta. Tämä ominaisuus tekee siitä standardin tiedonsiirrossa tekstinkäsittelyohjelmistojen välillä, ja siten sisältöä voidaan siirtää käyttöjärjestelmästä toiseen menettämättä asiakirjan muotoilua. Tiedostomuotomääritykset ovat Microsoftin saatavilla julkisesti download, ja niihin voidaan viitata kehittäjän näkökulmasta.
 
 #### RTF-otsikko ####
 
@@ -144,8 +144,4 @@ Jokaisen RTF-dokumentin lopussa on oltava }, jolloin ryhmä sulkeutuu asiakirjan
 
 ## Viitteet ##
 
-* [RTF 1.9.1:n tekniset tiedot](https://interoperability.blob.core.windows.net/files/Archive_References/%5bMSFT-RTF%5d.pdf)
-
 * [Rich Text Format](https://en.wikipedia.org/wiki/Rich_Text_Format)
-
-

@@ -33,7 +33,7 @@ Tiedosto, jonka tunniste on .qt, on multimediasäilötiedosto, jota QuickTime-ke
 
 ## QT-tiedostomuoto
 
-QTFF on oliopohjainen, joka paljastaa joustavan objektikokoelman jäsentämisen ja laajentamisen helpottamiseksi. Jokainen QT-tiedoston raita sisältää digitaalisesti koodatun mediavirran tai dataviittauksen toisessa tiedostossa olevaan mediavirtaan. Hierarkkinen tietorakenne, joka koostuu atomeiksi kutsutuista objekteista, toimii seurantasäiliöinä. Apple Inc. on virallisesti saatavilla [QT file format](https://developer.apple.com/library/archive/documentation/QuickTime/QTFF/QTFFPreface/qtffPreface.html):n tiedostomuotomääritykset kehittäjälle.
+QTFF on oliopohjainen, joka paljastaa joustavan objektikokoelman jäsentämisen ja laajentamisen helpottamiseksi. Jokainen QT-tiedoston raita sisältää digitaalisesti koodatun mediavirran tai dataviittauksen toisessa tiedostossa olevaan mediavirtaan. Hierarkkinen tietorakenne, joka koostuu atomeiksi kutsutuista objekteista, toimii seurantasäiliöinä. Apple Inc. on virallisesti saatavilla [QT file format](https://developer.apple.com/documentation/quicktime-file-format):n tiedostomuotomääritykset kehittäjälle.
 
 ### Media description
 
@@ -65,8 +65,7 @@ Seuraava pala sijaitsee offsetissa 32+8#40 (heksa: 28) ja sen koko on 3 263 028 
 
 ## Viitteet ##
 
-* [QT-tiedostomuoto – Apple Inc.](https://developer.apple.com/library/archive/documentation/QuickTime/QTFF/QTFFPreface/qtffPreface.html)
-
+* [QT-tiedostomuoto – Apple Inc.](https://developer.apple.com/documentation/quicktime-file-format)
 * [QuickTime-tiedostomuoto - Wikipedia](https://en.wikipedia.org/wiki/QuickTime_File_Format)
 
 

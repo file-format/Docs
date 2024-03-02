@@ -107,8 +107,4 @@ class BaseVector {
 
 ## Viite ##
 
-* [NUT - Wikipedia](https://en.wikipedia.org/wiki/Squirrel_(ohjelmointikieli))
-
-
-
-
+* [NUT - by Wikipedia](https://en.wikipedia.org/wiki/Squirrel_(programming_language))

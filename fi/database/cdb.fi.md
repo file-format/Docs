@@ -66,8 +66,5 @@ Komento **cdbmake** voi kirjoittaa koko tietokannan uudelleen kahteen suuruusluo
 
 ## Viitteet ##
 
-* [cdb (ohjelmisto) - Wikipedia](https://en.wikipedia.org/wiki/Cdb_(ohjelmisto))
-
+* [cdb (software) - Wikipedia](https://en.wikipedia.org/wiki/Cdb_(software))
 * [CDB-määritys](http://cr.yp.to/cdb.html)
-
-

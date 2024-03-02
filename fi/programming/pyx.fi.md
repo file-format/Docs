@@ -25,5 +25,5 @@ PYX-tiedostot ovat pelkkiä tekstitiedostoja ja niiden syntaksi on hyvin lähell
 ## Viitteet
 
  * [Python Wiki](https://wiki.python.org/moin/Pyrex)
- * [Python (ohjelmointikieli) - Wikipedia](https://en.wikipedia.org/wiki/Python_(ohjelmointikieli))
+ * [Python (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))
 

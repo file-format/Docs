@@ -39,6 +39,6 @@ ASV-tiedostot tallennetaan binääritiedostomuodossa, eikä niiden sisältö ole
 
 ## Viitteet
 
-* [Lataa ASV-tiedosto Adobe Photoshopissa](https://community.adobe.com/t5/photoshop-ecosystem-discussions/photoshop-asv-file-preset-wont-open/mp/12587356)
+* [Load ASV File in Adobe Photoshop](https://community.adobe.com/t5/photoshop-ecosystem-discussions/photoshop-asv-file-preset-wont-open/m-p/12587356)
 
 

@@ -33,6 +33,4 @@ SCM-tiedostot luodaan ja tallennetaan vain tekstimuodossa millä tahansa tekstie
 
 ## Viitteet
 
-* [Schema Programming - Wikipedia](https://en.wikipedia.org/wiki/Scheme_(ohjelmointikieli))
-
-
+* [Schema Programming - Wikipedia](https://en.wikipedia.org/wiki/Scheme_(programming_language))

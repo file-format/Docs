@@ -27,6 +27,5 @@ LGO-tiedostot tallennetaan omaan tiedostomuotoon, eikä niiden sisäistä tiedos
 
 ## Viite ##
 
-* [LUA – Wikipedia](https://en.wikipedia.org/wiki/Lua_(ohjelmointikieli))
-
+* [LUA - by Wikipedia](https://en.wikipedia.org/wiki/Lua_(programming_language))
 

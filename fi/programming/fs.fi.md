@@ -42,6 +42,5 @@ Ohjelmat, jotka avaavat FS-tiedostoja tai viittaavat niihin, sisältävät
 - **Microsoft Visual Studio 2022** (ilmainen) Windowsille
 
 ## Viitteet
-* [F Sharp (ohjelmointikieli)](https://en.wikipedia.org/wiki/F_Sharp_(ohjelmointikieli))
-
+* [F Sharp (programming language)](https://en.wikipedia.org/wiki/F_Sharp_(programming_language))
 

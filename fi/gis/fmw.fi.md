@@ -70,7 +70,5 @@ FMW-tiedostot tallennetaan levylle binääritiedostoina, ja niitä voidaan lukea
 
 ## Viitteet
 
-* [Safe Software FME Desktop](https://www.safe.com/fme/fme-desktop/)
-
+* [Safe Software FME Desktop](https://fme.safe.com/platform/)
 * [FMW Quick Facts](https://docs.safe.com/fme/html/FME_Desktop_Documentation/FME_ReadersWriters/fmw/quick_facts_fmw.htm)
-

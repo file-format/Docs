@@ -38,6 +38,6 @@ Jos haluat jakaa musiikkiasi muiden kanssa, Finale auttaa myös siinä. Voit tul
 Avaa MakeMusic Finale -ohjelma. Siirry sitten näytön yläreunassa olevaan valikkoon ja napsauta Tiedosto. Valitse sen jälkeen vaihtoehdoista Avaa.... Etsi MUSX -tiedosto tietokoneeltasi ja avaa se napsauttamalla sitä.
 
 ## Viitteet
-* [Finale (pisteentekijä)](https://en.wikipedia.org/wiki/Finale_(pisteentekijä))
+* [Finale (scorewriter)](https://en.wikipedia.org/wiki/Finale_(scorewriter))
 
 

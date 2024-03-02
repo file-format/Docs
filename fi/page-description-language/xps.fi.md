@@ -66,7 +66,7 @@ Nämä tiedostot säilyttävät asiakirjan sisällön siten, että jos esimerkik
 
 XPS-dokumenttimuoto sisältää hyvin määritellyn joukon osia ja suhteita, joista jokainen täyttää asiakirjassa tietyn tarkoituksen. Muoto laajentaa myös paketin ominaisuuksia, mukaan lukien digitaaliset allekirjoitukset, pikkukuvat ja lomitus.
 
-Tyypillinen XPS-asiakirja näyttää seuraavalta, ja sitä voidaan analysoida XPS-tiedostomuodon [specifications](https://www.ecma-international.org/activities/XML%20Paper%20Specification/XPS%20Standard.pdf) valossa.
+Tyypillinen XPS-asiakirja näyttää seuraavalta, ja sitä voidaan analysoida XPS-tiedostomuodon specifications valossa.
 
 {{< figure src="../XPS-2.png" alt="XPS tiedostomuoto" >}}
 

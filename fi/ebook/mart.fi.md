@@ -34,8 +34,3 @@ MART-tiedostot tunnetaan sähköisenä julkaisuna, jota MartView-ohjelmisto käy
 
 Martview'n eBook-muoto on patentoitu ja toimii kuvien säiliönä. Avoimen lähdekoodin muuntimien avulla e-kirjojen lukijat voivat muuntaa [PDF](/pdf/), [GIF](/image/gif/), [GIF](/image/gif/), [PNG](/image/png/), [RAR](/compression/rar/) ja [ZIP](/compression/zip/) asiakirjat Martview'n muotoon. Huomaa, että RAR- ja ZIP-tiedostojen tulee sisältää kuvia. MART-tiedostot voivat sopia hyvin yksittäisille tiedostoille, mutta jos sinulla on useita e-kirjoja eri muodoissa, et varmasti halua käyttää aikaa niiden muuntamiseen yhteen muotoon vain voidaksesi lukea ne e-kirjanlukijassa. .
 
-## Viitteet
-
-* [Martview, paras e-kirjojen lukija PDF-e-kirjoille](https://www.ghacks.net/2011/04/15/martview-best-ebook-reader-for-pdf-e-books/)
-
-

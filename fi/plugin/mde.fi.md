@@ -28,5 +28,4 @@ MDE-tiedosto luodaan kääntämällä VBA-koodia, lomakkeita, raportteja ja muit
 ## Viitteet
 
 * [Käyttöoikeustiedot](https://support.microsoft.com/en-us/office/access-specifications-0cf3c66f-9cf2-4e32-9568-98c1025bb47c)
-
-* [The Unofficial MDB Guide](http://jabakobob.net/mdb/)
+C:\Users\Family\Documents\Docs\fi\plugin\mde.fi.md

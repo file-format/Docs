@@ -37,5 +37,5 @@ PSPIMAGE-tiedostoja voidaan luoda uutena tiedostona PaintShop Prosta. Tasostoimi
 
 ## Viitteet
 
- * [PSPIMAGE Conversion](https://community.adobe.com/t5/photoshop-ecosystem-discussions/pspimage-conversion/mp/5288141)
+ * [PSPIMAGE Conversion](https://community.adobe.com/t5/photoshop-ecosystem-discussions/pspimage-conversion/m-p/5288141)
 

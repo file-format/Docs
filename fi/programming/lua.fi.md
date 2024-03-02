@@ -202,8 +202,4 @@ print(vec.y)
 
 ## Viite ##
 
-* [LUA - Wikipedia](https://en.wikipedia.org/wiki/Lua_(ohjelmointikieli))
-
-
-
-
+* [LUA - by Wikipedia](https://en.wikipedia.org/wiki/Lua_(programming_language))

@@ -76,5 +76,4 @@ Avoin lähdekoodi - Swift on avoin lähdekoodi, jossa on satoja Swift-yhteisön 
 
 ## Viitteet
  * [Swift – GitHub](https://github.com/apple/swift)
- * [Swift - Wikipedia](https://en.wikipedia.org/wiki/Swift_(ohjelmointikieli))
-
+ * [Swift - Wikipedia](https://en.wikipedia.org/wiki/Swift_(programming_language))

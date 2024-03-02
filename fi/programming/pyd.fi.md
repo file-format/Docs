@@ -32,5 +32,4 @@ PYD-tiedosto voidaan luoda luomalla moduuli, jonka nimi on esim. exmaple.pyd. TÃ
 ## Viitteet ##
 
  * [Python-laajennusten luominen C/C++:ssa](https://sebsauvage.net/python/mingw.html)
- * [Python (ohjelmointikieli) - Wikipedia](https://en.wikipedia.org/wiki/Python_(ohjelmointikieli))
-
+ * [Python (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))

@@ -25,8 +25,3 @@ Tiedosto, jonka pääte on .olm, on Microsoft Outlook -tiedosto Mac-käyttöjär
 
 OLM ovat binääritiedostoja, joiden MIME-tyyppi on Application/octet-stream. OLM-tiedostomuodon tekniset tiedot eivät ole saatavilla avoimesti Microsoftilta, eikä muototietoja ole saatavilla kehittäjän viitteeksi. Jotkut API:t voivat kuitenkin lukea OLM-tiedostomuotoa ja kirjoittaa ne PST-tiedostoon käytettäväksi Microsoft Windows -käyttöjärjestelmässä, kuten Aspose.Email.
 
-## Viitteet
-
-* [OLM-tiedostomuoto?](https://social.msdn.microsoft.com/Forums/office/en-US/4ce689ee-8fad-4362-a0eb-06382646a845/olm-file-format?forum=os_binaryfile)
-
-

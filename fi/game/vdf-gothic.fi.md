@@ -43,12 +43,10 @@ VDF-tiedostot avataan ja niihin viitataan seuraavilla ohjelmilla
 
 Tässä on muita tiedostotyyppejä, jotka käyttävät **.vdf**-tiedostotunnistetta.
 
-- {{HYPERLINKKI1}}
-- {{HYPERLINKKI1}}
-- {{HYPERLINKKI1}}
-- {{HYPERLINKKI1}}
+- [VDF - AntiVir Virus Definitions File](/data/vdf/)
+- [VDF - Valve Data File](/game/vdf/)
+- [VDF - Gothic Game Data File](/game/vdf-gothic/)
+- [VDF - VirtualDub Video Filter File](/plugin/vdf/)
 
 ## Viitteet
-* [Gothic (sarja)](https://en.wikipedia.org/wiki/Gothic_(sarja))
-
-
+* [Gothic (series)](https://en.wikipedia.org/wiki/Gothic_(series))

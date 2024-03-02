@@ -23,5 +23,5 @@ ML-tiedosto on tekstitiedosto, joka on luotu yleiskäyttöisellä toiminnallisel
 
 ## Viitteet
 
- * [ML-ohjelmointikieli – Wikipedia](https://en.wikipedia.org/wiki/ML_(ohjelmointikieli))
+* [ML Programming Language - By Wikipedia](https://en.wikipedia.org/wiki/ML_(programming_language))
 

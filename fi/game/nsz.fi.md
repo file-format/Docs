@@ -54,6 +54,4 @@ NSZ-tiedostoja avaaviin ohjelmiin kuuluu **nsz**-ohjelma, joka voi purkaa NSZ-ar
 - **nsz** (ilmainen) (Windows, Mac, Linux)
 
 ## Viitteet
-* [Yuzu-emulaattori](https://en.wikipedia.org/wiki/Yuzu_(emulaattori))
-
-
+* [Yuzu Emulator](https://en.wikipedia.org/wiki/Yuzu_(emulator))
