@@ -36,7 +36,4 @@ ALF-tiedostot voidaan avata SwiftPage ACT -ohjelmistolla Windows-käyttöjärjes
 ALF-tiedostot tallennetaan binääritiedostoina, eikä niiden sisäinen tiedostomuoto ole käytettävissä.
 
 ## Viitteet
-
-* [TOIMI! ADF](/tietokanta/adf/)
-
-
+* [ACT! ADF](/database/adf/)

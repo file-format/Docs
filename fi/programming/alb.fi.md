@@ -28,7 +28,5 @@ ALB-tiedostot voidaan avata **Alpha Software Alpha Anywhere** -sovelluksella.
 ALB-tiedostot tallennetaan Alpha File -tiedostomuodossa, eikä niiden sisäinen tiedostomuotorakenne ole saatavilla julkisesti. Nämä tallennetaan yleisen Alpha Five -kehittäjäkirjastotietokannan lisäksi. Kirjastoina ALB-tiedostoja voidaan käyttää uudelleen muissa Alpha Five -sovelluksissa.
 
 ## Viitteet
-
- * [ADB-tiedosto](/tietokanta/adb/)
+ * [ADB file](/database/adb/)
  * [The Alpha Anywhere IDE](https://documentation.alphasoftware.com/pages/GettingStarted/IDE/index.xml)
-

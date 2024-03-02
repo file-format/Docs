@@ -38,7 +38,7 @@ HDR-kuvatiedosto koostuu seuraavista kolmesta osasta:
 ## Avoimen lähdekoodin HDR/HDRI-sovellusliittymät
 
  * **[imageinfo](https://github.com/xiaozhuai/imageinfo)** – Eri alustojen huippunopea yhden otsikon [C++](/programming/cpp/) -kirjasto, jolla saat kuvan koon ja muodon lataamatta/dekoodaamatta.
- * **[imgaeinfo-rs](https://github.com/xiaozhuai/imageinfo-rs)** – Ruostekirjasto, josta saat kuvan koon ja muodon lataamatta/dekoodaamatta. Tukee [.avif](/image/avif/), [.bmp](/image/bmp/), [.cur](/image/cur/), [.dds](/image/dds/), [ .gif](/image/gif/), hdr (pic), [heic (heif)](/image/heic/), [.icns](/image/icns/), [.ico](/image/ ico/), [.jp2](/image/jp2/), [jpeg (jpg)](/image/jpeg/), [jpx](/image/jpx/), ktx, [png](/image/ png/), [psd](/image/psd/), qoi, tga, tiff (tif) ja webp.
+ * **[imgaeinfo-rs](https://github.com/xiaozhuai/imageinfo-rs)** – Ruostekirjasto, josta saat kuvan koon ja muodon lataamatta/dekoodaamatta. Tukee [.avif](/image/avif/), [.bmp](/image/bmp/), [.cur](/image/cur/), [.dds](/image/dds/), [ .gif](/image/gif/), hdr (pic), [heic (heif)](/image/heic/), [.icns](/image/icns/), [.ico](/image/ico/), [.jp2](/image/jp2/), [jpeg (jpg)](/image/jpeg/), [jpx](/image/jpx/), ktx, [png](/image/png/), [psd](/image/psd/), qoi, tga, tiff (tif) ja webp.
  * **[HdrHistogram](https://github.com/HdrHistogram/HdrHistogram)** – HdrHistogramin Java-toteutus.
 
 ## Viitteet

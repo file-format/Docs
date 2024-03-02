@@ -82,8 +82,4 @@ package com.example
 
 ## Viite ##
 
-* [AS - Wikipedia]( https://en.wikipedia.org/wiki/ActionScript)
-
-
-
-
+* [AS - Wikipedia](https://en.wikipedia.org/wiki/ActionScript)

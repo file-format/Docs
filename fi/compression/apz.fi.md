@@ -26,7 +26,4 @@ APZ-tiedosto on projektitiedosto, joka on luotu AutoPlay Media Studiolla, ohjelm
 APZ-tiedostomuodon sisäisen tiedostomuodon tiedot eivät ole saatavilla julkisesti kehittäjien viitteeksi.
 
 ## Viitteet
-
-* [Pakkaustiedostomuodot](/pakkaus/)
-
-
+* [Pakkaustiedostomuodot](/compression/)

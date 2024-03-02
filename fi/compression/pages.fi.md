@@ -38,11 +38,11 @@ Apple Pages -tiedoston muuntamiseksi PDF-muotoon voidaan käyttää seuraavia va
 
 Apple PAGES -asiakirjat voidaan muuntaa useisiin tiedostomuotoihin. Tämä voidaan tehdä Apple Pages -ohjelmistosta käyttämällä **Vie kohteeseen** -vaihtoehtoa. PAGES tiedostot voidaan muuntaa muotoon:
 
- * Microsoft Word [DOC](/text-processing/doc/) ja [DOCX](/text-processing/docx/)
+ * Microsoft Word [DOC](/word-processing/doc/) and [DOCX](/word-processing/docx/)
  * [PDF](/pdf/)
  * [EPUB](/ebook/epub/)
- * [RTF](/text-processing/rtf/)
- * [TXT](/tekstinkäsittely/txt/)
+ * [RTF](/word-processing/rtf/)
+ * [TXT](/word-processing/txt/)
 
 ## Viitteet
 

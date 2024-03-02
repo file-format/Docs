@@ -69,7 +69,7 @@ Autodesk Fusion 360 voi muuntaa STP-tiedostoja seuraaviin 3D- ja CAD-tiedostomuo
  * [STL](/cad/stl/)
  * [FBX](/3d/fbx/)
  * F3D
- * [USD](/3p/usd/)
+ * [USD](/3d/usd/)
 
 ## Viitteet
 
