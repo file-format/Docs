@@ -29,6 +29,4 @@ Cuireann comhaid PMF teorainn le leibhéal na sonraí atá inrochtana d'úsáide
 
 ## Tagairtí
 
-* [Conas: PMF a chumrú le hoscailt in ArcMap](https://support.esri.com/ga/technical-article/000011615)
-
-
+* [Conas: PMF a chumrú le hoscailt in ArcMap](https://support.esri.com/en-us/knowledge-base/how-to-configure-a-pmf-to-open-in-arcmap-000011615)

@@ -29,7 +29,7 @@
 
 ## Cad is comhad RTF ann?
 
-Arna thabhairt isteach agus doiciméadaithe ag Microsoft, is ionann an Rich Text Format (**RTF**) agus modh chun téacs formáidithe agus grafaic a ionchódú le húsáid laistigh d’fheidhmchláir. Éascaíonn an fhormáid malartú doiciméad tras-ardán le Táirgí Microsoft eile, rud a fhreastalaíonn ar chuspóir na hidir-inoibritheachta. Fágann an cumas seo gur caighdeán aistrithe sonraí é idir bogearraí próiseála focal agus, mar sin, is féidir inneachar a aistriú ó chóras oibriúcháin amháin go ceann eile gan formáidiú doiciméad a chailleadh. Tá na sonraíochtaí formáid comhaid ar fáil ag Microsoft don phobal [download](https://interoperability.blob.core.windows.net/files/Archive_References/%5bMSFT-RTF%5d.pdf) agus is féidir tagairt a dhéanamh dóibh ó thaobh an fhorbróra de.
+Arna thabhairt isteach agus doiciméadaithe ag Microsoft, is ionann an Rich Text Format (**RTF**) agus modh chun téacs formáidithe agus grafaic a ionchódú le húsáid laistigh d’fheidhmchláir. Éascaíonn an fhormáid malartú doiciméad tras-ardán le Táirgí Microsoft eile, rud a fhreastalaíonn ar chuspóir na hidir-inoibritheachta. Fágann an cumas seo gur caighdeán aistrithe sonraí é idir bogearraí próiseála focal agus, mar sin, is féidir inneachar a aistriú ó chóras oibriúcháin amháin go ceann eile gan formáidiú doiciméad a chailleadh. Tá na sonraíochtaí formáid comhaid ar fáil ag Microsoft don phobal download agus is féidir tagairt a dhéanamh dóibh ó thaobh an fhorbróra de.
 
 ## Stair Achomair d'Fhormáid Chomhaid RTF ##
 
@@ -79,7 +79,7 @@ Is féidir le grúpa a bheith comhdhéanta de théacs, focail rialaithe, nó sio
 
 Tá an chomhréir Chaighdeánach seo a leanas i gcomhad RTF:
 
-Arna thabhairt isteach agus doiciméadaithe ag Microsoft, is ionann an Rich Text Format (**RTF**) agus modh chun téacs formáidithe agus grafaic a ionchódú le húsáid laistigh d’fheidhmchláir. Éascaíonn an fhormáid malartú doiciméad tras-ardán le Táirgí Microsoft eile, rud a fhreastalaíonn ar chuspóir na hidir-inoibritheachta. Fágann an cumas seo gur caighdeán aistrithe sonraí é idir bogearraí próiseála focal agus, mar sin, is féidir inneachar a aistriú ó chóras oibriúcháin amháin go ceann eile gan formáidiú doiciméad a chailleadh. Tá na sonraíochtaí formáid comhaid ar fáil ag Microsoft don phobal [download](https://interoperability.blob.core.windows.net/files/Archive_References/%5bMSFT-RTF%5d.pdf) agus is féidir tagairt a dhéanamh dóibh ó thaobh an fhorbróra de.
+Arna thabhairt isteach agus doiciméadaithe ag Microsoft, is ionann an Rich Text Format (**RTF**) agus modh chun téacs formáidithe agus grafaic a ionchódú le húsáid laistigh d’fheidhmchláir. Éascaíonn an fhormáid malartú doiciméad tras-ardán le Táirgí Microsoft eile, rud a fhreastalaíonn ar chuspóir na hidir-inoibritheachta. Fágann an cumas seo gur caighdeán aistrithe sonraí é idir bogearraí próiseála focal agus, mar sin, is féidir inneachar a aistriú ó chóras oibriúcháin amháin go ceann eile gan formáidiú doiciméad a chailleadh. Tá na sonraíochtaí formáid comhaid ar fáil ag Microsoft don phobal download agus is féidir tagairt a dhéanamh dóibh ó thaobh an fhorbróra de.
 
 #### Ceanntásc RTF ####
 
@@ -144,8 +144,4 @@ Caithfidh } críochnú le gach doiciméad RTF, chun an grúpa a d'oscail an { is
 
 ## Tagairtí ##
 
-* [Sonraíochtaí RTF 1.9.1](https://interoperability.blob.core.windows.net/files/Archive_References/%5bMSFT-RTF%5d.pdf)
-
 * [Formáid Téacs saibhir](https://en.wikipedia.org/wiki/Rich_Text_Format)
-
-

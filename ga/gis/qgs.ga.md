@@ -57,6 +57,4 @@ Tá comhaid QGS i bhformáid [XML](/web/xml/) agus stóráiltear sonraí tionsca
 
 ## Tagairtí
 
-* [QGIS](https://www.qgis.org/ga/site/)
-
-
+* [QGIS](https://www.qgis.org/en/site/)

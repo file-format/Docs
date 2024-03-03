@@ -24,7 +24,3 @@ Is comhad íomhá é comhad DCX a chuimsíonn il-leathanaigh chun comhaid facs d
 ## Tagairtí
 
 * [PCX - Le Vicipéid](https://en.wikipedia.org/wiki/PCX)
-
-* [Lámhleabhar Tagartha Teicniúil Formáid Chomhaid ZSoft PCX](http://qzx.com/pc-gpe/pcx.txt)
-
-

@@ -25,6 +25,4 @@ Nuair a dhéantar cliceáil faoi dhó ar chomhad EPIBRW, féadfaidh sé a oscail
 
 ## Tagairtí
 
-* [Adobe Edge](https://www.adobe.com/sea/products/edge-animate.html)
-
-
+* [Adobe Edge](https://en.wikipedia.org/wiki/Adobe_Edge_Animate)

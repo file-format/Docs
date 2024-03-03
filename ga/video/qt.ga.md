@@ -33,7 +33,7 @@ Is comhad coimeádán ilmheán é comhad a bhfuil iarmhír .qt aige a úsáidean
 
 ## Formáid Chomhaid QT
 
-Tá an QTFF dírithe ar oibiachtaí a nochtar bailiúchán solúbtha réad ar mhaithe le parsáil agus fairsingiú a éascú. Tá sruth meán atá ionchódaithe go digiteach nó tagairt sonraí don sruth meán atá suite i gcomhad eile i ngach rian i gcomhad QT. Feidhmíonn an struchtúr ordlathach sonraí atá comhdhéanta de réada ar a dtugtar adaimh mar choimeádáin rianta. Tá sonraíochtaí formáid comhaid do [QT file format](https://developer.apple.com/library/archive/documentation/QuickTime/QTFF/QTFFPreface/qtffPreface.html) ar fáil go hoifigiúil ag Apple Inc mar thagairt don fhorbróir.
+Tá an QTFF dírithe ar oibiachtaí a nochtar bailiúchán solúbtha réad ar mhaithe le parsáil agus fairsingiú a éascú. Tá sruth meán atá ionchódaithe go digiteach nó tagairt sonraí don sruth meán atá suite i gcomhad eile i ngach rian i gcomhad QT. Feidhmíonn an struchtúr ordlathach sonraí atá comhdhéanta de réada ar a dtugtar adaimh mar choimeádáin rianta. Tá sonraíochtaí formáid comhaid do [QT file format](https://developer.apple.com/documentation/quicktime-file-format) ar fáil go hoifigiúil ag Apple Inc mar thagairt don fhorbróir.
 
 ### Media description
 
@@ -65,8 +65,5 @@ Tá an chéad smután eile suite ag fritháireamh 32+8#40 (hex: 28) agus tá mé
 
 ## Tagairtí ##
 
-* [Formáid Comhaid QT - Apple Inc.](https://developer.apple.com/library/archive/documentation/QuickTime/QTFF/QTFFPreface/qtffPreface.html)
-
+* [Formáid Comhaid QT - Apple Inc.](https://developer.apple.com/documentation/quicktime-file-format)
 * [Formáid Comhaid QuickTime - Vicipéid](https://en.wikipedia.org/wiki/QuickTime_File_Format)
-
-

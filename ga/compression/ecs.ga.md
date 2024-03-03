@@ -25,8 +25,3 @@ Is comhad cúltaca sonraí é comhad ECS cruthaithe ag fóin phóca Sony Ericsso
 
 Sábháiltear comhaid ECS mar chartlanna ZIP chomhbhrúite. Is féidir é a oscailt le haon chlár caighdeánach dízipping cosúil le WinZip agus WinRAR. Chun seo, athainmnigh an síneadh comhad ó .ecs go .zip agus bain an t-ábhar le WinZip.
 
-## Tagairtí
-
-* [Dzip](https://speedemosarchive.com/dzip/)
-
-

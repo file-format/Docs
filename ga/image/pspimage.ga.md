@@ -35,7 +35,3 @@ Is féidir comhaid PSPIMAGE a chruthú mar Chomhad nua laistigh de PaintShop Pro
  * CorelDRAW Graphics Suite (Windows)
  * XnViewMP (Windows, Mac & Linux)
 
-## Tagairtí
-
- * [Tiontú PSPIMAGE](https://community.adobe.com/t5/photoshop-ecosystem-discussions/pspimage-conversion/mp/5288141)
-

@@ -32,5 +32,5 @@ Is dlúthfhormáid chomhaid é PSM agus níl a shonraí ar fáil faoi láthair. 
 
 ## Tagairtí ##
 
- * [Sampla Teach Éan Solid Edge](https://solidedge.siemens.com/ga/resource/tutorial/bird-house/)
+ * [Sampla Teach Éan Solid Edge](https://solidedge.siemens.com/en/resource/tutorial/bird-house/)
 

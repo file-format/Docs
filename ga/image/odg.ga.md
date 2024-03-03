@@ -99,6 +99,4 @@ Tacaíonn an fhormáid OpenDocument leis na stíleanna seo a leanas.
 `Stíleanna Mater` - stíl choiteann ina bhfuil faisnéis faoi fhormáidiú agus ábhar breise a thaispeántar le hábhar an doiciméid nuair a chuirtear an stíl i bhfeidhm. Sampla de stíl mháistir is ea leathanaigh mháistir.
 
 ## Tagairtí ##
-  * [Formáid Doiciméad Oscailte OASIS le haghaidh Feidhmchláir Oifige](https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=office)
   * [Formáid OpenDocument - Vicipéid](https://en.wikipedia.org/wiki/OpenDocument)
-

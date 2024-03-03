@@ -45,6 +45,6 @@ I measc cuid de na comhpháirteanna sonracha a d’fhéadfaí a áireamh i gcomh
 
 ## Tagairt
 
-* [Cad is Ródaire ann?](https://en.wikipedia.org/wiki/Router_(ríomhaireacht))
+* [What is a Router?](https://en.wikipedia.org/wiki/Router_(computing))
 
 

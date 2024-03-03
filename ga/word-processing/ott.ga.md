@@ -61,5 +61,3 @@ Ina theannta sin, is féidir go leor fodhoiciméid eile a bheith i bpacáiste co
 ## Tagairtí ##
 
 * [OpenDocument - Le Vicipéid](https://en.wikipedia.org/wiki/OpenDocument)
-
-

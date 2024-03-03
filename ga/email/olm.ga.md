@@ -25,8 +25,3 @@ Is comhad Microsoft Outlook do Chóras Oibriúcháin Mac é comhad le síneadh .
 
 Comhaid dhénártha is ea OLM le cineál MIME Application/octet-stream. Níl na sonraíochtaí teicniúla maidir le formáid comhaid OLM ar fáil go hoscailte ó Microsoft agus níl aon sonraí formáide ar fáil mar thagairt don fhorbróir. Tá roinnt APIanna ann, áfach, ar féidir leo formáid comhaid OLM a léamh agus iad seo a scríobh chuig comhad PST le húsáid ar Chóras Oibriúcháin Microsoft Windows mar Aspose.Email.
 
-## Tagairtí
-
-* [Formáid Comhaid OLM?](https://social.msdn.microsoft.com/Forums/office/en-US/4ce689ee-8fad-4362-a0eb-06382646a845/olm-file-format?forum=os_binaryfile)
-
-

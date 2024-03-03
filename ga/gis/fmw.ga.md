@@ -21,7 +21,7 @@
 
 Is comhad tionscadail é comhad FMW a cruthaíodh le bogearraí FME Workbench (a thagann mar chuid de shraith FME Desktop) a úsáidtear chun sonraí spásúla a athrú. Tá socruithe sainithe ag an úsáideoir ann a úsáidtear chun sonraí spásúla a ionramháil amhail tacair sonraí ionchuir, airíonna aistriúcháin, réamh-mheastacháin agus socruithe aschuir. Stóráiltear na socruithe ionramhála sonraí spásúla mar leagan amach amhairc agus is furasta iad a chur in eagar agus a shábháil arís.
 
-Is féidir leat comhaid FMW a oscailt le [Safe Software FME Desktop](https://www.safe.com/fme/fme-desktop/).
+Is féidir leat comhaid FMW a oscailt le [Safe Software FME Desktop](https://fme.safe.com/platform/).
 
 ## Formáid Comhaid FMW - Tuilleadh Eolais
 
@@ -70,7 +70,5 @@ Stóráiltear comhaid FMW ar diosca mar chomhaid dhénártha agus is féidir iad
 
 ## Tagairtí
 
-* [Bogearraí Sábháilte FME Desktop](https://www.safe.com/fme/fme-desktop/)
-
+* [Bogearraí Sábháilte FME Desktop](https://fme.safe.com/platform/)
 * [FMW Quick Facts](https://docs.safe.com/fme/html/FME_Desktop_Documentation/FME_ReadersWriters/fmw/quick_facts_fmw.htm)
-

@@ -29,8 +29,3 @@ Déantar comhaid BT a shábháil ar diosca i bhformáid dhénártha comhaid nach
 
 Is féidir leat feidhmchláir bogearraí GIS a úsáid mar QGIS, ArcGIS, agus Global Mapper chun comhad BT a oscailt. Nuair a osclaítear é, is féidir leat an fhaisnéis tír-raoin sa chomhad BT a fheiceáil agus a anailísiú.
 
-## Tagairtí
-
-* [/gis/](https://support.esri.com/ga/technical-article/000005936)
-
-

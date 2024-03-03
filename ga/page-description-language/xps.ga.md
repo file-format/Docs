@@ -66,7 +66,7 @@ Coinníonn na comhaid seo inneachar an doiciméid sa chaoi is, mar shampla, mura
 
 Áirítear i bhformáid Doiciméad XPS sraith dea-shainithe de chodanna agus de ghaolmhaireachtaí, gach ceann ag comhlíonadh cuspóir ar leith sa doiciméad. Leathnaíonn an fhormáid freisin gnéithe an phacáiste, lena n-áirítear sínithe digiteacha, mionsamhlacha, agus interleaving.
 
-Breathnaíonn an doiciméad XPS tipiciúil mar seo a leanas agus is féidir é a anailísiú i bhfianaise formáid comhaid XPS [specifications](https://www.ecma-international.org/activities/XML%20Paper%20Specification/XPS%20Standard.pdf).
+Breathnaíonn an doiciméad XPS tipiciúil mar seo a leanas agus is féidir é a anailísiú i bhfianaise formáid comhaid XPS specifications.
 
 {{< figure src="../XPS-2.png" alt="Formáid Comhaid XPS" >}}
 

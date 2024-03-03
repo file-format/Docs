@@ -38,8 +38,3 @@ Is comhad XML é an comhad ACCDW a sholáthraíonn nasc chuig an suíomh SharePo
 
 * [Rochtain ar Sonraíochtaí 2016](https://support.microsoft.com/en-us/office/access-specifications-0cf3c66f-9cf2-4e32-9568-98c1025bb47c)
 
-* [Comhad .accdw á íoslódáil](https://social.technet.microsoft.com/Forums/en-US/7bf02e9e-6246-44da-9513-4cf8f2cc2fb2/downloaded-accdw-file)
-
-* [Cén formáid comhaid Rochtana ar cheart dom a úsáid?](https://support.microsoft.com/en-us/office/which-access-file-format-should-i-use-012d9ab3-d14c-479e-b617- be66f9070b41)
-
-

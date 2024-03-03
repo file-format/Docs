@@ -25,8 +25,3 @@ Is leabharlann siombailí é comhad Leabharlann Siombailí Corel (CSL) a úsáid
 
 Déantar comhaid CSL a shábháil i bhformáid comhaid dílseánaigh CorelDRAW. Toisc gur bailiúchán siombailí iad, is féidir na siombailí taobh istigh de chomhad CSL a allmhairiú agus a chur le líníochtaí i dtionscadal.
 
-## Tagairtí
-
- * [Formáid Comhaid CSL](http://product.corel.com/help/CorelDRAW/540227992/Main/GA/Documentation/CorelDRAW-Corel-Symbol-Library-CSL.html#4433968)
- * [Bailiúcháin agus leabharlanna a bhainistiú](http://product.corel.com/help/CorelDRAW/540227992/Main/GA/Documentation/wwhelp/wwhimpl/common/html/wwhelp.htm#href=CorelDRAW-Managing-collections-and -libraries.html#1036562&single=fíor)
-

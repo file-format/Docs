@@ -93,9 +93,5 @@ Coinníonn príomhbhunachar sonraí **PostgreSQL** OSM an phríomhchóip de shon
 ## Tagairtí ##
 
 * [Lámhleabhar Formáidí Comhaid OSM](https://osmcode.org/file-formats-manual/#file-types)
-
 * [OpenStreetMap](https://en.wikipedia.org/wiki/OpenStreetMap#History)
-
-* [Foghlaim OSM](https://learnosm.org/ga/osm-data/getting-data/)
-
-
+* [Foghlaim OSM](https://learnosm.org/en/osm-data/getting-data/)

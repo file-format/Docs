@@ -39,7 +39,5 @@ Is comhad XML é QLR, cosúil le [QGS](/gis/qgs/), ina bhfuil leideanna chun foi
 
 ## Tagairtí
 
-* [QGIS](https://www.qgis.org/ga/site/)
-
+* [QGIS](https://www.qgis.org/en/site/)
 * [QLR](https://docs.qgis.org/3.16/en/docs/user_manual/appendices/qgis_file_formats.html)
-

@@ -27,6 +27,6 @@ Níl aon sonraíochtaí formáid comhaid ar fáil maidir le formáid comhaid ATX
 
 ## Tagairtí
 
-* [Ceisteanna Coitianta ESRI - Cad is comhad ATX ann?](https://support.esri.com/ga/technical-article/000002973)
+* [Ceisteanna Coitianta ESRI - Cad is comhad ATX ann?](https://support.esri.com/en-us/knowledge-base/what-are-atx-files-1462478774924-000002973)
 
 

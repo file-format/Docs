@@ -32,8 +32,3 @@ Déantar comhaid AVL a shábháil i bhformáid gnáth-théacs. Ciallaíonn sé g
  * **Difríocht Formáid Comhaid** - Is comhad dénártha é .lyr ach is téacschomhad é .avl
  * **Difríocht Ábhar** - Tá níos mó faisnéise i gcomhad .lyr ná mar atá i gcomhad .avl. Ní stórálann comhad AVL ach faisnéis siombalaíoch, agus stórálann comhad LYR an fhaisnéis go léir atá ar fáil sa bhosca dialóige airíonna ciseal in ArcMap.
 
-## Tagairtí
-
-* [Difríocht idir Comhaid .lyr agus .avl](https://support.esri.com/ga/technical-article/000005936)
-
-

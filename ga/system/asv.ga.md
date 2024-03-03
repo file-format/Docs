@@ -37,8 +37,3 @@ modh coibhneasta nó iomlán.
 
 Déantar comhaid ASV a shábháil i bhformáid dhénártha comhaid agus níl a n-inneachar i bhfoirm inléite ag an duine.
 
-## Tagairtí
-
-* [Luchtaigh Comhad ASV in Adobe Photoshop](https://community.adobe.com/t5/photoshop-ecosystem-discussions/photoshop-asv-file-preset-wont-open/mp/12587356)
-
-

@@ -35,8 +35,3 @@ Is cartlann chomhbhrúite é comhad a bhfuil iarmhír .dz air a cruthaíodh leis
 
 Is formáid comhaid dílseánaigh é DZ agus níl a sonraí teicniúla ar fáil. Déantar iad seo a shábháil mar chomhaid dhénártha ar dhiosca le méid comhaid comhbhrúite.
 
-## Tagairtí
-
-* [Dzip](https://speedemosarchive.com/dzip/)
-
-

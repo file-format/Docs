@@ -30,10 +30,5 @@ A THM file contains an XML file, several image file sin [.png](/image/png/), [.p
 
 ## Conas Téamaí Sony Ericsson a chruthú?
 
-Is féidir bogearraí Sony Themes Creator a úsáid chun téamaí nua a ghiniúint do fhóin phóca Sony Ericsson. Is féidir le húsáideoirí [Themes Creator Developer Guide](https://developer.sony.com/theme-creator/get-started) Sony a leanúint chun téamaí a chruthú.
-
-## Tagairtí
-
-* [Treoir Fhorbróirí Cruthaitheoir Téamaí Sony](https://developer.sony.com/theme-creator/get-started)
-
+Is féidir bogearraí Sony Themes Creator a úsáid chun téamaí nua a ghiniúint do fhóin phóca Sony Ericsson. Is féidir le húsáideoirí Themes Creator Developer Guide Sony a leanúint chun téamaí a chruthú.
 

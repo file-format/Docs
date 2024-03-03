@@ -49,5 +49,4 @@ Seo cineálacha comhaid eile a úsáideann an síneadh comhad **.cdr**.
 
 ## Tagairtí
 
- * [CorelDRAW](https://www.coreldraw.com/ga/pages/open-cdr-file/)
-
+ * [CorelDRAW](https://www.coreldraw.com/en/pages/open-cdr-file/)

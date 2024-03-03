@@ -45,6 +45,6 @@ Is féidir comhaid NEF a thiontú go comhaid íomhá eile freisin trí úsáid a
 
 ## Tagairtí ##
 
-* [Nikon NEF](https://www.nikonusa.com/ga/learn-and-explore/a/products-and-innovation/nikon-electronic-format-nef.html)
+* [Nikon NEF](https://www.nikonusa.com/en/learn-and-explore/a/products-and-innovation/nikon-electronic-format-nef.html)
 
 

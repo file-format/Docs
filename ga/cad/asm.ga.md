@@ -25,5 +25,5 @@ Is comhad sonraí é comhad ASM a úsáideann [Solid Edge](https://solidedge.sie
 ## Tagairtí
 
  * [Solid Edge ASM](https://www.wikidata.org/wiki/Q644575)
- * [Siemens Solid Edge](https://solidedge.siemens.com/ga/)
+ * [Siemens Solid Edge](https://solidedge.siemens.com/en/)
 

@@ -28,7 +28,4 @@ Stóráiltear comhaid OSB mar chomhaid gnáth-théacs chuig an diosca i bhfillte
 ## Tagairtí
 
 * [OSU! Cluiche Rhythm](https://osu.ppy.sh/home)
-
-* [Clár Scéalta - Osu!](https://osu.ppy.sh/wiki/ga/Storyboard)
-
-
+* [Clár Scéalta - Osu!](https://osu.ppy.sh/wiki/en/Storyboard)

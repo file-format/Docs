@@ -33,9 +33,3 @@ Tugtar comhaid ríomhfhoilseacháin ar na comhaid MART a úsáideann bogearraí 
 ## Formáid Chomhaid MART ##
 
 Tá formáid ríomhleabhar Martview dílsithe agus oibríonn sé mar choimeádán le haghaidh íomhánna. Cuireann tiontairí foinse oscailte ar chumas léitheoirí ríomhleabhair doiciméid [PDF](/pdf/), [GIF](/image/gif/), [GIF](/image/gif/), [PNG](/image/png/), [RAR](/compression/rar/) agus [ZIP](/compression/zip/) a thiontú go formáid Martview. Tabhair faoi deara go gcaithfidh íomhánna a bheith sna comhaid RAR agus ZIP. D'fhéadfadh go mbeadh na comhaid MART oiriúnach go maith do chomhaid aonair ag obair, ach má tá go leor ríomhleabhar agat i bhformáidí éagsúla, is cinnte nach mian leat am a chaitheamh ag athrú iad go léir go formáid amháin ach a bheith in ann iad a léamh sa léitheoir ebook. .
-
-## Tagairtí
-
-* [Martview, an Léitheoir Ríomhleabhair is Fearr le haghaidh Ríomhleabhair PDF](https://www.ghacks.net/2011/04/15/martview-best-ebook-reader-for-pdf-e-books/)
-
-
