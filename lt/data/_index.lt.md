@@ -11,7 +11,7 @@
   "menu" : {
     "docs" : {
       "parent" : "data",
-"svoris : 05"
+"weight" : "05"
 }
 },
   "lastmod" : "2023-11-13"

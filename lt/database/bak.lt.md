@@ -53,7 +53,7 @@ Deskriptorių blokai (DBLK) naudojami formato valdymui ir yra pagrindiniai MTF f
  * Operacinės sistemos duomenys – konkretūs duomenys, apibrėžti pagal DBLK tipą ir operacines sistemas
  * DBLK informacija – kintamo ilgio DBLK specifinė informacija, kurios negalima išsaugoti naudojant fiksuoto ilgio DBLK informaciją.
 
-{{< figure src=../bak.png alt=Microsoft SQL atsarginės kopijos failo formatas >}}
+{{< figure src="../bak.png" alt="Microsoft SQL Backup File Format" >}}
 
 #### Duomenų srautas
 

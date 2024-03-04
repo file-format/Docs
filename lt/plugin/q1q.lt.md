@@ -25,7 +25,7 @@
 
 Q1Q papildinių failai išsaugomi patentuotu Flaming Pear failo formatu, o jo vidinio failo formato informacija nėra viešai prieinama. Toliau pateiktame paveikslėlyje parodyta Q1Q papildinio vartotojo sąsaja, kai jis įkeltas į Photoshop.
 
-{{<figure src=../q1q.png alt=LunarCell PluginFile Format > }}
+{{<figure src="../q1q.png" alt="LunarCell PluginFile Format" >}}
 
 ## Kaip atidaryti Q1Q failą?
 

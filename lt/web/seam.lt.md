@@ -10,7 +10,6 @@
   "linktitle": "SEAM",
   "menu": {
     "docs": {
-"identifikatorius: tinklo siūlė",
       "parent": "web",
       "identifier": "web-sea-ltm"
 }

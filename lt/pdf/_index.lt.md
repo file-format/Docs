@@ -11,7 +11,7 @@
   "menu" : {
     "docs" : {
       "parent" : "pdf",
-"svoris : 01"
+"weight" : "01"
 }
 },
   "lastmod" : "2019-09-10"

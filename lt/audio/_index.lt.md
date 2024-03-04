@@ -12,7 +12,7 @@
   "menu" : {
     "docs" : {
       "parent" : "audio",
-"svoris : 01"
+"weight" : "01"
 }
 },
   "lastmod" : "2020-01-28"
