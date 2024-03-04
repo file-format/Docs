@@ -40,6 +40,6 @@ Visi Microsoft Access 2007+ failai naudoja Jet ACE (prieigos duomenų bazės var
 
 * [MDB įrankiai](https://github.com/mdbtools/mdbtools/blob/master/HACKING)
 
-* [Neoficialus MDB vadovas] (http://jabakobob.net/mdb/)
+* [Neoficialus MDB vadovas](http://jabakobob.net/mdb/)
 
 

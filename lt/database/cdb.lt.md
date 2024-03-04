@@ -68,6 +68,6 @@ Komanda **cdbmake** gali perrašyti visą duomenų bazę į dvi eiles greičiau 
 
 * [cdb (programinė įranga) – Vikipedija](https://en.wikipedia.org/wiki/Cdb_(software))
 
-* [CDB specifikacija] (http://cr.yp.to/cdb.html)
+* [CDB specifikacija](http://cr.yp.to/cdb.html)
 
 

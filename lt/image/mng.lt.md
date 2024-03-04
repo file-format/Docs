@@ -55,6 +55,6 @@ MNG rėmelį sudaro dvimatis mažesnių vaizdų vaizdas. Kiekvieną mažą vaizd
 
 * [MNG](http://www.libpng.org/pub/mng/)
 
-* [MNG formatas v 1.0] (http://www.libpng.org/pub/mng/spec/)
+* [MNG formatas v 1.0](http://www.libpng.org/pub/mng/spec/)
 
 

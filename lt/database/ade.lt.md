@@ -40,6 +40,6 @@ The ADE files can create issues in opening based on the version of Microsoft Acc
 
 * [Problema dėl Access ADE failų](https://learn.microsoft.com/en-us/office/troubleshoot/access/error-run-compiled-mde-accde-ade)
 
-* [Kurius prieigos failų formatus naudoti] (https://support.microsoft.com/en-us/office/which-access-file-format-should-i-use-012d9ab3-d14c-479e-b617-be66f9070b41)
+* [Kurius prieigos failų formatus naudoti](https://support.microsoft.com/en-us/office/which-access-file-format-should-i-use-012d9ab3-d14c-479e-b617-be66f9070b41)
 
 

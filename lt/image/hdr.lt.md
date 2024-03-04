@@ -38,11 +38,11 @@ HDR vaizdo failą sudaro trys skyriai:
 ## Atvirojo kodo HDR / HDRI API
 
  * **[imageinfo](https://github.com/xiaozhuai/imageinfo)** – kelių platformų itin greita vienos antraštės [C++](/programming/cpp/) biblioteka, leidžianti gauti vaizdo dydį ir formatą neįkeliant/dekoduojant.
- * **[imgaeinfo-rs](https://github.com/xiaozhuai/imageinfo-rs)** – Rust biblioteka, kad gautumėte vaizdo dydį ir formatą neįkeliant / neiškoduojant. Palaiko [.avif](/image/avif/), [.bmp](/image/bmp/), [.cur](/image/cur/), [.dds](/image/dds/), [ .gif](/image/gif/), hdr (pic), [heic (heif)](/image/heic/), [.icns](/image/icns/), [.ico](/image/ ico/), [.jp2](/image/jp2/), [jpeg (jpg)](/image/jpeg/), [jpx](/image/jpx/), ktx, [png](/image/ png/), [psd](/image/psd/), qoi, tga, tiff (tif) ir webp.
+ * **[imgaeinfo-rs](https://github.com/xiaozhuai/imageinfo-rs)** – Rust biblioteka, kad gautumėte vaizdo dydį ir formatą neįkeliant / neiškoduojant. Palaiko [.avif](/image/avif/), [.bmp](/image/bmp/), [.cur](/image/cur/), [.dds](/image/dds/), [ .gif](/image/gif/), hdr (pic), [heic (heif)](/image/heic/), [.icns](/image/icns/), [.ico](/image/ico/), [.jp2](/image/jp2/), [jpeg (jpg)](/image/jpeg/), [jpx](/image/jpx/), ktx, [png](/image/png/), [psd](/image/psd/), qoi, tga, tiff (tif) ir webp.
  * **[HdrHistogram](https://github.com/HdrHistogram/HdrHistogram)** – HdrHistogramos Java diegimas.
 
 ## Nuorodos
 
- * [Radiance HDR] (http://paulbourke.net/dataformats/pic/)
+ * [Radiance HDR](http://paulbourke.net/dataformats/pic/)
  * [imageinfo](https://github.com/xiaozhuai/imageinfo)
 

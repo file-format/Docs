@@ -91,7 +91,7 @@ Specifikacijos neapibrėžia griežtų apribojimų, tačiau turite būti atsarg�
  * **Kam naudojamas JSON failas?** JSON failo formatas gali būti naudojamas kaip tarpinis failo formatas duomenims, sugeneruotiems duomenims, pvz., iš pateiktos formos svetainėje, saugoti. Jis taip pat naudojamas kaip duomenų formato failas bet kuriai programavimo kalbai ir užtikrina skirtingų tipų duomenų sąveiką.
  * **Ar JSON ir XML failai yra vienodi?** Tikrai ne. JSON skiriasi nuo XML tuo, kad JSON yra trumpesnis, jį galima greitai nuskaityti ir teisingai, gali naudoti masyvus ir nenaudoja pabaigos žymos.
  * **Can I convert JSON to CSV?** Yes, there are certain online converter apps such as **GroupDocs Conversion apps** that can [convert JSON to CSV](https://products.groupdocs.app/conversion/json-to-csv).
- * **Kaip konvertuoti JSON į PDF?** Galite naudoti internetines programas, pvz., Asopse.app for Cells, norėdami [konvertuoti JSON failą į PDF] (https://products.aspose.app/cells/conversion/json-to- pdf).
+ * **Kaip konvertuoti JSON į PDF?** Galite naudoti internetines programas, pvz., Asopse.app for Cells, norėdami [konvertuoti JSON failą į PDF](https://products.aspose.app/cells/conversion/json-to- pdf).
  * **Kaip atidaryti JSON failą programoje Word?** Galite naudoti internetines programas, pvz., Aspose.app for Words, norėdami [konvertuoti JSON failą į Word] (konvertuoti JSON formatą į WORD sistemoje Android per Java).
 
 ## Ar tu žinai?

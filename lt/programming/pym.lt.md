@@ -66,6 +66,6 @@ Paleidimo per PYM išvestis yra tokia:
 
 ## Nuorodos Nr.
 
- * [PYM – makrokomandos pirminis procesorius, pagrįstas Python] (http://web.archive.org/web/20051122185426/http://ray.cg.tuwien.ac.at/rft/Papers/PYM/pym.html)
+ * [PYM – makrokomandos pirminis procesorius, pagrįstas Python](http://web.archive.org/web/20051122185426/http://ray.cg.tuwien.ac.at/rft/Papers/PYM/pym.html)
  * [PYM vertėjai](https://github.com/interpreters/pym)
 

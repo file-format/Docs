@@ -82,7 +82,7 @@ package com.example
 
 ## Nuoroda ##
 
-* [AS – pateikė Vikipedija]( https://en.wikipedia.org/wiki/ActionScript)
+* [AS – pateikė Vikipedija](https://en.wikipedia.org/wiki/ActionScript)
 
 
 

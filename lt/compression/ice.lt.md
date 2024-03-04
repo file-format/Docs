@@ -37,6 +37,6 @@ ICE yra dvejetainiai failai, tačiau nėra jokių techninių specifikacijų, sus
 
 ## Nuorodos
 
-* [ICEOWS] (http://www.iceows.com/index.html)
+* [ICEOWS](http://www.iceows.com/index.html)
 
 

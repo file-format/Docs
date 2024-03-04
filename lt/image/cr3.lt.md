@@ -43,6 +43,6 @@ CR3 failuose yra pasirinktinių žymų įvairiems tikslams. Kai kurios iš šių
 
 ## Nuorodos
 
- * [CR2 failo formatas] (http://lclevy.free.fr/cr2/)
+ * [CR2 failo formatas](http://lclevy.free.fr/cr2/)
  * [Canon žymos](https://exiftool.org/TagNames/Canon.html#uuid)
 

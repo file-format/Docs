@@ -61,7 +61,7 @@ Archyvo antraštė yra 10 baitų ir jos struktūra yra tokia.
 
 ## Nuorodos
 
-* [PEA failo formato specifikacijos] (https://peazip.github.io/pea_help.pdf)
+* [PEA failo formato specifikacijos](https://peazip.github.io/pea_help.pdf)
 
 * [PEA failo formatas](https://peazip.github.io/pea-file-format.html#.pea_specifications)
 

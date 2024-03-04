@@ -42,6 +42,6 @@ A swift version of TCX XML format is available on Github as [TcxDataProtocol](ht
 
 * [Training Center XML](https://en.wikipedia.org/wiki/Training_Center_XML)
 
-* [TCX Viewer] (http://www.whiterocksoftware.com/2019/02/tcx-viewer.html)
+* [TCX Viewer](http://www.whiterocksoftware.com/2019/02/tcx-viewer.html)
 
 

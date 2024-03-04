@@ -131,5 +131,5 @@ Struktūriniai metaduomenys yra pagrindiniai MXF failo elementai, nes juose yra 
 
  * [MXF – Vikipedija](https://en.wikipedia.org/wiki/Material_Exchange_Format)
  * [MXF - Progress Report](https://tech.ebu.ch/docs/techreview/trev_2010-Q3_MXF-1.pdf)
- * [Atvirojo kodo C++ biblioteka, skirta MXF] (http://www.freemxf.org/)
+ * [Atvirojo kodo C++ biblioteka, skirta MXF](http://www.freemxf.org/)
 

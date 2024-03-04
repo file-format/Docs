@@ -97,7 +97,7 @@ end
 
 ## Nuorodos Nr.
 
-* [STL formatas] (http://www.fabbers.com/tech/STL_Format)
+* [STL formatas](http://www.fabbers.com/tech/STL_Format)
 
 * [STL – pateikė Vikipedija](https://en.wikipedia.org/wiki/STL_(file_format))
 

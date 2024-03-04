@@ -45,6 +45,6 @@ ASL failuose gali būti keli sluoksnių stiliai ir juos galima suskirstyti į ri
 ASL failai yra būdingi Adobe Photoshop ir negali būti naudojami su kitomis programomis. Kitos programinės įrangos programos gali naudoti skirtingus failų formatus sluoksnių stiliams ar vaizdo efektams saugoti. Svarbu pažymėti, kad ASL faile išsaugotų sluoksnių stilių išvaizda gali skirtis priklausomai nuo sluoksnio, kuriam jie taikomi, ir kitų veiksnių, tokių kaip sluoksnių maišymo režimai, sluoksnio neskaidrumas ir sluoksnio turinys.
 
 ## Nuorodos
-* [ASL iš anksto nustatytų failų įkėlimas į „Photoshop“] (https://community.adobe.com/t5/photoshop-ecosystem-discussions/loading-asl-preset-files-into-photoshop/td-p/10830311)
+* [ASL iš anksto nustatytų failų įkėlimas į „Photoshop“](https://community.adobe.com/t5/photoshop-ecosystem-discussions/loading-asl-preset-files-into-photoshop/td-p/10830311)
 
 

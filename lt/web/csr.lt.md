@@ -61,6 +61,6 @@ CSR faile yra ši informacija.
 
 ## Nuorodos
 
-* [Concept Application Server] (https://github.com/Devronium/ConceptApplicationServer)
+* [Concept Application Server](https://github.com/Devronium/ConceptApplicationServer)
 
 

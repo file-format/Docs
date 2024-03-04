@@ -35,5 +35,5 @@ ALX failai yra paprasto teksto failo formatu ir gali būti redaguojami atidarius
 
 ## Nuorodos
 
- * [Scenarijų kūrimas ir ActiveX] (http://gbengasesan.com/fyp/24/ch12.htm)
+ * [Scenarijų kūrimas ir ActiveX](http://gbengasesan.com/fyp/24/ch12.htm)
 

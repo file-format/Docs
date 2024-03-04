@@ -36,6 +36,6 @@ PSP failus galima išsaugoti tiek x32, tiek x64 operacinėse sistemose. [PSPIMAG
 
 * [CorelDRAW – palaikomi failų formatai](http://product.corel.com/help/CorelDRAW/540227992/Main/EN/Documentation/wwhelp/wwhimpl/common/html/wwhelp.htm#href=CorelDRAW-Supported-file -formats.html#&single=true)
 
-* [Corel PaintShop Pro – PSP failo formatas] (http://product.corel.com/help/CorelDRAW/540227992/Main/EN/Documentation/wwhelp/wwhimpl/common/html/wwhelp.htm#href=CorelDRAW-Corel -Paint-Shop-Pro-PSP.html#4420641&single=true)
+* [Corel PaintShop Pro – PSP failo formatas](http://product.corel.com/help/CorelDRAW/540227992/Main/EN/Documentation/wwhelp/wwhimpl/common/html/wwhelp.htm#href=CorelDRAW-Corel -Paint-Shop-Pro-PSP.html#4420641&single=true)
 
 

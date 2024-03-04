@@ -117,7 +117,7 @@ Pavyzdžiui, memSize = 8192 VMX faile nurodo, kad virtualios mašinos atminties 
 Į VMX failo formatą taip pat gali būti komentarų, žymimų svaro ženklu (#) eilutės pradžioje, į kuriuos VMware programinė įranga nepaiso analizuodama failą. Komentarai dažnai naudojami norint pateikti papildomos informacijos arba paaiškinti konkrečius nustatymus.
 
 ## Nuorodos
-* [VMX failo pavyzdys] (https://www.vmware.com/pdf/vsp_4_vmdirectpath_host.pdf)
+* [VMX failo pavyzdys](https://www.vmware.com/pdf/vsp_4_vmdirectpath_host.pdf)
 
 
 

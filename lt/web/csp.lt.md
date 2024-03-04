@@ -23,6 +23,6 @@ CSP failas yra dinaminis tinklalapio failas, kuriame yra turinio, parašyto vykd
 
 ## Nuorodos
 
-* [Concept Application Server] (https://github.com/Devronium/ConceptApplicationServer)
+* [Concept Application Server](https://github.com/Devronium/ConceptApplicationServer)
 
 

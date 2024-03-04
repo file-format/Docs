@@ -48,5 +48,5 @@ CR2 failai yra neapdoroti failai, neprarandant duomenų, taigi ir neprarandant k
 
 ## Nuorodos
 
- * [CR2 failo formatas] (http://lclevy.free.fr/cr2/)
+ * [CR2 failo formatas](http://lclevy.free.fr/cr2/)
 

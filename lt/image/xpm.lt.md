@@ -77,6 +77,6 @@ Toliau pateikiama išsami informacija apie kiekvieną skyrių.
 
 * [XPM – Vikipedija](https://en.wikipedia.org/wiki/X_PixMap)
 
-* [XPM vadovas] (http://www.xfree86.org/current/xpm.pdf)
+* [XPM vadovas](http://www.xfree86.org/current/xpm.pdf)
 
 

@@ -27,6 +27,6 @@ CSL failai išsaugomi CorelDRAW patentuotu failo formatu. Kadangi tai yra simbol
 
 ## Nuorodos
 
- * [CSL failo formatas] (http://product.corel.com/help/CorelDRAW/540227992/Main/EN/Documentation/CorelDRAW-Corel-Symbol-Library-CSL.html#4433968)
+ * [CSL failo formatas](http://product.corel.com/help/CorelDRAW/540227992/Main/EN/Documentation/CorelDRAW-Corel-Symbol-Library-CSL.html#4433968)
  * [Kolekcijos ir bibliotekų valdymas](http://product.corel.com/help/CorelDRAW/540227992/Main/EN/Documentation/wwhelp/wwhimpl/common/html/wwhelp.htm#href=CorelDRAW-Managing-collections-and -libraries.html#1036562&single=true)
 

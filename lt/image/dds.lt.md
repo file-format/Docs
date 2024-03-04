@@ -45,6 +45,6 @@ DDS_HEADER          header;
 
 * [DDS – pateikė Vikipedija](https://en.wikipedia.org/wiki/DirectDraw_Surface)
 
-* [ZSoft PCX failo formato techninis informacinis vadovas] (http://qzx.com/pc-gpe/pcx.txt)
+* [ZSoft PCX failo formato techninis informacinis vadovas](http://qzx.com/pc-gpe/pcx.txt)
 
 

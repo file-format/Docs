@@ -82,5 +82,5 @@ cylinder {
 
 ## Nuorodos
  * [POV-Ray – Vikipedija](https://en.wikipedia.org/wiki/POV-Ray)
- * [Dokumentacijos POV-Ray svetainė] (http://www.povray.org/documentation/)
+ * [Dokumentacijos POV-Ray svetainė](http://www.povray.org/documentation/)
 

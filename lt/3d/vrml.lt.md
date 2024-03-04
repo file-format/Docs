@@ -67,6 +67,6 @@ VRML tikslas ir dizainas sukasi aplink šiuos reikalavimus.
 
 * [VRML – Vikipedija](https://en.wikipedia.org/wiki/VRML)
 
-* [VRML v 2.0 failo formato specifikacijos] (http://gun.teipir.gr/VRML-amgem/spec/index.html)
+* [VRML v 2.0 failo formato specifikacijos](http://gun.teipir.gr/VRML-amgem/spec/index.html)
 
 

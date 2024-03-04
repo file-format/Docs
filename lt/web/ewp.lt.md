@@ -27,6 +27,6 @@ EWP failai yra projekto failai, kurių nereikia kompiliuoti ar talpinti jokiame 
 
 ## Nuorodos
 
-* [EWISoft] (http://www.ewisoft.com/)
+* [EWISoft](http://www.ewisoft.com/)
 
 

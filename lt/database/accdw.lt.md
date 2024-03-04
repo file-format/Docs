@@ -36,7 +36,7 @@ ACCDW failas yra XML failas, kuriame pateikiama nuoroda į SharePoint svetainę,
 
 ## Nuorodos
 
-* [2016 m. prieigos specifikacijos] (https://support.microsoft.com/en-us/office/access-specifications-0cf3c66f-9cf2-4e32-9568-98c1025bb47c)
+* [2016 m. prieigos specifikacijos](https://support.microsoft.com/en-us/office/access-specifications-0cf3c66f-9cf2-4e32-9568-98c1025bb47c)
 
 * [Atsisiunčiamas .accdw failas](https://social.technet.microsoft.com/Forums/en-US/7bf02e9e-6246-44da-9513-4cf8f2cc2fb2/downloaded-accdw-file)
 

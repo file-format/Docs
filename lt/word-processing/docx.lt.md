@@ -117,7 +117,7 @@ Pastraipa yra pagrindinis dokumento turinio turėtojas. Jį atstovauja **<w:p> *
 
  * **Ar DOCX yra failo plėtinys?** – DOCX naudojamas kaip failo plėtinys, vaizduojantis Microsoft Word 2007 ir naujesnius failų formatus, naudojamus Word failams saugoti. Ji taip pat praneša jūsų OS, kad norint atidaryti šį DOCX failą ir parodyti jo piktogramą, reikia Microsoft Word 2007.
  * **Ar DOCX yra tas pats kaip Word** – DOCX yra failo formatas, naudojamas Microsoft Word dokumentams išsaugoti Open XML formatu. Kita vertus, Word yra Microsoft Office taikomoji programinė įranga, kuri taip pat palaiko kitus failų formatus, tokius kaip DOC, DOT, DOTM ir kt.
- * **Kuo skiriasi DOC ir DOCX** – DOC yra Word failas, išsaugotas Word 2007 ir ankstesniuose failų formatuose. DOCX yra pagrįstas Open XML failo formatu, kurį palaiko Microsoft 2007 ir naujesnės versijos. Norėdami gauti daugiau informacijos, žr. [DOC ir DOCX skirtumai] (https://blog.fileformat.com/2022/08/11/doc-vs-docx/).
+ * **Kuo skiriasi DOC ir DOCX** – DOC yra Word failas, išsaugotas Word 2007 ir ankstesniuose failų formatuose. DOCX yra pagrįstas Open XML failo formatu, kurį palaiko Microsoft 2007 ir naujesnės versijos. Norėdami gauti daugiau informacijos, žr. [DOC ir DOCX skirtumai](https://blog.fileformat.com/2022/08/11/doc-vs-docx/).
 
 ## Nuorodos Nr.
 

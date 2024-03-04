@@ -80,7 +80,7 @@ forall (colour in [array "red", "green", "blue"])
 
 ## Nuoroda ##
 
-* [ICI programavimo kalba] (http://atrn.org/ici/doc/ici.html)
+* [ICI programavimo kalba](http://atrn.org/ici/doc/ici.html)
 
 
 

@@ -56,7 +56,7 @@ Yra du būdai, kaip naudoti eilutės žymą:
 ## Nuorodos
 
 * [Object-Oriented Messaging with XML](https://docs.oracle.com/cd/A87860_01/doc/appdev.817/a86030/adx16nt5.htm)
-* [The Physical Markup Language] (http://web.mit.edu/mecheng/pml/standards.htm)
+* [The Physical Markup Language](http://web.mit.edu/mecheng/pml/standards.htm)
 
 
 

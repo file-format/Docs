@@ -135,7 +135,7 @@ Tai reiškia, kad ypatybėje vertex_index pirmiausia yra nepasirašytas simbolis
 
 ## Nuorodos Nr.
 
-* [PLY failo formatas] (http://paulbourke.net/dataformats/ply/)
+* [PLY failo formatas](http://paulbourke.net/dataformats/ply/)
 
 * [PLY – Vikipedija](https://en.wikipedia.org/wiki/PLY_(file_format))
 
