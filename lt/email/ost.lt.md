@@ -88,9 +88,5 @@ Antraštė prasideda 4 baitų magišku žodžiu **!BDN**, vaizduojamu baitais (0
 |rgbReserved3 (32 baitai) |
 
 ## Nuorodos
-
 * [Outlook asmeninių aplankų (.ost) failo formatas](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546)
-
 * [Asmeninio aplanko failo formato specifikacijos](https://github.com/libyal/libpff/blob/main/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
-
-

@@ -82,6 +82,6 @@ void draw() {
 
 ## Reference ##
 
-* [PDE - by Wikipedia](https://en.wikipedia.org/wiki/Processing_(programming_language))
+* [PDE - by Wikipedia](https://en.wikipedia.org/wiki/Processing)
 
 

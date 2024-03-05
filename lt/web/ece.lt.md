@@ -29,6 +29,4 @@ Klientų naršyklės gali pasiekti ECE serverių turinį per HTTP/REST API. ECE 
 
 ## Nuorodos
 
-* [Adobe Edge](https://www.adobe.com/sea/products/edge-animate.html)
-
-
+* [Adobe Edge](https://en.wikipedia.org/wiki/Adobe_Edge_Animate)

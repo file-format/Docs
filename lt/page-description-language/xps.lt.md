@@ -66,7 +66,7 @@ XPS formatą sudaro XML žymėjimas, kuris apibrėžia dokumento sudėtį ir kie
 
 XPS dokumento formatas apima tiksliai apibrėžtą dalių ir ryšių rinkinį, kurių kiekviena atlieka tam tikrą dokumento paskirtį. Formatas taip pat išplečia paketo funkcijas, įskaitant skaitmeninius parašus, miniatiūras ir įterpimą.
 
-Įprastas XPS dokumentas atrodo taip ir gali būti analizuojamas atsižvelgiant į XPS failo formatą [specifications](https://www.ecma-international.org/activities/XML%20Paper%20Specification/XPS%20Standard.pdf).
+Įprastas XPS dokumentas atrodo taip ir gali būti analizuojamas atsižvelgiant į XPS failo formatą specifications.
 
 {{< figure src="../XPS-2.png" alt="XPS failo formatas" >}}
 
@@ -74,7 +74,4 @@ XPS dokumento formatas apima tiksliai apibrėžtą dalių ir ryšių rinkinį, k
 ## Nuorodos Nr.
 
 * [XPS failo formato specifikacijos](https://www.ecma-international.org/publications-and-standards/standards/ecma-388/)
-
 * [XPS – Vikipedija](https://en.wikipedia.org/wiki/Open_XML_Paper_Specification#Viewing_and_creating_XPS_documents)
-
-

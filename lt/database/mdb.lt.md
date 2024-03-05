@@ -47,9 +47,5 @@ Duomenų puslapiai: duomenų puslapiai yra faktiniai duomenų konteineriai, kuri
 Vieną Microsoft Access duomenų bazę gali sudaryti keli failai, leidžiantys viršyti failų ir lentelių dydžio apribojimus. Tai palengvina formų ir kodų įdėjimą į vartotojo darbalaukio MDB failą ir duomenis į kitus MDB failus, esančius prie tinklo prijungtuose serveriuose.
 
 ## Nuorodos Nr.
-
 * [Prieigos specifikacijos](https://support.microsoft.com/en-us/office/access-specifications-0cf3c66f-9cf2-4e32-9568-98c1025bb47c)
-
-* [Neoficialus MDB vadovas](http://jabakobob.net/mdb/)
-
 

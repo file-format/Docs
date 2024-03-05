@@ -80,6 +80,4 @@ func main() {
 
 ## Nuoroda ##
 
-* [GO – Wikipedia](https://en.wikipedia.org/wiki/Go_(programing_language))
-
-
+* [GO – Wikipedia](https://en.wikipedia.org/wiki/Go_(programming_language))

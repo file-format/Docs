@@ -39,6 +39,4 @@ ASV failai išsaugomi dvejetainiu formatu, o jų turinys nėra žmonėms suprant
 
 ## Nuorodos
 
-* [Įkelti ASV failą į Adobe Photoshop](https://community.adobe.com/t5/photoshop-ecosystem-discussions/photoshop-asv-file-preset-wont-open/mp/12587356)
-
-
+* [Įkelti ASV failą į Adobe Photoshop](https://community.adobe.com/t5/photoshop-ecosystem-discussions/photoshop-asv-file-preset-wont-open/m-p/12587356)

@@ -54,6 +54,5 @@ NSZ failus atidarančiose programose yra **nsz** programa, kuri gali išspausti 
 – **nsz** (nemokama), skirta (Windows, Mac, Linux)
 
 ## Nuorodos
-* [Yuzu emuliatorius](https://en.wikipedia.org/wiki/Yuzu_(emulatorius))
-
+* [Yuzu Emulator](https://en.wikipedia.org/wiki/Yuzu_(emulator))
 

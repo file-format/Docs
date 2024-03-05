@@ -63,9 +63,4 @@ Tai saugoma kaip beženklis 32 bitų mažasis sveikasis skaičius, kurio reikšm
 Nesuspaustas dydis išsaugomas kaip nepasirašytas 64 bitų mažasis sveikasis skaičius. Speciali 0xFFFF_FFFF_FFFF_FFFF reikšmė rodo, kad nesuspaustas dydis nežinomas. Reikšmė rodoma naudingosios apkrovos pabaigos žymekliu (\*) tada ir tik tada, jei nesuspaustas dydis nežinomas.
 
 ## Nuorodos
-
-* [LZMA failo formatas](https://svn.python.org/projects/external/xz-5.0.3/doc/lzma-file-format.txt)
-
 * [Lempel–Ziv–Markov grandinės algoritmas](https://en.wikipedia.org/wiki/Lempel%E2%80%93Ziv%E2%80%93Markov_chain_algorithm)
-
-

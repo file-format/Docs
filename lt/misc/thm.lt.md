@@ -30,10 +30,4 @@ A THM file contains an XML file, several image file sin [.png](/image/png/), [.p
 
 ## Kaip sukurti „Sony Ericsson“ temas?
 
-Sony Themes Creator programinė įranga gali būti naudojama kuriant naujas temas Sony Ericsson mobiliesiems telefonams. Naudotojai gali sekti Sony [Themes Creator Developer Guide](https://developer.sony.com/theme-creator/get-started) kurdami temas.
-
-## Nuorodos
-
-* [Sony Themes Creator Developer Guide](https://developer.sony.com/theme-creator/get-started)
-
-
+Sony Themes Creator programinė įranga gali būti naudojama kuriant naujas temas Sony Ericsson mobiliesiems telefonams. Naudotojai gali sekti Sony Themes Creator Developer Guide kurdami temas.

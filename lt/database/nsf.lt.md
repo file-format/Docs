@@ -28,7 +28,7 @@
 
 ## Kas yra NSF failas?
 
-Failas su plėtiniu .nsf (Notes Storage Facility) yra duomenų bazės failo formatas, naudojamas [IBM Notes software](https://en.wikipedia.org/wiki/HCL_Domino), kuris anksčiau buvo žinomas kaip Lotus Notes. Ji apibrėžia schemą, skirtą įvairių tipų objektams, tokiems kaip el. laiškai, susitikimai, dokumentai, formos ir rodiniai, saugoti. Visa ši informacija yra viename verslo bendradarbiavimo NSF faile, panašiame į PST/OST failą. Kai kurios programos, galinčios atidaryti NSF failus, yra IBM Lotus Notes ir IBM Domino.
+Failas su plėtiniu .nsf (Notes Storage Facility) yra duomenų bazės failo formatas, naudojamas [IBM Notes software](https://en.wikipedia.org/wiki/HCL_Notes), kuris anksčiau buvo žinomas kaip Lotus Notes. Ji apibrėžia schemą, skirtą įvairių tipų objektams, tokiems kaip el. laiškai, susitikimai, dokumentai, formos ir rodiniai, saugoti. Visa ši informacija yra viename verslo bendradarbiavimo NSF faile, panašiame į PST/OST failą. Kai kurios programos, galinčios atidaryti NSF failus, yra IBM Lotus Notes ir IBM Domino.
 
 ## NSF failo formato specifikacijos
 

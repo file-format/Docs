@@ -82,7 +82,7 @@ void draw() {
 
 ## Nuoroda ##
 
-* [PDE – pateikė Vikipedija](https://en.wikipedia.org/wiki/Processing_(programing_language))
+* [PDE – pateikė Vikipedija](https://en.wikipedia.org/wiki/Processing)
 
 
 

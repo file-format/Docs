@@ -24,9 +24,3 @@ Failas su plėtiniu .olm yra Microsoft Outlook failas, skirtas Mac operacinei si
 ## OLM failo formatas
 
 OLM yra dvejetainiai failai su Application/octet-stream MIME tipu. Techninės OLM failo formato specifikacijos nėra atvirai prieinamos iš Microsoft ir nėra informacijos apie formatą kūrėjui. Tačiau yra kai kurių API, kurios gali nuskaityti OLM failo formatą ir įrašyti juos į PST failą, skirtą naudoti Microsoft Windows operacinėje sistemoje, pvz., Aspose.Email.
-
-## Nuorodos
-
-* [OLM failo formatas?](https://social.msdn.microsoft.com/Forums/office/en-US/4ce689ee-8fad-4362-a0eb-06382646a845/olm-file-format?forum=os_binaryfile)
-
-

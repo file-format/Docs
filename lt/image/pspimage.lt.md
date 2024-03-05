@@ -37,5 +37,4 @@ PSPIMAGE failus galima sukurti kaip naują failą iš PaintShop Pro. Dėl sluoks
 
 ## Nuorodos
 
- * [PSPIMAGE konversija](https://community.adobe.com/t5/photoshop-ecosystem-discussions/pspimage-conversion/mp/5288141)
-
+ * [PSPIMAGE konversija](https://community.adobe.com/t5/photoshop-ecosystem-discussions/pspimage-conversion/m-p/5288141)

@@ -34,8 +34,3 @@ MART failai yra žinomi kaip el. publikacijų failai, naudojami MartView program
 
 Martview el. knygos formatas yra patentuotas ir veikia kaip vaizdų talpykla. Atvirojo kodo konverteriai leidžia el. knygų skaitytuvams konvertuoti [PDF](/pdf/), [GIF](/image/gif/), [GIF](/image/gif/), [PNG](/image/png/), [RAR](/compression/rar/) ir [ZIP](/compression/zip/) dokumentus į Martview formatą. Atminkite, kad RAR ir ZIP failuose turi būti vaizdų. MART failai gali būti tinkami dirbti pavieniams failams, tačiau jei turite daug skirtingų formatų el. knygų, tikrai nenorite gaišti laiko konvertuodami jas visas į vieną formatą, kad galėtumėte jas skaityti el. knygų skaitytuve. .
 
-## Nuorodos
-
-* [Martview, geriausia el. knygų skaitytuvas PDF elektroninėms knygoms](https://www.ghacks.net/2011/04/15/martview-best-ebook-reader-for-pdf-e-books/)
-
-

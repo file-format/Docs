@@ -24,7 +24,3 @@ DCX failas yra vaizdo failas, susidedantis iš kelių puslapių, skirtų skaitme
 ## Nuorodos
 
 * [PCX – Vikipedija](https://en.wikipedia.org/wiki/PCX)
-
-* [ZSoft PCX failo formato techninis informacinis vadovas](http://qzx.com/pc-gpe/pcx.txt)
-
-

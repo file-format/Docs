@@ -27,6 +27,4 @@ ESPROJ failai išsaugomi kaip dvejetainiai failai, o jų turinio žmogus neskait
 
 ## Nuorodos
 
-* [Adobe Edge](https://www.adobe.com/sea/products/edge-animate.html)
-
-
+* [Adobe Edge](https://en.wikipedia.org/wiki/Adobe_Edge_Animate)

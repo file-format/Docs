@@ -33,7 +33,7 @@ Failas su plėtiniu .qt yra daugialypės terpės sudėtinio rodinio failas, kur�
 
 ## QT failo formatas
 
-QTFF yra orientuotas į objektą, kuris atskleidžia lanksčią objektų kolekciją, kad būtų lengviau analizuoti ir išplėsti. Kiekviename QT failo takelyje yra skaitmeniniu būdu užkoduotas medijos srautas arba duomenų nuoroda į medijos srautą, esantį kitame faile. Hierarchinė duomenų struktūra, kurią sudaro objektai, vadinami atomais, veikia kaip sekimo konteineriai. Apple Inc oficialiai pateikia [QT file format](https://developer.apple.com/library/archive/documentation/QuickTime/QTFF/QTFFPreface/qtffPreface.html) failo formato specifikacijas kūrėjui.
+QTFF yra orientuotas į objektą, kuris atskleidžia lanksčią objektų kolekciją, kad būtų lengviau analizuoti ir išplėsti. Kiekviename QT failo takelyje yra skaitmeniniu būdu užkoduotas medijos srautas arba duomenų nuoroda į medijos srautą, esantį kitame faile. Hierarchinė duomenų struktūra, kurią sudaro objektai, vadinami atomais, veikia kaip sekimo konteineriai. Apple Inc oficialiai pateikia [QT file format](https://developer.apple.com/documentation/quicktime-file-format) failo formato specifikacijas kūrėjui.
 
 ### Media description
 
@@ -65,8 +65,5 @@ Kitas gabalas yra poslinkyje 32+8#40 (šeš. šešiolik.: 28), jo dydis yra 3 26
 
 ## Nuorodos Nr.
 
-* [QT failo formatas – Apple Inc.](https://developer.apple.com/library/archive/documentation/QuickTime/QTFF/QTFFPreface/qtffPreface.html)
-
+* [QT failo formatas – Apple Inc.](https://developer.apple.com/documentation/quicktime-file-format)
 * [QuickTime failo formatas – Vikipedija](https://en.wikipedia.org/wiki/QuickTime_File_Format)
-
-

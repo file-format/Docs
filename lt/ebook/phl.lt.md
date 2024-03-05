@@ -37,10 +37,4 @@ Naudodami Amazon Kindle eReading įrenginį, skaitytojai gali paryškinti ištra
 ## Nuorodos
 
 * [Peržiūrėti populiariausius „Kindles“ pranešimus](https://en.wikipedia.org/wiki/Orb_Books)
-
-* [Populiarūs akcentai atskleidžia spustelėjusį turinį](https://www.searchenginepeople.com/blog/kindle-highlights.html)
-
 * [Kaip išjungti populiariausius „Kindle“ akcentus](https://www.howtogeek.com/355701/how-to-turn-off-popular-highlights-on-your-kindle)
-
-
-

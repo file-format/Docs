@@ -21,7 +21,7 @@
 
 FMW failas yra projekto failas, sukurtas naudojant FME Workbench programinę įrangą (yra FME Desktop komplekto dalis), naudojamas erdviniams duomenims transformuoti. Jame yra vartotojo apibrėžti nustatymai, naudojami manipuliuoti erdviniais duomenimis, pvz., įvesties duomenų rinkiniai, vertimo ypatybės, projekcijos ir išvesties nustatymai. Erdvinių duomenų apdorojimo nustatymai išsaugomi kaip vaizdinis išdėstymas, juos lengva redaguoti ir vėl išsaugoti.
 
-FMW failus galite atidaryti naudodami [Safe Software FME Desktop](https://www.safe.com/fme/fme-desktop/).
+FMW failus galite atidaryti naudodami [Safe Software FME Desktop](https://fme.safe.com/platform/).
 
 ## FMW failo formatas – daugiau informacijos
 
@@ -70,7 +70,5 @@ FMW failai saugomi diske kaip dvejetainiai failai ir gali būti nuskaitomi tik n
 
 ## Nuorodos
 
-* [Saugi programinė įranga FME Desktop](https://www.safe.com/fme/fme-desktop/)
-
+* [Saugi programinė įranga FME Desktop](https://fme.safe.com/platform/)
 * [FMW Quick Facts](https://docs.safe.com/fme/html/FME_Desktop_Documentation/FME_ReadersWriters/fmw/quick_facts_fmw.htm)
-

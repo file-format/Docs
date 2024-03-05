@@ -39,6 +39,4 @@ ASD failai, sukurti pagal originalius failus, lieka prieinami kartu ir naudojami
 
 ## Nuorodos
 
-* [Atkurti Microsoft Word dokumentą](https://learn.microsoft.com/en-us/office/troubleshoot/word/recover-lost-usaved-corrupted-document)
-
-
+* [Atkurti Microsoft Word dokumentą](https://learn.microsoft.com/en-us/office/troubleshoot/word/recover-lost-unsaved-corrupted-document)

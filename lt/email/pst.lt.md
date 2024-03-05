@@ -98,7 +98,6 @@ Saugumo sumetimais PST failai taip pat gali b큰ti apsaugoti slapta탑od탑iu, tod�
 ## Nuorodos Nr.
 
 * [Outlook asmenini킬 aplank킬 (.pst) failo formatas](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546)
-
 * [Asmeninio aplanko failo formato specifikacijos](https://github.com/libyal/libpff/blob/main/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
 
 

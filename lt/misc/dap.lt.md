@@ -22,9 +22,3 @@
 DAP failas yra atsisiunčiamas failas, sukurtas naudojant Download Accelerator Plus (DAP) failą. Jis sukuriamas, kai vartotojai inicijuoja atsisiuntimą iš bet kurios internetinės failų saugyklos naudodami DAP programinę įrangą. DAP suteikia galimybę pristabdyti ir tęsti vykdomą atsisiuntimą. Šiuo tikslu ji išsaugo iš dalies atsisiųstą failą su plėtiniu .dap, kol jis visiškai atsisiunčiamas. DAP failą galima peržiūrėti atsisiuntimo proceso metu.
 
 DAP failus galima atidaryti naudojant SpeedBit Download Accelerator Plus (DAP) programinę įrangą.
-
-## Nuorodos
-
-* [DAP žinynas – tvarkykite išsaugojimo aplankus](http://www.speedbit.com/dap-help/download-accelerator-file-manager/)
-
-

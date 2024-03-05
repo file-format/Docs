@@ -107,7 +107,7 @@ class BaseVector {
 
 ## Nuoroda ##
 
-* [NUT – Vikipedijos](https://en.wikipedia.org/wiki/Squirrel_(programing_language))
+* [NUT – Vikipedijos](https://en.wikipedia.org/wiki/Squirrel_(programming_language))
 
 
 

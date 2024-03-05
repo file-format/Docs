@@ -29,7 +29,7 @@
 
 ## Kas yra RTF failas?
 
-Microsoft įdiegtas ir dokumentuotas raiškiojo teksto formatas (**RTF**) yra suformatuoto teksto ir grafikos kodavimo metodas, skirtas naudoti programose. Formatas palengvina kelių platformų dokumentų keitimąsi su kitais Microsoft produktais ir taip tarnauja sąveikos tikslui. Dėl šios galimybės tai yra duomenų perdavimo tarp teksto apdorojimo programinės įrangos standartu, todėl turinį galima perkelti iš vienos operacinės sistemos į kitą neprarandant dokumento formatavimo. Failo formato specifikacijas Microsoft siūlo viešai [download](https://interoperability.blob.core.windows.net/files/Archive_References/%5bMSFT-RTF%5d.pdf) ir jas galima remtis kūrėjo požiūriu.
+Microsoft įdiegtas ir dokumentuotas raiškiojo teksto formatas (**RTF**) yra suformatuoto teksto ir grafikos kodavimo metodas, skirtas naudoti programose. Formatas palengvina kelių platformų dokumentų keitimąsi su kitais Microsoft produktais ir taip tarnauja sąveikos tikslui. Dėl šios galimybės tai yra duomenų perdavimo tarp teksto apdorojimo programinės įrangos standartu, todėl turinį galima perkelti iš vienos operacinės sistemos į kitą neprarandant dokumento formatavimo. Failo formato specifikacijas Microsoft siūlo viešai download ir jas galima remtis kūrėjo požiūriu.
 
 ## Trumpa RTF failo formato ## istorija
 
@@ -79,7 +79,7 @@ Grupę gali sudaryti tekstas, kontroliniai žodžiai arba valdymo simboliai, įt
 
 RTF failas turi tokią standartinę sintaksę:
 
-Microsoft įdiegtas ir dokumentuotas raiškiojo teksto formatas (**RTF**) yra suformatuoto teksto ir grafikos kodavimo metodas, skirtas naudoti programose. Formatas palengvina kelių platformų dokumentų keitimąsi su kitais Microsoft produktais ir taip tarnauja sąveikos tikslui. Dėl šios galimybės tai yra duomenų perdavimo tarp teksto apdorojimo programinės įrangos standartu, todėl turinį galima perkelti iš vienos operacinės sistemos į kitą neprarandant dokumento formatavimo. Failų formato specifikacijas Microsoft teikia viešai [download](https://interoperability.blob.core.windows.net/files/Archive_References/%5bMSFT-RTF%5d.pdf) ir jas galima remtis kūrėjo požiūriu.
+Microsoft įdiegtas ir dokumentuotas raiškiojo teksto formatas (**RTF**) yra suformatuoto teksto ir grafikos kodavimo metodas, skirtas naudoti programose. Formatas palengvina kelių platformų dokumentų keitimąsi su kitais Microsoft produktais ir taip tarnauja sąveikos tikslui. Dėl šios galimybės tai yra duomenų perdavimo tarp teksto apdorojimo programinės įrangos standartu, todėl turinį galima perkelti iš vienos operacinės sistemos į kitą neprarandant dokumento formatavimo. Failų formato specifikacijas Microsoft teikia viešai download ir jas galima remtis kūrėjo požiūriu.
 
 #### RTF antraštė ####
 
@@ -144,8 +144,4 @@ Kiekvienas RTF dokumentas turi baigtis }, kad būtų uždaryta grupė, atidaryta
 
 ## Nuorodos Nr.
 
-* [RTF 1.9.1 specifikacijos](https://interoperability.blob.core.windows.net/files/Archive_References/%5bMSFT-RTF%5d.pdf)
-
 * [Raiškiojo teksto formatas](https://en.wikipedia.org/wiki/Rich_Text_Format)
-
-
