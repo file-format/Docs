@@ -12,7 +12,7 @@
   "menu" : {
     "docs" : {
       "parent" : "3d",
-"svars : 01"
+"weight" : "01"
 }
 },
   "lastmod" : "2020-09-01"

@@ -12,7 +12,7 @@
   "menu" : {
     "docs" : {
       "parent" : "publisher",
-"svars : 01"
+"weight" : "01"
 }
 },
   "lastmod" : "2019-09-10"

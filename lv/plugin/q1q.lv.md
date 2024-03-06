@@ -25,7 +25,7 @@
 
 Q1Q spraudņa faili tiek saglabāti Flaming Pear patentētā faila formātā, un tā iekšējā faila formāta informācija nav publiski pieejama. Nākamajā attēlā parādīts Q1Q spraudņa lietotāja interfeiss, kad tas ir ielādēts programmā Photoshop.
 
-{{<figure src=../q1q.png alt=LunarCell PluginFile Format > }}
+{{<figure src="../q1q.png" alt="LunarCell PluginFile Format" >}}
 
 ## Kā atvērt Q1Q failu?
 

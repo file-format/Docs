@@ -10,7 +10,6 @@
   "linktitle": "SEAM",
   "menu": {
     "docs": {
-"identifikators: tīmekļa šuve",
       "parent": "web",
       "identifier": "web-sea-lvm"
 }

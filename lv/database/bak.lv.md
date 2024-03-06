@@ -53,7 +53,7 @@ Deskriptoru bloki (DBLK) tiek izmantoti formāta kontrolei un veido MTF faila pr
  * Operētājsistēmas dati — konkrēti dati, kas definēti, pamatojoties uz DBLK un operētājsistēmu veidu
  * DBLK informācija — mainīga garuma DBLK specifiska informācija, ko nevar saglabāt, izmantojot fiksēta garuma DBLK informāciju.
 
-{{< figure src=../bak.png alt=Microsoft SQL dublējuma faila formāts >}}
+{{< figure src="../bak.png" alt="Microsoft SQL Backup File Format" >}}
 
 #### Datu straume
 

@@ -12,7 +12,7 @@
   "menu" : {
     "docs" : {
       "parent" : "executable",
-"svars : 01"
+"weight" : "01"
 }
 },
   "lastmod" : "2021-06-24"
