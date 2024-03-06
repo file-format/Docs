@@ -82,7 +82,7 @@ package com.example
 
 ## Atsauce Nr.
 
-* [AS — Wikipedia]( https://en.wikipedia.org/wiki/ActionScript)
+* [AS — Wikipedia](https://en.wikipedia.org/wiki/ActionScript)
 
 
 

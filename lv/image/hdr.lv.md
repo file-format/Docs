@@ -38,7 +38,7 @@ HDR attēla fails sastāv no šādām trim sadaļām:
 ## Atvērtā koda HDR/HDRI API
 
  * **[imageinfo](https://github.com/xiaozhuai/imageinfo)** — starpplatformu īpaši ātra vienas galvenes [C++](/programming/cpp/) bibliotēka, lai iegūtu attēla izmēru un formātu bez ielādes/dekodēšanas.
- * **[imgaeinfo-rs](https://github.com/xiaozhuai/imageinfo-rs)** — rūsas bibliotēka, lai iegūtu attēla izmēru un formātu bez ielādes/dekodēšanas. Atbalsta [.avif](/image/avif/), [.bmp](/image/bmp/), [.cur](/image/cur/), [.dds](/image/dds/), [ .gif](/image/gif/), hdr (pic), [heic (heif)](/image/heic/), [.icns](/image/icns/), [.ico](/image/ ico/), [.jp2](/image/jp2/), [jpeg (jpg)](/image/jpeg/), [jpx](/image/jpx/), ktx, [png](/image/ png/), [psd](/image/psd/), qoi, tga, tiff (tif) un webp.
+ * **[imgaeinfo-rs](https://github.com/xiaozhuai/imageinfo-rs)** — rūsas bibliotēka, lai iegūtu attēla izmēru un formātu bez ielādes/dekodēšanas. Atbalsta [.avif](/image/avif/), [.bmp](/image/bmp/), [.cur](/image/cur/), [.dds](/image/dds/), [ .gif](/image/gif/), hdr (pic), [heic (heif)](/image/heic/), [.icns](/image/icns/), [.ico](/image/ico/), [.jp2](/image/jp2/), [jpeg (jpg)](/image/jpeg/), [jpx](/image/jpx/), ktx, [png](/image/png/), [psd](/image/psd/), qoi, tga, tiff (tif) un webp.
  * **[HdrHistogram](https://github.com/HdrHistogram/HdrHistogram)** — HdrHistogrammas Java ieviešana.
 
 ## Atsauces
