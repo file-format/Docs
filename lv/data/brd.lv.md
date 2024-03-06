@@ -62,6 +62,4 @@ BRD failus, kas tiek izmantoti PCB projektēšanā, var atvērt dažādās PCB d
 - **Atvērt Board Viewer** (bezmaksas) operētājsistēmai Linux
 
 ## Atsauces
-* [EAGLE programma](https://en.wikipedia.org/wiki/EAGLE_(programma))
-
-
+* [EAGLE program](https://en.wikipedia.org/wiki/EAGLE_(program))

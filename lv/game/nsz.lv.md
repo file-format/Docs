@@ -54,6 +54,4 @@ Programmas, kas atver NSZ failus, ietver **nsz** programmu, kas var atspiest NSZ
 - **nsz** (bezmaksas) operētājsistēmai Windows, Mac, Linux)
 
 ## Atsauces
-* [Yuzu emulators](https://en.wikipedia.org/wiki/Yuzu_(emulators))
-
-
+* [Yuzu Emulator](https://en.wikipedia.org/wiki/Yuzu_(emulator))

@@ -28,7 +28,4 @@ ECE faili netiek saglabāti diskā, bet tiek piegādāti tieši lietotājam pēc
 Klientu pārlūkprogrammas var piekļūt saturam ECE serveros, izmantojot HTTP/REST API. Papildus [HTML](/web/html/) lapu apkalpošanai ECE nodrošina ļoti efektīvu darbplūsmu video/audio satura pārvaldībai un publicēšanai.
 
 ## Atsauces
-
-* [Adobe Edge](https://www.adobe.com/sea/products/edge-animate.html)
-
-
+* [Adobe Edge](https://en.wikipedia.org/wiki/Adobe_Edge_Animate)

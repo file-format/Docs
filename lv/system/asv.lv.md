@@ -38,7 +38,4 @@ relatīvā vai absolūtā metode.
 ASV faili tiek saglabāti binārā faila formātā, un to saturs nav cilvēkiem lasāmā formā.
 
 ## Atsauces
-
-* [Ielādēt ASV failu programmā Adobe Photoshop](https://community.adobe.com/t5/photoshop-ecosystem-discussions/photoshop-asv-file-preset-wont-open/mp/12587356)
-
-
+* [Ielādēt ASV failu programmā Adobe Photoshop](https://community.adobe.com/t5/photoshop-ecosystem-discussions/photoshop-asv-file-preset-wont-open/m-p/12587356)

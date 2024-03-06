@@ -33,7 +33,7 @@ Fails ar paplašinājumu .qt ir multivides konteinera fails, ko QuickTime ietvar
 
 ## QT faila formāts
 
-QTFF ir objektorientēts, kas nodrošina elastīgu objektu kolekciju, lai atvieglotu parsēšanu un paplašināšanu. Katrs celiņš QT failā satur digitāli kodētu multivides straumi vai datu atsauci uz multivides straumi, kas atrodas citā failā. Hierarhiskā datu struktūra, kas sastāv no objektiem, ko sauc par atomiem, darbojas kā trases konteineri. Apple Inc ir oficiāli pieejamas [QT file format](https://developer.apple.com/library/archive/documentation/QuickTime/QTFF/QTFFPreface/qtffPreface.html) faila formāta specifikācijas izstrādātāja uzziņai.
+QTFF ir objektorientēts, kas nodrošina elastīgu objektu kolekciju, lai atvieglotu parsēšanu un paplašināšanu. Katrs celiņš QT failā satur digitāli kodētu multivides straumi vai datu atsauci uz multivides straumi, kas atrodas citā failā. Hierarhiskā datu struktūra, kas sastāv no objektiem, ko sauc par atomiem, darbojas kā trases konteineri. Apple Inc ir oficiāli pieejamas [QT file format](https://developer.apple.com/documentation/quicktime-file-format) faila formāta specifikācijas izstrādātāja uzziņai.
 
 ### Media description
 
@@ -64,9 +64,5 @@ Here is a sample example: Inspecting a sample MOV file’s binary data it is evi
 Nākamais fragments atrodas nobīdē 32+8#40 (hex: 28), un tā izmērs ir 3 263 028 (hex: 00 31 CA 34), un 44. nobīdē (hex. veids ir **mdat** (hex: 6D 64 61 74) : 2C). Nākamā daļa atrodas nobīdē 40 + 3 263 028 # 3 263 068 (hex: 00 31 CA 5C), un tās izmērs ir 21 189 (hex: 00 00 52 C5) un ierakstiet **moov** (hex: 6D 6F) pie 6F. 1 836 019 574 (hex: 00 31 CA 60). Šis ir pēdējais fragments, tāpēc kopējais faila lielums ir 3 263 068 + 21 189 # 3 284 257 baiti.
 
 ## Atsauces Nr.
-
-* [QT faila formāts — Apple Inc.](https://developer.apple.com/library/archive/documentation/QuickTime/QTFF/QTFFPreface/qtffPreface.html)
-
+* [QT faila formāts — Apple Inc.](https://developer.apple.com/documentation/quicktime-file-format)
 * [QuickTime faila formāts — Wikipedia](https://en.wikipedia.org/wiki/QuickTime_File_Format)
-
-

@@ -24,7 +24,4 @@ EPIBRW fails ir vispārīgs fails, kas tiek mitināts uz Microsoft IIS balstīt�
 Veicot dubultklikšķi uz EPIBRW faila, tas var tikt atvērts pārlūkprogrammā, parādot saturu. Tomēr, ja fails ir saistīts lejupielādei, šī notikuma rezultātā tiks uzsākts faila lejupielādes process.
 
 ## Atsauces
-
-* [Adobe Edge](https://www.adobe.com/sea/products/edge-animate.html)
-
-
+* [Adobe Edge](https://en.wikipedia.org/wiki/Adobe_Edge_Animate)

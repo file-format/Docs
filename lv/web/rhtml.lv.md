@@ -45,7 +45,4 @@ Nākamajā piemērā tiek izmantota vienkāršākā HTML un Ruby on Rails kombin
 </ul>
 ```
 ## Atsauces
-
 * [TutorialsPoint — Ruby on Rails](https://www.tutorialspoint.com/ruby-on-rails/rails-and-rhtml.htm)
-
-

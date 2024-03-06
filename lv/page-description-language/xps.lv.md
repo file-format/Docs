@@ -66,15 +66,11 @@ XPS formāts sastāv no XML marķējuma, kas nosaka dokumenta sastāvu un katras
 
 XPS dokumenta formāts ietver labi definētu daļu un attiecību kopu, no kurām katra atbilst konkrētam dokumenta mērķim. Formāts arī paplašina pakotnes funkcijas, tostarp ciparparakstus, sīktēlus un izvietošanu.
 
-Tipisks XPS dokuments izskatās šādi, un to var analizēt, ņemot vērā XPS faila formātu [specifications](https://www.ecma-international.org/activities/XML%20Paper%20Specification/XPS%20Standard.pdf).
+Tipisks XPS dokuments izskatās šādi, un to var analizēt, ņemot vērā XPS faila formātu specifications.
 
 {{< figure src="../XPS-2.png" alt="XPS faila formāts" >}}
 
 
 ## Atsauces Nr.
-
 * [XPS faila formāta specifikācijas](https://www.ecma-international.org/publications-and-standards/standards/ecma-388/)
-
 * [XPS — Wikipedia](https://en.wikipedia.org/wiki/Open_XML_Paper_Specification#Viewing_and_creating_XPS_documents)
-
-

@@ -43,10 +43,7 @@ Nākamajā ZUML koda piemērā pirmajā rindā ir norādīts lapas nosaukums, ot
     <button label="hi" onClick='alert("hi")'/>
 ```
 ZUL shēmu var lejupielādēt no https://www.zkoss.org/2005/zul/zul.xsd.
+
 ## Atsauces
-
 * [ZUL — ZK](https://www.zkoss.org/wiki/ZK_Getting_Started/Tutorial)
-
 * [ZUL shēma](https://www.zkoss.org/2005/zul/zul.xsd)
-
-

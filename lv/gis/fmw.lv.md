@@ -21,7 +21,7 @@
 
 FMW fails ir projekta fails, kas izveidots ar FME Workbench programmatūru (nāk kā daļa no FME Desktop komplekta), ko izmanto telpisko datu pārveidošanai. Tajā ir lietotāja definēti iestatījumi, ko izmanto telpisko datu manipulācijām, piemēram, ievades datu kopas, tulkošanas rekvizīti, projekcijas un izvades iestatījumi. Telpisko datu manipulācijas iestatījumi tiek saglabāti kā vizuāls izkārtojums, un tos ir viegli rediģēt un atkārtoti saglabāt.
 
-Varat atvērt FMW failus, izmantojot [Safe Software FME Desktop](https://www.safe.com/fme/fme-desktop/).
+Varat atvērt FMW failus, izmantojot [Safe Software FME Desktop](https://fme.safe.com/platform/).
 
 ## FMW faila formāts — vairāk informācijas
 
@@ -69,8 +69,5 @@ FMW faili tiek saglabāti diskā kā bināri faili, un tos var lasīt, izmantojo
 
 
 ## Atsauces
-
-* [Droša programmatūra FME Desktop](https://www.safe.com/fme/fme-desktop/)
-
+* [Droša programmatūra FME Desktop](https://fme.safe.com/platform/)
 * [FMW Quick Facts](https://docs.safe.com/fme/html/FME_Desktop_Documentation/FME_ReadersWriters/fmw/quick_facts_fmw.htm)
-

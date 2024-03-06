@@ -28,7 +28,7 @@
 
 ## Kas ir NSF fails?
 
-Fails ar paplašinājumu .nsf (Notes Storage Facility) ir datu bāzes faila formāts, ko izmanto [IBM Notes software](https://en.wikipedia.org/wiki/HCL_Domino), kas iepriekš bija pazīstams kā Lotus Notes. Tā nosaka shēmu dažāda veida objektu, piemēram, e-pastu, tikšanās, dokumentu, veidlapu un skatu glabāšanai. Visa šī informācija ir ietverta vienā NSF failā biznesa sadarbībai, kas ir līdzīgs PST/OST failam. Dažas lietojumprogrammas, kas var atvērt NSF failus, ir IBM Lotus Notes un IBM Domino.
+Fails ar paplašinājumu .nsf (Notes Storage Facility) ir datu bāzes faila formāts, ko izmanto [IBM Notes software](https://en.wikipedia.org/wiki/HCL_Notes), kas iepriekš bija pazīstams kā Lotus Notes. Tā nosaka shēmu dažāda veida objektu, piemēram, e-pastu, tikšanās, dokumentu, veidlapu un skatu glabāšanai. Visa šī informācija ir ietverta vienā NSF failā biznesa sadarbībai, kas ir līdzīgs PST/OST failam. Dažas lietojumprogrammas, kas var atvērt NSF failus, ir IBM Lotus Notes un IBM Domino.
 
 ## NSF faila formāta specifikācijas
 

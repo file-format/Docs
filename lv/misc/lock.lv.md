@@ -42,9 +42,5 @@ Linux atbalsta divu veidu failu bloķēšanu: konsultatīvās bloķēšanas un o
 obligāta bloķēšana neprasa sadarbību starp iesaistītajiem procesiem. Kad failā ir aktivizēta obligātā bloķēšana, operētājsistēma neļauj citiem procesiem nolasīt vai rakstīt failu.
 
 ## Atsauces
-
 * [GemFile un Gemfile.lock in Ruby](https://medium.com/never-hop-on-the-bandwagon/gemfile-and-gemfile-lock-in-ruby-65adc918b856)
-
-* [Bloķēšana operētājsistēmā Linux](https://www.baeldung.com/linux/file-locking#:~:text=File%20locking%20is%20a%20mechanism,very%20dangerous%20command%20in%20Linux.)
-
-
+* [Bloķēšana operētājsistēmā Linux](https://www.baeldung.com/linux/file-locking)

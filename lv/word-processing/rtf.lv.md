@@ -29,7 +29,7 @@
 
 ## Kas ir RTF fails?
 
-Microsoft ieviestais un dokumentētais bagātinātā teksta formāts (**RTF**) ir metode formatēta teksta un grafikas kodēšanai lietošanai lietojumprogrammās. Formāts atvieglo starpplatformu dokumentu apmaiņu ar citiem Microsoft produktiem, tādējādi kalpojot sadarbspējas mērķim. Šī iespēja padara to par standartu datu pārsūtīšanai starp tekstapstrādes programmatūru, un tādējādi saturu var pārsūtīt no vienas operētājsistēmas uz citu, nezaudējot dokumenta formatējumu. Faila formāta specifikācijas ir pieejamas Microsoft publiskai lietošanai [download](https://interoperability.blob.core.windows.net/files/Archive_References/%5bMSFT-RTF%5d.pdf), un tās var atsaukties no izstrādātāja viedokļa.
+Microsoft ieviestais un dokumentētais bagātinātā teksta formāts (**RTF**) ir metode formatēta teksta un grafikas kodēšanai lietošanai lietojumprogrammās. Formāts atvieglo starpplatformu dokumentu apmaiņu ar citiem Microsoft produktiem, tādējādi kalpojot sadarbspējas mērķim. Šī iespēja padara to par standartu datu pārsūtīšanai starp tekstapstrādes programmatūru, un tādējādi saturu var pārsūtīt no vienas operētājsistēmas uz citu, nezaudējot dokumenta formatējumu. Faila formāta specifikācijas ir pieejamas Microsoft publiskai lietošanai download, un tās var atsaukties no izstrādātāja viedokļa.
 
 ## Īsa RTF faila formāta vēsture ##
 
@@ -79,7 +79,7 @@ Grupa var sastāvēt no teksta, vadības vārdiem vai vadības simboliem, kas ie
 
 RTF failam ir šāda standarta sintakse:
 
-Microsoft ieviestais un dokumentētais bagātinātā teksta formāts (**RTF**) ir metode formatēta teksta un grafikas kodēšanai lietošanai lietojumprogrammās. Formāts atvieglo starpplatformu dokumentu apmaiņu ar citiem Microsoft produktiem, tādējādi kalpojot savietojamības mērķim. Šī iespēja padara to par standartu datu pārsūtīšanai starp tekstapstrādes programmatūru, un tādējādi saturu var pārsūtīt no vienas operētājsistēmas uz citu, nezaudējot dokumenta formatējumu. Faila formāta specifikācijas ir pieejamas Microsoft publiskai lietošanai [download](https://interoperability.blob.core.windows.net/files/Archive_References/%5bMSFT-RTF%5d.pdf), un tās var atsaukties no izstrādātāja viedokļa.
+Microsoft ieviestais un dokumentētais bagātinātā teksta formāts (**RTF**) ir metode formatēta teksta un grafikas kodēšanai lietošanai lietojumprogrammās. Formāts atvieglo starpplatformu dokumentu apmaiņu ar citiem Microsoft produktiem, tādējādi kalpojot savietojamības mērķim. Šī iespēja padara to par standartu datu pārsūtīšanai starp tekstapstrādes programmatūru, un tādējādi saturu var pārsūtīt no vienas operētājsistēmas uz citu, nezaudējot dokumenta formatējumu. Faila formāta specifikācijas ir pieejamas Microsoft publiskai lietošanai download, un tās var atsaukties no izstrādātāja viedokļa.
 
 #### RTF galvene ####
 
@@ -143,9 +143,4 @@ Dokumentā ar šo fontu tabulu `{\f2 stuff}` drukātu stuff” programmā Courie
 Katram RTF dokumentam ir jābeidzas ar }, lai aizvērtu grupu, ko atver {, kas ir pirmā rakstzīme dokumentā. Nekas nevar sekot finālam }, izņemot, iespējams, jaunu rindiņu.
 
 ## Atsauces Nr.
-
-* [RTF 1.9.1 specifikācijas](https://interoperability.blob.core.windows.net/files/Archive_References/%5bMSFT-RTF%5d.pdf)
-
 * [bagātināta teksta formāts](https://en.wikipedia.org/wiki/Rich_Text_Format)
-
-

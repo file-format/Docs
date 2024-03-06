@@ -26,7 +26,4 @@ ESPROJ fails ir projekta fails, ko izveido tīmekļa lapas, kas veido programmat
 ESPROJ faili tiek saglabāti kā bināri faili, un to saturs nav cilvēkiem lasāms. ESPROJ failu direktorijs ir arī vietnes saknes direktorijs.
 
 ## Atsauces
-
-* [Adobe Edge](https://www.adobe.com/sea/products/edge-animate.html)
-
-
+* [Adobe Edge](https://en.wikipedia.org/wiki/Adobe_Edge_Animate)

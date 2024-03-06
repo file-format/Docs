@@ -30,10 +30,4 @@ A THM file contains an XML file, several image file sin [.png](/image/png/), [.p
 
 ## Kā izveidot Sony Ericsson motīvus?
 
-Programmatūru Sony Themes Creator var izmantot, lai ģenerētu jaunus motīvus Sony Ericsson mobilajiem tālruņiem. Lietotāji var sekot Sony [Themes Creator Developer Guide](https://developer.sony.com/theme-creator/get-started), lai izveidotu motīvus.
-
-## Atsauces
-
-* [Sony Themes Creator izstrādātāja rokasgrāmata](https://developer.sony.com/theme-creator/get-started)
-
-
+Programmatūru Sony Themes Creator var izmantot, lai ģenerētu jaunus motīvus Sony Ericsson mobilajiem tālruņiem. Lietotāji var sekot Sony Themes Creator Developer Guide, lai izveidotu motīvus.

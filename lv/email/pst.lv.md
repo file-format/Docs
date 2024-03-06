@@ -96,9 +96,5 @@ Galvene sākas ar 4 baitu burvju vārdu **!BDN**, ko attēlo baiti (0x21, 0x42,
 Drošības nolūkos PST failus var arī aizsargāt ar paroli, tāpēc ielādes lietojumprogrammai ir jāpiemēro parole, pirms to var skatīt. PST failam lietotā parole tiek saglabāta ziņojumu krātuvē. Tomēr tas nenodrošina spēcīgu datu aizsardzību, jo paroli var noņemt, izmantojot pieejamos rīkus. Arī lietotāja norādītā parole netiek izmantota kā daļa no atslēgas kodēšanas un dekodēšanas šifrēšanas algoritmiem. Tādējādi nav nekādu labumu no datu aizsardzības, kuriem nevar piekļūt nesankcionētas personas. Paroles glabāšana kā sākotnējās virknes CRC-32 jaucējvārds arī padara to par vāju metodi datu drošībai pret brutālu spēku pieeju.
 
 ## Atsauces Nr.
-
 * [Outlook personisko mapju (.pst) faila formāts](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546)
-
 * [Personīgo mapju faila formāta specifikācijas](https://github.com/libyal/libpff/blob/main/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
-
-

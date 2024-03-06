@@ -22,7 +22,4 @@
 WBS fails ir WebBlender izveidots projekta fails, kas ir prezentāciju un vietņu izveides programma bērniem. WBS fails tiek izveidots, kad WebBlender tiek uzsākts jauns projekts. Visas projektam pievienotās vietnes funkcijas, piemēram, lapas, attēli, teksts, animācijas un tā tālāk, ir norādītas WBS projekta failā. Kad projekts ir gatavs, tas publicē vietnes saturu kā [HTML](/web/html/) failu. WebBlender ir izveidojis un uztur [Tech4Learning](https://www.tech4learning.com/).
 
 ## Atsauces
-
 * [Tech4Learning](https://www.tech4learning.com/)
-
-

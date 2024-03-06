@@ -39,6 +39,5 @@ ASD faili, kas izveidoti pret sākotnējiem failiem, paliek pieejami līdzās un
 
 ## Atsauces
 
-* [Atkopt Microsoft Word dokumentu](https://learn.microsoft.com/en-us/office/troubleshoot/word/recover-lost-usaved-corrupted-document)
-
+* [Recover Microsoft Word Document](https://learn.microsoft.com/en-us/office/troubleshoot/word/recover-lost-unsaved-corrupted-document)
 

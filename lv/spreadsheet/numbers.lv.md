@@ -62,10 +62,5 @@ Numuri ietver arī vairākus modernus uzlabojumus, lai uzlabotu izklājlapu vizu
 
 
 ## Atsauces Nr.
-
-* [Cipari (izklājlapa) — Wikipedia](https://en.wikipedia.org/wiki/Numbers_(izklājlapa))
-
-* [Cipari atdzīvina jūsu datus](https://www.apple.com/numbers/)
-
-
-
+* [Numbers (spreadsheet) - Wikipedia](https://en.wikipedia.org/wiki/Numbers_(spreadsheet))
+* [Numbers brings your data to life](https://www.apple.com/numbers/)

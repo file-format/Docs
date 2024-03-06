@@ -26,7 +26,4 @@ Fails ar paplašinājumu .edge ir Adobe Edge Project fails, kas tiek izveidots, 
 EDGE faili tiek saglabāti vienkārša teksta formātā un izmanto jQuery, lai iespējotu animāciju. EDGE animācijas alternatīva bija Flash faili, kas vairs netiek atbalstīti. EDGE fails tiek saglabāts kopā ar HTML, JavaScript un CSS failiem. Atverot EDGE failu, tiek atvērta tīmekļa lapa, ti, HTML fails.
 
 ## Atsauces
-
-* [Adobe Edge](https://www.adobe.com/sea/products/edge-animate.html)
-
-
+* [Adobe Edge](https://en.wikipedia.org/wiki/Adobe_Edge_Animate)

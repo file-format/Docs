@@ -38,6 +38,6 @@ Ja vēlaties dalīties ar savu mūziku ar citiem, Finale palīdz arī šajā jau
 Atveriet programmu MakeMusic Finale. Pēc tam dodieties uz izvēlni ekrāna augšdaļā un noklikšķiniet uz Fails. Pēc tam no opcijām izvēlieties Atvērt.... Datorā atrodiet savu MUSX failu un noklikšķiniet uz tā, lai to atvērtu.
 
 ## Atsauces
-* [Finale (skopu rakstītājs)](https://en.wikipedia.org/wiki/Finale_(scowriter))
+* [Finale (scorewriter)](https://en.wikipedia.org/wiki/Finale_(scorewriter))
 
 

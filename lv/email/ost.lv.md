@@ -88,9 +88,5 @@ Galvene sākas ar 4 baitu burvju vārdu **!BDN**, ko attēlo baiti (0x21, 0x42,
 |rgbReserved3 (32 baiti) |
 
 ## Atsauces
-
 * [Outlook personisko mapju (.ost) faila formāts](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546)
-
 * [Personīgo mapju faila formāta specifikācijas](https://github.com/libyal/libpff/blob/main/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
-
-

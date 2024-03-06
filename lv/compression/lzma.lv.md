@@ -63,9 +63,4 @@ Tas tiek saglabāts kā neparakstīts 32 bitu mazs endian vesels skaitlis ar v�
 Nesaspiestais lielums tiek saglabāts kā neparakstīts 64 bitu mazs endian vesels skaitlis. Īpaša vērtība 0xFFFF_FFFF_FFFF_FFFF norāda, ka nesaspiestais izmērs nav zināms. Vērtību attēlo lietderīgās slodzes beigu marķieris (\*) tad un tikai tad, ja nesaspiestais izmērs nav zināms.
 
 ## Atsauces
-
-* [LZMA faila formāts](https://svn.python.org/projects/external/xz-5.0.3/doc/lzma-file-format.txt)
-
 * [Lempel–Ziv–Markova ķēdes algoritms](https://en.wikipedia.org/wiki/Lempel%E2%80%93Ziv%E2%80%93Markov_chain_algorithm)
-
-

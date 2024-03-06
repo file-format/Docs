@@ -26,7 +26,4 @@
 MDE fails tiek izveidots, apkopojot VBA kodu, veidlapas, atskaites un citus objektus. Tā rezultātā tiek izveidots MDE binārais faila formāts. Iegūto .MDE failu var izplatīt lietotājiem, kuri var palaist lietojumprogrammu, bet nevar mainīt dizainu vai skatīt sākotnējo kodu. MDE fails faktiski ir [.MDA file](/database/mda/) kompilētā versija. .MDE failu izplatīšana var palīdzēt aizsargāt intelektuālo īpašumu, neļaujot lietotājiem piekļūt avota kodam vai mainīt to. Tas var arī uzlabot veiktspēju, jo kods tiek apkopots un optimizēts.
 
 ## Atsauces
-
 * [Piekļuves specifikācijas](https://support.microsoft.com/en-us/office/access-specifications-0cf3c66f-9cf2-4e32-9568-98c1025bb47c)
-
-* [The Unofficial MDB Guide](http://jabakobob.net/mdb/)

@@ -33,9 +33,3 @@ MART faili ir pazīstami kā e-publikācijas faili, ko izmanto MartView programm
 ## MART faila formāts ##
 
 Martview e-grāmatas formāts ir patentēts un darbojas kā attēlu konteiners. Atvērtā pirmkoda pārveidotāji ļauj e-grāmatu lasītājiem konvertēt [PDF](/pdf/), [GIF](/image/gif/), [GIF](/image/gif/), [PNG](/image/png/), [RAR](/compression/rar/) un [ZIP](/compression/zip/) dokumentus Martview formātā. Ņemiet vērā, ka RAR un ZIP failos ir jābūt attēliem. MART faili var būt labi piemēroti atsevišķu failu darbībai, taču, ja jums ir daudz e-grāmatu dažādos formātos, jūs noteikti nevēlaties tērēt laiku, lai tās visas pārveidotu vienā formātā, lai varētu tās lasīt e-grāmatu lasītājā. .
-
-## Atsauces
-
-* [Martview, labākais e-grāmatu lasītājs PDF e-grāmatām](https://www.ghacks.net/2011/04/15/martview-best-ebook-reader-for-pdf-e-books/)
-
-

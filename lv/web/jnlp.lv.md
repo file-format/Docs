@@ -64,11 +64,6 @@ This link is to the Notepad.jnlp file.
 Līdz ar JWS novecošanos lietojumprogrammas, kas izstrādātas, pamatojoties uz JWS tehnoloģiju, nevar palaist ar jaunāko Java versiju. Tomēr šīs uz JNLP balstītās programmas var palaist, izmantojot OpenWebStart, kas ir Java Web Start tehnoloģijas atvērtā koda atkārtota ieviešana. Tā tiek instalēta paralēli jaunākajai Java versijai un nodrošina visbiežāk izmantotās Java Web Start un JNLP standarta funkcijas.
 
 ## Atsauces Nr.
-
 * [Kas ir Java Web Start un kā tas tiek palaists?](https://www.java.com/en/download/help/java_webstart.html)
-
 * [Palaidiet JNLP ar jaunāko Java versiju](https://openwebstart.com/)
-
 * [Java Web Start — Wikipedia](https://en.wikipedia.org/wiki/Java_Web_Start)
-
-

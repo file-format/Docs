@@ -25,8 +25,3 @@ Fails ar paplašinājumu .olm ir Microsoft Outlook fails operētājsistēmai Mac
 
 OLM ir bināri faili ar lietojumprogrammas/okteta straumes MIME tipu. OLM faila formāta tehniskās specifikācijas nav pieejamas korporācijā Microsoft, un izstrādātāja informācijai nav pieejama informācija par formātu. Tomēr ir dažas API, kas var nolasīt OLM faila formātu un ierakstīt tos PST failā izmantošanai Microsoft Windows operētājsistēmā, piemēram, Aspose.Email.
 
-## Atsauces
-
-* [OLM faila formāts?](https://social.msdn.microsoft.com/Forums/office/en-US/4ce689ee-8fad-4362-a0eb-06382646a845/olm-file-format?forum=os_binaryfile)
-
-

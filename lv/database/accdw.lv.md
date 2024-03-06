@@ -35,11 +35,5 @@ Fails ar paplašinājumu .accdw ir saites fails, kas izveidots ar Microsoft Acce
 ACCDW fails ir XML fails, kas nodrošina saiti uz SharePoint vietni, kurā tiek mitināti piekļuves pakalpojumi. Tas ir tikai saīsne, un, lai tos palaistu, ir nepieciešams interneta savienojums. Tiešsaistes gadījumā SharePoint tiek saglabāts lokāli kešatmiņā, lai nodrošinātu iespēju vēlāk to izmantot bezsaistē.
 
 ## Atsauces
-
 * [Piekļuves 2016. gada specifikācijas](https://support.microsoft.com/en-us/office/access-specifications-0cf3c66f-9cf2-4e32-9568-98c1025bb47c)
-
-* [Notiek .accdw faila lejupielāde](https://social.technet.microsoft.com/Forums/en-US/7bf02e9e-6246-44da-9513-4cf8f2cc2fb2/downloaded-accdw-file)
-
-* [Kādu Access faila formātu man vajadzētu izmantot?](https://support.microsoft.com/en-us/office/which-access-file-format-should-i-use-012d9ab3-d14c-479e-b617- be66f9070b41)
-
-
+* [Kādu Access faila formātu man vajadzētu izmantot?](https://support.microsoft.com/en-us/office/which-access-file-format-should-i-use-012d9ab3-d14c-479e-b617-be66f9070b41)
