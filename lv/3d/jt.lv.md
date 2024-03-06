@@ -43,7 +43,7 @@ Visi objekti JT formātā tiek attēloti, izmantojot objekta identifikatoru, un 
 
 JT fails ir sakārtots kā bloku sērija, un galvenes bloks vienmēr ir pirmais datu bloks failā. Virkne datu segmentu un TOC segmentu uzreiz seko galvenes blokam. Vienam datu segmentam (6 LSG segmentam) vienmēr ir atsauces saderīgs JT fails. TOC segments satur visu pārējo šī faila datu segmentu atrašanās vietas informāciju.
 
-{{< figure src="../JT-1.png" alt="JT faila formāts" >}}
+!["JT File Format"](../3d/JT-1.png "JT File Format")
 
 ### Faila galvene ###
 
@@ -57,7 +57,7 @@ TOC segmentam ir jābūt failā, un tajā jāiekļauj visu pārējo datu segment
 
 JT fails definē visus datu segmentā saglabātos datus. Daži datu segmenti var saspiest visus segmentā palikušās informācijas datu baitus. Datu segmentiem ir šāda struktūra:
 
-![alt text](../JT-2.png "JT Data Segment")
+![JT Data Segment](../3d/JT-2.png "JT Data Segment")
 
 Šajā tabulā ir aprakstīti dažāda veida datu segmenti.
 

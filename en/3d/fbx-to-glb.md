@@ -29,7 +29,7 @@ The [GLB file format](/3d/glb/) is a compact 3D format that combines models, tex
 
 If you're in need of a free online method for converting FBX files to the GLB format, you can achieve this effortlessly with the Aspose.3D conversion tool. Begin the process by clicking the button below.
 
-[![FBX to GLB](../fbx-to-glb.png)](https://products.aspose.app/cad/conversion/fbx-to-GLB)
+[![FBX to GLB](../3d/fbx-to-glb.png)](https://products.aspose.app/cad/conversion/fbx-to-GLB)
 
 ### How to Convert Convert FBX to GLB?
 
@@ -44,7 +44,7 @@ Once the conversion is completed, save the output GLB file to disc for opening l
 
 ## Aspose.3D APIs
 
-[![FBX to GLB](../try-aspose-3d.png)](https://products.aspose.com/3d/)
+[![FBX to GLB](../3d/try-aspose-3d.png)](https://products.aspose.com/3d/)
 
 Aspose.3D APIs offer a variety of features that can be used by developers to create apps for working with FBX and GLB files. It supports multiple programming languages such as:
 
