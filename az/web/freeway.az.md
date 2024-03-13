@@ -27,6 +27,4 @@ FREEWAY faylları xüsusi fayl formatında saxlanılır və onların daxili fayl
 
 ## İstinadlar
 
-* [Freeway Software](https://en.wikipedia.org/wiki/Freeway_(proqram))
-
-
+* [Freeway Software](https://en.wikipedia.org/wiki/Freeway_(software))

@@ -43,6 +43,4 @@ KEY faylları macOS və ya hər hansı digər iOS cihazında aça bilər. O, hə
 Bəzi xüsusi alətlər bu fayl formatlarından istifadə edərək təqdimat zamanı və ya Apple cihazında istifadə oluna bilər, məsələn istifadəçi öz ekranını aparıcının ekranına paylaşa bilər və hələ də iş masasındakı qeydlərə baxa bilər.
 
 ## İstinadlar ##
-* [Əsas qeyd - Vikipediya](https://en.wikipedia.org/wiki/Keynote_(təqdimat_proqramı))
-
-
+* [Keynote - Wikipedia](https://en.wikipedia.org/wiki/Keynote_(presentation_software))

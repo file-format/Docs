@@ -107,8 +107,4 @@ class BaseVector {
 
 ## İstinad ##
 
-* [QOZ - Wikipedia tərəfindən](https://en.wikipedia.org/wiki/Squirrel_(proqramlaşdırma_dili))
-
-
-
-
+* [NUT - by Wikipedia](https://en.wikipedia.org/wiki/Squirrel_(programming_language))

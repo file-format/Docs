@@ -56,6 +56,4 @@ CR faylını açmaq üçün siz Kristal sintaksisinin işıqlandırılmasını v
 Bu redaktorlardan və ya IDE-lərdən birini quraşdırdıqdan sonra siz sadəcə olaraq hər hansı digər mətn faylı kimi `.cr` faylını aça bilərsiniz və siz Crystal mənbə koduna baxa və redaktə edə biləcəksiniz.
 
 ## İstinadlar
-* [Kristal (proqramlaşdırma dili)](https://en.wikipedia.org/wiki/Crystal_(proqramlaşdırma_dili))
-
-
+* [Crystal (programming language)](https://en.wikipedia.org/wiki/Crystal_(programming_language))

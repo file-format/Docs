@@ -56,6 +56,4 @@ Problemlərlə üzləşən veb səhifəsində aşağıdakı addımlar yerinə ye
 
 ## İstinadlar
 
-* [HAR Fayl Format - Vikipediya](https://en.wikipedia.org/wiki/HAR_(fayl_formatı))
-
-
+* [HAR File Format - Wikipedia](https://en.wikipedia.org/wiki/HAR_(file_format))

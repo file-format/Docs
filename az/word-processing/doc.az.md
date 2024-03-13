@@ -144,9 +144,5 @@ Qorunan Məzmun Yayımı isteğe bağlı yayımdır, onun adı \009DRMContent OL
 Bu axın mövcuddursa, İnformasiya Hüquqlarının İdarə Edilməsi Məlumat Məkanı Saxlanması da MÜTLƏQDİR.
 
 ## İstinadlar ##
-
-* [MS-DOC Fayl Yaratma Spesifikasiyaları](https://msdn.microsoft.com/en-us/library/cc313153(v#office.12).aspx)
-
-* [Doc Computing](https://en.wikipedia.org/wiki/Doc_(hesablama))
-
-
+* [MS-DOC File Formation Specifications](https://msdn.microsoft.com/en-us/library/cc313153(v#office.12).aspx)
+* [Doc Computing](https://en.wikipedia.org/wiki/Doc_(computing))

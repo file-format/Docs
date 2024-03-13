@@ -76,5 +76,4 @@ Swift digər proqram dillərindən aşağıdakı xüsusiyyətlərə görə fərq
 
 ## İstinadlar
  * [Swift - GitHub](https://github.com/apple/swift)
- * [Swift - Wikipedia](https://en.wikipedia.org/wiki/Swift_(proqramlaşdırma_dili))
-
+ * [Swift - Wikipedia](https://en.wikipedia.org/wiki/Swift_(programming_language))

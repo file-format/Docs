@@ -60,6 +60,4 @@ VDF faylları aşağıdakı proqramlardan istifadə etməklə açıla və ya ist
 - [VDF - VirtualDub Video Filter File](/plugin/vdf/)
 
 ## İstinadlar
-* [Mənbə (oyun mühərriki)](https://en.wikipedia.org/wiki/Source_(oyun_mühərriki))
-
-
+* [Source (game engine)](https://en.wikipedia.org/wiki/Source_(game_engine))

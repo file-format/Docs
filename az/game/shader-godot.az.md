@@ -102,6 +102,4 @@ SHADER fayllarını açan və ya onlara istinad edən proqramlar daxildir
 - [SHADER - Unity Shader Asset](/game/shader-unity/)
 
 ## İstinadlar
-* [Godot (oyun mühərriki)](https://en.wikipedia.org/wiki/Godot_(oyun_mühərriki))
-
-
+* [Godot (game engine)](https://en.wikipedia.org/wiki/Godot_(game_engine))

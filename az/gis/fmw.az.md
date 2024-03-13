@@ -69,8 +69,5 @@ FMW faylları ikili fayllar kimi diskdə saxlanılır və yalnız FME Desktop pr
 
 
 ## İstinadlar
-
 * [Təhlükəsiz Proqram FME Masaüstü](https://fme.safe.com/platform/)
-
 * [FMW Quick Facts](https://docs.safe.com/fme/html/FME_Desktop_Documentation/FME_ReadersWriters/fmw/quick_facts_fmw.htm)
-

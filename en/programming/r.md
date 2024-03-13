@@ -167,5 +167,3 @@ F-statistic: 91.88 on 1 and 4 DF,  p-value: 0.000662
 ## Reference ##
 
 * [R - by Wikipedia](https://en.wikipedia.org/wiki/R_(programming_language))
-
-

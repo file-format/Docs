@@ -36,6 +36,4 @@ Hello World from Java to the console.
 ```
 
 ## İstinadlar ##
-* [Java (proqramlaşdırma dili) - Vikipediya](https://en.wikipedia.org/wiki/Java_(proqramlaşdırma_dili))
-
-
+* [Java (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Java_(programming_language))

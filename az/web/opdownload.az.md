@@ -43,6 +43,4 @@ OPDOWNLOAD faylları Google Chrome tərəfindən istifadə edilən .CRDOWNLOAD f
 OPDOWNLOAD faylı adətən Opera veb brauzeri tərəfindən yaradılmış natamam endirmə faylıdır. Operada fayl endirdiyiniz zaman o, OPDOWNLOAD faylı yaradır və endirmə tamamlandıqdan sonra faylın adını orijinal formatına dəyişdirir. Buna görə də, OPDOWNLOAD faylını MP4 və ya ZIP-ə çevirmək mümkün deyil, çünki bu, etibarlı fayl formatı deyil. Siz onu MP4 və ya ZIP-ə çevirməzdən əvvəl yükləmənin tamamlanmasını və faylın adının orijinal formatına dəyişdirilməsini gözləməlisiniz. Yükləməni tamamlaya bilmirsinizsə və ya fayl zədələnibsə, yükləməni yenidən başlatmalı və ya faylı başqa mənbədən endirməyə cəhd edə bilərsiniz.
 
 ## İstinadlar
-* [Opera (veb brauzeri)](https://en.wikipedia.org/wiki/Opera_(web_brauzer))
-
-
+* [Opera (web browser)](https://en.wikipedia.org/wiki/Opera_(web_browser))

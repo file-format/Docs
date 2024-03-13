@@ -55,8 +55,6 @@ Lakin siz hələ də Audible-ın DRM nəzarətini asanlıqla keçə bilən bir �
 
 ## İstinadlar ##
 
-* [Səsli (xidmət) - Wikipedia tərəfindən](https://en.wikipedia.org/wiki/Audible_(xidmət))
-
-* [Audio fayl formatı - Wikipedia tərəfindən](https://en.wikipedia.org/wiki/Audio_file_format)
-
+* [Audible (service) - By Wikipedia](https://en.wikipedia.org/wiki/Audible_(service))
+* [Audio file format - By Wikipedia](https://en.wikipedia.org/wiki/Audio_file_format)
 

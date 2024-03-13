@@ -27,6 +27,4 @@ iGO proqramı naviqasiya məqsədləri üçün istifadə olunur. O, GPS cihazlar
 
 ## İstinadlar
 
-* [iGO Naviqasiya Proqramı](https://en.wikipedia.org/wiki/IGO_(proqram))
-
-
+* [iGO Navigation Software](https://en.wikipedia.org/wiki/IGO_(software))

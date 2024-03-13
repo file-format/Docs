@@ -42,6 +42,4 @@ FS fayllarını açan və ya istinad edən proqramlar daxildir
 - **Microsoft Visual Studio 2022** (Pulsuz) Windows üçün
 
 ## İstinadlar
-* [F Sharp (proqramlaşdırma dili)](https://en.wikipedia.org/wiki/F_Sharp_(proqramlaşdırma_dili))
-
-
+* [F Sharp (programming language)](https://en.wikipedia.org/wiki/F_Sharp_(programming_language))

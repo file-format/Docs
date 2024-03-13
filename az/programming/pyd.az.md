@@ -31,6 +31,5 @@ PYD faylı, məsələn, exmaple.pyd adlı modul yaratmaqla yaradıla bilər. Bu 
 
 ## İstinadlar ##
 
- * [C/C++-da Python Genişləndirmələrinin yaradılması](https://sebsauvage.net/python/mingw.html)
- * [Python (proqramlaşdırma dili) - Wikipedia](https://en.wikipedia.org/wiki/Python_(proqramlaşdırma_dili))
-
+* [Creating Python Extensions in C/C++](https://sebsauvage.net/python/mingw.html)
+* [Python (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))

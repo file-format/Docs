@@ -54,6 +54,4 @@ Qarışıq faylı aşağıdakıları əhatə edən 3D səhnəyə aid bütün mə
 Siz Blenderi işə salaraq, sonra Fayl menyusuna klikləyərək və açılan menyudan Açıq seçimini etməklə BLEND faylını aça bilərsiniz. Alternativ olaraq, siz sadəcə olaraq qarışdırma faylını Blender proqramına sürükləyib buraxa bilərsiniz və o, qarışdırma faylını açacaq.
 
 ## İstinadlar
-* [Blender (proqram təminatı)](https://en.wikipedia.org/wiki/Blender_(proqram))
-
-
+* [Blender (software)](https://en.wikipedia.org/wiki/Blender_(software))

@@ -74,7 +74,4 @@ Content_Checksum düzgün deşifrə olunan məzmunun etibarlılığını yoxlay�
 ## İstinadlar
 
 * [LZ4 Frame Format](https://github.com/lz4/lz4/blob/dev/doc/lz4_Frame_format.md)
-
-* [LZ4 Sıxılma Alqoritmi - Vikipediya](https://en.wikipedia.org/wiki/LZ4_(sıxılma_alqoritmi))
-
-
+* [LZ4 Compression Algorithm - Wikipedia](https://en.wikipedia.org/wiki/LZ4_(compression_algorithm))

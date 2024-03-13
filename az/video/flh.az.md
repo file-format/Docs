@@ -42,6 +42,4 @@ FLH fayllarını açan proqramlara daxildir
 - İrfanView
 
 ## İstinadlar
-* [FLIC (fayl formatı)](https://en.wikipedia.org/wiki/FLIC_(fayl_formatı))
-
-
+* [FLIC (file format)](https://en.wikipedia.org/wiki/FLIC_(file_format))

@@ -44,6 +44,4 @@
 Alternativ olaraq, .xap faylının məzmununu onun adını .zip olaraq dəyişdirərək və WinZip və ya 7-Zip kimi fayl sıxılma alətindən istifadə edərək onu çıxara bilərsiniz. Bu, .xap arxivində olan fərdi fayllara daxil olmaq imkanı verəcək.
 
 ## İstinadlar
-* [XAP - fayl formatı](https://en.wikipedia.org/wiki/XAP_(fayl_formatı))
-
-
+* [XAP - file format](https://en.wikipedia.org/wiki/XAP_(file_format))

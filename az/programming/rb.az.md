@@ -110,6 +110,4 @@ end
 - `tətbiq/x-ruby`
 
 ## İstinadlar
-* [Ruby (proqramlaşdırma dili)](https://en.wikipedia.org/wiki/Ruby_(proqramlaşdırma_dili))
-
-
+* [Ruby (programming language)](https://en.wikipedia.org/wiki/Ruby_(programming_language))

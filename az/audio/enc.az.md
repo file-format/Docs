@@ -47,6 +47,4 @@ Bu proqramlardan istifadə edərək musiqi kompozisiyasına aid ENC faylını a�
 Yuxarıdakı proqramlardan istifadə etməklə siz həmçinin ENC fayllarını [.MXL](/audio/mxl/) (Sıxılmış MusiqiXML) formatına çevirə bilərsiniz.
 
 ## İstinadlar
-* [Encore Software](https://en.wikipedia.org/wiki/Encore_(proqram))
-
-
+* [Encore Software](https://en.wikipedia.org/wiki/Encore_(software))

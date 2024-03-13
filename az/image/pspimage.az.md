@@ -36,6 +36,4 @@ PSPIMAGE faylları PaintShop Pro daxilində yeni Fayl kimi yaradıla bilər. Qat
  * XnViewMP (Windows, Mac və Linux)
 
 ## İstinadlar
-
- * [PSPIMAGE Dönüşüm](https://community.adobe.com/t5/photoshop-ecosystem-discussions/pspimage-conversion/mp/5288141)
-
+* [PSPIMAGE Dönüşüm](https://community.adobe.com/t5/photoshop-ecosystem-discussions/pspimage-conversion/m-p/5288141)

@@ -38,6 +38,4 @@ nisbi və ya mütləq metod.
 ASV faylları ikili fayl formatında saxlanılır və onların məzmunu insanların oxuna biləcəyi formada deyil.
 
 ## İstinadlar
-* [ASV faylını Adobe Photoshop-da yükləyin](https://community.adobe.com/t5/photoshop-ecosystem-discussions/photoshop-asv-file-preset-wont-open/mp/12587356)
-
-
+* [Load ASV File in Adobe Photoshop](https://community.adobe.com/t5/photoshop-ecosystem-discussions/photoshop-asv-file-preset-wont-open/m-p/12587356)

@@ -91,6 +91,6 @@ CFG fayllarını açan və ya istinad edən proqramlar daxildir
 - [CFG - Cal3D Model Configuration File](/misc/cfg-cal3d/)
 
 ## İstinadlar
-* [Mənbə (oyun mühərriki)](https://en.wikipedia.org/wiki/Source_(oyun_mühərriki))
+* [Source (game engine)](https://en.wikipedia.org/wiki/Source_(game_engine))
 
 

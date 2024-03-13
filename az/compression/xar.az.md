@@ -110,7 +110,4 @@ Yığın sıxılmış tokdan dərhal sonra başlayır. Bu, TOC tərəfindən ist
 ## İstinadlar
 
 * [XAR](https://github.com/mackyle/xar/wiki/xarformat)
-
-* [XAR - Vikipediya](https://en.wikipedia.org/wiki/Xar_(arxivçi))
-
-
+* [XAR - Wikipedia](https://en.wikipedia.org/wiki/Xar_(archiver))

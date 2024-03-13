@@ -67,6 +67,4 @@ Unity3D həm pulsuz, həm də pullu versiyalarda mövcuddur. Unity Personal adla
 Unity3D interaktiv təcrübələr və simulyasiyalar yaratmaq üçün avtomobil, film və reklam kimi oyunlardan başqa müxtəlif sənaye sahələrində də istifadə olunur.
 
 ## İstinadlar
-* [Birlik (oyun mühərriki)](https://en.wikipedia.org/wiki/Unity_(oyun_mühərriki))
-
-
+* [Unity (game engine)](https://en.wikipedia.org/wiki/Unity_(game_engine))

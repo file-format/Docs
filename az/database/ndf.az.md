@@ -80,7 +80,7 @@ Bu nümunə 4 MB əsas məlumat faylı və 1 MB ikincil məlumat faylı olan ver
 
 ## İstinadlar
 
- * [Verilənlər Bazası Faylları və Fayl Qrupları](https://learn.microsoft.com/en-us/sql/relational-databases/database/database-files-and-filegroups?view=sql-server-ver16)
- * [Verilənlər Bazasının Ayrılması və Qoşulması - SQL Server](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-detach-and-attach-sql-server?view=sql-server- versiya 15)
- * [SQL Server Data Fayl Anatomiyasının Təhlili](https://blog.pythian.com/analyzing-sql-server-data-file-anatomy/)
+* [Database Files and Filegroups](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-files-and-filegroups?view=sql-server-ver16)
+* [Database Detach and Attach - SQL Server](https://learn.microsoft.com/en-us/sql/relational-databases/databases/database-detach-and-attach-sql-server?view=sql-server-ver15)
+* [Analyzing SQL Server Data File Anatomy](https://blog.pythian.com/analyzing-sql-server-data-file-anatomy/)
 

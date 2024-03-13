@@ -42,6 +42,4 @@ JWPUB faylları əslində Elektron formatda Gözətçi Qülləsi Kitabxanası n�
 Nəzərə almaq lazımdır ki, Gözətçi Qülləsi Kitabxanası proqramı öz nəşrləri üçün xüsusi fayl strukturundan və adlandırma konvensiyasından istifadə edir, ona görə də JWPUB faylı daxilində hər hansı faylı dəyişdirsəniz və ya silsəniz, proqram təminatından istifadə edərkən xəta və ya problemlərlə qarşılaşa bilərsiniz. Buna görə də, yalnız müəyyən ehtiyacınız və ya məqsədiniz varsa, faylları JWPUB faylından çıxarmağınız tövsiyə olunur və proqramın fayl strukturu və əməliyyatı ilə tanış olmadıqca heç bir faylı dəyişdirməməli və silməməlisiniz.
 
 ## İstinadlar
-* [Gözətçi Qülləsi Kitabxanası](https://www.jw.org/az/online-help/watchtower-library/)
-
-
+* [Gözətçi Qülləsi Kitabxanası](https://www.jw.org/en/online-help/watchtower-library/)

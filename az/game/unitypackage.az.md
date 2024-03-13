@@ -43,6 +43,4 @@ Birlik paketləri aktivləri təşkil etmək və bölüşmək üçün əlverişl
 8.  Seçilmiş aktivləri Unity layihənizə idxal etmək üçün İdxal et üzərinə klikləyin.
 
 ## İstinadlar
-* [Birlik](https://en.wikipedia.org/wiki/Unity_(oyun_engine))
-
-
+* [Unity](https://en.wikipedia.org/wiki/Unity_(game_engine))

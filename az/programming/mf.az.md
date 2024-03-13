@@ -64,7 +64,5 @@ Fərdi bölmə JAR faylının paketləri və ya faylları üçün müxtəlif atr
 |rəqəm|{0-9}|
 
 ## İstinadlar
-
- * [Oracle - JAR File Format](https://docs.oracle.com/javase/8/docs/technotes/guides/jar/jar.html)
- * [JAR Fayl Formatı](https://en.wikipedia.org/wiki/JAR_(fayl_formatı))
-
+* [Oracle - JAR File Format](https://docs.oracle.com/javase/8/docs/technotes/guides/jar/jar.html)
+* [JAR File Format](https://en.wikipedia.org/wiki/JAR_(file_format))

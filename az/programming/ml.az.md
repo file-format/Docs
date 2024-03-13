@@ -23,5 +23,5 @@ ML faylı ümumi məqsədli funksional proqramlaşdırma dili ML (çox vaxt Meta
 
 ## İstinadlar
 
- * [ML Proqramlaşdırma Dili - Wikipedia tərəfindən](https://en.wikipedia.org/wiki/ML_(proqramlaşdırma_dili))
+ * [ML Programming Language - By Wikipedia](https://en.wikipedia.org/wiki/ML_(programming_language))
 

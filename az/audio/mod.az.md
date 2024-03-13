@@ -54,6 +54,4 @@ Minimum vaxt çərçivəsi orijinal MOD faylında 0,02 saniyə və ya şaquli bo
 
 ## İstinadlar
 
-* [MOD (fayl formatı) - Wikipedia tərəfindən](https://en.wikipedia.org/wiki/MOD_(fayl_formatı))
-
-
+* [MOD (file format) - By Wikipedia](https://en.wikipedia.org/wiki/MOD_(file_format))

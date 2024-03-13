@@ -40,5 +40,4 @@ FileMaker Pro birbaşa FM-i .fmp12 fayl formatına çevirə bilər. Bu məqsədl
 ## İstinadlar
 
  * [FileMaker Pro](https://www.claris.com/filemaker/)
- * [PONOM - FM Fayl Formatı](https://www.nationalchives.gov.uk/PONOM/fmt/1059)
-
+ * [PONOM - FM Fayl Formatı](https://www.nationalarchives.gov.uk/PRONOM/fmt/1059)

@@ -33,6 +33,4 @@ SCM faylları istənilən mətn redaktorundan istifadə edərək düz mətn form
 
 ## İstinadlar
 
-* [Sxem Proqramlaşdırma - Vikipediya](https://en.wikipedia.org/wiki/Scheme_(proqramlaşdırma_dili))
-
-
+* [Schema Programming - Wikipedia](https://en.wikipedia.org/wiki/Scheme_(programming_language))

@@ -60,6 +60,4 @@ ANI faylını açmaq üçün bu addımları yerinə yetirə bilərsiniz:
 5. Alternativ olaraq, onlayn çevirici alətdən istifadə edərək ANI faylını GIF kimi daha ümumi fayl formatına çevirə bilərsiniz. Fayl GIF-ə çevrildikdən sonra onu bu fayl formatını dəstəkləyən istənilən şəkil görüntüləyicisi və ya media pleyerində aça bilərsiniz.
 
 ## İstinadlar
-* [ANI (fayl formatı)](https://en.wikipedia.org/wiki/ANI_(fayl_formatı))
-
-
+* [ANI (file format)](https://en.wikipedia.org/wiki/ANI_(file_format))

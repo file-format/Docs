@@ -37,8 +37,5 @@ XEX faylları ikili fayllar kimi diskdə saxlanılır və XBox 360 konsolunda ic
 
 ## İstinadlar
 
-* [XEX Aləti](https://digiex.net/threads/xextool-6-3-download.9523/)
-
-* [XEX-dən EXE-yə Dönüşüm - Reddit](https://www.reddit.com/r/Roms/comments/kl382s/xex_file_to_exe_file/)
-
-
+* [XEX Tool](https://digiex.net/threads/xextool-6-3-download.9523/)
+* [XEX to EXE Conversion - Reddit](https://www.reddit.com/r/Roms/comments/kl382s/xex_file_to_exe_file/)

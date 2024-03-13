@@ -25,5 +25,4 @@ PYX faylları düz mətn fayllarıdır və onların sintaksisi Python-a çox yax
 ## İstinadlar
 
  * [Python Wiki](https://wiki.python.org/moin/Pyrex)
- * [Python (proqramlaşdırma dili) - Wikipedia](https://en.wikipedia.org/wiki/Python_(proqramlaşdırma_dili))
-
+ * [Python (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))

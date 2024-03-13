@@ -54,6 +54,4 @@ These files can be compatible with various devices. Players for these files are 
 
 ## İstinadlar ##
 
-* [AA - Wikipedia tərəfindən](https://en.wikipedia.org/wiki/Audible_(xidmət))
-
-
+* [AA - By Wikipedia](https://en.wikipedia.org/wiki/Audible_(service))

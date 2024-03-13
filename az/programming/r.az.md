@@ -166,8 +166,4 @@ F-statistic: 91.88 on 1 and 4 DF,  p-value: 0.000662
 
 ## İstinad ##
 
-* [R - Wikipedia tərəfindən](https://en.wikipedia.org/wiki/R_(proqramlaşdırma_dili))
-
-
-
-
+* [R - by Wikipedia](https://en.wikipedia.org/wiki/R_(programming_language))

@@ -99,6 +99,4 @@ CFG fayllarını açan və ya onlara istinad edən proqramlar
 - [CFG - Cal3D Model Configuration File](/misc/cfg-cal3d/)
 
 ## İstinadlar
-* [Mugen (oyun mühərriki)](https://en.wikipedia.org/wiki/Mugen_(oyun_mühərriki))
-
-
+* [Mugen (game engine)](https://en.wikipedia.org/wiki/Mugen_(game_engine))

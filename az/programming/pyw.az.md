@@ -29,6 +29,5 @@ PYW fayl növü ilk növbədə Python Software Foundation tərəfindən Python i
 
 ## İstinadlar
 
- * [Python Wiki](https://wiki.python.org/moin/Pyrex)
- * [Python (proqramlaşdırma dili) - Wikipedia](https://en.wikipedia.org/wiki/Python_(proqramlaşdırma_dili))
-
+* [Python Wiki](https://wiki.python.org/moin/Pyrex)
+* [Python (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))

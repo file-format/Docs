@@ -66,8 +66,5 @@ CDB 4 giqabayta qədər istənilən verilənlər bazasını idarə edə bilər. 
 
 ## İstinadlar ##
 
-* [cdb (proqram təminatı) - Vikipediya](https://en.wikipedia.org/wiki/Cdb_(proqram))
-
-* [CDB spesifikasiyası](http://cr.yp.to/cdb.html)
-
-
+* [cdb (software) - Wikipedia](https://en.wikipedia.org/wiki/Cdb_(software))
+* [CDB specification](http://cr.yp.to/cdb.html)

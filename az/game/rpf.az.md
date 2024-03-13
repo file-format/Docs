@@ -40,5 +40,3 @@ Budur RPF fayllarını aça bilən proqramların siyahısı.
 
 ## İstinadlar
 * [OpenIV](https://openiv.com/)
-
-
