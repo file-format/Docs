@@ -27,8 +27,4 @@ FWTEMPLATEB faylları vebsayt şablonları toplusu kimi saxlanılır və saytın
 
 ## İstinadlar
 
-* [FWTEMPLATE](/web/fwtemplate/)
-
-* [FREEWAY](/web/magistral yol/)
-
-
+* N/A

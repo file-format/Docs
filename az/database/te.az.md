@@ -29,7 +29,7 @@ TE fayllarının daxili fayl formatı məlum deyil. Textease proqram təminatı 
 
  * Mətn
  * Nömrə
- * [Şəkil](/şəkil/)
+ * Şəkil
  * Rəng
  * Tarix (GG/AA/İYYY)
  * Valyuta

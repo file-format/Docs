@@ -27,6 +27,6 @@ APZ fayl formatının daxili fayl formatı təfərrüatları tərtibatçının a
 
 ## İstinadlar
 
-* [Sıxılma Fayl Formatları](/sıxılma/)
+* [Compression File Formats](/compression/)
 
 

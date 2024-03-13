@@ -29,6 +29,6 @@ ALB faylları Alpha File xüsusi fayl formatında saxlanılır və onların daxi
 
 ## İstinadlar
 
- * [ADB faylı](/verilənlər bazası/adb/)
+ * [ADB file](/database/adb/)
  * [The Alpha Anywhere IDE](https://documentation.alphasoftware.com/pages/GettingStarted/IDE/index.xml)
 

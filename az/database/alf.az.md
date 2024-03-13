@@ -37,6 +37,6 @@ ALF faylları ikili fayllar kimi saxlanılır və onların daxili fayl formatı 
 
 ## İstinadlar
 
-* [ACT! ADF](/verilənlər bazası/adf/)
+* [ACT! ADF](/database/adf/)
 
 

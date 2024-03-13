@@ -81,9 +81,4 @@ package com.example
 ```
 
 ## İstinad ##
-
-* [AS - Wikipedia tərəfindən]( https://en.wikipedia.org/wiki/ActionScript)
-
-
-
-
+* [AS - Wikipedia tərəfindən](https://en.wikipedia.org/wiki/ActionScript)

@@ -35,7 +35,7 @@ AFPHOTO faylları Serif Affinity Photo proqramından istifadə edərək bir sır
  * [PDF](/pdf/) - Portativ Sənəd Formatı
  * [JPG](/image/jpeg/) - JPEG Şəkil
  * [PNG](/image/png/) - Portativ Şəbəkə Qrafiki
- * [GIF](/şəkil/gif/) - Qrafik Mübadilə Format
+ * [GIF](/image/gif/) - Qrafik Mübadilə Format
  * [EPS](/page-description-language/eps/) - Encapsulated PostScript
  * [SVG](/page-description-language/svg/) - Scalable Vector Graphics
  * [TIFF](/image/tiff/) - Tagged Image File Format

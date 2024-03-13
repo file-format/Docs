@@ -38,7 +38,7 @@ HDR şəkil faylı aşağıdakı üç hissədən ibarətdir:
 ## Açıq mənbəli HDR/HDRI API-ləri
 
  * **[imageinfo](https://github.com/xiaozhuai/imageinfo)** - Yükləmə/şifrəni açmadan şəkil ölçüsünü və formatını əldə etmək üçün çarpaz platforma super sürətli tək başlıq [C++](/programming/cpp/) kitabxanası.
- * **[imgaeinfo-rs](https://github.com/xiaozhuai/imageinfo-rs)** - Yükləmə/şifrəni açmadan şəkil ölçüsünü və formatını əldə etmək üçün pas kitabxanası. Dəstəkləyir [.avif](/image/avif/), [.bmp](/image/bmp/), [.cur](/image/cur/), [.dds](/image/dds/), [ .gif](/image/gif/), hdr (şəkil), [heic (heif)](/image/heic/), [.icns](/image/icns/), [.ico](/image/ ico/), [.jp2](/image/jp2/), [jpeg (jpg)](/image/jpeg/), [jpx](/image/jpx/), ktx, [png](/image/ png/), [psd](/image/psd/), qoi, tga, tiff (tif) və webp.
+ * **[imgaeinfo-rs](https://github.com/xiaozhuai/imageinfo-rs)** - Yükləmə/şifrəni açmadan şəkil ölçüsünü və formatını əldə etmək üçün pas kitabxanası. Dəstəkləyir [.avif](/image/avif/), [.bmp](/image/bmp/), [.cur](/image/cur/), [.dds](/image/dds/), [ .gif](/image/gif/), hdr (şəkil), [heic (heif)](/image/heic/), [.icns](/image/icns/), [.ico](/image/ico/), [.jp2](/image/jp2/), [jpeg (jpg)](/image/jpeg/), [jpx](/image/jpx/), ktx, [png](/image/png/), [psd](/image/psd/), qoi, tga, tiff (tif) və webp.
  * **[HdrHistogram](https://github.com/HdrHistogram/HdrHistogram)** - HdrHistogramın Java tətbiqi.
 
 ## İstinadlar

@@ -68,12 +68,9 @@ As the above descriptions should have made it clear an EPUB document consists of
 
 EPUB fayl formatı aşağıdakı şəkil fayl formatlarını dəstəkləyir.
 
-* [GIF](/şəkil/gif/)
-
-* [JPG](/şəkil/jpeg/)
-
-* [PNG](/şəkil/png/)
-
+* [GIF](/image/gif/)
+* [JPG](/image/jpeg/)
+* [PNG](/image/png/)
 * [SVG](/page-description-language/svg/)
 
 ## İstinadlar ##
