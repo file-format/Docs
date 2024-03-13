@@ -53,7 +53,7 @@ Deskriptor blokları (DBLK) formata nəzarət üçün istifadə olunur və MTF f
  * `Əməliyyat Sistemi Məlumatları` - DBLK və Əməliyyat sistemlərinin növü əsasında müəyyən edilən xüsusi məlumatlar
  * `DBLK Məlumatı` - Sabit Uzunluqlu DBLK məlumatı ilə yadda saxlanıla bilməyən dəyişən uzunluqlu DBLK spesifik məlumat.
 
-{{< rəqəm src=../bak.png alt=Microsoft SQL Yedəkləmə Fayl Formatı >}}
+{{< figure src="../bak.png" alt="Microsoft SQL Backup File Format" >}}
 
 #### Məlumat axını
 

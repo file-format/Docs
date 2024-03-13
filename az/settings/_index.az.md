@@ -11,7 +11,7 @@
   "menu" : {
     "docs" : {
       "parent" : "settings",
-"çəki : 24"
+"weight" : "24"
 }
 },
   "lastmod" : "2023-03-13"

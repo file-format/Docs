@@ -11,7 +11,7 @@
   "menu" : {
     "docs" : {
       "parent" : "misc",
-"çəki : 01"
+"weight" : "01"
 }
 },
   "lastmod" : "2021-06-30"

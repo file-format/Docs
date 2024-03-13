@@ -12,7 +12,7 @@
   "menu" : {
     "docs" : {
       "parent" : "publisher",
-"çəki : 01"
+"weight" : "01"
 }
 },
   "lastmod" : "2019-09-10"

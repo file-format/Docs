@@ -12,7 +12,7 @@
   "menu" : {
     "docs" : {
       "parent" : "game",
-"çəki : 01"
+"weight" : "01"
 }
 },
   "lastmod" : "2021-09-07"
