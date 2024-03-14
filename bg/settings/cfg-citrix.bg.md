@@ -188,7 +188,7 @@ CFG файлът е известен още като **Citrix Server Connection 
 
 
 
-- **.exe**: Инсталационните пакети на Citrix Receiver или Citrix Workspace често идват в изпълним формат за различни операционни системи (напр. [.exe](/bg/executable/exe/) за Windows, [.dmg](/bg/compression/dmg /) за macOS). Тези пакети позволяват на потребителите да инсталират клиентски софтуер на своите устройства.
+- **.exe**: Инсталационните пакети на Citrix Receiver или Citrix Workspace често идват в изпълним формат за различни операционни системи (напр. [.exe](/bg/executable/exe/) за Windows, [.dmg](/bg/compression/dmg/) за macOS). Тези пакети позволяват на потребителите да инсталират клиентски софтуер на своите устройства.
 3. **Приложение Citrix Workspace (по-рано Citrix Receiver)**:
     
 
@@ -242,7 +242,7 @@ CFG файлът е известен още като **Citrix Server Connection 
 
 
 
-- **.vhd, .vhdx**: Citrix XenDesktop и XenApp могат да доставят виртуални настолни компютри и приложения с помощта на виртуален твърд диск [VHD](/bg/disc-and-media/vhd/) или [VHDX](/bg/disc-and-media /vhdx/) файлове.
+- **.vhd, .vhdx**: Citrix XenDesktop и XenApp могат да доставят виртуални настолни компютри и приложения с помощта на виртуален твърд диск [VHD](/bg/disc-and-media/vhd/) или [VHDX](/bg/disc-and-media/vhdx/) файлове.
 6. **Метаданни за публикуване на ресурси**:
     
 

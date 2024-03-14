@@ -27,7 +27,7 @@ GNM файловете са компресирани XML файлове, кои�
 
 ## Функции, поддържани в GNM файлове
 
-Тъй като Gnumeric поддържа няколко различни файлови формата, той може да конвертира родните GNM файлове в [CSV](/bg/spreadsheet/csv/), [XLSX](/bg/spreadsheet/xlsx/), Microsoft Works (.wks), [HTML](/bg/ web/html/), [LaTex](/bg/word-processing/latex/) и [Lotus 1-2-3](/bg/spreadsheet/123/).
+Тъй като Gnumeric поддържа няколко различни файлови формата, той може да конвертира родните GNM файлове в [CSV](/bg/spreadsheet/csv/), [XLSX](/bg/spreadsheet/xlsx/), Microsoft Works (.wks), [HTML](/bg/web/html/), [LaTex](/bg/word-processing/latex/) и [Lotus 1-2-3](/bg/spreadsheet/123/).
 
 ## Gnumeric в Github
 

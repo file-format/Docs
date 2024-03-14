@@ -225,7 +225,7 @@
 
 **Аудио и диск и медии**
 - [CDR - Сурови CD аудио данни](/bg/audio/cdr/)
-- [CDR - Macintosh DVD/CD Master](/bg/диск-и-медия/cdr/)
+- [CDR - Macintosh DVD/CD Master](/bg/disc-and-media/cdr/)
 
 **Файлове с данни и изображения**
 - [CDR - файл с данни за извличане на данни за срив](/bg/data/cdr-crash/)

@@ -101,7 +101,7 @@ WonderShare MobileTrans е удобен инструмент за всеки, к
 
 **База данни**
 - [BAK - Файл за архивиране на база данни](/bg/database/bak/)
-- [BAK - Закон за Swiftpage! Архивиране на база данни](/bg/база данни/bak-act/)
+- [BAK - Закон за Swiftpage! Архивиране на база данни](/bg/database/bak-act/)
 - [BAK - Архивиране на база данни на Microsoft SQL Server](/bg/database/bak-sqlserver/)
 
 **Игра**

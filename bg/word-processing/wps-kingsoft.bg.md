@@ -71,10 +71,10 @@ Kingsoft Office, известен още като WPS Office, е популяр�
 
 Kingsoft Writer може да конвертира WPS файлове в следните формати:
 
-- [DOC](/bg/текстообработка/doc/)
-- [DOCX](/bg/текстообработка/docx/)
-- [RTF](/bg/текстообработка/rtf/)
-- [TXT](/bg/текстообработка/txt/)
+- [DOC](/bg/word-processing/doc/)
+- [DOCX](/bg/word-processing/docx/)
+- [RTF](/bg/word-processing/rtf/)
+- [TXT](/bg/word-processing/txt/)
 - [HTML](/bg/web/html/)
 - [PDF](/bg/pdf/)
 

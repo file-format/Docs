@@ -76,7 +76,7 @@ package com.example
 
 ## Референция ##
 
-* [AS - от Wikipedia]( https://en.wikipedia.org/wiki/ActionScript)
+* [AS - от Wikipedia](https://en.wikipedia.org/wiki/ActionScript)
 
 
 

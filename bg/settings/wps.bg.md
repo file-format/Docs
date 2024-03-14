@@ -72,7 +72,7 @@ SDL Translator's Workbench, често наричан просто "Translator's
 Ето други типове файлове, които използват файловото разширение **.wps**.
 
 - [WPS - Microsoft Works Word Processor Document](/bg/word-processing/wps/)
-- [WPS - Kingsoft Writer документ](/bg/текстообработка/wps-kingsoft/)
+- [WPS - Kingsoft Writer документ](/bg/word-processing/wps-kingsoft/)
 
 ## Препратки
 * [Trados Studio](https://en.wikipedia.org/wiki/Trados_Studio)
