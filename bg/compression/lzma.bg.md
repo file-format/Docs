@@ -54,6 +54,5 @@ LZMA файловете имат 13-байтова заглавка, която 
 
 ## Препратки
 
-* [LZMA файлов формат](https://svn.python.org/projects/external/xz-5.0.3/doc/lzma-file-format.txt)
 * [Верижен алгоритъм на Lempel–Ziv–Markov](https://en.wikipedia.org/wiki/Lempel%E2%80%93Ziv%E2%80%93Markov_chain_algorithm)
 

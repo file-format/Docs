@@ -43,5 +43,4 @@ Linux поддържа два типа заключвания на файлов�
 ## Препратки
 
 * [GemFile и Gemfile.lock в Ruby](https://medium.com/never-hop-on-the-bandwagon/gemfile-and-gemfile-lock-in-ruby-65adc918b856)
-* [Заключване в Linux](https://www.baeldung.com/linux/file-locking#:~:text=File%20locking%20is%20a%20mechanism,very%20dangerous%20command%20in%20Linux.)
-
+* [Заключване в Linux](https://www.baeldung.com/linux/file-locking)

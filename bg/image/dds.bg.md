@@ -43,5 +43,3 @@ DDS_HEADER          header;
 ## Препратки
 
 * [DDS - От Wikipedia](https://en.wikipedia.org/wiki/DirectDraw_Surface)
-* [Техническо справочно ръководство за файлов формат на ZSoft PCX](http://qzx.com/pc-gpe/pcx.txt)
-

@@ -28,6 +28,4 @@ SP3 файловете се записват на диск във файлов �
 
 ## Препратки
 
-* [Разширен стандартен продукт 3 Orbit Format (SP3-c)](http://epncb.oma.be/ftp/data/format/sp3c.txt#:~:text=The%20SP3%20format%20is%20similar ,%20по-гъвкава%20заглавна%20структура)
-* [Разширяване на стандартните GPS орбитални формати на Националното геодезическо проучване](https://beta.ngs.noaa.gov/PUBS_LIB/Extending_the_NGS_Standard_GPS_Orbit_Formats_TR_NOS133_NGS46.pdf)
-
+* [The Extended Standard Product 3 Orbit Format (SP3-c)](https://epncb.oma.be/ftp/data/format/sp3c.txt)

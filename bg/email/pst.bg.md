@@ -96,4 +96,3 @@ PST файловите формати са категоризирани в дв�
 
 * [Файлов формат за лични папки на Outlook (.pst)](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546)
 * [Спецификации на файловия формат на личната папка](https://github.com/libyal/libpff/blob/main/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
-

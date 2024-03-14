@@ -127,6 +127,4 @@ Fib е структура с променлива дължина. С изклю�
 
 ## Препратки ##
 
-* [Спецификации за формиране на MS-DOC файл](https://msdn.microsoft.com/en-us/library/cc313153(v#office.12).aspx)
 * [Doc Computing](https://en.wikipedia.org/wiki/Doc_(computing))
-
