@@ -91,7 +91,7 @@ JSON ফাইলের সর্বোচ্চ আকারের কার্
  * **JSON ফাইলটি কিসের জন্য ব্যবহার করা হয়?** JSON ফাইল ফরম্যাটটি একটি ওয়েবসাইটে জমা দেওয়া ফর্ম থেকে ডেটা তৈরি করা ডেটা সংরক্ষণের জন্য একটি মধ্যবর্তী ফাইল ফর্ম্যাট হিসাবে ব্যবহার করা যেতে পারে। এটি যেকোন প্রোগ্রামিং ভাষার জন্য ডেটা ফরম্যাট ফাইল হিসাবেও ব্যবহৃত হয় এবং বিভিন্ন ধরণের ডেটার মধ্যে আন্তঃঅপারেবিলিটি প্রদান করে।
  * **JSON এবং XML ফাইল কি একই?** আসলেই না। JSON XML থেকে আলাদা যে JSON ছোট, পড়া যায় এবং ঠিক দ্রুত, অ্যারে ব্যবহার করতে পারে এবং এটি শেষ ট্যাগ ব্যবহার করে না।
  * **Can I convert JSON to CSV?** Yes, there are certain online converter apps such as **GroupDocs Conversion apps** that can [convert JSON to CSV](https://products.groupdocs.app/conversion/json-to-csv).
- * **কিভাবে JSON কে PDF তে রূপান্তর করবেন?** আপনি সেলের জন্য Asopse.app এর মতো অনলাইন অ্যাপ ব্যবহার করতে পারেন [JSON ফাইলকে PDF এ কনভার্ট করুন](https://products.aspose.app/cells/conversion/json-to- পিডিএফ)।
+ * **কিভাবে JSON কে PDF তে রূপান্তর করবেন?** আপনি সেলের জন্য Asopse.app এর মতো অনলাইন অ্যাপ ব্যবহার করতে পারেন [JSON ফাইলকে PDF এ কনভার্ট করুন](https://products.aspose.app/cells/conversion/json-to-pdf)।
  * **কীভাবে Word-এ JSON ফাইল খুলবেন?** আপনি Aspose.app-এর মতো অনলাইন অ্যাপ ব্যবহার করতে পারেন [JSON ফাইলকে Word-এ রূপান্তর করুন](JSON ফরম্যাটকে Android-এ জাভা-এর মাধ্যমে WORD-এ রূপান্তর করুন)।
 
 ## তুমি কি জানতে?

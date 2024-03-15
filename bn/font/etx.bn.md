@@ -23,6 +23,6 @@
 
 ## তথ্যসূত্র
 
- * [ফন্ট ফাইল ফরম্যাটের তালিকা](/ফন্ট/)
- * [FNT ফাইল ফরম্যাট](/font/fnt/)
+ * [List of Font File Formats](/font/)
+ * [FNT File Format](/font/fnt/)
 

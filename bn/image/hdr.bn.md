@@ -38,7 +38,7 @@ HDR ফাইল ফরম্যাট মূল রেডিয়েন্স 
 ## ওপেন সোর্স HDR/HDRI API
 
  * **[imageinfo](https://github.com/xiaozhuai/imageinfo)** - ক্রস প্ল্যাটফর্ম সুপার ফাস্ট সিঙ্গেল হেডার [C++](/programming/cpp/) লাইব্রেরি লোড/ডিকোডিং ছাড়াই ছবির আকার এবং ফর্ম্যাট পেতে।
- * **[imgaeinfo-rs](https://github.com/xiaozhuai/imageinfo-rs)** - লোড/ডিকোডিং ছাড়াই ছবির আকার এবং বিন্যাস পেতে মরিচা লাইব্রেরি। সমর্থন করে [.avif](/image/avif/), [.bmp](/image/bmp/), [.cur](/image/cur/), [.dds](/image/dds/), [. .gif](/image/gif/), hdr (pic), [heic (heif)](/image/heic/), [.icns](/image/icns/), [.ico](/image/ ico/), [.jp2](/image/jp2/), [jpeg (jpg)](/image/jpeg/), [jpx](/image/jpx/), ktx, [png](/image/ png/), [psd](/image/psd/), qoi, tga, tiff (tif), এবং webp.
+ * **[imgaeinfo-rs](https://github.com/xiaozhuai/imageinfo-rs)** - লোড/ডিকোডিং ছাড়াই ছবির আকার এবং বিন্যাস পেতে মরিচা লাইব্রেরি। সমর্থন করে [.avif](/image/avif/), [.bmp](/image/bmp/), [.cur](/image/cur/), [.dds](/image/dds/), [. .gif](/image/gif/), hdr (pic), [heic (heif)](/image/heic/), [.icns](/image/icns/), [.ico](/image/ico/), [.jp2](/image/jp2/), [jpeg (jpg)](/image/jpeg/), [jpx](/image/jpx/), ktx, [png](/image/png/), [psd](/image/psd/), qoi, tga, tiff (tif), এবং webp.
  * **[HdrHistogram](https://github.com/HdrHistogram/HdrHistogram)** - HdrHistogram এর জাভা বাস্তবায়ন।
 
 ## তথ্যসূত্র

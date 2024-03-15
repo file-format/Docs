@@ -82,8 +82,4 @@ package com.example
 
 ## রেফারেন্স ##
 
-* [এএস - উইকিপিডিয়া দ্বারা]( https://en.wikipedia.org/wiki/ActionScript)
-
-
-
-
+* [এএস - উইকিপিডিয়া দ্বারা](https://en.wikipedia.org/wiki/ActionScript)

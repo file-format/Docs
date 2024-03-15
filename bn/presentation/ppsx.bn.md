@@ -39,15 +39,11 @@ PPSX files are saved in the Open XML format, which was introduced in Microsoft O
 
 ## আরো দেখুন ##
 
-* [PPT](/প্রেজেন্টেশন/ppt/)
-
-* [PPTX](/প্রেজেন্টেশন/pptx/)
+* [PPT](/presentation/ppt/)
+* [PPTX](/presentation/pptx/)
 
 
 ## তথ্যসূত্র ##
 
 * [[MS-PPTX] - PPTX ফাইল ফরম্যাট](https://msdn.microsoft.com/en-us/library/dd926741(v#office.12).aspx)
-
 * [ওপেন অফিস এক্সএমএল](http://officeopenxml.com/anatomyofOOXML-pptx.php)
-
-
