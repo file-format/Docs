@@ -90,7 +90,4 @@ OST ফাইলের HEADER স্ট্রাকচার ফাইলের 
 ## তথ্যসূত্র
 
 * [আউটলুক পার্সোনাল ফোল্ডার (.ost) ফাইল ফরম্যাট](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546)
-
 * [পার্সোনাল ফোল্ডার ফাইল ফরম্যাট স্পেসিফিকেশন](https://github.com/libyal/libpff/blob/main/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
-
-

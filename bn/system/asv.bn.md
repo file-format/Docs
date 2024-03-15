@@ -39,6 +39,4 @@ ASV ফাইলগুলি বাইনারি ফাইল বিন্য�
 
 ## তথ্যসূত্র
 
-* [Adobe Photoshop-এ ASV ফাইল লোড করুন](https://community.adobe.com/t5/photoshop-ecosystem-discussions/photoshop-asv-file-preset-wont-open/mp/12587356)
-
-
+* [Adobe Photoshop-এ ASV ফাইল লোড করুন](https://community.adobe.com/t5/photoshop-ecosystem-discussions/photoshop-asv-file-preset-wont-open/m-p/12587356)

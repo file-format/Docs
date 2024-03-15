@@ -77,7 +77,4 @@ EPUB ফাইল ফরম্যাট নিম্নলিখিত ইমে
 * [SVG](/page-description-language/svg/)
 
 ## তথ্যসূত্র ##
-
 * [EPUB - উইকিপিডিয়া দ্বারা](https://en.wikipedia.org/wiki/EPUB)
-
-

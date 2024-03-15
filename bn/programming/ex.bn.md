@@ -35,11 +35,3 @@ The development and existence of EX file format is linked with the development o
 ## EX ফাইল ফরম্যাট - আরও তথ্য
 
 EX ফাইলগুলি প্লেইন টেক্সট ফাইল হিসাবে সংরক্ষণ করা হয় এবং ইউফোরিয়া প্রোগ্রামিং ভাষায় লেখা প্রোগ্রামগুলির জন্য সোর্স কোড ধারণ করে। এই ফাইলগুলো যেকোনো টেক্সট এডিটরে খোলা যায়।
-
-## রেফারেন্স ##
-
-* [র্যাপিড ইউফোরিয়া](https://www.rapideuphoria.com/)
-
-* [ওপেনইউফোরিয়া ফোরাম](https://openeuphoria.org/forum/index.wc)
-
-

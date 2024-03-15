@@ -37,9 +37,4 @@
 ## তথ্যসূত্র
 
 * [কিভাবে ব্যবহারকারীদের কাছ থেকে VBA কোড লুকাবেন?](https://support.microsoft.com/en-us/office/hide-vba-code-from-users-ce6ab610-af07-4008-91e0-1ef1b796ff18)
-
 * [MDB টুলস](https://github.com/mdbtools/mdbtools/blob/master/HACKING)
-
-* [অফিসিয়াল MDB গাইড](http://jabakobob.net/mdb/)
-
-

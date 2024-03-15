@@ -46,4 +46,3 @@ An Indd file is created when you create a new project with [Adobe InDesign](http
 ## তথ্যসূত্র
 
  * [INDD ফাইলের ধরন - Adobe](https://www.adobe.com/creativecloud/file-types/image/vector/indd-file.html)
-

@@ -30,10 +30,5 @@ A THM file contains an XML file, several image file sin [.png](/image/png/), [.p
 
 ## কিভাবে Sony Ericsson থিম তৈরি করবেন?
 
-Sony থিম ক্রিয়েটর সফ্টওয়্যার Sony Ericsson মোবাইলের জন্য নতুন থিম তৈরি করতে ব্যবহার করা যেতে পারে। ব্যবহারকারীরা থিম তৈরি করতে Sony [Themes Creator Developer Guide](https://developer.sony.com/theme-creator/get-started) অনুসরণ করতে পারেন৷
-
-## তথ্যসূত্র
-
-* [সনি থিম ক্রিয়েটর ডেভেলপার গাইড](https://developer.sony.com/theme-creator/get-started)
-
+Sony থিম ক্রিয়েটর সফ্টওয়্যার Sony Ericsson মোবাইলের জন্য নতুন থিম তৈরি করতে ব্যবহার করা যেতে পারে। ব্যবহারকারীরা থিম তৈরি করতে Sony Themes Creator Developer Guide অনুসরণ করতে পারেন৷
 

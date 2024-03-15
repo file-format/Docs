@@ -73,8 +73,5 @@ XPS ডকুমেন্ট ফরম্যাটে অংশ এবং সম
 
 ## তথ্যসূত্র ##
 
-* [এক্সপিএস ফাইল ফর্ম্যাট স্পেসিফিকেশন](https://www.ecma-international.org/publications-and-standards/standards/ecma-388/)
-
-* [XPS - উইকিপিডিয়া দ্বারা](https://en.wikipedia.org/wiki/Open_XML_Paper_Specification#Viewing_and_creating_XPS_documents)
-
-
+* [XPS File Format Specifications](https://www.ecma-international.org/publications-and-standards/standards/ecma-388/)
+* [XPS - By Wikipedia](https://en.wikipedia.org/wiki/Open_XML_Paper_Specification#Viewing_and_creating_XPS_documents)

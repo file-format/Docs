@@ -49,7 +49,3 @@ There are public specifications available for MDB format and it remains Microsof
 ## তথ্যসূত্র ##
 
 * [অ্যাক্সেস স্পেসিফিকেশন](https://support.microsoft.com/en-us/office/access-specifications-0cf3c66f-9cf2-4e32-9568-98c1025bb47c)
-
-* [অফিসিয়াল MDB গাইড](http://jabakobob.net/mdb/)
-
-

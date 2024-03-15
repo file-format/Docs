@@ -40,6 +40,6 @@ MAC OS-এ SIT ফাইলগুলি বের করার জন্য অ�
 ## তথ্যসূত্র
 
 * [StuffIt - উইকিপিডিয়া দ্বারা](https://en.wikipedia.org/wiki/StuffIt)
-* [StuffIt](https://stufit.com/)
+* [StuffIt](https://stuffit.com/)
 
 

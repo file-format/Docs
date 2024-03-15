@@ -81,4 +81,3 @@ NSD ডাটাবেস হেডারে নিম্নলিখিত ন�
 ## তথ্যসূত্র
 
  * [NSF ফরম্যাট - Github](https://github.com/libyal/libnsfdb/blob/main/documentation/Notes%20Storage%20Facility%20(NSF)%20database%20file%20format.asciidoc)
-

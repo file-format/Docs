@@ -35,8 +35,3 @@ The Euphoria was initially written in **[C](/programming/c/)** programming langu
 ## EX File Format - More Information
 
 EX files are stored as plain text files and contain the source code for programs written in Euphoria programming language. These files can be opened in any text editor.
-
-## Reference ##
-
-* [Rapid Euphoria](https://www.rapideuphoria.com/)
-* [OpenEuphoria Forums](https://openeuphoria.org/forum/index.wc)

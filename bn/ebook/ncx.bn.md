@@ -74,6 +74,4 @@ including those that conform to the relaxed constraints of OPS 2.0 -->
 ## তথ্যসূত্র ##
 
 * [উইকিপিডিয়া থেকে EPUB](https://en.wikipedia.org/wiki/EPUB)
-
 * [What files to include in the toc.ncx](https://ebooks.stackexchange.com/questions/2332/what-files-to-include-in-the-toc-ncx)
-

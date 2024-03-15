@@ -57,5 +57,3 @@ MOBI ফাইল ফরম্যাটের কিছু সীমাবদ্
 ## তথ্যসূত্র
 
 * [মোবিপকেট ফাইল ফরম্যাট](https://www.loc.gov/preservation/digital/formats/fdd/fdd000472.shtml)
-
-

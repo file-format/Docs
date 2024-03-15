@@ -33,7 +33,7 @@
 
 ## QT ফাইল ফরম্যাট
 
-QTFF অবজেক্ট-ওরিয়েন্টেড যা পার্সিং এবং প্রসারণের সহজতার জন্য বস্তুর একটি নমনীয় সংগ্রহ প্রকাশ করে। একটি QT ফাইলের প্রতিটি ট্র্যাকে একটি ডিজিটাল-এনকোডেড মিডিয়া স্ট্রীম বা অন্য ফাইলে অবস্থিত মিডিয়া স্ট্রীমের একটি ডেটা রেফারেন্স রয়েছে। পরমাণু নামক বস্তুর সমন্বয়ে শ্রেণীবদ্ধ তথ্য কাঠামো ট্র্যাক পাত্র হিসাবে কাজ করে। [QT file format](https://developer.apple.com/library/archive/documentation/QuickTime/QTFF/QTFFPreface/qtffPreface.html)-এর জন্য ফাইল ফর্ম্যাট স্পেসিফিকেশন ডেভেলপারের রেফারেন্সের জন্য Apple Inc দ্বারা আনুষ্ঠানিকভাবে উপলব্ধ৷
+QTFF অবজেক্ট-ওরিয়েন্টেড যা পার্সিং এবং প্রসারণের সহজতার জন্য বস্তুর একটি নমনীয় সংগ্রহ প্রকাশ করে। একটি QT ফাইলের প্রতিটি ট্র্যাকে একটি ডিজিটাল-এনকোডেড মিডিয়া স্ট্রীম বা অন্য ফাইলে অবস্থিত মিডিয়া স্ট্রীমের একটি ডেটা রেফারেন্স রয়েছে। পরমাণু নামক বস্তুর সমন্বয়ে শ্রেণীবদ্ধ তথ্য কাঠামো ট্র্যাক পাত্র হিসাবে কাজ করে। [QT file format](https://developer.apple.com/documentation/quicktime-file-format)-এর জন্য ফাইল ফর্ম্যাট স্পেসিফিকেশন ডেভেলপারের রেফারেন্সের জন্য Apple Inc দ্বারা আনুষ্ঠানিকভাবে উপলব্ধ৷
 
 ### Media description
 
@@ -65,8 +65,5 @@ Here is a sample example: Inspecting a sample MOV file’s binary data it is evi
 
 ## তথ্যসূত্র ##
 
-* [QT ফাইল ফরম্যাট - Apple Inc.](https://developer.apple.com/library/archive/documentation/QuickTime/QTFF/QTFFPreface/qtffPreface.html)
-
+* [QT ফাইল ফরম্যাট - Apple Inc.](https://developer.apple.com/documentation/quicktime-file-format)
 * [কুইকটাইম ফাইল ফরম্যাট - উইকিপিডিয়া](https://en.wikipedia.org/wiki/QuickTime_File_Format)
-
-

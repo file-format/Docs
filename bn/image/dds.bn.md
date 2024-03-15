@@ -44,7 +44,3 @@ DDS_HEADER          header;
 ## তথ্যসূত্র
 
 * [DDS - উইকিপিডিয়া দ্বারা](https://en.wikipedia.org/wiki/DirectDraw_Surface)
-
-* [ZSoft PCX ফাইল ফরম্যাট টেকনিক্যাল রেফারেন্স ম্যানুয়াল](http://qzx.com/pc-gpe/pcx.txt)
-
-
