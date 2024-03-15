@@ -27,7 +27,7 @@
 
 ## الميزات المدعومة في ملفات GNM
 
-نظرًا لأن Gnumeric يدعم العديد من تنسيقات الملفات المختلفة ، فيمكنه تحويل ملفات GNM الأصلية إلى [CSV](/ar/spreadsheet/csv/) و [XLSX](/ar/spreadsheet/xlsx/) و Microsoft Works (.wks) و [HTML](/ar/web/html/) و [LaTex](/ar/word-processing/ اللاتكس /) و [Lotus 1-2-3](/ar/spreadsheet/123/).
+نظرًا لأن Gnumeric يدعم العديد من تنسيقات الملفات المختلفة ، فيمكنه تحويل ملفات GNM الأصلية إلى [CSV](/ar/spreadsheet/csv/) و [XLSX](/ar/spreadsheet/xlsx/) و Microsoft Works (.wks) و [HTML](/ar/web/html/) و [LaTex](/word-processing/latex/) و [Lotus 1-2-3](/ar/spreadsheet/123/).
 
 ## Gnumeric على جيثب
 

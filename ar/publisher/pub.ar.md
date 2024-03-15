@@ -18,11 +18,11 @@
 
 ## ما هو ملف PUB؟
 
-ملف PUB هو تنسيق ملف مستند Microsoft Publisher. يتم استخدامه لإنشاء عدة أنواع من مستندات تخطيط التصميم مثل الرسائل الإخبارية والنشرات والكتيبات والبطاقات البريدية وما إلى ذلك. يمكن أن تحتوي ملفات PUB على نصوص وصور نقطية وصور متجهة. تُستخدم المستندات التي تم إنشاؤها باستخدام ملفات PUB في الغالب في مواقع الويب والمواد التسويقية مثل رسائل البريد الإلكتروني. يمكن فتح ملفات PUB باستخدام تطبيق Microsoft Publisher Desktop ، [Microsoft Publisher 365](https://www.microsoft.com/en/microsoft-365) ، [LibreOffice Draw](https://www.libreoffice.org/discover / draw /) و [Adobe InDesign](https://www.adobe.com/products/indesign.html).
+ملف PUB هو تنسيق ملف مستند Microsoft Publisher. يتم استخدامه لإنشاء عدة أنواع من مستندات تخطيط التصميم مثل الرسائل الإخبارية والنشرات والكتيبات والبطاقات البريدية وما إلى ذلك. يمكن أن تحتوي ملفات PUB على نصوص وصور نقطية وصور متجهة. تُستخدم المستندات التي تم إنشاؤها باستخدام ملفات PUB في الغالب في مواقع الويب والمواد التسويقية مثل رسائل البريد الإلكتروني. يمكن فتح ملفات PUB باستخدام تطبيق Microsoft Publisher Desktop ، [Microsoft Publisher 365](https://www.microsoft.com/en/microsoft-365) ، [LibreOffice Draw](https://www.libreoffice.org/discover/draw/) و [Adobe InDesign](https://www.adobe.com/products/indesign.html).
 
 ## تنسيق ملف PUB - مزيد من المعلومات
 
-يتم تخزين ملفات PUB كملفات ثنائية تعمل على القرص. يمكن أيضًا تحويل محتويات ملفات PUB إلى تنسيق ملف [DOCX](/ar/word-processing/ docx /) من داخل تطبيق Microsoft Publisher باستخدام الخيار "حفظ باسم".
+يتم تخزين ملفات PUB كملفات ثنائية تعمل على القرص. يمكن أيضًا تحويل محتويات ملفات PUB إلى تنسيق ملف [DOCX](/ar/word-processing/docx/) من داخل تطبيق Microsoft Publisher باستخدام الخيار "حفظ باسم".
 
 ## كيفية استخدام Microsoft Publisher؟
 

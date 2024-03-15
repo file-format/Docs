@@ -37,7 +37,7 @@
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-[Aspose.Words](https://products.aspose.com/words/) عبارة عن مجموعة من واجهات برمجة التطبيقات التي تتيح لأي مطور تحويل [DOC](/ar/word-processing/doc/) إلى [BMP](/ar/image/bmp /) باستخدام أسطر بسيطة من التعليمات البرمجية. وهو متاح للعديد من لغات البرمجة بما في ذلك [C#](/ar/programming/cs/), [Java](/ar/programming/java/), [Python](/ar/programming/py/) و[C++](/ar/programming/cpp/ ). بالإضافة إلى BMP, تتيح لك Aspose.Words APIs تحويل ملفات DOC إلى العديد من تنسيقات الملفات الشائعة الأخرى.
+[Aspose.Words](https://products.aspose.com/words/) عبارة عن مجموعة من واجهات برمجة التطبيقات التي تتيح لأي مطور تحويل [DOC](/ar/word-processing/doc/) إلى [BMP](/ar/image/bmp/) باستخدام أسطر بسيطة من التعليمات البرمجية. وهو متاح للعديد من لغات البرمجة بما في ذلك [C#](/ar/programming/cs/), [Java](/ar/programming/java/), [Python](/ar/programming/py/) و[C++](/ar/programming/cpp/ ). بالإضافة إلى BMP, تتيح لك Aspose.Words APIs تحويل ملفات DOC إلى العديد من تنسيقات الملفات الشائعة الأخرى.
 
 ## مراجع
 

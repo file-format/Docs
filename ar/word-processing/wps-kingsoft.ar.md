@@ -73,7 +73,7 @@ Kingsoft Office, المعروف أيضًا باسم WPS Office, هو برنام�
 
 - [DOC](/ar/word-processing/doc/)
 - [DOCX](/ar/word-processing/docx/)
-- [RTF](/ar/معالجة الكلمات/rtf/)
+- [RTF](/ar/word-processing/rtf/)
 - [TXT](/ar/word-processing/txt/)
 - [HTML](/ar/web/html/)
 - [PDF](/ar/pdf/)

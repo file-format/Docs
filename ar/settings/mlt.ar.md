@@ -55,14 +55,14 @@ Meltytech Shotcut, والذي يشار إليه غالبًا باسم "Shotcut",
 
 
 
-- [MP4](/ar/فيديو/mp4/)
-- [MOV](/ar/فيديو/موف/)
-- [افي](/ar/فيديو/افي/)
-- [MKV](/ar/video/mkv/)
-- [WebM](/ar/video/webm/)
-- [MPEG](/ar/فيديو/mpeg/)
-- [FLV](/ar/فيديو/FLV/)
-- [WMV](/ar/فيديو/wmv/)
+    -   [MP4](/video/mp4/)
+    -   [MOV](/video/mov/)
+    -   [AVI](/video/avi/)
+    -   [MKV](/video/mkv/)
+    -   [WebM](/video/webm/)
+    -   [MPEG](/video/mpeg/)
+    -   [FLV](/video/flv/)
+    -   [WMV](/video/wmv/)
 - و اكثر...
 2. **تنسيقات الصوت:**
     
@@ -121,11 +121,11 @@ Meltytech Shotcut, والذي يشار إليه غالبًا باسم "Shotcut",
 
 
 
-- [MP4 (ترميز H.264)](/ar/video/mp4/)
-- [WebM (برنامج ترميز VP9)](/ar/video/webm/)
-- [افي](/ar/فيديو/افي/)
-- [MOV](/ar/فيديو/موف/)
-- [MKV](/ar/video/mkv/)
+    -   [MP4 (H.264 codec)](/video/mp4/)
+    -   [WebM (VP9 codec)](/video/webm/)
+    -   [AVI](/video/avi/)
+    -   [MOV](/video/mov/)
+    -   [MKV](/video/mkv/)
 - و اكثر...
 2. **تنسيقات الصوت:**
     

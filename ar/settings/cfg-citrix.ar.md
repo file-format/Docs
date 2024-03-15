@@ -188,7 +188,7 @@
 
 
 
-- **.exe**: غالبًا ما تأتي حزم تثبيت Citrix Rescue أو Citrix Workspace بتنسيق قابل للتنفيذ لأنظمة تشغيل مختلفة (على سبيل المثال, [.exe](/ar/executable/exe/) لنظام التشغيل Windows, [.dmg](/ar/compression/dmg /) لنظام التشغيل MacOS). تتيح هذه الحزم للمستخدمين تثبيت برنامج العميل على أجهزتهم.
+- **.exe**: غالبًا ما تأتي حزم تثبيت Citrix Rescue أو Citrix Workspace بتنسيق قابل للتنفيذ لأنظمة تشغيل مختلفة (على سبيل المثال, [.exe](/ar/executable/exe/) لنظام التشغيل Windows, [.dmg](/ar/compression/dmg/) لنظام التشغيل MacOS). تتيح هذه الحزم للمستخدمين تثبيت برنامج العميل على أجهزتهم.
 3. **تطبيق Citrix Workspace (جهاز استقبال Citrix سابقًا)**:
     
 
@@ -242,7 +242,7 @@
 
 
 
-- **.vhd, .vhdx**: يمكن لـ Citrix XenDesktop وXenApp تقديم أجهزة سطح مكتب وتطبيقات افتراضية باستخدام القرص الصلب الظاهري [VHD](/ar/disc-and-media/vhd/) أو [VHDX](/ar/disc-and-media /vhdx/) الملفات.
+- **.vhd, .vhdx**: يمكن لـ Citrix XenDesktop وXenApp تقديم أجهزة سطح مكتب وتطبيقات افتراضية باستخدام القرص الصلب الظاهري [VHD](/ar/disc-and-media/vhd/) أو [VHDX](/ar/disc-and-media/vhdx/) الملفات.
 6. **البيانات الوصفية لنشر الموارد**:
     
 
