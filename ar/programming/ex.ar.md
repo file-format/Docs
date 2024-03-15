@@ -34,9 +34,3 @@
 ## تنسيق ملف EX - مزيد من المعلومات
 
 يتم تخزين ملفات EX كملفات نصية عادية وتحتوي على الكود المصدري للبرامج المكتوبة بلغة برمجة Euphoria. يمكن فتح هذه الملفات في أي محرر نصوص.
-
-## المرجعي ##
-
-* [Rapid Euphoria](https://www.rapideuphoria.com/)
-* [منتديات OpenEuphoria](https://openeuphoria.org/forum/index.wc)
-

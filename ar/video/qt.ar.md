@@ -23,7 +23,7 @@
 
 ## تنسيق ملف QT
 
-إن QTFF موجه للكائنات والذي يعرض مجموعة مرنة من الكائنات لسهولة التحليل والتوسيع. يحتوي كل مسار في ملف QT على دفق وسائط مشفر رقميًا أو مرجع بيانات إلى دفق الوسائط الموجود في ملف آخر. تتكون بنية البيانات الهرمية من كائنات تسمى الذرات بمثابة حاويات مسارات. مواصفات تنسيق الملف [تنسيق ملف QT](https://developer.apple.com/library/archive/documentation/QuickTime/QTFF/QTFFPreface/qtffPreface.html) متاحة رسميًا من قبل شركة Apple Inc كمرجع للمطور.
+إن QTFF موجه للكائنات والذي يعرض مجموعة مرنة من الكائنات لسهولة التحليل والتوسيع. يحتوي كل مسار في ملف QT على دفق وسائط مشفر رقميًا أو مرجع بيانات إلى دفق الوسائط الموجود في ملف آخر. تتكون بنية البيانات الهرمية من كائنات تسمى الذرات بمثابة حاويات مسارات. مواصفات تنسيق الملف [تنسيق ملف QT](https://developer.apple.com/documentation/quicktime-file-format) متاحة رسميًا من قبل شركة Apple Inc كمرجع للمطور.
 
 ### وصف الوسائط
 
@@ -55,6 +55,5 @@ Atom هي الوحدة الأساسية لملف QuickTime. يوجد حقلين 
 
 ## مراجع ##
 
-* [QT File Format - Apple Inc.](https://developer.apple.com/library/archive/documentation/QuickTime/QTFF/QTFFPreface/qtffPreface.html)
+* [QT File Format - Apple Inc.](https://developer.apple.com/documentation/quicktime-file-format)
 * [تنسيق ملف كويك تايم - ويكيبيديا](https://en.wikipedia.org/wiki/QuickTime_File_Format)
-

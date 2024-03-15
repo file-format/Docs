@@ -72,4 +72,3 @@
 ## مراجع
 
 * [تنسيق NSF - جيثب](https://github.com/libyal/libnsfdb/blob/main/documentation/Notes%20Storage%20Facility%20(NSF)%20database%20file%20format.asciidoc)
-

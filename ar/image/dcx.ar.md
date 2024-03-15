@@ -23,5 +23,4 @@
 ## مراجع
 
 * [PCX - بواسطة Wikipedia](https://en.wikipedia.org/wiki/PCX)
-* [الدليل التقني لتنسيق ملف ZSoft PCX](http://qzx.com/pc-gpe/pcx.txt)
 

@@ -24,7 +24,3 @@
 
 OLM هي ملفات ثنائية بنوع MIME Application / octet-Stream. لا تتوفر المواصفات الفنية لتنسيق ملف OLM علنًا من Microsoft ولا توجد تفاصيل تنسيق متاحة لمرجع المطور. ومع ذلك ، هناك بعض واجهات برمجة التطبيقات التي يمكنها قراءة تنسيق ملف OLM وكتابتها في ملف PST لاستخدامها على نظام تشغيل Microsoft Windows مثل Aspose.Email.
 
-## مراجع
-
-* [تنسيق ملف OLM؟](https://social.msdn.microsoft.com/Forums/office/en-US/4ce689ee-8fad-4362-a0eb-06382646a845/olm-file-format؟forum=os_binaryfile)
-

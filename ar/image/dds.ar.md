@@ -43,5 +43,3 @@ DDS_HEADER          header;
 ## مراجع
 
 * [DDS - بواسطة Wikipedia](https://en.wikipedia.org/wiki/DirectDraw_Surface)
-* [الدليل التقني لتنسيق ملف ZSoft PCX](http://qzx.com/pc-gpe/pcx.txt)
-
