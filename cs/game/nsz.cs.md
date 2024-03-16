@@ -54,6 +54,4 @@ Programy, které otevírají soubory NSZ, zahrnují program **nsz**, který dok�
 - **nsz** (zdarma) pro (Windows, Mac, Linux)
 
 ## Reference
-* [Emulátor Yuzu](https://en.wikipedia.org/wiki/Yuzu_(emulátor))
-
-
+* [Yuzu Emulator](https://en.wikipedia.org/wiki/Yuzu_(emulator))

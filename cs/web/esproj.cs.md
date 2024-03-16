@@ -26,5 +26,4 @@ Soubory ESPROJ se ukládají jako binární soubory a jejich obsah není čiteln
 
 ## Reference
 
-* [Adobe Edge](https://www.adobe.com/sea/products/edge-animate.html)
-
+* [Adobe Edge](https://en.wikipedia.org/wiki/Adobe_Edge_Animate)

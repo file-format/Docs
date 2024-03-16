@@ -58,5 +58,4 @@ Samotný formát CB7 je v podstatě archiv 7-Zip se specifickou příponou soubo
 Interně soubor CB7 obsahuje více stránek komiksu nebo obrázků, které tvoří kolekci komiksů. Tyto stránky jsou obvykle uloženy v archivu jednotlivých souborů obrázků, jako jsou JPEG, PNG nebo GIF. Organizace a konvence pojmenování těchto stránek se mohou lišit v závislosti na tvůrci nebo poskytovateli souboru CB7.
 
 ## Reference
-* [Archiv komiksů](https://en.wikipedia.org/wiki/archiv_komiksů)
-
+* [Comic book archive](https://en.wikipedia.org/wiki/Comic_book_archive)

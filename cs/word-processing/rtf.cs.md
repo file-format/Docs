@@ -19,7 +19,7 @@
 
 ## Co je soubor RTF?
 
-Formát Rich Text Format (**RTF**) představený a zdokumentovaný společností Microsoft představuje metodu kódování formátovaného textu a grafiky pro použití v aplikacích. Tento formát usnadňuje výměnu dokumentů mezi platformami s jinými produkty společnosti Microsoft, čímž slouží účelu interoperability. Tato schopnost z něj činí standard přenosu dat mezi softwarem pro zpracování textu, a proto lze obsah přenášet z jednoho operačního systému do druhého bez ztráty formátování dokumentu. Specifikace formátu souborů jsou k dispozici od společnosti Microsoft k veřejnému [stažení](https://interoperability.blob.core.windows.net/files/Archive_References/%5bMSFT-RTF%5d.pdf) a lze na ně odkazovat z pohledu vývojáře.
+Formát Rich Text Format (**RTF**) představený a zdokumentovaný společností Microsoft představuje metodu kódování formátovaného textu a grafiky pro použití v aplikacích. Tento formát usnadňuje výměnu dokumentů mezi platformami s jinými produkty společnosti Microsoft, čímž slouží účelu interoperability. Tato schopnost z něj činí standard přenosu dat mezi softwarem pro zpracování textu, a proto lze obsah přenášet z jednoho operačního systému do druhého bez ztráty formátování dokumentu. Specifikace formátu souborů jsou k dispozici od společnosti Microsoft k veřejnému stažení a lze na ně odkazovat z pohledu vývojáře.
 
 ## Stručná historie formátu souboru RTF ##
 
@@ -63,7 +63,7 @@ Skupina se může skládat z textu, řídicích slov nebo řídicích symbolů u
 
 Soubor RTF má následující standardní syntaxi:
 
-Formát Rich Text Format (**RTF**) představený a zdokumentovaný společností Microsoft představuje metodu kódování formátovaného textu a grafiky pro použití v aplikacích. Tento formát usnadňuje výměnu dokumentů mezi platformami s jinými produkty společnosti Microsoft, čímž slouží účelu interoperability. Tato schopnost z něj činí standard přenosu dat mezi softwarem pro zpracování textu, a proto lze obsah přenášet z jednoho operačního systému do druhého bez ztráty formátování dokumentu. Specifikace formátu souborů jsou k dispozici od společnosti Microsoft k veřejnému [stažení](https://interoperability.blob.core.windows.net/files/Archive_References/%5bMSFT-RTF%5d.pdf) a lze na ně odkazovat z pohledu vývojáře.
+Formát Rich Text Format (**RTF**) představený a zdokumentovaný společností Microsoft představuje metodu kódování formátovaného textu a grafiky pro použití v aplikacích. Tento formát usnadňuje výměnu dokumentů mezi platformami s jinými produkty společnosti Microsoft, čímž slouží účelu interoperability. Tato schopnost z něj činí standard přenosu dat mezi softwarem pro zpracování textu, a proto lze obsah přenášet z jednoho operačního systému do druhého bez ztráty formátování dokumentu. Specifikace formátu souborů jsou k dispozici od společnosti Microsoft k veřejnému stažení a lze na ně odkazovat z pohledu vývojáře.
 
 #### Záhlaví RTF ####
 
@@ -128,6 +128,4 @@ Každý dokument RTF musí končit znakem }, aby se uzavřela skupina otevřená
 
 ## Reference ##
 
-* [Specifikace RTF 1.9.1](https://interoperability.blob.core.windows.net/files/Archive_References/%5bMSFT-RTF%5d.pdf)
 * [Rich Text Format](https://en.wikipedia.org/wiki/Rich_Text_Format)
-

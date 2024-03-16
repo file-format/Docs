@@ -48,7 +48,7 @@ Tyto soubory uchovávají obsah dokumentu takovým způsobem, že pokud napřík
 
 Formát dokumentu XPS obsahuje dobře definovanou sadu částí a vztahů, z nichž každá plní v dokumentu určitý účel. Formát také rozšiřuje funkce balíčku, včetně digitálních podpisů, miniatur a prokládání.
 
-Typický dokument XPS vypadá následovně a lze jej analyzovat ve světle formátu souboru XPS [specifikace](https://www.ecma-international.org/activities/XML%20Paper%20Specification/XPS%20Standard.pdf).
+Typický dokument XPS vypadá následovně a lze jej analyzovat ve světle formátu souboru XPS specifikace.
 
 {{< figure src="../XPS-2.png" alt="Formát souboru XPS" >}}
 

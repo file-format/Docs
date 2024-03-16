@@ -56,6 +56,4 @@ Pokud váš soubor ENC prošel kódováním prostřednictvím standardního form
 U souborů ENC kódovaných pomocí proprietárního formátu může být možné je otevřít pomocí původního programu, který soubor vytvořil; mnoho souborů ENC není navrženo pro přímou interakci uživatele; místo toho slouží jako kontejnery pro zakódovaná data, která si program podle potřeby načte během své činnosti; otevření takových souborů bez přidruženého programu nemusí poskytnout smysluplné informace, protože jejich primárním účelem je ukládat zakódovaná data pro interní fungování konkrétní aplikace nebo systému.
 
 ## Reference
-* [Kódování znaků](https://en.wikipedia.org/wiki/Kódování_znaků)
-
-
+* [Character encoding](https://en.wikipedia.org/wiki/Character_encoding)

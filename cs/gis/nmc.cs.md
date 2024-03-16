@@ -27,6 +27,4 @@ Soubory NMC jsou uloženy v binárním formátu souborů, přičemž jejich vnit
 
 ## Reference
 
-* [Mapy pro Navitel Navigator 11.8](https://www.navitel.cz/cs/stažení/demo)
-
-
+* [Maps for Navitel Navigator 11.8](https://www.navitel.cz/en/downloads/demo)

@@ -172,5 +172,4 @@ Zde jsou další typy souborů, které používají příponu souboru **.cfg**.
 – [CFG – konfigurační soubor modelu Cal3D](/cs/misc/cfg-cal3d/)
 
 ## Reference
-* [Mugen (herní engine)](https://en.wikipedia.org/wiki/Mugen_(herní_engine))
-
+* [Mugen (game engine)](https://en.wikipedia.org/wiki/Mugen_(game_engine))

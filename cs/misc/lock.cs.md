@@ -43,5 +43,4 @@ povinné zamykání nevyžaduje žádnou spolupráci mezi zúčastněnými proce
 ## Reference
 
 * [GemFile a Gemfile.lock v Ruby](https://medium.com/never-hop-on-the-bandwagon/gemfile-and-gemfile-lock-in-ruby-65adc918b856)
-* [Uzamykání v Linuxu](https://www.baeldung.com/linux/file-locking#:~:text=File%20locking%20is%20a%20mechanism,very%20dangerous%20command%20in%20Linux.)
-
+* [Uzamykání v Linuxu](https://www.baeldung.com/linux/file-locking)

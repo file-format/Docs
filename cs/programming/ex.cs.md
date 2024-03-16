@@ -37,6 +37,4 @@ Soubory EX jsou uloženy jako prosté textové soubory a obsahují zdrojový kó
 
 ## reference ##
 
-* [Rychlá euforie](https://www.rapideuphoria.com/)
 * [Fóra OpenEuphoria](https://openeuphoria.org/forum/index.wc)
-

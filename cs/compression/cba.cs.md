@@ -71,5 +71,4 @@ Formát TAR je přímočarý způsob, jak spojit více souborů do jednoho archi
 Formát TAR zachovává strukturu souborů, oprávnění k souborům a časová razítka zahrnutých souborů. Ukládá soubory postupně v rámci archivu, což umožňuje snadnou extrakci jednotlivých souborů nebo celého archivu.
 
 ## Reference
-* [Archiv komiksů](https://en.wikipedia.org/wiki/archiv_komiksů)
-
+* [Comic book archive](https://en.wikipedia.org/wiki/Comic_book_archive)

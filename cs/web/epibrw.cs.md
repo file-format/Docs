@@ -24,5 +24,4 @@ Když na soubor EPIBRW dvakrát kliknete, může se otevřít v prohlížeči a 
 
 ## Reference
 
-* [Adobe Edge](https://www.adobe.com/sea/products/edge-animate.html)
-
+* [Adobe Edge](https://en.wikipedia.org/wiki/Adobe_Edge_Animate)

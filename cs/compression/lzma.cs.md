@@ -54,6 +54,4 @@ Nekomprimovaná velikost je uložena jako 64bitové malé endian celé číslo b
 
 ## Reference
 
-* [Formát souboru LZMA](https://svn.python.org/projects/external/xz-5.0.3/doc/lzma-file-format.txt)
 * [Algoritmus řetězce Lempel–Ziv–Markov](https://en.wikipedia.org/wiki/Lempel%E2%80%93Ziv%E2%80%93Markov_chain_algorithm)
-

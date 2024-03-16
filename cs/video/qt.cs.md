@@ -23,7 +23,7 @@ Soubor s příponou .qt je soubor multimediálního kontejneru, který použív�
 
 ## Formát souboru QT
 
-QTFF je objektově orientovaný, který odhaluje flexibilní kolekci objektů pro snadnou analýzu a rozšiřování. Každá stopa v souboru QT obsahuje digitálně kódovaný mediální tok nebo datový odkaz na mediální tok umístěný v jiném souboru. Hierarchická datová struktura sestávající z objektů nazývaných atomy funguje jako kontejnery stop. Specifikace formátu souboru pro [formát souboru QT](https://developer.apple.com/library/archive/documentation/QuickTime/QTFF/QTFFPreface/qtffPreface.html) jsou oficiálně dostupné společností Apple Inc.
+QTFF je objektově orientovaný, který odhaluje flexibilní kolekci objektů pro snadnou analýzu a rozšiřování. Každá stopa v souboru QT obsahuje digitálně kódovaný mediální tok nebo datový odkaz na mediální tok umístěný v jiném souboru. Hierarchická datová struktura sestávající z objektů nazývaných atomy funguje jako kontejnery stop. Specifikace formátu souboru pro [formát souboru QT](https://developer.apple.com/documentation/quicktime-file-format) jsou oficiálně dostupné společností Apple Inc.
 
 ### Popis média
 
@@ -55,6 +55,6 @@ Další blok se nachází na offsetu 32+8#40 (hex: 28) a má velikost 3 263 028 
 
 ## Reference ##
 
-* [Formát souboru QT – Apple Inc.](https://developer.apple.com/library/archive/documentation/QuickTime/QTFF/QTFFPreface/qtffPreface.html)
+* [Formát souboru QT – Apple Inc.](https://developer.apple.com/documentation/quicktime-file-format)
 * [Formát souboru QuickTime – Wikipedie](https://en.wikipedia.org/wiki/QuickTime_File_Format)
 

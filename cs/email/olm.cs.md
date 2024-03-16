@@ -23,8 +23,3 @@ Soubor s příponou .olm je soubor Microsoft Outlook pro operační systém Mac.
 ## Formát souboru OLM
 
 OLM jsou binární soubory s typem MIME Application/octet-stream. Technické specifikace formátu souboru OLM nejsou otevřeně k dispozici od společnosti Microsoft a nejsou k dispozici žádné podrobnosti o formátu pro vývojáře. Existují však některá rozhraní API, která mohou číst formát souboru OLM a zapisovat je do souboru PST pro použití v operačním systému Microsoft Windows, jako je Aspose.Email.
-
-## Reference
-
-* [Formát souboru OLM?](https://social.msdn.microsoft.com/Forums/office/en-US/4ce689ee-8fad-4362-a0eb-06382646a845/olm-file-format?forum=os_binaryfile)
-

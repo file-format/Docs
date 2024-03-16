@@ -21,7 +21,7 @@
 
 Soubor FMW je soubor projektu vytvořený pomocí softwaru FME Workbench (dodává se jako součást sady FME Desktop), který se používá pro transformaci prostorových dat. Obsahuje uživatelsky definovaná nastavení používaná pro manipulaci s prostorovými daty, jako jsou sady vstupních dat, vlastnosti překladu, projekce a nastavení výstupu. Nastavení manipulace s prostorovými daty jsou uložena jako vizuální rozvržení a lze je snadno upravit a znovu uložit.
 
-Soubory FMW můžete otevřít pomocí [Safe Software FME Desktop](https://www.safe.com/fme/fme-desktop/).
+Soubory FMW můžete otevřít pomocí [Safe Software FME Desktop](https://fme.safe.com/platform/).
 
 ## Formát souboru FMW – Další informace
 
@@ -70,7 +70,5 @@ Soubory FMW se ukládají na disk jako binární soubory a lze je číst pouze p
 
 ## Reference
 
-* [Safe Software FME Desktop](https://www.safe.com/fme/fme-desktop/)
-
+* [Safe Software FME Desktop](https://fme.safe.com/platform/)
 * [FMW Quick Facts](https://docs.safe.com/fme/html/FME_Desktop_Documentation/FME_ReadersWriters/fmw/quick_facts_fmw.htm)
-

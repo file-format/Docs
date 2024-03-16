@@ -22,8 +22,3 @@
 Soubor DAP je soubor v průběhu stahování vytvořený souborem Download Accelerator Plus (DAP). Je vytvořen, když uživatelé zahájí stahování z jakéhokoli online úložiště souborů pomocí softwaru DAP. DAP poskytuje možnost pozastavit a obnovit probíhající stahování. Za tímto účelem uloží částečně stažený soubor s příponou .dap až do úplného stažení. Během procesu stahování lze zobrazit náhled souboru DAP.
 
 Soubory DAP lze otevřít pomocí softwaru SpeedBit Download Accelerator Plus (DAP).
-
-## Reference
-
-* [Nápověda DAP – Správa ukládání složek](http://www.speedbit.com/dap-help/download-accelerator-file-manager/)
-
