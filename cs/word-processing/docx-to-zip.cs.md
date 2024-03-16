@@ -18,7 +18,7 @@
 
 ## Konverze DOCX na ZIP – ZDARMA DEMO
 
-Aplikaci pro převod Aspose.Words můžete ZDARMA použít k [převodu DOCX na ZIP] (https://products.aspose.app/words/conversion/docx-to-zip). Zde jsou kroky, které musíte provést, abyste převedli soubory DOCX na ZIP.
+Aplikaci pro převod Aspose.Words můžete ZDARMA použít k [převodu DOCX na ZIP](https://products.aspose.app/words/conversion/docx-to-zip). Zde jsou kroky, které musíte provést, abyste převedli soubory DOCX na ZIP.
 
 1. Přejděte do [aplikace pro konverzi Aspose.Words](https://products.aspose.app/words/conversion/docx-to-zip)
 1. Nahrajte soubor DOCX do prohlížeče
@@ -42,7 +42,7 @@ Tato rozmanitost podpory pro různé programovací jazyky vám dává možnost p
 
 ## O DOCX do ZIP
 
-Microsoft Word 2007 a novější používá DOCX jako výchozí formát souboru pro ukládání dokumentů. Může obsahovat tisíce slov, obrázků, mediálních položek, tabulek a dalších relevantních dat. Díky tomu je velikost souboru DOCX velmi velká a znesnadňuje sdílení online přes internet. To také zabírá velký prostor při nahrávání na médium pro ukládání souborů online, jako je Disk Google nebo Dropbox. DOCX to ZIP řeší tento problém, protože soubor DOCX je převeden na komprimovaný soubor se zmenšenou velikostí souboru. Existuje několik online nástrojů a aplikací, které dokážou převést DOCX do formátu ZIP. Aspose.Words je jednou z takových aplikací pro převod [DOCX](/cs/textového zpracování/docx/) na [ZIP](/cs/komprese/zip/).
+Microsoft Word 2007 a novější používá DOCX jako výchozí formát souboru pro ukládání dokumentů. Může obsahovat tisíce slov, obrázků, mediálních položek, tabulek a dalších relevantních dat. Díky tomu je velikost souboru DOCX velmi velká a znesnadňuje sdílení online přes internet. To také zabírá velký prostor při nahrávání na médium pro ukládání souborů online, jako je Disk Google nebo Dropbox. DOCX to ZIP řeší tento problém, protože soubor DOCX je převeden na komprimovaný soubor se zmenšenou velikostí souboru. Existuje několik online nástrojů a aplikací, které dokážou převést DOCX do formátu ZIP. Aspose.Words je jednou z takových aplikací pro převod [DOCX](/cs/word-processing/docx/) na [ZIP](/cs/compression/zip/).
 
 ## Převeďte DOCX na ZIP v .NET, Java, C++ a Python
 

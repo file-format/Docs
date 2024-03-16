@@ -57,7 +57,7 @@ Zde jsou další typy souborů, které používají příponu souboru **.bin**.
 - [BIN - soubor s obrázkem binárního disku](/cs/disc-and-media/bin/)
 - [BIN - Unix Executable File](/cs/executable/bin/)
 - [BIN - Sega Genesis Game ROM](/cs/game/bin/)
-- [BIN - Obrázek PSX PlayStation BIOS](/cs/hra/bin-pcsx/)
+- [BIN - Obrázek PSX PlayStation BIOS](/cs/game/bin-pcsx/)
 
 ## Reference
 * [BlackBerry Unified Endpoint Manager](https://en.wikipedia.org/wiki/BlackBerry_Unified_Endpoint_Manager)

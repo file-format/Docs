@@ -61,7 +61,7 @@ Zde jsou další typy souborů, které používají příponu souboru **.bin**.
 - [BIN - Unix Executable File](/cs/executable/bin/)
 - [BIN - BlackBerry IT Policy File](/cs/settings/bin/)
 - [BIN - Sega Genesis Game ROM](/cs/game/bin/)
-- [BIN - Obrázek PSX PlayStation BIOS](/cs/hra/bin-pcsx/)
+- [BIN - Obrázek PSX PlayStation BIOS](/cs/game/bin-pcsx/)
 
 ## Reference
 

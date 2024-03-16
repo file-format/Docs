@@ -36,7 +36,7 @@ Denaro původně vyvinula [Nickvision](https://nickvision.org/) jako produkt, kt
 
 ## Formát souboru Denaro – Další informace
 
-Soubory Denaro se ukládají na disk v binárním formátu souboru. Finanční data jsou uložena jako databázový soubor ve formátu **.SQLITE3**. SQLITE je odlehčený databázový soubor SQL vytvořený pomocí softwaru SQLite. Poskytuje samostatný databázový stroj, který je schopen poskytovat plně funkční a vysoce spolehlivou databázi. Databázové soubory SQLite lze použít ke sdílení bohatého obsahu mezi systémy jednoduchou výměnou těchto souborů po síti. SQLite vazby existují pro programovací jazyky jako C, [C#](/cs/programming/cs/), [C++](/cs/programming/cpp/), [Java](/cs/programming/java/), [PHP](/cs/programming/ php/) a mnoho dalších.
+Soubory Denaro se ukládají na disk v binárním formátu souboru. Finanční data jsou uložena jako databázový soubor ve formátu **.SQLITE3**. SQLITE je odlehčený databázový soubor SQL vytvořený pomocí softwaru SQLite. Poskytuje samostatný databázový stroj, který je schopen poskytovat plně funkční a vysoce spolehlivou databázi. Databázové soubory SQLite lze použít ke sdílení bohatého obsahu mezi systémy jednoduchou výměnou těchto souborů po síti. SQLite vazby existují pro programovací jazyky jako C, [C#](/cs/programming/cs/), [C++](/cs/programming/cpp/), [Java](/cs/programming/java/), [PHP](/cs/programming/php/) a mnoho dalších.
 
 ## Reference
 

@@ -18,7 +18,7 @@
 
 ## O GLB až DAE
 
-Použití souborů GLB ve formátech 3D souborů není nic nového. GLB je běžně používaný 3D binární formát souboru, který představuje 3D modely ve formátu GL Transmission, tj. ([glTF](/cs/3d/gltf/)). [DAE](/cs/3d/DAE/), na druhé straně, je formát souboru Digital Asset Exchange, který se používá pro výměnu dat mezi interaktivními 3D aplikacemi. Soubory GLB lze převést do formátu souboru DAE pomocí několika online bezplatných aplikací. Pokud jste vývojář aplikací a hledáte začlenění funkce převodu GLB na DAE do vašich aplikací, můžete k tomu použít rozhraní Aspose.3D API.
+Použití souborů GLB ve formátech 3D souborů není nic nového. GLB je běžně používaný 3D binární formát souboru, který představuje 3D modely ve formátu GL Transmission, tj. ([glTF](/cs/3d/gltf/)). [DAE](/cs/3d/dae/), na druhé straně, je formát souboru Digital Asset Exchange, který se používá pro výměnu dat mezi interaktivními 3D aplikacemi. Soubory GLB lze převést do formátu souboru DAE pomocí několika online bezplatných aplikací. Pokud jste vývojář aplikací a hledáte začlenění funkce převodu GLB na DAE do vašich aplikací, můžete k tomu použít rozhraní Aspose.3D API.
 
 ## Převod GLB na DAE – bezplatné demo
 

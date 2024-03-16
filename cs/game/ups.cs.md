@@ -70,7 +70,7 @@ Takto funguje soubor opravy UPS:
 
 Opravné soubory UPS jsou oblíbené v emulační komunitě, protože umožňují uživatelům provádět vylepšení nebo úpravy starých her bez distribuce celé ROM hry, která může podléhat autorským právům. Místo toho mohou uživatelé sdílet pouze záplatový soubor UPS, který obsahuje změny, a uživatelé jej mohou použít na svou legálně vlastněnou původní ROM.
 
-Záplaty UPS nabízejí několik výhod oproti [IPS](/cs/hra/ips/):
+Záplaty UPS nabízejí několik výhod oproti [IPS](/cs/game/ips/):
 
 1. **Bez omezení velikosti:** Na rozdíl od IPS záplat, které jsou omezeny na 16 MB, lze záplaty UPS použít se soubory libovolné velikosti. Díky této flexibilitě je UPS zvláště užitečná pro větší hry a software.
     

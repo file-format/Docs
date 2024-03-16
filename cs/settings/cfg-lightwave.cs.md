@@ -240,7 +240,7 @@ Zde jsou další typy souborů, které používají příponu souboru **.cfg**.
 **Hra**
 - [CFG - Wesnoth Markup Language File](/cs/game/cfg-wesnoth/)
 - [CFG - Konfigurační soubor MUGEN](/cs/game/cfg-mugen/)
-- [CFG - konfigurační soubor zdrojového enginu](/cs/hra/cfg-sourceengine/)
+- [CFG - konfigurační soubor zdrojového enginu](/cs/game/cfg-sourceengine/)
 
 **Systém a různé**
 - [CFG - Soubor CFG](/cs/system/cfg/)

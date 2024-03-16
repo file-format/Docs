@@ -71,10 +71,10 @@ Chcete-li otevřít a upravit soubory WPS pomocí Kingsoft Writer v Kingsoft WPS
 
 Kingsoft Writer dokáže převádět soubory WPS do následujících formátů:
 
-- [DOC](/cs/textový editor/doc/)
-- [DOCX](/cs/textový editor/docx/)
-- [RTF](/cs/textový editor/rtf/)
-- [TXT](/cs/textový editor/txt/)
+- [DOC](/cs/word-processing/doc/)
+- [DOCX](/cs/word-processing/docx/)
+- [RTF](/cs/word-processing/rtf/)
+- [TXT](/cs/word-processing/txt/)
 – [HTML](/cs/web/html/)
 - [PDF](/cs/pdf/)
 
@@ -82,7 +82,7 @@ Kingsoft Writer dokáže převádět soubory WPS do následujících formátů:
 
 Zde jsou další typy souborů, které používají příponu souboru **.wps**.
 
-- [WPS – dokument textového procesoru Microsoft Works](/cs/textový procesor/wps/)
+- [WPS – dokument textového procesoru Microsoft Works](/cs/word-processing/wps/)
 - [WPS - Soubor projektu SDL Translator's Workbench](/cs/settings/wps/)
 
 ## Reference

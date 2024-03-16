@@ -20,7 +20,7 @@
 
 ## Co je soubor MAR?
 
-Soubor s příponou .mar je tabulkový soubor vytvořený pomocí aplikace Mariner Calc pro Mac OSX. Používá se k uspořádání dat do řádků a sloupců, podobně jako jiné formáty souborů tabulkových procesorů, jako je [.xls](/cs/tabulkový procesor/xls/) a [.xlsx](/cs/tabulkový procesor/xlsx/), a také poskytuje různé funkce (včetně Matematické, trigonometrické, finanční, datum a čas, logické, pracovní listy, statistické a textové výpočty), které mají být provedeny s daty. Mariner Calc podporuje operace s tabulkovými daty, jako je vytváření grafů, vytváření pojmenovaných rozsahů, třídění dat, automatické sčítání rozsahu a export do formátu souboru [.pdf](/cs/pdf/) pro sdílení s ostatními.
+Soubor s příponou .mar je tabulkový soubor vytvořený pomocí aplikace Mariner Calc pro Mac OSX. Používá se k uspořádání dat do řádků a sloupců, podobně jako jiné formáty souborů tabulkových procesorů, jako je [.xls](/cs/spreadsheet/xls/) a [.xlsx](/cs/spreadsheet/xlsx/), a také poskytuje různé funkce (včetně Matematické, trigonometrické, finanční, datum a čas, logické, pracovní listy, statistické a textové výpočty), které mají být provedeny s daty. Mariner Calc podporuje operace s tabulkovými daty, jako je vytváření grafů, vytváření pojmenovaných rozsahů, třídění dat, automatické sčítání rozsahu a export do formátu souboru [.pdf](/cs/pdf/) pro sdílení s ostatními.
 
 ## Formát souboru MAR - Další informace
 

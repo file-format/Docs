@@ -19,7 +19,7 @@
 
 ## Co je soubor ASD?
 
-Soubor s příponou .asd je soubor pro obnovu aplikace Microsoft Word, který se generuje automaticky spolu s hlavními soubory aplikace Word. Používá se k obnovení původního souboru, pokud aplikace Word nefunguje správně nebo se neočekávaně zavře, což má za následek ztrátu dat nebo hlavního souboru. Microsoft Word může uložit všechny formáty souborů dokumentů, jako je [DOC](/cs/textový procesor/doc/), [DOCX](/cs/textový procesor/docx/) a další jako soubory automatického obnovení. Aplikace Word navrhne původní formát souboru a název souboru při opětovném otevření obnoveného souboru, který uloží do systémového registru pro obnovení.
+Soubor s příponou .asd je soubor pro obnovu aplikace Microsoft Word, který se generuje automaticky spolu s hlavními soubory aplikace Word. Používá se k obnovení původního souboru, pokud aplikace Word nefunguje správně nebo se neočekávaně zavře, což má za následek ztrátu dat nebo hlavního souboru. Microsoft Word může uložit všechny formáty souborů dokumentů, jako je [DOC](/cs/word-processing/doc/), [DOCX](/cs/word-processing/docx/) a další jako soubory automatického obnovení. Aplikace Word navrhne původní formát souboru a název souboru při opětovném otevření obnoveného souboru, který uloží do systémového registru pro obnovení.
 
 ## Formát souboru ASD – Další informace
 

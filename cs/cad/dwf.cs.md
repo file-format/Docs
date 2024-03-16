@@ -31,7 +31,7 @@ DWF je otevřený, zabezpečený formát navržený speciálně pro sdílení bo
 
 **Soubory metadat DWF** – soubory XML, které obsahují informace týkající se metadat a struktury (autor, název, čas vytvoření, závislosti sekcí, řazení sekcí, popisy zdrojových souborů, role, mimetypy atd.) a týkající se sekce (strana informace, metadata návrhu atd.). Strukturální metadata se používají k vytváření logických objektů (sbírek souborů reprezentujících část nebo stránku atd.).
 
-**Soubory zdrojů** – soubory médií nebo jiného obsahu, na které se odkazuje z metadat balíčku/sekcí a obvykle jde o prezentace návrhových dat v různých formátech (ZGL, W2D, [JPG](/cs/image/jpeg/), [PNG](/cs/image/png/), AVI, XML, [TXT](/cs/textové zpracování/txt/), [DOC](/cs/textové zpracování/doc/) atd.)
+**Soubory zdrojů** – soubory médií nebo jiného obsahu, na které se odkazuje z metadat balíčku/sekcí a obvykle jde o prezentace návrhových dat v různých formátech (ZGL, W2D, [JPG](/cs/image/jpeg/), [PNG](/cs/image/png/), AVI, XML, [TXT](/cs/word-processing/txt/), [DOC](/cs/word-processing/doc/) atd.)
 
 ### Podrobnosti o formátu souboru ###
 

@@ -19,7 +19,7 @@
 
 ## Co je soubor DEF?
 
-Soubor DEF je datový soubor vytvořený ve [formát souboru tabulky](/cs/tabulkový procesor/) databázovou aplikací SmartWare II vyvinutou společností Informix Software. Software II měl čtyři moduly včetně tabulkového procesoru s grafikou, textového procesoru, komunikace a databáze. Databáze SmartWare II je samostatná databáze, kterou lze integrovat i s jinými aplikacemi. Dotazy lze provádět na data, která lze extrahovat a uložit do formátu souboru DEF. Tabulkové soubory DEF lze otevřít pomocí softwaru SmartWare, jehož výroba byla nyní ukončena.
+Soubor DEF je datový soubor vytvořený ve [formát souboru tabulky](/cs/spreadsheet/) databázovou aplikací SmartWare II vyvinutou společností Informix Software. Software II měl čtyři moduly včetně tabulkového procesoru s grafikou, textového procesoru, komunikace a databáze. Databáze SmartWare II je samostatná databáze, kterou lze integrovat i s jinými aplikacemi. Dotazy lze provádět na data, která lze extrahovat a uložit do formátu souboru DEF. Tabulkové soubory DEF lze otevřít pomocí softwaru SmartWare, jehož výroba byla nyní ukončena.
 
 ## Reference
 

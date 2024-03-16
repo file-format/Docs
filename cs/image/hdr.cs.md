@@ -37,7 +37,7 @@ Soubor obrázku HDR se skládá z následujících tří částí:
 ## Open-Source HDR/HDRI API
 
 * **[imageinfo](https://github.com/xiaozhuai/imageinfo)** – Super rychlá knihovna s jedním záhlavím pro různé platformy [C++](/cs/programming/cpp/) pro získání velikosti a formátu obrázku bez načítání/dekódování.
-* **[imgaeinfo-rs](https://github.com/xiaozhuai/imageinfo-rs)** – Knihovna Rust pro získání velikosti a formátu obrázku bez načítání/dekódování. Podporuje [.avif](/cs/image/avif/), [.bmp](/cs/image/bmp/), [.cur](/cs/image/cur/), [.dds](/cs/image/dds/), [. gif](/cs/image/gif/), hdr (pic), [heic (heif)](/cs/image/heic/), [.icns](/cs/image/icns/), [.ico](/cs/image/ico /), [.jp2](/cs/image/jp2/), [jpeg (jpg)](/cs/image/jpeg/), [jpx](/cs/image/jpx/), ktx, [png](/cs/image/png /), [psd](/cs/image/psd/), qoi, tga, tiff (tif) a webp.
+* **[imgaeinfo-rs](https://github.com/xiaozhuai/imageinfo-rs)** – Knihovna Rust pro získání velikosti a formátu obrázku bez načítání/dekódování. Podporuje [.avif](/cs/image/avif/), [.bmp](/cs/image/bmp/), [.cur](/cs/image/cur/), [.dds](/cs/image/dds/), [. gif](/cs/image/gif/), hdr (pic), [heic (heif)](/cs/image/heic/), [.icns](/cs/image/icns/), [.ico](/cs/image/ico/), [.jp2](/cs/image/jp2/), [jpeg (jpg)](/cs/image/jpeg/), [jpx](/cs/image/jpx/), ktx, [png](/cs/image/png/), [psd](/cs/image/psd/), qoi, tga, tiff (tif) a webp.
 * **[HdrHistogram](https://github.com/HdrHistogram/HdrHistogram)** – Java implementace HdrHistogramu.
 
 ## Reference

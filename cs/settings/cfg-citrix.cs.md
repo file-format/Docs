@@ -188,7 +188,7 @@ Servery Citrix a související technologie Citrix podporují několik formátů 
 
 
 
-- **.exe**: Instalační balíčky Citrix Receiver nebo Citrix Workspace se často dodávají ve spustitelném formátu pro různé operační systémy (např. [.exe](/cs/executable/exe/) pro Windows, [.dmg](/cs/compression/dmg /) pro macOS). Tyto balíčky umožňují uživatelům instalovat klientský software na jejich zařízení.
+- **.exe**: Instalační balíčky Citrix Receiver nebo Citrix Workspace se často dodávají ve spustitelném formátu pro různé operační systémy (např. [.exe](/cs/executable/exe/) pro Windows, [.dmg](/cs/compression/dmg/) pro macOS). Tyto balíčky umožňují uživatelům instalovat klientský software na jejich zařízení.
 3. **Citrix Workspace App (dříve Citrix Receiver)**:
     
 
@@ -242,7 +242,7 @@ Servery Citrix a související technologie Citrix podporují několik formátů 
 
 
 
-- **.vhd, .vhdx**: Citrix XenDesktop a XenApp mohou poskytovat virtuální desktopy a aplikace pomocí virtuálního pevného disku [VHD](/cs/disc-and-media/vhd/) nebo [VHDX](/cs/disc-and-media /vhdx/) soubory.
+- **.vhd, .vhdx**: Citrix XenDesktop a XenApp mohou poskytovat virtuální desktopy a aplikace pomocí virtuálního pevného disku [VHD](/cs/disc-and-media/vhd/) nebo [VHDX](/cs/disc-and-media/vhdx/) soubory.
 6. **Metadata publikování zdrojů**:
     
 
@@ -338,7 +338,7 @@ Zde jsou další typy souborů, které používají příponu souboru **.cfg**.
 **Hra**
 - [CFG - Wesnoth Markup Language File](/cs/game/cfg-wesnoth/)
 - [CFG - Konfigurační soubor MUGEN](/cs/game/cfg-mugen/)
-- [CFG - konfigurační soubor zdrojového enginu](/cs/hra/cfg-sourceengine/)
+- [CFG - konfigurační soubor zdrojového enginu](/cs/game/cfg-sourceengine/)
 
 **Systém a různé**
 - [CFG - Soubor CFG](/cs/system/cfg/)

@@ -22,7 +22,7 @@ Soubor FREEWAY je soubor s informacemi o nastavení vytvořený a používaný s
 
 ## Formát souboru FREEWAY
 
-Soubory FREEWAY jsou uloženy v proprietárním formátu souboru a podrobnosti o jejich interním formátu souboru nejsou veřejně dostupné. Nemá žádné skutečné zdroje používané webem, ale místo toho rozložení webu a odkazy na různé vlastnosti. Skutečné zdroje a stránky webu se ukládají do složek „Media“ a „Site Folder“, které jsou umístěny ve stejné složce jako soubor FREEWAY. Dokument FREEWAY lze exportovat do různých formátů včetně [HTML](/cs/web/html/), [JPEG](/cs/image/jpeg/), [PNG](/cs/image/png/), [BMP](/cs/ image/bmp/) a [GIF](/cs/image/gif/).
+Soubory FREEWAY jsou uloženy v proprietárním formátu souboru a podrobnosti o jejich interním formátu souboru nejsou veřejně dostupné. Nemá žádné skutečné zdroje používané webem, ale místo toho rozložení webu a odkazy na různé vlastnosti. Skutečné zdroje a stránky webu se ukládají do složek „Media“ a „Site Folder“, které jsou umístěny ve stejné složce jako soubor FREEWAY. Dokument FREEWAY lze exportovat do různých formátů včetně [HTML](/cs/web/html/), [JPEG](/cs/image/jpeg/), [PNG](/cs/image/png/), [BMP](/cs/image/bmp/) a [GIF](/cs/image/gif/).
 
 ## Reference
 

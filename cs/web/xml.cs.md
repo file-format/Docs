@@ -19,7 +19,7 @@
 
 ## Co je soubor XML?
 
-XML je zkratka pro Extensible Markup Language, která je podobná **[HTML](/cs/web/html/)**, ale liší se v používání značek pro definování objektů. Celá myšlenka za vytvořením formátu souboru XML byla ukládat a přenášet data bez závislosti na softwarových nebo hardwarových nástrojích. Jeho popularita je způsobena tím, že je čitelný člověkem i strojově. To umožňuje vytvářet společné datové protokoly ve formě objektů, které mají být uloženy a sdíleny po síti, jako je World Wide Web (WWW). "X" v XML je pro rozšiřitelnost, což znamená, že jazyk lze rozšířit na libovolný počet symbolů podle požadavků uživatele. Právě pro tyto funkce jej využívá mnoho standardních formátů souborů, jako je Microsoft Open XML, LibreOffice OpenDocument, **[XHTML](/cs/web/xhtml/)** a **[SVG](/cs/page-description-language /svg/)**.
+XML je zkratka pro Extensible Markup Language, která je podobná **[HTML](/cs/web/html/)**, ale liší se v používání značek pro definování objektů. Celá myšlenka za vytvořením formátu souboru XML byla ukládat a přenášet data bez závislosti na softwarových nebo hardwarových nástrojích. Jeho popularita je způsobena tím, že je čitelný člověkem i strojově. To umožňuje vytvářet společné datové protokoly ve formě objektů, které mají být uloženy a sdíleny po síti, jako je World Wide Web (WWW). "X" v XML je pro rozšiřitelnost, což znamená, že jazyk lze rozšířit na libovolný počet symbolů podle požadavků uživatele. Právě pro tyto funkce jej využívá mnoho standardních formátů souborů, jako je Microsoft Open XML, LibreOffice OpenDocument, **[XHTML](/cs/web/xhtml/)** a **[SVG](/cs/page-description-language/svg/)**.
 
 ## Formát souboru XML
 

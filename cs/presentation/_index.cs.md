@@ -20,7 +20,7 @@
 
 Musíte být obeznámeni se soubory s příponou **PPTX** a **PPT**, jedná se o formáty souborů prezentací, které ukládají kolekci záznamů pro umístění dat prezentace, jako jsou: snímky, tvary, text, animace, video, zvuk a vložené objekty. . Prezentaci lze uložit/převést do jiných formátů souborů, jako jsou PDF, BMP, PNG, JPEG a XPS.
 
-Mezi běžné přípony souborů prezentace a jejich přidružené formáty souborů patří **[PPTX](/cs/presentation/pptx/)**, **[PPT](/cs/presentation/ppt/)** a **[ODP](/cs/presentation/odp /)**.
+Mezi běžné přípony souborů prezentace a jejich přidružené formáty souborů patří **[PPTX](/cs/presentation/pptx/)**, **[PPT](/cs/presentation/ppt/)** a **[ODP](/cs/presentation/odp/)**.
 
 Máte dotazy týkající se formátů souborů prezentace? Navštivte naše komunitní [fóra](https://forum.fileformat.com/c/presentation/8), kde můžete těžit ze znalostí sdílených odborníky na formát souborů.
 

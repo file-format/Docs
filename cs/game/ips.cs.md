@@ -75,7 +75,7 @@ Mezi programy, které otevírají soubory IPS, patří
 
 Zde jsou další typy souborů, které používají příponu **.ips**.
 
-- [IPS - PlayStation 2 In-Game Video](/cs/hra/ips-ps2/)
+- [IPS - PlayStation 2 In-Game Video](/cs/game/ips-ps2/)
 – [IPS – údaje iOS Analytics](/cs/misc/ips/)
 
 ## Reference

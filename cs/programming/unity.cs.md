@@ -20,7 +20,7 @@
 
 Soubor Unity je soubor 3D scény vytvořený pomocí 3D Gaming engine, **Unity**. Používá se v kombinaci s jinými scénami k vytvoření virtuálního světa při editaci. Obsahuje prvky 3D scény, jako jsou objekty, prostředí, dekorace, kamery, informace o úhlech, světelné scénáře a překážky.
 
-Soubory Unity lze otevřít pomocí Unity Technologies Unity. Unity umí také číst Unity [.fbx](/cs/3d/fbx/), [.dae](/cs/3d/dae/) (Collada), [.3ds](/cs/3d/3ds/), [.dxf](/cs/ cad/dxf/) a soubory [.obj](/cs/3d/obj/).
+Soubory Unity lze otevřít pomocí Unity Technologies Unity. Unity umí také číst Unity [.fbx](/cs/3d/fbx/), [.dae](/cs/3d/dae/) (Collada), [.3ds](/cs/3d/3ds/), [.dxf](/cs/cad/dxf/) a soubory [.obj](/cs/3d/obj/).
 
 ## Formát souboru UNITY
 

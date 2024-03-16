@@ -90,7 +90,7 @@ Zde jsou další typy souborů, které používají příponu souboru **.chr**.
 
 **Písmo a hra**
 - [CHR - Borland Character Set](/cs/font/chr/)
-- [CHR - Klub literatury Doki Doki! Soubor postavy](/cs/hra/chr-doki/)
+- [CHR - Klub literatury Doki Doki! Soubor postavy](/cs/game/chr-doki/)
 
 ## Reference
 * [Autodesk 3ds Max](https://en.wikipedia.org/wiki/Autodesk_3ds_Max)

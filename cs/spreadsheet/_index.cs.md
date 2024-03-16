@@ -20,7 +20,7 @@
 
 Soubor **tabulka** obsahuje data ve formě řádků a sloupců. Soubor tabulky lze uložit v několika různých formátech, z nichž každý má jinou příponu souboru pro jedinečnou reprezentaci. Data jsou v buňkách uložena buď v prosté formě, jako je textový řetězec, čísla, datum, měna atd., nebo jako vzorce, které změní hodnotu buňky, když se změní hodnoty odkazovaných buněk.
 
-Mezi běžné přípony souborů tabulkových procesorů a jejich formáty patří **[XLSX](/cs/spreadsheet/xlsx/)** (Microsoft Excel Open XML Spreadsheet), **[ODS](/cs/spreadsheet/ods/)** (OpenDocument Spreadsheet) a **[XLS](/cs/tabulkový procesor/xls/)** (Binární formát souboru Microsoft Excel).
+Mezi běžné přípony souborů tabulkových procesorů a jejich formáty patří **[XLSX](/cs/spreadsheet/xlsx/)** (Microsoft Excel Open XML Spreadsheet), **[ODS](/cs/spreadsheet/ods/)** (OpenDocument Spreadsheet) a **[XLS](/cs/spreadsheet/xls/)** (Binární formát souboru Microsoft Excel).
 
 Máte dotazy týkající se formátů souborů tabulky? Přejděte na naše komunitní [fóra](https://forum.fileformat.com/c/spreadsheet/6), abyste mohli těžit ze znalostí sdílených odborníky na formát souborů.
 

@@ -101,7 +101,7 @@ Zde jsou další typy souborů, které používají příponu **.bak**.
 
 **Databáze**
 - [BAK - Soubor zálohy databáze](/cs/database/bak/)
-- [BAK - Swiftpage Act! Záloha databáze](/cs/databáze/bak-act/)
+- [BAK - Swiftpage Act! Záloha databáze](/cs/database/bak-act/)
 - [BAK - Záloha databáze Microsoft SQL Server](/cs/database/bak-sqlserver/)
 
 **Hra**

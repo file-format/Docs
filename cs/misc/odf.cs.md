@@ -19,7 +19,7 @@
 
 ## Co je soubor ODF?
 
-Soubor s příponou .odf je dokument obsahující matematické rovnice, makra a vzorce. Je vytvořen pomocí programu [Apache OpenOffice Math](https://wiki.openoffice.org/wiki/Documentation/OOo3_User_Guides/Math_Guide), který se používá k vytváření matematických vzorců, které lze poté uložit na disk nebo zahrnout do jiných dokumentů. Tyto soubory jsou vytvářeny a ukládány na základě standardu OASIS OpenDocument, což je otevřený standardní formát souborů pro tabulky, grafy, prezentace a dokumenty pro zpracování textu pomocí [ZIP](/cs/compression/zip/)-komprimovaného [XML](/cs/web/ xml/) soubory. Soubory ODF lze otevřít pomocí aplikací, jako je OpenOffice Math a LibreOffice Draw.
+Soubor s příponou .odf je dokument obsahující matematické rovnice, makra a vzorce. Je vytvořen pomocí programu [Apache OpenOffice Math](https://wiki.openoffice.org/wiki/Documentation/OOo3_User_Guides/Math_Guide), který se používá k vytváření matematických vzorců, které lze poté uložit na disk nebo zahrnout do jiných dokumentů. Tyto soubory jsou vytvářeny a ukládány na základě standardu OASIS OpenDocument, což je otevřený standardní formát souborů pro tabulky, grafy, prezentace a dokumenty pro zpracování textu pomocí [ZIP](/cs/compression/zip/)-komprimovaného [XML](/cs/web/xml/) soubory. Soubory ODF lze otevřít pomocí aplikací, jako je OpenOffice Math a LibreOffice Draw.
 
 ## Formát souboru ODF – Další informace
 

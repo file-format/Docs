@@ -18,7 +18,7 @@
 
 ## O DOCX až TAR
 
-Při práci s aplikací Microsoft word se může velikost dokumentu zvětšit, pokud je obsah příliš dlouhý a obsahuje položky, jako jsou obrázky a další média. DOCX to TAR je proces komprese dokumentu aplikace Word do archivu, který má malou velikost. To pomáhá při sdílení velkého souboru DOCX s ostatními na internetu a také prostřednictvím online úložných médií, jako je Disk Google nebo Dropbox. Existuje několik online nástrojů a aplikací, které dokážou převést DOCX na TAR. Aspose.Words for conversion je jednou z takových aplikací, která vám umožní převést [DOCX](/cs/textový editor/docx/) na [TAR](/cs/compression/tar/).
+Při práci s aplikací Microsoft word se může velikost dokumentu zvětšit, pokud je obsah příliš dlouhý a obsahuje položky, jako jsou obrázky a další média. DOCX to TAR je proces komprese dokumentu aplikace Word do archivu, který má malou velikost. To pomáhá při sdílení velkého souboru DOCX s ostatními na internetu a také prostřednictvím online úložných médií, jako je Disk Google nebo Dropbox. Existuje několik online nástrojů a aplikací, které dokážou převést DOCX na TAR. Aspose.Words for conversion je jednou z takových aplikací, která vám umožní převést [DOCX](/cs/word-processing/docx/) na [TAR](/cs/compression/tar/).
 
 ## Konverze DOCX na TAR - ZDARMA DEMO
 

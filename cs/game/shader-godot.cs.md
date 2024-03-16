@@ -197,9 +197,9 @@ Mezi programy, které otevírají nebo odkazují na soubory SHADER, patří
 Zde jsou další typy souborů, které používají příponu souboru **.shader**.
 
 **Herní soubory**
-- [SHADER - Godot Engine Shader File](/cs/hra/shader-godot/)
-- [SHADER - Quake 3 Engine Shader File](/cs/hra/shader-quake/)
-- [SHADER - Unity Shader Asset](/cs/hra/shader-unity/)
+- [SHADER - Godot Engine Shader File](/cs/game/shader-godot/)
+- [SHADER - Quake 3 Engine Shader File](/cs/game/shader-quake/)
+- [SHADER - Unity Shader Asset](/cs/game/shader-unity/)
 
 ## Reference
 * [Godot (herní engine)](https://en.wikipedia.org/wiki/Godot_(game_engine))

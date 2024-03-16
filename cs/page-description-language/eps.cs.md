@@ -77,7 +77,7 @@ Soubor EPS nemůže používat žádný z následujících operátorů:
 
 ## Převod EPS do jiných formátů souborů
 
-Soubory EPS lze převést do standardních obrazových formátů, jako jsou [JPG](/cs/image/jpeg/), [PNG](/cs/image/png/), [TIFF](/cs/image/tiff/) a [PDF](/cs/pdf /) pomocí různých aplikací, např. Adobe Illustrator, Photoshop a PaintShop Pro.
+Soubory EPS lze převést do standardních obrazových formátů, jako jsou [JPG](/cs/image/jpeg/), [PNG](/cs/image/png/), [TIFF](/cs/image/tiff/) a [PDF](/cs/pdf/) pomocí různých aplikací, např. Adobe Illustrator, Photoshop a PaintShop Pro.
 
 Kvůli [chybě zabezpečení](https://support.microsoft.com/en-us/office/support-for-eps-images-has-been-turned-off-in-office-a069d664-4bcf-415e-a1b5-cbb0c334a840) v souborech EPS, Office 2016, Office 2013, Office 2010 a Office 365 vypnuly možnost vkládat soubory EPS do dokumentů Office.
 

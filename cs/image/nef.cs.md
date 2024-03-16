@@ -24,7 +24,7 @@ NEF je formát obrazového souboru RAW společnosti Nikon pořízený digitáln�
 
 Soubory NEF se zapisují na paměťovou kartu fotoaparátu jako binární soubory v proprietárním formátu souborů společnosti Nikon. Ty se zapisují na paměťovou kartu fotoaparátu v nezpracované podobě, která nevyžaduje žádné úpravy údajů o vlastnostech snímku, jako je vyvážení bílé, odstín, tón a doostření. Uživatelské úpravy se ukládají jako sady instrukcí vedle nezpracovaných obrazových dat. To je výhodné z hlediska zachování původního obsahu obrazových dat a návratu k předchozím instrukčním sadám.
 
-Soubory NEF mohou uchovat 12bitová nebo 14bitová data v závislosti na fotoaparátu, čímž poskytují snímek s mnohem větším rozsahem tónů ve srovnání s 8bitovým [JPEG](/cs/image/jpeg/) nebo [TIFF](/cs/ obrázek/tiff/) obrázky.
+Soubory NEF mohou uchovat 12bitová nebo 14bitová data v závislosti na fotoaparátu, čímž poskytují snímek s mnohem větším rozsahem tónů ve srovnání s 8bitovým [JPEG](/cs/image/jpeg/) nebo [TIFF](/cs/image/tiff/) obrázky.
 
 ## Software, který dokáže otevřít soubor Nikon NEF
 

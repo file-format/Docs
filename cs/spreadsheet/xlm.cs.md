@@ -19,7 +19,7 @@
 
 ## Co je soubor XLM?
 
-XLM, pro Excel Macro, je typ tabulkových souborů, které se používají k ukládání maker. Z aplikačního hlediska je makro sada instrukcí, které se používají pro automatizaci procesů. Makro se používá k zaznamenání kroků, které jsou opakovaně prováděny pro formát souboru [XLS](/cs/tabulkový procesor/xls/) a usnadňuje provádění akcí opětovným spuštěním makra. Makra se programují pomocí jazyka Microsoft Visual Basic for Applications (VBA) ze sešitu aplikace Excel pomocí editoru jazyka Visual Basic a lze je spouštět/ladit přímo odtud.
+XLM, pro Excel Macro, je typ tabulkových souborů, které se používají k ukládání maker. Z aplikačního hlediska je makro sada instrukcí, které se používají pro automatizaci procesů. Makro se používá k zaznamenání kroků, které jsou opakovaně prováděny pro formát souboru [XLS](/cs/spreadsheet/xls/) a usnadňuje provádění akcí opětovným spuštěním makra. Makra se programují pomocí jazyka Microsoft Visual Basic for Applications (VBA) ze sešitu aplikace Excel pomocí editoru jazyka Visual Basic a lze je spouštět/ladit přímo odtud.
 
 ## Stručná historie ##
 

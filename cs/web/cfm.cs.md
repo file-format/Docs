@@ -19,7 +19,7 @@
 
 ## Co je soubor CFM? ##
 
-Webové stránky a soubory používané v **Cold Fusion Markup Language** obsahují rozšíření CFM a nazývají se webové stránky CFM. Tento skriptovací jazyk pro vývoj webu běží na Google App Engine, .NET framework a JVM. Může obsahovat programovací jazyk nebo kód jazyka. Když uživatel vstoupí na kteroukoli z jeho stránek, webový server ColdFusion ji spustí. K zápisu CFML lze použít CFScript (který je blízký JavaScriptu) nebo značky. CFML lze použít pro generování jiných jazyků kromě [HTML](/cs/web/html/) jako [CSS](/cs/web/css/), [JavaScript](/cs/web/js/), [XML](/cs/web/ xml/) a další.
+Webové stránky a soubory používané v **Cold Fusion Markup Language** obsahují rozšíření CFM a nazývají se webové stránky CFM. Tento skriptovací jazyk pro vývoj webu běží na Google App Engine, .NET framework a JVM. Může obsahovat programovací jazyk nebo kód jazyka. Když uživatel vstoupí na kteroukoli z jeho stránek, webový server ColdFusion ji spustí. K zápisu CFML lze použít CFScript (který je blízký JavaScriptu) nebo značky. CFML lze použít pro generování jiných jazyků kromě [HTML](/cs/web/html/) jako [CSS](/cs/web/css/), [JavaScript](/cs/web/js/), [XML](/cs/web/xml/) a další.
 
 Využití tohoto jazyka a tagů, které podporuje, je většinou při vývoji dynamických webových aplikací. Soubory lze spouštět přímo v prohlížeči online, pokud dojde k chybě při offline používání platformy pro vývoj aplikace.
  

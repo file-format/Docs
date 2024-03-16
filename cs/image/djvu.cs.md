@@ -21,7 +21,7 @@
 
 DjVu, vyslovováno jako „déjà vu“, je formát grafického souboru určený pro naskenované dokumenty a knihy, zejména ty, které obsahují kombinaci textu, kreseb, obrázků a fotografií. Byl vyvinut společností AT&T Labs. Využívá různé techniky, jako je separace obrazových vrstev textu a obrázků na pozadí, progresivní načítání, aritmetické kódování a ztrátová komprese pro bitonální obrázky. Protože soubor DJVU může obsahovat komprimované, ale vysoce kvalitní barevné obrázky, fotografie, text a kresby a lze jej uložit na méně místa, používá se na webu jako e-knihy, manuály, noviny, staré dokumenty atd.
 
-DjVu může být hodnocena jako lepší alternativa k [PDF](/cs/pdf/). Přípony souborů přidružené k DjVu jsou .DJVU nebo .DJV. DjVu může dosáhnout kompresních poměrů asi 5–10 lepších než stávající metody, jako je [JPEG](/cs/image/jpeg/) & [GIF](/cs/image/gif/) pro barevné dokumenty a 3–8krát lepší než [TIFF]( /image/tiff/) v černobílých dokumentech. Naskenované dokumenty s rozlišením 300 DPI s plnobarevnou velikostí až 25 MB lze komprimovat na 30 až 100 KB. Podobně lze černobílé dokumenty komprimovat až na 5 až 30 kB. Průměrná velikost HTML stránky může být až 50 KB, takže tyto dokumenty lze bez problému nahrát na net.
+DjVu může být hodnocena jako lepší alternativa k [PDF](/cs/pdf/). Přípony souborů přidružené k DjVu jsou .DJVU nebo .DJV. DjVu může dosáhnout kompresních poměrů asi 5–10 lepších než stávající metody, jako je [JPEG](/cs/image/jpeg/) & [GIF](/cs/image/gif/) pro barevné dokumenty a 3–8krát lepší než [TIFF](/image/tiff/) v černobílých dokumentech. Naskenované dokumenty s rozlišením 300 DPI s plnobarevnou velikostí až 25 MB lze komprimovat na 30 až 100 KB. Podobně lze černobílé dokumenty komprimovat až na 5 až 30 kB. Průměrná velikost HTML stránky může být až 50 KB, takže tyto dokumenty lze bez problému nahrát na net.
 
 ## Stručná historie ##
 
@@ -78,4 +78,3 @@ Metoda kódování JB2 eliminuje velkou část redundance v textovém obrázku t
 
 * [DjVu – Wikipedia](https://en.wikipedia.org/wiki/DjVu)
 * [Formát souboru DjVu](https://www.cuminas.jp/docs/techinfo/DjVu3Spec.pdf)
-

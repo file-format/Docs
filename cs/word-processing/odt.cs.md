@@ -19,7 +19,7 @@
 
 ## Co je soubor ODT?
 
-Soubory ODT jsou typy dokumentů vytvořených pomocí aplikací pro zpracování textu, které jsou založeny na formátu OpenDocument Text File. Ty jsou vytvořeny pomocí aplikací textového procesoru, jako je bezplatný OpenOffice Writer, a mohou obsahovat obsah, jako je text, obrázky, objekty a styly. Soubor ODT je pro textový procesor Writeru tím, čím je [DOCX](/cs/textový procesor/docx/) pro Microsoft Word. Soubory ODT pro úpravy může otevřít několik aplikací včetně Dokumentů Google a webového textového procesoru Google, který je součástí Disku Google. Microsoft Word může také otevírat soubory ODT a ukládat je do jiných formátů, jako je [DOC](/cs/word-processing/doc/) a DOCX.
+Soubory ODT jsou typy dokumentů vytvořených pomocí aplikací pro zpracování textu, které jsou založeny na formátu OpenDocument Text File. Ty jsou vytvořeny pomocí aplikací textového procesoru, jako je bezplatný OpenOffice Writer, a mohou obsahovat obsah, jako je text, obrázky, objekty a styly. Soubor ODT je pro textový procesor Writeru tím, čím je [DOCX](/cs/word-processing/docx/) pro Microsoft Word. Soubory ODT pro úpravy může otevřít několik aplikací včetně Dokumentů Google a webového textového procesoru Google, který je součástí Disku Google. Microsoft Word může také otevírat soubory ODT a ukládat je do jiných formátů, jako je [DOC](/cs/word-processing/doc/) a DOCX.
 
 ## Stručná historie ##
 

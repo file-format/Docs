@@ -129,7 +129,7 @@ Zde jsou některé typy souborů související s hrou:
 
 
 
-5. Soubory **.txt**: [Textové soubory](/cs/textové zpracování/txt/) se používají pro různé herní dokumenty, poznámky a básně, se kterými se hráč může setkat během hry. Tyto soubory poskytují další kontext a vodítka pro příběh.
+5. Soubory **.txt**: [Textové soubory](/cs/word-processing/txt/) se používají pro různé herní dokumenty, poznámky a básně, se kterými se hráč může setkat během hry. Tyto soubory poskytují další kontext a vodítka pro příběh.
     
 
 
@@ -157,7 +157,7 @@ Zde jsou další typy souborů, které používají příponu souboru **.chr**.
 
 **Písmo a hra**
 - [CHR - Borland Character Set](/cs/font/chr/)
-- [CHR - Klub literatury Doki Doki! Soubor postavy](/cs/hra/chr-doki/)
+- [CHR - Klub literatury Doki Doki! Soubor postavy](/cs/game/chr-doki/)
 
 ## Reference
 * [Klub literatury Doki Doki!](https://en.wikipedia.org/wiki/Doki_Doki_Literature_Club!)

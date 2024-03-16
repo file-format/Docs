@@ -27,6 +27,6 @@ Podrobnosti o interním formátu souboru ve formátu APZ nejsou pro vývojáře 
 
 ## Reference
 
-* [Formáty kompresních souborů](/komprese/)
+* [Compression File Formats](/compression/)
 
 

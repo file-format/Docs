@@ -25,7 +25,7 @@ Soubor s příponou .dwt je soubor šablony webové stránky vytvořený pomocí
 
 Soubory DWT se vyvíjejí a ukládají jako soubory ve formátu prostého textu. Ty lze otevřít v aplikaci Dreamweaver nebo v libovolném textovém editoru a lze je upravit pro požadované změny. Software Dreamweaver aktualizuje uživatelské rozhraní, jak jsou změny aplikovány, a uživatel může vizuálně pozorovat účinek změn v uživatelském rozhraní aplikace.
 
-Kdykoli uložíte stránku [HTML](/cs/ web / html /) jako soubor šablony, Dreamweaver vytvoří složku šablony na kořenové úrovni místní kořenové složky. Odkaz je přerušen, pokud je soubor .dwt přesunut ze složky Templates nebo je přejmenován. Proto je důležité ponechat soubory .dwt ve složce Templates, kde je Dreamweaver vytváří. Je lepší uchovávat ostatní prvky vašeho webu, jako jsou zdrojové soubory obrázků nebo dokumenty HTML, na jiném místě než ve složce Šablony.
+Kdykoli uložíte stránku [HTML](/cs/web/html/) jako soubor šablony, Dreamweaver vytvoří složku šablony na kořenové úrovni místní kořenové složky. Odkaz je přerušen, pokud je soubor .dwt přesunut ze složky Templates nebo je přejmenován. Proto je důležité ponechat soubory .dwt ve složce Templates, kde je Dreamweaver vytváří. Je lepší uchovávat ostatní prvky vašeho webu, jako jsou zdrojové soubory obrázků nebo dokumenty HTML, na jiném místě než ve složce Šablony.
 
 ## O aplikaci Dreamweaver
 

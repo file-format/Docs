@@ -99,7 +99,7 @@ Zde jsou další typy souborů, které používají příponu souboru **.cs**.
 
 **Datové soubory a hra**
 - [CS - ColorSchemer Studio Color Scheme](/cs/data/cs-colorschemer/)
-- [CS - Vlastní skript CLEO](/cs/hra/cs-cleo/)
+- [CS - Vlastní skript CLEO](/cs/game/cs-cleo/)
 
 **Programování**
 - [CS - CSharp Code File](/cs/programming/cs/)

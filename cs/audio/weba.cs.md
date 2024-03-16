@@ -43,7 +43,7 @@ WEBA je zvukový soubor, takže jej nelze převést na soubor s titulky. Existuj
 
 ## Jak převést WEBA do jiných audio formátů?
 
-Soubory WEBA lze převést do jiných formátů zvukových souborů. Protože je založen na bezplatném a open-source formátu kontejneru OGG, mnoho rozhraní API a aplikací, které umí číst a převádět WEBA do jiných formátů souborů, jako jsou [MP3](/cs/audio/mp3/), [MP4](/cs/audio/ mp4/), [FLAC](/cs/audio/flac/) a mnoho dalších. FFmpeg je jeden takový software, který dokáže převést WEBA na soubor MP3.
+Soubory WEBA lze převést do jiných formátů zvukových souborů. Protože je založen na bezplatném a open-source formátu kontejneru OGG, mnoho rozhraní API a aplikací, které umí číst a převádět WEBA do jiných formátů souborů, jako jsou [MP3](/cs/audio/mp3/), [MP4](/cs/audio/mp4/), [FLAC](/cs/audio/flac/) a mnoho dalších. FFmpeg je jeden takový software, který dokáže převést WEBA na soubor MP3.
 
 ## Reference
 

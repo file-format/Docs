@@ -79,7 +79,7 @@ Zde jsou některé klíčové charakteristiky souborů .ink v Mimio Notebook:
 
 ## Sdílejte soubor INK
 
-Pokud učitel potřebuje sdílet soubor .ink se studentem nebo jiným učitelem, který nemá přístup k Mimio Notebook, může exportovat soubor .ink ve formátu šířeji kompatibilním, jako je [PDF](/cs/pdf/), [HTML](/cs/web /html/) nebo obrázkové soubory ([.JPEG](/cs/image/jpeg/), [.PNG](/cs/image/png/), [.GIF](/cs/image/gif/), [.TIFF](/cs/ obrázek/tiff/)); tímto způsobem lze obsah snadno sdílet a prohlížet na různých zařízeních a softwarových aplikacích, aniž by bylo nutné mít přístup k Mimio Notebook.
+Pokud učitel potřebuje sdílet soubor .ink se studentem nebo jiným učitelem, který nemá přístup k Mimio Notebook, může exportovat soubor .ink ve formátu šířeji kompatibilním, jako je [PDF](/cs/pdf/), [HTML](/cs/web/html/) nebo obrázkové soubory ([.JPEG](/cs/image/jpeg/), [.PNG](/cs/image/png/), [.GIF](/cs/image/gif/), [.TIFF](/cs/image/tiff/)); tímto způsobem lze obsah snadno sdílet a prohlížet na různých zařízeních a softwarových aplikacích, aniž by bylo nutné mít přístup k Mimio Notebook.
 
 ## MimioStudio
 

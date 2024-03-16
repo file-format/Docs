@@ -20,7 +20,7 @@
 
 DOCM je verze dokumentů Microsoft Word s podporou maker, které jsou schopny spouštět makra. Rozdíl mezi normálním dokumentem aplikace Word a dokumentem s povolenými makry spočívá v tom, že DOCM poskytuje další funkci pro podporu maker.
 
-Soubory DOC lze převést na DOCM pomocí bezplatných online nástrojů a aplikací. **[Aplikace Aspose.Words](https://products.aspose.app/words/family)** je sada online aplikací, která vám umožní provádět různé operace s dokumenty Word přímo z vašeho webového prohlížeče. Kromě funkcí [prohlížení dokumentů](/cs/textový editor/docx-viewer/), rozdělování, slučování, porovnávání, rotace a dalších vám umožňuje převádět dokumenty aplikace Word z jednoho formátu do jiných. Můžete převést [DOC](/cs/word-processing/doc/) na [DOCM](/cs/word-processing/docm/) pomocí aplikace Aspose.Words.
+Soubory DOC lze převést na DOCM pomocí bezplatných online nástrojů a aplikací. **[Aplikace Aspose.Words](https://products.aspose.app/words/family)** je sada online aplikací, která vám umožní provádět různé operace s dokumenty Word přímo z vašeho webového prohlížeče. Kromě funkcí [prohlížení dokumentů](/cs/word-processing/docx-viewer/), rozdělování, slučování, porovnávání, rotace a dalších vám umožňuje převádět dokumenty aplikace Word z jednoho formátu do jiných. Můžete převést [DOC](/cs/word-processing/doc/) na [DOCM](/cs/word-processing/docm/) pomocí aplikace Aspose.Words.
 
 ## Převést DOC na DOCM – bezplatná ukázka
 

@@ -60,7 +60,7 @@ Mezi programy, které otevírají soubory BPS, patří
 
 Zde jsou další typy souborů, které používají příponu souboru **.bps**.
 
-- [BPS - soubor opravy BPS](/cs/hra/bps/)
+- [BPS - soubor opravy BPS](/cs/game/bps/)
 - [BPS - Soubor BPS Malware od SpywareCops](/cs/misc/bps-malware/)
 
 ## Reference

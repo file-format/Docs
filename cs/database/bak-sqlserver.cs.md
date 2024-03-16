@@ -95,7 +95,7 @@ Zde jsou další typy souborů, které používají příponu **.bak**.
 
 **Databáze**
 - [BAK - Soubor zálohy databáze](/cs/database/bak/)
-- [BAK - Swiftpage Act! Záloha databáze](/cs/databáze/bak-act/)
+- [BAK - Swiftpage Act! Záloha databáze](/cs/database/bak-act/)
 
 **Hra**
 - [BAK - Terraria World or Player Backup](/cs/game/bak-terraria/)

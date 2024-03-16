@@ -91,11 +91,11 @@ Zde je seznam některých běžných formátů souborů podporovaných Shotcut:
 
 
 
-- [JPEG (JPG)] (/cs/image/jpeg/)
+- [JPEG (JPG)](/cs/image/jpeg/)
 - [PNG](/cs/image/png/)
 - [BMP](/cs/image/bmp/)
 - [TIFF](/cs/image/tiff/)
-- [GIF](/cs/obrázek/gif/)
+- [GIF](/cs/image/gif/)
 - a více...
 4. **Další formáty:**
     
@@ -121,7 +121,7 @@ Zde je seznam některých běžných formátů souborů podporovaných Shotcut:
 
 
 
-- [MP4 (kodek H.264)] (/cs/video/mp4/)
+- [MP4 (kodek H.264)](/cs/video/mp4/)
 - [WebM (kodek VP9)](/cs/video/webm/)
 - [AVI](/cs/video/avi/)
 - [MOV](/cs/video/mov/)
@@ -154,11 +154,11 @@ Zde je seznam některých běžných formátů souborů podporovaných Shotcut:
 
 
 
-- [JPEG (JPG)] (/cs/image/jpeg/)
+- [JPEG (JPG)](/cs/image/jpeg/)
 - [PNG](/cs/image/png/)
 - [BMP](/cs/image/bmp/)
 - [TIFF](/cs/image/tiff/)
-- [GIF](/cs/obrázek/gif/)
+- [GIF](/cs/image/gif/)
 - a více...
 4. **Vlastní nastavení exportu:**
     

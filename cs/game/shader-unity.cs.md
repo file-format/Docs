@@ -122,9 +122,9 @@ Kromě toho jsou tyto soubory prosté textové soubory, takže k zobrazení jeji
 Zde jsou další typy souborů, které používají příponu souboru **.shader**.
 
 **Herní soubory**
-- [SHADER - Godot Engine Shader File](/cs/hra/shader-godot/)
-- [SHADER - Quake 3 Engine Shader File](/cs/hra/shader-quake/)
-- [SHADER - Unity Shader Asset](/cs/hra/shader-unity/)
+- [SHADER - Godot Engine Shader File](/cs/game/shader-godot/)
+- [SHADER - Quake 3 Engine Shader File](/cs/game/shader-quake/)
+- [SHADER - Unity Shader Asset](/cs/game/shader-unity/)
 
 ## Reference
 * [Co je Unity shader?](https://docs.unity3d.com/560/Documentation/Manual/Shaders.html)

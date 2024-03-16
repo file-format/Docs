@@ -82,7 +82,7 @@ Protože soubory IPS jsou textové soubory, můžete je otevřít pomocí libovo
 Zde jsou další typy souborů, které používají příponu **.ips**.
 
 - [IPS - Internal Patching System Patch File](/cs/game/ips/)
-- [IPS - PlayStation 2 In-Game Video](/cs/hra/ips-ps2/)
+- [IPS - PlayStation 2 In-Game Video](/cs/game/ips-ps2/)
 
 ## Reference
 * [iOS Device Analytics](https://www.apple.com/legal/privacy/data/en/device-analytics/)

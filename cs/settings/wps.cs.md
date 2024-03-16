@@ -71,8 +71,8 @@ Mezi programy, které otevírají soubory WPS, patří
 
 Zde jsou další typy souborů, které používají příponu souboru **.wps**.
 
-– [WPS – dokument textového procesoru Microsoft Works](/cs/textový procesor/wps/)
-- [WPS - Kingsoft Writer Document](/cs/textové zpracování/wps-kingsoft/)
+– [WPS – dokument textového procesoru Microsoft Works](/cs/word-processing/wps/)
+- [WPS - Kingsoft Writer Document](/cs/word-processing/wps-kingsoft/)
 
 ## Reference
 * [Trados Studio](https://en.wikipedia.org/wiki/Trados_Studio)

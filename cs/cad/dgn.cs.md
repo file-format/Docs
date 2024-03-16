@@ -19,7 +19,7 @@
 
 ## Co je soubor DGN?
 
-Soubor s příponou .dgn (Design) je soubor výkresu vytvořený a podporovaný aplikacemi CAD, jako je MicroStation a Intergraph Interactive Graphics Design System. Používá se pro vytváření a ukládání návrhů pro stavební projekty, jako jsou dálnice, mosty a budovy. Formát je podobný formátu souborů [DWG](/cs/cad/dwg/) společnosti Autodesk a je považován za jeho konkurenta. Soubory DNG lze uložit buď jako Intergraph Standard File Format nebo V8 DGN. DGN lze převést do několika dalších formátů, jako je DWG, [BMP](/cs/image/bmp/), [JPEG](/cs/image/jpeg/), [PDF](/cs/pdf/), [GIF](/cs/image/ gif/) a další. Kromě jiných softwarových aplikací, jako jsou verze Corel PaintShop Photo Pro a IMSI TurboCAD Deluxe, lze jej otevřít pomocí Autodesk AutoCAD, Bentley View a Bentley Systems MicroStation.
+Soubor s příponou .dgn (Design) je soubor výkresu vytvořený a podporovaný aplikacemi CAD, jako je MicroStation a Intergraph Interactive Graphics Design System. Používá se pro vytváření a ukládání návrhů pro stavební projekty, jako jsou dálnice, mosty a budovy. Formát je podobný formátu souborů [DWG](/cs/cad/dwg/) společnosti Autodesk a je považován za jeho konkurenta. Soubory DNG lze uložit buď jako Intergraph Standard File Format nebo V8 DGN. DGN lze převést do několika dalších formátů, jako je DWG, [BMP](/cs/image/bmp/), [JPEG](/cs/image/jpeg/), [PDF](/cs/pdf/), [GIF](/cs/image/gif/) a další. Kromě jiných softwarových aplikací, jako jsou verze Corel PaintShop Photo Pro a IMSI TurboCAD Deluxe, lze jej otevřít pomocí Autodesk AutoCAD, Bentley View a Bentley Systems MicroStation.
 
 ## Formát souboru V8 DGN
 

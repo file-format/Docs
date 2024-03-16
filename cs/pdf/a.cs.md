@@ -53,7 +53,7 @@ PDF/A-2 byl vydán standardem ISO v červenci 2011 jako nový standard známý j
 
 ## PDF/A-3 ##
 
-PDF/A-3 zahrnuje všechny požadavky na shodu úrovně 2 a umožňuje vkládání dalších formátů souborů (jako je XML, [CSV](/cs/spreadsheet/csv/), [CAD](/cs/cad/), [textový editor](/cs/textový procesor/) , [tabulkový procesor](/cs/tabulkový procesor/) a další) do dokumentů vyhovujících PDF/A.
+PDF/A-3 zahrnuje všechny požadavky na shodu úrovně 2 a umožňuje vkládání dalších formátů souborů (jako je XML, [CSV](/cs/spreadsheet/csv/), [CAD](/cs/cad/), [textový editor](/cs/word-processing/) , [tabulkový procesor](/cs/spreadsheet/) a další) do dokumentů vyhovujících PDF/A.
 
 ## Reference ##
 

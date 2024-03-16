@@ -19,7 +19,7 @@
 
 ## Co je soubor ODS?
 
-Soubory s příponou .ods představují formát OpenDocument Spreadsheet Document, který může uživatel upravovat. Data jsou uložena v souboru ODF do řádků a sloupců. Je to formát založený na XML a je jedním z několika podtypů v rodině Open Document Formats (ODF). Formát je specifikován jako součást specifikací ODF 1.2 publikovaných a spravovaných OASIS. Soubory ODS pro úpravy a manipulaci může otevírat řada aplikací ve Windows i jiných operačních systémech, včetně aplikací Microsoft Excel, NeoOffice a LibreOffice. Soubory ODS lze také různými aplikacemi převést do jiných tabulkových formátů, jako jsou [XLS](/cs/tabulkový procesor/xls/), [XLSX](/cs/tabulkový procesor/xlsx/) a další.
+Soubory s příponou .ods představují formát OpenDocument Spreadsheet Document, který může uživatel upravovat. Data jsou uložena v souboru ODF do řádků a sloupců. Je to formát založený na XML a je jedním z několika podtypů v rodině Open Document Formats (ODF). Formát je specifikován jako součást specifikací ODF 1.2 publikovaných a spravovaných OASIS. Soubory ODS pro úpravy a manipulaci může otevírat řada aplikací ve Windows i jiných operačních systémech, včetně aplikací Microsoft Excel, NeoOffice a LibreOffice. Soubory ODS lze také různými aplikacemi převést do jiných tabulkových formátů, jako jsou [XLS](/cs/spreadsheet/xls/), [XLSX](/cs/spreadsheet/xlsx/) a další.
 
 ## Stručná historie ##
 
