@@ -21,7 +21,7 @@
 
 Eine FMW-Datei ist eine Projektdatei, die mit der FME Workbench-Software (im Lieferumfang der FME Desktop-Suite enthalten) erstellt wurde und für die Transformation räumlicher Daten verwendet wird. Es enthält benutzerdefinierte Einstellungen, die für die Bearbeitung räumlicher Daten verwendet werden, z. B. Eingabedatensätze, Übersetzungseigenschaften, Projektionen und Ausgabeeinstellungen. Die räumlichen Datenmanipulationseinstellungen werden als visuelles Layout gespeichert und können einfach bearbeitet und wieder gespeichert werden.
 
-Sie können FMW-Dateien mit [Safe Software FME Desktop](https://www.safe.com/fme/fme-desktop/) öffnen.
+Sie können FMW-Dateien mit [Safe Software FME Desktop](https://fme.safe.com/platform/) öffnen.
 
 ## FMW-Dateiformat - Weitere Informationen
 
@@ -70,6 +70,6 @@ FMW-Dateien werden als Binärdateien auf der Disc gespeichert und können nur mi
 
 ## Verweise
 
-* [Safe Software FME-Desktop](https://www.safe.com/fme/fme-desktop/)
+* [Safe Software FME-Desktop](https://fme.safe.com/platform/)
 * [FMW Quick Facts](https://docs.safe.com/fme/html/FME_Desktop_Documentation/FME_ReadersWriters/fmw/quick_facts_fmw.htm)
 

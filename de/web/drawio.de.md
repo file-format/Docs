@@ -79,5 +79,3 @@ Die mit dem Export generierte Ausgabe-XML sieht wie unten gezeigt aus.
 
 * [DRAWIO - Github](https://github.com/jgraph/drawio)
 * [DRAWIO - Online-App](https://app.diagrams.net/)
-* [Diagramme.Net](https://www.diagramme.net/)
-

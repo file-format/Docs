@@ -23,5 +23,3 @@ Eine DCX-Datei ist eine Bilddatei, die aus mehreren Seiten besteht, um digitale 
 ## Verweise
 
 * [PCX – von Wikipedia](https://en.wikipedia.org/wiki/PCX)
-* [Technisches Referenzhandbuch für das ZSoft PCX-Dateiformat](http://qzx.com/pc-gpe/pcx.txt)
-

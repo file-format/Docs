@@ -37,6 +37,4 @@ EX-Dateien werden als einfache Textdateien gespeichert und enthalten den Quellco
 
 ## Bezug ##
 
-* [Schnelle Euphorie](https://www.rapideuphoria.com/)
 * [OpenEuphoria-Foren](https://openeuphoria.org/forum/index.wc)
-

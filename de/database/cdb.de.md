@@ -55,6 +55,5 @@ Der Befehl **cdbmake** kann eine ganze Datenbank in zwei Größenordnungen umsch
 
 ## Verweise ##
 
-* [cdb (Software) - Wikipedia](https://en.wikipedia.org/wiki/Cdb_(Software))
+* [cdb (software) - Wikipedia](https://en.wikipedia.org/wiki/Cdb_(software))
 * [CDB-Spezifikation](http://cr.yp.to/cdb.html)
-

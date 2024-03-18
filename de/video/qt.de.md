@@ -23,7 +23,7 @@ Eine Datei mit der Erweiterung .qt ist eine Multimedia-Containerdatei, die vom Q
 
 ## QT-Dateiformat
 
-Das QTFF ist objektorientiert, das eine flexible Sammlung von Objekten zur einfachen Analyse und Erweiterung bereitstellt. Jeder Track in einer QT-Datei enthält einen digital codierten Medienstrom oder einen Datenverweis auf den Medienstrom, der sich in einer anderen Datei befindet. Die hierarchische Datenstruktur, die aus Objekten besteht, die als Atome bezeichnet werden, fungiert als Track-Container. Dateiformatspezifikationen für [QT-Dateiformat](https://developer.apple.com/library/archive/documentation/QuickTime/QTFF/QTFFPreface/qtffPreface.html) sind offiziell von Apple Inc als Referenz für Entwickler verfügbar.
+Das QTFF ist objektorientiert, das eine flexible Sammlung von Objekten zur einfachen Analyse und Erweiterung bereitstellt. Jeder Track in einer QT-Datei enthält einen digital codierten Medienstrom oder einen Datenverweis auf den Medienstrom, der sich in einer anderen Datei befindet. Die hierarchische Datenstruktur, die aus Objekten besteht, die als Atome bezeichnet werden, fungiert als Track-Container. Dateiformatspezifikationen für [QT-Dateiformat](https://developer.apple.com/documentation/quicktime-file-format) sind offiziell von Apple Inc als Referenz für Entwickler verfügbar.
 
 ### Medienbeschreibung
 
@@ -55,6 +55,5 @@ Der nächste Chunk befindet sich bei Offset 32+8#40 (Hex: 28) und hat eine Grö�
 
 ## Verweise ##
 
-* [QT-Dateiformat – Apple Inc.](https://developer.apple.com/library/archive/documentation/QuickTime/QTFF/QTFFPreface/qtffPreface.html)
+* [QT-Dateiformat – Apple Inc.](https://developer.apple.com/documentation/quicktime-file-format)
 * [QuickTime-Dateiformat – Wikipedia](https://en.wikipedia.org/wiki/QuickTime_File_Format)
-

@@ -40,5 +40,4 @@ Eine einzelne Microsoft Access-Datenbank kann aus mehreren Dateien bestehen, die
 ## Verweise ##
 
 * [Zugriffsspezifikationen](https://support.microsoft.com/en-us/office/access-specifications-0cf3c66f-9cf2-4e32-9568-98c1025bb47c)
-* [Der inoffizielle MDB-Leitfaden](http://jabakobob.net/mdb/)
 

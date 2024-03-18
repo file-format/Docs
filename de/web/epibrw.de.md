@@ -24,5 +24,5 @@ Wenn auf eine EPIBRW-Datei doppelgeklickt wird, wird sie möglicherweise im Brow
 
 ## Verweise
 
-* [Adobe Edge](https://www.adobe.com/sea/products/edge-animate.html)
+* [Adobe Edge](https://en.wikipedia.org/wiki/Adobe_Edge_Animate)
 

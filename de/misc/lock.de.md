@@ -43,5 +43,4 @@ Das obligatorische Sperren erfordert keine Zusammenarbeit zwischen den beteiligt
 ## Verweise
 
 * [GemFile und Gemfile.lock in Ruby](https://medium.com/never-hop-on-the-bandwagon/gemfile-and-gemfile-lock-in-ruby-65adc918b856)
-* [Locking in Linux](https://www.baeldung.com/linux/file-locking#:~:text=File%20locking%20is%20a%20mechanism,very%20dangerous%20command%20in%20Linux.)
-
+* [Locking in Linux](https://www.baeldung.com/linux/file-locking)
