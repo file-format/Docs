@@ -77,7 +77,7 @@ package com.example
 
 ## Bezug ##
 
-* [AS - von Wikipedia]( https://en.wikipedia.org/wiki/ActionScript)
+* [AS - von Wikipedia](https://en.wikipedia.org/wiki/ActionScript)
 
 
 

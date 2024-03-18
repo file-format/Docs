@@ -20,7 +20,7 @@
 
 Sie müssen mit den Erweiterungsdateien **PPTX** und **PPT** vertraut sein. Dies sind Präsentationsdateiformate, die eine Sammlung von Datensätzen speichern, um Präsentationsdaten wie Folien, Formen, Text, Animationen, Video, Audio und eingebettete Objekte aufzunehmen . Eine Präsentation kann auch in andere Dateiformate wie PDF, BMP, PNG, JPEG und XPS gespeichert/konvertiert werden.
 
-Gängige Dateierweiterungen für Präsentationen und die zugehörigen Dateiformate sind **[PPTX](/de/presentation/pptx/)**, **[PPT](/de/presentation/ppt/)** und **[ODP](/de/presentation/odp /)**.
+Gängige Dateierweiterungen für Präsentationen und die zugehörigen Dateiformate sind **[PPTX](/de/presentation/pptx/)**, **[PPT](/de/presentation/ppt/)** und **[ODP](/de/presentation/odp/)**.
 
 Haben Sie Fragen zu Präsentationsdateiformaten? Besuchen Sie unsere Community [Foren](https://forum.fileformat.com/c/presentation/8), um vom Wissen der Dateiformatexperten zu profitieren.
 

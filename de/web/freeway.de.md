@@ -22,7 +22,7 @@ Eine FREEWAY-Datei ist eine Einstellungsinformationsdatei, die von der Freeway P
 
 ## FREEWAY-Dateiformat
 
-FREEWAY-Dateien werden in einem proprietären Dateiformat gespeichert und ihre internen Dateiformatdetails sind nicht öffentlich verfügbar. Es enthält keine tatsächlichen Ressourcen, die von einer Site verwendet werden, sondern das Site-Layout und Links zu verschiedenen Eigenschaften. Die tatsächlichen Website-Ressourcen und -Seiten werden in den Ordnern „Media“ und „Site Folder“ gespeichert, die sich im selben Ordner wie die FREEWAY-Datei befinden. Das FREEWAY-Dokument kann in eine Vielzahl von Formaten exportiert werden, darunter [HTML](/de/web/html/), [JPEG](/de/image/jpeg/), [PNG](/de/image/png/), [BMP](/de/ image/bmp/) und [GIF](/de/image/gif/).
+FREEWAY-Dateien werden in einem proprietären Dateiformat gespeichert und ihre internen Dateiformatdetails sind nicht öffentlich verfügbar. Es enthält keine tatsächlichen Ressourcen, die von einer Site verwendet werden, sondern das Site-Layout und Links zu verschiedenen Eigenschaften. Die tatsächlichen Website-Ressourcen und -Seiten werden in den Ordnern „Media“ und „Site Folder“ gespeichert, die sich im selben Ordner wie die FREEWAY-Datei befinden. Das FREEWAY-Dokument kann in eine Vielzahl von Formaten exportiert werden, darunter [HTML](/de/web/html/), [JPEG](/de/image/jpeg/), [PNG](/de/image/png/), [BMP](/de/image/bmp/) und [GIF](/de/image/gif/).
 
 ## Verweise
 

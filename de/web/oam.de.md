@@ -19,7 +19,7 @@
 
 ## Was ist eine OAM-Datei?
 
-Eine .oam-Datei, eine animierte Widget-Datei, die aus Adobe Edge Animate Widget exportiert wurde. Als OAM-Widget-Dateiformat exportierte Animationen können in andere Adobe-Anwendungen wie InDesign-Dokumente ([INDD-Datei](/Seitenbeschreibungssprache/indd/), Dreamweaver und Muse eingefügt werden. OAM-Dateien sind wie Bereitstellungspakete, die problemlos bereitgestellt werden können in andere Adobe-Projekte eingefügt, um sie zu nutzen. OAM-Dateien enthalten Informationen über die Assets, Verhaltensweisen und den Actionscript-Code der Animation. Sie können eine OAM-Datei erstellen, indem Sie ein Adobe Animate-Projekt [.AN-Datei](/web/an/) veröffentlichen. .
+Eine .oam-Datei, eine animierte Widget-Datei, die aus Adobe Edge Animate Widget exportiert wurde. Als OAM-Widget-Dateiformat exportierte Animationen können in andere Adobe-Anwendungen wie InDesign-Dokumente ([INDD-Datei](/page-description-language/indd/), Dreamweaver und Muse eingefügt werden. OAM-Dateien sind wie Bereitstellungspakete, die problemlos bereitgestellt werden können in andere Adobe-Projekte eingefügt, um sie zu nutzen. OAM-Dateien enthalten Informationen über die Assets, Verhaltensweisen und den Actionscript-Code der Animation. Sie können eine OAM-Datei erstellen, indem Sie ein Adobe Animate-Projekt [.AN-Datei](/web/an/) veröffentlichen. .
 Benutzer können OAM-Dateien erstellen, indem sie sie aus einem Edge Animate-Projekt (.AN-Datei) veröffentlichen.
 
 ## OAM-Dateiformat

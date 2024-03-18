@@ -43,7 +43,7 @@ Diese vielfältige Unterstützung verschiedener Programmiersprachen gibt Ihnen d
 
 ## Über DOCX zu XPS
 
-Die Konvertierung von DOCX-Seiten in das Dateiformat XPS (XML Paper Specifications) ist einer der am häufigsten verwendeten Vorgänge. Wenn eine DOCX-Datei in XPS konvertiert wird, werden alle ihre Seiten in einer einzigen XPS-Ausgabedatei gerendert. Microsoft Windows bietet einen Standard-XPS-Viewer, der zum Öffnen und Anzeigen von XPS-Dateien verwendet werden kann. DOCX kann mit verschiedenen Online-Tools in XPS konvertiert werden. Die Aspose.Words-App ist eine solche Online-App, die [DOCX](/word-processing/docx/) kostenlos online in [XPS](/page-description-Language/xps/) konvertieren kann.
+Die Konvertierung von DOCX-Seiten in das Dateiformat XPS (XML Paper Specifications) ist einer der am häufigsten verwendeten Vorgänge. Wenn eine DOCX-Datei in XPS konvertiert wird, werden alle ihre Seiten in einer einzigen XPS-Ausgabedatei gerendert. Microsoft Windows bietet einen Standard-XPS-Viewer, der zum Öffnen und Anzeigen von XPS-Dateien verwendet werden kann. DOCX kann mit verschiedenen Online-Tools in XPS konvertiert werden. Die Aspose.Words-App ist eine solche Online-App, die [DOCX](/word-processing/docx/) kostenlos online in [XPS](/page-description-language/xps/) konvertieren kann.
 
 ## Konvertieren Sie DOCX in XPS in .NET, Java, C++ und Python
 

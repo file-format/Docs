@@ -18,7 +18,7 @@
 
 ## Über DOCX zu MD
 
-DOCX zu MD ist eine häufige Voraussetzung für die Generierung von Markdown-Inhalten, die zum Formatieren und Gestalten von Textdokumenten verwendet werden. Nur für den Fall, dass Sie das Format der [MD-Datei](/textverarbeitung/md/) nicht kennen: Es handelt sich um eine reine Textdatei, die eine einfache Syntax verwendet, um Formatierungen in einem Dokument wie Kopfzeilen, Stil, Listen, Aufzählungszeichen usw. darzustellen. Links und Bilder. Microsoft Word bietet keine Option zum Konvertieren von DOCX in MD, es sind jedoch online Tools verfügbar, mit denen Sie Ihre DOCX-Dateien KOSTENLOS in MD konvertieren können.
+DOCX zu MD ist eine häufige Voraussetzung für die Generierung von Markdown-Inhalten, die zum Formatieren und Gestalten von Textdokumenten verwendet werden. Nur für den Fall, dass Sie das Format der [MD-Datei](/word-processing/md/) nicht kennen: Es handelt sich um eine reine Textdatei, die eine einfache Syntax verwendet, um Formatierungen in einem Dokument wie Kopfzeilen, Stil, Listen, Aufzählungszeichen usw. darzustellen. Links und Bilder. Microsoft Word bietet keine Option zum Konvertieren von DOCX in MD, es sind jedoch online Tools verfügbar, mit denen Sie Ihre DOCX-Dateien KOSTENLOS in MD konvertieren können.
 
 ## Konvertieren Sie DOCX in MD – Kostenlose Demo
 

@@ -79,7 +79,7 @@ Hier sind einige wichtige Merkmale von .ink-Dateien in Mimio Notebook:
 
 ## Teilen Sie eine INK-Datei
 
-Wenn der Lehrer eine .ink-Datei mit einem Schüler oder einem anderen Lehrer teilen muss, der keinen Zugriff auf Mimio Notebook hat, kann er die .ink-Datei in ein allgemein kompatibleres Format exportieren, z. B. [PDF](/pdf/), [HTML](/web /html/) oder Bilddateien ([.JPEG](/image/jpeg/), [.PNG](/image/png/), [.GIF](/image/gif/), [.TIFF](/ image/tiff/)); Auf diese Weise können Inhalte problemlos geteilt und auf verschiedenen Geräten und Softwareanwendungen angezeigt werden, ohne dass Mimio Notebook für den Zugriff erforderlich ist.
+Wenn der Lehrer eine .ink-Datei mit einem Schüler oder einem anderen Lehrer teilen muss, der keinen Zugriff auf Mimio Notebook hat, kann er die .ink-Datei in ein allgemein kompatibleres Format exportieren, z. B. [PDF](/pdf/), [HTML](/web/html/) oder Bilddateien ([.JPEG](/image/jpeg/), [.PNG](/image/png/), [.GIF](/image/gif/), [.TIFF](/image/tiff/)); Auf diese Weise können Inhalte problemlos geteilt und auf verschiedenen Geräten und Softwareanwendungen angezeigt werden, ohne dass Mimio Notebook für den Zugriff erforderlich ist.
 
 ## MimioStudio
 

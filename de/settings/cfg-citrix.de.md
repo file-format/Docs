@@ -188,7 +188,7 @@ Citrix-Server und zugehörige Citrix-Technologien unterstützen mehrere Dateifor
 
 
 
-- **.exe**: Citrix Receiver- oder Citrix Workspace-Installationspakete liegen häufig im ausführbaren Format für verschiedene Betriebssysteme vor (z. B. [.exe](/executable/exe/) für Windows, [.dmg](/compression/dmg /) für macOS). Mit diesen Paketen können Benutzer Client-Software auf ihren Geräten installieren.
+- **.exe**: Citrix Receiver- oder Citrix Workspace-Installationspakete liegen häufig im ausführbaren Format für verschiedene Betriebssysteme vor (z. B. [.exe](/executable/exe/) für Windows, [.dmg](/compression/dmg/) für macOS). Mit diesen Paketen können Benutzer Client-Software auf ihren Geräten installieren.
 3. **Citrix Workspace App (ehemals Citrix Receiver)**:
     
 

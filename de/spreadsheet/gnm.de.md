@@ -27,7 +27,7 @@ GNM-Dateien sind komprimierte XML-Dateien, die mit standardmäßigen Dekomprimie
 
 ## In GNM-Dateien unterstützte Funktionen
 
-Da Gnumeric mehrere verschiedene Dateiformate unterstützt, kann es die nativen GNM-Dateien in [CSV](/de/spreadsheet/csv/), [XLSX](/de/spreadsheet/xlsx/), Microsoft Works (.wks), [HTML](/de/ web/html/), [LaTex](/de/word-processing/latex/) und [Lotus 1-2-3](/de/spreadsheet/123/).
+Da Gnumeric mehrere verschiedene Dateiformate unterstützt, kann es die nativen GNM-Dateien in [CSV](/de/spreadsheet/csv/), [XLSX](/de/spreadsheet/xlsx/), Microsoft Works (.wks), [HTML](/de/web/html/), [LaTex](/de/word-processing/latex/) und [Lotus 1-2-3](/de/spreadsheet/123/).
 
 ## Gnumeric auf Github
 

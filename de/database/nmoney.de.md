@@ -36,7 +36,7 @@ Denaro wurde ursprünglich von [Nickvision](https://nickvision.org/) als Produkt
 
 ## Denaro-Dateiformat – Weitere Informationen
 
-Denaro-Dateien werden im Binärdateiformat auf der Disc gespeichert. Finanzdaten werden als Datenbankdatei im Dateiformat **.SQLITE3** gespeichert. SQLITE ist eine leichte SQL-Datenbankdatei, die mit der SQLite-Software erstellt wurde. Es bietet eine eigenständige Datenbank-Engine, die eine voll funktionsfähige und äußerst zuverlässige Datenbank bereitstellen kann. SQLite-Datenbankdateien können verwendet werden, um umfangreiche Inhalte zwischen Systemen auszutauschen, indem diese Dateien einfach über das Netzwerk ausgetauscht werden. SQLite-Bindungen gibt es für Programmiersprachen wie C, [C#](/programming/cs/), [C++](/programming/cpp/), [Java](/programming/java/), [PHP](/programming/ php/) und viele andere.
+Denaro-Dateien werden im Binärdateiformat auf der Disc gespeichert. Finanzdaten werden als Datenbankdatei im Dateiformat **.SQLITE3** gespeichert. SQLITE ist eine leichte SQL-Datenbankdatei, die mit der SQLite-Software erstellt wurde. Es bietet eine eigenständige Datenbank-Engine, die eine voll funktionsfähige und äußerst zuverlässige Datenbank bereitstellen kann. SQLite-Datenbankdateien können verwendet werden, um umfangreiche Inhalte zwischen Systemen auszutauschen, indem diese Dateien einfach über das Netzwerk ausgetauscht werden. SQLite-Bindungen gibt es für Programmiersprachen wie C, [C#](/programming/cs/), [C++](/programming/cpp/), [Java](/programming/java/), [PHP](/programming/php/) und viele andere.
 
 ## Verweise
 

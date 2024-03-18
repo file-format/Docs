@@ -20,7 +20,7 @@
 
 Die Dateierweiterung ".3ds" dient als Markierung für das Mesh-Dateiformat namens 3D Studio (DOS), das von der 3D Studio-Software von Autodesk verwendet wird. 3D Studio von Autodesk hat seit den 1990er Jahren eine bedeutende Präsenz im Bereich der 3D-Dateiformate und hat sich anschließend zu der robusten Software weiterentwickelt, die heute als 3D Studio MAX bekannt ist.
 
-Eine [DWG-Datei](/3d/DWG/), kurz für Digital Asset Exchange File, fungiert als Format, das erstellt wurde, um den Datenaustausch zwischen interaktiven 3D-Anwendungen zu erleichtern. Es basiert auf dem XML-Schema COLLADA (COLLAborative Design Activity) und dient als offener Standard für die nahtlose gemeinsame Nutzung digitaler Assets zwischen verschiedenen Grafiksoftwareanwendungen.
+Eine [DWG-Datei](/cad/dwg/), kurz für Digital Asset Exchange File, fungiert als Format, das erstellt wurde, um den Datenaustausch zwischen interaktiven 3D-Anwendungen zu erleichtern. Es basiert auf dem XML-Schema COLLADA (COLLAborative Design Activity) und dient als offener Standard für die nahtlose gemeinsame Nutzung digitaler Assets zwischen verschiedenen Grafiksoftwareanwendungen.
 
 Häufig müssen [3DS](/3d/3ds/)-Dateien in das DWG-Format konvertiert werden, und mehrere Online-Tools bieten eine kostenlose Konvertierung von 3DS in DWG an. Für Softwareentwickler, die diese Funktionalität in .NET-, Java- oder Python-Anwendungen integrieren möchten, bieten Aspose.3D-APIs eine wertvolle Lösung.
 

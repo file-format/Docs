@@ -20,7 +20,7 @@
 
 Eine Unity-Datei ist eine 3D-Szenendatei, die mit der 3D-Gaming-Engine **Unity** erstellt wurde. Es wird in Kombination mit anderen Szenen verwendet, um während der Bearbeitung eine virtuelle Welt zu erstellen. Es enthält 3D-Szenenelemente wie Objekte, Umgebungen, Dekorationen, Kameras, Winkelinformationen, Beleuchtungsszenarien und Hindernisse.
 
-Unity-Dateien können mit Unity Technologies Unity geöffnet werden. Unity kann auch Unity [.fbx](/de/3d/fbx/), [.dae](/de/3d/dae/) (Collada), [.3ds](/de/3d/3ds/), [.dxf](/de/ cad/dxf/) und [.obj](/de/3d/obj/) Dateien.
+Unity-Dateien können mit Unity Technologies Unity geöffnet werden. Unity kann auch Unity [.fbx](/de/3d/fbx/), [.dae](/de/3d/dae/) (Collada), [.3ds](/de/3d/3ds/), [.dxf](/de/cad/dxf/) und [.obj](/de/3d/obj/) Dateien.
 
 ## UNITY-Dateiformat
 

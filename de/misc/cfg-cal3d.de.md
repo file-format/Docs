@@ -111,7 +111,7 @@ Cal3D verwendet mehrere Dateiformate für unterschiedliche Zwecke, beispielsweis
 
 1. **Cal3D-Konfigurationsdateien (.cfg):** Diese Nur-Text-Dateien dienen als Konfigurationsdateien für Cal3D-Modelle. Sie enthalten Verweise auf verschiedene Komponenten des Modells, einschließlich Knochenhierarchie, Netzdaten, Materialien und Animationen. Konfigurationsdateien helfen Cal3D, das Modell korrekt zu laden und zu verwenden.
 
-1. **Bildformate:** Bilddateiformate wie [JPEG](/image/jpeg/), [PNG](/image/png/), [BMP](/image/bmp/ sind zwar nicht spezifisch für Cal3D, ) oder [TGA](/image/tga/) werden häufig für Texturen verwendet, die auf Cal3D-Modelle angewendet werden.
+1. **Bildformate:** Bilddateiformate wie [JPEG](/image/jpeg/), [PNG](/image/png/), [BMP](/image/bmp/) sind zwar nicht spezifisch für Cal3D, oder [TGA](/image/tga/) werden häufig für Texturen verwendet, die auf Cal3D-Modelle angewendet werden.
 
 ## Wie öffne ich eine CFG-Datei?
 
