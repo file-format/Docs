@@ -71,10 +71,10 @@
 
 Το Kingsoft Writer μπορεί να μετατρέψει αρχεία WPS στις ακόλουθες μορφές:
 
-- [DOC](/el/επεξεργασία κειμένου/έγγραφο/)
-- [DOCX](/el/επεξεργασία κειμένου/docx/)
-- [RTF](/el/επεξεργασία κειμένου/rtf/)
-- [TXT](/el/επεξεργασία κειμένου/txt/)
+- [DOC](/el/word-processing/doc/)
+- [DOCX](/el/word-processing/docx/)
+- [RTF](/el/word-processing/rtf/)
+- [TXT](/el/word-processing/txt/)
 - [HTML](/el/web/html/)
 - [PDF](/el/pdf/)
 

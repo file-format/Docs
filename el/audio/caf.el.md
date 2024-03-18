@@ -237,7 +237,7 @@
 
 **Βάση δεδομένων και προγραμματισμός**
 - [CAF - Μορφή αρχείου καταλόγου Cathy](/el/database/caf/)
-- [CAF - Αρχείο κινουμένων σχεδίων χαρακτήρων CryENGINE](/el/προγραμματισμός/caf-cryengine/)
+- [CAF - CryENGINE Character Animation File](/programming/caf-cryengine/)
 
 ## βιβλιογραφικές αναφορές
 * [Μορφή CAF](https://developer.apple.com/library/archive/documentation/MusicAudio/Reference/CAFSpec/CAF_spec/CAF_spec.html)

@@ -80,7 +80,7 @@
 Το MakeMusic Finale παρέχει μια σειρά από επιλογές εξαγωγής, επιτρέποντάς σας να μετατρέψετε τις μουσικές σας παρτιτούρες σε διαφορετικές μορφές αρχείων. π.χ
 
 - [.MXL](/el/audio/mxl/) - Συμπιεσμένο MusicXML
-- [.WAV](/el/ήχος/wav/) - Ήχος WAVE
+- [.WAV](/el/audio/wav/) - Ήχος WAVE
 - [.EPUB](/el/ebook/epub/) - Ανοίξτε το eBook
 - [.AIFF](/el/audio/aiff/) - Μορφή αρχείου ανταλλαγής ήχου
 - [.MIDI](/el/audio/mid/) - MIDI Music Data
@@ -91,7 +91,7 @@
 
 **Βάση δεδομένων**
 - [BAK - Εφεδρικό αρχείο βάσης δεδομένων](/el/database/bak/)
-- [BAK - Swiftpage Act! Αντίγραφο ασφαλείας βάσης δεδομένων](/el/βάση δεδομένων/bak-act/)
+- [BAK - Swiftpage Act! Αντίγραφο ασφαλείας βάσης δεδομένων](/el/database/bak-act/)
 - [BAK - Αντίγραφο ασφαλείας βάσης δεδομένων Microsoft SQL Server](/el/database/bak-sqlserver/)
 
 **Παιχνίδι**

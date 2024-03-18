@@ -76,7 +76,7 @@ package com.example
 
 ## Αναφορά ##
 
-* [AS - από τη Wikipedia]( https://en.wikipedia.org/wiki/ActionScript)
+* [AS - από τη Wikipedia](https://en.wikipedia.org/wiki/ActionScript)
 
 
 

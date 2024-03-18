@@ -67,7 +67,7 @@
 
 ## Άλλα αρχεία FPT
 
-- [FPT - Αρχείο σημείωσης πινάκων Alpha Five](/el/βάση δεδομένων/fpt-alphafive/)
+- [FPT - Αρχείο σημείωσης πινάκων Alpha Five](/el/database/fpt-alphafive/)
 - [FPT - FileMaker Pro Database Memo File](/el/database/fpt/)
 
 ## βιβλιογραφικές αναφορές

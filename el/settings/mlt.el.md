@@ -57,12 +57,12 @@
 
 - [MP4](/el/video/mp4/)
 - [MOV](/el/video/mov/)
-- [AVI](/el/βίντεο/avi/)
-- [MKV](/el/βίντεο/mkv/)
+- [AVI](/el/video/avi/)
+- [MKV](/el/video/mkv/)
 - [WebM](/el/video/webm/)
 - [MPEG](/el/video/mpeg/)
-- [FLV](/el/βίντεο/flv/)
-- [WMV](/el/βίντεο/wmv/)
+- [FLV](/el/video/flv/)
+- [WMV](/el/video/wmv/)
 - κι αλλα...
 2. **Μορφές ήχου:**
     
@@ -74,12 +74,12 @@
 
 
 
-- [MP3](/el/ήχος/mp3/)
-- [WAV](/el/ήχος/wav/)
-- [AAC](/el/ήχος/aac/)
-- [FLAC](/el/ήχος/flac/)
-- [OGG](/el/ήχος/ogg/)
-- [M4A](/el/ήχος/m4a/)
+- [MP3](/el/audio/mp3/)
+- [WAV](/el/audio/wav/)
+- [AAC](/el/audio/aac/)
+- [FLAC](/el/audio/flac/)
+- [OGG](/el/audio/ogg/)
+- [M4A](/el/audio/m4a/)
 - κι αλλα...
 3. **Μορφές εικόνας:**
     
@@ -93,7 +93,7 @@
 
 - [JPEG (JPG)](/el/image/jpeg/)
 - [PNG](/el/image/png/)
-- [BMP](/el/εικόνα/bmp/)
+- [BMP](/el/image/bmp/)
 - [TIFF](/el/image/tiff/)
 - [GIF](/el/image/gif/)
 - κι αλλα...
@@ -123,9 +123,9 @@
 
 - [MP4 (κωδικοποιητής H.264)](/el/video/mp4/)
 - [WebM (κωδικοποιητής VP9)](/el/video/webm/)
-- [AVI](/el/βίντεο/avi/)
+- [AVI](/el/video/avi/)
 - [MOV](/el/video/mov/)
-- [MKV](/el/βίντεο/mkv/)
+- [MKV](/el/video/mkv/)
 - κι αλλα...
 2. **Μορφές ήχου:**
     
@@ -137,12 +137,12 @@
 
 
 
-- [MP3](/el/ήχος/mp3/)
-- [WAV](/el/ήχος/wav/)
-- [AAC](/el/ήχος/aac/)
-- [FLAC](/el/ήχος/flac/)
-- [OGG](/el/ήχος/ogg/)
-- [M4A](/el/ήχος/m4a/)
+- [MP3](/el/audio/mp3/)
+- [WAV](/el/audio/wav/)
+- [AAC](/el/audio/aac/)
+- [FLAC](/el/audio/flac/)
+- [OGG](/el/audio/ogg/)
+- [M4A](/el/audio/m4a/)
 - κι αλλα...
 3. **Μορφές εικόνας:**
     
@@ -156,7 +156,7 @@
 
 - [JPEG (JPG)](/el/image/jpeg/)
 - [PNG](/el/image/png/)
-- [BMP](/el/εικόνα/bmp/)
+- [BMP](/el/image/bmp/)
 - [TIFF](/el/image/tiff/)
 - [GIF](/el/image/gif/)
 - κι αλλα...

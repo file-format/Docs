@@ -58,7 +58,7 @@
 Ακολουθούν άλλοι τύποι αρχείων που χρησιμοποιούν την επέκταση αρχείου **.bin**.
 
 - [BIN - Αρχείο εικόνας δυαδικού δίσκου](/el/disc-and-media/bin/)
-- [BIN - Εκτελέσιμο αρχείο Unix](/el/εκτελέσιμο/bin/)
+- [BIN - Unix Executable File](/executable/bin/)
 - [BIN - BlackBerry IT Policy File](/el/settings/bin/)
 - [BIN - Sega Genesis Game ROM](/el/game/bin/)
 - [BIN - PSX PlayStation BIOS Image](/el/game/bin-pcsx/)

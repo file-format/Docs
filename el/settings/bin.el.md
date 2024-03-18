@@ -55,7 +55,7 @@
 
 - [BIN - MacBinary Encoded File](/el/compression/bin/)
 - [BIN - Αρχείο εικόνας δυαδικού δίσκου](/el/disc-and-media/bin/)
-- [BIN - Εκτελέσιμο αρχείο Unix](/el/εκτελέσιμο/bin/)
+- [BIN - Εκτελέσιμο αρχείο Unix](/el/executable/bin/)
 - [BIN - Sega Genesis Game ROM](/el/game/bin/)
 - [BIN - PSX PlayStation BIOS Image](/el/game/bin-pcsx/)
 

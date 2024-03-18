@@ -378,7 +378,7 @@
 
 **Βάση δεδομένων και προγραμματισμός**
 - [CAF - Μορφή αρχείου καταλόγου Cathy](/el/database/caf/)
-- [CAF - Αρχείο κινουμένων σχεδίων χαρακτήρων CryENGINE](/el/προγραμματισμός/caf-cryengine/)
+- [CAF - Αρχείο κινουμένων σχεδίων χαρακτήρων CryENGINE](/el/programming/caf-cryengine/)
 
 ## βιβλιογραφικές αναφορές
 * [CryEngine](https://en.wikipedia.org/wiki/CryEngine)

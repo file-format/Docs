@@ -65,8 +65,8 @@
 - [CAF - Βασικό αρχείο ήχου](/el/audio/caf/)
 
 **Βάση δεδομένων και προγραμματισμός**
-- [CAF - Μορφή αρχείου καταλόγου Cathy](/el/database/caf/)
-- [CAF - Αρχείο κινουμένων σχεδίων χαρακτήρων CryENGINE](/el/προγραμματισμός/caf-cryengine/)
+- [CAF - Cathy Catalog File Format](/database/caf/)
+- [CAF - CryENGINE Character Animation File](/programming/caf-cryengine/)
 
 ## βιβλιογραφικές αναφορές
 * [CAL3D](https://github.com/mp3butcher/Cal3D)

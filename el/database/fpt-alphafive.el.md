@@ -54,7 +54,7 @@
 
 ## Άλλα αρχεία FPT
 
-- [FPT - Πίνακας FoxPro](/el/βάση δεδομένων/fpt-foxpro/)
+- [FPT - Πίνακας FoxPro](/el/database/fpt-foxpro/)
 - [FPT - FileMaker Pro Database Memo File](/el/database/fpt/)
 
 ## βιβλιογραφικές αναφορές

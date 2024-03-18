@@ -84,8 +84,8 @@
 
 ## Άλλα αρχεία FPT
 
-- [FPT - Πίνακας FoxPro](/el/βάση δεδομένων/fpt-foxpro/)
-- [FPT - Αρχείο σημείωσης πινάκων Alpha Five](/el/βάση δεδομένων/fpt-alphafive/)
+- [FPT - Πίνακας FoxPro](/el/database/fpt-foxpro/)
+- [FPT - Αρχείο σημείωσης πινάκων Alpha Five](/el/database/fpt-alphafive/)
 
 ## βιβλιογραφικές αναφορές
 * [FileMaker](https://en.wikipedia.org/wiki/FileMaker)

@@ -37,7 +37,7 @@
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-Το [Aspose.Words](https://products.aspose.com/words/) είναι ένα σύνολο API που επιτρέπει σε οποιονδήποτε προγραμματιστή να μετατρέψει το [DOC](/el/word-processing/doc/) σε [BMP](/el/image/bmp /) μορφοποίηση χρησιμοποιώντας απλές γραμμές κώδικα. Είναι διαθέσιμο για πολλές γλώσσες προγραμματισμού, όπως [C#](/el/programming/cs/), [Java](/el/programming/java/), [Python](/el/programming/py/) και [C++](/el/programming/cpp/ ). Εκτός από το BMP, τα API του Aspose.Words σάς επιτρέπουν να μετατρέπετε αρχεία DOC σε πολλές άλλες δημοφιλείς μορφές αρχείων.
+Το [Aspose.Words](https://products.aspose.com/words/) είναι ένα σύνολο API που επιτρέπει σε οποιονδήποτε προγραμματιστή να μετατρέψει το [DOC](/el/word-processing/doc/) σε [BMP](/el/image/bmp/) μορφοποίηση χρησιμοποιώντας απλές γραμμές κώδικα. Είναι διαθέσιμο για πολλές γλώσσες προγραμματισμού, όπως [C#](/el/programming/cs/), [Java](/el/programming/java/), [Python](/el/programming/py/) και [C++](/el/programming/cpp/). Εκτός από το BMP, τα API του Aspose.Words σάς επιτρέπουν να μετατρέπετε αρχεία DOC σε πολλές άλλες δημοφιλείς μορφές αρχείων.
 
 ## βιβλιογραφικές αναφορές
 

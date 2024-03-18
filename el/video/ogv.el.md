@@ -61,7 +61,7 @@
 
 - [.MP3](/el/audio/mp3/) - MP3 Audio
 - [.FLAC](/el/audio/flac/) - Δωρεάν κωδικοποιητής ήχου χωρίς απώλειες
-- [.WAV](/el/ήχος/wav/) - Ήχος WAVE
+- [.WAV](/el/audio/wav/) - Ήχος WAVE
 
 ## Τι περιέχει το αρχείο OGV;
 

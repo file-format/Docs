@@ -75,7 +75,7 @@
 
 **Βάση δεδομένων**
 - [BAK - Εφεδρικό αρχείο βάσης δεδομένων](/el/database/bak/)
-- [BAK - Swiftpage Act! Αντίγραφο ασφαλείας βάσης δεδομένων](/el/βάση δεδομένων/bak-act/)
+- [BAK - Swiftpage Act! Αντίγραφο ασφαλείας βάσης δεδομένων](/el/database/bak-act/)
 - [BAK - Αντίγραφο ασφαλείας βάσης δεδομένων Microsoft SQL Server](/el/database/bak-sqlserver/)
 
 **Παιχνίδι**

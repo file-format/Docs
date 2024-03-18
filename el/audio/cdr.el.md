@@ -41,7 +41,7 @@
 
 - [.MP3](/el/audio/mp3/) - MP3 Audio
 - [.FLAC](/el/audio/flac/) - Δωρεάν κωδικοποιητής ήχου χωρίς απώλειες
-- [.WAV](/el/ήχος/wav/) - Ήχος WAVE
+- [.WAV](/el/audio/wav/) - Ήχος WAVE
 - [.OGG](/el/audio/ogg/) - Ogg Vorbis Audio
 
 ## Πώς να ανοίξετε το αρχείο CDR;

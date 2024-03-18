@@ -95,7 +95,7 @@ FROM DISK = 'C:\Path\To\Your\BackupFile.bak'
 
 **Βάση δεδομένων**
 - [BAK - Εφεδρικό αρχείο βάσης δεδομένων](/el/database/bak/)
-- [BAK - Swiftpage Act! Αντίγραφο ασφαλείας βάσης δεδομένων](/el/βάση δεδομένων/bak-act/)
+- [BAK - Swiftpage Act! Database Backup](/el/database/bak-act/)
 
 **Παιχνίδι**
 - [BAK - Terraria World ή Backup Player](/el/game/bak-terraria/)

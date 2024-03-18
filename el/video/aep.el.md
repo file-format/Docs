@@ -46,7 +46,7 @@
 * .EXR - Εικόνα OpenEXR
 * .M4A - MPEG-4 Ήχος
 * [.MP3](/el/audio/mp3/) - MP3 Audio
-* [.WAV](/el/ήχος/wav/) - Ήχος WAVE
+* [.WAV](/el/audio/wav/) - Ήχος WAVE
 * .AEPX - After Effects XML Project
 * .AET - Πρότυπο After Effects
 * .PRPROJ - Adobe Premiere Pro

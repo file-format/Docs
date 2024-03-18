@@ -41,12 +41,12 @@
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-Το [Aspose.Words](https://products.aspose.com/words/) είναι ένα σύνολο API που επιτρέπει σε οποιονδήποτε προγραμματιστή να μετατρέψει το [DOCX](/el/word-processing/docx/) σε [DOCM](/el/word-processing /docm/) μορφή χρησιμοποιώντας απλές γραμμές κώδικα. Είναι διαθέσιμο για πολλές γλώσσες προγραμματισμού όπως:
+Το [Aspose.Words](https://products.aspose.com/words/) είναι ένα σύνολο API που επιτρέπει σε οποιονδήποτε προγραμματιστή να μετατρέψει το [DOCX](/el/word-processing/docx/) σε [DOCM](/el/word-processing/docm/) μορφή χρησιμοποιώντας απλές γραμμές κώδικα. Είναι διαθέσιμο για πολλές γλώσσες προγραμματισμού όπως:
 
-* [C#](/el/προγραμματισμός/cs/)
-* [Java](/el/προγραμματισμός/java/)
-* [Python](/el/προγραμματισμός/py/)
-* [C++](/el/προγραμματισμός/cpp/).
+* [C#](/el/programming/cs/)
+* [Java](/el/programming/java/)
+* [Python](/el/programming/py/)
+* [C++](/el/programming/cpp/).
 
 Εκτός από το DOCM, τα API του Aspose.Words σάς επιτρέπουν να μετατρέπετε αρχεία DOCX σε πολλές άλλες δημοφιλείς μορφές αρχείων.
 

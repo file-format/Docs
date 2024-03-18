@@ -27,7 +27,7 @@
 
 ## Λειτουργίες που υποστηρίζονται σε αρχεία GNM
 
-Εφόσον το Gnumeric υποστηρίζει πολλές διαφορετικές μορφές αρχείων, μπορεί να μετατρέψει τα εγγενή αρχεία GNM σε [CSV](/el/spreadsheet/csv/), [XLSX](/el/spreadsheet/xlsx/), Microsoft Works (.wks), [HTML](/el/ web/html/), [LaTex](/el/word-processing/latex/), και [Lotus 1-2-3](/el/spreadsheet/123/).
+Εφόσον το Gnumeric υποστηρίζει πολλές διαφορετικές μορφές αρχείων, μπορεί να μετατρέψει τα εγγενή αρχεία GNM σε [CSV](/el/spreadsheet/csv/), [XLSX](/el/spreadsheet/xlsx/), Microsoft Works (.wks), [HTML](/el/web/html/), [LaTex](/el/word-processing/latex/), και [Lotus 1-2-3](/el/spreadsheet/123/).
 
 ## Το Gnumeric στο Github
 

@@ -50,7 +50,7 @@
 - [MP3](/el/audio/mp3/) - Αρχείο ήχου MP3
 - [OPUS](/el/audio/opus/) - Αρχείο ήχου Opus
 - [MID](/el/audio/mid/) - Αρχείο MIDI
-- [WAV](/el/ήχος/wav/) - Αρχείο ήχου WAVE
+- [WAV](/el/audio/wav/) - Αρχείο ήχου WAVE
 - [OGG](/el/audio/ogg/) - Αρχείο ήχου Ogg Vorbis
 - [FLAC](/el/audio/flac/) - Δωρεάν αρχείο κωδικοποιητή ήχου χωρίς απώλειες
 

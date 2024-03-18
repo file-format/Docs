@@ -93,7 +93,7 @@
 
 - [BIN - MacBinary Encoded File](/el/compression/bin/)
 - [BIN - Αρχείο εικόνας δυαδικού δίσκου](/el/disc-and-media/bin/)
-- [BIN - Εκτελέσιμο αρχείο Unix](/el/εκτελέσιμο/bin/)
+- [BIN - Εκτελέσιμο αρχείο Unix](/el/executable/bin/)
 - [BIN - BlackBerry IT Policy File](/el/settings/bin/)
 - [BIN - Sega Genesis Game ROM](/el/game/bin/)
 

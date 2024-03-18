@@ -37,7 +37,7 @@
 ## Ανοιχτού κώδικα HDR/HDRI API
 
 * **[imageinfo](https://github.com/xiaozhuai/imageinfo)** - Πολύ γρήγορη βιβλιοθήκη μονής κεφαλίδας μεταξύ πλατφόρμας [C++](/el/programming/cpp/) για λήψη μεγέθους και μορφής εικόνας χωρίς φόρτωση/αποκωδικοποίηση.
-* **[imgaeinfo-rs](https://github.com/xiaozhuai/imageinfo-rs)** - Σκουριάστε τη βιβλιοθήκη για λήψη μεγέθους και μορφής εικόνας χωρίς φόρτωση/αποκωδικοποίηση. Υποστηρίζει [.avif](/el/image/avif/), [.bmp](/el/image/bmp/), [.cur](/el/image/cur/), [.dds](/el/image/dds/), [. gif](/el/image/gif/), hdr (pic), [heic (heif)](/el/image/heic/), [.icns](/el/image/icns/), [.ico](/el/image/ico /), [.jp2](/el/image/jp2/), [jpeg (jpg)](/el/image/jpeg/), [jpx](/el/image/jpx/), ktx, [png](/el/image/png /), [psd](/el/image/psd/), qoi, tga, tiff (tif) και webp.
+* **[imgaeinfo-rs](https://github.com/xiaozhuai/imageinfo-rs)** - Σκουριάστε τη βιβλιοθήκη για λήψη μεγέθους και μορφής εικόνας χωρίς φόρτωση/αποκωδικοποίηση. Υποστηρίζει [.avif](/el/image/avif/), [.bmp](/el/image/bmp/), [.cur](/el/image/cur/), [.dds](/el/image/dds/), [. gif](/el/image/gif/), hdr (pic), [heic (heif)](/el/image/heic/), [.icns](/el/image/icns/), [.ico](/el/image/ico/), [.jp2](/el/image/jp2/), [jpeg (jpg)](/el/image/jpeg/), [jpx](/el/image/jpx/), ktx, [png](/el/image/png/), [psd](/el/image/psd/), qoi, tga, tiff (tif) και webp.
 * **[HdrHistogram](https://github.com/HdrHistogram/HdrHistogram)** - Υλοποίηση Java του HdrHistogram.
 
 ## βιβλιογραφικές αναφορές
