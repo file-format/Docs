@@ -18,7 +18,7 @@
 
 ## À propos de GLB en DAE
 
-L'utilisation de fichiers GLB dans des formats de fichiers 3D n'est pas quelque chose de nouveau. GLB est un format de fichier binaire 3D couramment utilisé qui représente des modèles 3D au format de transmission GL, c'est-à-dire ([glTF](/fr/3d/gltf/)). [DAE](/fr/3d/DAE/), quant à lui, est un format de fichier Digital Asset Exchange utilisé pour l'échange de données entre des applications 3D interactives. Les fichiers GLB peuvent être convertis au format de fichier DAE à l'aide de plusieurs applications gratuites en ligne. Si vous êtes un développeur d'applications cherchant à intégrer la fonctionnalité de conversion GLB vers DAE dans vos applications, vous pouvez utiliser l'API Aspose.3D pour y parvenir.
+L'utilisation de fichiers GLB dans des formats de fichiers 3D n'est pas quelque chose de nouveau. GLB est un format de fichier binaire 3D couramment utilisé qui représente des modèles 3D au format de transmission GL, c'est-à-dire ([glTF](/fr/3d/gltf/)). [DAE](/fr/3d/dae/), quant à lui, est un format de fichier Digital Asset Exchange utilisé pour l'échange de données entre des applications 3D interactives. Les fichiers GLB peuvent être convertis au format de fichier DAE à l'aide de plusieurs applications gratuites en ligne. Si vous êtes un développeur d'applications cherchant à intégrer la fonctionnalité de conversion GLB vers DAE dans vos applications, vous pouvez utiliser l'API Aspose.3D pour y parvenir.
 
 ## Conversion GLB en DAE - Démo gratuite
 

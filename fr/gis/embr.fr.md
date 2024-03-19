@@ -20,7 +20,7 @@
 
 Un fichier EMBR est un fichier SIG qui a été développé et utilisé par GEOREID Pty Ltd. Il contient des données géospatiales telles que la longueur et les volumes calculés à un point spécifique. Le format de fichier EMBR stocke ces données statistiques au format texte brut pouvant être ouvert dans un éditeur de texte pour être visualisé et modifié. Les systèmes SIG stockent des informations géologiques en référence à tout point lat-long qui représente la position d'absolution sur terre.
 
-[gpx](/fr/gis/gpx/), [geojson](/fr/gis/geojson/), [kml](/fr/gis/kml/) et [kmz](/fr/ gis/kmz/).
+[gpx](/fr/gis/gpx/), [geojson](/fr/gis/geojson/), [kml](/fr/gis/kml/) et [kmz](/fr/gis/kmz/).
 
 ## Format de fichier EMBR - Plus d'informations
 

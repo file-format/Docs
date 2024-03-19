@@ -19,7 +19,7 @@
 
 ## Qu'est-ce qu'un fichier RML ?
 
-Un fichier RML est un fichier de modèle de rapport avec le moteur de rapport [Elixir Repertoire](https://elixirtech.com/repertoire-2/). Le fichier modèle est utilisé pour générer des rapports avec la source de données connectée au système de fichiers Elixir. Les données sont lues et remplies dans le fichier de modèle RML et peuvent être exportées vers un certain nombre de formats de fichiers différents tels que [PDF](/fr/pdf/), [RTF](/fr/word-processing/rtf/) et tableur [XLS](/fr/feuille de calcul/xls/). Le moteur de reporting Elixir Repertoire peut être connecté à une grande variété de sources de données JDBC.
+Un fichier RML est un fichier de modèle de rapport avec le moteur de rapport [Elixir Repertoire](https://elixirtech.com/repertoire-2/). Le fichier modèle est utilisé pour générer des rapports avec la source de données connectée au système de fichiers Elixir. Les données sont lues et remplies dans le fichier de modèle RML et peuvent être exportées vers un certain nombre de formats de fichiers différents tels que [PDF](/fr/pdf/), [RTF](/fr/word-processing/rtf/) et tableur [XLS](/fr/spreadsheet/xls/). Le moteur de reporting Elixir Repertoire peut être connecté à une grande variété de sources de données JDBC.
 
 ## Format de fichier RML
 

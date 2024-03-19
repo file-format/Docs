@@ -18,7 +18,7 @@
 
 ## Qu'est-ce qu'un fichier SLDPRT ?
 
-Un fichier SLDPRT est un fichier CAO généré par le logiciel SolidWorks. C'est un format de fichier 3D qui contient les informations 3D d'un objet ou d'une "pièce". Plusieurs fichiers SLDPRT ayant des pièces compatibles peuvent être combinés pour créer un seul fichier d'assemblage SLDASM. Les fichiers SLDPRT peuvent être ouverts à l'aide du [logiciel SmartCAM CAD/CAM](https://www.solidworks.com/partner-product/smartcam-cadcam-software) de SolidWorks. Les convertisseurs d'application SolidWorks fournissent des outils faciles à convertir pour la conversion des fichiers de dessin SLDPRT en formats de données neutres tels que [TIFF](/fr/image/tiff/), [PDF](/fr/pdf/), OU [PDF/A](/fr/pdf/ un/).
+Un fichier SLDPRT est un fichier CAO généré par le logiciel SolidWorks. C'est un format de fichier 3D qui contient les informations 3D d'un objet ou d'une "pièce". Plusieurs fichiers SLDPRT ayant des pièces compatibles peuvent être combinés pour créer un seul fichier d'assemblage SLDASM. Les fichiers SLDPRT peuvent être ouverts à l'aide du [logiciel SmartCAM CAD/CAM](https://www.solidworks.com/partner-product/smartcam-cadcam-software) de SolidWorks. Les convertisseurs d'application SolidWorks fournissent des outils faciles à convertir pour la conversion des fichiers de dessin SLDPRT en formats de données neutres tels que [TIFF](/fr/image/tiff/), [PDF](/fr/pdf/), OU [PDF/A](/fr/pdf/a/).
 
 ## Format de fichier SLDPRT
 

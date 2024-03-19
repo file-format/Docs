@@ -188,7 +188,7 @@ Les serveurs Citrix et les technologies Citrix associées prennent en charge plu
 
 
 
-- **.exe** : les packages d'installation Citrix Receiver ou Citrix Workspace sont souvent disponibles au format exécutable pour différents systèmes d'exploitation (par exemple, [.exe](/fr/executable/exe/) pour Windows, [.dmg](/fr/compression/dmg /) pour macOS). Ces packages permettent aux utilisateurs d'installer un logiciel client sur leurs appareils.
+- **.exe** : les packages d'installation Citrix Receiver ou Citrix Workspace sont souvent disponibles au format exécutable pour différents systèmes d'exploitation (par exemple, [.exe](/fr/executable/exe/) pour Windows, [.dmg](/fr/compression/dmg/) pour macOS). Ces packages permettent aux utilisateurs d'installer un logiciel client sur leurs appareils.
 3. **Application Citrix Workspace (anciennement Citrix Receiver)** :
     
 
@@ -242,7 +242,7 @@ Les serveurs Citrix et les technologies Citrix associées prennent en charge plu
 
 
 
-- **.vhd, .vhdx** : Citrix XenDesktop et XenApp peuvent fournir des bureaux et applications virtuels à l'aide d'un disque dur virtuel [VHD](/fr/disc-and-media/vhd/) ou [VHDX](/fr/disc-and-media /vhdx/).
+- **.vhd, .vhdx** : Citrix XenDesktop et XenApp peuvent fournir des bureaux et applications virtuels à l'aide d'un disque dur virtuel [VHD](/fr/disc-and-media/vhd/) ou [VHDX](/fr/disc-and-media/vhdx/).
 6. **Métadonnées de publication de ressources** :
     
 

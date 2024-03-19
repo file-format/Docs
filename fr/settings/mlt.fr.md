@@ -55,14 +55,14 @@ Voici une liste de certains des formats de fichiers courants pris en charge par 
 
 
 
-- [MP4](/fr/vidéo/mp4/)
-- [MOV](/fr/vidéo/mov/)
-- [AVI](/fr/vidéo/avi/)
-- [MKV](/fr/vidéo/mkv/)
-- [WebM](/fr/vidéo/webm/)
-- [MPEG](/fr/vidéo/mpeg/)
-- [FLV](/fr/vidéo/flv/)
-- [WMV](/fr/vidéo/wmv/)
+- [MP4](/fr/video/mp4/)
+- [MOV](/fr/video/mov/)
+- [AVI](/fr/video/avi/)
+- [MKV](/fr/video/mkv/)
+- [WebM](/fr/video/webm/)
+- [MPEG](/fr/video/mpeg/)
+- [FLV](/fr/video/flv/)
+- [WMV](/fr/video/wmv/)
 - et plus...
 2. **Formats audio :**
     
@@ -123,9 +123,9 @@ Voici une liste de certains des formats de fichiers courants pris en charge par 
 
 - [MP4 (codec H.264)](/fr/video/mp4/)
 - [WebM (codec VP9)](/fr/video/webm/)
-- [AVI](/fr/vidéo/avi/)
-- [MOV](/fr/vidéo/mov/)
-- [MKV](/fr/vidéo/mkv/)
+- [AVI](/fr/video/avi/)
+- [MOV](/fr/video/mov/)
+- [MKV](/fr/video/mkv/)
 - et plus...
 2. **Formats audio :**
     

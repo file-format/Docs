@@ -28,6 +28,6 @@ Les fichiers ASC sont enregistrés sous forme de fichiers texte pouvant être ou
 
 ## Référence ##
 
-* [format de fichier .swf](/fr/page-description-langue/swf/)
+* [format de fichier .swf](/fr/page-description-language/swf/)
 * [Adobe Media Encoder](https://www.adobe.com/products/media-encoder.html)
 

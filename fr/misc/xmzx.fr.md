@@ -23,7 +23,7 @@ Un fichier XMZX est un fichier de test d'examen permettant d'effectuer des tests
 
 ## Format de fichier XMZX - Plus d'informations
 
-Les fichiers XMZX sont utilisés par la plateforme d'évaluation numérique ExamSoft, utilisée par diverses organisations pour effectuer des tests de certification. La plateforme dispose de ses propres serveurs cloud en ligne sur lesquels tous les tests terminés sont téléchargés automatiquement. Les tests sont effectués soit dans un centre d'examen, soit les examinateurs peuvent également passer le test des candidats sur leur propre ordinateur. ExamSoft est disponible sur les systèmes d'exploitation Windows et macOS. [XSMX](/fr/misc/xsmx.md/) est un autre format de fichier de test d'examen d'ExamSoft.
+Les fichiers XMZX sont utilisés par la plateforme d'évaluation numérique ExamSoft, utilisée par diverses organisations pour effectuer des tests de certification. La plateforme dispose de ses propres serveurs cloud en ligne sur lesquels tous les tests terminés sont téléchargés automatiquement. Les tests sont effectués soit dans un centre d'examen, soit les examinateurs peuvent également passer le test des candidats sur leur propre ordinateur. ExamSoft est disponible sur les systèmes d'exploitation Windows et macOS. XSMX est un autre format de fichier de test d'examen d'ExamSoft.
 
 ## Comment ouvrir un fichier XMZX?
 

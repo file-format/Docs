@@ -43,7 +43,7 @@ WEBA est un fichier audio, il ne peut donc pas être converti en fichier de sous
 
 ## Comment convertir WEBA vers d'autres formats audio ?
 
-Les fichiers WEBA peuvent être convertis en d'autres formats de fichiers audio. Comme il est basé sur le format de fichier de conteneur gratuit et open source OGG, de nombreuses API et applications capables de lire et de convertir WEBA vers d'autres formats de fichiers tels que [MP3](/fr/audio/mp3/), [MP4](/fr/audio/ mp4/), [FLAC](/fr/audio/flac/), et bien d'autres. FFmpeg est l'un de ces logiciels qui peut convertir WEBA en un fichier MP3.
+Les fichiers WEBA peuvent être convertis en d'autres formats de fichiers audio. Comme il est basé sur le format de fichier de conteneur gratuit et open source OGG, de nombreuses API et applications capables de lire et de convertir WEBA vers d'autres formats de fichiers tels que [MP3](/fr/audio/mp3/), [MP4](/fr/audio/mp4/), [FLAC](/fr/audio/flac/), et bien d'autres. FFmpeg est l'un de ces logiciels qui peut convertir WEBA en un fichier MP3.
 
 ## Références
 

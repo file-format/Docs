@@ -40,9 +40,9 @@ Le format DV était populaire dans le passé, les formats vidéo plus récents c
 
 Si vous avez un fichier DV et souhaitez le convertir dans un format différent, vous pouvez utiliser un logiciel de conversion vidéo pour le convertir dans un format plus largement pris en charge, par exemple
 
-- [MP4](/fr/vidéo/mp4/)
-- [AVI](/fr/vidéo/avi/)
-- [MOV](/fr/vidéo/mov/)
+- [MP4](/fr/video/mp4/)
+- [AVI](/fr/video/avi/)
+- [MOV](/fr/video/mov/)
 
 Certains logiciels qui peuvent être utiles à cet égard sont
 

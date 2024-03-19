@@ -24,7 +24,7 @@ NEF est le format de fichier d'image RAW de Nikon, capturé avec des appareils p
 
 Les fichiers NEF sont écrits sur la carte mémoire de l'appareil photo sous forme de fichiers binaires au format de fichier propriétaire de Nikon. Ceux-ci sont écrits sur la carte mémoire de l'appareil photo sous forme brute qui ne nécessite aucun ajustement des données de caractéristiques de l'image telles que la balance des blancs, la teinte, la tonalité et la netteté. Les modifications de l'utilisateur sont enregistrées sous forme de jeux d'instructions à côté des données d'image brutes. Cela permet de conserver intact le contenu d'origine des données d'image et de revenir à tous les jeux d'instructions précédents.
 
-Les fichiers NEF peuvent conserver des données 12 bits ou 14 bits selon l'appareil photo, fournissant ainsi une image avec une plage tonale bien plus grande par rapport à un [JPEG](/fr/image/jpeg/) ou [TIFF](/fr/ image/tiff/) images.
+Les fichiers NEF peuvent conserver des données 12 bits ou 14 bits selon l'appareil photo, fournissant ainsi une image avec une plage tonale bien plus grande par rapport à un [JPEG](/fr/image/jpeg/) ou [TIFF](/fr/image/tiff/) images.
 
 ## Logiciel pouvant ouvrir le fichier Nikon NEF
 

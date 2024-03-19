@@ -61,7 +61,7 @@ En plus de cela, il existe plusieurs applications en ligne qui peuvent convertir
 Autodesk Fusion 360 peut convertir des fichiers STP aux formats de fichiers 3D et CAO suivants.
 
 * [OBJ](/fr/3d/obj/)
-* [3MF](/fr/3j/3mf/)
+* [3MF](/fr/3d/3mf/)
 * [DWG](/fr/cad/dwg/)
 * [DXF](/fr/cad/dxf/)
 * [ASM](/fr/cad/asm/)
@@ -69,7 +69,7 @@ Autodesk Fusion 360 peut convertir des fichiers STP aux formats de fichiers 3D e
 * [STL](/fr/cad/stl/)
 * [FBX](/fr/3d/fbx/)
 * F3D
-* [USD](/fr/3j/usd/)
+* [USD](/fr/3d/usd/)
 
 ## Références
 
