@@ -48,7 +48,7 @@ Estos archivos retienen el contenido del documento de tal manera que si, por eje
 
 El formato del documento XPS incluye un conjunto bien definido de partes y relaciones, cada una de las cuales cumple un propósito particular en el documento. El formato también amplía las funciones del paquete, incluidas las firmas digitales, las miniaturas y el intercalado.
 
-Un documento XPS típico tiene el siguiente aspecto y se puede analizar a la luz del formato de archivo XPS [especificaciones](https://www.ecma-international.org/activities/XML%20Paper%20Specification/XPS%20Standard.pdf).
+Un documento XPS típico tiene el siguiente aspecto y se puede analizar a la luz del formato de archivo XPS especificaciones.
 
 {{< figure src="../XPS-2.png" alt="Formato de archivo XPS" >}}
 

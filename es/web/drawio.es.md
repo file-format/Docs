@@ -79,5 +79,3 @@ El XML de salida generado con la exportación se muestra a continuación.
 
 * [DRAWIO - Github](https://github.com/jgraph/drawio)
 * [DRAWIO - Aplicación en línea](https://app.diagrams.net/)
-* [Diagramas.Net](https://www.diagramas.net/)
-
