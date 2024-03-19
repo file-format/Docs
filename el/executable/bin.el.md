@@ -73,6 +73,6 @@ _Να είστε προσεκτικοί όταν αντιμετωπίζετε α
 
 ## βιβλιογραφικές αναφορές
 
-* [Πώς να εκτελέσετε δυαδικά αρχεία στο Linux](https://linuzhint.com/execute-binary-files-in-linux/)
+* [Πώς να εκτελέσετε δυαδικά αρχεία στο Linux](https://linuxhint.com/execute-binary-files-in-linux/)
 
 

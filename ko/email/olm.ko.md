@@ -24,7 +24,3 @@
 
 OLM은 Application/octet-stream MIME 유형의 바이너리 파일입니다. OLM 파일 형식의 기술 사양은 Microsoft에서 공개적으로 사용할 수 없으며 개발자가 참조할 수 있는 형식 세부 정보가 없습니다. 그러나 Aspose.Email과 같은 Microsoft Windows 운영 체제에서 사용하기 위해 OLM 파일 형식을 읽고 이를 PST 파일에 쓸 수 있는 일부 API가 있습니다.
 
-## 참고문헌
-
-* [OLM 파일 형식?](https://social.msdn.microsoft.com/Forums/office/en-US/4ce689ee-8fad-4362-a0eb-06382646a845/olm-file-format?forum=os_binaryfile)
-

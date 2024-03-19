@@ -23,8 +23,3 @@
 ## OLM Dosya Biçimi
 
 OLM, Application/octet-stream MIME türündeki ikili dosyalardır. OLM dosya biçiminin teknik özellikleri Microsoft'tan açık bir şekilde mevcut değildir ve geliştiricinin referansı için hiçbir biçim ayrıntısı yoktur. Bununla birlikte, Aspose.Email gibi OLM dosya formatını okuyabilen ve bunları Microsoft Windows İşletim Sisteminde kullanmak için bir PST dosyasına yazabilen bazı API'ler vardır.
-
-## Referanslar
-
-* [OLM Dosya Biçimi?](https://social.msdn.microsoft.com/Forums/office/en-US/4ce689ee-8fad-4362-a0eb-06382646a845/olm-file-format?forum=os_binaryfile)
-

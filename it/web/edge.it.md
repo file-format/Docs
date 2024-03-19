@@ -26,5 +26,5 @@ I file EDGE vengono salvati in un formato di testo normale e utilizza jQuery per
 
 ## Riferimenti
 
-* [Adobe Edge](https://www.adobe.com/sea/products/edge-animate.html)
+* [Adobe Edge](https://en.wikipedia.org/wiki/Adobe_Edge_Animate)
 

@@ -26,5 +26,5 @@ Los archivos EDGE se guardan en formato de texto sin formato y utilizan jQuery p
 
 ## Referencias
 
-* [Adobe Edge](https://www.adobe.com/sea/products/edge-animate.html)
+* [Adobe Edge](https://en.wikipedia.org/wiki/Adobe_Edge_Animate)
 

@@ -21,7 +21,7 @@
 
 Ένα αρχείο FMW είναι ένα αρχείο έργου που δημιουργήθηκε με το λογισμικό FME Workbench (διατίθεται ως μέρος της σουίτας επιτραπέζιων υπολογιστών FME) που χρησιμοποιείται για μετασχηματισμό χωρικών δεδομένων. Περιλαμβάνει ρυθμίσεις καθορισμένες από το χρήστη που χρησιμοποιούνται για χειρισμό χωρικών δεδομένων, όπως σύνολα δεδομένων εισόδου, ιδιότητες μετάφρασης, προβολές και ρυθμίσεις εξόδου. Οι ρυθμίσεις χειρισμού χωρικών δεδομένων αποθηκεύονται ως οπτική διάταξη και είναι εύκολο να επεξεργαστούν και να αποθηκευτούν ξανά.
 
-Μπορείτε να ανοίξετε αρχεία FMW χρησιμοποιώντας το [Safe Software FME Desktop](https://www.safe.com/fme/fme-desktop/).
+Μπορείτε να ανοίξετε αρχεία FMW χρησιμοποιώντας το [Safe Software FME Desktop](https://fme.safe.com/platform/).
 
 ## Μορφή αρχείου FMW - Περισσότερες πληροφορίες
 
@@ -70,7 +70,5 @@
 
 ## βιβλιογραφικές αναφορές
 
-* [Safe Software FME Desktop](https://www.safe.com/fme/fme-desktop/)
-
+* [Safe Software FME Desktop](https://fme.safe.com/platform/)
 * [FMW Quick Facts](https://docs.safe.com/fme/html/FME_Desktop_Documentation/FME_ReadersWriters/fmw/quick_facts_fmw.htm)
-

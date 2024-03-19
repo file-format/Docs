@@ -26,5 +26,5 @@ Pliki ESPROJ są zapisywane jako pliki binarne, a ich zawartość nie jest czyte
 
 ## Bibliografia
 
-* [Adobe Edge](https://www.adobe.com/sea/products/edge-animate.html)
+* [Adobe Edge](https://en.wikipedia.org/wiki/Adobe_Edge_Animate)
 

@@ -23,8 +23,3 @@ Az .olm kiterjesztésű fájl egy Microsoft Outlook fájl Mac operációs rendsz
 ## OLM fájlformátum
 
 Az OLM Application/octet-stream MIME típusú bináris fájlok. Az OLM fájlformátum műszaki specifikációi nem érhetők el nyíltan a Microsofttól, és nem állnak rendelkezésre formátumrészletek a fejlesztők számára. Vannak azonban olyan API-k, amelyek képesek olvasni az OLM fájlformátumot, és ezeket PST-fájlba írják Microsoft Windows operációs rendszeren való használatra, mint például az Aspose.Email.
-
-## Hivatkozások
-
-* [OLM fájlformátum?](https://social.msdn.microsoft.com/Forums/office/en-US/4ce689ee-8fad-4362-a0eb-06382646a845/olm-file-format?forum=os_binaryfile)
-

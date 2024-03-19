@@ -26,5 +26,5 @@ File ESPROJ disimpan sebagai file biner dan isinya tidak dapat dibaca manusia. D
 
 ## Referensi
 
-* [Adobe Edge](https://www.adobe.com/sea/products/edge-animate.html)
+* [Adobe Edge](https://en.wikipedia.org/wiki/Adobe_Edge_Animate)
 

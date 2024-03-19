@@ -25,7 +25,3 @@
 
 รูปแบบ eBook ของ Martview เป็นกรรมสิทธิ์และทำงานเป็นคอนเทนเนอร์สำหรับรูปภาพ ตัวแปลงแบบโอเพ่นซอร์สช่วยให้ผู้อ่าน eBook สามารถแปลง [PDF](/th/pdf/), [GIF](/th/image/gif/), [GIF](/th/image/gif/), [PNG](/th/image/png/), [RAR](/th/compression/rar/) และ [ZIP](/th/compression/zip/) เป็นรูปแบบของ Martview โปรดทราบว่าไฟล์ RAR และ ZIP จะต้องมีรูปภาพ ไฟล์ MART อาจเหมาะสำหรับการทำงานไฟล์เดียว แต่ถ้าคุณมี ebooks จำนวนมากในรูปแบบที่แตกต่างกัน แน่นอนว่าคุณไม่ต้องการใช้เวลาในการแปลงทั้งหมดเป็นรูปแบบเดียวเพื่อให้สามารถอ่านได้ในเครื่องอ่าน ebook .
 
-## อ้างอิง
-
-* [Martview โปรแกรมอ่าน Ebook ที่ดีที่สุดสำหรับ PDF E-Book](https://www.ghacks.net/2011/04/15/martview-best-ebook-reader-for-pdf-e-books/)
-

@@ -24,5 +24,5 @@ Quando um arquivo EPIBRW é clicado duas vezes, ele pode ser aberto no navegador
 
 ## Referências
 
-* [Adobe Edge](https://www.adobe.com/sea/products/edge-animate.html)
+* [Adobe Edge](https://en.wikipedia.org/wiki/Adobe_Edge_Animate)
 

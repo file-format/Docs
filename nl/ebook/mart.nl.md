@@ -25,7 +25,3 @@ De MART-bestanden staan bekend als e-publicatiebestanden die worden gebruikt doo
 
 Het eBook-formaat van Martview is gepatenteerd en werkt als een container voor afbeeldingen. Met open source-converters kunnen eBook-lezers [PDF](/nl/pdf/), [GIF](/nl/image/gif/), [GIF](/nl/image/gif/), [PNG](/nl/image/png/), [RAR](/nl/compression/rar/) en [ZIP](/nl/compression/zip/) documenten naar het formaat van Martview. Merk op dat de RAR- en ZIP-bestanden afbeeldingen moeten bevatten. De MART-bestanden zijn misschien goed geschikt voor het werken met afzonderlijke bestanden, maar als je veel e-boeken in verschillende formaten hebt, dan wil je zeker geen tijd besteden aan het converteren van ze allemaal naar een enkel formaat om ze in de e-boeklezer te kunnen lezen .
 
-## Referenties
-
-* [Martview, beste e-boeklezer voor pdf-e-books](https://www.ghacks.net/2011/04/15/martview-best-ebook-reader-for-pdf-e-books/)
-

@@ -26,5 +26,5 @@ ESPROJ-bestanden worden opgeslagen als binaire bestanden en de inhoud ervan is n
 
 ## Referenties
 
-* [Adobe Edge](https://www.adobe.com/sea/products/edge-animate.html)
+* [Adobe Edge](https://en.wikipedia.org/wiki/Adobe_Edge_Animate)
 

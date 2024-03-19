@@ -26,5 +26,5 @@ I file ESPROJ vengono salvati come file binari e il suo contenuto non è leggibi
 
 ## Riferimenti
 
-* [Adobe Edge](https://www.adobe.com/sea/products/edge-animate.html)
+* [Adobe Edge](https://en.wikipedia.org/wiki/Adobe_Edge_Animate)
 

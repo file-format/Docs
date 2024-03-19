@@ -37,6 +37,4 @@
 
 ## Αναφορά ##
 
-* [Rapid Euphoria](https://www.rapideuphoria.com/)
 * [OpenEuphoria Forums](https://openeuphoria.org/forum/index.wc)
-

@@ -26,5 +26,5 @@ Les fichiers EDGE sont enregistrés au format texte brut et utilisent jQuery pou
 
 ## Références
 
-* [Adobe Edge](https://www.adobe.com/sea/products/edge-animate.html)
+* [Adobe Edge](https://en.wikipedia.org/wiki/Adobe_Edge_Animate)
 

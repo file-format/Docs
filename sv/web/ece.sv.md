@@ -28,5 +28,5 @@ Klientwebbläsare kan komma åt innehållet på ECE-servrar via HTTP/REST API. F
 
 ## Referenser
 
-* [Adobe Edge](https://www.adobe.com/sea/products/edge-animate.html)
+* [Adobe Edge](https://en.wikipedia.org/wiki/Adobe_Edge_Animate)
 

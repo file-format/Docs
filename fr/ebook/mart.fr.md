@@ -25,7 +25,3 @@ Les fichiers MART sont appelés fichiers de publication électronique utilisés 
 
 Le format eBook de Martview est propriétaire et fonctionne comme un conteneur pour les images. Les convertisseurs open source permettent aux lecteurs de livres électroniques de convertir [PDF](/fr/pdf/), [GIF](/fr/image/gif/), [GIF](/fr/image/gif/), [PNG](/fr/image/png/), Documents [RAR](/fr/compression/rar/) et [ZIP](/fr/compression/zip/) au format Martview. Notez que les fichiers RAR et ZIP doivent contenir des images. Les fichiers MART peuvent être bien adaptés au fonctionnement de fichiers uniques, mais si vous avez de nombreux ebooks dans différents formats, vous ne voulez sûrement pas passer du temps à les convertir tous en un seul format juste pour pouvoir les lire dans le lecteur d'ebook. .
 
-## Références
-
-* [Martview, meilleur lecteur d'ebook pour les livres électroniques PDF](https://www.ghacks.net/2011/04/15/martview-best-ebook-reader-for-pdf-e-books/)
-

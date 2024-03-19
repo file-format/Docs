@@ -23,5 +23,3 @@
 ## βιβλιογραφικές αναφορές
 
 * [PCX - By Wikipedia](https://en.wikipedia.org/wiki/PCX)
-* [Εγχειρίδιο τεχνικής αναφοράς μορφής αρχείου ZSoft PCX](http://qzx.com/pc-gpe/pcx.txt)
-

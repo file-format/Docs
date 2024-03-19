@@ -26,5 +26,5 @@ EDGE फाइलें एक सादे पाठ प्रारूप म�
 
 ## संदर्भ
 
-* [एडोब एज](https://www.adobe.com/sea/products/edge-animate.html)
+* [एडोब एज](https://en.wikipedia.org/wiki/Adobe_Edge_Animate)
 

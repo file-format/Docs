@@ -43,5 +43,3 @@ DDS_HEADER          header;
 ## βιβλιογραφικές αναφορές
 
 * [DDS - Από τη Wikipedia](https://en.wikipedia.org/wiki/DirectDraw_Surface)
-* [Εγχειρίδιο τεχνικής αναφοράς μορφής αρχείου ZSoft PCX](http://qzx.com/pc-gpe/pcx.txt)
-

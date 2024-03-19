@@ -26,5 +26,5 @@ EDGE 文件以纯文本格式保存，并使用 jQuery 启用动画。 EDGE 动�
 
 ## 参考
 
-* [Adobe Edge](https://www.adobe.com/sea/products/edge-animate.html)
+* [Adobe Edge](https://en.wikipedia.org/wiki/Adobe_Edge_Animate)
 

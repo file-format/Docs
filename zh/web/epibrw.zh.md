@@ -24,5 +24,5 @@ EPIBRW 文件是托管在基于 Microsoft IIS 的 Web 服务器上的通用文�
 
 ## 参考
 
-* [Adobe Edge](https://www.adobe.com/sea/products/edge-animate.html)
+* [Adobe Edge](https://en.wikipedia.org/wiki/Adobe_Edge_Animate)
 

@@ -47,6 +47,4 @@
 Χρησιμοποιώντας τα παραπάνω λογισμικά, μπορείτε επίσης να μετατρέψετε αρχεία ENC σε μορφή [.MXL](/audio/mxl/) (Compressed MusicXML).
 
 ## βιβλιογραφικές αναφορές
-* [Λογισμικό Encore](https://en.wikipedia.org/wiki/Encore_(λογισμικό))
-
-
+* [Encore Software](https://en.wikipedia.org/wiki/Encore_(software))

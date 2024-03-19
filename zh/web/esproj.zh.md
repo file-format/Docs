@@ -26,5 +26,5 @@ ESPROJ 文件保存为二进制文件，其内容不可读。 ESPROJ 文件目�
 
 ## 参考
 
-* [Adobe Edge](https://www.adobe.com/sea/products/edge-animate.html)
+* [Adobe Edge](https://en.wikipedia.org/wiki/Adobe_Edge_Animate)
 

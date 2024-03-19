@@ -24,7 +24,3 @@ Un fichier avec l'extension .olm est un fichier Microsoft Outlook pour le systè
 
 Les OLM sont des fichiers binaires de type Application/octet-stream MIME. Les spécifications techniques du format de fichier OLM ne sont pas disponibles ouvertement auprès de Microsoft et aucun détail de format n'est disponible pour la référence du développeur. Cependant, certaines API peuvent lire le format de fichier OLM et les écrire dans un fichier PST pour une utilisation sur le système d'exploitation Microsoft Windows, tel que Aspose.Email.
 
-## Références
-
-* [Format de fichier OLM ?](https://social.msdn.microsoft.com/Forums/office/en-US/4ce689ee-8fad-4362-a0eb-06382646a845/olm-file-format?forum=os_binaryfile)
-

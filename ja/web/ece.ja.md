@@ -28,5 +28,5 @@ ECE ファイルはディスクに保存されませんが、要求に応じて�
 
 ## 参考文献
 
-* [Adobe Edge](https://www.adobe.com/sea/products/edge-animate.html)
+* [Adobe Edge](https://en.wikipedia.org/wiki/Adobe_Edge_Animate)
 

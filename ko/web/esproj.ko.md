@@ -26,5 +26,5 @@ ESPROJ 파일은 바이너리 파일로 저장되며 그 내용은 사람이 읽
 
 ## 참고문헌
 
-* [어도비 엣지](https://www.adobe.com/sea/products/edge-animate.html)
+* [어도비 엣지](https://en.wikipedia.org/wiki/Adobe_Edge_Animate)
 

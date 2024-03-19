@@ -23,8 +23,3 @@
 ## OLM ファイル形式
 
 OLM は、Application/octet-stream MIME タイプのバイナリ ファイルです。 OLM ファイル形式の技術仕様は Microsoft から公開されておらず、開発者が参照できる形式の詳細はありません。ただし、OLM ファイル フォーマットを読み取って PST ファイルに書き込み、Aspose.Email などの Microsoft Windows オペレーティング システムで使用できる API がいくつかあります。
-
-## 参考文献
-
-* [OLM ファイル形式?](https://social.msdn.microsoft.com/Forums/office/en-US/4ce689ee-8fad-4362-a0eb-06382646a845/olm-file-format?forum=os_binaryfile)
-

@@ -26,5 +26,5 @@ Các tệp EDGE được lưu ở định dạng văn bản thuần túy và s�
 
 ## Người giới thiệu
 
-* [Adobe Edge](https://www.adobe.com/sea/products/edge-animate.html)
+* [Adobe Edge](https://en.wikipedia.org/wiki/Adobe_Edge_Animate)
 

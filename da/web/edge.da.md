@@ -27,6 +27,6 @@ EDGE-filer gemmes i et almindeligt tekstformat og bruger jQuery til at aktivere 
 
 ## Referencer
 
-* [Adobe Edge](https://www.adobe.com/sea/products/edge-animate.html)
+* [Adobe Edge](https://en.wikipedia.org/wiki/Adobe_Edge_Animate)
 
 

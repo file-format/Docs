@@ -26,5 +26,5 @@ Fișierele ESPROJ sunt salvate ca fișiere binare, iar conținutul acestuia nu p
 
 ## Referințe
 
-* [Adobe Edge](https://www.adobe.com/sea/products/edge-animate.html)
+* [Adobe Edge](https://en.wikipedia.org/wiki/Adobe_Edge_Animate)
 

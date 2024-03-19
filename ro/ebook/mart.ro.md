@@ -25,7 +25,3 @@ Fișierele MART sunt cunoscute ca fișiere de publicație electronică utilizate
 
 Formatul eBook al lui Martview este proprietar și funcționează ca un container pentru imagini. Convertoarele open source permit cititorilor de cărți electronice să convertească [PDF](/ro/pdf/), [GIF](/ro/image/gif/), [GIF](/ro/image/gif/), [PNG](/ro/image/png/), Documente [RAR](/ro/compression/rar/) și [ZIP](/ro/compression/zip/) în formatul Martview. Rețineți că fișierele RAR și ZIP trebuie să conțină imagini. Fișierele MART pot fi potrivite pentru funcționarea cu fișiere individuale, dar dacă aveți multe cărți electronice în formate diferite, atunci cu siguranță nu doriți să pierdeți timp transformându-le pe toate într-un singur format doar pentru a le putea citi în cititorul de cărți electronice. .
 
-## Referințe
-
-* [Martview, cel mai bun cititor de cărți electronice pentru cărți electronice PDF](https://www.ghacks.net/2011/04/15/martview-best-ebook-reader-for-pdf-e-books/)
-

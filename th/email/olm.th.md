@@ -23,8 +23,3 @@
 ## รูปแบบไฟล์ OLM
 
 OLM เป็นไฟล์ไบนารีที่มีประเภท MIME ของ Application/octet-stream ข้อกำหนดทางเทคนิคของรูปแบบไฟล์ OLM ไม่พร้อมใช้งานอย่างเปิดเผยจาก Microsoft และไม่มีรายละเอียดรูปแบบสำหรับการอ้างอิงของนักพัฒนา อย่างไรก็ตาม มี API บางตัวที่สามารถอ่านรูปแบบไฟล์ OLM และเขียนลงในไฟล์ PST สำหรับใช้งานบนระบบปฏิบัติการ Microsoft Windows เช่น Aspose.Email
-
-## อ้างอิง
-
-* [รูปแบบไฟล์ OLM?](https://social.msdn.microsoft.com/Forums/office/en-US/4ce689ee-8fad-4362-a0eb-06382646a845/olm-file-format?forum=os_binaryfile)
-

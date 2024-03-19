@@ -24,8 +24,3 @@ File MART dikenal sebagai file publikasi elektronik yang digunakan oleh perangka
 ## Format File MART ##
 
 Format eBuku Martview adalah hak milik dan berfungsi sebagai wadah untuk gambar. Pengonversi sumber terbuka memungkinkan pembaca eBook mengonversi [PDF](/id/pdf/), [GIF](/id/image/gif/), [GIF](/id/image/gif/), [PNG](/id/image/png/), [RAR](/id/compression/rar/) dan [ZIP](/id/compression/zip/) dokumen ke format Martview. Perhatikan bahwa file RAR dan ZIP harus berisi gambar. File MART mungkin cocok untuk file tunggal yang berfungsi, tetapi jika Anda memiliki banyak ebook dalam format yang berbeda, maka Anda pasti tidak ingin menghabiskan waktu untuk mengonversi semuanya menjadi satu format hanya untuk dapat membacanya di pembaca ebook. .
-
-## Referensi
-
-* [Martview, Pembaca Ebook Terbaik Untuk E-Book PDF](https://www.ghacks.net/2011/04/15/martview-best-ebook-reader-for-pdf-e-books/)
-

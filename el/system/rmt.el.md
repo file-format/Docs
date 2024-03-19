@@ -45,5 +45,4 @@
 
 ## Αναφορά
 
-* [Τι είναι ένας δρομολογητής;](https://en.wikipedia.org/wiki/Router_(υπολογιστική))
-
+* [What is a Router?](https://en.wikipedia.org/wiki/Router_(computing))

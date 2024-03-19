@@ -24,5 +24,5 @@ EPIBRW 파일을 더블 클릭하면 내용을 표시하는 브라우저에서 �
 
 ## 참고문헌
 
-* [어도비 엣지](https://www.adobe.com/sea/products/edge-animate.html)
+* [어도비 엣지](https://en.wikipedia.org/wiki/Adobe_Edge_Animate)
 

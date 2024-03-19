@@ -29,5 +29,3 @@
 
 * [Πώς να αποκρύψετε τον κώδικα VBA από τους χρήστες;](https://support.microsoft.com/en-us/office/hide-vba-code-from-users-ce6ab610-af07-4008-91e0-1ef1b796ff18)
 * [Εργαλεία MDB](https://github.com/mdbtools/mdbtools/blob/master/HACKING)
-* [Ο ανεπίσημος οδηγός MDB](http://jabakobob.net/mdb/)
-

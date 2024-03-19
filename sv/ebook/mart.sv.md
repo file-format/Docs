@@ -25,7 +25,3 @@ MART-filerna är kända som e-publikationsfiler som används av MartView-program
 
 Martviews eBook-format är proprietärt och fungerar som en behållare för bilder. Konverterare med öppen källkod gör det möjligt för e-boksläsare att konvertera [PDF](/sv/pdf/), [GIF](/sv/image/gif/), [GIF](/sv/image/gif/), [PNG](/sv/image/png/), [RAR](/sv/compression/rar/) och [ZIP](/sv/compression/zip/) dokument till Martviews format. Observera att RAR- och ZIP-filerna måste innehålla bilder. MART-filerna kan vara väl lämpade för enstaka filer som fungerar, men om du har många e-böcker i olika format, så vill du verkligen inte lägga tid på att konvertera dem alla till ett enda format bara för att kunna läsa dem i e-boksläsaren .
 
-## Referenser
-
-* [Martview, bästa e-bokläsare för PDF-e-böcker](https://www.ghacks.net/2011/04/15/martview-best-ebook-reader-for-pdf-e-books/)
-

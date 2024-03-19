@@ -26,5 +26,5 @@ Az EDGE fájlok egyszerű szöveges formátumban kerülnek mentésre, és a jQue
 
 ## Hivatkozások
 
-* [Adobe Edge](https://www.adobe.com/sea/products/edge-animate.html)
+* [Adobe Edge](https://en.wikipedia.org/wiki/Adobe_Edge_Animate)
 

@@ -26,5 +26,5 @@ Les fichiers ESPROJ sont enregistrés sous forme de fichiers binaires et leur co
 
 ## Références
 
-* [Adobe Edge](https://www.adobe.com/sea/products/edge-animate.html)
+* [Adobe Edge](https://en.wikipedia.org/wiki/Adobe_Edge_Animate)
 

@@ -24,7 +24,3 @@
 
 OLM הם קבצים בינאריים עם סוג MIME‏ של Application/octet-stream. המפרט הטכני של פורמט קובץ OLM אינו זמין בגלוי מ-Microsoft ואין פרטי פורמט זמינים לעיון המפתח. עם זאת, ישנם כמה ממשקי API שיכולים לקרוא פורמט קובץ OLM ולכתוב אותם לקובץ PST לשימוש במערכת ההפעלה Microsoft Windows כגון Aspose.Email.
 
-## הפניות
-
-* [פורמט קובץ OLM?](https://social.msdn.microsoft.com/Forums/office/en-US/4ce689ee-8fad-4362-a0eb-06382646a845/olm-file-format?forum=os_binaryfile)
-

@@ -24,5 +24,5 @@ EPIBRW ファイルをダブルクリックすると、内容を表示するブ�
 
 ## 参考文献
 
-* [Adobe Edge](https://www.adobe.com/sea/products/edge-animate.html)
+* [Adobe Edge](https://en.wikipedia.org/wiki/Adobe_Edge_Animate)
 

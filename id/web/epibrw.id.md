@@ -24,5 +24,5 @@ Ketika file EPIBRW diklik dua kali, itu mungkin terbuka di browser yang menampil
 
 ## Referensi
 
-* [Adobe Edge](https://www.adobe.com/sea/products/edge-animate.html)
+* [Adobe Edge](https://en.wikipedia.org/wiki/Adobe_Edge_Animate)
 

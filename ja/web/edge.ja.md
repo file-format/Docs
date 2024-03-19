@@ -26,5 +26,5 @@ EDGE ファイルはプレーン テキスト形式で保存され、jQuery を�
 
 ## 参考文献
 
-* [Adobe Edge](https://www.adobe.com/sea/products/edge-animate.html)
+* [Adobe Edge](https://en.wikipedia.org/wiki/Adobe_Edge_Animate)
 

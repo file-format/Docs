@@ -25,7 +25,3 @@ A MART fájlok e-publikációs fájlokként ismertek, amelyeket a MartView szoft
 
 A Martview eBook formátuma szabadalmaztatott, és a képek tárolójaként működik. A nyílt forráskódú konverterek lehetővé teszik az e-könyv olvasók számára a [PDF](/hu/pdf/), [GIF](/hu/image/gif/), [GIF](/hu/image/gif/), [PNG](/hu/image/png/) konvertálását, [RAR](/hu/compression/rar/) és [ZIP](/hu/compression/zip/) dokumentumokat Martview formátumába. Vegye figyelembe, hogy a RAR- és ZIP-fájloknak képeket kell tartalmazniuk. A MART fájlok alkalmasak lehetnek egyes fájlok kezelésére, de ha sok különböző formátumú e-könyve van, akkor biztosan nem akar időt tölteni azzal, hogy mindegyiket egyetlen formátumba konvertálja, csak hogy el tudja olvasni őket az ebook olvasóban. .
 
-## Hivatkozások
-
-* [Martview, a legjobb e-könyv-olvasó PDF-alapú e-könyvekhez](https://www.ghacks.net/2011/04/15/martview-best-ebook-reader-for-pdf-e-books/)
-

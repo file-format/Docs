@@ -28,5 +28,5 @@ ECE फाइलें डिस्क में सहेजी नहीं �
 
 ## संदर्भ
 
-* [एडोब एज](https://www.adobe.com/sea/products/edge-animate.html)
+* [एडोब एज](https://en.wikipedia.org/wiki/Adobe_Edge_Animate)
 

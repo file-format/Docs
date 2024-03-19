@@ -28,5 +28,5 @@ ECE 파일은 디스크에 저장되지 않지만 요청 시 사용자에게 직
 
 ## 참고문헌
 
-* [어도비 엣지](https://www.adobe.com/sea/products/edge-animate.html)
+* [어도비 엣지](https://en.wikipedia.org/wiki/Adobe_Edge_Animate)
 

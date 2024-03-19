@@ -62,6 +62,6 @@
 - **Open Board Viewer** (Δωρεάν) για Linux
 
 ## βιβλιογραφικές αναφορές
-* [Πρόγραμμα EAGLE](https://en.wikipedia.org/wiki/EAGLE_(πρόγραμμα))
+* [EAGLE program](https://en.wikipedia.org/wiki/EAGLE_(program))
 
 

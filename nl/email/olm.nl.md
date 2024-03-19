@@ -23,8 +23,3 @@ Een bestand met de extensie .olm is een Microsoft Outlook-bestand voor het Mac-b
 ## OLM-bestandsindeling
 
 OLM zijn binaire bestanden met het MIME-type Application/octet-stream. De technische specificaties van het OLM-bestandsformaat zijn niet openlijk beschikbaar bij Microsoft en er zijn geen formaatdetails beschikbaar voor de ontwikkelaar. Er zijn echter enkele API's die de OLM-bestandsindeling kunnen lezen en deze naar een PST-bestand kunnen schrijven voor gebruik op het Microsoft Windows-besturingssysteem, zoals Aspose.Email.
-
-## Referenties
-
-* [OLM-bestandsindeling?](https://social.msdn.microsoft.com/Forums/office/en-US/4ce689ee-8fad-4362-a0eb-06382646a845/olm-file-format?forum=os_binaryfile)
-

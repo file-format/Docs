@@ -24,8 +24,3 @@ MART dosyaları, MartView yazılımı tarafından kullanılan e-yayın dosyalar�
 ## MART Dosya Biçimi ##
 
 Martview'in e-Kitap formatı tescillidir ve resimler için bir kapsayıcı olarak çalışır. Açık kaynak dönüştürücüler, e-Kitap okuyucularının [PDF](/tr/pdf/), [GIF](/tr/image/gif/), [GIF](/tr/image/gif/), [PNG](/tr/image/png/), [RAR](/tr/compression/rar/) ve [ZIP](/tr/compression/zip/) belgelerini Martview formatında. RAR ve ZIP dosyalarının resim içermesi gerektiğini unutmayın. MART dosyaları, çalışan tek dosyalar için çok uygun olabilir, ancak farklı biçimlerde birçok e-kitabınız varsa, o zaman kesinlikle e-kitap okuyucuda okuyabilmek için hepsini tek bir biçime dönüştürmek için zaman harcamak istemezsiniz. .
-
-## Referanslar
-
-* [Martview, PDF E-Kitaplar İçin En İyi E-Kitap Okuyucu](https://www.ghacks.net/2011/04/15/martview-best-ebook-reader-for-pdf-e-books/)
-

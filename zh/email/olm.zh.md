@@ -23,8 +23,3 @@
 ## OLM 文件格式
 
 OLM 是具有 Application/octet-stream MIME 类型的二进制文件。 Microsoft 未公开提供 OLM 文件格式的技术规范，也没有可供开发人员参考的格式详细信息。但是，有一些 API 可以读取 OLM 文件格式并将其写入 PST 文件，以便在 Microsoft Windows 操作系统（例如 Aspose.Email）上使用。
-
-## 参考
-
-* [OLM 文件格式？](https://social.msdn.microsoft.com/Forums/office/en-US/4ce689ee-8fad-4362-a0eb-06382646a845/olm-file-format?forum=os_binaryfile)
-

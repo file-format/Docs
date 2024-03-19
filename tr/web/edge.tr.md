@@ -26,5 +26,5 @@ EDGE dosyaları düz metin biçiminde kaydedilir ve animasyonu etkinleştirmek i
 
 ## Referanslar
 
-* [Adobe Edge](https://www.adobe.com/sea/products/edge-animate.html)
+* [Adobe Edge](https://en.wikipedia.org/wiki/Adobe_Edge_Animate)
 

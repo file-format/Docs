@@ -28,5 +28,5 @@ Clientbrowsers hebben toegang tot de inhoud op ECE-servers via HTTP/REST API. Na
 
 ## Referenties
 
-* [Adobe Edge](https://www.adobe.com/sea/products/edge-animate.html)
+* [Adobe Edge](https://en.wikipedia.org/wiki/Adobe_Edge_Animate)
 

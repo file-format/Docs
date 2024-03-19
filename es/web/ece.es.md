@@ -28,5 +28,5 @@ Los navegadores de los clientes pueden acceder al contenido de los servidores EC
 
 ## Referencias
 
-* [Adobe Edge](https://www.adobe.com/sea/products/edge-animate.html)
+* [Adobe Edge](https://en.wikipedia.org/wiki/Adobe_Edge_Animate)
 

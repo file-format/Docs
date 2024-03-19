@@ -26,5 +26,5 @@ Pliki EDGE są zapisywane w formacie zwykłego tekstu i używają jQuery do wł�
 
 ## Bibliografia
 
-* [Adobe Edge](https://www.adobe.com/sea/products/edge-animate.html)
+* [Adobe Edge](https://en.wikipedia.org/wiki/Adobe_Edge_Animate)
 

@@ -28,5 +28,5 @@ ECE 文件不保存到光盘，而是根据要求直接提供给用户。这些�
 
 ## 参考
 
-* [Adobe Edge](https://www.adobe.com/sea/products/edge-animate.html)
+* [Adobe Edge](https://en.wikipedia.org/wiki/Adobe_Edge_Animate)
 

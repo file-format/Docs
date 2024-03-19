@@ -24,5 +24,5 @@ Când se face dublu clic pe un fișier EPIBRW, acesta se poate deschide în brow
 
 ## Referințe
 
-* [Adobe Edge](https://www.adobe.com/sea/products/edge-animate.html)
+* [Adobe Edge](https://en.wikipedia.org/wiki/Adobe_Edge_Animate)
 

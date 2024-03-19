@@ -24,5 +24,5 @@ Dwukrotne kliknięcie pliku EPIBRW może otworzyć go w przeglądarce i wyświet
 
 ## Bibliografia
 
-* [Adobe Edge](https://www.adobe.com/sea/products/edge-animate.html)
+* [Adobe Edge](https://en.wikipedia.org/wiki/Adobe_Edge_Animate)
 

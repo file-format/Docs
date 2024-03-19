@@ -23,8 +23,3 @@
 ## Формат файла OLM
 
 OLM — это двоичные файлы с типом MIME Application/octet-stream. Технические характеристики формата файла OLM не доступны в Microsoft в открытом доступе, и сведения о формате отсутствуют для справки разработчика. Однако есть некоторые API, которые могут читать формат файла OLM и записывать его в файл PST для использования в операционной системе Microsoft Windows, такой как Aspose.Email.
-
-## использованная литература
-
-* [Формат файла OLM?](https://social.msdn.microsoft.com/Forums/office/en-US/4ce689ee-8fad-4362-a0eb-06382646a845/olm-file-format?forum=os_binaryfile)
-

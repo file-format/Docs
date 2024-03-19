@@ -23,8 +23,3 @@ Plik z rozszerzeniem .olm to plik Microsoft Outlook dla systemu operacyjnego Mac
 ## Format pliku OLM
 
 OLM to pliki binarne typu MIME Application/octet-stream. Specyfikacje techniczne formatu plików OLM nie są jawnie udostępniane przez firmę Microsoft i nie są dostępne żadne szczegóły dotyczące formatu, które mogłyby być dostępne dla programistów. Istnieje jednak kilka interfejsów API, które mogą odczytywać format plików OLM i zapisywać je w pliku PST do użytku w systemie operacyjnym Microsoft Windows, takim jak Aspose.Email.
-
-## Bibliografia
-
-* [Format pliku OLM?](https://social.msdn.microsoft.com/Forums/office/en-US/4ce689ee-8fad-4362-a0eb-06382646a845/olm-file-format?forum=os_binaryfile)
-
