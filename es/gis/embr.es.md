@@ -20,7 +20,7 @@
 
 Un archivo EMBR es un archivo GIS desarrollado y utilizado por GEOREID Pty Ltd. Contiene datos geoespaciales, como la longitud y los volúmenes calculados en cualquier punto específico. El formato de archivo EMBR almacena estos datos estadísticos en formato de texto sin formato que se puede abrir en un editor de texto para ver y editar. Los sistemas GIS almacenan información geológica con referencia a cualquier punto de latitud y longitud que represente la posición de absolución en la tierra.
 
-Otros formatos de archivo GIS populares utilizados para almacenar datos geoespaciales incluyen [gpx](/es/gis/gpx/), [geojson](/es/gis/geojson/), [kml](/es/gis/kml/) y [kmz](/es/ gis/kmz/).
+Otros formatos de archivo GIS populares utilizados para almacenar datos geoespaciales incluyen [gpx](/es/gis/gpx/), [geojson](/es/gis/geojson/), [kml](/es/gis/kml/) y [kmz](/es/gis/kmz/).
 
 ## Formato de archivo EMBR - Más información
 

@@ -19,7 +19,7 @@
 
 ## ¿Qué es un archivo RML?
 
-Un archivo RML es un archivo de plantilla de informes con el motor de informes [Elixir Repertoire](https://elixirtech.com/repertoire-2/). El archivo de plantilla se utiliza para generar informes con la fuente de datos conectada a Elixir FileSystem. Los datos se leen y completan en el archivo de plantilla RML y se pueden exportar a varios formatos de archivo diferentes, como [PDF](/es/pdf/), [RTF](/es/word-processing/rtf/) y hoja de cálculo [XLS](/es/hoja de cálculo/xls/). El motor de informes de Elixir Repertoire se puede conectar a una amplia variedad de fuentes de datos JDBC.
+Un archivo RML es un archivo de plantilla de informes con el motor de informes [Elixir Repertoire](https://elixirtech.com/repertoire-2/). El archivo de plantilla se utiliza para generar informes con la fuente de datos conectada a Elixir FileSystem. Los datos se leen y completan en el archivo de plantilla RML y se pueden exportar a varios formatos de archivo diferentes, como [PDF](/es/pdf/), [RTF](/es/word-processing/rtf/) y hoja de cálculo [XLS](/es/spreadsheet/xls/). El motor de informes de Elixir Repertoire se puede conectar a una amplia variedad de fuentes de datos JDBC.
 
 ## Formato de archivo RML
 

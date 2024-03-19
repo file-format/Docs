@@ -20,7 +20,7 @@
 
 Los archivos DOCX se pueden convertir al formato de archivo XHTML (lenguaje de marcado de hipertexto extensible). El archivo convertido es similar al HTML en que utiliza etiquetas para describir la estructura y el contenido de una página web, pero utiliza reglas más estrictas de sintaxis y marcado. La conversión de DOCX a XHTML tiene varios beneficios, como compatibilidad mejorada, optimización web, separación de contenido y estilo, cumplimiento de estándares y accesibilidad.
 
-Hay varias herramientas en línea disponibles en línea que se utilizan para la conversión de [DOCX](/es/procesamiento de textos/) a [XHTML](/es/web/xhtml/). Una de esas aplicaciones es la aplicación Aspose.Words que le permite cargar archivos DOCX y convertirlos a varios formatos de archivo diferentes, incluido XHTML.
+Hay varias herramientas en línea disponibles en línea que se utilizan para la conversión de [DOCX](/es/word-processing/) a [XHTML](/es/web/xhtml/). Una de esas aplicaciones es la aplicación Aspose.Words que le permite cargar archivos DOCX y convertirlos a varios formatos de archivo diferentes, incluido XHTML.
 
 ## Conversión de DOCX a XHTML - DEMOSTRACIÓN GRATUITA
 
@@ -33,7 +33,7 @@ Puede utilizar la aplicación de conversión Aspose.Words GRATIS para convertir 
 
 Estos son los pasos que debe seguir para convertir sus archivos DOCX a XHTML.
 
-1. Vaya a [aplicación de conversión Aspose.Words] (https://products.aspose.app/words/conversion/docx-to-xhtml)
+1. Vaya a [aplicación de conversión Aspose.Words](https://products.aspose.app/words/conversion/docx-to-xhtml)
 1. Sube tu archivo DOCX al navegador
 1. Seleccione XHTML como formato de archivo de salida.
 1. Presione el botón Convertir
@@ -62,7 +62,7 @@ Convertir DOCX a XHTML en .NET es fácil con Aspose.Words para .NET API. Puede d
 **Aspose.Words para recursos .NET**
 
 1. [Aspose.Words para .NET](https://products.aspose.com/words/net/)
-1. Instale [Aspose.Words para .NET] (https://docs.aspose.com/words/net/installation/)
+1. Instale [Aspose.Words para .NET](https://docs.aspose.com/words/net/installation/)
 1. Utilice el código de ejemplo del artículo [Convertir DOCX a XHTML](https://docs.aspose.com/words/net/convert-a-document-to-html-mhtml-or-epub/) para probarlo. su aplicación
 
 ### Convierta DOCX a XHTML usando Aspose.Words para Java

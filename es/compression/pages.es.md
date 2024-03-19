@@ -38,7 +38,7 @@ Para convertir un archivo de Apple Pages a PDF, se pueden seguir los siguientes 
 
 Los documentos de Apple PAGES se pueden convertir a varios formatos de archivo. Esto se puede hacer desde el software Apple Pages utilizando la opción **Exportar a**. Los archivos de PÁGINAS se pueden convertir a:
 
-* Microsoft Word [DOC](/es/procesamiento de textos/doc/) y [DOCX](/es/procesamiento de textos/docx/)
+* Microsoft Word [DOC](/es/word-processing/doc/) y [DOCX](/es/word-processing/docx/)
 * [PDF](/es/pdf/)
 * [EPUB](/es/ebook/epub/)
 * [RTF](/es/word-processing/rtf/)

@@ -129,7 +129,7 @@ Estos son algunos de los tipos de archivos asociados con el juego:
 
 
 
-5. **Archivos .txt**: [Archivos de texto](/es/procesamiento de textos/txt/) se utilizan para diversos documentos, notas y poemas del juego que el jugador puede encontrar a lo largo del juego. Estos archivos proporcionan contexto adicional y pistas para la historia.
+5. **Archivos .txt**: [Archivos de texto](/es/word-processing/txt/) se utilizan para diversos documentos, notas y poemas del juego que el jugador puede encontrar a lo largo del juego. Estos archivos proporcionan contexto adicional y pistas para la historia.
     
 
 

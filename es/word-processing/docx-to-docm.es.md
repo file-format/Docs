@@ -20,7 +20,7 @@
 
 DOCM es el formato de archivo de documentos de Microsoft Word 2007 que tiene la capacidad de ejecutar macros. El formato de archivo interno de DOCM es similar al formato de archivo DOCX pero con la característica adicional de compatibilidad con macros que no está disponible en DOCX.
 
-Puede convertir archivos DOCX a DOCM utilizando servicios en línea gratuitos. **[Aplicación Aspose.Words](https://products.aspose.app/words/family)** es uno de esos conjuntos de herramientas que le permite realizar operaciones en diferentes tipos de documentos de Word en línea desde su navegador web. Ofrece funciones como cargar un documento WORD, ver su contenido, convertir a diferentes tipos de formatos de archivo de salida como PDF, PNG, BMP y JPEG, dividir, rotar y muchos otros. Puede convertir [DOCX](/es/procesamiento de textos/docx/) a [DOCM](/es/procesamiento de textos/docm/) usando la aplicación Aspose.Words.
+Puede convertir archivos DOCX a DOCM utilizando servicios en línea gratuitos. **[Aplicación Aspose.Words](https://products.aspose.app/words/family)** es uno de esos conjuntos de herramientas que le permite realizar operaciones en diferentes tipos de documentos de Word en línea desde su navegador web. Ofrece funciones como cargar un documento WORD, ver su contenido, convertir a diferentes tipos de formatos de archivo de salida como PDF, PNG, BMP y JPEG, dividir, rotar y muchos otros. Puede convertir [DOCX](/es/word-processing/docx/) a [DOCM](/es/word-processing/docm/) usando la aplicación Aspose.Words.
 
 ## Conversión de DOCX a DOCM - Demostración gratuita
 
@@ -43,10 +43,10 @@ Puede convertir DOCX a formato de archivo DOC utilizando la [aplicación Aspose.
 
 [Aspose.Words](https://products.aspose.com/words/) es un conjunto de API que permite a cualquier desarrollador convertir [DOCX](/es/word-processing/docx/) a [DOCM](/es/word-processing /docm/) formato usando líneas simples de código. Está disponible para muchos lenguajes de programación, incluidos:
 
-* [C#](/es/programación/cs/)
-* [Java](/es/programación/java/)
-* [Python](/es/programación/py/)
-* [C++](/es/programación/cpp/).
+* [C#](/es/programming/cs/)
+* [Java](/es/programming/java/)
+* [Python](/es/programming/py/)
+* [C++](/es/programming/cpp/).
 
 Además de DOCM, las API de Aspose.Words le permiten convertir archivos DOCX a muchos otros formatos de archivo populares.
 

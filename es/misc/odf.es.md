@@ -19,7 +19,7 @@
 
 ## ¿Qué es un archivo ODF?
 
-Un archivo con extensión .odf es un documento que contiene ecuaciones matemáticas, macros y fórmulas. Se crea con el programa [Apache OpenOffice Math](https://wiki.openoffice.org/wiki/Documentation/OOo3_User_Guides/Math_Guide) que se usa para crear fórmulas matemáticas que luego se pueden guardar en un disco o incluir en otros documentos. Estos archivos se crean y guardan según el estándar OASIS OpenDocument, que es un formato de archivo estándar abierto para hojas de cálculo, gráficos, presentaciones y documentos de procesamiento de texto mediante [ZIP](/es/compression/zip/)-comprimido [XML](/es/web/ xml/) archivos. Los archivos ODF se pueden abrir con aplicaciones como OpenOffice Math y LibreOffice Draw.
+Un archivo con extensión .odf es un documento que contiene ecuaciones matemáticas, macros y fórmulas. Se crea con el programa [Apache OpenOffice Math](https://wiki.openoffice.org/wiki/Documentation/OOo3_User_Guides/Math_Guide) que se usa para crear fórmulas matemáticas que luego se pueden guardar en un disco o incluir en otros documentos. Estos archivos se crean y guardan según el estándar OASIS OpenDocument, que es un formato de archivo estándar abierto para hojas de cálculo, gráficos, presentaciones y documentos de procesamiento de texto mediante [ZIP](/es/compression/zip/)-comprimido [XML](/es/web/xml/) archivos. Los archivos ODF se pueden abrir con aplicaciones como OpenOffice Math y LibreOffice Draw.
 
 ## Formato de archivo ODF - Más información
 

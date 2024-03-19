@@ -18,7 +18,7 @@
 
 ## Acerca de DOCX a MD
 
-DOCX a MD es un requisito común para generar contenido Markdown que se utiliza para formatear y diseñar documentos de texto. En caso de que no conozca el formato [archivo MD](/es/procesamiento de textos/md/), es un archivo de texto sin formato que utiliza una sintaxis simple para representar el formato de un documento, como encabezados, estilos, listas, viñetas, enlaces e imágenes. Microsoft Word no ofrece la opción de convertir DOCX a MD, pero hay herramientas disponibles en línea que pueden convertir sus archivos DOCX a MD GRATIS.
+DOCX a MD es un requisito común para generar contenido Markdown que se utiliza para formatear y diseñar documentos de texto. En caso de que no conozca el formato [archivo MD](/es/word-processing/md/), es un archivo de texto sin formato que utiliza una sintaxis simple para representar el formato de un documento, como encabezados, estilos, listas, viñetas, enlaces e imágenes. Microsoft Word no ofrece la opción de convertir DOCX a MD, pero hay herramientas disponibles en línea que pueden convertir sus archivos DOCX a MD GRATIS.
 
 ## Convertir DOCX a MD - Demostración gratuita
 

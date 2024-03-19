@@ -20,7 +20,7 @@
 
 DOCM es la versión habilitada para macros de documentos de Microsoft Word que son capaces de ejecutar macros. La diferencia entre un documento de Word normal y un documento habilitado para macros es que DOCM proporciona la función adicional para admitir macros.
 
-Los archivos DOC se pueden convertir a DOCM utilizando herramientas y aplicaciones en línea gratuitas. **[Aplicación Aspose.Words](https://products.aspose.app/words/family)** es un conjunto de aplicaciones en línea que le permiten realizar diferentes operaciones en documentos de Word directamente desde su navegador web. Además de sus funciones de [visualización de documentos](/es/procesamiento de textos/docx-viewer/), división, fusión, comparación, rotación y otras, le permite convertir documentos de Word de un formato a otros. Puede convertir [DOC](/es/procesamiento de textos/doc/) a [DOCM](/es/procesamiento de textos/docm/) usando la aplicación Aspose.Words.
+Los archivos DOC se pueden convertir a DOCM utilizando herramientas y aplicaciones en línea gratuitas. **[Aplicación Aspose.Words](https://products.aspose.app/words/family)** es un conjunto de aplicaciones en línea que le permiten realizar diferentes operaciones en documentos de Word directamente desde su navegador web. Además de sus funciones de [visualización de documentos](/es/word-processing/docx-viewer/), división, fusión, comparación, rotación y otras, le permite convertir documentos de Word de un formato a otros. Puede convertir [DOC](/es/word-processing/doc/) a [DOCM](/es/word-processing/docm/) usando la aplicación Aspose.Words.
 
 ## Convertir DOC a DOCM - Demostración gratuita
 

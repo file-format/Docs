@@ -144,7 +144,7 @@ Aquí hay otros tipos de archivos que usan la extensión de archivo **.shader**.
 **Archivos de juego**
 - [SHADER - Archivo de sombreado del motor Godot](/es/game/shader-godot/)
 - [SHADER - Archivo de sombreado del motor Quake 3](/es/game/shader-quake/)
-- [SHADER - Activo de Unity Shader](/es/juego/shader-unity/)
+- [SHADER - Activo de Unity Shader](/es/game/shader-unity/)
 
 ## Referencias
 - [Id Tech 3] (https://en.wikipedia.org/wiki/Id_Tech_3)

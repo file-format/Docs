@@ -72,7 +72,7 @@ Los programas que abren archivos WPS incluyen
 Aquí hay otros tipos de archivos que usan la extensión de archivo **.wps**.
 
 - [WPS - Documento del procesador de textos de Microsoft Works](/es/word-processing/wps/)
-- [WPS - Documento de Kingsoft Writer](/es/procesamiento de textos/wps-kingsoft/)
+- [WPS - Documento de Kingsoft Writer](/es/word-processing/wps-kingsoft/)
 
 ## Referencias
 * [Trados Studio](https://en.wikipedia.org/wiki/Trados_Studio)

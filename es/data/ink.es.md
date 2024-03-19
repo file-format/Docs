@@ -79,7 +79,7 @@ Estas son algunas de las características clave de los archivos .ink en Mimio No
 
 ## Compartir un archivo INK
 
-Si el profesor necesita compartir un archivo .ink con un estudiante u otro profesor que no tiene acceso a Mimio Notebook, puede exportar el archivo .ink en un formato más compatible, como [PDF](/es/pdf/), [HTML](/es/web /html/) o archivos de imagen ([.JPEG](/es/image/jpeg/), [.PNG](/es/image/png/), [.GIF](/es/image/gif/), [.TIFF](/es/ imagen/tiff/)); De esta manera, el contenido se puede compartir y ver fácilmente en varios dispositivos y aplicaciones de software sin necesidad de acceder a Mimio Notebook.
+Si el profesor necesita compartir un archivo .ink con un estudiante u otro profesor que no tiene acceso a Mimio Notebook, puede exportar el archivo .ink en un formato más compatible, como [PDF](/es/pdf/), [HTML](/es/web/html/) o archivos de imagen ([.JPEG](/es/image/jpeg/), [.PNG](/es/image/png/), [.GIF](/es/image/gif/), [.TIFF](/es/image/tiff/)); De esta manera, el contenido se puede compartir y ver fácilmente en varios dispositivos y aplicaciones de software sin necesidad de acceder a Mimio Notebook.
 
 ## MimioStudio
 

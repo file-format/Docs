@@ -99,7 +99,7 @@ Aquí hay otros tipos de archivos que usan la extensión de archivo **.cs**.
 
 **Archivos de datos y juego**
 - [CS - Esquema de colores de ColorSchemer Studio](/es/data/cs-colorschemer/)
-- [CS - Script personalizado CLEO](/es/juego/cs-cleo/)
+- [CS - Script personalizado CLEO](/es/game/cs-cleo/)
 
 **Programación**
 - [CS - Archivo de código CSharp](/es/programming/cs/)

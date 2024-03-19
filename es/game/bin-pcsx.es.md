@@ -95,7 +95,7 @@ Aquí hay otros tipos de archivos que usan la extensión de archivo **.bin**.
 - [BIN - Archivo de imagen de disco binario](/es/disc-and-media/bin/)
 - [BIN - Archivo ejecutable Unix](/es/executable/bin/)
 - [BIN - Archivo de políticas de TI de BlackBerry](/es/settings/bin/)
-- [BIN - ROM del juego Sega Genesis](/es/juego/bin/)
+- [BIN - ROM del juego Sega Genesis](/es/game/bin/)
 
 ## Referencias
 * [PCSX2](https://en.wikipedia.org/wiki/PCSX2)

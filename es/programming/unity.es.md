@@ -20,7 +20,7 @@
 
 Un archivo de Unity es un archivo de escena 3D creado con el motor de juegos 3D, **Unity**. Se utiliza en combinación con otras escenas para crear un mundo virtual durante la edición. Contiene elementos de escena 3D como objetos, entornos, decoraciones, cámaras, información de ángulos, escenarios de iluminación y obstáculos.
 
-Los archivos de Unity se pueden abrir con Unity Technologies Unity. Unity también puede leer Unity [.fbx](/es/3d/fbx/), [.dae](/es/3d/dae/) (Collada), [.3ds](/es/3d/3ds/), [.dxf](/es/ cad/dxf/) y [.obj](/es/3d/obj/).
+Los archivos de Unity se pueden abrir con Unity Technologies Unity. Unity también puede leer Unity [.fbx](/es/3d/fbx/), [.dae](/es/3d/dae/) (Collada), [.3ds](/es/3d/3ds/), [.dxf](/es/cad/dxf/) y [.obj](/es/3d/obj/).
 
 ## Formato de archivo de la unidad
 

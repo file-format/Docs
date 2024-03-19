@@ -55,14 +55,14 @@ Aquí hay una lista de algunos de los formatos de archivo comunes admitidos por 
 
 
 
-- [MP4](/es/vídeo/mp4/)
-- [MOV](/es/vídeo/mov/)
-- [AVI](/es/vídeo/avi/)
-- [MKV](/es/vídeo/mkv/)
-- [WebM](/es/vídeo/webm/)
-- [MPEG](/es/vídeo/mpeg/)
-- [FLV](/es/vídeo/flv/)
-- [WMV](/es/vídeo/wmv/)
+- [MP4](/es/video/mp4/)
+- [MOV](/es/video/mov/)
+- [AVI](/es/video/avi/)
+- [MKV](/es/video/mkv/)
+- [WebM](/es/video/webm/)
+- [MPEG](/es/video/mpeg/)
+- [FLV](/es/video/flv/)
+- [WMV](/es/video/wmv/)
 - y más...
 2. **Formatos de audio:**
     
@@ -91,11 +91,11 @@ Aquí hay una lista de algunos de los formatos de archivo comunes admitidos por 
 
 
 
-- [JPEG (JPG)](/es/imagen/jpeg/)
-- [PNG](/es/imagen/png/)
-- [BMP](/es/imagen/bmp/)
-- [TIFF](/es/imagen/tiff/)
-- [GIF](/es/imagen/gif/)
+- [JPEG (JPG)](/es/image/jpeg/)
+- [PNG](/es/image/png/)
+- [BMP](/es/image/bmp/)
+- [TIFF](/es/image/tiff/)
+- [GIF](/es/image/gif/)
 - y más...
 4. **Formatos adicionales:**
     
@@ -123,9 +123,9 @@ Aquí hay una lista de algunos de los formatos de archivo comunes admitidos por 
 
 - [MP4 (códec H.264)](/es/video/mp4/)
 - [WebM (códec VP9)](/es/video/webm/)
-- [AVI](/es/vídeo/avi/)
-- [MOV](/es/vídeo/mov/)
-- [MKV](/es/vídeo/mkv/)
+- [AVI](/es/video/avi/)
+- [MOV](/es/video/mov/)
+- [MKV](/es/video/mkv/)
 - y más...
 2. **Formatos de audio:**
     
@@ -154,11 +154,11 @@ Aquí hay una lista de algunos de los formatos de archivo comunes admitidos por 
 
 
 
-- [JPEG (JPG)](/es/imagen/jpeg/)
-- [PNG](/es/imagen/png/)
-- [BMP](/es/imagen/bmp/)
-- [TIFF](/es/imagen/tiff/)
-- [GIF](/es/imagen/gif/)
+- [JPEG (JPG)](/es/image/jpeg/)
+- [PNG](/es/image/png/)
+- [BMP](/es/image/bmp/)
+- [TIFF](/es/image/tiff/)
+- [GIF](/es/image/gif/)
 - y más...
 4. **Configuraciones de exportación personalizadas:**
     

@@ -60,7 +60,7 @@ Los programas que abren archivos BPS incluyen
 
 Aquí hay otros tipos de archivos que usan la extensión de archivo **.bps**.
 
-- [BPS - Archivo de parche BPS](/es/juego/bps/)
+- [BPS - Archivo de parche BPS](/es/game/bps/)
 - [BPS - Archivo de malware BPS de SpywareCops](/es/misc/bps-malware/)
 
 ## Referencias

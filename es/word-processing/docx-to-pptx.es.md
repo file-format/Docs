@@ -37,7 +37,7 @@ Convertir DOCX a PPTX usando la aplicación en línea Aspose.Words es simple e i
 
 ## API de Aspose.Words
 
-Aspose.Words es un conjunto de API que permite a cualquier desarrollador convertir [DOCX](/es/word-processing/docx/) al formato [PPTX](/es/presentación/pptx/) usando líneas simples de código. Está disponible para muchos lenguajes de programación, incluidos [C#](/es/programming/cs/), [Java](/es/programming/java/), [Python](/es/programming/py/) y [C++](/es/programming/cpp/ ). Además de PPTX, las API de Aspose.Words le permiten convertir archivos DOCX a muchos otros formatos de archivo populares.
+Aspose.Words es un conjunto de API que permite a cualquier desarrollador convertir [DOCX](/es/word-processing/docx/) al formato [PPTX](/es/presentation/pptx/) usando líneas simples de código. Está disponible para muchos lenguajes de programación, incluidos [C#](/es/programming/cs/), [Java](/es/programming/java/), [Python](/es/programming/py/) y [C++](/es/programming/cpp/). Además de PPTX, las API de Aspose.Words le permiten convertir archivos DOCX a muchos otros formatos de archivo populares.
 
 
 

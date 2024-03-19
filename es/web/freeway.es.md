@@ -22,7 +22,7 @@ Un archivo FREEWAY es un archivo de información de configuración creado y util
 
 ## Formato de archivo de AUTOPISTA
 
-Los archivos FREEWAY se guardan en un formato de archivo propietario y los detalles de su formato de archivo interno no están disponibles públicamente. No tiene ningún recurso real utilizado por un sitio, sino el diseño del sitio y enlaces a diferentes propiedades. Los recursos y las páginas reales del sitio web se guardan en las carpetas "Medios" y "Carpeta del sitio" que se encuentran en la misma carpeta que el archivo FREEWAY. El documento FREEWAY se puede exportar a una variedad de formatos, incluidos [HTML](/es/web/html/), [JPEG](/es/image/jpeg/), [PNG](/es/image/png/), [BMP](/es/ imagen/bmp/) y [GIF](/es/image/gif/).
+Los archivos FREEWAY se guardan en un formato de archivo propietario y los detalles de su formato de archivo interno no están disponibles públicamente. No tiene ningún recurso real utilizado por un sitio, sino el diseño del sitio y enlaces a diferentes propiedades. Los recursos y las páginas reales del sitio web se guardan en las carpetas "Medios" y "Carpeta del sitio" que se encuentran en la misma carpeta que el archivo FREEWAY. El documento FREEWAY se puede exportar a una variedad de formatos, incluidos [HTML](/es/web/html/), [JPEG](/es/image/jpeg/), [PNG](/es/image/png/), [BMP](/es/image/bmp/) y [GIF](/es/image/gif/).
 
 ## Referencias
 

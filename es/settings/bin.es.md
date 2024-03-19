@@ -56,7 +56,7 @@ Aquí hay otros tipos de archivos que usan la extensión de archivo **.bin**.
 - [BIN - Archivo codificado MacBinary](/es/compression/bin/)
 - [BIN - Archivo de imagen de disco binario](/es/disc-and-media/bin/)
 - [BIN - Archivo ejecutable Unix](/es/executable/bin/)
-- [BIN - ROM del juego Sega Genesis](/es/juego/bin/)
+- [BIN - ROM del juego Sega Genesis](/es/game/bin/)
 - [BIN - Imagen del BIOS de PSX PlayStation](/es/game/bin-pcsx/)
 
 ## Referencias

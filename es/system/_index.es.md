@@ -20,7 +20,7 @@
 
 Los archivos del sistema son un tipo integral de archivos que se encuentran en los sistemas operativos Microsoft Windows, Mac y Linux. Los archivos del sistema son uno de los archivos más importantes almacenados en el sistema operativo del dispositivo, ya que contienen toda la información relacionada con el sistema del dispositivo y, sin ella, es probable que el dispositivo no funcione correctamente o no funcione en absoluto. Por esta razón, los archivos del sistema están altamente protegidos con mecanismos de permisos debido a los cuales no pueden eliminarse accidentalmente o incluso intencionalmente de la computadora fácilmente. Para facilitar la especificación e identificación, estos archivos siempre se almacenan en carpetas específicas del sistema.
 
-Los archivos del sistema se encuentran en varios tipos de extensión de archivo, y cada sistema operativo tiene su tipo de extensión de archivo de sistema único para diferentes propósitos. Las extensiones de archivos de sistema más comunes son; [CAB](/es/system/taxi/), SYS, [DLL](/es/system/dll/) y DRV.
+Los archivos del sistema se encuentran en varios tipos de extensión de archivo, y cada sistema operativo tiene su tipo de extensión de archivo de sistema único para diferentes propósitos. Las extensiones de archivos de sistema más comunes son; [CAB](/es/system/cab/), SYS, [DLL](/es/system/dll/) y DRV.
 
 
 ## Lista de extensiones de archivo del sistema y formatos de archivo asociados
