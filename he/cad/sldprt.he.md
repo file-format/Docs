@@ -18,7 +18,7 @@
 
 ## מהו קובץ SLDPRT?
 
-קובץ SLDPRT הוא קובץ CAD שנוצר על ידי תוכנת SolidWorks. זהו פורמט קובץ תלת מימדי המכיל את המידע התלת מימדי של אובייקט או "חלק". ניתן לשלב קבצי SLDPRT מרובים בעלי חלקים תואמים ליצירת קובץ הרכבה SLDASM יחיד. ניתן לפתוח קבצי SLDPRT באמצעות [SmartCAM CAD/CAM Software](https://www.solidworks.com/partner-product/smartcam-cadcam-software) של SolidWorks. ממירי אפליקציות SolidWorks מספקים כלים קלים להמרה להמרה של קבצי ציור SLDPRT לפורמטים ניטרליים של נתונים כגון [TIFF](/he/image/tiff/), [PDF](/he/pdf/), או [PDF/A](/he/pdf/ א/).
+קובץ SLDPRT הוא קובץ CAD שנוצר על ידי תוכנת SolidWorks. זהו פורמט קובץ תלת מימדי המכיל את המידע התלת מימדי של אובייקט או "חלק". ניתן לשלב קבצי SLDPRT מרובים בעלי חלקים תואמים ליצירת קובץ הרכבה SLDASM יחיד. ניתן לפתוח קבצי SLDPRT באמצעות [SmartCAM CAD/CAM Software](https://www.solidworks.com/partner-product/smartcam-cadcam-software) של SolidWorks. ממירי אפליקציות SolidWorks מספקים כלים קלים להמרה להמרה של קבצי ציור SLDPRT לפורמטים ניטרליים של נתונים כגון [TIFF](/he/image/tiff/), [PDF](/he/pdf/), או [PDF/A](/he/pdf/a/).
 
 ## פורמט קובץ SLDPRT
 

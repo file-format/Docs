@@ -71,8 +71,8 @@ SDL Trados היא חבילת תוכנות תרגום ולוקליזציה בשי
 
 להלן סוגי קבצים אחרים המשתמשים בסיומת הקובץ **.wps**.
 
-- [WPS - מסמך מעבד תמלילים של Microsoft Works](/he/עיבוד תמלילים/wps/)
-- [WPS - מסמך Kingsoft Writer](/he/עיבוד תמלילים/wps-kingsoft/)
+- [WPS - מסמך מעבד תמלילים של Microsoft Works](/he/word-processing/wps/)
+- [WPS - מסמך Kingsoft Writer](/he/word-processing/wps-kingsoft/)
 
 ## הפניות
 * [Trados Studio](https://en.wikipedia.org/wiki/Trados_Studio)

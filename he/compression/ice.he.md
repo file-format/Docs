@@ -19,7 +19,7 @@
 
 ## מהו קובץ ICE?
 
-קובץ עם סיומת .ice הוא ארכיון דחוס שנוצר באמצעות כלי תוכנה [ICEOWS](http://www.iceows.com/index.html) (Interface de Compression Ergonomique pour windOWS) שהיה ידוע בעבר בשם ArjFolder. זה מספק דחיסה מעולה להקטנת גודל קבצי טקסט. ICEOWS פותחה במקור עם תמיכה בשפה הפולנית, אך כעת זמינה גם בשפות אחרות כולל אנגלית, צרפתית, גרמנית, פולנית, פורטוגזית, ספרדית, איטלקית, סינית, עברית, אוקראינית ושוודית. זה גם מאפשר לך לחלץ תוכן של קבצי ארכיון ותומך ב-ICE, ARJ, [ZIP](/he/compression/zip/), [GunZip](/he/compression/gz/), [TAR](/he/compression/tar/), Microsoft CAB , [RAR](/he/compression/rar/), ACE, MIME, Mac HQX, UUEncode, XXEncode, Base64, [JAR](/he/programming/jar/), EAR, WAR, LHA, IMP, [BZ2](/he/compression /bz2/) פורמטים של קבצים.
+קובץ עם סיומת .ice הוא ארכיון דחוס שנוצר באמצעות כלי תוכנה [ICEOWS](http://www.iceows.com/index.html) (Interface de Compression Ergonomique pour windOWS) שהיה ידוע בעבר בשם ArjFolder. זה מספק דחיסה מעולה להקטנת גודל קבצי טקסט. ICEOWS פותחה במקור עם תמיכה בשפה הפולנית, אך כעת זמינה גם בשפות אחרות כולל אנגלית, צרפתית, גרמנית, פולנית, פורטוגזית, ספרדית, איטלקית, סינית, עברית, אוקראינית ושוודית. זה גם מאפשר לך לחלץ תוכן של קבצי ארכיון ותומך ב-ICE, ARJ, [ZIP](/he/compression/zip/), [GunZip](/he/compression/gz/), [TAR](/he/compression/tar/), Microsoft CAB , [RAR](/he/compression/rar/), ACE, MIME, Mac HQX, UUEncode, XXEncode, Base64, [JAR](/he/programming/jar/), EAR, WAR, LHA, IMP, [BZ2](/he/compression/bz2/) פורמטים של קבצים.
 
 ## פורמט קובץ ICE
 

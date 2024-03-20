@@ -188,7 +188,7 @@
 
 
 
-- **.exe**: חבילות ההתקנה של Citrix Receiver או Citrix Workspace מגיעות לרוב בפורמט הפעלה עבור מערכות הפעלה שונות (למשל, [.exe](/he/executable/exe/) עבור Windows, [.dmg](/he/compression/dmg /) עבור macOS). חבילות אלו מאפשרות למשתמשים להתקין תוכנת לקוח במכשירים שלהם.
+- **.exe**: חבילות ההתקנה של Citrix Receiver או Citrix Workspace מגיעות לרוב בפורמט הפעלה עבור מערכות הפעלה שונות (למשל, [.exe](/he/executable/exe/) עבור Windows, [.dmg](/he/compression/dmg/) עבור macOS). חבילות אלו מאפשרות למשתמשים להתקין תוכנת לקוח במכשירים שלהם.
 3. **אפליקציית Citrix Workspace (לשעבר Citrix Receiver)**:
     
 
@@ -242,7 +242,7 @@
 
 
 
-- **.vhd, .vhdx**: Citrix XenDesktop ו-XenApp יכולות לספק שולחנות עבודה ויישומים וירטואליים באמצעות דיסק קשיח וירטואלי [VHD](/he/disc-and-media/vhd/) או [VHDX](/he/disc-and-media /vhdx/) קבצים.
+- **.vhd, .vhdx**: Citrix XenDesktop ו-XenApp יכולות לספק שולחנות עבודה ויישומים וירטואליים באמצעות דיסק קשיח וירטואלי [VHD](/he/disc-and-media/vhd/) או [VHDX](/he/disc-and-media/vhdx/) קבצים.
 6. **מטא נתונים של פרסום משאבים**:
     
 

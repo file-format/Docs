@@ -19,7 +19,7 @@
 
 ## מהו קובץ ODF?
 
-קובץ עם סיומת .odf הוא מסמך בעל משוואות מתמטיות, פקודות מאקרו ונוסחאות. הוא נוצר עם תוכנית [Apache OpenOffice Math](https://wiki.openoffice.org/wiki/Documentation/OOo3_User_Guides/Math_Guide) המשמשת ליצירת נוסחאות מתמטיות שניתן לשמור על דיסק או לכלול אותן במסמכים אחרים. קבצים אלו נוצרים ונשמרים בהתבסס על תקן OASIS OpenDocument שהוא פורמט קובץ סטנדרטי פתוח עבור גיליונות אלקטרוניים, תרשימים, מצגות ומסמכי עיבוד תמלילים באמצעות [ZIP](/he/compression/zip/)-דחוס [XML](/he/web/ קבצי xml/). ניתן לפתוח קובצי ODF עם יישומים כגון OpenOffice Math ו-LibreOffice Draw.
+קובץ עם סיומת .odf הוא מסמך בעל משוואות מתמטיות, פקודות מאקרו ונוסחאות. הוא נוצר עם תוכנית [Apache OpenOffice Math](https://wiki.openoffice.org/wiki/Documentation/OOo3_User_Guides/Math_Guide) המשמשת ליצירת נוסחאות מתמטיות שניתן לשמור על דיסק או לכלול אותן במסמכים אחרים. קבצים אלו נוצרים ונשמרים בהתבסס על תקן OASIS OpenDocument שהוא פורמט קובץ סטנדרטי פתוח עבור גיליונות אלקטרוניים, תרשימים, מצגות ומסמכי עיבוד תמלילים באמצעות [ZIP](/he/compression/zip/)-דחוס [XML](/he/web/xml/) קבצי . ניתן לפתוח קובצי ODF עם יישומים כגון OpenOffice Math ו-LibreOffice Draw.
 
 ## פורמט קובץ ODF - מידע נוסף
 

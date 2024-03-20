@@ -19,7 +19,7 @@
 
 ## מהו קובץ MOBI?
 
-פורמט הקובץ MOBI הוא אחד הפורמטים הנפוצים ביותר של קבצי ספרים אלקטרוניים. הפורמט הוא שיפור לפורמט הישן של OEB (Open Ebook Format) והוא שימש כפורמט הקנייני של Mobipocket Reader. כמו [EPUB](/he/ebook/epub/), הוא נתמך על ידי כמעט כל קוראי האלקטרונים המודרניים במיוחד על ידי מכשירים ניידים עם רוחב פס נמוך. ניתן להמיר את הפורמט למספר פורמטים אחרים כגון [PDF](/he/pdf/), EPUB ומספר פורמטים אחרים באמצעות יישומי תוכנה זמינים לציבור כגון [אפליקציית Kindle](https://www.amazon.com/kindle -dbs/fd/kcp). ישנן מספר חברות המציעות ספרי MOBI בחינם כגון [Project Gutenberg](https://www.gutenberg.org/), [Feedbooks](http://www.feedbooks.com/) ו-[Open Library]( https://openlibrary.org/).
+פורמט הקובץ MOBI הוא אחד הפורמטים הנפוצים ביותר של קבצי ספרים אלקטרוניים. הפורמט הוא שיפור לפורמט הישן של OEB (Open Ebook Format) והוא שימש כפורמט הקנייני של Mobipocket Reader. כמו [EPUB](/he/ebook/epub/), הוא נתמך על ידי כמעט כל קוראי האלקטרונים המודרניים במיוחד על ידי מכשירים ניידים עם רוחב פס נמוך. ניתן להמיר את הפורמט למספר פורמטים אחרים כגון [PDF](/he/pdf/), EPUB ומספר פורמטים אחרים באמצעות יישומי תוכנה זמינים לציבור כגון [אפליקציית Kindle](https://www.amazon.com/kindle -dbs/fd/kcp). ישנן מספר חברות המציעות ספרי MOBI בחינם כגון [Project Gutenberg](https://www.gutenberg.org/), [Feedbooks](http://www.feedbooks.com/) ו-[Open Library](https://openlibrary.org/).
 
 ## היסטוריה קצרה של פורמט קובץ MOBI
 

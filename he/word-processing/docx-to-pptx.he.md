@@ -37,7 +37,7 @@
 
 ## ממשקי API של Aspose.Words
 
-Aspose.Words היא קבוצה של ממשקי API המאפשרים לכל מפתח להמיר את [DOCX](/he/עיבוד תמלילים/docx/) לפורמט [PPTX](/he/presentation/pptx/) באמצעות שורות קוד פשוטות. הוא זמין עבור שפות תכנות רבות, כולל [C#](/he/programming/cs/), [Java](/he/programming/java/), [Python](/he/programming/py/) ו-[C++](/he/programming/cpp/ ). בנוסף ל-PPTX, ממשקי API של Aspose.Words מאפשרים לך להמיר קובצי DOCX לפורמטים פופולריים רבים אחרים של קבצים.
+Aspose.Words היא קבוצה של ממשקי API המאפשרים לכל מפתח להמיר את [DOCX](/he/word-processing/docx/) לפורמט [PPTX](/he/presentation/pptx/) באמצעות שורות קוד פשוטות. הוא זמין עבור שפות תכנות רבות, כולל [C#](/he/programming/cs/), [Java](/he/programming/java/), [Python](/he/programming/py/) ו-[C++](/he/programming/cpp/). בנוסף ל-PPTX, ממשקי API של Aspose.Words מאפשרים לך להמיר קובצי DOCX לפורמטים פופולריים רבים אחרים של קבצים.
 
 
 

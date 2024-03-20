@@ -19,7 +19,7 @@
 
 ## מהו קובץ DGN?
 
-קובץ עם סיומת .dgn (Design) הוא קובץ ציור שנוצר ונתמך על ידי יישומי CAD כגון MicroStation ו-Intergraph Interactive Graphics Design System. הוא משמש ליצירה ושמירת עיצובים עבור פרויקטי בנייה כגון כבישים מהירים, גשרים ומבנים. הפורמט דומה לפורמט הקובץ [DWG](/he/cad/dwg/) של Autodesk ונחשב למתחרה שלו. ניתן לשמור קבצי DNG כ-Intergraph Standard File Format או V8 DGN. ניתן להמיר DGN למספר פורמטים אחרים כגון DWG, [BMP](/he/image/bmp/), [JPEG](/he/image/jpeg/), [PDF](/he/pdf/), [GIF](/he/image/ gif/) ואחרים. ניתן לפתוח אותו עם Autodesk AutoCAD, Bentley View ו-Bentley Systems MicroStation בנוסף ליישומי תוכנה אחרים כגון Corel PaintShop Photo Pro ו-IMSI TurboCAD Deluxe.
+קובץ עם סיומת .dgn (Design) הוא קובץ ציור שנוצר ונתמך על ידי יישומי CAD כגון MicroStation ו-Intergraph Interactive Graphics Design System. הוא משמש ליצירה ושמירת עיצובים עבור פרויקטי בנייה כגון כבישים מהירים, גשרים ומבנים. הפורמט דומה לפורמט הקובץ [DWG](/he/cad/dwg/) של Autodesk ונחשב למתחרה שלו. ניתן לשמור קבצי DNG כ-Intergraph Standard File Format או V8 DGN. ניתן להמיר DGN למספר פורמטים אחרים כגון DWG, [BMP](/he/image/bmp/), [JPEG](/he/image/jpeg/), [PDF](/he/pdf/), [GIF](/he/image/gif/) ואחרים. ניתן לפתוח אותו עם Autodesk AutoCAD, Bentley View ו-Bentley Systems MicroStation בנוסף ליישומי תוכנה אחרים כגון Corel PaintShop Photo Pro ו-IMSI TurboCAD Deluxe.
 
 ## פורמט קובץ V8 DGN
 

@@ -37,7 +37,7 @@
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-[Aspose.Words](https://products.aspose.com/words/) הוא קבוצה של ממשקי API המאפשרים לכל מפתח להמיר [DOC](/he/word-processing/doc/) ל-[BMP](/he/image/bmp /) פורמט באמצעות שורות קוד פשוטות. הוא זמין עבור שפות תכנות רבות, כולל [C#](/he/programming/cs/), [Java](/he/programming/java/), [Python](/he/programming/py/) ו-[C++](/he/programming/cpp/ ). בנוסף ל-BMP, ממשקי API של Aspose.Words מאפשרים לך להמיר קבצי DOC לפורמטים פופולריים רבים אחרים של קבצים.
+[Aspose.Words](https://products.aspose.com/words/) הוא קבוצה של ממשקי API המאפשרים לכל מפתח להמיר [DOC](/he/word-processing/doc/) ל-[BMP](/he/image/bmp/) פורמט באמצעות שורות קוד פשוטות. הוא זמין עבור שפות תכנות רבות, כולל [C#](/he/programming/cs/), [Java](/he/programming/java/), [Python](/he/programming/py/) ו-[C++](/he/programming/cpp/). בנוסף ל-BMP, ממשקי API של Aspose.Words מאפשרים לך להמיר קבצי DOC לפורמטים פופולריים רבים אחרים של קבצים.
 
 ## הפניות
 

@@ -77,7 +77,7 @@ PICT ו-Windows Metafile יכולים לשלב גם נתוני מפת סיביו
 
 ## המרה של EPS לפורמטים אחרים של קבצים
 
-ניתן להמיר קובצי EPS לפורמטים סטנדרטיים של תמונה כגון [JPG](/he/image/jpeg/), [PNG](/he/image/png/), [TIFF](/he/image/tiff/) ו-[PDF](/he/pdf /) באמצעות יישומים שונים כגון Adobe Illustrator, Photoshop ו- PaintShop Pro.
+ניתן להמיר קובצי EPS לפורמטים סטנדרטיים של תמונה כגון [JPG](/he/image/jpeg/), [PNG](/he/image/png/), [TIFF](/he/image/tiff/) ו-[PDF](/he/pdf/) באמצעות יישומים שונים כגון Adobe Illustrator, Photoshop ו- PaintShop Pro.
 
 בגלל [פגיעות אבטחה](https://support.microsoft.com/en-us/office/support-for-eps-images-has-been-turned-off-in-office-a069d664-4bcf-415e-a1b5-cbb0c334a840) בקובצי EPS, Office 2016, Office 2013, Office 2010 ו-Office 365 כיבו את היכולת להכניס קובצי EPS למסמכי Office.
 

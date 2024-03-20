@@ -41,7 +41,7 @@ DOTX היא הגרסה המשודרגת של פורמט קובץ DOT ושוחר�
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-[Aspose.Words](https://products.aspose.com/words/) היא קבוצה של ממשקי API המאפשרים לכל מפתח להמיר את [DOCX](/he/word-processing/docx/) ל-[DOTX](/he/word-processing /dotx/) פורמט באמצעות שורות קוד פשוטות. הוא זמין עבור שפות תכנות רבות, כולל [C#](/he/programming/cs/), [Java](/he/programming/java/), [Python](/he/programming/py/) ו-[C++](/he/programming/cpp/ ). בנוסף ל-DOTX, ממשקי API של Aspose.Words מאפשרים לך להמיר קבצי DOCX לפורמטים פופולריים רבים אחרים של קבצים.
+[Aspose.Words](https://products.aspose.com/words/) היא קבוצה של ממשקי API המאפשרים לכל מפתח להמיר את [DOCX](/he/word-processing/docx/) ל-[DOTX](/he/word-processing/dotx/) פורמט באמצעות שורות קוד פשוטות. הוא זמין עבור שפות תכנות רבות, כולל [C#](/he/programming/cs/), [Java](/he/programming/java/), [Python](/he/programming/py/) ו-[C++](/he/programming/cpp/). בנוסף ל-DOTX, ממשקי API של Aspose.Words מאפשרים לך להמיר קבצי DOCX לפורמטים פופולריים רבים אחרים של קבצים.
 
 ## הפניות
 

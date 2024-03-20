@@ -79,7 +79,7 @@
 
 ## שתף קובץ INK
 
-אם המורה צריך לשתף קובץ ‎.ink עם תלמיד או מורה אחר שאין לו גישה ל-Mimio Notebook, הם יכולים לייצא קובץ ‎.ink כפורמט תואם יותר, כגון [PDF](/he/pdf/), [HTML](/he/web /html/) או קובצי תמונה ([.JPEG](/he/image/jpeg/), [.PNG](/he/image/png/), [.GIF](/he/image/gif/), [.TIFF](/he/ image/tiff/)); בדרך זו ניתן לשתף בקלות תוכן ולהציג אותו במכשירים וביישומי תוכנה שונים מבלי לדרוש גישה של Mimio Notebook.
+אם המורה צריך לשתף קובץ ‎.ink עם תלמיד או מורה אחר שאין לו גישה ל-Mimio Notebook, הם יכולים לייצא קובץ ‎.ink כפורמט תואם יותר, כגון [PDF](/he/pdf/), [HTML](/he/web/html/) או קובצי תמונה ([.JPEG](/he/image/jpeg/), [.PNG](/he/image/png/), [.GIF](/he/image/gif/), [.TIFF](/he/image/tiff/)); בדרך זו ניתן לשתף בקלות תוכן ולהציג אותו במכשירים וביישומי תוכנה שונים מבלי לדרוש גישה של Mimio Notebook.
 
 ## MimioStudio
 

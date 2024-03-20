@@ -72,9 +72,9 @@ Kingsoft Office, הידועה גם בשם WPS Office, היא תוכנת חביל
 Kingsoft Writer יכול להמיר קבצי WPS לפורמטים הבאים:
 
 - [DOC](/he/word-processing/doc/)
-- [DOCX](/he/עיבוד תמלילים/docx/)
-- [RTF](/he/עיבוד תמלילים/rtf/)
-- [TXT](/he/עיבוד תמלילים/txt/)
+- [DOCX](/he/word-processing/docx/)
+- [RTF](/he/word-processing/rtf/)
+- [TXT](/he/word-processing/txt/)
 - [HTML](/he/web/html/)
 - [PDF](/he/pdf/)
 
@@ -82,7 +82,7 @@ Kingsoft Writer יכול להמיר קבצי WPS לפורמטים הבאים:
 
 להלן סוגי קבצים אחרים המשתמשים בסיומת הקובץ **.wps**.
 
-- [WPS - מסמך מעבד תמלילים של Microsoft Works](/he/עיבוד תמלילים/wps/)
+- [WPS - מסמך מעבד תמלילים של Microsoft Works](/he/word-processing/wps/)
 - [WPS - קובץ פרויקט שולחן העבודה של SDL Translator](/he/settings/wps/)
 
 ## הפניות
