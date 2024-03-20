@@ -43,5 +43,5 @@ le verrouillage obligatoire ne nécessite aucune coopération entre les processu
 ## Références
 
 * [GemFile et Gemfile.lock dans Ruby](https://medium.com/never-hop-on-the-bandwagon/gemfile-and-gemfile-lock-in-ruby-65adc918b856)
-* [Verrouillage sous Linux](https://www.baeldung.com/linux/file-locking#:~:text=File%20locking%20is%20a%20mechanism,very%20dangerous%20command%20in%20Linux.)
+* [Verrouillage sous Linux](https://www.baeldung.com/linux/file-locking)
 

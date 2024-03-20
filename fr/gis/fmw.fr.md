@@ -21,7 +21,7 @@
 
 Un fichier FMW est un fichier de projet créé avec le logiciel FME Workbench (fait partie de la suite FME Desktop) qui est utilisé pour la transformation de données spatiales. Il contient des paramètres définis par l'utilisateur utilisés pour la manipulation de données spatiales, tels que des ensembles de données d'entrée, des propriétés de traduction, des projections et des paramètres de sortie. Les paramètres de manipulation des données spatiales sont stockés sous forme de mise en page visuelle et sont faciles à modifier et à enregistrer à nouveau.
 
-Vous pouvez ouvrir les fichiers FMW à l'aide de [Safe Software FME Desktop](https://www.safe.com/fme/fme-desktop/).
+Vous pouvez ouvrir les fichiers FMW à l'aide de [Safe Software FME Desktop](https://fme.safe.com/platform/).
 
 ## Format de fichier FMW - Plus d'informations
 
@@ -70,6 +70,5 @@ Les fichiers FMW sont stockés sur disque sous forme de fichiers binaires et peu
 
 ## Références
 
-* [Safe Software FME Desktop](https://www.safe.com/fme/fme-desktop/)
+* [Safe Software FME Desktop](https://fme.safe.com/platform/)
 * [Faits en bref FMW](https://docs.safe.com/fme/html/FME_Desktop_Documentation/FME_ReadersWriters/fmw/quick_facts_fmw.htm)
-

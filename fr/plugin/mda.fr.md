@@ -72,4 +72,3 @@ Microsoft Access est couramment utilisé par les particuliers et les petites ent
 ## Les références
 
 * [Spécifications d'accès](https://support.microsoft.com/en-us/office/access-specifications-0cf3c66f-9cf2-4e32-9568-98c1025bb47c)
-* [Le guide non officiel MDB](http://jabakobob.net/mdb/)

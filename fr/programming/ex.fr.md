@@ -37,6 +37,4 @@ Les fichiers EX sont stockés sous forme de fichiers texte brut et contiennent l
 
 ## Référence ##
 
-* [Euphorie rapide](https://www.rapideuphoria.com/)
 * [Forums OpenEuphoria](https://openeuphoria.org/forum/index.wc)
-

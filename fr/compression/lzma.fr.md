@@ -54,6 +54,4 @@ La taille non compressée est stockée sous forme d'entier little endian 64 bits
 
 ## Références
 
-* [Format de fichier LZMA](https://svn.python.org/projects/external/xz-5.0.3/doc/lzma-file-format.txt)
 * [Algorithme de chaîne Lempel–Ziv–Markov](https://en.wikipedia.org/wiki/Lempel%E2%80%93Ziv%E2%80%93Markov_chain_algorithm)
-

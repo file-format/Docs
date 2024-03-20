@@ -48,7 +48,7 @@ Ces fichiers conservent le contenu du document de telle sorte que si, par exempl
 
 Le format de document XPS comprend un ensemble bien défini de parties et de relations, chacune remplissant un objectif particulier dans le document. Le format étend également les fonctionnalités du package, y compris les signatures numériques, les vignettes et l'entrelacement.
 
-Un document XPS typique se présente comme suit et peut être analysé à la lumière du format de fichier XPS [spécifications](https://www.ecma-international.org/activities/XML%20Paper%20Specification/XPS%20Standard.pdf).
+Un document XPS typique se présente comme suit et peut être analysé à la lumière du format de fichier XPS spécifications.
 
 {{< figure src="../XPS-2.png" alt="Format de fichier XPS" >}}
 
@@ -57,4 +57,3 @@ Un document XPS typique se présente comme suit et peut être analysé à la lum
 
 * [Spécifications du format de fichier XPS](https://www.ecma-international.org/publications-and-standards/standards/ecma-388/)
 * [XPS - Par Wikipédia](https://en.wikipedia.org/wiki/Open_XML_Paper_Specification#Viewing_and_creating_XPS_documents)
-

@@ -53,5 +53,4 @@ Une fois que vous avez installé le logiciel Wwise sur votre ordinateur, suivez 
 Le logiciel Wwise chargera ensuite le fichier du projet Wwise ainsi que tous ses actifs et paramètres audio associés. Vous pouvez ensuite éditer et modifier le projet selon vos besoins à l'aide des différents outils et fonctionnalités fournis par le logiciel Wwise.
 
 ## Les références
-* [Audiocinétique Wwise](https://en.wikipedia.org/wiki/Audiocinétique_Wwise)
-
+* [Audiokinetic Wwise](https://en.wikipedia.org/wiki/Audiokinetic_Wwise)
