@@ -66,7 +66,7 @@ CAF-fájlokat megnyitó vagy hivatkozó programok
 
 **Adatbázis és programozás**
 - [CAF - Cathy katalógusfájl formátum](/hu/database/caf/)
-- [CAF - CryENGINE karakteranimációs fájl](/hu/programozás/caf-cryengine/)
+- [CAF - CryENGINE karakteranimációs fájl](/hu/programming/caf-cryengine/)
 
 ## Hivatkozások
 * [CAL3D](https://github.com/mp3butcher/Cal3D)

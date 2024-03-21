@@ -20,9 +20,9 @@
 
 A 3MF-ként emlegetett FilmBoxot eredetileg a Kaydara fejlesztette ki, hogy biztosítsa a MotionBuilderrel való kompatibilitást. 2006-ban az Autodesk Inc. vette át az irányítást, és a különböző szoftveralkalmazások közötti zökkenőmentes 3D-s adatcsere kulcsfontosságú szabványává tette.
 
-A [DAE fájl] (/hu/3d/DAE/), a Digital Asset Exchange fájl rövidítése, kifejezetten az interaktív 3D alkalmazások közötti adatmegosztáshoz létrehozott formátumként szolgál. A COLLADA (COLLAborative Design Activity) XML sémát használja, amely nyílt szabványként működik a digitális eszközök különböző grafikus szoftveralkalmazások közötti megosztására.
+A [DAE fájl](/hu/3d/dae/), a Digital Asset Exchange fájl rövidítése, kifejezetten az interaktív 3D alkalmazások közötti adatmegosztáshoz létrehozott formátumként szolgál. A COLLADA (COLLAborative Design Activity) XML sémát használja, amely nyílt szabványként működik a digitális eszközök különböző grafikus szoftveralkalmazások közötti megosztására.
 
-A [3MF fájlok](/hu/3d/3MF/) [DAE formátumba] (/hu/3d/DAE/) átalakítása gyakran felmerülő követelmény a felhasználók számára, és ehhez a feladathoz különféle ingyenes online eszközök állnak rendelkezésre. Ha Ön szoftverfejlesztő, aki a 3MF–DAE konverziós funkciókat szeretné integrálni .NET-, Java- vagy Python-alkalmazásaiba, javasoljuk, hogy vizsgálja meg az Aspose.3D API-kat, mint megbízható megoldást.
+A [3MF fájlok](/hu/3d/3mf/) [DAE formátumba](/hu/3d/dae/) átalakítása gyakran felmerülő követelmény a felhasználók számára, és ehhez a feladathoz különféle ingyenes online eszközök állnak rendelkezésre. Ha Ön szoftverfejlesztő, aki a 3MF–DAE konverziós funkciókat szeretné integrálni .NET-, Java- vagy Python-alkalmazásaiba, javasoljuk, hogy vizsgálja meg az Aspose.3D API-kat, mint megbízható megoldást.
 
 ## 3MF konvertálás DAE-be - Ingyenes bemutató
 
@@ -64,7 +64,7 @@ A 3MF fájlok DAE formátumba konvertálása az Aspose.3D for .NET API használa
 **Aspose.3D .NET-erőforrásokhoz**
 
 1. [Aspose.3D for .NET](https://products.aspose.com/3d/net/)
-1. Telepítse az [Aspose.3D for .NET] fájlt (https://docs.aspose.com/3d/net/installation/)
+1. Telepítse az [Aspose.3D for .NET](https://docs.aspose.com/3d/net/installation/) fájlt
 
 ### A 3MF konvertálása DAE-re az Aspose.3D for Java segítségével
 
@@ -73,7 +73,7 @@ Az Aspose.3D for Java segítségével a 3MF fájlok különféle fájlformátumo
 **Aspose.3D for Java Resources**
 
 * [Aspose.3D for Java](https://products.aspose.com/3d/java/)
-* Az [Aspose.3D for Java] telepítése (https://docs.aspose.com/3d/java/installation/)
+* Az [Aspose.3D for Java](https://docs.aspose.com/3d/java/installation/) telepítése
 
 ### Konvertálja a 3MF-et DAE-vé az Aspose.3D for Python használatával .NET-en keresztül
 

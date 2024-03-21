@@ -37,7 +37,7 @@ A HDR képfájl a következő három részből áll:
 ## Nyílt forráskódú HDR/HDRI API-k
 
 * **[imageinfo](https://github.com/xiaozhuai/imageinfo)** – Platformokon átívelő szupergyors, egyfejléces [C++](/hu/programming/cpp/) könyvtár a képméret és -formátum eléréséhez betöltés/dekódolás nélkül.
-* **[imgaeinfo-rs](https://github.com/xiaozhuai/imageinfo-rs)** – Rozsdakönyvtár a képméret és -formátum eléréséhez betöltés/dekódolás nélkül. Támogatja az [.avif](/hu/image/avif/), [.bmp](/hu/image/bmp/), [.cur](/hu/image/cur/), [.dds](/hu/image/dds/), [. gif](/hu/image/gif/), hdr (pic), [heic (heif)](/hu/image/heic/), [.icns](/hu/image/icns/), [.ico](/hu/image/ico /), [.jp2](/hu/image/jp2/), [jpeg (jpg)](/hu/image/jpeg/), [jpx](/hu/image/jpx/), ktx, [png](/hu/image/png /), [psd](/hu/image/psd/), qoi, tga, tiff (tif) és webp.
+* **[imgaeinfo-rs](https://github.com/xiaozhuai/imageinfo-rs)** – Rozsdakönyvtár a képméret és -formátum eléréséhez betöltés/dekódolás nélkül. Támogatja az [.avif](/hu/image/avif/), [.bmp](/hu/image/bmp/), [.cur](/hu/image/cur/), [.dds](/hu/image/dds/), [. gif](/hu/image/gif/), hdr (pic), [heic (heif)](/hu/image/heic/), [.icns](/hu/image/icns/), [.ico](/hu/image/ico/), [.jp2](/hu/image/jp2/), [jpeg (jpg)](/hu/image/jpeg/), [jpx](/hu/image/jpx/), ktx, [png](/hu/image/png/), [psd](/hu/image/psd/), qoi, tga, tiff (tif) és webp.
 * **[HdrHistogram](https://github.com/HdrHistogram/HdrHistogram)** – A HdrHistogram Java implementációja.
 
 ## Hivatkozások

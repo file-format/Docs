@@ -102,7 +102,7 @@ A CS fájlokat megnyitó programok közé tartozik
 - [CS - CLEO Custom Script](/hu/game/cs-cleo/)
 
 **Programozás**
-- [CS - CSharp Code File](/hu/programing/cs/)
+- [CS - CSharp Code File](/hu/programming/cs/)
 
 ## Hivatkozások
 * [ColorSchemer Studio 2](https://www.colorschemer.com/)

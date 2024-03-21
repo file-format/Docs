@@ -20,7 +20,7 @@
 
 ## Mi az a 4. fájl?
 
-A .4 kiterjesztésű fájl a **Forth programozási nyelvhez** létrehozott programfájl. Forth programozási nyelven írt programok forráskódját tartalmazza, és a program végrehajtásakor generálja a kimenetet. Ez csak egy másik programnyelvi fájl, amely hasonló a [C](/hu/programming/c/) és a [C++](/hu/programing/cpp/) forrásfájlhoz.
+A .4 kiterjesztésű fájl a **Forth programozási nyelvhez** létrehozott programfájl. Forth programozási nyelven írt programok forráskódját tartalmazza, és a program végrehajtásakor generálja a kimenetet. Ez csak egy másik programnyelvi fájl, amely hasonló a [C](/hu/programming/c/) és a [C++](/hu/programming/cpp/) forrásfájlhoz.
 
 ## 4. fájlformátum – További információ
 

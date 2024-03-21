@@ -30,9 +30,9 @@ Próbálja ki most az Aspose.Words online alkalmazást, hogy problémamentesen *
 
 ### A DOCX DOCM online konvertálásának lépései
 
-A DOCX-et DOC-fájlformátumba konvertálhatja az [Aspose.Words DOCX to DOCM alkalmazás] (https://products.aspose.app/words/conversion/docx-to-docm) segítségével az alábbiak szerint.
+A DOCX-et DOC-fájlformátumba konvertálhatja az [Aspose.Words DOCX to DOCM alkalmazás](https://products.aspose.app/words/conversion/docx-to-docm) segítségével az alábbiak szerint.
 
-1. Nyissa meg az Aspose.Words alkalmazást a [DOCX to DOCM konverterhez] (https://products.aspose.app/words/conversion/docx-to-docm)
+1. Nyissa meg az Aspose.Words alkalmazást a [DOCX to DOCM konverterhez](https://products.aspose.app/words/conversion/docx-to-docm)
 1. Töltse fel a DOCX fájlt a feltöltés gombra kattintva
 1. Ha elkészült, nyomja meg a Konvertálás gombot. Ez elindítja a DOCX fájl DOC formátumba konvertálásának folyamatát a háttérben
 1. A DOCX-DOC konvertálási folyamat befejeződése után a rendszer felkéri a konvertált RTF-fájl letöltésére
@@ -43,10 +43,10 @@ A DOCX-et DOC-fájlformátumba konvertálhatja az [Aspose.Words DOCX to DOCM alk
 
 Az [Aspose.Words](https://products.aspose.com/words/) olyan API-készlet, amely lehetővé teszi bármely fejlesztő számára a [DOCX](/hu/word-processing/docx/) [DOCM](/hu/word-processing) formátumú konvertálását /docm/) formátumban egyszerű kódsorok használatával. Számos programozási nyelvhez elérhető, beleértve:
 
-* [C#](/hu/programing/cs/)
-* [Java](/hu/programozás/java/)
-* [Python](/hu/programing/py/)
-* [C++](/hu/programozás/cpp/).
+* [C#](/hu/programming/cs/)
+* [Java](/hu/programming/java/)
+* [Python](/hu/programming/py/)
+* [C++](/hu/programming/cpp/).
 
 A DOCM mellett az Aspose.Words API-k lehetővé teszik a DOCX-fájlok sok más népszerű fájlformátumra való konvertálását.
 

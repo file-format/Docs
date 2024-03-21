@@ -358,7 +358,7 @@ A CryENGINE különféle fájlformátumokat támogat különböző típusú ját
 
 
 - [.lua](/hu/programming/lua/): Lua szkriptfájlok játékszkriptekhez.
-- [.cpp](/hu/programming/cpp/), [.h](/hu/programing/h/): C++ forráskód fájlok egyéni játéklogikához és bővítményekhez.
+- [.cpp](/hu/programming/cpp/), [.h](/hu/programming/h/): C++ forráskód fájlok egyéni játéklogikához és bővítményekhez.
 
 ## CAF fájl - Mivel nyitható meg egy CAF fájl?
 
@@ -378,7 +378,7 @@ CAF-fájlokat megnyitó vagy hivatkozó programok
 
 **Adatbázis és programozás**
 - [CAF - Cathy katalógusfájl formátum](/hu/database/caf/)
-- [CAF - CryENGINE karakteranimációs fájl](/hu/programozás/caf-cryengine/)
+- [CAF - CryENGINE karakteranimációs fájl](/hu/programming/caf-cryengine/)
 
 ## Hivatkozások
 * [CryEngine](https://en.wikipedia.org/wiki/CryEngine)

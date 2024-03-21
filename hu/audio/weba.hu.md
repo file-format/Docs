@@ -43,7 +43,7 @@ A WEBA egy hangfájl, ezért nem konvertálható feliratfájllá. Vannak azonban
 
 ## Hogyan lehet átalakítani a WEBA-t más audio formátumokká?
 
-A WEBA fájlok más hangfájlformátumokká konvertálhatók. Mivel az ingyenes és nyílt forráskódú OGG konténer fájlformátumon alapul, számos API és alkalmazás, amelyek képesek olvasni és konvertálni a WEBA-t más fájlformátumokba, például [MP3](/hu/audio/mp3/), [MP4](/hu/audio/ mp4/), [FLAC](/hu/audio/flac/) és még sokan mások. Az FFmpeg egy olyan szoftver, amely képes a WEBA-t MP3 fájllá konvertálni.
+A WEBA fájlok más hangfájlformátumokká konvertálhatók. Mivel az ingyenes és nyílt forráskódú OGG konténer fájlformátumon alapul, számos API és alkalmazás, amelyek képesek olvasni és konvertálni a WEBA-t más fájlformátumokba, például [MP3](/hu/audio/mp3/), [MP4](/hu/video/mp4/), [FLAC](/hu/audio/flac/) és még sokan mások. Az FFmpeg egy olyan szoftver, amely képes a WEBA-t MP3 fájllá konvertálni.
 
 ## Hivatkozások
 

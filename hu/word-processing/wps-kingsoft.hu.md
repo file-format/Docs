@@ -71,10 +71,10 @@ Ha WPS-fájlokat szeretne megnyitni és szerkeszteni a Kingsoft Writer segítsé
 
 A Kingsoft Writer a következő formátumokba tudja konvertálni a WPS fájlokat:
 
-- [DOC](/hu/szövegszerkesztés/doc/)
-- [DOCX](/hu/szövegfeldolgozás/docx/)
-- [RTF](/hu/text-processing/rtf/)
-- [TXT](/hu/szövegszerkesztés/txt/)
+- [DOC](/hu/word-processing/doc/)
+- [DOCX](/hu/word-processing/docx/)
+- [RTF](/hu/word-processing/rtf/)
+- [TXT](/hu/word-processing/txt/)
 - [HTML](/hu/web/html/)
 - [PDF](/hu/pdf/)
 
@@ -82,7 +82,7 @@ A Kingsoft Writer a következő formátumokba tudja konvertálni a WPS fájlokat
 
 Íme más fájltípusok, amelyek a **.wps** fájlkiterjesztést használják.
 
-- [WPS - Microsoft Works Word Processor Document](/hu/text-processing/wps/)
+- [WPS - Microsoft Works Word Processor Document](/hu/word-processing/wps/)
 - [WPS - SDL Translator's Workbench Project File](/hu/settings/wps/)
 
 ## Hivatkozások

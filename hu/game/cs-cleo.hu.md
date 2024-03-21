@@ -187,7 +187,7 @@ A CLEO .cs (Custom Script) fájlok megnyitásához és tartalmának megtekintés
 - [CS - CLEO Custom Script](/hu/game/cs-cleo/)
 
 **Programozás**
-- [CS - CSharp Code File](/hu/programing/cs/)
+- [CS - CSharp Code File](/hu/programming/cs/)
 
 ## Hivatkozások
 * [CLEO könyvtár](https://cleo.li/)

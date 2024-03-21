@@ -41,7 +41,7 @@ Ehhez helyezze a CAF fájlt ugyanabba a könyvtárba, mint a Cathy.exe fájlt. E
 
 **Adatbázis és programozás**
 - [CAF - Cathy katalógusfájl formátum](/hu/database/caf/)
-- [CAF - CryENGINE karakteranimációs fájl](/hu/programozás/caf-cryengine/)
+- [CAF - CryENGINE karakteranimációs fájl](/hu/programming/caf-cryengine/)
 
 ## Hivatkozások
 

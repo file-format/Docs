@@ -79,7 +79,7 @@ A .ink fájlformátumot általában a **Mimio Notebook** szoftverhez társítjá
 
 ## Ossza meg az INK fájlt
 
-Ha a tanárnak meg kell osztania az .ink fájlt tanulóval vagy más tanárral, aki nem fér hozzá a Mimio Notebookhoz, exportálhatja az .ink fájlt szélesebb körben kompatibilis formátumban, például [PDF](/hu/pdf/), [HTML](/hu/web) /html/) vagy képfájlok ([.JPEG](/hu/image/jpeg/), [.PNG](/hu/image/png/), [.GIF](/hu/image/gif/), [.TIFF](/hu/ kép/tiff/)); így a tartalom könnyen megosztható és megtekinthető különféle eszközökön és szoftveralkalmazásokon anélkül, hogy a Mimio Notebookhoz hozzá kellene férnie.
+Ha a tanárnak meg kell osztania az .ink fájlt tanulóval vagy más tanárral, aki nem fér hozzá a Mimio Notebookhoz, exportálhatja az .ink fájlt szélesebb körben kompatibilis formátumban, például [PDF](/hu/pdf/), [HTML](/hu/web) /html/) vagy képfájlok ([.JPEG](/hu/image/jpeg/), [.PNG](/hu/image/png/), [.GIF](/hu/image/gif/), [.TIFF](/hu/image/tiff/)); így a tartalom könnyen megosztható és megtekinthető különféle eszközökön és szoftveralkalmazásokon anélkül, hogy a Mimio Notebookhoz hozzá kellene férnie.
 
 ## MimioStudio
 

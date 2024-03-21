@@ -20,7 +20,7 @@
 
 Ismernie kell a **PPTX** és **PPT** kiterjesztésű fájlokat, ezek olyan prezentációs fájlformátumok, amelyek rekordok gyűjteményét tárolják a prezentációs adatok, például: diák, alakzatok, szöveg, animációk, videó, hang és beágyazott objektumok tárolására. . A prezentáció menthető/konvertálható más fájlformátumokba, mint például PDF, BMP, PNG, JPEG és XPS.
 
-A prezentációs fájl általános kiterjesztései és a hozzájuk tartozó fájlformátumok a következők: **[PPTX](/hu/presentation/pptx/)**, **[PPT](/hu/presentation/ppt/)** és **[ODP](/hu/presentation/odp /)**.
+A prezentációs fájl általános kiterjesztései és a hozzájuk tartozó fájlformátumok a következők: **[PPTX](/hu/presentation/pptx/)**, **[PPT](/hu/presentation/ppt/)** és **[ODP](/hu/presentation/odp/)**.
 
 Kérdései vannak a prezentációs fájlformátumokkal kapcsolatban? Látogasson el közösségi [fórumainkra](https://forum.fileformat.com/c/presentation/8), hogy hasznot húzzon a fájlformátum-szakértők által megosztott tudásból.
 

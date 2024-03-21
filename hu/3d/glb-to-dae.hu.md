@@ -18,7 +18,7 @@
 
 ## A GLB-ről a DAE-re
 
-A GLB-fájlok 3D-s fájlformátumokban való használata nem újdonság. A GLB egy gyakran használt 3D bináris fájlformátum, amely a 3D modelleket GL Transmission formátumban, azaz ([glTF](/hu/3d/gltf/)) reprezentálja. A [DAE](/hu/3d/DAE/) viszont egy Digital Asset Exchange fájlformátum, amelyet interaktív 3D alkalmazások közötti adatcserére használnak. A GLB fájlok DAE fájlformátumba konvertálhatók számos ingyenes online alkalmazás segítségével. Ha Ön alkalmazásfejlesztő, aki a GLB–DAE konverziós funkciókat szeretné alkalmazásaiba beágyazni, az Aspose.3D API segítségével ezt elérheti.
+A GLB-fájlok 3D-s fájlformátumokban való használata nem újdonság. A GLB egy gyakran használt 3D bináris fájlformátum, amely a 3D modelleket GL Transmission formátumban, azaz ([glTF](/hu/3d/gltf/)) reprezentálja. A [DAE](/hu/3d/dae/) viszont egy Digital Asset Exchange fájlformátum, amelyet interaktív 3D alkalmazások közötti adatcserére használnak. A GLB fájlok DAE fájlformátumba konvertálhatók számos ingyenes online alkalmazás segítségével. Ha Ön alkalmazásfejlesztő, aki a GLB–DAE konverziós funkciókat szeretné alkalmazásaiba beágyazni, az Aspose.3D API segítségével ezt elérheti.
 
 ## Konverzió GLB-ből DAE-be - Ingyenes bemutató
 
@@ -60,7 +60,7 @@ A GLB konvertálása DAE-vé .NET-ben egyszerű az Aspose.3D for .NET API-val. E
 **Aspose.3D .NET-erőforrásokhoz**
 
 1. [Aspose.3D for .NET](https://products.aspose.com/3d/net/)
-1. Telepítse az [Aspose.3D for .NET] fájlt (https://docs.aspose.com/3d/net/installation/)
+1. Telepítse az [Aspose.3D for .NET](https://docs.aspose.com/3d/net/installation/) fájlt
 
 ### Konvertálja a GLB-t DAE-vé az Aspose.3D for Java segítségével
 

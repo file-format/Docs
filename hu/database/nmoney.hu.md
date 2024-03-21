@@ -36,7 +36,7 @@ A Denarót eredetileg a [Nickvision](https://nickvision.org/) fejlesztette ki te
 
 ## Denaro fájlformátum - További információ
 
-A Denaro fájlok bináris fájlformátumban kerülnek a lemezre. A pénzügyi adatok adatbázisfájlként vannak tárolva **.SQLITE3** fájlformátumban. Az SQLITE egy könnyű SQL adatbázisfájl, amelyet az SQLite szoftverrel hoztak létre. Önálló adatbázis-motort biztosít, amely képes teljes körű és rendkívül megbízható adatbázis biztosítására. Az SQLite adatbázisfájlok segítségével gazdag tartalom osztható meg a rendszerek között, egyszerűen cserélve ezeket a fájlokat a hálózaton keresztül. SQLite-összerendelések léteznek olyan programozási nyelvekhez, mint a C, [C#](/hu/programing/cs/), [C++](/hu/programing/cpp/), [Java](/hu/programing/java/), [PHP](/hu/programing/ php/), és még sokan mások.
+A Denaro fájlok bináris fájlformátumban kerülnek a lemezre. A pénzügyi adatok adatbázisfájlként vannak tárolva **.SQLITE3** fájlformátumban. Az SQLITE egy könnyű SQL adatbázisfájl, amelyet az SQLite szoftverrel hoztak létre. Önálló adatbázis-motort biztosít, amely képes teljes körű és rendkívül megbízható adatbázis biztosítására. Az SQLite adatbázisfájlok segítségével gazdag tartalom osztható meg a rendszerek között, egyszerűen cserélve ezeket a fájlokat a hálózaton keresztül. SQLite-összerendelések léteznek olyan programozási nyelvekhez, mint a C, [C#](/hu/programming/cs/), [C++](/hu/programming/cpp/), [Java](/hu/programming/java/), [PHP](/hu/programming/php/), és még sokan mások.
 
 ## Hivatkozások
 

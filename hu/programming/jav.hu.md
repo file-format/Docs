@@ -15,7 +15,7 @@ lastmod: 2023-05-15
 
 ## Mi az a Java fájl?
 
-A Java fájl egy Java forráskód fájl, amelyet Java programozási nyelven hoztak létre. Hasonló a Java forrásfájlhoz, és Java interpreterekkel fordítható. A [Java](/hu/programing/java/) fájlokhoz hasonlóan a Java fájlokat is Java alkalmazások fejlesztéséhez használják. Egyike lehet a Java projektekben elérhető forráskódfájlok közül.
+A Java fájl egy Java forráskód fájl, amelyet Java programozási nyelven hoztak létre. Hasonló a Java forrásfájlhoz, és Java interpreterekkel fordítható. A [Java](/hu/programming/java/) fájlokhoz hasonlóan a Java fájlokat is Java alkalmazások fejlesztéséhez használják. Egyike lehet a Java projektekben elérhető forráskódfájlok közül.
 
 ## Java fájl formátum
 

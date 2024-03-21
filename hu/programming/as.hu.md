@@ -76,7 +76,7 @@ package com.example
 
 ## Hivatkozási szám
 
-* [AS – a Wikipedia által]( https://en.wikipedia.org/wiki/ActionScript)
+* [AS – a Wikipedia által](https://en.wikipedia.org/wiki/ActionScript)
 
 
 

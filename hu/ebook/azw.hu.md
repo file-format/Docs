@@ -19,7 +19,7 @@
 
 ## Mi az az AZW fájl?
 
-Az AZW egy digitális ebook fájlformátum, amelyet az Amazon fejlesztett ki Kindle eszközeihez. A formátumot a MobiPocket eBook [MOBI](/hu/ebook/mobi/) fájlformátumból vették át, és DRM-védelmet csak a Kindle eszközökön való használatukra alkalmaztak. Az AZW-fájlok tárolhatnak például formázott szöveget, könyvjelzőket és egyéb információkat, amelyek a Mobipocket .PRC fájlok részét képezik. A DRM-védett AZW-fájlokat más eszközök nem tudják elolvasni, és Kindle-eszközökkel is olvashatók. Az AZW-fájlok számos más fájlformátumba konvertálhatók, például [PDF](/hu/pdf/), [EPUB](/hu/ebook/epub/), [AZW3](/hu/ebook/azw3/), [DOCX](/hu/word) -feldolgozás/docx/), és [RTF](/hu/word-processing/rtf/). Az AZW-fájlok internetes médiatípusa *application/vnd.amazon.mobi8-ebook*.
+Az AZW egy digitális ebook fájlformátum, amelyet az Amazon fejlesztett ki Kindle eszközeihez. A formátumot a MobiPocket eBook [MOBI](/hu/ebook/mobi/) fájlformátumból vették át, és DRM-védelmet csak a Kindle eszközökön való használatukra alkalmaztak. Az AZW-fájlok tárolhatnak például formázott szöveget, könyvjelzőket és egyéb információkat, amelyek a Mobipocket .PRC fájlok részét képezik. A DRM-védett AZW-fájlokat más eszközök nem tudják elolvasni, és Kindle-eszközökkel is olvashatók. Az AZW-fájlok számos más fájlformátumba konvertálhatók, például [PDF](/hu/pdf/), [EPUB](/hu/ebook/epub/), [AZW3](/hu/ebook/azw3/), [DOCX](/hu/word-processing/docx/), és [RTF](/hu/word-processing/rtf/). Az AZW-fájlok internetes médiatípusa *application/vnd.amazon.mobi8-ebook*.
 
 ## AZW fájlformátum
 
