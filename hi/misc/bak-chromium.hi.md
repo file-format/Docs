@@ -104,22 +104,11 @@ MacOS पर: `~/Library/Application Support/Chromium/Default/Bookmarks.bak` म
 
 यहां अन्य फ़ाइल प्रकार हैं जो **.bak** फ़ाइल एक्सटेंशन का उपयोग करते हैं।
 
-**डेटाबेस**
-- [BAK - डेटाबेस बैकअप फ़ाइल](/hi/डेटाबेस/bak/)
-- [बीएके - स्विफ्टपेज एक्ट! डेटाबेस बैकअप](/hi/डेटाबेस/bak-act/)
-- [BAK - Microsoft SQL सर्वर डेटाबेस बैकअप](/hi/डेटाबेस/bak-sqlserver/)
-
-**खेल**
-- [बीएके - टेरारिया वर्ल्ड या प्लेयर बैकअप](/hi/गेम/बक-टेरारिया/)
-
 **विविध**
 - [BAK - बैकअप फ़ाइल](/hi/misc/bak-backup/)
 - [बीएके - फिनाले 2012 स्कोर बैकअप](/hi/misc/bak-finale/)
 - [BAK - मोबाइलट्रांस बैकअप](/hi/misc/bak-mobiletrans/)
 - [BAK - VEGAS वीडियो प्रोजेक्ट बैकअप](/hi/misc/bak-vegas/)
-
-**समायोजन**
-- [बीएके - होलो लॉन्चर बैकअप](/hi/सेटिंग्स/बक-होलो/)
 
 ## संदर्भ
 * [Chromium Bookmarks](https://www.chromium.org/user-experience/bookmarks/)

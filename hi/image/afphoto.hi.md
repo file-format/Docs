@@ -31,17 +31,17 @@ AFPHOTO फ़ाइल सेरिफ़ एफ़िनिटी फ़ोट
 
 सेरिफ़ एफ़िनिटी फ़ोटो सॉफ़्टवेयर का उपयोग करके AFPHOTO फ़ाइलों को कई अलग-अलग स्वरूपों में परिवर्तित किया जा सकता है। निम्नलिखित निर्यात फ़ाइल स्वरूप समर्थित हैं।
 
- * [PSD](/image/psd/) - Adobe Photoshop दस्तावेज़
- * [पीडीएफ](/पीडीएफ/) - पोर्टेबल दस्तावेज़ प्रारूप
- * [जेपीजी](/इमेज/जेपीईजी/) - जेपीईजी इमेज
- * [पीएनजी](/image/png/) - पोर्टेबल नेटवर्क ग्राफ़िक
- * [जीआईएफ](/छवि/जीआईएफ/) - ग्राफिकल इंटरचेंज प्रारूप
+ * [PSD](/image/psd/) - Adobe Photoshop Document
+ * [PDF](/pdf/) - Portable Document Format
+ * [JPG](/image/jpeg/) - JPEG Image
+ * [PNG](/image/png/) - Portable Network Graphic
+ * [GIF](/image/gif/) - Graphical Interchange Format
  * [EPS](/page-description-language/eps/) - Encapsulated PostScript
  * [SVG](/page-description-language/svg/) - Scalable Vector Graphics
- * [TIFF](/image/tiff/) - टैग की गई छवि फ़ाइल स्वरूप
- * टीजीए - टार्गा ग्राफिक
- * EXR - ओपनEXR छवि
- * [HDR](/image/hdr/) - उच्च गतिशील रेंज छवि
+ * [TIFF](/image/tiff/) - Tagged Image File Format
+ * TGA - Targa Graphic
+ * EXR - OpenEXR Image
+ * [HDR](/image/hdr/) - High Dynamic Range Image
 
 ## संदर्भ
 

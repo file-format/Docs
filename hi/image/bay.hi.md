@@ -45,11 +45,11 @@
 
 आप BAY फ़ाइलों को अन्य प्रारूपों में परिवर्तित करने के लिए **Adobe कैमरा रॉ (ACR)** प्लगइन का उपयोग करके Adobe Photoshop का उपयोग कर सकते हैं।
 
-- [पीएनजी](/hi/image/png/) - पोर्टेबल नेटवर्क ग्राफ़िक
-- [जेपीईजी](/hi/इमेज/जेपीईजी/) - जेपीईजी इमेज
-- [जीआईएफ](/hi/इमेज/जीआईएफ/) - ग्राफिकल इंटरचेंज फॉर्मेट
-- [PSD](/hi/image/psd/) - Adobe Photoshop दस्तावेज़
-- [बीएमपी](/hi/image/bmp/) - बिटमैप छवि
+- [PNG](/image/png/) - Portable Network Graphic
+- [JPEG](/image/jpeg/) - JPEG Image
+- [GIF](/image/gif/) - Graphical Interchange Format
+- [PSD](/image/psd/) - Adobe Photoshop Document
+- [BMP](/image/bmp/) - Bitmap Image
 
 ## BAY फ़ाइल का प्रारूप क्या है?
 

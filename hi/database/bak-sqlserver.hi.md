@@ -92,23 +92,12 @@ FROM DISK = 'C:\Path\To\Your\BackupFile.bak'
 ## अन्य BAK फ़ाइलें
 
 यहां अन्य फ़ाइल प्रकार हैं जो **.bak** फ़ाइल एक्सटेंशन का उपयोग करते हैं।
-
-**डेटाबेस**
-- [BAK - डेटाबेस बैकअप फ़ाइल](/hi/डेटाबेस/bak/)
-- [बीएके - स्विफ्टपेज एक्ट! डेटाबेस बैकअप](/hi/डेटाबेस/bak-act/)
-
-**खेल**
-- [बीएके - टेरारिया वर्ल्ड या प्लेयर बैकअप](/hi/गेम/बक-टेरारिया/)
-
 **विविध**
 - [BAK - बैकअप फ़ाइल](/hi/misc/bak-backup/)
 - [BAK - क्रोमियम बुकमार्क बैकअप](/hi/misc/bak-chromium/)
 - [बीएके - फिनाले 2012 स्कोर बैकअप](/hi/misc/bak-finale/)
 - [BAK - मोबाइलट्रांस बैकअप](/hi/misc/bak-mobiletrans/)
 - [BAK - VEGAS वीडियो प्रोजेक्ट बैकअप](/hi/misc/bak-vegas/)
-
-**समायोजन**
-- [बीएके - होलो लॉन्चर बैकअप](/hi/सेटिंग्स/बक-होलो/)
 
 ## संदर्भ
 * [Backup and restore a SQL Server database with SSMS](https://learn.microsoft.com/en-us/sql/relational-databases/backup-restore/quickstart-backup-restore-database?view=sql-server-ver16&tabs=ssms)

@@ -38,7 +38,3 @@
 ## संदर्भ
 
 * [GAM फ़ाइल स्वरूप](https://gibberlings3.github.io/iesdp/file_formats/ie_formats/gam_v2.0.htm#GAMEV2_0_Stored)
-
-* [एसएवी फ़ाइल प्रारूप](/गेम/सेव/)
-
-

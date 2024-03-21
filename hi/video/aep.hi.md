@@ -38,19 +38,19 @@ After Effects प्रोजेक्ट फ़ाइलों को इसम
 
 AEP फ़ाइलों को अन्य लोकप्रिय फ़ाइल स्वरूपों में परिवर्तित किया जा सकता है जैसे:
 
-* [.MOV](/hi/video/mov/) - Apple क्विकटाइम मूवी
-* [.AVI](/hi/video/avi/) - ऑडियो वीडियो इंटरलीव
-* [.JPG](/hi/image/jpeg/) - JPEG छवि
-* [.PNG](/hi/image/png/) - पोर्टेबल नेटवर्क ग्राफ़िक
-* .DPX - डिजिटल पिक्चर एक्सचेंज
-* .EXR - ओपनEXR छवि
-* .M4A - MPEG-4 ऑडियो
-* [.MP3](/hi/audio/mp3/) - MP3 ऑडियो
-* [.WAV](/hi/ऑडियो/wav/) - वेव ऑडियो
-* .AEPX - आफ्टर इफेक्ट्स XML प्रोजेक्ट
-* .एईटी - आफ्टर इफेक्ट्स टेम्पलेट
-* .PRPROJ - एडोब प्रीमियर प्रो
-
+* [.MOV](/video/mov/) - Apple QuickTime Movie
+ * [.AVI](/video/avi/) - Audio Video Interleave
+ * [.JPG](/image/jpeg/) - JPEG Image
+ * [.PNG](/image/png/) - Portable Network Graphic
+ * .DPX - Digital Picture Exchange
+ * .EXR - OpenEXR Image
+ * .M4A - MPEG-4 Audio
+ * [.MP3](/audio/mp3/) - MP3 Audio
+ * [.WAV](/audio/wav/) - WAVE Audio
+ * .AEPX - After Effects XML Project
+ * .AET - After Effects Template
+ * .PRPROJ - Adobe Premiere Pro
+ 
 ## संदर्भ
 
 - [आफ्टर इफेक्ट्स प्रोजेक्ट प्रकार](https://helpx.adobe.com/after-effects/using/projects.html)

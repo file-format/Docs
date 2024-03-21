@@ -37,8 +37,6 @@ Aspose.Words ऐप Aspose द्वारा लोकप्रिय प्र
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-[Aspose.Words](https://products.aspose.com/words/) एपीआई का एक सेट है जो किसी भी डेवलपर को [DOC](/hi/word-processing/doc/) को [BMP](/hi/image/bmp) में बदलने की सुविधा देता है /) कोड की सरल पंक्तियों का उपयोग करके प्रारूपित करें। यह [सी#](/hi/प्रोग्रामिंग/सीएस/), [जावा](/hi/प्रोग्रामिंग/जावा/), [पायथन](/hi/प्रोग्रामिंग/पीई/) और [सी++](/hi/प्रोग्रामिंग/सीपीपी/) सहित कई प्रोग्रामिंग भाषाओं के लिए उपलब्ध है। ). BMP के अलावा, Aspose.Words API आपको DOC फ़ाइलों को कई अन्य लोकप्रिय फ़ाइल स्वरूपों में परिवर्तित करने देता है।
-
 ## संदर्भ
 
 * [Aspose.Words](https://products.aspose.com/words/)

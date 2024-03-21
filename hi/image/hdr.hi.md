@@ -37,11 +37,10 @@
 ## ओपन-सोर्स एचडीआर/एचडीआरआई एपीआई
 
 * **[imageinfo](https://github.com/xiaozhuai/imageinfo)** - क्रॉस प्लेटफॉर्म सुपर फास्ट सिंगल हेडर [C++](/hi/programming/cpp/) लाइब्रेरी बिना लोड/डिकोडिंग के छवि आकार और प्रारूप प्राप्त करने के लिए।
-* **[imgaeinfo-rs](https://github.com/xiaozhuai/imageinfo-rs)** - बिना लोड/डिकोडिंग के छवि आकार और प्रारूप प्राप्त करने के लिए रस्ट लाइब्रेरी। समर्थन [.avif](/hi/image/avif/), [.bmp](/hi/image/bmp/), [.cur](/hi/image/cur/), [.dds](/hi/image/dds/), [. gif](/hi/image/gif/), hdr (तस्वीर), [heic (heif)](/hi/image/heic/), [.icns](/hi/image/icns/), [.ico](/hi/image/ico /), [.jp2](/hi/image/jp2/), [jpeg (jpg)](/hi/image/jpeg/), [jpx](/hi/image/jpx/), ktx, [png](/hi/image/png /), [psd](/hi/image/psd/), qoi, tga, tiff (tif), और webp।
+* **[imgaeinfo-rs](https://github.com/xiaozhuai/imageinfo-rs)** - बिना लोड/डिकोडिंग के छवि आकार और प्रारूप प्राप्त करने के लिए रस्ट लाइब्रेरी। समर्थन [.avif](/hi/image/avif/), [.bmp](/hi/image/bmp/), [.cur](/hi/image/cur/), [.dds](/hi/image/dds/), [. gif](/hi/image/gif/), hdr (तस्वीर), [heic (heif)](/hi/image/heic/), [.icns](/hi/image/icns/), [.ico](/hi/image/ico/), [.jp2](/hi/image/jp2/), [jpeg (jpg)](/hi/image/jpeg/), [jpx](/hi/image/jpx/), ktx, [png](/hi/image/png/), [psd](/hi/image/psd/), qoi, tga, tiff (tif), और webp।
 * **[HdrHistogram](https://github.com/HdrHistogram/HdrHistogram)** - एचडीआरहिस्टोग्राम का जावा कार्यान्वयन।
 
 ## संदर्भ
 
 * [रेडियंस एचडीआर](http://paulbourke.net/dataformats/pic/)
 * [imageinfo](https://github.com/xiaozhuai/imageinfo)
-
