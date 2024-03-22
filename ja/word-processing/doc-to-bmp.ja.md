@@ -37,7 +37,7 @@ Aspose.Words アプリは、Aspose による人気のプログラミング API �
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-[Aspose.Words](https://products.aspose.com/words/) は、開発者が [DOC](/ja/word-processing/doc/) を [BMP](/ja/image/bmp) に変換できる API セットです。 /) 単純なコード行を使用した形式。 [C#](/ja/programming/cs/)、[Java](/ja/programming/java/)、[Python](/ja/programming/py/)、[C++](/ja/programming/cpp/など) を含む多くのプログラミング言語で利用できます。 ）。 BMP に加えて、Aspose.Words API を使用すると、DOC ファイルを他の多くの一般的なファイル形式に変換できます。
+[Aspose.Words](https://products.aspose.com/words/) は、開発者が [DOC](/ja/word-processing/doc/) を [BMP](/ja/image/bmp) に変換できる API セットです。 単純なコード行を使用した形式。 [C#](/ja/programming/cs/)、[Java](/ja/programming/java/)、[Python](/ja/programming/py/)、[C++](/ja/programming/cpp/) など を含む多くのプログラミング言語で利用できます。 ）。 BMP に加えて、Aspose.Words API を使用すると、DOC ファイルを他の多くの一般的なファイル形式に変換できます。
 
 ## 参考文献
 

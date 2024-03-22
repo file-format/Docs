@@ -18,7 +18,7 @@
 
 ## DOCXからSVGへの変換について
 
-SVG (Scalar Vector Graphics) は、画像の外観を表現するために XML ベースのテキスト形式を使用する画像ファイルの一種です。このファイル形式の利点は、SVG ファイルとして保存された画像を、品質を損なうことなくさまざまなサイズに拡大縮小できることです。 DOCX (Word ファイルを保存するために最もよく使用されるドキュメント ファイル形式の 1 つ) から SVG への変換は、Microsoft Word ユーザーが DOCX ファイルに対して実行する一般的に使用される操作の 1 つです。 DOCX から SVG への変換を実行するためにオンラインで利用できるアプリやツールが多数あります。 Aspose.Words アプリは、[DOCX](/ja/word-processing/docx/) を [SVG](/ja/page-description- language/svg/) に無料で変換できるオンライン ツールの 1 つです。
+SVG (Scalar Vector Graphics) は、画像の外観を表現するために XML ベースのテキスト形式を使用する画像ファイルの一種です。このファイル形式の利点は、SVG ファイルとして保存された画像を、品質を損なうことなくさまざまなサイズに拡大縮小できることです。 DOCX (Word ファイルを保存するために最もよく使用されるドキュメント ファイル形式の 1 つ) から SVG への変換は、Microsoft Word ユーザーが DOCX ファイルに対して実行する一般的に使用される操作の 1 つです。 DOCX から SVG への変換を実行するためにオンラインで利用できるアプリやツールが多数あります。 Aspose.Words アプリは、[DOCX](/ja/word-processing/docx/) を [SVG](/ja/page-description-language/svg/) に無料で変換できるオンライン ツールの 1 つです。
 
 
 ## DOCX から SVG への変換 - 無料デモ
@@ -39,7 +39,7 @@ Aspose.Words オンライン アプリを使用して DOCX を SVG に変換す�
 
 ## Aspose.Words API
 
-Aspose.Words は、開発者が簡単なコード行を使用して [DOCX](/ja/word-processing/docx/) を [SVG](/ja/page-description- language/svg/) 形式に変換できる API セットです。 [C#](/ja/programming/cs/)、[Java](/ja/programming/java/)、[Python](/ja/programming/py/)、[C++](/ja/programming/cpp/ など、多くのプログラミング言語で利用できます。 ）。 SVG に加えて、Aspose.Words API を使用すると、DOCX ファイルを他の多くの一般的なファイル形式に変換できます。
+Aspose.Words は、開発者が簡単なコード行を使用して [DOCX](/ja/word-processing/docx/) を [SVG](/ja/page-description-language/svg/) 形式に変換できる API セットです。 [C#](/ja/programming/cs/)、[Java](/ja/programming/java/)、[Python](/ja/programming/py/)、[C++](/ja/programming/cpp/) など、多くのプログラミング言語で利用できます。。 SVG に加えて、Aspose.Words API を使用すると、DOCX ファイルを他の多くの一般的なファイル形式に変換できます。
 
 ## 参考文献
 

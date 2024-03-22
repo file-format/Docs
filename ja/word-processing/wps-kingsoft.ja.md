@@ -74,7 +74,7 @@ Kingsoft Writer は、WPS ファイルを次の形式に変換できます。
 - [ドキュメント](/ja/word-processing/doc/)
 - [DOCX](/ja/word-processing/docx/)
 - [RTF](/ja/word-processing/rtf/)
-- [TXT](/ja/ワードプロセッサ/txt/)
+- [TXT](/ja/word-processing/txt/)
 - [HTML](/ja/web/html/)
 - [PDF](/ja/pdf/)
 

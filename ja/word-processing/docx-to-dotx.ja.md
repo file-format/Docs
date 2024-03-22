@@ -41,7 +41,7 @@ DOTX は、DOT ファイル形式のアップグレード バージョンで、M
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-[Aspose.Words](https://products.aspose.com/words/) は、開発者が [DOCX](/ja/word-processing/docx/) を [DOTX](/ja/word-processing) に変換できる API セットです。 /dotx/) 形式で、単純なコード行を使用します。 [C#](/ja/programming/cs/)、[Java](/ja/programming/java/)、[Python](/ja/programming/py/)、[C++](/ja/programming/cpp/など) を含む多くのプログラミング言語で利用できます。 ）。 DOTX に加えて、Aspose.Words API を使用すると、DOCX ファイルを他の多くの一般的なファイル形式に変換できます。
+[Aspose.Words](https://products.aspose.com/words/) は、開発者が [DOCX](/ja/word-processing/docx/) を [DOTX](/ja/word-processing/dotx/) に変換できる API セットです。 形式で、単純なコード行を使用します。 [C#](/ja/programming/cs/)、[Java](/ja/programming/java/)、[Python](/ja/programming/py/)、[C++](/ja/programming/cpp/) など を含む多くのプログラミング言語で利用できます。 ）。 DOTX に加えて、Aspose.Words API を使用すると、DOCX ファイルを他の多くの一般的なファイル形式に変換できます。
 
 ## 参考文献
 

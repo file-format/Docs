@@ -37,5 +37,5 @@ Aspose.Words オンライン アプリを使用して DOCX を RTF に変換す�
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-Aspose.Words は、開発者が簡単なコード行を使用して [DOCX](/ja/word-processing/docx/) を [RTF](/ja/word-processing/rtf/) 形式に変換できる API セットです。 [C#](/ja/programming/cs/)、[Java](/ja/programming/java/)、[Python](/ja/programming/py/)、[C++](/ja/programming/cpp/など) を含む多くのプログラミング言語で利用できます。 ）。 TXT に加えて、Aspose.Words API を使用すると、DOCX ファイルを他の多くの一般的なファイル形式に変換できます。
+Aspose.Words は、開発者が簡単なコード行を使用して [DOCX](/ja/word-processing/docx/) を [RTF](/ja/word-processing/rtf/) 形式に変換できる API セットです。 [C#](/ja/programming/cs/)、[Java](/ja/programming/java/)、[Python](/ja/programming/py/)、[C++](/ja/programming/cpp/) など を含む多くのプログラミング言語で利用できます。 ）。 TXT に加えて、Aspose.Words API を使用すると、DOCX ファイルを他の多くの一般的なファイル形式に変換できます。
 

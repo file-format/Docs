@@ -30,7 +30,7 @@ Aspose.Words アプリを使用すると、DOCX ファイルをいくつかの�
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-Aspose.Words API スイートを使用すると、開発者はわずか数行のコードで [DOCX](/ja/word-processing/docx/) を [PS](/ja/page-description-langage/ps/) 形式に変換できます。 [C#](/ja/programming/cs/)、[Java](/ja/programming/java/)、[Python](/ja/programming/py/)、[C++](/ja/programming/cpp/ など、多くのプログラミング言語で利用できます。 ）。 PCL に加えて、Aspose.Words API を使用すると、DOCX ファイルを他の多くの一般的なファイル形式に変換できます。
+Aspose.Words API スイートを使用すると、開発者はわずか数行のコードで [DOCX](/ja/word-processing/docx/) を [PS](/ja/page-description-language/ps/) 形式に変換できます。 [C#](/ja/programming/cs/)、[Java](/ja/programming/java/)、[Python](/ja/programming/py/)、[C++](/ja/programming/cpp/) など、多くのプログラミング言語で利用できます。 。 PCL に加えて、Aspose.Words API を使用すると、DOCX ファイルを他の多くの一般的なファイル形式に変換できます。
 
 ## Aspose.Words for .NET リソース
 

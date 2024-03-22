@@ -22,7 +22,7 @@ FREEWAY ファイルは、Web サイトを作成するための MacOS 上の WYS
 
 ## FREEWAY ファイル形式
 
-FREEWAY ファイルは独自のファイル形式で保存され、内部ファイル形式の詳細は公開されていません。サイトで使用される実際のリソースはありませんが、代わりにサイトのレイアウトとさまざまなプロパティへのリンクがあります。実際の Web サイトのリソースとページは、FREEWAY ファイルと同じフォルダーにある「Media」フォルダーと「Site Folder」フォルダーに保存されます。 FREEWAY ドキュメントは、[HTML](/web/html/)、[JPEG](/image/jpeg/)、[PNG](/image/png/)、[BMP](/ image/bmp/)、および [GIF](/image/gif/)。
+FREEWAY ファイルは独自のファイル形式で保存され、内部ファイル形式の詳細は公開されていません。サイトで使用される実際のリソースはありませんが、代わりにサイトのレイアウトとさまざまなプロパティへのリンクがあります。実際の Web サイトのリソースとページは、FREEWAY ファイルと同じフォルダーにある「Media」フォルダーと「Site Folder」フォルダーに保存されます。 FREEWAY ドキュメントは、[HTML](/web/html/)、[JPEG](/image/jpeg/)、[PNG](/image/png/)、[BMP](/image/bmp/)、および [GIF](/image/gif/)。
 
 ## 参考文献
 

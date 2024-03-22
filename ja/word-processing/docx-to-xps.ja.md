@@ -43,7 +43,7 @@ Aspose.Words API は、開発者が DOCX ファイルを操作するアプリを
 
 ## DOCX から XPS への変換について
 
-DOCX ページを XPS (XML Paper Studies) ファイル形式に変換することは、一般的に使用される操作の 1 つです。 DOCX ファイルが XPS に変換されると、そのすべてのページが 1 つの出力 XPS ファイルにレンダリングされます。 Microsoft Windows には、XPS ファイルを開いて表示するために使用できるデフォルトの XPS ビューアが提供されています。 DOCX は、いくつかの異なるオンライン ツールを使用して XPS に変換できます。 Aspose.Words アプリは、[DOCX](/ja/word-processing/docx/) を [XPS](/ja/page-description- language/xps/) にオンラインで無料で変換できるオンライン アプリの 1 つです。
+DOCX ページを XPS (XML Paper Studies) ファイル形式に変換することは、一般的に使用される操作の 1 つです。 DOCX ファイルが XPS に変換されると、そのすべてのページが 1 つの出力 XPS ファイルにレンダリングされます。 Microsoft Windows には、XPS ファイルを開いて表示するために使用できるデフォルトの XPS ビューアが提供されています。 DOCX は、いくつかの異なるオンライン ツールを使用して XPS に変換できます。 Aspose.Words アプリは、[DOCX](/ja/word-processing/docx/) を [XPS](/ja/page-description-language/xps/) にオンラインで無料で変換できるオンライン アプリの 1 つです。
 
 ## .NET、Java、C++、Python で DOCX を XPS に変換
 

@@ -76,7 +76,7 @@ package com.example
 
 ## 参照 ＃＃
 
-* [AS - ウィキペディアによる]( https://en.wikipedia.org/wiki/ActionScript)
+* [AS - ウィキペディアによる](https://en.wikipedia.org/wiki/ActionScript)
 
 
 

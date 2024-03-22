@@ -19,7 +19,7 @@
 
 ## .ODF ファイルとは何ですか?
 
-拡張子が .odf のファイルは、数式、マクロ、および数式を含むドキュメントです。 [Apache OpenOffice Math](https://wiki.openoffice.org/wiki/Documentation/OOo3_User_Guides/Math_Guide) プログラムを使用して作成され、数式を作成してディスクに保存したり、他のドキュメントに含めることができます。これらのファイルは、[ZIP](/compression/zip/)-圧縮された[XML](/web/ xml/) ファイル。 ODF ファイルは、OpenOffice Math や LibreOffice Draw などのアプリケーションで開くことができます。
+拡張子が .odf のファイルは、数式、マクロ、および数式を含むドキュメントです。 [Apache OpenOffice Math](https://wiki.openoffice.org/wiki/Documentation/OOo3_User_Guides/Math_Guide) プログラムを使用して作成され、数式を作成してディスクに保存したり、他のドキュメントに含めることができます。これらのファイルは、[ZIP](/compression/zip/)-圧縮された[XML](/web/xml/) ファイル。 ODF ファイルは、OpenOffice Math や LibreOffice Draw などのアプリケーションで開くことができます。
 
 ## ODF ファイル形式 - 詳細情報
 

@@ -20,7 +20,7 @@
 
 Unity ファイルは、3D ゲーム エンジン **Unity** で作成された 3D シーン ファイルです。編集中に仮想世界を作成するために、他のシーンと組み合わせて使用 されます。オブジェクト、環境、装飾、カメラ、角度情報、照明シナリオ、障害物などの 3D シーン要素が含まれています。
 
-Unity ファイルは、Unity Technologies Unity で開くことができます。 Unity は Unity [.fbx](/3d/fbx/)、[.dae](/3d/dae/) (Collada)、[.3ds](/3d/3ds/)、[.dxf](/ cad/dxf/)、および [.obj](/3d/obj/) ファイル。
+Unity ファイルは、Unity Technologies Unity で開くことができます。 Unity は Unity [.fbx](/3d/fbx/)、[.dae](/3d/dae/) (Collada)、[.3ds](/3d/3ds/)、[.dxf](/cad/dxf/)、および [.obj](/3d/obj/) ファイル。
 
 ## UNITYファイル形式
 

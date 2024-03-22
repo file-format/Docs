@@ -27,7 +27,7 @@ GNM ファイルは圧縮された XML ファイルであり、WinZIP などの�
 
 ## GNM ファイルでサポートされる機能
 
-Gnumeric はいくつかの異なるファイル形式をサポートしているため、ネイティブ GNM ファイルを [CSV](/spreadsheet/csv/)、[XLSX](/spreadsheet/xlsx/)、Microsoft Works (.wks)、[HTML](/ web/html/)、[LaTex](/word-processing/latex/)、および [Lotus 1-2-3](/spreadsheet/123/)。
+Gnumeric はいくつかの異なるファイル形式をサポートしているため、ネイティブ GNM ファイルを [CSV](/spreadsheet/csv/)、[XLSX](/spreadsheet/xlsx/)、Microsoft Works (.wks)、[HTML](/web/html/)、[LaTex](/word-processing/latex/)、および [Lotus 1-2-3](/spreadsheet/123/)。
 
 ## Github の Gnumeric
 

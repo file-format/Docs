@@ -19,7 +19,7 @@
 
 ## .OAM ファイルとは何ですか?
 
-.oam ファイルは、Adobe Edge Animate Widget からエクスポートされたアニメーション ウィジェット ファイルです。 OAM ウィジェット ファイル形式としてエクスポートされたアニメーションは、InDesign ドキュメント ([INDD ファイル](/ja/page-description- language/indd/)、Dreamweaver、Muse など) の他の Adobe アプリケーションに挿入できます。OAM ファイルは、すぐに使用できる展開パッケージのようなものです。他の Adobe のプロジェクトに挿入して利用できます。OAM ファイルには、アニメーションのアセット、動作、アクション スクリプト コードに関する情報が含まれています。OAM ファイルは、Adobe Animate プロジェクト [.AN ファイル](/ja/web/an/) を公開することで作成できます。 。
+.oam ファイルは、Adobe Edge Animate Widget からエクスポートされたアニメーション ウィジェット ファイルです。 OAM ウィジェット ファイル形式としてエクスポートされたアニメーションは、InDesign ドキュメント ([INDD ファイル](/ja/page-description-language/indd/)、Dreamweaver、Muse など) の他の Adobe アプリケーションに挿入できます。OAM ファイルは、すぐに使用できる展開パッケージのようなものです。他の Adobe のプロジェクトに挿入して利用できます。OAM ファイルには、アニメーションのアセット、動作、アクション スクリプト コードに関する情報が含まれています。OAM ファイルは、Adobe Animate プロジェクト [.AN ファイル](/ja/web/an/) を公開することで作成できます。 。
 ユーザーは、Edge Animate プロジェクト (.AN ファイル) から公開することで OAM ファイルを作成できます。
 
 ## OAM ファイル形式

@@ -38,7 +38,7 @@ DOCX と PDF は、コンテンツの作成や共有によく使われるドキ�
 
 ## Aspose.Words API
 
-Aspose.Words API スイートを使用すると、開発者はわずか数行のコードで [DOCX](/ja/word-processing/docx/) を [PDF](/ja/pdf/) 形式に変換できます。 [C#](/ja/programming/cs/)、[Java](/ja/programming/java/)、[Python](/ja/programming/py/)、[C++](/ja/programming/cpp/など) を含む多くのプログラミング言語で利用できます。 ）。 PDF に加えて、Aspose.Words API を使用すると、DOCX ファイルを他の多くの一般的なファイル形式に変換できます。
+Aspose.Words API スイートを使用すると、開発者はわずか数行のコードで [DOCX](/ja/word-processing/docx/) を [PDF](/ja/pdf/) 形式に変換できます。 [C#](/ja/programming/cs/)、[Java](/ja/programming/java/)、[Python](/ja/programming/py/)、[C++](/ja/programming/cpp/) など を含む多くのプログラミング言語で利用できます。。 PDF に加えて、Aspose.Words API を使用すると、DOCX ファイルを他の多くの一般的なファイル形式に変換できます。
 
 ## DOCX から PDF への変換 - 無料デモ
 

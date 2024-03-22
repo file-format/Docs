@@ -35,7 +35,7 @@ Aspose.Words 変換アプリを無料で使用して [DOCX を PNG に変換](ht
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-Aspose.Words アプリは、API スイートである Aspose.Words を利用しており、開発者はわずか数行で [DOCX](/ja/word-processing/docx/) を [PNG](/ja/image/png/) 形式に変換できます。コード。 [C#](/ja/programming/cs/)、[Java](/ja/programming/java/)、[Python](/ja/programming/py/)、[C++](/ja/programming/cpp/など) を含む多くのプログラミング言語で利用できます。 ）。
+Aspose.Words アプリは、API スイートである Aspose.Words を利用しており、開発者はわずか数行で [DOCX](/ja/word-processing/docx/) を [PNG](/ja/image/png/) 形式に変換できます。コード。 [C#](/ja/programming/cs/)、[Java](/ja/programming/java/)、[Python](/ja/programming/py/)、[C++](/ja/programming/cpp/) など を含む多くのプログラミング言語で利用できます。。
 
 ## .NET、Java、C++、Python で DOCX を PNG に変換
 
