@@ -62,7 +62,7 @@ Tra molte altre applicazioni, Adobe Photoshop con la sua utility Camera Raw può
 - [JPEG](/it/image/jpeg/) - Immagine JPEG
 - [GIF](/it/image/gif/) - Formato di interscambio grafico
 - [PSD](/it/image/psd/) - Documento Adobe Photoshop
-- [BMP](/it/immagine/bmp/) - Immagine bitmap
+- [BMP](/it/image/bmp/) - Immagine bitmap
 - [TIFF](/it/image/tiff/) - Formato file immagine con tag
 
 ## Qual è il formato del file RAF?

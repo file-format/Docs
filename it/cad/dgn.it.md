@@ -19,7 +19,7 @@
 
 ## Che cos'è un file DGN?
 
-Un file con estensione .dgn (Design) è un file di disegno creato e supportato da applicazioni CAD come MicroStation e Intergraph Interactive Graphics Design System. Viene utilizzato per creare e salvare progetti per progetti di costruzione come autostrade, ponti ed edifici. Il formato è simile al formato di file [DWG](/it/cad/dwg/) di Autodesk ed è considerato un suo concorrente. I file DNG possono essere salvati come Intergraph Standard File Format o V8 DGN. DGN può essere convertito in molti altri formati come DWG, [BMP](/it/image/bmp/), [JPEG](/it/image/jpeg/), [PDF](/it/pdf/), [GIF](/it/image/ gif/) e altri. Può essere aperto con Autodesk AutoCAD, Bentley View e Bentley Systems MicroStation oltre ad altre applicazioni software come le versioni Corel PaintShop Photo Pro e IMSI TurboCAD Deluxe.
+Un file con estensione .dgn (Design) è un file di disegno creato e supportato da applicazioni CAD come MicroStation e Intergraph Interactive Graphics Design System. Viene utilizzato per creare e salvare progetti per progetti di costruzione come autostrade, ponti ed edifici. Il formato è simile al formato di file [DWG](/it/cad/dwg/) di Autodesk ed è considerato un suo concorrente. I file DNG possono essere salvati come Intergraph Standard File Format o V8 DGN. DGN può essere convertito in molti altri formati come DWG, [BMP](/it/image/bmp/), [JPEG](/it/image/jpeg/), [PDF](/it/pdf/), [GIF](/it/image/gif/) e altri. Può essere aperto con Autodesk AutoCAD, Bentley View e Bentley Systems MicroStation oltre ad altre applicazioni software come le versioni Corel PaintShop Photo Pro e IMSI TurboCAD Deluxe.
 
 ## Formato file DGN V8
 

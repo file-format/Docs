@@ -18,7 +18,7 @@
 
 ## Informazioni sulla conversione da DOCX a RTF
 
-Se sei stato un utente precoce di Microsoft Windows, devi conoscere il formato file RTF (Rich Text Format). Microsoft ha introdotto il [formato file RTF](/it/elaborazione testi/rtf/) con Windows 3.0. I file RTF rappresentano un metodo per codificare testo e grafica formattati da utilizzare all'interno delle applicazioni. Un file RTF può contenere testo e immagini oltre a mantenere la formattazione del testo come grassetto, corsivo e sottolineato. La cosa più interessante è che RTF è stato adottato come formato di file interoperabile ed è multipiattaforma. Per questo motivo, la conversione da DOCX a RTF è una scelta popolare durante la condivisione di documenti su diversi sistemi operativi a scopo di modifica.
+Se sei stato un utente precoce di Microsoft Windows, devi conoscere il formato file RTF (Rich Text Format). Microsoft ha introdotto il [formato file RTF](/it/word-processing/rtf/) con Windows 3.0. I file RTF rappresentano un metodo per codificare testo e grafica formattati da utilizzare all'interno delle applicazioni. Un file RTF può contenere testo e immagini oltre a mantenere la formattazione del testo come grassetto, corsivo e sottolineato. La cosa più interessante è che RTF è stato adottato come formato di file interoperabile ed è multipiattaforma. Per questo motivo, la conversione da DOCX a RTF è una scelta popolare durante la condivisione di documenti su diversi sistemi operativi a scopo di modifica.
 
 ## Conversione da DOCX a RTF - Demo gratuita
 

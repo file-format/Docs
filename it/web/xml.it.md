@@ -19,7 +19,7 @@
 
 ## Che cos'è un file XML?
 
-XML sta per Extensible Markup Language che è simile a **[HTML](/it/web/html/)** ma diverso nell'uso dei tag per definire gli oggetti. L'idea alla base della creazione del formato file XML era quella di archiviare e trasportare i dati senza dipendere da strumenti software o hardware. La sua popolarità è dovuta al fatto che è leggibile sia dall'uomo che dalla macchina. Ciò consente di creare protocolli di dati comuni sotto forma di oggetti da archiviare e condividere su una rete come il World Wide Web (WWW). La "X" in XML è estensibile, il che implica che il linguaggio può essere esteso a qualsiasi numero di simboli secondo le esigenze dell'utente. È per queste funzionalità che molti formati di file standard ne fanno uso come Microsoft Open XML, LibreOffice OpenDocument, **[XHTML](/it/web/xhtml/)** e **[SVG](/it/page-description-language /svg/)**.
+XML sta per Extensible Markup Language che è simile a **[HTML](/it/web/html/)** ma diverso nell'uso dei tag per definire gli oggetti. L'idea alla base della creazione del formato file XML era quella di archiviare e trasportare i dati senza dipendere da strumenti software o hardware. La sua popolarità è dovuta al fatto che è leggibile sia dall'uomo che dalla macchina. Ciò consente di creare protocolli di dati comuni sotto forma di oggetti da archiviare e condividere su una rete come il World Wide Web (WWW). La "X" in XML è estensibile, il che implica che il linguaggio può essere esteso a qualsiasi numero di simboli secondo le esigenze dell'utente. È per queste funzionalità che molti formati di file standard ne fanno uso come Microsoft Open XML, LibreOffice OpenDocument, **[XHTML](/it/web/xhtml/)** e **[SVG](/it/page-description-language/svg/)**.
 
 ## Formato file XML
 

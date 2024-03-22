@@ -19,7 +19,7 @@
 
 ## Cos'è un file OAM?
 
-Un file .oam un file widget animato esportato da Adobe Edge Animate Widget. Le animazioni esportate come formato file widget OAM possono essere inserite in altre applicazioni Adobe come Documenti InDesign ([file INDD](/it/page-description-lingual/indd/), Dreamweaver e Muse. I file OAM sono come pacchetti di distribuzione che possono essere facilmente inseriti in altri progetti Adobe per utilizzarli. I file OAM contengono informazioni sulle risorse, sui comportamenti e sul codice actionscript dell'animazione. Puoi creare un file OAM pubblicando un progetto Adobe Animate [file .AN](/it/web/an/) .
+Un file .oam un file widget animato esportato da Adobe Edge Animate Widget. Le animazioni esportate come formato file widget OAM possono essere inserite in altre applicazioni Adobe come Documenti InDesign ([file INDD](/it/page-description-language/indd/), Dreamweaver e Muse. I file OAM sono come pacchetti di distribuzione che possono essere facilmente inseriti in altri progetti Adobe per utilizzarli. I file OAM contengono informazioni sulle risorse, sui comportamenti e sul codice actionscript dell'animazione. Puoi creare un file OAM pubblicando un progetto Adobe Animate [file .AN](/it/web/an/) .
 Gli utenti possono creare file OAM pubblicando da un progetto Edge Animate (file .AN).
 
 ## Formato file OAM

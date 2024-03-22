@@ -23,7 +23,7 @@ Un file con estensione di file GNUMERIC è un file di foglio di calcolo creato c
 
 ## Formato file GNUMERICO
 
-I file GNUMERIC vengono salvati in formato file XML, compressi facendo causa alla compressione GZIP. Questi non supportano macro e tabelle pivot, ma sono ricchi di altre funzionalità come la conversione in [CSV](/it/spreadsheet/csv/), [XLSX](/it/spreadsheet/xlsx/), Microsoft Works (.wks), [ HTML](/it/web/html/), [LaTex](/it/elaborazione testi/latex/) e [Lotus 1-2-3](/it/foglio di calcolo/123/).
+I file GNUMERIC vengono salvati in formato file XML, compressi facendo causa alla compressione GZIP. Questi non supportano macro e tabelle pivot, ma sono ricchi di altre funzionalità come la conversione in [CSV](/it/spreadsheet/csv/), [XLSX](/it/spreadsheet/xlsx/), Microsoft Works (.wks), [ HTML](/it/web/html/), [LaTex](/it/word-processing/latex/) e [Lotus 1-2-3](/it/spreadsheet/123/).
 
 ## Gnumeric su Github
 

@@ -49,7 +49,7 @@ Puoi utilizzare Adobe Photoshop utilizzando un plug-in **Adobe Camera Raw (ACR)*
 - [JPEG](/it/image/jpeg/) - Immagine JPEG
 - [GIF](/it/image/gif/) - Formato di interscambio grafico
 - [PSD](/it/image/psd/) - Documento Adobe Photoshop
-- [BMP](/it/immagine/bmp/) - Immagine bitmap
+- [BMP](/it/image/bmp/) - Immagine bitmap
 
 ## Qual è il formato del file BAY?
 

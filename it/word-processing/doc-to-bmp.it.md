@@ -37,7 +37,7 @@ L'app Aspose.Words è un insieme di strumenti online sviluppati sulla base delle
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-[Aspose.Words](https://products.aspose.com/words/) è un insieme di API che consente a qualsiasi sviluppatore di convertire [DOC](/it/word-processing/doc/) in [BMP](/it/image/bmp /) utilizzando semplici righe di codice. È disponibile per molti linguaggi di programmazione tra cui [C#](/it/programming/cs/), [Java](/it/programming/java/), [Python](/it/programming/py/) e [C++](/it/programming/cpp/ ). Oltre a BMP, le API Aspose.Words ti consentono di convertire file DOC in molti altri formati di file popolari.
+[Aspose.Words](https://products.aspose.com/words/) è un insieme di API che consente a qualsiasi sviluppatore di convertire [DOC](/it/word-processing/doc/) in [BMP](/it/image/bmp/) utilizzando semplici righe di codice. È disponibile per molti linguaggi di programmazione tra cui [C#](/it/programming/cs/), [Java](/it/programming/java/), [Python](/it/programming/py/) e [C++](/it/programming/cpp/ ). Oltre a BMP, le API Aspose.Words ti consentono di convertire file DOC in molti altri formati di file popolari.
 
 ## Riferimenti
 

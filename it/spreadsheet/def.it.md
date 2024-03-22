@@ -19,7 +19,7 @@
 
 ## Che cos'è un file DEF?
 
-Un file DEF è un file di dati creato in [formato file foglio di calcolo](/it/foglio di calcolo/) dall'applicazione database SmartWare II, sviluppata da Informix Software. Il software II aveva quattro moduli tra cui foglio di calcolo con grafica, elaboratore di testi, comunicazioni e database. Il database SmartWare II è un database autonomo che può essere integrato anche con altre applicazioni. Le query possono essere eseguite su dati che possono essere estratti e salvati nel formato file DEF. I file del foglio di calcolo DEF possono essere aperti con il software SmartWare che è stato interrotto ora.
+Un file DEF è un file di dati creato in [formato file foglio di calcolo](/it/spreadsheet/) dall'applicazione database SmartWare II, sviluppata da Informix Software. Il software II aveva quattro moduli tra cui foglio di calcolo con grafica, elaboratore di testi, comunicazioni e database. Il database SmartWare II è un database autonomo che può essere integrato anche con altre applicazioni. Le query possono essere eseguite su dati che possono essere estratti e salvati nel formato file DEF. I file del foglio di calcolo DEF possono essere aperti con il software SmartWare che è stato interrotto ora.
 
 ## Riferimenti
 

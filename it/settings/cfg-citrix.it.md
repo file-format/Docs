@@ -188,7 +188,7 @@ I server Citrix e le relative tecnologie Citrix supportano diversi formati di fi
 
 
 
-- **.exe**: i pacchetti di installazione di Citrix Receiver o Citrix Workspace spesso sono disponibili in formato eseguibile per vari sistemi operativi (ad esempio, [.exe](/it/executable/exe/) per Windows, [.dmg](/it/compression/dmg /) per macOS). Questi pacchetti consentono agli utenti di installare software client sui propri dispositivi.
+- **.exe**: i pacchetti di installazione di Citrix Receiver o Citrix Workspace spesso sono disponibili in formato eseguibile per vari sistemi operativi (ad esempio, [.exe](/it/executable/exe/) per Windows, [.dmg](/it/compression/dmg/) per macOS). Questi pacchetti consentono agli utenti di installare software client sui propri dispositivi.
 3. **App Citrix Workspace (precedentemente Citrix Receiver)**:
     
 
@@ -242,7 +242,7 @@ I server Citrix e le relative tecnologie Citrix supportano diversi formati di fi
 
 
 
-- **.vhd, .vhdx**: Citrix XenDesktop e XenApp possono fornire desktop e applicazioni virtuali utilizzando il disco rigido virtuale [VHD](/it/disc-and-media/vhd/) o [VHDX](/it/disc-and-media /vhdx/).
+- **.vhd, .vhdx**: Citrix XenDesktop e XenApp possono fornire desktop e applicazioni virtuali utilizzando il disco rigido virtuale [VHD](/it/disc-and-media/vhd/) o [VHDX](/it/disc-and-media/vhdx/).
 6. **Metadati di pubblicazione delle risorse**:
     
 

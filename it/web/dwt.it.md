@@ -25,7 +25,7 @@ Un file con estensione .dwt è un file modello di pagina Web creato con il softw
 
 I file DWT vengono sviluppati e salvati come file di testo normale. Questi possono essere aperti in Dreamweaver o in qualsiasi editor di testo e possono essere modificati per le modifiche richieste. Il software Dreamweaver aggiorna l'interfaccia utente quando vengono applicate le modifiche e l'utente può osservare l'effetto delle modifiche visivamente nell'interfaccia utente dell'applicazione.
 
-Ogni volta che si salva la pagina [HTML](/it/web / html /) come file modello, Dreamweaver crea una cartella modello al livello principale della cartella principale locale. Il collegamento viene interrotto se il file .dwt viene spostato dalla cartella Modelli o viene rinominato. Pertanto, è importante conservare i file .dwt nella cartella Modelli in cui Dreamweaver li crea. È meglio conservare altri elementi del tuo sito, come file di origine immagine o documenti HTML, in una posizione diversa dalla cartella Modelli.
+Ogni volta che si salva la pagina [HTML](/it/web/html/) come file modello, Dreamweaver crea una cartella modello al livello principale della cartella principale locale. Il collegamento viene interrotto se il file .dwt viene spostato dalla cartella Modelli o viene rinominato. Pertanto, è importante conservare i file .dwt nella cartella Modelli in cui Dreamweaver li crea. È meglio conservare altri elementi del tuo sito, come file di origine immagine o documenti HTML, in una posizione diversa dalla cartella Modelli.
 
 ## A proposito di Dreamweaver
 

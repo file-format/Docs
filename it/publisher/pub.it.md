@@ -22,7 +22,7 @@ Un file PUB è un formato di file di documento di Microsoft Publisher. Viene uti
 
 ## Formato file PUB - Ulteriori informazioni
 
-I file PUB vengono archiviati come file binari su disco. Il contenuto di un file PUB può anche essere convertito nel formato di file [DOCX](/it/elaborazione testi/docx/) dall'applicazione Microsoft Publisher utilizzando l'opzione Salva con nome.
+I file PUB vengono archiviati come file binari su disco. Il contenuto di un file PUB può anche essere convertito nel formato di file [DOCX](/it/word-processing/docx/) dall'applicazione Microsoft Publisher utilizzando l'opzione Salva con nome.
 
 ## Come utilizzare Microsoft Publisher?
 

@@ -36,7 +36,7 @@ Denaro è stato inizialmente sviluppato da [Nickvision](https://nickvision.org/)
 
 ## Formato file Denaro: ulteriori informazioni
 
-I file Denaro vengono salvati su disco in formato file binario. I dati finanziari vengono archiviati come file di database nel formato file **.SQLITE3**. SQLITE è un file di database SQL leggero creato con il software SQLite. Fornisce un motore di database autonomo in grado di fornire un database completo e altamente affidabile. I file di database SQLite possono essere utilizzati per condividere contenuti avanzati tra sistemi semplicemente scambiando questi file sulla rete. Esistono collegamenti SQLite per linguaggi di programmazione come C, [C#](/it/programming/cs/), [C++](/it/programming/cpp/), [Java](/it/programming/java/), [PHP](/it/programming/ php/) e molti altri.
+I file Denaro vengono salvati su disco in formato file binario. I dati finanziari vengono archiviati come file di database nel formato file **.SQLITE3**. SQLITE è un file di database SQL leggero creato con il software SQLite. Fornisce un motore di database autonomo in grado di fornire un database completo e altamente affidabile. I file di database SQLite possono essere utilizzati per condividere contenuti avanzati tra sistemi semplicemente scambiando questi file sulla rete. Esistono collegamenti SQLite per linguaggi di programmazione come C, [C#](/it/programming/cs/), [C++](/it/programming/cpp/), [Java](/it/programming/java/), [PHP](/it/programming/php/) e molti altri.
 
 ## Riferimenti
 

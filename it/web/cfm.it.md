@@ -19,7 +19,7 @@
 
 ## Che cos'è un file CFM? ##
 
-Le pagine Web e i file utilizzati in **Cold Fusion Markup Language** contengono estensioni di CFM e sono denominati pagine Web CFM. Questo linguaggio di scripting per lo sviluppo Web viene eseguito su Google App Engine, .NET Framework e JVM. Può contenere un linguaggio di programmazione o un codice del linguaggio. Quando l'utente accede a una qualsiasi delle sue pagine, il server web di ColdFusion lo esegue. CFScript (che è simile a JavaScript) o tag possono essere utilizzati per scrivere CFML. CFML può essere utilizzato per generare altri linguaggi oltre a [HTML](/it/web/html/) come [CSS](/it/web/css/), [JavaScript](/it/web/js/), [XML](/it/web/ xml/), e altro ancora.
+Le pagine Web e i file utilizzati in **Cold Fusion Markup Language** contengono estensioni di CFM e sono denominati pagine Web CFM. Questo linguaggio di scripting per lo sviluppo Web viene eseguito su Google App Engine, .NET Framework e JVM. Può contenere un linguaggio di programmazione o un codice del linguaggio. Quando l'utente accede a una qualsiasi delle sue pagine, il server web di ColdFusion lo esegue. CFScript (che è simile a JavaScript) o tag possono essere utilizzati per scrivere CFML. CFML può essere utilizzato per generare altri linguaggi oltre a [HTML](/it/web/html/) come [CSS](/it/web/css/), [JavaScript](/it/web/js/), [XML](/it/web/xml/), e altro ancora.
 
 L'uso di questo linguaggio e dei tag che supporta è principalmente nello sviluppo di applicazioni web dinamiche. I file possono essere eseguiti direttamente nel browser online se si verifica un errore durante l'utilizzo offline della piattaforma di sviluppo dell'applicazione.
  

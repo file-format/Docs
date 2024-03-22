@@ -41,12 +41,12 @@ Prova subito l'app online Aspose.Words per **[Convertire DOCX in DOCM](https://p
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-[Aspose.Words](https://products.aspose.com/words/) è un insieme di API che consente a qualsiasi sviluppatore di convertire [DOCX](/it/word-processing/docx/) in [DOCM](/it/word-processing /docm/) utilizzando semplici righe di codice. È disponibile per molti linguaggi di programmazione tra cui:
+[Aspose.Words](https://products.aspose.com/words/) è un insieme di API che consente a qualsiasi sviluppatore di convertire [DOCX](/it/word-processing/docx/) in [DOCM](/it/word-processing/docm/) utilizzando semplici righe di codice. È disponibile per molti linguaggi di programmazione tra cui:
 
-* [C#](/it/programmazione/cs/)
-* [Java](/it/programmazione/java/)
-* [Python](/it/programmazione/py/)
-* [C++](/it/programmazione/cpp/).
+* [C#](/it/programming/cs/)
+* [Java](/it/programming/java/)
+* [Python](/it/programming/py/)
+* [C++](/it/programming/cpp/).
 
 Oltre a DOCM, le API Aspose.Words ti consentono di convertire file DOCX in molti altri formati di file popolari.
 

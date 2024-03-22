@@ -20,7 +20,7 @@
 
 Un file **foglio di calcolo** contiene dati sotto forma di righe e colonne. Un file di foglio di calcolo può essere salvato in diversi formati di file, ciascuno con un'estensione di file diversa per una rappresentazione univoca. I dati vengono archiviati nelle celle in forma semplice come stringa di testo, numeri, data, valuta e così via o come formule che modificano il valore di una cella quando i valori delle celle di riferimento cambiano.
 
-Le estensioni di file di fogli di calcolo comuni e i relativi formati di file includono **[XLSX](/it/spreadsheet/xlsx/)** (Microsoft Excel Open XML Spreadsheet), **[ODS](/it/spreadsheet/ods/)** (OpenDocument Spreadsheet) e **[XLS](/it/foglio di calcolo/xls/)** (Formato file binario Microsoft Excel).
+Le estensioni di file di fogli di calcolo comuni e i relativi formati di file includono **[XLSX](/it/spreadsheet/xlsx/)** (Microsoft Excel Open XML Spreadsheet), **[ODS](/it/spreadsheet/ods/)** (OpenDocument Spreadsheet) e **[XLS](/it/spreadsheet/xls/)** (Formato file binario Microsoft Excel).
 
 Hai domande relative ai formati di file del foglio di calcolo? Visita la nostra community [forum](https://forum.fileformat.com/c/spreadsheet/6) per beneficiare delle conoscenze condivise dagli esperti di formati di file.
 

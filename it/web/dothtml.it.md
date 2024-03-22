@@ -18,7 +18,7 @@
 
 ## Che cos'è un file DOTHTML?
 
-Un file DOTHTML è un documento modello di Microsoft Word salvato in versione HTML. Può essere aperto nel browser web e i contenuti vengono visualizzati come qualsiasi altra pagina web. I file DOTHTML vengono generati da file .DOT di Microsoft Word che contengono impostazioni preformattate per la generazione di questi file. Quando un file [DOT](/it/elaborazione testi/punto/) viene convertito in DOCHTML, tutte queste impostazioni vengono mantenute e il file DOTHTML convertito viene visualizzato con una formattazione simile al file DOT originale. In questo modo, i modelli pubblicati possono essere visualizzati nel browser web.
+Un file DOTHTML è un documento modello di Microsoft Word salvato in versione HTML. Può essere aperto nel browser web e i contenuti vengono visualizzati come qualsiasi altra pagina web. I file DOTHTML vengono generati da file .DOT di Microsoft Word che contengono impostazioni preformattate per la generazione di questi file. Quando un file [DOT](/it/word-processing/dot/) viene convertito in DOCHTML, tutte queste impostazioni vengono mantenute e il file DOTHTML convertito viene visualizzato con una formattazione simile al file DOT originale. In questo modo, i modelli pubblicati possono essere visualizzati nel browser web.
 
 ## Formato file DOTHTML - Ulteriori informazioni
 

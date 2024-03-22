@@ -19,7 +19,7 @@
 
 ## Che cos'è un file AZW?
 
-AZW è un formato di file di ebook digitale sviluppato da Amazon per i suoi dispositivi Kindle. Il formato è stato adottato dal formato file MobiPocket eBook [MOBI](/it/ebook/mobi/) e la protezione DRM è stata applicata solo per il loro utilizzo su dispositivi Kindle. I file AZW possono memorizzare cose come testo formattato, segnalibri e altre informazioni come fa parte dei file Mobipocket .PRC. I file AZW protetti da DRM non possono essere letti da altri dispositivi e possono essere letti utilizzando i dispositivi Kindle. I file AZW possono essere convertiti in numerosi altri formati di file come [PDF](/it/pdf/), [EPUB](/it/ebook/epub/), [AZW3](/it/ebook/azw3/), [DOCX](/it/word -elaborazione/docx/) e [RTF](/it/elaborazione testi/rtf/). I file AZW hanno il tipo di supporto Internet *application/vnd.amazon.mobi8-ebook*.
+AZW è un formato di file di ebook digitale sviluppato da Amazon per i suoi dispositivi Kindle. Il formato è stato adottato dal formato file MobiPocket eBook [MOBI](/it/ebook/mobi/) e la protezione DRM è stata applicata solo per il loro utilizzo su dispositivi Kindle. I file AZW possono memorizzare cose come testo formattato, segnalibri e altre informazioni come fa parte dei file Mobipocket .PRC. I file AZW protetti da DRM non possono essere letti da altri dispositivi e possono essere letti utilizzando i dispositivi Kindle. I file AZW possono essere convertiti in numerosi altri formati di file come [PDF](/it/pdf/), [EPUB](/it/ebook/epub/), [AZW3](/it/ebook/azw3/), [DOCX](/it/word-processing/docx/) e [RTF](/it/word-processing/rtf/). I file AZW hanno il tipo di supporto Internet *application/vnd.amazon.mobi8-ebook*.
 
 ## Formato file AZW
 

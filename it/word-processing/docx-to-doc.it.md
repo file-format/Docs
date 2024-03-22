@@ -37,7 +37,7 @@ Puoi convertire il formato file DOCX in DOC utilizzando l'app online GRATUITA, A
 
 ## API Aspose.Words
 
-[Aspose.Words](https://products.aspose.com/words/) è un insieme di API che consente a qualsiasi sviluppatore di convertire [DOCX](/it/word-processing/docx/) in [DOC](/it/word-processing /doc/) utilizzando semplici righe di codice. È disponibile per molti linguaggi di programmazione tra cui [C#](/it/programming/cs/), [Java](/it/programming/java/), [Python](/it/programming/py/) e [C++](/it/programming/cpp/ ). Oltre a DOC, le API Aspose.Words ti consentono di convertire file DOCX in molti altri formati di file popolari.
+[Aspose.Words](https://products.aspose.com/words/) è un insieme di API che consente a qualsiasi sviluppatore di convertire [DOCX](/it/word-processing/docx/) in [DOC](/it/word-processing/doc/) utilizzando semplici righe di codice. È disponibile per molti linguaggi di programmazione tra cui [C#](/it/programming/cs/), [Java](/it/programming/java/), [Python](/it/programming/py/) e [C++](/it/programming/cpp/). Oltre a DOC, le API Aspose.Words ti consentono di convertire file DOCX in molti altri formati di file popolari.
 
 ## Riferimenti
 

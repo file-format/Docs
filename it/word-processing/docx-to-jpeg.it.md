@@ -18,7 +18,7 @@
 
 ## Informazioni sulla conversione da DOCX a immagine
 
-Quasi tutti noi abbiamo familiarità con il lavoro con documenti Word. Microsoft Office salva questi documenti nel popolare formato di file [DOCX](/it/word-processing/docx/), ma non ha alcuna opzione per salvare DOCX in formati di file immagine come [JPEG](/it/image/jpeg/) o [ PNG](/it/immagine/png/). Possono verificarsi situazioni in cui è necessario incorporare un file DOCX in una presentazione come immagine JPEG oppure è necessario caricare un documento su un sito Web online che accetta solo file di immagine. È qui che si fanno avanti alcuni strumenti online per aiutarti a convertire i tuoi file DOCX in JPEG online.
+Quasi tutti noi abbiamo familiarità con il lavoro con documenti Word. Microsoft Office salva questi documenti nel popolare formato di file [DOCX](/it/word-processing/docx/), ma non ha alcuna opzione per salvare DOCX in formati di file immagine come [JPEG](/it/image/jpeg/) o [ PNG](/it/image/png/). Possono verificarsi situazioni in cui è necessario incorporare un file DOCX in una presentazione come immagine JPEG oppure è necessario caricare un documento su un sito Web online che accetta solo file di immagine. È qui che si fanno avanti alcuni strumenti online per aiutarti a convertire i tuoi file DOCX in JPEG online.
 
 
 ## Conversione da DOCX a JPEG - Demo gratuita

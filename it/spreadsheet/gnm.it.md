@@ -27,7 +27,7 @@ I file GNM sono file XML compressi che possono essere estratti con utilità di d
 
 ## Funzionalità supportate nei file GNM
 
-Poiché Gnumeric supporta diversi formati di file, può convertire i file GNM nativi in [CSV](/it/spreadsheet/csv/), [XLSX](/it/spreadsheet/xlsx/), Microsoft Works (.wks), [HTML](/it/ web/html/), [LaTex](/it/word-processing/latex/) e [Lotus 1-2-3](/it/spreadsheet/123/).
+Poiché Gnumeric supporta diversi formati di file, può convertire i file GNM nativi in [CSV](/it/spreadsheet/csv/), [XLSX](/it/spreadsheet/xlsx/), Microsoft Works (.wks), [HTML](/it/web/html/), [LaTex](/it/word-processing/latex/) e [Lotus 1-2-3](/it/spreadsheet/123/).
 
 ## Gnumeric su Github
 

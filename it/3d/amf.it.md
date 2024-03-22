@@ -41,7 +41,7 @@ I cinque elementi di primo livello definiti con il<AMF> i tag sono come dettagli
 
 ## Esempio AMF
 
-Di seguito è riportato un esempio di file AMF che può essere copiato in un file [testo](/it/elaborazione testi/txt/) e salvato come file compresso [zip](/it/compression/zip/) per l'apertura.
+Di seguito è riportato un esempio di file AMF che può essere copiato in un file [testo](/it/word-processing/txt/) e salvato come file compresso [zip](/it/compression/zip/) per l'apertura.
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <amf unit="inch" version="1.1">

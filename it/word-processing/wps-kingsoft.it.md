@@ -71,10 +71,10 @@ Per aprire e modificare file WPS utilizzando Kingsoft Writer all'interno di King
 
 Kingsoft Writer può convertire file WPS nei seguenti formati:
 
-- [DOC](/it/elaborazione testi/doc/)
-- [DOCX](/it/elaborazione testi/docx/)
-- [RTF](/it/elaborazione testi/rtf/)
-- [TXT](/it/elaborazione testi/txt/)
+- [DOC](/it/word-processing/doc/)
+- [DOCX](/it/word-processing/docx/)
+- [RTF](/it/word-processing/rtf/)
+- [TXT](/it/word-processing/txt/)
 - [HTML](/it/web/html/)
 - [PDF](/it/pdf/)
 
@@ -82,7 +82,7 @@ Kingsoft Writer può convertire file WPS nei seguenti formati:
 
 Di seguito sono riportati altri tipi di file che utilizzano l'estensione file **.wps**.
 
-- [WPS - Documento dell'elaboratore di testi di Microsoft Works](/it/elaborazione testi/wps/)
+- [WPS - Documento dell'elaboratore di testi di Microsoft Works](/it/word-processing/wps/)
 - [WPS - File di progetto Workbench di SDL Translator](/it/settings/wps/)
 
 ## Riferimenti

@@ -37,7 +37,7 @@ Di seguito sono riportati alcuni brevi fatti sull'origine e la cronologia del fo
 
 ## Converti file CSV ##
 
-I file CSV possono essere convertiti in diversi formati di file utilizzando le applicazioni in grado di aprire questi file. Ad esempio, Microsoft Excel può importare dati dal formato di file CSV e salvarli in XLS, [XLSX](/it/foglio di calcolo/xlsx/), [PDF](/it/pdf/), [TXT](/it/elaborazione testi/txt/) , XML e [HTML](/it/web/html/). Allo stesso modo, altri servizi desktop e online offrono la possibilità di esportare file CSV in HTML, ODS e [RTF](/it/word-processing/rtf/).
+I file CSV possono essere convertiti in diversi formati di file utilizzando le applicazioni in grado di aprire questi file. Ad esempio, Microsoft Excel può importare dati dal formato di file CSV e salvarli in XLS, [XLSX](/it/spreadsheet/xlsx/), [PDF](/it/pdf/), [TXT](/it/word-processing/txt/) , XML e [HTML](/it/web/html/). Allo stesso modo, altri servizi desktop e online offrono la possibilità di esportare file CSV in HTML, ODS e [RTF](/it/word-processing/rtf/).
 
 ## Formato file CSV ##
 

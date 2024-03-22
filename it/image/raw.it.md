@@ -57,7 +57,7 @@ Diversi software di editing delle immagini possono convertire file RAW in divers
 - [JPEG](/it/image/jpeg/) - Immagine JPEG
 - [GIF](/it/image/gif/) - Formato di interscambio grafico
 - [PSD](/it/image/psd/) - Documento Adobe Photoshop
-- [BMP](/it/immagine/bmp/) - Immagine bitmap
+- [BMP](/it/image/bmp/) - Immagine bitmap
 
 ## Qual è il formato del file RAW?
 

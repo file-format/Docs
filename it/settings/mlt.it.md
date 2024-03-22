@@ -91,11 +91,11 @@ Ecco un elenco di alcuni dei formati di file più comuni supportati da Shotcut:
 
 
 
-- [JPEG (JPG)](/it/immagine/jpeg/)
-- [PNG](/it/immagine/png/)
-- [BMP](/it/immagine/bmp/)
-- [TIFF](/it/immagine/tiff/)
-- [GIF](/it/immagine/gif/)
+- [JPEG (JPG)](/it/image/jpeg/)
+- [PNG](/it/image/png/)
+- [BMP](/it/image/bmp/)
+- [TIFF](/it/image/tiff/)
+- [GIF](/it/image/gif/)
 - e altro ancora...
 4. **Formati aggiuntivi:**
     
@@ -154,11 +154,11 @@ Ecco un elenco di alcuni dei formati di file più comuni supportati da Shotcut:
 
 
 
-- [JPEG (JPG)](/it/immagine/jpeg/)
-- [PNG](/it/immagine/png/)
-- [BMP](/it/immagine/bmp/)
-- [TIFF](/it/immagine/tiff/)
-- [GIF](/it/immagine/gif/)
+- [JPEG (JPG)](/it/image/jpeg/)
+- [PNG](/it/image/png/)
+- [BMP](/it/image/bmp/)
+- [TIFF](/it/image/tiff/)
+- [GIF](/it/image/gif/)
 - e altro ancora...
 4. **Impostazioni di esportazione personalizzate:**
     

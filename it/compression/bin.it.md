@@ -60,7 +60,7 @@ Di seguito sono riportati altri tipi di file che utilizzano l'estensione file **
 - [BIN - File immagine disco binario](/it/disc-and-media/bin/)
 - [BIN - File eseguibile Unix](/it/executable/bin/)
 - [BIN - File dei criteri IT BlackBerry](/it/settings/bin/)
-- [BIN - ROM del gioco Sega Genesis](/it/gioco/bin/)
+- [BIN - ROM del gioco Sega Genesis](/it/game/bin/)
 - [BIN - Immagine BIOS PlayStation PSX](/it/game/bin-pcsx/)
 
 ## Riferimenti

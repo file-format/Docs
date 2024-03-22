@@ -19,7 +19,7 @@
 
 ## Che cos'è un file ASD?
 
-Un file con estensione .asd è un file di ripristino di Microsoft Word che viene generato automaticamente insieme ai principali file di Word. Viene utilizzato per recuperare il file originale se l'applicazione Word non funziona correttamente o si chiude in modo imprevisto, causando la perdita di dati o del file principale. Microsoft Word può salvare tutti i formati di file di documento come [DOC](/it/elaborazione testi/doc/), [DOCX](/it/elaborazione testi/docx/) e altri come file di ripristino automatico. Word suggerisce il formato del file originale e il nome del file alla riapertura del file recuperato che memorizza nel registro di sistema per il ripristino.
+Un file con estensione .asd è un file di ripristino di Microsoft Word che viene generato automaticamente insieme ai principali file di Word. Viene utilizzato per recuperare il file originale se l'applicazione Word non funziona correttamente o si chiude in modo imprevisto, causando la perdita di dati o del file principale. Microsoft Word può salvare tutti i formati di file di documento come [DOC](/it/word-processing/doc/), [DOCX](/it/word-processing/docx/) e altri come file di ripristino automatico. Word suggerisce il formato del file originale e il nome del file alla riapertura del file recuperato che memorizza nel registro di sistema per il ripristino.
 
 ## Formato file ASD - Ulteriori informazioni
 
