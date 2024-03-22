@@ -41,12 +41,12 @@ Anda dapat mengonversi format file DOCX ke DOC menggunakan [aplikasi Aspose.Word
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-[Aspose.Words](https://products.aspose.com/words/) adalah sekumpulan API yang memungkinkan pengembang mana pun mengonversi [DOCX](/id/word-processing/docx/) menjadi [DOCM](/id/word-processing /docm/) format menggunakan baris kode sederhana. Ini tersedia untuk banyak bahasa pemrograman termasuk:
+[Aspose.Words](https://products.aspose.com/words/) adalah sekumpulan API yang memungkinkan pengembang mana pun mengonversi [DOCX](/id/word-processing/docx/) menjadi [DOCM](/id/word-processing/docm/) format menggunakan baris kode sederhana. Ini tersedia untuk banyak bahasa pemrograman termasuk:
 
-* [C#](/id/pemrograman/cs/)
-* [Jawa](/id/pemrograman/java/)
-* [Python](/id/pemrograman/py/)
-* [C++](/id/pemrograman/cpp/).
+* [C#](/id/programming/cs/)
+* [Jawa](/id/programming/java/)
+* [Python](/id/programming/py/)
+* [C++](/id/programming/cpp/).
 
 Selain DOCM, Aspose.Words API memungkinkan Anda mengonversi file DOCX ke banyak format file populer lainnya.
 

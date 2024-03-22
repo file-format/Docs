@@ -19,7 +19,7 @@
 
 ## Apa itu file ODF?
 
-File dengan ekstensi .odf adalah dokumen yang memiliki persamaan matematika, makro, dan rumus. Itu dibuat dengan program [Apache OpenOffice Math](https://wiki.openoffice.org/wiki/Documentation/OOo3_User_Guides/Math_Guide) yang digunakan untuk membuat rumus Matematika yang kemudian dapat disimpan ke disk atau disertakan dalam dokumen lain. File ini dibuat dan disimpan berdasarkan standar OASIS OpenDocument yang merupakan format file standar terbuka untuk spreadsheet, bagan, presentasi, dan dokumen pengolah kata menggunakan [ZIP](/id/compression/zip/)-compressed [XML](/id/web/ xml/) file. File ODF dapat dibuka dengan aplikasi seperti OpenOffice Math dan LibreOffice Draw.
+File dengan ekstensi .odf adalah dokumen yang memiliki persamaan matematika, makro, dan rumus. Itu dibuat dengan program [Apache OpenOffice Math](https://wiki.openoffice.org/wiki/Documentation/OOo3_User_Guides/Math_Guide) yang digunakan untuk membuat rumus Matematika yang kemudian dapat disimpan ke disk atau disertakan dalam dokumen lain. File ini dibuat dan disimpan berdasarkan standar OASIS OpenDocument yang merupakan format file standar terbuka untuk spreadsheet, bagan, presentasi, dan dokumen pengolah kata menggunakan [ZIP](/id/compression/zip/)-compressed [XML](/id/web/xml/) file. File ODF dapat dibuka dengan aplikasi seperti OpenOffice Math dan LibreOffice Draw.
 
 ## Format File ODF - Informasi Lebih Lanjut
 

@@ -91,11 +91,11 @@ Berikut daftar beberapa format file umum yang didukung oleh Shotcut:
 
 
 
-- [JPEG (JPG)](/id/gambar/jpeg/)
-- [PNG](/id/gambar/png/)
-- [BMP](/id/gambar/bmp/)
-- [TIFF](/id/gambar/tiff/)
-- [GIF](/id/gambar/gif/)
+- [JPEG (JPG)](/id/image/jpeg/)
+- [PNG](/id/image/png/)
+- [BMP](/id/image/bmp/)
+- [TIFF](/id/image/tiff/)
+- [GIF](/id/image/gif/)
 - dan banyak lagi...
 4. **Format Tambahan:**
     
@@ -154,11 +154,11 @@ Berikut daftar beberapa format file umum yang didukung oleh Shotcut:
 
 
 
-- [JPEG (JPG)](/id/gambar/jpeg/)
-- [PNG](/id/gambar/png/)
-- [BMP](/id/gambar/bmp/)
-- [TIFF](/id/gambar/tiff/)
-- [GIF](/id/gambar/gif/)
+- [JPEG (JPG)](/id/image/jpeg/)
+- [PNG](/id/image/png/)
+- [BMP](/id/image/bmp/)
+- [TIFF](/id/image/tiff/)
+- [GIF](/id/image/gif/)
 - dan banyak lagi...
 4. **Pengaturan Ekspor Khusus:**
     

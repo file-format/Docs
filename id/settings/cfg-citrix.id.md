@@ -188,7 +188,7 @@ Server Citrix dan teknologi Citrix terkait mendukung beberapa format file untuk 
 
 
 
-- **.exe**: Paket instalasi Citrix Receiver atau Citrix Workspace sering kali hadir dalam format yang dapat dieksekusi untuk berbagai sistem operasi (misalnya, [.exe](/id/executable/exe/) untuk Windows, [.dmg](/id/compression/dmg /) untuk macOS). Paket-paket ini memungkinkan pengguna untuk menginstal perangkat lunak klien pada perangkat mereka.
+- **.exe**: Paket instalasi Citrix Receiver atau Citrix Workspace sering kali hadir dalam format yang dapat dieksekusi untuk berbagai sistem operasi (misalnya, [.exe](/id/executable/exe/) untuk Windows, [.dmg](/id/compression/dmg/) untuk macOS). Paket-paket ini memungkinkan pengguna untuk menginstal perangkat lunak klien pada perangkat mereka.
 3. **Aplikasi Citrix Workspace (sebelumnya Penerima Citrix)**:
     
 
@@ -242,7 +242,7 @@ Server Citrix dan teknologi Citrix terkait mendukung beberapa format file untuk 
 
 
 
-- **.vhd, .vhdx**: Citrix XenDesktop dan XenApp dapat menghadirkan desktop dan aplikasi virtual menggunakan hard disk virtual [VHD](/id/disc-and-media/vhd/) atau [VHDX](/id/disc-and-media /vhdx/) file.
+- **.vhd, .vhdx**: Citrix XenDesktop dan XenApp dapat menghadirkan desktop dan aplikasi virtual menggunakan hard disk virtual [VHD](/id/disc-and-media/vhd/) atau [VHDX](/id/disc-and-media/vhdx/) file.
 6. **Metadata Penerbitan Sumber Daya**:
     
 

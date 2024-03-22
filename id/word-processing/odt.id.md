@@ -19,7 +19,7 @@
 
 ## Apa itu file ODT?
 
-File ODT adalah jenis dokumen yang dibuat dengan aplikasi pengolah kata yang didasarkan pada format File Teks OpenDocument. Ini dibuat dengan aplikasi pengolah kata seperti OpenOffice Writer gratis dan dapat menampung konten seperti teks, gambar, objek, dan gaya. File ODT adalah untuk pengolah kata Writer seperti [DOCX](/id/pemrosesan kata/docx/) untuk Microsoft Word. Beberapa aplikasi termasuk Google Docs dan pengolah kata berbasis web Google yang disertakan dengan Google Drive dapat membuka file ODT untuk diedit. Microsoft Word juga dapat membuka file ODT dan menyimpannya dalam format lain seperti [DOC](/id/word-processing/doc/) dan DOCX.
+File ODT adalah jenis dokumen yang dibuat dengan aplikasi pengolah kata yang didasarkan pada format File Teks OpenDocument. Ini dibuat dengan aplikasi pengolah kata seperti OpenOffice Writer gratis dan dapat menampung konten seperti teks, gambar, objek, dan gaya. File ODT adalah untuk pengolah kata Writer seperti [DOCX](/id/word-processing/docx/) untuk Microsoft Word. Beberapa aplikasi termasuk Google Docs dan pengolah kata berbasis web Google yang disertakan dengan Google Drive dapat membuka file ODT untuk diedit. Microsoft Word juga dapat membuka file ODT dan menyimpannya dalam format lain seperti [DOC](/id/word-processing/doc/) dan DOCX.
 
 ## Sejarah Singkat ##
 

@@ -41,7 +41,7 @@ Anda dapat mengonversi format file DOCX ke DOC menggunakan [aplikasi Aspose.Word
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-[Aspose.Words](https://products.aspose.com/words/) adalah sekumpulan API yang memungkinkan pengembang mana pun mengonversi [DOCX](/id/word-processing/docx/) menjadi [DOTX](/id/word-processing /dotx/) format menggunakan baris kode sederhana. Ini tersedia untuk banyak bahasa pemrograman termasuk [C#](/id/programming/cs/), [Java](/id/programming/java/), [Python](/id/programming/py/) dan [C++](/id/programming/cpp/ ). Selain DOTX, Aspose.Words API memungkinkan Anda mengonversi file DOCX ke banyak format file populer lainnya.
+[Aspose.Words](https://products.aspose.com/words/) adalah sekumpulan API yang memungkinkan pengembang mana pun mengonversi [DOCX](/id/word-processing/docx/) menjadi [DOTX](/id/word-processing/dotx/) format menggunakan baris kode sederhana. Ini tersedia untuk banyak bahasa pemrograman termasuk [C#](/id/programming/cs/), [Java](/id/programming/java/), [Python](/id/programming/py/) dan [C++](/id/programming/cpp/). Selain DOTX, Aspose.Words API memungkinkan Anda mengonversi file DOCX ke banyak format file populer lainnya.
 
 ## Referensi
 

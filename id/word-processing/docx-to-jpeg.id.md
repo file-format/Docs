@@ -18,7 +18,7 @@
 
 ## Tentang Konversi DOCX ke Gambar
 
-Hampir semua dari kita familiar dengan bekerja dengan dokumen word. Microsoft Office menyimpan dokumen ini dalam format file [DOCX](/id/word-processing/docx/) yang populer, namun tidak memiliki opsi untuk menyimpan DOCX ke format file gambar seperti [JPEG](/id/image/jpeg/) atau [ PNG](/id/gambar/png/). Situasi dapat muncul ketika file DOCX perlu disematkan dalam presentasi sebagai gambar JPEG atau Anda perlu mengunggah dokumen ke situs online yang hanya menerima file gambar. Di sinilah alat online tertentu hadir untuk membantu Anda mengonversi file DOCX Anda ke JPEG online.
+Hampir semua dari kita familiar dengan bekerja dengan dokumen word. Microsoft Office menyimpan dokumen ini dalam format file [DOCX](/id/word-processing/docx/) yang populer, namun tidak memiliki opsi untuk menyimpan DOCX ke format file gambar seperti [JPEG](/id/image/jpeg/) atau [ PNG](/id/image/png/). Situasi dapat muncul ketika file DOCX perlu disematkan dalam presentasi sebagai gambar JPEG atau Anda perlu mengunggah dokumen ke situs online yang hanya menerima file gambar. Di sinilah alat online tertentu hadir untuk membantu Anda mengonversi file DOCX Anda ke JPEG online.
 
 
 ## Konversi DOCX ke JPEG - Demo Gratis

@@ -31,7 +31,7 @@ DWF adalah format terbuka dan aman yang dirancang khusus untuk berbagi data desa
 
 **File metadata DWF** – File XML yang berisi informasi terkait metadata dan struktur (penulis, judul, waktu pembuatan, dependensi bagian, pengurutan bagian, deskripsi file sumber daya, peran, tipe mime, dll.) dan berkaitan dengan bagian (halaman informasi, metadata desain, dll.). Metadata struktural digunakan untuk membuat objek logis (koleksi file untuk mewakili bagian atau halaman, dll.).
 
-**File sumber daya** – file media atau konten lain yang direferensikan dari metadata paket/bagian dan biasanya berupa presentasi data desain dalam berbagai format (ZGL, W2D, [JPG](/id/image/jpeg/), [PNG](/id/image/png/), AVI, XML, [TXT](/id/pemrosesan kata/txt/), [DOC](/id/pemrosesan kata/doc/), dll.)
+**File sumber daya** – file media atau konten lain yang direferensikan dari metadata paket/bagian dan biasanya berupa presentasi data desain dalam berbagai format (ZGL, W2D, [JPG](/id/image/jpeg/), [PNG](/id/image/png/), AVI, XML, [TXT](/id/word-processing/txt/), [DOC](/id/word-processing/doc/), dll.)
 
 ### Detail Format File ###
 

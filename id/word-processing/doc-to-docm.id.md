@@ -20,7 +20,7 @@
 
 DOCM adalah versi dokumen Microsoft Word yang mendukung makro dan mampu menjalankan makro. Perbedaan antara dokumen Word biasa dan dokumen berkemampuan makro adalah DOCM menyediakan fitur tambahan untuk mendukung makro.
 
-File DOC dapat dikonversi ke DOCM menggunakan alat dan aplikasi online gratis. **[Aspose.Words App](https://products.aspose.app/words/family)** adalah serangkaian aplikasi online yang memungkinkan Anda melakukan berbagai operasi pada dokumen Word langsung dari browser web Anda. Selain fiturnya [melihat dokumen](/id/pemrosesan kata/docx-viewer/), pemisahan, penggabungan, perbandingan, rotasi, dan lainnya, ini memungkinkan Anda mengonversi dokumen Word dari satu format ke format lainnya. Anda dapat mengonversi [DOC](/id/word-processing/doc/) menjadi [DOCM](/id/word-processing/docm/) menggunakan aplikasi Aspose.Words.
+File DOC dapat dikonversi ke DOCM menggunakan alat dan aplikasi online gratis. **[Aspose.Words App](https://products.aspose.app/words/family)** adalah serangkaian aplikasi online yang memungkinkan Anda melakukan berbagai operasi pada dokumen Word langsung dari browser web Anda. Selain fiturnya [melihat dokumen](/id/word-processing/docx-viewer/), pemisahan, penggabungan, perbandingan, rotasi, dan lainnya, ini memungkinkan Anda mengonversi dokumen Word dari satu format ke format lainnya. Anda dapat mengonversi [DOC](/id/word-processing/doc/) menjadi [DOCM](/id/word-processing/docm/) menggunakan aplikasi Aspose.Words.
 
 ## Konversi DOC ke DOCM - Demo Gratis
 

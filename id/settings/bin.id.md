@@ -53,9 +53,9 @@ Buat perubahan apa pun yang diperlukan pada kebijakan dan simpanlah. Jika diperl
 
 Berikut jenis file lain yang menggunakan ekstensi file **.bin**.
 
-- [BIN - File Berkode MacBinary](/id/kompresi/bin/)
+- [BIN - File Berkode MacBinary](/id/compression/bin/)
 - [BIN - File Gambar Disk Biner](/id/disc-and-media/bin/)
-- [BIN - File Unix yang Dapat Dieksekusi](/id/dapat dieksekusi/bin/)
+- [BIN - File Unix yang Dapat Dieksekusi](/id/executable/bin/)
 - [BIN - ROM Game Sega Genesis](/id/game/bin/)
 - [BIN - Gambar BIOS PlayStation PSX](/id/game/bin-pcsx/)
 

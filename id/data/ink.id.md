@@ -79,7 +79,7 @@ Berikut beberapa karakteristik utama berkas .ink di Mimio Notebook:
 
 ## Bagikan file TINTA
 
-Jika guru perlu berbagi file .ink dengan siswa atau guru lain yang tidak memiliki akses ke Mimio Notebook, mereka dapat mengekspor file .ink ke format yang lebih kompatibel seperti [PDF](/id/pdf/), [HTML](/id/web /html/) atau file gambar ([.JPEG](/id/image/jpeg/), [.PNG](/id/image/png/), [.GIF](/id/image/gif/), [.TIFF](/id/ gambar/tiff/)); dengan cara ini konten dapat dibagikan dan dilihat dengan mudah di berbagai perangkat dan aplikasi perangkat lunak tanpa memerlukan Mimio Notebook untuk mengaksesnya.
+Jika guru perlu berbagi file .ink dengan siswa atau guru lain yang tidak memiliki akses ke Mimio Notebook, mereka dapat mengekspor file .ink ke format yang lebih kompatibel seperti [PDF](/id/pdf/), [HTML](/id/web/html/) atau file gambar ([.JPEG](/id/image/jpeg/), [.PNG](/id/image/png/), [.GIF](/id/image/gif/), [.TIFF](/id/image/tiff/)); dengan cara ini konten dapat dibagikan dan dilihat dengan mudah di berbagai perangkat dan aplikasi perangkat lunak tanpa memerlukan Mimio Notebook untuk mengaksesnya.
 
 ## MimioStudio
 

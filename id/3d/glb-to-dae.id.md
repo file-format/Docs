@@ -18,7 +18,7 @@
 
 ## Tentang GLB hingga DAE
 
-Penggunaan file GLB dalam format file 3D bukanlah hal baru. GLB adalah format file biner 3D yang umum digunakan yang mewakili model 3D dalam format Transmisi GL yaitu ([glTF](/id/3d/gltf/)). [DAE](/id/3d/DAE/), di sisi lain, adalah format file Pertukaran Aset Digital yang digunakan untuk pertukaran data antar aplikasi 3D interaktif. File GLB dapat dikonversi ke format file DAE menggunakan beberapa aplikasi online gratis. Jika Anda adalah pengembang aplikasi yang ingin menyematkan fungsionalitas konversi GLB ke DAE di aplikasi Anda, Anda dapat menggunakan API Aspose.3D untuk mencapai hal ini.
+Penggunaan file GLB dalam format file 3D bukanlah hal baru. GLB adalah format file biner 3D yang umum digunakan yang mewakili model 3D dalam format Transmisi GL yaitu ([glTF](/id/3d/gltf/)). [DAE](/id/3d/dae/), di sisi lain, adalah format file Pertukaran Aset Digital yang digunakan untuk pertukaran data antar aplikasi 3D interaktif. File GLB dapat dikonversi ke format file DAE menggunakan beberapa aplikasi online gratis. Jika Anda adalah pengembang aplikasi yang ingin menyematkan fungsionalitas konversi GLB ke DAE di aplikasi Anda, Anda dapat menggunakan API Aspose.3D untuk mencapai hal ini.
 
 ## Konversi GLB ke DAE - Demo Gratis
 

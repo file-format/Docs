@@ -59,7 +59,7 @@ Untuk membuka file RAF, Anda memerlukan perangkat lunak pengedit atau pengolah g
 Di antara banyak aplikasi lainnya, Adobe Photoshop dengan utilitas Camera Raw-nya dapat digunakan untuk mengkonversi file RAF ke banyak format lain misalnya
 
 - [PNG](/id/image/png/) - Grafik Jaringan Portabel
-- [JPEG](/id/gambar/jpeg/) - Gambar JPEG
+- [JPEG](/id/image/jpeg/) - Gambar JPEG
 - [GIF](/id/image/gif/) - Format Pertukaran Grafis
 - [PSD](/id/image/psd/) - Dokumen Adobe Photoshop
 - [BMP](/id/image/bmp/) - Gambar Bitmap

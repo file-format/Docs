@@ -46,7 +46,7 @@ Anda dapat membuka file BAY menggunakan berbagai aplikasi perangkat lunak penged
 Anda dapat menggunakan Adobe Photoshop menggunakan plugin **Adobe Camera Raw (ACR)** untuk mengonversi file BAY ke format lain.
 
 - [PNG](/id/image/png/) - Grafik Jaringan Portabel
-- [JPEG](/id/gambar/jpeg/) - Gambar JPEG
+- [JPEG](/id/image/jpeg/) - Gambar JPEG
 - [GIF](/id/image/gif/) - Format Pertukaran Grafis
 - [PSD](/id/image/psd/) - Dokumen Adobe Photoshop
 - [BMP](/id/image/bmp/) - Gambar Bitmap

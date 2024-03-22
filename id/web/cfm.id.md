@@ -19,7 +19,7 @@
 
 ## Apa itu file CFM? ##
 
-Halaman web dan file yang digunakan dalam **Cold Fusion Markup Language** berisi ekstensi CFM dan diberi nama halaman web CFM. Bahasa skrip pengembangan web ini berjalan di Google App Engine, .NET framework, dan JVM. Ini dapat berisi bahasa pemrograman atau kode bahasa. Ketika salah satu halamannya diakses oleh pengguna, server web ColdFusion mengeksekusinya. CFScript (yang mirip dengan JavaScript) atau tag dapat digunakan untuk menulis CFML. CFML dapat digunakan untuk membuat bahasa lain selain [HTML](/id/web/html/) seperti [CSS](/id/web/css/), [JavaScript](/id/web/js/), [XML](/id/web/ xml/), dan lainnya.
+Halaman web dan file yang digunakan dalam **Cold Fusion Markup Language** berisi ekstensi CFM dan diberi nama halaman web CFM. Bahasa skrip pengembangan web ini berjalan di Google App Engine, .NET framework, dan JVM. Ini dapat berisi bahasa pemrograman atau kode bahasa. Ketika salah satu halamannya diakses oleh pengguna, server web ColdFusion mengeksekusinya. CFScript (yang mirip dengan JavaScript) atau tag dapat digunakan untuk menulis CFML. CFML dapat digunakan untuk membuat bahasa lain selain [HTML](/id/web/html/) seperti [CSS](/id/web/css/), [JavaScript](/id/web/js/), [XML](/id/web/xml/), dan lainnya.
 
 Penggunaan bahasa dan tag yang didukungnya sebagian besar dalam pengembangan aplikasi web dinamis. File dapat langsung dijalankan di browser online jika terjadi kesalahan selama penggunaan offline platform pengembangan aplikasi.
  

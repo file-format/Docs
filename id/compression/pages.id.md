@@ -41,8 +41,8 @@ Dokumen Apple PAGES dapat dikonversi ke beberapa format file. Ini dapat dilakuka
 * Microsoft Word [DOC](/id/word-processing/doc/) dan [DOCX](/id/word-processing/docx/)
 * [PDF](/id/pdf/)
 * [EPUB](/id/ebook/epub/)
-* [RTF](/id/pengolah kata/rtf/)
-* [TXT](/id/pengolah kata/txt/)
+* [RTF](/id/word-processing/rtf/)
+* [TXT](/id/word-processing/txt/)
 
 ## Referensi
 

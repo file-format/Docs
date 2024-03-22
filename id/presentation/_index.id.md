@@ -20,7 +20,7 @@
 
 Anda pasti sudah familiar dengan file ekstensi **PPTX** dan **PPT**, ini adalah format file Presentasi yang menyimpan kumpulan rekaman untuk mengakomodasi data presentasi seperti: slide, bentuk, teks, animasi, video, audio, dan objek tersemat . Presentasi dapat disimpan/diubah menjadi format file lain juga seperti PDF, BMP, PNG, JPEG, dan XPS.
 
-Ekstensi file Presentasi Umum dan format file terkait termasuk **[PPTX](/id/presentation/pptx/)**, **[PPT](/id/presentation/ppt/)** dan **[ODP](/id/presentation/odp /)**.
+Ekstensi file Presentasi Umum dan format file terkait termasuk **[PPTX](/id/presentation/pptx/)**, **[PPT](/id/presentation/ppt/)** dan **[ODP](/id/presentation/odp/)**.
 
 Punya pertanyaan terkait dengan format file Presentasi? Kunjungi [forum](https://forum.fileformat.com/c/presentation/8) komunitas kami untuk mendapatkan manfaat dari pengetahuan yang dibagikan oleh pakar Format File.
 

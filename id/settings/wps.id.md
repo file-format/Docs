@@ -71,8 +71,8 @@ Program yang membuka file WPS termasuk
 
 Berikut jenis file lain yang menggunakan ekstensi file **.wps**.
 
-- [WPS - Dokumen Pengolah Kata Microsoft Works](/id/pemrosesan kata/wps/)
-- [WPS - Dokumen Penulis Kingsoft](/id/pemrosesan kata/wps-kingsoft/)
+- [WPS - Dokumen Pengolah Kata Microsoft Works](/id/word-processing/wps/)
+- [WPS - Dokumen Penulis Kingsoft](/id/word-processing/wps-kingsoft/)
 
 ## Referensi
 * [Trados Studio](https://en.wikipedia.org/wiki/Trados_Studio)

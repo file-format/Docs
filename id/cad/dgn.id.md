@@ -19,7 +19,7 @@
 
 ## Apa itu file DGN?
 
-File dengan ekstensi .dgn (Desain) adalah file gambar yang dibuat oleh dan didukung oleh aplikasi CAD seperti MicroStation dan Intergraph Interactive Graphics Design System. Ini digunakan untuk membuat dan menyimpan desain untuk proyek konstruksi seperti jalan raya, jembatan, dan bangunan. Formatnya mirip dengan format file [DWG](/id/cad/dwg/) Autodesk dan dianggap sebagai pesaingnya. File DNG dapat disimpan sebagai Intergraph Standard File Format atau V8 DGN. DGN dapat dikonversi ke beberapa format lain seperti DWG, [BMP](/id/image/bmp/), [JPEG](/id/image/jpeg/), [PDF](/id/pdf/), [GIF](/id/image/ gif/) dan lainnya. Itu dapat dibuka dengan Autodesk AutoCAD, Bentley View dan Bentley Systems MicroStation selain aplikasi perangkat lunak lain seperti versi Corel PaintShop Photo Pro dan IMSI TurboCAD Deluxe.
+File dengan ekstensi .dgn (Desain) adalah file gambar yang dibuat oleh dan didukung oleh aplikasi CAD seperti MicroStation dan Intergraph Interactive Graphics Design System. Ini digunakan untuk membuat dan menyimpan desain untuk proyek konstruksi seperti jalan raya, jembatan, dan bangunan. Formatnya mirip dengan format file [DWG](/id/cad/dwg/) Autodesk dan dianggap sebagai pesaingnya. File DNG dapat disimpan sebagai Intergraph Standard File Format atau V8 DGN. DGN dapat dikonversi ke beberapa format lain seperti DWG, [BMP](/id/image/bmp/), [JPEG](/id/image/jpeg/), [PDF](/id/pdf/), [GIF](/id/image/gif/) dan lainnya. Itu dapat dibuka dengan Autodesk AutoCAD, Bentley View dan Bentley Systems MicroStation selain aplikasi perangkat lunak lain seperti versi Corel PaintShop Photo Pro dan IMSI TurboCAD Deluxe.
 
 ## Format File DGN V8
 

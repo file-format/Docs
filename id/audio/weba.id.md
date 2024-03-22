@@ -43,7 +43,7 @@ WEBA adalah file audio, sehingga tidak dapat diubah menjadi file Subtitle. Namun
 
 ## Bagaimana cara mengonversi WEBA ke Format Audio lainnya?
 
-File WEBA dapat dikonversi ke format file audio lainnya. Karena didasarkan pada format file wadah OGG sumber terbuka dan gratis, banyak API dan aplikasi yang dapat membaca dan mengonversi WEBA ke format file lain seperti [MP3](/id/audio/mp3/), [MP4](/id/audio/ mp4/), [FLAC](/id/audio/flac/), dan banyak lainnya. FFmpeg adalah salah satu perangkat lunak yang dapat mengonversi WEBA ke file MP3.
+File WEBA dapat dikonversi ke format file audio lainnya. Karena didasarkan pada format file wadah OGG sumber terbuka dan gratis, banyak API dan aplikasi yang dapat membaca dan mengonversi WEBA ke format file lain seperti [MP3](/id/audio/mp3/), [MP4](/id/video/mp4/), [FLAC](/id/audio/flac/), dan banyak lainnya. FFmpeg adalah salah satu perangkat lunak yang dapat mengonversi WEBA ke file MP3.
 
 ## Referensi
 

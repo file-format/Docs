@@ -23,7 +23,7 @@ File dengan ekstensi file GNUMERIC adalah file spreadsheet yang dibuat dengan pe
 
 ## Format File GNUMERIK
 
-File GNUMERIC disimpan dalam format file XML, dikompresi menggunakan kompresi GZIP. Ini tidak mendukung Makro dan Tabel Pivot, tetapi kaya dengan fitur lain seperti konversi ke [CSV](/id/spreadsheet/csv/), [XLSX](/id/spreadsheet/xlsx/), Microsoft Works (.wks), [ HTML](/id/web/html/), [LaTex](/id/pemrosesan kata/latex/), dan [Lotus 1-2-3](/id/spreadsheet/123/).
+File GNUMERIC disimpan dalam format file XML, dikompresi menggunakan kompresi GZIP. Ini tidak mendukung Makro dan Tabel Pivot, tetapi kaya dengan fitur lain seperti konversi ke [CSV](/id/spreadsheet/csv/), [XLSX](/id/spreadsheet/xlsx/), Microsoft Works (.wks), [ HTML](/id/web/html/), [LaTex](/id/word-processing/latex/), dan [Lotus 1-2-3](/id/spreadsheet/123/).
 
 ## Gnumeric di Github
 

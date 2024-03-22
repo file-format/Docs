@@ -18,7 +18,7 @@
 
 ## Tentang Konversi DOCX ke EMF
 
-Sebagai pengguna komputer, pilihan pertama Anda dalam bekerja dengan dokumen adalah menggunakan Microsoft Word. Ini memberi Anda semua fitur untuk membuat dokumen yang terlihat bagus dan terorganisir dengan konten. Microsoft Word menyimpan dokumen dalam format file DOCX terbaru yang diperkenalkan dengan Microsoft 2007. Terkadang, seseorang mungkin memerlukan file DOCX untuk dikonversi ke EMF (Enhanced Metafile Format) yang menyimpan gambar grafik terlepas dari konteks perangkat. Alat dan aplikasi online memungkinkan Anda mengonversi [DOCX](/id/pemrosesan kata/docx/) menjadi [EMF](/id/image/emf/). Aplikasi Aspose.Words adalah salah satu aplikasi online yang memungkinkan Anda mengonversi DOCX ke EMF secara gratis.
+Sebagai pengguna komputer, pilihan pertama Anda dalam bekerja dengan dokumen adalah menggunakan Microsoft Word. Ini memberi Anda semua fitur untuk membuat dokumen yang terlihat bagus dan terorganisir dengan konten. Microsoft Word menyimpan dokumen dalam format file DOCX terbaru yang diperkenalkan dengan Microsoft 2007. Terkadang, seseorang mungkin memerlukan file DOCX untuk dikonversi ke EMF (Enhanced Metafile Format) yang menyimpan gambar grafik terlepas dari konteks perangkat. Alat dan aplikasi online memungkinkan Anda mengonversi [DOCX](/id/word-processing/docx/) menjadi [EMF](/id/image/emf/). Aplikasi Aspose.Words adalah salah satu aplikasi online yang memungkinkan Anda mengonversi DOCX ke EMF secara gratis.
 
 ## Konversi DOCX ke EMF - DEMO GRATIS
 

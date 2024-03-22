@@ -19,7 +19,7 @@
 
 ## Apa itu file XML?
 
-XML adalah singkatan dari Extensible Markup Language yang mirip dengan **[HTML](/id/web/html/)** tetapi berbeda dalam penggunaan tag untuk mendefinisikan objek. Seluruh ide di balik pembuatan format file XML adalah untuk menyimpan dan mengangkut data tanpa bergantung pada perangkat lunak atau perangkat keras. Popularitasnya karena dapat dibaca oleh manusia dan mesin. Ini memungkinkannya untuk membuat protokol data umum dalam bentuk objek untuk disimpan dan dibagikan melalui jaringan seperti World Wide Web (WWW). "X" dalam XML adalah untuk dapat diperluas yang menyiratkan bahwa bahasa dapat diperluas ke sejumlah simbol sesuai kebutuhan pengguna. Untuk fitur inilah banyak format file standar memanfaatkannya seperti Microsoft Open XML, LibreOffice OpenDocument, **[XHTML](/id/web/xhtml/)** dan **[SVG](/id/page-description-language /svg/)**.
+XML adalah singkatan dari Extensible Markup Language yang mirip dengan **[HTML](/id/web/html/)** tetapi berbeda dalam penggunaan tag untuk mendefinisikan objek. Seluruh ide di balik pembuatan format file XML adalah untuk menyimpan dan mengangkut data tanpa bergantung pada perangkat lunak atau perangkat keras. Popularitasnya karena dapat dibaca oleh manusia dan mesin. Ini memungkinkannya untuk membuat protokol data umum dalam bentuk objek untuk disimpan dan dibagikan melalui jaringan seperti World Wide Web (WWW). "X" dalam XML adalah untuk dapat diperluas yang menyiratkan bahwa bahasa dapat diperluas ke sejumlah simbol sesuai kebutuhan pengguna. Untuk fitur inilah banyak format file standar memanfaatkannya seperti Microsoft Open XML, LibreOffice OpenDocument, **[XHTML](/id/web/xhtml/)** dan **[SVG](/id/page-description-language/svg/)**.
 
 ## Berformat XML
 

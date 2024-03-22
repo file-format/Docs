@@ -27,7 +27,7 @@ File GNM adalah file XML terkompresi yang dapat diekstraksi dengan utilitas deko
 
 ## Fitur yang Didukung di File GNM
 
-Karena Gnumeric mendukung beberapa format file yang berbeda, Gnumeric dapat mengonversi file GNM asli menjadi [CSV](/id/spreadsheet/csv/), [XLSX](/id/spreadsheet/xlsx/), Microsoft Works (.wks), [HTML](/id/ web/html/), [LaTex](/id/pemrosesan kata/latex/), dan [Lotus 1-2-3](/id/spreadsheet/123/).
+Karena Gnumeric mendukung beberapa format file yang berbeda, Gnumeric dapat mengonversi file GNM asli menjadi [CSV](/id/spreadsheet/csv/), [XLSX](/id/spreadsheet/xlsx/), Microsoft Works (.wks), [HTML](/id/web/html/), [LaTex](/id/word-processing/latex/), dan [Lotus 1-2-3](/id/spreadsheet/123/).
 
 ## Gnumeric di Github
 

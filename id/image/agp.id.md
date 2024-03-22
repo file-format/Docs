@@ -29,6 +29,6 @@ File AGP disimpan dalam format file milik ArtGem. Struktur file internal file AG
 
 ## Referensi
 
-* [Format File JPEG](/gambar/jpeg/)
+* [Format File JPEG](/image/jpeg/)
 
 

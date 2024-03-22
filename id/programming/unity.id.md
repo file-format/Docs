@@ -20,7 +20,7 @@
 
 File Unity adalah file adegan 3D yang dibuat dengan mesin Game 3D, **Unity**. Ini digunakan dalam kombinasi dengan adegan lain untuk menciptakan dunia virtual saat mengedit. Ini berisi elemen pemandangan 3D seperti objek, lingkungan, dekorasi, kamera, informasi sudut, skenario pencahayaan, dan rintangan.
 
-File Unity dapat dibuka dengan Unity Technologies Unity. Unity juga dapat membaca Unity [.fbx](/id/3d/fbx/), [.dae](/id/3d/dae/) (Collada), [.3ds](/id/3d/3ds/), [.dxf](/id/ cad/dxf/), dan file [.obj](/id/3d/obj/).
+File Unity dapat dibuka dengan Unity Technologies Unity. Unity juga dapat membaca Unity [.fbx](/id/3d/fbx/), [.dae](/id/3d/dae/) (Collada), [.3ds](/id/3d/3ds/), [.dxf](/id/cad/dxf/), dan file [.obj](/id/3d/obj/).
 
 ## Format File KESATUAN
 

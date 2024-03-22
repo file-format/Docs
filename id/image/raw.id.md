@@ -54,7 +54,7 @@ Anda dapat membuka file RAW menggunakan berbagai aplikasi perangkat lunak penged
 Beberapa perangkat lunak pengedit gambar dapat mengonversi file RAW ke format berbeda. Adobe Photoshop dapat mengkonversi file RAW Anda ke dalam format gambar seperti
 
 - [PNG](/id/image/png/) - Grafik Jaringan Portabel
-- [JPEG](/id/gambar/jpeg/) - Gambar JPEG
+- [JPEG](/id/image/jpeg/) - Gambar JPEG
 - [GIF](/id/image/gif/) - Format Pertukaran Grafis
 - [PSD](/id/image/psd/) - Dokumen Adobe Photoshop
 - [BMP](/id/image/bmp/) - Gambar Bitmap

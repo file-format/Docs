@@ -43,7 +43,7 @@ Beragamnya dukungan untuk berbagai bahasa pemrograman memberi Anda kesempatan un
 
 ## Tentang DOCX hingga XPS
 
-Konversi halaman DOCX ke format file XPS (Spesifikasi Kertas XML) adalah salah satu operasi yang umum digunakan. Ketika file DOCX dikonversi ke XPS, semua halamannya dirender menjadi satu file XPS keluaran. Microsoft Windows menyediakan XPS viewer default yang dapat digunakan untuk membuka dan melihat file XPS. DOCX dapat dikonversi ke XPS menggunakan beberapa alat online yang berbeda. Aplikasi Aspose.Words adalah salah satu aplikasi online yang dapat mengonversi [DOCX](/id/word-processing/docx/) menjadi [XPS](/id/page-description-lingual/xps/) secara online gratis.
+Konversi halaman DOCX ke format file XPS (Spesifikasi Kertas XML) adalah salah satu operasi yang umum digunakan. Ketika file DOCX dikonversi ke XPS, semua halamannya dirender menjadi satu file XPS keluaran. Microsoft Windows menyediakan XPS viewer default yang dapat digunakan untuk membuka dan melihat file XPS. DOCX dapat dikonversi ke XPS menggunakan beberapa alat online yang berbeda. Aplikasi Aspose.Words adalah salah satu aplikasi online yang dapat mengonversi [DOCX](/id/word-processing/docx/) menjadi [XPS](/id/page-description-language/xps/) secara online gratis.
 
 ## Konversi DOCX ke XPS di .NET, Java, C++ dan Python
 

@@ -19,7 +19,7 @@
 
 ## Apa itu file CBC?
 
-File dengan ekstensi .cbc adalah kumpulan file Buku Komik terkompresi untuk eBook dan berisi file [CBZ](/id/ebook/cbz/) dan [CBR](/id/ebook/cbr/). Ini digunakan oleh [Calibre](https://calibre-ebook.com/), sebuah aplikasi konversi eBook, yang merupakan pengelola e-book sumber terbuka lintas platform dan memungkinkan Anda mengelola eBook dan mengonversinya ke format yang berbeda . File CBC berisi file .txt, comics.txt, yang mencantumkan file lain yang merupakan bagian dari arsip. Beberapa aplikasi tersedia online yang dapat mengonversi file CBC ke [AZW3](/id/ebook/azw3/), [EPUB](/id/ebook/epub/), [FB2](/id/ebook/fb2/), [MOBI](/id/ebook/ mobi/), [TXT](/id/word-processing/txt/), [PDF](/id/pdf/), dan format file populer lainnya.
+File dengan ekstensi .cbc adalah kumpulan file Buku Komik terkompresi untuk eBook dan berisi file [CBZ](/id/ebook/cbz/) dan [CBR](/id/ebook/cbr/). Ini digunakan oleh [Calibre](https://calibre-ebook.com/), sebuah aplikasi konversi eBook, yang merupakan pengelola e-book sumber terbuka lintas platform dan memungkinkan Anda mengelola eBook dan mengonversinya ke format yang berbeda . File CBC berisi file .txt, comics.txt, yang mencantumkan file lain yang merupakan bagian dari arsip. Beberapa aplikasi tersedia online yang dapat mengonversi file CBC ke [AZW3](/id/ebook/azw3/), [EPUB](/id/ebook/epub/), [FB2](/id/ebook/fb2/), [MOBI](/id/ebook/mobi/), [TXT](/id/word-processing/txt/), [PDF](/id/pdf/), dan format file populer lainnya.
 
 ## Format File CBC
 

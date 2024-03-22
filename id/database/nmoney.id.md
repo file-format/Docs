@@ -36,7 +36,7 @@ Denaro awalnya dikembangkan oleh [Nickvision](https://nickvision.org/) sebagai p
 
 ## Format File Denaro - Informasi Lebih Lanjut
 
-File Denaro disimpan ke disk dalam format file biner. Data keuangan disimpan sebagai file database dalam format file **.SQLITE3**. SQLITE adalah file database SQL ringan yang dibuat dengan perangkat lunak SQLite. Ini menyediakan mesin basis data mandiri yang mampu menyediakan basis data berfitur lengkap dan sangat andal. File database SQLite dapat digunakan untuk berbagi konten yang kaya antar sistem hanya dengan bertukar file ini melalui jaringan. Pengikatan SQLite ada untuk bahasa pemrograman seperti C, [C#](/id/programming/cs/), [C++](/id/programming/cpp/), [Java](/id/programming/java/), [PHP](/id/programming/ php/), dan masih banyak lainnya.
+File Denaro disimpan ke disk dalam format file biner. Data keuangan disimpan sebagai file database dalam format file **.SQLITE3**. SQLITE adalah file database SQL ringan yang dibuat dengan perangkat lunak SQLite. Ini menyediakan mesin basis data mandiri yang mampu menyediakan basis data berfitur lengkap dan sangat andal. File database SQLite dapat digunakan untuk berbagi konten yang kaya antar sistem hanya dengan bertukar file ini melalui jaringan. Pengikatan SQLite ada untuk bahasa pemrograman seperti C, [C#](/id/programming/cs/), [C++](/id/programming/cpp/), [Java](/id/programming/java/), [PHP](/id/programming/php/), dan masih banyak lainnya.
 
 ## Referensi
 

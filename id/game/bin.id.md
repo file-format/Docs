@@ -50,9 +50,9 @@ Berikut langkah umum untuk membuka dan memainkan ROM game Sega Genesis yang disi
 
 Berikut jenis file lain yang menggunakan ekstensi file **.bin**.
 
-- [BIN - File Berkode MacBinary](/id/kompresi/bin/)
+- [BIN - File Berkode MacBinary](/id/compression/bin/)
 - [BIN - File Gambar Disk Biner](/id/disc-and-media/bin/)
-- [BIN - File Unix yang Dapat Dieksekusi](/id/dapat dieksekusi/bin/)
+- [BIN - File Unix yang Dapat Dieksekusi](/id/executable/bin/)
 - [BIN - File Kebijakan TI BlackBerry](/id/settings/bin/)
 - [BIN - Gambar BIOS PlayStation PSX](/id/game/bin-pcsx/)
 

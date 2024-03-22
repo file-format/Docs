@@ -59,7 +59,7 @@ Anda dapat menggunakan software berikut untuk mengonversi file ARW ke berbagai f
 Menggunakan perangkat lunak di atas, file ARW dapat dikonversi menjadi
 
 - [PNG](/id/image/png/) - Grafik Jaringan Portabel
-- [JPEG](/id/gambar/jpeg/) - Gambar JPEG
+- [JPEG](/id/image/jpeg/) - Gambar JPEG
 - [GIF](/id/image/gif/) - Format Pertukaran Grafis
 - [PSD](/id/image/psd/) - Dokumen Adobe Photoshop
 - [BMP](/id/image/bmp/) - Gambar Bitmap

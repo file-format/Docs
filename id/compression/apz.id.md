@@ -27,6 +27,6 @@ Detail format file internal format file APZ tidak tersedia untuk umum untuk refe
 
 ## Referensi
 
-* [Format File Kompresi](/kompresi/)
+* [Format File Kompresi](/compression/)
 
 

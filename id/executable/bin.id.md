@@ -65,7 +65,7 @@ _Berhati-hatilah saat menangani file BIN yang diunduh atau dikirim melalui email
 
 Berikut jenis file lain yang menggunakan ekstensi file **.bin**.
 
-- [BIN - File Berkode MacBinary](/id/kompresi/bin/)
+- [BIN - File Berkode MacBinary](/id/compression/bin/)
 - [BIN - File Gambar Disk Biner](/id/disc-and-media/bin/)
 - [BIN - File Kebijakan TI BlackBerry](/id/settings/bin/)
 - [BIN - ROM Game Sega Genesis](/id/game/bin/)

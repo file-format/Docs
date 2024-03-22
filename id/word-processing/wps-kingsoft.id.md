@@ -71,10 +71,10 @@ Untuk membuka dan mengedit file WPS menggunakan Kingsoft Writer di Kingsoft WPS 
 
 Kingsoft Writer dapat mengonversi file WPS ke format berikut:
 
-- [DOC](/id/pengolah kata/doc/)
-- [DOCX](/id/pengolah kata/docx/)
-- [RTF](/id/pengolah kata/rtf/)
-- [TXT](/id/pengolah kata/txt/)
+- [DOC](/id/word-processing/doc/)
+- [DOCX](/id/word-processing/docx/)
+- [RTF](/id/word-processing/rtf/)
+- [TXT](/id/word-processing/txt/)
 - [HTML](/id/web/html/)
 - [PDF](/id/pdf/)
 
@@ -82,7 +82,7 @@ Kingsoft Writer dapat mengonversi file WPS ke format berikut:
 
 Berikut jenis file lain yang menggunakan ekstensi file **.wps**.
 
-- [WPS - Dokumen Pengolah Kata Microsoft Works](/id/pemrosesan kata/wps/)
+- [WPS - Dokumen Pengolah Kata Microsoft Works](/id/word-processing/wps/)
 - [WPS - File Proyek Meja Kerja Penerjemah SDL](/id/settings/wps/)
 
 ## Referensi
