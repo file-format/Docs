@@ -29,5 +29,3 @@ Semua file Microsoft Access 2007+ menggunakan Jet ACE (Access database engine) y
 
 * [Bagaimana cara menyembunyikan Kode VBA dari Pengguna?](https://support.microsoft.com/en-us/office/hide-vba-code-from-users-ce6ab610-af07-4008-91e0-1ef1b796ff18)
 * [Alat MDB](https://github.com/mdbtools/mdbtools/blob/master/HACKING)
-* [Panduan MDB Tidak Resmi](http://jabakobob.net/mdb/)
-

@@ -76,5 +76,5 @@ Berikut beberapa pengaturan yang dapat disimpan dalam file PC3:
 Dengan membuat dan menggunakan file PC3 yang berisi pengaturan yang benar untuk printer atau plotter spesifik Anda, Anda dapat memastikan bahwa gambar Anda dicetak atau diplot secara akurat dan dengan kualitas yang konsisten.
 
 ## Referensi
-* [PC3 di AutoCAD](https://www.autodesk.com/support/technical/article/caas/sfdcararticles/sfdcararticles/Creating-plotter-configuration-files-PC3.html)
+* [PC3 in AutoCAD](https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/Creating-plotter-configuration-files-PC3.html)
 

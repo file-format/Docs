@@ -72,4 +72,3 @@ Microsoft Access biasanya digunakan oleh individu dan usaha kecil untuk membuat 
 ## Referensi
 
 * [Spesifikasi Akses](https://support.microsoft.com/en-us/office/access-specialations-0cf3c66f-9cf2-4e32-9568-98c1025bb47c)
-* [Panduan MDB Tidak Resmi](http://jabakobob.net/mdb/)

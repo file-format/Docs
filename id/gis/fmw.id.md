@@ -21,7 +21,7 @@
 
 File FMW adalah file proyek yang dibuat dengan perangkat lunak FME Workbench (dihadirkan sebagai bagian dari rangkaian FME Desktop) yang digunakan untuk transformasi data spasial. Ini berisi pengaturan yang ditentukan pengguna yang digunakan untuk manipulasi data spasial seperti kumpulan data masukan, properti terjemahan, proyeksi, dan pengaturan keluaran. Pengaturan manipulasi data spasial disimpan sebagai tata letak visual dan mudah untuk diedit dan disimpan kembali.
 
-Anda dapat membuka file FMW menggunakan [Safe Software FME Desktop](https://www.safe.com/fme/fme-desktop/).
+Anda dapat membuka file FMW menggunakan [Safe Software FME Desktop](https://fme.safe.com/platform/).
 
 ## Format File FMW - Informasi Lebih Lanjut
 
@@ -70,7 +70,5 @@ File FMW disimpan ke disk sebagai file biner dan hanya dapat dibaca menggunakan 
 
 ## Referensi
 
-* [Desktop FME Perangkat Lunak Aman](https://www.safe.com/fme/fme-desktop/)
-
+* [Desktop FME Perangkat Lunak Aman](https://fme.safe.com/platform/)
 * [FMW Quick Facts](https://docs.safe.com/fme/html/FME_Desktop_Documentation/FME_ReadersWriters/fmw/quick_facts_fmw.htm)
-

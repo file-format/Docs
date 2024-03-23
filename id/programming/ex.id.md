@@ -37,6 +37,4 @@ File EX disimpan sebagai file teks biasa dan berisi kode sumber untuk program ya
 
 ## Referensi ##
 
-* [Euforia Cepat](https://www.rapideuphoria.com/)
 * [Forum OpenEuphoria](https://openeuphoria.org/forum/index.wc)
-

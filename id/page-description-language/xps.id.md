@@ -48,7 +48,7 @@ File-file ini menyimpan konten dokumen sedemikian rupa sehingga jika, misalnya, 
 
 Format Dokumen XPS menyertakan kumpulan bagian dan hubungan yang terdefinisi dengan baik, masing-masing memenuhi tujuan tertentu dalam dokumen. Formatnya juga memperluas fitur paket, termasuk tanda tangan digital, thumbnail, dan interleaving.
 
-Dokumen XPS tipikal terlihat seperti berikut dan dapat dianalisis berdasarkan format file XPS [spesifikasi](https://www.ecma-international.org/activities/XML%20Paper%20Specification/XPS%20Standard.pdf).
+Dokumen XPS tipikal terlihat seperti berikut dan dapat dianalisis berdasarkan format file XPS spesifikasi.
 
 {{< figure src="../XPS-2.png" alt="Format File XPS" >}}
 

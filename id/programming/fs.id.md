@@ -42,6 +42,4 @@ Program yang membuka atau mereferensikan file FS termasuk
 - **Microsoft Visual Studio 2022** (Gratis) untuk Windows
 
 ## Referensi
-* [F Sharp (bahasa pemrograman)](https://en.wikipedia.org/wiki/F_Sharp_(bahasa_pemrograman))
-
-
+* [F Sharp (programming language)](https://en.wikipedia.org/wiki/F_Sharp_(programming_language))

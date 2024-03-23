@@ -43,5 +43,4 @@ DDS_HEADER          header;
 ## Referensi
 
 * [DDS - Oleh Wikipedia](https://en.wikipedia.org/wiki/DirectDraw_Surface)
-* [Manual Referensi Teknis Format File ZSoft PCX](http://qzx.com/pc-gpe/pcx.txt)
 

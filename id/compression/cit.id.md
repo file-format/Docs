@@ -29,8 +29,3 @@ File CIT disimpan ke disk dalam format file terkompresi. Ia menggunakan algoritm
 
 In8 adalah perusahaan perangkat lunak yang memiliki keahlian dalam mengembangkan aplikasi yang digunakan untuk mendokumentasikan dan melaporkan laporan investigasi kriminal.
 
-## Referensi
-
-* [In8Cite](https://www.in8development.com/in8cite-2/)
-
-

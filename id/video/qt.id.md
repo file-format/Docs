@@ -23,7 +23,7 @@ File dengan ekstensi .qt adalah file wadah multimedia yang digunakan oleh kerang
 
 ## Format File QT
 
-QTFF berorientasi objek yang memperlihatkan kumpulan objek yang fleksibel untuk kemudahan penguraian dan perluasan. Setiap trek dalam file QT berisi aliran media yang disandikan secara digital atau referensi data ke aliran media yang terletak di file lain. Struktur data hierarkis yang terdiri dari objek yang disebut atom bertindak sebagai wadah trek. Spesifikasi format file untuk [format file QT](https://developer.apple.com/library/archive/documentation/QuickTime/QTFF/QTFFPreface/qtffPreface.html) secara resmi tersedia oleh Apple Inc untuk referensi pengembang.
+QTFF berorientasi objek yang memperlihatkan kumpulan objek yang fleksibel untuk kemudahan penguraian dan perluasan. Setiap trek dalam file QT berisi aliran media yang disandikan secara digital atau referensi data ke aliran media yang terletak di file lain. Struktur data hierarkis yang terdiri dari objek yang disebut atom bertindak sebagai wadah trek. Spesifikasi format file untuk [format file QT](https://developer.apple.com/documentation/quicktime-file-format) secara resmi tersedia oleh Apple Inc untuk referensi pengembang.
 
 ### Deskripsi media
 
@@ -55,6 +55,6 @@ Potongan berikutnya terletak di offset 32+8#40 (hex: 28) dan memiliki ukuran 3.2
 
 ## Referensi ##
 
-* [Format File QT - Apple Inc.](https://developer.apple.com/library/archive/documentation/QuickTime/QTFF/QTFFPreface/qtffPreface.html)
+* [Format File QT - Apple Inc.](https://developer.apple.com/documentation/quicktime-file-format)
 * [Format File QuickTime - Wikipedia](https://en.wikipedia.org/wiki/QuickTime_File_Format)
 

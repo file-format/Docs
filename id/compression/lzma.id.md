@@ -54,6 +54,4 @@ Ukuran Tidak Terkompresi disimpan sebagai bilangan bulat endian kecil 64-bit yan
 
 ## Referensi
 
-* [Format File LZMA](https://svn.python.org/projects/external/xz-5.0.3/doc/lzma-file-format.txt)
 * [Algoritme rantai Lempel–Ziv–Markov](https://en.wikipedia.org/wiki/Lempel%E2%80%93Ziv%E2%80%93Markov_chain_algorithm)
-
