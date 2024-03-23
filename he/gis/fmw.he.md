@@ -21,7 +21,7 @@
 
 קובץ FMW הוא קובץ פרויקט שנוצר באמצעות תוכנת FME Workbench (מגיע כחלק מחבילת FME Desktop) המשמש לטרנספורמציה של נתונים מרחביים. הוא מכיל הגדרות מוגדרות על ידי משתמש המשמשות למניפולציה של נתונים מרחביים, כגון ערכות נתוני קלט, מאפייני תרגום, תחזיות והגדרות פלט. הגדרות המניפולציה של הנתונים המרחביים מאוחסנות כפריסה ויזואלית וקל לערוך אותן ולשמור אותן שוב.
 
-אתה יכול לפתוח קבצי FMW באמצעות [Safe Software FME Desktop](https://www.safe.com/fme/fme-desktop/).
+אתה יכול לפתוח קבצי FMW באמצעות [Safe Software FME Desktop](https://fme.safe.com/platform/).
 
 ## פורמט קובץ FMW - מידע נוסף
 
@@ -70,7 +70,7 @@
 
 ## הפניות
 
-* [תוכנה בטוחה FME Desktop](https://www.safe.com/fme/fme-desktop/)
+* [תוכנה בטוחה FME Desktop](https://fme.safe.com/platform/)
 
 * [FMW Quick Facts](https://docs.safe.com/fme/html/FME_Desktop_Documentation/FME_ReadersWriters/fmw/quick_facts_fmw.htm)
 

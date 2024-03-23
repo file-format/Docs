@@ -37,6 +37,4 @@
 
 ## התייחסות ##
 
-* [אופוריה מהירה](https://www.rapideuphoria.com/)
 * [פורומי OpenEuphoria](https://openeuphoria.org/forum/index.wc)
-

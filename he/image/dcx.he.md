@@ -23,5 +23,3 @@
 ## הפניות
 
 * [PCX - מאת ויקיפדיה](https://en.wikipedia.org/wiki/PCX)
-* [מדריך עזר טכני בפורמט קובץ ZSoft PCX](http://qzx.com/pc-gpe/pcx.txt)
-

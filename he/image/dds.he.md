@@ -43,5 +43,3 @@ DDS_HEADER          header;
 ## הפניות
 
 * [DDS - מאת ויקיפדיה](https://en.wikipedia.org/wiki/DirectDraw_Surface)
-* [מדריך עזר טכני בפורמט קובץ PCX של ZSoft](http://qzx.com/pc-gpe/pcx.txt)
-

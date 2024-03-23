@@ -62,5 +62,5 @@ Navi הוא יישום מסוף חוצה פלטפורמות שניתן להתק�
 כדי להשתמש בקובץ CHEAT עם Navi, יישום מסוף חוצה פלטפורמות, אתה יכול לייבא את הקובץ ממאגר GitHub או למקם אותו בספרייה של Navi. ברגע שתעשה זאת, הפקודות הכלולות בקובץ ה-CHEAT יהפכו לזמינות בתוך Navi, ויאפשרו לך להתייחס אליהן ולהשתמש בהן במהירות.
 
 ## הפניות
-* [Navi – כלי Cheatsheet](https://otechnix.com/navi-an-interactive-commandline-cheatsheet-tool/)
+* [Navi – Cheatsheet Tool](https://ostechnix.com/navi-an-interactive-commandline-cheatsheet-tool/)
 

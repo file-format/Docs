@@ -54,6 +54,5 @@ NSP ו-NSZ הם שניהם פורמטים של קבצים המשויכים למ�
 - **nsz** (חינם) עבור (Windows, Mac, Linux)
 
 ## הפניות
-* [אימולטור יוזו](https://en.wikipedia.org/wiki/Yuzu_(אימולטור))
-
+* [Yuzu Emulator](https://en.wikipedia.org/wiki/Yuzu_(emulator))
 

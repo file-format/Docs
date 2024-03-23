@@ -23,7 +23,7 @@
 
 ## פורמט קובץ QT
 
-ה-QTFF מונחה עצמים שחושף אוסף גמיש של אובייקטים כדי להקל על הניתוח וההרחבה. כל רצועה בקובץ QT מכילה זרם מדיה מקודד דיגיטלית או הפניה לנתונים לזרם המדיה שנמצא בקובץ אחר. מבנה הנתונים ההיררכי המורכב מאובייקטים הנקראים אטומים פועל כמכולות מסלולים. מפרטי פורמט הקובץ עבור [פורמט קובץ QT](https://developer.apple.com/library/archive/documentation/QuickTime/QTFF/QTFFPreface/qtffPreface.html) זמינים רשמית על ידי Apple Inc לעיונ המפתח.
+ה-QTFF מונחה עצמים שחושף אוסף גמיש של אובייקטים כדי להקל על הניתוח וההרחבה. כל רצועה בקובץ QT מכילה זרם מדיה מקודד דיגיטלית או הפניה לנתונים לזרם המדיה שנמצא בקובץ אחר. מבנה הנתונים ההיררכי המורכב מאובייקטים הנקראים אטומים פועל כמכולות מסלולים. מפרטי פורמט הקובץ עבור [פורמט קובץ QT](https://developer.apple.com/documentation/quicktime-file-format) זמינים רשמית על ידי Apple Inc לעיונ המפתח.
 
 ### תיאור מדיה
 
@@ -55,6 +55,6 @@ Atom היא היחידה הבסיסית של קובץ QuickTime. ישנם שני
 
 ## הפניות ##
 
-* [פורמט קובץ QT - Apple Inc.](https://developer.apple.com/library/archive/documentation/QuickTime/QTFF/QTFFPreface/qtffPreface.html)
+* [פורמט קובץ QT - Apple Inc.](https://developer.apple.com/documentation/quicktime-file-format)
 * [פורמט קובץ QuickTime - ויקיפדיה](https://en.wikipedia.org/wiki/QuickTime_File_Format)
 
