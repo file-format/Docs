@@ -56,6 +56,4 @@
 - टाइमज़ीरो
 
 ## संदर्भ
-* [इलेक्ट्रॉनिक नेविगेशनल चार्ट](https://en.wikipedia.org/wiki/Electronic_navicational_chart)
-
-
+* [Electronic navigational chart](https://en.wikipedia.org/wiki/Electronic_navigational_chart)

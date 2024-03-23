@@ -68,9 +68,4 @@ MCA क्षेत्र फ़ाइल का हेडर 8KiB हेडर 
 ## संदर्भ
 
 * [Minecraft के लिए विश्व संपादक](https://www.mcedit.net/)
-
-* [माइनक्राफ्ट के बारे में](https://www.माइनक्राफ्ट.नेट/)
-
 * [क्षेत्र फ़ाइल प्रारूप](https://inecraft.fandom.com/wiki/Region_file_format)
-
-

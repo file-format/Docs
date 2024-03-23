@@ -42,6 +42,4 @@
 - **माइक्रोसॉफ्ट विजुअल स्टूडियो 2022** (फ्री) विंडोज़ के लिए
 
 ## संदर्भ
-* [एफ शार्प (प्रोग्रामिंग भाषा)](https://en.wikipedia.org/wiki/F_Sharp_(प्रोग्रामिंग_भाषा))
-
-
+* [F Sharp (programming language)](https://en.wikipedia.org/wiki/F_Sharp_(programming_language))

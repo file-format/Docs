@@ -47,5 +47,4 @@
 4. एमुलेटर को अब गेम लोड करना चाहिए और आपको गेम कंट्रोलर या कीबोर्ड का उपयोग करके इसे खेलने की अनुमति देनी चाहिए।
 
 ## संदर्भ
-* [सेगा जेनेसिस](https://en.wikipedia.org/wiki/Sega_Genेसिस)
-
+* [Sega Genesis](https://en.wikipedia.org/wiki/Sega_Genesis)

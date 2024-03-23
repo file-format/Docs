@@ -29,6 +29,6 @@ VDISCO फ़ाइल एक खोज फ़ाइल है जिसका �
 ## संदर्भ
 
 * [डिस्को](https://appsource.microsoft.com/en-us/product/office/WA104381894)
-* [वेब सेवा डिस्कवरी](https://en.wikipedia.org/wiki/Web_Services_Discotory)
+* [Web Services Discovery](https://en.wikipedia.org/wiki/Web_Services_Discovery)
 * [C# डिस्कवरीक्लाइंट क्लास का उदाहरण](https://learn.microsoft.com/en-us/dotnet/api/system.web.services.discovery.discoveryclientprotocol?view=netframework-4.8)
 

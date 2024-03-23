@@ -62,6 +62,5 @@ BRD फ़ाइल EAGLE लेआउट संपादक का उपयो
 - लिनक्स के लिए **ओपन बोर्ड व्यूअर** (निःशुल्क)।
 
 ## संदर्भ
-* [ईगल प्रोग्राम](https://en.wikipedia.org/wiki/EAGLE_(प्रोग्राम))
-
+* [EAGLE program](https://en.wikipedia.org/wiki/EAGLE_(program))
 

@@ -37,6 +37,4 @@ EX फाइलें सादे पाठ फ़ाइलों के रू
 
 ## संदर्भ ##
 
-* [रैपिड यूफोरिया](https://www.rapideuphoria.com/)
 * [ओपनयूफोरिया फ़ोरम](https://openeuphoria.org/forum/index.wc)
-
