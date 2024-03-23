@@ -23,5 +23,3 @@ A DCX-fájl több oldalból álló képfájl a digitális faxfájlok létrehozá
 ## Hivatkozások
 
 * [PCX – a Wikipedia által](https://en.wikipedia.org/wiki/PCX)
-* [ZSoft PCX fájlformátumú műszaki kézikönyv](http://qzx.com/pc-gpe/pcx.txt)
-

@@ -43,5 +43,3 @@ A [DDS fájlformátum programozási útmutatója](https://learn.microsoft.com/en
 ## Hivatkozások
 
 * [DDS – a Wikipedia által](https://en.wikipedia.org/wiki/DirectDraw_Surface)
-* [ZSoft PCX fájlformátumú műszaki kézikönyv](http://qzx.com/pc-gpe/pcx.txt)
-

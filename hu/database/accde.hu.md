@@ -29,5 +29,3 @@ Minden Microsoft Access 2007+ fájl a Jet ACE-t (Access adatbázismotor) haszná
 
 * [Hogyan rejthető el a VBA-kód a felhasználók elől?](https://support.microsoft.com/en-us/office/hide-vba-code-from-users-ce6ab610-af07-4008-91e0-1ef1b796ff18)
 * [MDB-eszközök](https://github.com/mdbtools/mdbtools/blob/master/HACKING)
-* [A nem hivatalos MDB útmutató](http://jabakobob.net/mdb/)
-

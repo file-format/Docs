@@ -48,7 +48,7 @@ Ezek a fájlok megőrzik a dokumentum tartalmát oly módon, hogy ha például v
 
 Az XPS-dokumentum formátuma részek és kapcsolatok jól meghatározott készletét tartalmazza, amelyek mindegyike egy adott célt tölt be a dokumentumban. A formátum a csomag szolgáltatásait is kiterjeszti, beleértve a digitális aláírásokat, bélyegképeket és interleavingeket.
 
-Egy tipikus XPS-dokumentum a következőképpen néz ki, és az XPS-fájlformátum [specifikációi](https://www.ecma-international.org/activities/XML%20Paper%20Specification/XPS%20Standard.pdf) fényében elemezhető.
+Egy tipikus XPS-dokumentum a következőképpen néz ki, és az XPS-fájlformátum specifikációi fényében elemezhető.
 
 {{< figure src="../XPS-2.png" alt="XPS fájlformátum" >}}
 

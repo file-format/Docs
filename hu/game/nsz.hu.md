@@ -54,6 +54,4 @@ Az NSZ fájlokat megnyitó programok közé tartozik az **nsz** program, amely k
 - **nsz** (ingyenes) (Windows, Mac, Linux)
 
 ## Hivatkozások
-* [Yuzu Emulator](https://en.wikipedia.org/wiki/Yuzu_(emulátor))
-
-
+* [Yuzu Emulator](https://en.wikipedia.org/wiki/Yuzu_(emulator))

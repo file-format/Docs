@@ -21,7 +21,7 @@
 
 Az FMW fájl egy FME Workbench szoftverrel létrehozott projektfájl (az FME Desktop programcsomag része), amelyet téradatok átalakítására használnak. Tartalmazza a felhasználó által meghatározott beállításokat, amelyeket a téradatok kezeléséhez használnak, például bemeneti adatkészleteket, fordítási tulajdonságokat, vetítéseket és kimeneti beállításokat. A téradat-kezelési beállítások vizuális elrendezésként tárolódnak, és könnyen szerkeszthetők és újra elmenthetők.
 
-Az FMW fájlokat a [Safe Software FME Desktop](https://www.safe.com/fme/fme-desktop/) használatával nyithatja meg.
+Az FMW fájlokat a [Safe Software FME Desktop](https://fme.safe.com/platform/) használatával nyithatja meg.
 
 ## FMW fájlformátum - További információ
 
@@ -70,7 +70,5 @@ Az FMW fájlok bináris fájlként kerülnek a lemezre, és csak az FME Desktop 
 
 ## Hivatkozások
 
-* [Safe Software FME Desktop](https://www.safe.com/fme/fme-desktop/)
-
+* [Safe Software FME Desktop](https://fme.safe.com/platform/)
 * [FMW Quick Facts](https://docs.safe.com/fme/html/FME_Desktop_Documentation/FME_ReadersWriters/fmw/quick_facts_fmw.htm)
-

@@ -37,6 +37,4 @@ Az EX fájlok egyszerű szöveges fájlokként vannak tárolva, és tartalmazzá
 
 ## Hivatkozási szám
 
-* [Rapid Euphoria](https://www.rapideuphoria.com/)
 * [OpenEuphoria Forums](https://openeuphoria.org/forum/index.wc)
-

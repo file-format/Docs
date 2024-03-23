@@ -23,7 +23,7 @@ A .qt kiterjesztésű fájl egy multimédiás tárolófájl, amelyet a QuickTime
 
 ## QT fájlformátum
 
-A QTFF objektumorientált, amely rugalmas objektumok gyűjteményét teszi lehetővé az elemzés és a bővítés megkönnyítése érdekében. A QT-fájl minden egyes műsorszáma tartalmaz egy digitálisan kódolt médiafolyamot vagy egy másik fájlban található médiafolyamra mutató adatreferenciát. Az atomoknak nevezett objektumokból álló hierarchikus adatstruktúra nyomkövető konténerként működik. A [QT-fájlformátum](https://developer.apple.com/library/archive/documentation/QuickTime/QTFF/QTFFPreface/qtffPreface.html) fájlformátum-specifikációi hivatalosan elérhetők az Apple Inc.-től a fejlesztői referenciaként.
+A QTFF objektumorientált, amely rugalmas objektumok gyűjteményét teszi lehetővé az elemzés és a bővítés megkönnyítése érdekében. A QT-fájl minden egyes műsorszáma tartalmaz egy digitálisan kódolt médiafolyamot vagy egy másik fájlban található médiafolyamra mutató adatreferenciát. Az atomoknak nevezett objektumokból álló hierarchikus adatstruktúra nyomkövető konténerként működik. A [QT-fájlformátum](https://developer.apple.com/documentation/quicktime-file-format) fájlformátum-specifikációi hivatalosan elérhetők az Apple Inc.-től a fejlesztői referenciaként.
 
 ### Médialeírás
 
@@ -55,6 +55,6 @@ A következő darab a 32+8#40 eltolásnál (hex: 28) található, mérete 3 263 
 
 ## Referenciák ##
 
-* [QT fájlformátum – Apple Inc.](https://developer.apple.com/library/archive/documentation/QuickTime/QTFF/QTFFPreface/qtffPreface.html)
+* [QT fájlformátum – Apple Inc.](https://developer.apple.com/documentation/quicktime-file-format)
 * [QuickTime fájlformátum – Wikipédia](https://en.wikipedia.org/wiki/QuickTime_File_Format)
 

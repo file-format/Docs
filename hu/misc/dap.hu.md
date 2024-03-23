@@ -23,7 +23,3 @@ A DAP-fájl egy folyamatban lévő letöltési fájl, amelyet a Download Acceler
 
 A DAP fájlok a SpeedBit Download Accelerator Plus (DAP) szoftverrel nyithatók meg.
 
-## Hivatkozások
-
-* [DAP Súgó - Mentési mappák kezelése](http://www.speedbit.com/dap-help/download-accelerator-file-manager/)
-

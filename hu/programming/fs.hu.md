@@ -42,6 +42,4 @@ Az FS-fájlokat megnyitó vagy hivatkozó programok közé tartozik
 - **Microsoft Visual Studio 2022** (ingyenes) Windowshoz
 
 ## Hivatkozások
-* [F Sharp (programozási nyelv)](https://en.wikipedia.org/wiki/F_Sharp_(programozási_nyelv))
-
-
+* [F Sharp (programming language)](https://en.wikipedia.org/wiki/F_Sharp_(programming_language))
