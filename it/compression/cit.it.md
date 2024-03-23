@@ -28,9 +28,3 @@ I file CIT vengono salvati su disco in formato file compresso. Utilizza l'algori
 ### Informazioni su In8
 
 In8 è una società di software specializzata nello sviluppo di applicazioni utilizzate per documentare e segnalare rapporti di indagini penali.
-
-## Riferimenti
-
-* [In8Cite](https://www.in8development.com/in8cite-2/)
-
-

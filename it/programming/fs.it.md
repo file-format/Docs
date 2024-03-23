@@ -42,6 +42,4 @@ I programmi che aprono o fanno riferimento a file FS includono
 - **Microsoft Visual Studio 2022** (gratuito) per Windows
 
 ## Riferimenti
-* [F Sharp (linguaggio di programmazione)](https://en.wikipedia.org/wiki/F_Sharp_(programming_lingual))
-
-
+* [F Sharp (programming language)](https://en.wikipedia.org/wiki/F_Sharp_(programming_language))

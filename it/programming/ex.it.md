@@ -37,6 +37,4 @@ I file EX vengono archiviati come file di testo semplice e contengono il codice 
 
 ## Riferimento ##
 
-* [Euforia rapida](https://www.rapideuphoria.com/)
 * [Forum OpenEuphoria](https://openeuphoria.org/forum/index.wc)
-

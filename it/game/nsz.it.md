@@ -54,6 +54,4 @@ I programmi che aprono i file NSZ includono il programma **nsz** che può decomp
 - **nsz** (gratuito) per (Windows, Mac, Linux)
 
 ## Riferimenti
-* [Emulatore Yuzu](https://en.wikipedia.org/wiki/Yuzu_(emulatore))
-
-
+* [Yuzu Emulator](https://en.wikipedia.org/wiki/Yuzu_(emulator))

@@ -23,7 +23,3 @@ Un file DAP è un file in corso di download creato dal file Download Accelerator
 
 I file DAP possono essere aperti con il software SpeedBit Download Accelerator Plus (DAP).
 
-## Riferimenti
-
-* [Aiuto DAP - Gestisci cartelle di salvataggio](http://www.speedbit.com/dap-help/download-accelerator-file-manager/)
-

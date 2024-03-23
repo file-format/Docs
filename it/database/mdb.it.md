@@ -40,5 +40,3 @@ Un singolo database di Microsoft Access può comprendere più file che consenton
 ## Riferimenti ##
 
 * [Specifiche di accesso](https://support.microsoft.com/en-us/office/access-specifications-0cf3c66f-9cf2-4e32-9568-98c1025bb47c)
-* [La guida non ufficiale di MDB](http://jabakobob.net/mdb/)
-

@@ -23,5 +23,3 @@ Un file DCX è un file immagine costituito da più pagine per la generazione di 
 ## Riferimenti
 
 * [PCX - Di Wikipedia](https://en.wikipedia.org/wiki/PCX)
-* [Manuale di riferimento tecnico del formato file ZSoft PCX](http://qzx.com/pc-gpe/pcx.txt)
-

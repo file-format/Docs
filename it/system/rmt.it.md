@@ -45,5 +45,5 @@ Alcuni dei componenti specifici che potrebbero essere inclusi in un file rmt pot
 
 ## Riferimento
 
-* [Che cos'è un router?](https://en.wikipedia.org/wiki/Router_(informatica))
+* [What is a Router?](https://en.wikipedia.org/wiki/Router_(computing))
 
