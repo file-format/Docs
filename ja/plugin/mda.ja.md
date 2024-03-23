@@ -72,4 +72,3 @@ Microsoft Access は、在庫管理、プロジェクト追跡、連絡先管理
 ## 参考文献
 
 * [アクセス仕様](https://support.microsoft.com/en-us/office/access-specations-0cf3c66f-9cf2-4e32-9568-98c1025bb47c)
-* [非公式 MDB ガイド](http://jabakobob.net/mdb/)

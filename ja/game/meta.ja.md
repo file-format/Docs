@@ -47,5 +47,4 @@ Exient XGS エンジンが提供するさまざまな機能により、PC、コ�
 - Rovio アングリーバードゴー!
 
 ## 参考文献
-※[エクシエントエンターテインメント](https://ja.wikipedia.org/wiki/Exient_Entertainment)
-
+* [Exient Entertainment](https://en.wikipedia.org/wiki/Exient_Entertainment)

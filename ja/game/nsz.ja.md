@@ -54,6 +54,4 @@ NSZ ファイルを開くプログラムには、NSZ アーカイブを NSP フ�
 - **nsz** (無料) (Windows、Mac、Linux)
 
 ## 参考文献
-* [Yuzu エミュレータ](https://ja.wikipedia.org/wiki/Yuzu_(エミュレータ))
-
-
+* [Yuzu Emulator](https://en.wikipedia.org/wiki/Yuzu_(emulator))

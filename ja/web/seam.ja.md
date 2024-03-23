@@ -27,5 +27,4 @@ SEAM ファイルは、通常 [XML](/ja/web/xml/) 形式のテキスト ファ�
 
 ## 参考文献 ##
 
-- [SEAMフレームワーク](https://www.seatframework.org/)
-
+- [SEAM Framework](https://www.seamframework.org/)

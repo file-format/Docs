@@ -47,6 +47,4 @@ Encore の先駆的な側面は、ユーザーがマウスを使用して楽譜�
 上記のソフトウェアを使用すると、ENC ファイルを [.MXL](/audio/mxl/) (Compressed MusicXML) 形式に変換することもできます。
 
 ## 参考文献
-* [Encore ソフトウェア](https://en.wikipedia.org/wiki/Encore_(ソフトウェア))
-
-
+* [Encore Software](https://en.wikipedia.org/wiki/Encore_(software))

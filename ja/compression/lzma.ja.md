@@ -54,6 +54,4 @@ Uncompressed Size は、符号なし 64 ビットのリトル エンディアン
 
 ## 参考文献
 
-* [LZMA ファイル形式](https://svn.python.org/projects/external/xz-5.0.3/doc/lzma-file-format.txt)
 * [Lempel–Ziv–Markov 連鎖アルゴリズム](https://en.wikipedia.org/wiki/Lempel%E2%80%93Ziv%E2%80%93Markov_chain_algorithm)
-

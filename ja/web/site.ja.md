@@ -29,5 +29,5 @@ SITE ファイルは Adobe 独自のファイル形式でディスクに保存�
 
 ## 参考文献
 
-* [サーバー側インクルード](https://en.wikipedia.org/wiki/Server_Side_includes)
+* [Server Side Includes](https://en.wikipedia.org/wiki/Server_Side_Includes)
 

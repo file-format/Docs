@@ -30,9 +30,4 @@ THM ファイルには、XML ファイル、複数の画像ファイル [.png](/
 
 ## Sony Ericsson テーマの作成方法
 
-Sony Themes Creator ソフトウェアを使用して、Sony Ericsson モバイル用の新しいテーマを生成できます。ユーザーは、Sony [Themes Creator Developer Guide](https://developer.sony.com/theme-creator/get-started) に従ってテーマを作成できます。
-
-## 参考文献
-
-* [Sony Themes Creator デベロッパー ガイド](https://developer.sony.com/theme-creator/get-started)
-
+Sony Themes Creator ソフトウェアを使用して、Sony Ericsson モバイル用の新しいテーマを生成できます。ユーザーは、Sony Themes Creator Developer Guide に従ってテーマを作成できます。

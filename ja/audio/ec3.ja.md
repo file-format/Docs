@@ -54,5 +54,5 @@ EC3 ファイルを開くには、EC3 形式をサポートするメディア �
 3. Dolby Digital Plus デコーダー: コンピューターに Dolby Digital Plus デコーダーがインストールされている場合は、それを使用して EC3 ファイルをデコードし、WAV や MP3 などのより一般的なオーディオ形式に変換できます。
 
 ## 参考文献
-※[ドルビーデジタルプラス](https://ja.wikipedia.org/wiki/Dolby_Digital_Plus)
+※[ドルビーデジタルプラス](https://en.wikipedia.org/wiki/Dolby_Digital_Plus)
 

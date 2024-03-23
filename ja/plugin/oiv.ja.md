@@ -31,8 +31,3 @@ OpenIV は、Grand Theft Auto IV、Grand Theft Auto V、Max Payne 3 など、RAG
 
 OpenIV は、テクスチャ、モデル、その他のアセットを含むゲーム ファイルを管理するためのユーザー フレンドリーなインターフェイスを提供します。 これは、新しい乗り物、キャラクター、環境などのカスタム コンテンツを作成するために改造コミュニティで広く使用されています。 ただし、MOD はゲーム体験に多くの創造性と楽しさを加えることができますが、ゲーム開発者によって正式にサポートされていない可能性があり、MOD の使用はゲームの安定性やオンライン機能に影響を与える可能性があることに注意することが重要です。
 
-## 参考文献
-
-  ※[OpenIV](https://openiv.org/)
-  * [PC に OpenIV for GTA V をインストールして使用する方法](https://openiv.org/openiv-for-gta-v/)
-  * [https://openiv.org/how-to-use-openiv/](https://openiv.org/how-to-use-openiv/)

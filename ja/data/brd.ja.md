@@ -62,6 +62,4 @@ BRDファイルを開くために使用できるプログラムのリストは�
 - **Open Board Viewer** (無料) Linux 用
 
 ## 参考文献
-* [EAGLEプログラム](https://en.wikipedia.org/wiki/EAGLE_(プログラム))
-
-
+* [EAGLE program](https://en.wikipedia.org/wiki/EAGLE_(program))

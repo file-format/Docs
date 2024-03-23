@@ -23,5 +23,3 @@ DCX ファイルは、デジタル ファックス ファイルを生成する�
 ## 参考文献
 
 * [PCX - ウィキペディアによる](https://en.wikipedia.org/wiki/PCX)
-* [ZSoft PCX ファイル フォーマット テクニカル リファレンス マニュアル](http://qzx.com/pc-gpe/pcx.txt)
-

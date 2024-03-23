@@ -43,5 +43,4 @@ Linux は、アドバイザリ ロックと強制ロックの 2 種類のファ�
 ## 参考文献
 
 * [Ruby の GemFile と Gemfile.lock](https://medium.com/never-hop-on-the-bandwagon/gemfile-and-gemfile-lock-in-ruby-65adc918b856)
-* [Linux でのロック](https://www.baeldung.com/linux/file-locking#:~:text=File%20locking%20is%20a%20mechanism,very%20dangerous%20command%20in%20Linux.)
-
+* [Linux でのロック](https://www.baeldung.com/linux/file-locking)

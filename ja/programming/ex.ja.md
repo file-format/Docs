@@ -37,6 +37,4 @@ EX ファイルはプレーン テキスト ファイルとして保存され、
 
 ## 参照 ＃＃
 
-* [ラピッド ユーフォリア](https://www.rapideuphoria.com/)
 * [OpenEuphoria フォーラム](https://openeuphoria.org/forum/index.wc)
-

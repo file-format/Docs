@@ -43,5 +43,3 @@ DDS_HEADER          header;
 ## 参考文献
 
 * [DDS - ウィキペディアによる](https://en.wikipedia.org/wiki/DirectDraw_Surface)
-* [ZSoft PCX ファイル フォーマット テクニカル リファレンス マニュアル](http://qzx.com/pc-gpe/pcx.txt)
-

@@ -172,5 +172,4 @@ CFG ファイルを開いたり参照したりするプログラム
 - [CFG - Cal3D モデル設定ファイル](/ja/misc/cfg-cal3d/)
 
 ## 参考文献
-※[Mugen (ゲームエンジン)](https://ja.wikipedia.org/wiki/Mugen_(game_engine))
-
+* [Mugen (game engine)](https://en.wikipedia.org/wiki/Mugen_(game_engine))
