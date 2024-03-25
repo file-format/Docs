@@ -19,7 +19,7 @@
 
 ## What is an OFX file?
 
-An OFX (Open Financial Exchange) file is a financial file format used for exchange of financial information between software programs and financial institutions. With the evolution of software solutions for in-house financial accounting book keeping, software programs have been developed that can connect to your bank and import or export financial data with the banks. This includes financial data such as transactions, account information, and bill payments. Software programs such as QuickBooks, Microsoft Money, Intuit, and Quicken save the imported data as OFX file.
+An OFX (Open Financial Exchange) file is a financial file format used for exchange of financial information between software programs and financial institutions. With the evolution of software solutions for in-house financial accounting and [bookkeeping](https://docs.familiarize.com/glossary/bookkeeping/), software programs have been developed that can connect to your bank and import or export financial data with the banks. This includes financial data such as transactions, account information, and bill payments. Software programs such as QuickBooks, Microsoft Money, Intuit, and Quicken save the imported data as OFX file.
 
 The Internet media type	for OFX file format is application/x-ofx.
 
