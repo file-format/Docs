@@ -40,9 +40,9 @@
 
 * Microsoft Word [DOC](/ru/word-processing/doc/) и [DOCX](/ru/word-processing/docx/)
 * [PDF](/ru/pdf/)
-* [EPUB](/ru/электронная книга/epub/)
-* [RTF](/ru/обработка текста/rtf/)
-* [TXT](/ru/обработка текста/txt/)
+* [EPUB](/ru/ebook/epub/)
+* [RTF](/ru/word-processing/rtf/)
+* [TXT](/ru/word-processing/txt/)
 
 ## использованная литература
 

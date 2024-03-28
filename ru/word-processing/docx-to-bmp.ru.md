@@ -28,7 +28,7 @@ Aspose.App — набор мощных приложений для работы 
 
 Вы можете преобразовать формат файла DOCX в DOC, используя [приложение Aspose.Words DOCX to DOC](https://products.aspose.app/words/conversion/docx-to-bmp), как показано ниже.
 
-1. Перейдите в приложение Aspose.Words для [конвертера DOCX в BMP] (https://products.aspose.app/words/conversion/docx-to-bmp)
+1. Перейдите в приложение Aspose.Words для [конвертера DOCX в BMP](https://products.aspose.app/words/conversion/docx-to-bmp)
 1. Загрузите файл DOCX, нажав кнопку загрузки.
 1. После этого нажмите кнопку «Конвертировать». Это запустит процесс преобразования файла DOCX в BMP в фоновом режиме.
 1. Вам будет предложено загрузить преобразованный файл RTF после завершения процесса преобразования DOCX в BMP.
@@ -37,7 +37,7 @@ Aspose.App — набор мощных приложений для работы 
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-[Aspose.Words](https://products.aspose.com/words/) — это набор API, который позволяет любому разработчику конвертировать [DOCX](/ru/word-processing/docx/) в [DOC](/ru/word-processing /doc/) с использованием простых строк кода. Он доступен для многих языков программирования, включая [C#](/ru/programming/cs/), [Java](/ru/programming/java/), [Python](/ru/programming/py/) и [C++](/ru/programming/cpp/ ). Помимо DOC, API-интерфейсы Aspose.Words позволяют конвертировать файлы DOCX во многие другие популярные форматы файлов.
+[Aspose.Words](https://products.aspose.com/words/) — это набор API, который позволяет любому разработчику конвертировать [DOCX](/ru/word-processing/docx/) в [DOC](/ru/word-processing/doc/) с использованием простых строк кода. Он доступен для многих языков программирования, включая [C#](/ru/programming/cs/), [Java](/ru/programming/java/), [Python](/ru/programming/py/) и [C++](/ru/programming/cpp/). Помимо DOC, API-интерфейсы Aspose.Words позволяют конвертировать файлы DOCX во многие другие популярные форматы файлов.
 
 ## Рекомендации
 

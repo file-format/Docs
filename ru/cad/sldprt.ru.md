@@ -18,7 +18,7 @@
 
 ## Что такое файл SLDPRT?
 
-Файл SLDPRT — это файл САПР, созданный программным обеспечением SolidWorks. Это формат 3D-файла, который содержит 3D-информацию об объекте или «части». Несколько файлов SLDPRT с совместимыми деталями можно объединить для создания единого файла сборки SLDASM. Файлы SLDPRT можно открыть с помощью [SmartCAM CAD/CAM Software](https://www.solidworks.com/partner-product/smartcam-cadcam-software) от SolidWorks. Конвертеры приложений SolidWorks предоставляют простые инструменты для преобразования файлов чертежей SLDPRT в нейтральные форматы данных, такие как [TIFF](/ru/image/tiff/), [PDF](/ru/pdf/), ИЛИ [PDF/A](/ru/pdf/ а/).
+Файл SLDPRT — это файл САПР, созданный программным обеспечением SolidWorks. Это формат 3D-файла, который содержит 3D-информацию об объекте или «части». Несколько файлов SLDPRT с совместимыми деталями можно объединить для создания единого файла сборки SLDASM. Файлы SLDPRT можно открыть с помощью [SmartCAM CAD/CAM Software](https://www.solidworks.com/partner-product/smartcam-cadcam-software) от SolidWorks. Конвертеры приложений SolidWorks предоставляют простые инструменты для преобразования файлов чертежей SLDPRT в нейтральные форматы данных, такие как [TIFF](/ru/image/tiff/), [PDF](/ru/pdf/), ИЛИ [PDF/A](/ru/pdf/a/).
 
 ## Формат файла SLDPRT
 

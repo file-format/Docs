@@ -32,7 +32,7 @@ DOTX — это обновленная версия формата файлов 
 
 Вы можете преобразовать формат файла DOCX в DOC с помощью [приложения Aspose.Words DOCX to DOTX](https://products.aspose.app/words/conversion/docx-to-dotx) следующим образом.
 
-1. Перейдите в приложение Aspose.Words для [конвертера DOCX в DOTX] (https://products.aspose.app/words/conversion/docx-to-dotx)
+1. Перейдите в приложение Aspose.Words для [конвертера DOCX в DOTX](https://products.aspose.app/words/conversion/docx-to-dotx)
 1. Загрузите файл DOCX, нажав кнопку загрузки.
 1. После этого нажмите кнопку «Конвертировать». Это запустит процесс преобразования файла DOCX в DOTX в фоновом режиме.
 1. Вам будет предложено загрузить конвертированный файл DOTX после завершения процесса преобразования DOCX в DOTX.
@@ -41,7 +41,7 @@ DOTX — это обновленная версия формата файлов 
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-[Aspose.Words](https://products.aspose.com/words/) — это набор API, который позволяет любому разработчику конвертировать [DOCX](/ru/word-processing/docx/) в [DOTX](/ru/word-processing /dotx/) с использованием простых строк кода. Он доступен для многих языков программирования, включая [C#](/ru/programming/cs/), [Java](/ru/programming/java/), [Python](/ru/programming/py/) и [C++](/ru/programming/cpp/ ). Помимо DOTX, API-интерфейсы Aspose.Words позволяют конвертировать файлы DOCX во многие другие популярные форматы файлов.
+[Aspose.Words](https://products.aspose.com/words/) — это набор API, который позволяет любому разработчику конвертировать [DOCX](/ru/word-processing/docx/) в [DOTX](/ru/word-processing/dotx/) с использованием простых строк кода. Он доступен для многих языков программирования, включая [C#](/ru/programming/cs/), [Java](/ru/programming/java/), [Python](/ru/programming/py/) и [C++](/ru/programming/cpp/). Помимо DOTX, API-интерфейсы Aspose.Words позволяют конвертировать файлы DOCX во многие другие популярные форматы файлов.
 
 ## Рекомендации
 

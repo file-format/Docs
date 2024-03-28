@@ -30,14 +30,14 @@
 
 Вы можете преобразовать формат файла DOCX в DOC с помощью [приложения Aspose.Words DOCX to DOC](https://products.aspose.app/words/conversion/docx-to-doc), как показано ниже.
 
-1. Перейдите в приложение Aspose.Words для [конвертера DOCX в DOC] (https://products.aspose.app/words/conversion/docx-to-doc)
+1. Перейдите в приложение Aspose.Words для [конвертера DOCX в DOC](https://products.aspose.app/words/conversion/docx-to-doc)
 1. Загрузите файл DOCX, нажав кнопку загрузки.
 1. После этого нажмите кнопку «Преобразовать». Это запустит процесс преобразования файла DOCX в DOC в фоновом режиме.
 1. Вам будет предложено загрузить преобразованный файл RTF после завершения процесса преобразования DOCX в DOC.
 
 ## API-интерфейсы Aspose.Words
 
-[Aspose.Words](https://products.aspose.com/words/) — это набор API, который позволяет любому разработчику конвертировать [DOCX](/ru/word-processing/docx/) в [DOC](/ru/word-processing /doc/) с использованием простых строк кода. Он доступен для многих языков программирования, включая [C#](/ru/programming/cs/), [Java](/ru/programming/java/), [Python](/ru/programming/py/) и [C++](/ru/programming/cpp/ ). Помимо DOC, API-интерфейсы Aspose.Words позволяют конвертировать файлы DOCX во многие другие популярные форматы файлов.
+[Aspose.Words](https://products.aspose.com/words/) — это набор API, который позволяет любому разработчику конвертировать [DOCX](/ru/word-processing/docx/) в [DOC](/ru/word-processing/doc/) с использованием простых строк кода. Он доступен для многих языков программирования, включая [C#](/ru/programming/cs/), [Java](/ru/programming/java/), [Python](/ru/programming/py/) и [C++](/ru/programming/cpp/). Помимо DOC, API-интерфейсы Aspose.Words позволяют конвертировать файлы DOCX во многие другие популярные форматы файлов.
 
 ## Рекомендации
 

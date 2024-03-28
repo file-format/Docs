@@ -55,14 +55,14 @@ Shotcut предлагает ряд функций для редактирова
 
 
 
-- [MP4](/ru/видео/mp4/)
+- [MP4](/ru/video/mp4/)
 - [MOV](/ru/video/mov/)
 - [AVI](/ru/video/avi/)
-- [MKV](/ru/видео/mkv/)
+- [MKV](/ru/video/mkv/)
 - [WebM](/ru/video/webm/)
-- [MPEG](/ru/видео/mpeg/)
+- [MPEG](/ru/video/mpeg/)
 - [FLV](/ru/video/flv/)
-- [WMV](/ru/видео/wmv/)
+- [WMV](/ru/video/wmv/)
 - и более...
 2. **Аудиоформаты:**
     
@@ -74,8 +74,8 @@ Shotcut предлагает ряд функций для редактирова
 
 
 
-- [MP3](/ru/аудио/mp3/)
-- [WAV](/ru/аудио/wav/)
+- [MP3](/ru/audio/mp3/)
+- [WAV](/ru/audio/wav/)
 - [AAC](/ru/audio/aac/)
 - [FLAC](/ru/audio/flac/)
 - [OGG](/ru/audio/ogg/)
@@ -92,10 +92,10 @@ Shotcut предлагает ряд функций для редактирова
 
 
 - [JPEG (JPG)](/ru/image/jpeg/)
-- [PNG](/ru/изображение/png/)
-- [BMP](/ru/изображение/bmp/)
-- [TIFF](/ru/изображение/tiff/)
-- [GIF](/ru/изображение/gif/)
+- [PNG](/ru/image/png/)
+- [BMP](/ru/image/bmp/)
+- [TIFF](/ru/image/tiff/)
+- [GIF](/ru/image/gif/)
 - и более...
 4. **Дополнительные форматы:**
     
@@ -125,7 +125,7 @@ Shotcut предлагает ряд функций для редактирова
 - [WebM (кодек VP9)](/ru/video/webm/)
 - [AVI](/ru/video/avi/)
 - [MOV](/ru/video/mov/)
-- [MKV](/ru/видео/mkv/)
+- [MKV](/ru/video/mkv/)
 - и более...
 2. **Аудиоформаты:**
     
@@ -137,8 +137,8 @@ Shotcut предлагает ряд функций для редактирова
 
 
 
-- [MP3](/ru/аудио/mp3/)
-- [WAV](/ru/аудио/wav/)
+- [MP3](/ru/audio/mp3/)
+- [WAV](/ru/audio/wav/)
 - [AAC](/ru/audio/aac/)
 - [FLAC](/ru/audio/flac/)
 - [OGG](/ru/audio/ogg/)
@@ -155,10 +155,10 @@ Shotcut предлагает ряд функций для редактирова
 
 
 - [JPEG (JPG)](/ru/image/jpeg/)
-- [PNG](/ru/изображение/png/)
-- [BMP](/ru/изображение/bmp/)
-- [TIFF](/ru/изображение/tiff/)
-- [GIF](/ru/изображение/gif/)
+- [PNG](/ru/image/png/)
+- [BMP](/ru/image/bmp/)
+- [TIFF](/ru/image/tiff/)
+- [GIF](/ru/image/gif/)
 - и более...
 4. **Пользовательские настройки экспорта:**
     

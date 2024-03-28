@@ -32,7 +32,7 @@ DOCM — это формат файлов документов Microsoft Word 20
 
 Вы можете преобразовать формат файла DOCX в DOC с помощью [приложения Aspose.Words DOCX в DOCM](https://products.aspose.app/words/conversion/docx-to-docm) следующим образом.
 
-1. Перейдите в приложение Aspose.Words для [конвертера DOCX в DOCM] (https://products.aspose.app/words/conversion/docx-to-docm)
+1. Перейдите в приложение Aspose.Words для [конвертера DOCX в DOCM](https://products.aspose.app/words/conversion/docx-to-docm)
 1. Загрузите файл DOCX, нажав кнопку загрузки.
 1. После этого нажмите кнопку «Конвертировать». Это запустит процесс преобразования файла DOCX в DOC в фоновом режиме.
 1. Вам будет предложено загрузить преобразованный файл RTF после завершения процесса преобразования DOCX в DOC.
@@ -41,9 +41,9 @@ DOCM — это формат файлов документов Microsoft Word 20
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-[Aspose.Words](https://products.aspose.com/words/) — это набор API, который позволяет любому разработчику конвертировать [DOCX](/ru/word-processing/docx/) в [DOCM](/ru/word-processing /docm/) с использованием простых строк кода. Он доступен для многих языков программирования, включая:
+[Aspose.Words](https://products.aspose.com/words/) — это набор API, который позволяет любому разработчику конвертировать [DOCX](/ru/word-processing/docx/) в [DOCM](/ru/word-processing/docm/) с использованием простых строк кода. Он доступен для многих языков программирования, включая:
 
-* [C#](/ru/программирование/cs/)
+* [C#](/ru/programming/cs/)
 * [Java](/ru/programming/java/)
 * [Python](/ru/programming/py/)
 * [C++](/ru/programming/cpp/).

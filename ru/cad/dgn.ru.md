@@ -19,7 +19,7 @@
 
 ## .DGN вариант №
 
-Файл с расширением .dgn (Design) — это файл чертежа, созданный и поддерживаемый такими приложениями САПР, как MicroStation и Intergraph Interactive Graphics Design System. Он используется для создания и сохранения проектов строительных проектов, таких как автомагистрали, мосты и здания. Этот формат похож на формат файлов Autodesk [DWG](/ru/cad/dwg/) и считается его конкурентом. Файлы DNG можно сохранять в стандартном формате файлов Intergraph или V8 DGN. DGN можно преобразовать в несколько других форматов, таких как DWG, [BMP](/ru/image/bmp/), [JPEG](/ru/image/jpeg/), [PDF](/ru/pdf/), [GIF](/ru/image/ gif/) и другие. Его можно открыть с помощью Autodesk AutoCAD, Bentley View и Bentley Systems MicroStation в дополнение к другим программным приложениям, таким как версии Corel PaintShop Photo Pro и IMSI TurboCAD Deluxe.
+Файл с расширением .dgn (Design) — это файл чертежа, созданный и поддерживаемый такими приложениями САПР, как MicroStation и Intergraph Interactive Graphics Design System. Он используется для создания и сохранения проектов строительных проектов, таких как автомагистрали, мосты и здания. Этот формат похож на формат файлов Autodesk [DWG](/ru/cad/dwg/) и считается его конкурентом. Файлы DNG можно сохранять в стандартном формате файлов Intergraph или V8 DGN. DGN можно преобразовать в несколько других форматов, таких как DWG, [BMP](/ru/image/bmp/), [JPEG](/ru/image/jpeg/), [PDF](/ru/pdf/), [GIF](/ru/image/gif/) и другие. Его можно открыть с помощью Autodesk AutoCAD, Bentley View и Bentley Systems MicroStation в дополнение к другим программным приложениям, таким как версии Corel PaintShop Photo Pro и IMSI TurboCAD Deluxe.
 
 ## Формат файла V8 DGN
 
