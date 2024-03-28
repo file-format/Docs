@@ -55,14 +55,14 @@ Aqui está uma lista de alguns dos formatos de arquivo comuns suportados pelo Sh
 
 
 
-- [MP4](/pt/vídeo/mp4/)
-- [MOV](/pt/vídeo/mov/)
-- [AVI](/pt/vídeo/avi/)
-- [MKV](/pt/vídeo/mkv/)
-- [WebM](/pt/vídeo/webm/)
-- [MPEG](/pt/vídeo/mpeg/)
-- [FLV](/pt/vídeo/flv/)
-- [WMV](/pt/vídeo/wmv/)
+- [MP4](/pt/video/mp4/)
+- [MOV](/pt/video/mov/)
+- [AVI](/pt/video/avi/)
+- [MKV](/pt/video/mkv/)
+- [WebM](/pt/video/webm/)
+- [MPEG](/pt/video/mpeg/)
+- [FLV](/pt/video/flv/)
+- [WMV](/pt/video/wmv/)
 - e mais...
 2. **Formatos de áudio:**
     
@@ -74,12 +74,12 @@ Aqui está uma lista de alguns dos formatos de arquivo comuns suportados pelo Sh
 
 
 
-- [MP3](/pt/áudio/mp3/)
-- [WAV](/pt/áudio/wav/)
-- [AAC](/pt/áudio/aac/)
-- [FLAC](/pt/áudio/flac/)
-- [OGG](/pt/áudio/ogg/)
-- [M4A](/pt/áudio/m4a/)
+- [MP3](/pt/audio/mp3/)
+- [WAV](/pt/audio/wav/)
+- [AAC](/pt/audio/aac/)
+- [FLAC](/pt/audio/flac/)
+- [OGG](/pt/audio/ogg/)
+- [M4A](/pt/audio/m4a/)
 - e mais...
 3. **Formatos de imagem:**
     
@@ -92,10 +92,10 @@ Aqui está uma lista de alguns dos formatos de arquivo comuns suportados pelo Sh
 
 
 - [JPEG (JPG)](/pt/image/jpeg/)
-- [PNG](/pt/imagem/png/)
-- [BMP](/pt/imagem/bmp/)
-- [TIFF](/pt/imagem/tiff/)
-- [GIF](/pt/imagem/gif/)
+- [PNG](/pt/image/png/)
+- [BMP](/pt/image/bmp/)
+- [TIFF](/pt/image/tiff/)
+- [GIF](/pt/image/gif/)
 - e mais...
 4. **Formatos Adicionais:**
     
@@ -121,11 +121,11 @@ Aqui está uma lista de alguns dos formatos de arquivo comuns suportados pelo Sh
 
 
 
-- [MP4 (codec H.264)](/pt/vídeo/mp4/)
+- [MP4 (codec H.264)](/pt/video/mp4/)
 - [WebM (codec VP9)](/pt/video/webm/)
-- [AVI](/pt/vídeo/avi/)
-- [MOV](/pt/vídeo/mov/)
-- [MKV](/pt/vídeo/mkv/)
+- [AVI](/pt/video/avi/)
+- [MOV](/pt/video/mov/)
+- [MKV](/pt/video/mkv/)
 - e mais...
 2. **Formatos de áudio:**
     
@@ -137,12 +137,12 @@ Aqui está uma lista de alguns dos formatos de arquivo comuns suportados pelo Sh
 
 
 
-- [MP3](/pt/áudio/mp3/)
-- [WAV](/pt/áudio/wav/)
-- [AAC](/pt/áudio/aac/)
-- [FLAC](/pt/áudio/flac/)
-- [OGG](/pt/áudio/ogg/)
-- [M4A](/pt/áudio/m4a/)
+- [MP3](/pt/audio/mp3/)
+- [WAV](/pt/audio/wav/)
+- [AAC](/pt/audio/aac/)
+- [FLAC](/pt/audio/flac/)
+- [OGG](/pt/audio/ogg/)
+- [M4A](/pt/audio/m4a/)
 - e mais...
 3. **Formatos de imagem:**
     
@@ -155,10 +155,10 @@ Aqui está uma lista de alguns dos formatos de arquivo comuns suportados pelo Sh
 
 
 - [JPEG (JPG)](/pt/image/jpeg/)
-- [PNG](/pt/imagem/png/)
-- [BMP](/pt/imagem/bmp/)
-- [TIFF](/pt/imagem/tiff/)
-- [GIF](/pt/imagem/gif/)
+- [PNG](/pt/image/png/)
+- [BMP](/pt/image/bmp/)
+- [TIFF](/pt/image/tiff/)
+- [GIF](/pt/image/gif/)
 - e mais...
 4. **Configurações de exportação personalizadas:**
     

@@ -39,7 +39,7 @@ Microsoft Works foi um pacote de software de produtividade desenvolvido pela Mic
 
 - **Processador de texto:** o Microsoft Works tinha um aplicativo de processamento de texto que permitia aos usuários criar e editar documentos. Ele usou o formato de arquivo [.WPS](/pt/word-processing/wps/) para documentos de processamento de texto.
 
-- **Planilha:** Inclui aplicativo de planilha para criação e gerenciamento de planilhas. O formato de arquivo das planilhas era [.XLR](/pt/planilha/xlr/).
+- **Planilha:** Inclui aplicativo de planilha para criação e gerenciamento de planilhas. O formato de arquivo das planilhas era [.XLR](/pt/spreadsheet/xlr/).
 
 - **Banco de dados:** O Microsoft Works também tinha um aplicativo de banco de dados para organizar e gerenciar dados. O formato de arquivo para arquivos de banco de dados era [.WDB](/pt/database/wdb/).
 

@@ -20,7 +20,7 @@
 
 Você deve estar familiarizado com os arquivos de extensão **PPTX** e **PPT**, são formatos de arquivo de apresentação que armazenam uma coleção de registros para acomodar dados de apresentação, como: slides, formas, texto, animações, vídeo, áudio e objetos incorporados . Uma apresentação pode ser salva/convertida em outros formatos de arquivo, como PDF, BMP, PNG, JPEG e XPS.
 
-As extensões comuns de arquivo de apresentação e seus formatos de arquivo associados incluem **[PPTX](/pt/presentation/pptx/)**, **[PPT](/pt/presentation/ppt/)** e **[ODP](/pt/presentation/odp /)**.
+As extensões comuns de arquivo de apresentação e seus formatos de arquivo associados incluem **[PPTX](/pt/presentation/pptx/)**, **[PPT](/pt/presentation/ppt/)** e **[ODP](/pt/presentation/odp/)**.
 
 Tem consultas relacionadas a formatos de arquivo de apresentação? Acesse nossa comunidade [fóruns](https://forum.fileformat.com/c/presentation/8) para se beneficiar do conhecimento compartilhado por especialistas em formato de arquivo.
 

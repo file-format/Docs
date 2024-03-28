@@ -62,7 +62,7 @@ Celestia utiliza vários formatos de arquivo para diferentes aspectos de sua sim
 - *Objetivo*: Mapear texturas em modelos 3D para obter uma aparência realista.
 
 4. **Catálogos Star e arquivos de dados**
-- *Formatos*: formatos personalizados, [.csv](/pt/planilha/csv/), [.tsv](/pt/planilha/tsv/)
+- *Formatos*: formatos personalizados, [.csv](/pt/spreadsheet/csv/), [.tsv](/pt/spreadsheet/tsv/)
 - *Descrição*: Arquivos de dados usados para representar estrelas e outros objetos celestes, garantindo uma simulação precisa.
 - *Objetivo*: Representação precisa de objetos celestes.
 

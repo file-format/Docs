@@ -77,7 +77,7 @@ Um arquivo EPS não pode usar nenhum dos seguintes operadores:
 
 ## Conversão de EPS para outros formatos de arquivo
 
-Os arquivos EPS podem ser convertidos em formatos de imagem padrão, como [JPG](/pt/image/jpeg/), [PNG](/pt/image/png/), [TIFF](/pt/image/tiff/) e [PDF](/pt/pdf /) usando diferentes aplicativos, por exemplo, Adobe Illustrator, Photoshop e PaintShop Pro.
+Os arquivos EPS podem ser convertidos em formatos de imagem padrão, como [JPG](/pt/image/jpeg/), [PNG](/pt/image/png/), [TIFF](/pt/image/tiff/) e [PDF](/pt/pdf/) usando diferentes aplicativos, por exemplo, Adobe Illustrator, Photoshop e PaintShop Pro.
 
 Devido a uma [vulnerabilidade de segurança](https://support.microsoft.com/en-us/office/support-for-eps-images-has-been-turned-off-in-office-a069d664-4bcf-415e-a1b5-cbb0c334a840) em arquivos EPS, Office 2016, Office 2013, Office 2010 e Office 365 desativaram a capacidade de inserir arquivos EPS em documentos do Office.
 

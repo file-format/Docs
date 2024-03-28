@@ -23,7 +23,7 @@ Um arquivo com extensão .abs é um banco de dados gerado e usado pelo banco de 
 
 ## Formato de arquivo ABS – Mais informações
 
-Os arquivos ABS são armazenados como parte do [arquivo EXE](/pt/executável/exe/) que geralmente é armazenado como um arquivo binário. Os arquivos binários não podem ser abertos em nenhum editor de texto e fornecem acesso rápido ao conteúdo do arquivo de banco de dados.
+Os arquivos ABS são armazenados como parte do [arquivo EXE](/pt/executable/exe/) que geralmente é armazenado como um arquivo binário. Os arquivos binários não podem ser abertos em nenhum editor de texto e fornecem acesso rápido ao conteúdo do arquivo de banco de dados.
 
 ### Principais recursos do formato de arquivo ABS
 

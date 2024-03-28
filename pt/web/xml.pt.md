@@ -19,7 +19,7 @@
 
 ## O que é um arquivo XML?
 
-XML significa Extensible Markup Language que é semelhante a **[HTML](/pt/web/html/)**, mas diferente no uso de tags para definir objetos. A ideia por trás da criação do formato de arquivo XML era armazenar e transportar dados sem depender de ferramentas de software ou hardware. Sua popularidade se deve ao fato de ser tanto humano quanto legível por máquina. Isso permite criar protocolos de dados comuns na forma de objetos a serem armazenados e compartilhados em uma rede, como a World Wide Web (WWW). O "X" em XML é extensível, o que implica que a linguagem pode ser estendida a qualquer número de símbolos conforme os requisitos do usuário. É para esses recursos que muitos formatos de arquivo padrão fazem uso dele, como Microsoft Open XML, LibreOffice OpenDocument, **[XHTML](/pt/web/xhtml/)** e **[SVG](/pt/page-description-language /svg/)**.
+XML significa Extensible Markup Language que é semelhante a **[HTML](/pt/web/html/)**, mas diferente no uso de tags para definir objetos. A ideia por trás da criação do formato de arquivo XML era armazenar e transportar dados sem depender de ferramentas de software ou hardware. Sua popularidade se deve ao fato de ser tanto humano quanto legível por máquina. Isso permite criar protocolos de dados comuns na forma de objetos a serem armazenados e compartilhados em uma rede, como a World Wide Web (WWW). O "X" em XML é extensível, o que implica que a linguagem pode ser estendida a qualquer número de símbolos conforme os requisitos do usuário. É para esses recursos que muitos formatos de arquivo padrão fazem uso dele, como Microsoft Open XML, LibreOffice OpenDocument, **[XHTML](/pt/web/xhtml/)** e **[SVG](/pt/page-description-language/svg/)**.
 
 ## Formato de arquivo XML
 

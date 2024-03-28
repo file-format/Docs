@@ -30,7 +30,7 @@ O aplicativo Aspose.Words permite converter arquivos DOCX em vários formatos de
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-O conjunto de APIs Aspose.Words permite que qualquer desenvolvedor converta o formato [DOCX](/pt/word-processing/docx/) para [PS](/pt/page-description-linguagem/ps/) com apenas algumas linhas de código. Está disponível para muitas linguagens de programação, incluindo [C#](/pt/programming/cs/), [Java](/pt/programming/java/), [Python](/pt/programming/py/) e [C++](/pt/programming/cpp/ ). Além do PCL, as APIs Aspose.Words permitem converter arquivos DOCX em muitos outros formatos de arquivo populares.
+O conjunto de APIs Aspose.Words permite que qualquer desenvolvedor converta o formato [DOCX](/pt/word-processing/docx/) para [PS](/pt/page-description-language/ps/) com apenas algumas linhas de código. Está disponível para muitas linguagens de programação, incluindo [C#](/pt/programming/cs/), [Java](/pt/programming/java/), [Python](/pt/programming/py/) e [C++](/pt/programming/cpp/ ). Além do PCL, as APIs Aspose.Words permitem converter arquivos DOCX em muitos outros formatos de arquivo populares.
 
 ## Aspose.Words para recursos .NET
 

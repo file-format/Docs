@@ -93,7 +93,7 @@ Aqui estão outros tipos de arquivo que usam a extensão de arquivo **.bin**.
 
 - [BIN - Arquivo codificado MacBinary](/pt/compression/bin/)
 - [BIN - Arquivo de imagem de disco binário](/pt/disc-and-media/bin/)
-- [BIN - Arquivo Executável Unix](/pt/executável/bin/)
+- [BIN - Arquivo Executável Unix](/pt/executable/bin/)
 - [BIN - Arquivo de política de TI do BlackBerry](/pt/settings/bin/)
 - [BIN - ROM do jogo Sega Genesis](/pt/game/bin/)
 
