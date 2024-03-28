@@ -34,7 +34,7 @@ Crystal Reports tillåter rapportutvecklare att leverera rapporter på sina aff�
 Utforma rapporter som uttalanden, fakturor, försäljnings- och driftsrapporter, brev, fraktdokument, marknadsföringsmaterial, efterlevnadsdokument, resultatindikatorer och många fler.
 
 ### Kompatibilitet
-Utdata kan exporteras till format som [XLS](/sv/spreadsheet/xlsx/), [CSV](/sv/spreadsheet/csv/), [PDF](/sv/pdf/), [DOCX](/sv/word-processing/docx /), text eller tryck med pixel-perfekt design.
+Utdata kan exporteras till format som [XLS](/sv/spreadsheet/xlsx/), [CSV](/sv/spreadsheet/csv/), [PDF](/sv/pdf/), [DOCX](/sv/word-processing/docx/), text eller tryck med pixel-perfekt design.
 
 
 

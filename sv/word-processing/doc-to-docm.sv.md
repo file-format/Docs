@@ -20,7 +20,7 @@
 
 DOCM är den makroaktiverade versionen av Microsoft Word-dokument som kan köra makron. Skillnaden mellan ett vanligt Word-dokument och ett makroaktiverat dokument är att DOCM tillhandahåller den extra funktionen för att stödja makron.
 
-DOC-filer kan konverteras till DOCM med hjälp av gratis onlineverktyg och appar. **[Aspose.Words App](https://products.aspose.app/words/family)** är en uppsättning onlineappar som låter dig utföra olika operationer på Word-dokument direkt från din webbläsare. Förutom funktionerna i [dokumentvisning](/sv/ordbehandling/docx-viewer/), delning, sammanslagning, jämförelse, rotation och andra, låter den dig konvertera Word-dokument från ett format till andra. Du kan konvertera [DOC](/sv/word-processing/doc/) till [DOCM](/sv/word-processing/docm/) med Aspose.Words-appen.
+DOC-filer kan konverteras till DOCM med hjälp av gratis onlineverktyg och appar. **[Aspose.Words App](https://products.aspose.app/words/family)** är en uppsättning onlineappar som låter dig utföra olika operationer på Word-dokument direkt från din webbläsare. Förutom funktionerna i [dokumentvisning](/sv/word-processing/docx-viewer/), delning, sammanslagning, jämförelse, rotation och andra, låter den dig konvertera Word-dokument från ett format till andra. Du kan konvertera [DOC](/sv/word-processing/doc/) till [DOCM](/sv/word-processing/docm/) med Aspose.Words-appen.
 
 ## Konvertera DOC till DOCM - Gratis demo
 
@@ -39,11 +39,11 @@ Du kan konvertera DOC till DOCM-filformat med [Aspose.Words DOC to DOCM-appen](h
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-Aspose.Words-sviten med API:er låter alla utvecklare konvertera [DOC](/sv/ord-behandling/doc/) till [DOCM](/sv/ord-processing/docm/)-format med bara några rader kod. Den är tillgänglig för många programmeringsspråk inklusive C#, Java, Python och C++. Förutom DOCM låter Aspose.Words API:er dig konvertera DOC-filer till många andra populära filformat.
+Aspose.Words-sviten med API:er låter alla utvecklare konvertera [DOC](/sv/word-processing/doc/) till [DOCM](/sv/word-processing/docm/)-format med bara några rader kod. Den är tillgänglig för många programmeringsspråk inklusive C#, Java, Python och C++. Förutom DOCM låter Aspose.Words API:er dig konvertera DOC-filer till många andra populära filformat.
 
 ## DOC Viewer
 
-Om du inte har Microsoft Word eller annan kompatibel programvara installerad på din PC för att öppna och visa DOC-filer, kan du använda den gratis tillgängliga appen [Aspose.Words Viewer](/sv/ord-behandling/docx-viewer/) för att öppna och visa DOC-filer online.
+Om du inte har Microsoft Word eller annan kompatibel programvara installerad på din PC för att öppna och visa DOC-filer, kan du använda den gratis tillgängliga appen [Aspose.Words Viewer](/sv/word-processing/docx-viewer/) för att öppna och visa DOC-filer online.
 
 ## Aspose.Words Resurser
 

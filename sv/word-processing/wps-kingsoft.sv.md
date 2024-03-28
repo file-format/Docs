@@ -71,10 +71,10 @@ För att öppna och redigera WPS-filer med Kingsoft Writer inom Kingsoft WPS Off
 
 Kingsoft Writer kan konvertera WPS-filer till följande format:
 
-- [DOC](/sv/ordbehandling/doc/)
-- [DOCX](/sv/ordbehandling/docx/)
-- [RTF](/sv/ordbehandling/rtf/)
-- [TXT](/sv/ordbehandling/txt/)
+- [DOC](/sv/word-processing/doc/)
+- [DOCX](/sv/word-processing/docx/)
+- [RTF](/sv/word-processing/rtf/)
+- [TXT](/sv/word-processing/txt/)
 - [HTML](/sv/web/html/)
 - [PDF](/sv/pdf/)
 
@@ -82,7 +82,7 @@ Kingsoft Writer kan konvertera WPS-filer till följande format:
 
 Här är andra filtyper som använder filtillägget **.wps**.
 
-- [WPS - Microsoft Works Word Processor Document](/sv/ordbehandling/wps/)
+- [WPS - Microsoft Works Word Processor Document](/sv/word-processing/wps/)
 - [WPS - SDL Translator's Workbench Project File](/sv/settings/wps/)
 
 ## Referenser

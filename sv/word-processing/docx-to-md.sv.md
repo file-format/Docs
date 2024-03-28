@@ -18,7 +18,7 @@
 
 ## Om DOCX till MD
 
-DOCX till MD är ett vanligt krav för att generera Markdown-innehåll som används för att formatera och utforma textdokument. Bara om du inte känner till formatet [MD-fil](/sv/ordbehandling/md/), är det en vanlig textfil som använder enkel syntax för att representera formatering i ett dokument, såsom rubriker, stil, listor, punkter, länkar och bilder. Microsoft Word ger inte möjligheten att konvertera DOCX till MD, men det finns verktyg tillgängliga online som kan konvertera dina DOCX-filer till MD GRATIS.
+DOCX till MD är ett vanligt krav för att generera Markdown-innehåll som används för att formatera och utforma textdokument. Bara om du inte känner till formatet [MD-fil](/sv/word-processing/md/), är det en vanlig textfil som använder enkel syntax för att representera formatering i ett dokument, såsom rubriker, stil, listor, punkter, länkar och bilder. Microsoft Word ger inte möjligheten att konvertera DOCX till MD, men det finns verktyg tillgängliga online som kan konvertera dina DOCX-filer till MD GRATIS.
 
 ## Konvertera DOCX till MD - Gratis demo
 
@@ -78,7 +78,7 @@ Aspose.Words för C++ är ett lokalt API som kan användas av C++-applikationsut
 
 ### Konvertera DOCX till MD med Aspose.Words för Python via .NET
 
-Aspose.Words för Python via .NET är ett mjukvarupaket avsett för att läsa och manipulera olika dokumenttyper, med särskild tonvikt på Microsoft Word (DOC, DOCX, [ODT](/sv/ordbehandling/odt/)), PDF och Webbdokument (HTML, Markdown). Paketet innehåller över 100 Python-klasser som vänder sig till lågnivåoperationer relaterade till dokumentbehandling och dataformatering. På så sätt erbjuder Aspose.Words en distinkt chans för Python-utvecklare att utföra skriptbaserad dokumentautomatisering.
+Aspose.Words för Python via .NET är ett mjukvarupaket avsett för att läsa och manipulera olika dokumenttyper, med särskild tonvikt på Microsoft Word (DOC, DOCX, [ODT](/sv/word-processing/odt/)), PDF och Webbdokument (HTML, Markdown). Paketet innehåller över 100 Python-klasser som vänder sig till lågnivåoperationer relaterade till dokumentbehandling och dataformatering. På så sätt erbjuder Aspose.Words en distinkt chans för Python-utvecklare att utföra skriptbaserad dokumentautomatisering.
 
 **Aspose.Words för Python via .NET Resources**
 

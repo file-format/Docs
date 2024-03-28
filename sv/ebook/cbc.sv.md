@@ -19,7 +19,7 @@
 
 ## Vad är en CBC fil?
 
-En fil med filtillägget .cbc är en komprimerad samling av serietidningsfiler för e-böcker och innehåller filerna [CBZ](/sv/ebook/cbz/) och [CBR](/sv/ebook/cbr/). Den används av [Calibre](https://calibre-ebook.com/), en eBook-konverteringsapplikation, som är en plattformsoberoende öppen källkodshantering för e-böcker och låter dig hantera dina e-böcker och konvertera dessa till olika format . En CBC-fil innehåller en .txt-fil, comics.txt, som listar andra filer som är en del av arkivet. Det finns flera applikationer online som kan konvertera CBC-filer till [AZW3](/sv/ebook/azw3/), [EPUB](/sv/ebook/epub/), [FB2](/sv/ebook/fb2/), [MOBI](/sv/ebook/ mobi/), [TXT](/sv/word-processing/txt/), [PDF](/sv/pdf/) och andra populära filformat.
+En fil med filtillägget .cbc är en komprimerad samling av serietidningsfiler för e-böcker och innehåller filerna [CBZ](/sv/ebook/cbz/) och [CBR](/sv/ebook/cbr/). Den används av [Calibre](https://calibre-ebook.com/), en eBook-konverteringsapplikation, som är en plattformsoberoende öppen källkodshantering för e-böcker och låter dig hantera dina e-böcker och konvertera dessa till olika format . En CBC-fil innehåller en .txt-fil, comics.txt, som listar andra filer som är en del av arkivet. Det finns flera applikationer online som kan konvertera CBC-filer till [AZW3](/sv/ebook/azw3/), [EPUB](/sv/ebook/epub/), [FB2](/sv/ebook/fb2/), [MOBI](/sv/ebook/mobi/), [TXT](/sv/word-processing/txt/), [PDF](/sv/pdf/) och andra populära filformat.
 
 ## CBC filformat
 

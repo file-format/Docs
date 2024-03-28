@@ -92,10 +92,10 @@ Här är en lista över några av de vanliga filformaten som stöds av Shotcut:
 
 
 - [JPEG (JPG)](/sv/image/jpeg/)
-- [PNG](/sv/bild/png/)
-- [BMP](/sv/bild/bmp/)
-- [TIFF](/sv/bild/tiff/)
-- [GIF](/sv/bild/gif/)
+- [PNG](/sv/image/png/)
+- [BMP](/sv/image/bmp/)
+- [TIFF](/sv/image/tiff/)
+- [GIF](/sv/image/gif/)
 - och mer...
 4. **Ytterligare format:**
     
@@ -155,10 +155,10 @@ Här är en lista över några av de vanliga filformaten som stöds av Shotcut:
 
 
 - [JPEG (JPG)](/sv/image/jpeg/)
-- [PNG](/sv/bild/png/)
-- [BMP](/sv/bild/bmp/)
-- [TIFF](/sv/bild/tiff/)
-- [GIF](/sv/bild/gif/)
+- [PNG](/sv/image/png/)
+- [BMP](/sv/image/bmp/)
+- [TIFF](/sv/image/tiff/)
+- [GIF](/sv/image/gif/)
 - och mer...
 4. **Anpassade exportinställningar:**
     

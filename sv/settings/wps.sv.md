@@ -71,8 +71,8 @@ Program som öppnar WPS-filer inkluderar
 
 Här är andra filtyper som använder filtillägget **.wps**.
 
-- [WPS - Microsoft Works Word Processor Document](/sv/ordbehandling/wps/)
-- [WPS - Kingsoft Writer Document](/sv/ordbehandling/wps-kingsoft/)
+- [WPS - Microsoft Works Word Processor Document](/sv/word-processing/wps/)
+- [WPS - Kingsoft Writer Document](/sv/word-processing/wps-kingsoft/)
 
 ## Referenser
 * [Trados Studio](https://en.wikipedia.org/wiki/Trados_Studio)

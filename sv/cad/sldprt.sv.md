@@ -18,7 +18,7 @@
 
 ## Vad är SLDPRT fil?
 
-En SLDPRT-fil är en CAD-fil som genereras av SolidWorks programvara. Det är ett 3D-filformat som innehåller 3D-informationen för ett objekt eller "del". Flera SLDPRT-filer med kompatibla delar kan kombineras för att skapa en enda SLDASM-sammansättningsfil. SLDPRT-filer kan öppnas med [SmartCAM CAD/CAM Software](https://www.solidworks.com/partner-product/smartcam-cadcam-software) av SolidWorks. SolidWorks applikationsomvandlare tillhandahåller lätta att konvertera verktyg för konvertering av SLDPRT-ritningsfiler till neutrala dataformat som [TIFF](/sv/image/tiff/), [PDF](/sv/pdf/), ELLER [PDF/A](/sv/pdf/ a/).
+En SLDPRT-fil är en CAD-fil som genereras av SolidWorks programvara. Det är ett 3D-filformat som innehåller 3D-informationen för ett objekt eller "del". Flera SLDPRT-filer med kompatibla delar kan kombineras för att skapa en enda SLDASM-sammansättningsfil. SLDPRT-filer kan öppnas med [SmartCAM CAD/CAM Software](https://www.solidworks.com/partner-product/smartcam-cadcam-software) av SolidWorks. SolidWorks applikationsomvandlare tillhandahåller lätta att konvertera verktyg för konvertering av SLDPRT-ritningsfiler till neutrala dataformat som [TIFF](/sv/image/tiff/), [PDF](/sv/pdf/), ELLER [PDF/A](/sv/pdf/a/).
 
 ## SLDPRT-filformat
 

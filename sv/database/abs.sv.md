@@ -23,7 +23,7 @@ En fil med filtillägget .abs är en databas som genereras och används av Absol
 
 ## ABS-filformat - Mer information
 
-ABS-filer lagras som en del av programmets [EXE-fil](/sv/körbar/exe/) som vanligtvis lagras som en binär fil. Binära filer kan inte öppnas i någon textredigerare och ger snabb åtkomst till innehållet i databasfilen.
+ABS-filer lagras som en del av programmets [EXE-fil](/sv/executable/exe/) som vanligtvis lagras som en binär fil. Binära filer kan inte öppnas i någon textredigerare och ger snabb åtkomst till innehållet i databasfilen.
 
 ### Nyckelfunktioner i ABS-filformat
 

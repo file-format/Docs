@@ -18,7 +18,7 @@
 
 ## Om DOCX till EMF-konvertering
 
-Som datoranvändare är ditt förstahandsval för att arbeta med dokument att använda Microsoft Word. Det ger dig alla funktioner för att skapa ett snyggt och organiserat dokument med innehåll. Microsoft Word sparar dokument i det senaste DOCX-filformatet som introducerades med Microsoft 2007. Ibland kan man behöva konvertera DOCX-filer till EMF (Enhanced Metafile Format) som lagrar grafikbilder oberoende av enhetskontext. Onlineverktyg och appar låter dig konvertera [DOCX](/sv/ordbehandling/docx/) till [EMF](/sv/image/emf/). Aspose.Words App är en sådan onlineapp som låter dig konvertera DOCX till EMF gratis.
+Som datoranvändare är ditt förstahandsval för att arbeta med dokument att använda Microsoft Word. Det ger dig alla funktioner för att skapa ett snyggt och organiserat dokument med innehåll. Microsoft Word sparar dokument i det senaste DOCX-filformatet som introducerades med Microsoft 2007. Ibland kan man behöva konvertera DOCX-filer till EMF (Enhanced Metafile Format) som lagrar grafikbilder oberoende av enhetskontext. Onlineverktyg och appar låter dig konvertera [DOCX](/sv/word-processing/docx/) till [EMF](/sv/image/emf/). Aspose.Words App är en sådan onlineapp som låter dig konvertera DOCX till EMF gratis.
 
 ## DOCX till EMF-konvertering - GRATIS DEMO
 

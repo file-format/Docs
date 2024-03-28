@@ -37,7 +37,7 @@ En HDR-bildfil består av följande tre sektioner:
 ## Open-Source HDR/HDRI API:er
 
 * **[imageinfo](https://github.com/xiaozhuai/imageinfo)** - Supersnabbt bibliotek med enstaka rubriker över flera plattformar [C++](/sv/programming/cpp/) för att få bildstorlek och format utan att ladda/avkoda.
-* **[imgaeinfo-rs](https://github.com/xiaozhuai/imageinfo-rs)** - Rustbibliotek för att få bildstorlek och format utan att ladda/avkoda. Stöder [.avif](/sv/image/avif/), [.bmp](/sv/image/bmp/), [.cur](/sv/image/cur/), [.dds](/sv/image/dds/), [. gif](/sv/image/gif/), hdr (bild), [heic (heif)](/sv/image/heic/), [.icns](/sv/image/icns/), [.ico](/sv/image/ico /), [.jp2](/sv/image/jp2/), [jpeg (jpg)](/sv/image/jpeg/), [jpx](/sv/image/jpx/), ktx, [png](/sv/image/png /), [psd](/sv/image/psd/), qoi, tga, tiff (tif) och webp.
+* **[imgaeinfo-rs](https://github.com/xiaozhuai/imageinfo-rs)** - Rustbibliotek för att få bildstorlek och format utan att ladda/avkoda. Stöder [.avif](/sv/image/avif/), [.bmp](/sv/image/bmp/), [.cur](/sv/image/cur/), [.dds](/sv/image/dds/), [. gif](/sv/image/gif/), hdr (bild), [heic (heif)](/sv/image/heic/), [.icns](/sv/image/icns/), [.ico](/sv/image/ico/), [.jp2](/sv/image/jp2/), [jpeg (jpg)](/sv/image/jpeg/), [jpx](/sv/image/jpx/), ktx, [png](/sv/image/png/), [psd](/sv/image/psd/), qoi, tga, tiff (tif) och webp.
 * **[HdrHistogram](https://github.com/HdrHistogram/HdrHistogram)** - Java-implementering av HdrHistogram.
 
 ## Referenser

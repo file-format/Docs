@@ -18,7 +18,7 @@
 
 ## Om DOCX till ODT
 
-DOCX-filer kan konverteras till OpenDocument Text-filformat ODT-filer. ODT-filer genereras vanligtvis med gratis OpenOffice Writer och kan innehålla innehåll som text, bilder, objekt och stilar. Att konvertera från DOCX till ODT-format är en av de mest använda operationerna. Du kan behöva båda funktionerna som DOCX- och ODT-formaten tillhandahåller. Det finns flera onlineappar som används för att konvertera DOCX till ODT. Aspose.Words-appen är ett sådant verktyg som gör att du kan ladda [DOCX](/sv/ordbehandling/docx/)-filer och konvertera dessa till flera olika format inklusive [ODT](/sv/ordbehandling/odt/) .
+DOCX-filer kan konverteras till OpenDocument Text-filformat ODT-filer. ODT-filer genereras vanligtvis med gratis OpenOffice Writer och kan innehålla innehåll som text, bilder, objekt och stilar. Att konvertera från DOCX till ODT-format är en av de mest använda operationerna. Du kan behöva båda funktionerna som DOCX- och ODT-formaten tillhandahåller. Det finns flera onlineappar som används för att konvertera DOCX till ODT. Aspose.Words-appen är ett sådant verktyg som gör att du kan ladda [DOCX](/sv/word-processing/docx/)-filer och konvertera dessa till flera olika format inklusive [ODT](/sv/word-processing/odt/) .
 
 ## DOCX till ODT-konvertering - GRATIS DEMO
 

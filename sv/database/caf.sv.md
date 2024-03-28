@@ -41,7 +41,7 @@ Här är andra filtyper som använder filtillägget **.caf**.
 
 **Databas och programmering**
 - [CAF - Cathy Catalog File Format](/sv/database/caf/)
-- [CAF - CryENGINE Character Animation File](/sv/programmering/caf-cryengine/)
+- [CAF - CryENGINE Character Animation File](/sv/programming/caf-cryengine/)
 
 ## Referenser
 

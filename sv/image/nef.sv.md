@@ -24,7 +24,7 @@ NEF är Nikons RAW-bildfilformat, tagna med Nikons digitalkameror. Den lagrar r�
 
 NEF-filer skrivs till kamerans minneskort som binära filer i Nikons proprietära filformat. Dessa skrivs till kamerans minneskort i rå form som inte kräver några justeringar av bildens funktionsdata som vitbalans, nyans, ton och skärpa. Användarredigeringar sparas som instruktionsuppsättningar vid sidan av råbildsdata. Detta gynnar när det gäller att hålla det ursprungliga innehållet i bilddata intakt och återgå till tidigare instruktionsuppsättningar.
 
-NEF-filer kan behålla 12-bitars eller 14-bitars data beroende på kameran, vilket ger en bild med ett mycket större tonomfång jämfört med en 8-bitars [JPEG](/sv/image/jpeg/) eller [TIFF](/sv/ image/tiff/) bilder.
+NEF-filer kan behålla 12-bitars eller 14-bitars data beroende på kameran, vilket ger en bild med ett mycket större tonomfång jämfört med en 8-bitars [JPEG](/sv/image/jpeg/) eller [TIFF](/sv/image/tiff/) bilder.
 
 ## Programvara som kan öppna Nikon NEF-fil
 

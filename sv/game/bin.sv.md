@@ -52,7 +52,7 @@ Här är andra filtyper som använder filtillägget **.bin**.
 
 - [BIN - MacBinary-kodad fil](/sv/compression/bin/)
 - [BIN - Binary Disc Image File](/sv/disc-and-media/bin/)
-- [BIN - Unix körbar fil](/sv/körbar/bin/)
+- [BIN - Unix körbar fil](/sv/executable/bin/)
 - [BIN - BlackBerry IT Policy File](/sv/settings/bin/)
 - [BIN - PSX PlayStation BIOS-bild](/sv/game/bin-pcsx/)
 

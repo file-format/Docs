@@ -41,11 +41,11 @@ Du kan konvertera DOC till BMP-filformat med [Aspose.Words DOC till DOCX-appen](
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-Aspose.Words-sviten med API:er låter alla utvecklare konvertera [DOC](/sv/ordbehandling/doc/) till [DOCX](/sv/ordbehandling/docx/)-format med bara några rader kod. Den är tillgänglig för många programmeringsspråk inklusive C#, Java, Python och C++. Förutom DOCX låter Aspose.Words API:er dig konvertera DOC-filer till många andra populära filformat.
+Aspose.Words-sviten med API:er låter alla utvecklare konvertera [DOC](/sv/word-processing/doc/) till [DOCX](/sv/word-processing/docx/)-format med bara några rader kod. Den är tillgänglig för många programmeringsspråk inklusive C#, Java, Python och C++. Förutom DOCX låter Aspose.Words API:er dig konvertera DOC-filer till många andra populära filformat.
 
 ## DOC Viewer
 
-Om du inte har Microsoft Word eller annan kompatibel programvara installerad på din dator för att öppna och visa DOC-filer, kan du använda den gratis tillgängliga appen [Aspose.Words Viewer](/sv/ord-behandling/docx-viewer/) för att öppna och visa DOC-filer online.
+Om du inte har Microsoft Word eller annan kompatibel programvara installerad på din dator för att öppna och visa DOC-filer, kan du använda den gratis tillgängliga appen [Aspose.Words Viewer](/sv/word-processing/docx-viewer/) för att öppna och visa DOC-filer online.
 
 ## Aspose.Words Resurser
 

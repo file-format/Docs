@@ -19,7 +19,7 @@
 
 ## Vad är en CFM fil? ##
 
-Webbsidorna och filerna som används i **Cold Fusion Markup Language** innehåller tillägg av CFM och kallas CFM-webbsidor. Detta skriptspråk för webbutveckling körs på Google App Engine, .NET framework och JVM. Det kan innehålla ett programmeringsspråk eller kod för språket. När någon av dess sidor nås av användaren, kör ColdFusions webbserver den. CFScript (som är nära JavaScript) eller taggar kan användas för att skriva CFML. CFML kan användas för att generera andra språk förutom [HTML](/sv/web/html/) som [CSS](/sv/web/css/), [JavaScript](/sv/web/js/), [XML](/sv/web/ xml/), och mer.
+Webbsidorna och filerna som används i **Cold Fusion Markup Language** innehåller tillägg av CFM och kallas CFM-webbsidor. Detta skriptspråk för webbutveckling körs på Google App Engine, .NET framework och JVM. Det kan innehålla ett programmeringsspråk eller kod för språket. När någon av dess sidor nås av användaren, kör ColdFusions webbserver den. CFScript (som är nära JavaScript) eller taggar kan användas för att skriva CFML. CFML kan användas för att generera andra språk förutom [HTML](/sv/web/html/) som [CSS](/sv/web/css/), [JavaScript](/sv/web/js/), [XML](/sv/web/xml/), och mer.
 
 Användningen av detta språk och taggar som det stöder är främst vid utveckling av dynamiska webbapplikationer. Filerna kan köras direkt i webbläsaren online om något fel uppstår under offlineanvändning av plattformen för utveckling av applikationen.
  

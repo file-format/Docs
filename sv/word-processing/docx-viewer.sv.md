@@ -58,7 +58,7 @@ Du kan använda följande steg för att öppna din DOCX-fil online med Aspose.Wo
 
 ## Om Aspose.Words
 
-Aspose.Words svit med API:er låter alla utvecklare konvertera [DOCX](/sv/ordbehandling/docx/) till [PDF](/sv/pdf/)-format med bara några rader kod. Den är tillgänglig för många programmeringsspråk inklusive C#, Java, Python och C++. Förutom PDF låter Aspose.Words API:er dig konvertera DOCX-filer till många andra populära filformat. Som applikationsutvecklare hittar du följande resurser till hjälp för att utveckla applikationer som fungerar med WORD-dokument.
+Aspose.Words svit med API:er låter alla utvecklare konvertera [DOCX](/sv/word-processing/docx/) till [PDF](/sv/pdf/)-format med bara några rader kod. Den är tillgänglig för många programmeringsspråk inklusive C#, Java, Python och C++. Förutom PDF låter Aspose.Words API:er dig konvertera DOCX-filer till många andra populära filformat. Som applikationsutvecklare hittar du följande resurser till hjälp för att utveckla applikationer som fungerar med WORD-dokument.
 
 1. [Dokumentations- och kodexempel](https://docs.aspose.com/words/)
 1. [Nya utgåvor](https://releases.aspose.com/)

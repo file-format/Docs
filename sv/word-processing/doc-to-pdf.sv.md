@@ -39,7 +39,7 @@ DOC och PDF är populära dokumentfilformat för att skriva innehåll och dela. 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
 
-Aspose.Words-sviten med API:er låter alla utvecklare konvertera [DOC](/sv/ordbehandling/doc/) till [PDF](/sv/pdf/)-format med bara några rader kod. Den är tillgänglig för många programmeringsspråk inklusive C#, Java, Python och C++. Förutom PDF låter Aspose.Words API:er dig konvertera DOC-filer till många andra populära filformat.
+Aspose.Words-sviten med API:er låter alla utvecklare konvertera [DOC](/sv/word-processing/doc/) till [PDF](/sv/pdf/)-format med bara några rader kod. Den är tillgänglig för många programmeringsspråk inklusive C#, Java, Python och C++. Förutom PDF låter Aspose.Words API:er dig konvertera DOC-filer till många andra populära filformat.
 
 ## Aspose.Words Resurser
 
@@ -59,5 +59,5 @@ Med så mycket kraftfullt API för att arbeta med DOC-filer, erbjuder Aspose gra
 
 ## DOC Viewer
 
-Om du inte har Microsoft Word eller annan kompatibel programvara installerad på din dator för att öppna och visa DOC-filer, kan du använda den gratis tillgängliga appen [Aspose.Words Viewer](/sv/ord-behandling/docx-viewer/) för att öppna och visa DOC-filer online.
+Om du inte har Microsoft Word eller annan kompatibel programvara installerad på din dator för att öppna och visa DOC-filer, kan du använda den gratis tillgängliga appen [Aspose.Words Viewer](/sv/word-processing/docx-viewer/) för att öppna och visa DOC-filer online.
 

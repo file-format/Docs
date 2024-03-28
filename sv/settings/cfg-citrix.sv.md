@@ -188,7 +188,7 @@ Citrix-servrar och relaterade Citrix-teknologier stöder flera filformat för at
 
 
 
-- **.exe**: Installationspaket för Citrix Receiver eller Citrix Workspace finns ofta i körbart format för olika operativsystem (t.ex. [.exe](/sv/executable/exe/) för Windows, [.dmg](/sv/compression/dmg /) för macOS). Dessa paket tillåter användare att installera klientprogramvara på sina enheter.
+- **.exe**: Installationspaket för Citrix Receiver eller Citrix Workspace finns ofta i körbart format för olika operativsystem (t.ex. [.exe](/sv/executable/exe/) för Windows, [.dmg](/sv/compression/dmg/) för macOS). Dessa paket tillåter användare att installera klientprogramvara på sina enheter.
 3. **Citrix Workspace App (tidigare Citrix Receiver)**:
     
 
@@ -206,7 +206,7 @@ Citrix-servrar och relaterade Citrix-teknologier stöder flera filformat för at
 
 
 
-- **.app**: På macOS är Citrix Workspace-appen paketerad som macOS-applikationsfilen [.app](/sv/körbar/app/).
+- **.app**: På macOS är Citrix Workspace-appen paketerad som macOS-applikationsfilen [.app](/sv/executable/app/).
 4. **Webbläsarkompatibilitet**:
     
 
@@ -242,7 +242,7 @@ Citrix-servrar och relaterade Citrix-teknologier stöder flera filformat för at
 
 
 
-- **.vhd, .vhdx**: Citrix XenDesktop och XenApp kan leverera virtuella skrivbord och applikationer med virtuell hårddisk [VHD](/sv/disc-and-media/vhd/) eller [VHDX](/sv/disc-and-media /vhdx/) filer.
+- **.vhd, .vhdx**: Citrix XenDesktop och XenApp kan leverera virtuella skrivbord och applikationer med virtuell hårddisk [VHD](/sv/disc-and-media/vhd/) eller [VHDX](/sv/disc-and-media/vhdx/) filer.
 6. **Resource Publishing Metadata**:
     
 

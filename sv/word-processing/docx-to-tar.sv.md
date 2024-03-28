@@ -18,7 +18,7 @@
 
 ## Om DOCX till TAR
 
-När du arbetar med Microsoft Word kan dokumentstorleken bli enorm om innehållet är för långt och inkluderar objekt som bilder och andra media. DOCX till TAR är en process för att komprimera Word-dokumentet till ett arkiv som är litet i storlek. Detta hjälper till att dela den stora DOCX-filen med andra på internet såväl som via onlinelagringsmedia som Google Drive eller Dropbox. Det finns flera onlineverktyg och appar som kan konvertera DOCX till TAR. Aspose.Words for conversion är en sådan app som låter dig konvertera [DOCX](/sv/ordbehandling/docx/) till [TAR](/sv/compression/tar/).
+När du arbetar med Microsoft Word kan dokumentstorleken bli enorm om innehållet är för långt och inkluderar objekt som bilder och andra media. DOCX till TAR är en process för att komprimera Word-dokumentet till ett arkiv som är litet i storlek. Detta hjälper till att dela den stora DOCX-filen med andra på internet såväl som via onlinelagringsmedia som Google Drive eller Dropbox. Det finns flera onlineverktyg och appar som kan konvertera DOCX till TAR. Aspose.Words for conversion är en sådan app som låter dig konvertera [DOCX](/sv/word-processing/docx/) till [TAR](/sv/compression/tar/).
 
 ## DOCX till TAR-konvertering - GRATIS DEMO
 

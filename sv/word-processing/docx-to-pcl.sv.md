@@ -30,7 +30,7 @@ Aspose.Words-appen låter dig konvertera DOCX-filer till flera olika utdatafilfo
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-Aspose.Words svit med API:er låter alla utvecklare konvertera [DOCX](/sv/ordbehandling/docx/) till [PS](/sv/page-description-language/ps/) format med bara några rader kod. Den är tillgänglig för många programmeringsspråk inklusive [C#](/sv/programming/cs/), [Java](/sv/programming/java/), [Python](/sv/programming/py/) och [C++](/sv/programming/cpp/ ). Förutom PCL låter Aspose.Words API:er dig konvertera DOCX-filer till många andra populära filformat.
+Aspose.Words svit med API:er låter alla utvecklare konvertera [DOCX](/sv/word-processing/docx/) till [PS](/sv/page-description-language/ps/) format med bara några rader kod. Den är tillgänglig för många programmeringsspråk inklusive [C#](/sv/programming/cs/), [Java](/sv/programming/java/), [Python](/sv/programming/py/) och [C++](/sv/programming/cpp/ ). Förutom PCL låter Aspose.Words API:er dig konvertera DOCX-filer till många andra populära filformat.
 
 ## Aspose.Words för .NET-resurser
 

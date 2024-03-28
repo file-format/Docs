@@ -18,7 +18,7 @@
 
 ## Om DOC till JPG-konvertering
 
-Om du någonsin har arbetat med äldre versioner av Microsoft Word (dvs. versioner före Microsoft Word 2007), måste du vara bekant med DOC-filformatet. Det var standardfilformatet som användes av Microsoft Word innan introduktionen av DOCX-filformat med Microsoft Word 2007. DOC till JPG-version är ett mycket vanligt krav, speciellt när Microsoft inte låter dig exportera Word-dokument till JPG-bilder. Dessutom är de senaste versionerna av Microsoft Word inte fullt kompatibla med äldre DOC-filer. Du kan använda onlineappar som appen Aspose.Words för att konvertera [DOC](/sv/ord-processing/doc/) till [JPG](/sv/image/jpeg/) filformat.
+Om du någonsin har arbetat med äldre versioner av Microsoft Word (dvs. versioner före Microsoft Word 2007), måste du vara bekant med DOC-filformatet. Det var standardfilformatet som användes av Microsoft Word innan introduktionen av DOCX-filformat med Microsoft Word 2007. DOC till JPG-version är ett mycket vanligt krav, speciellt när Microsoft inte låter dig exportera Word-dokument till JPG-bilder. Dessutom är de senaste versionerna av Microsoft Word inte fullt kompatibla med äldre DOC-filer. Du kan använda onlineappar som appen Aspose.Words för att konvertera [DOC](/sv/word-processing/doc/) till [JPG](/sv/image/jpeg/) filformat.
 
 ## DOC till JPG-konvertering - gratis demo
 
@@ -39,7 +39,7 @@ Så, hur konverterar du DOC till JPG? Du kan konvertera DOC till JPG-filformat m
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-Aspose.Words-sviten med API:er låter alla utvecklare konvertera [DOC](/sv/ordbehandling/doc/) till [JPG](/sv/image/jpeg/)-format med bara några rader kod. Den är tillgänglig för många programmeringsspråk inklusive C#, Java, Python och C++. Förutom DOCX låter Aspose.Words API:er dig konvertera DOC-filer till många andra populära filformat.
+Aspose.Words-sviten med API:er låter alla utvecklare konvertera [DOC](/sv/word-processing/doc/) till [JPG](/sv/image/jpeg/)-format med bara några rader kod. Den är tillgänglig för många programmeringsspråk inklusive C#, Java, Python och C++. Förutom DOCX låter Aspose.Words API:er dig konvertera DOC-filer till många andra populära filformat.
 
 ## Aspose.Words Resurser
 

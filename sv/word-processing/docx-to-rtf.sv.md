@@ -18,7 +18,7 @@
 
 ## Om DOCX till RTF-konvertering
 
-Om du har varit en tidig åldersanvändare av Microsoft Windows måste du känna till filformatet RTF (Rich Text Format). Microsoft introducerade [RTF-filformat](/sv/ordbehandling/rtf/) med Windows 3.0. RTF-filer representerar en metod för att koda formaterad text och grafik för användning inom applikationer. En RTF-fil kan innehålla text och bilder förutom att behålla textformatering som fetstil, kursiv och understruken. Det som är mest intressant är att RTF har antagits som interoperabelt filformat och är plattformsoberoende. Av denna anledning är DOCX till RTF-konvertering ett populärt val när man delar dokument över olika operativsystem för redigeringsändamål.
+Om du har varit en tidig åldersanvändare av Microsoft Windows måste du känna till filformatet RTF (Rich Text Format). Microsoft introducerade [RTF-filformat](/sv/word-processing/rtf/) med Windows 3.0. RTF-filer representerar en metod för att koda formaterad text och grafik för användning inom applikationer. En RTF-fil kan innehålla text och bilder förutom att behålla textformatering som fetstil, kursiv och understruken. Det som är mest intressant är att RTF har antagits som interoperabelt filformat och är plattformsoberoende. Av denna anledning är DOCX till RTF-konvertering ett populärt val när man delar dokument över olika operativsystem för redigeringsändamål.
 
 ## DOCX till RTF-konvertering - gratis demo
 
@@ -37,5 +37,5 @@ Att konvertera DOCX till RTF med Aspose.Words online-app är enkelt och inkluder
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-Aspose.Words är en uppsättning API:er som låter alla utvecklare konvertera [DOCX](/sv/ord-behandling/docx/) till [RTF](/sv/ord-behandling/rtf/)-format med enkla kodrader. Den är tillgänglig för många programmeringsspråk inklusive [C#](/sv/programming/cs/), [Java](/sv/programming/java/), [Python](/sv/programming/py/) och [C++](/sv/programming/cpp/ ). Förutom TXT låter Aspose.Words API:er dig konvertera DOCX-filer till många andra populära filformat.
+Aspose.Words är en uppsättning API:er som låter alla utvecklare konvertera [DOCX](/sv/word-processing/docx/) till [RTF](/sv/word-processing/rtf/)-format med enkla kodrader. Den är tillgänglig för många programmeringsspråk inklusive [C#](/sv/programming/cs/), [Java](/sv/programming/java/), [Python](/sv/programming/py/) och [C++](/sv/programming/cpp/ ). Förutom TXT låter Aspose.Words API:er dig konvertera DOCX-filer till många andra populära filformat.
 

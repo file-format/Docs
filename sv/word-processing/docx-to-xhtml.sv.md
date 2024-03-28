@@ -20,7 +20,7 @@
 
 DOCX-filer kan konverteras till XHTML-filformat (Extensible Hypertext Markup Language). Den konverterade filen liknar HTML genom att den använder taggar för att beskriva strukturen och innehållet på en webbsida, men använder strängare regler för syntax och uppmärkning. Att konvertera DOCX till XHTML har flera fördelar som förbättrad kompatibilitet, webboptimering, separering av innehåll och stil, efterlevnad av standarder och tillgänglighet.
 
-Det finns flera onlineverktyg tillgängliga online som används för konvertering av [DOCX](/sv/ordbehandling/) till [XHTML](/sv/web/xhtml/). En sådan app är Aspose.Words-appen som låter dig ladda DOCX-filer och konvertera dem till flera olika filformat inklusive XHTML.
+Det finns flera onlineverktyg tillgängliga online som används för konvertering av [DOCX](/sv/word-processing/) till [XHTML](/sv/web/xhtml/). En sådan app är Aspose.Words-appen som låter dig ladda DOCX-filer och konvertera dem till flera olika filformat inklusive XHTML.
 
 ## DOCX till XHTML-konvertering - GRATIS DEMO
 

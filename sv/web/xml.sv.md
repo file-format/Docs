@@ -19,7 +19,7 @@
 
 ## Vad är en XML-fil?
 
-XML står för Extensible Markup Language som liknar **[HTML](/sv/web/html/)** men skiljer sig från att använda taggar för att definiera objekt. Hela idén bakom skapandet av XML-filformat var att lagra och transportera data utan att vara beroende av mjukvara eller hårdvaruverktyg. Dess popularitet beror på att den är både mänsklig och maskinläsbar. Detta gör det möjligt för den att skapa gemensamma dataprotokoll i form av objekt som ska lagras och delas över nätverk som World Wide Web (WWW). "X" i XML är för extensible vilket innebär att språket kan utökas till valfritt antal symboler enligt användarens krav. Det är för dessa funktioner som många standardfilformat använder det som Microsoft Open XML, LibreOffice OpenDocument, **[XHTML](/sv/web/xhtml/)** och **[SVG](/sv/page-description-language /svg/)**.
+XML står för Extensible Markup Language som liknar **[HTML](/sv/web/html/)** men skiljer sig från att använda taggar för att definiera objekt. Hela idén bakom skapandet av XML-filformat var att lagra och transportera data utan att vara beroende av mjukvara eller hårdvaruverktyg. Dess popularitet beror på att den är både mänsklig och maskinläsbar. Detta gör det möjligt för den att skapa gemensamma dataprotokoll i form av objekt som ska lagras och delas över nätverk som World Wide Web (WWW). "X" i XML är för extensible vilket innebär att språket kan utökas till valfritt antal symboler enligt användarens krav. Det är för dessa funktioner som många standardfilformat använder det som Microsoft Open XML, LibreOffice OpenDocument, **[XHTML](/sv/web/xhtml/)** och **[SVG](/sv/page-description-language/svg/)**.
 
 ## XML-filformat
 

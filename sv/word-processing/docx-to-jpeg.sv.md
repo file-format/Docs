@@ -18,7 +18,7 @@
 
 ## Om DOCX till bildkonvertering
 
-Nästan alla av oss är bekanta med att arbeta med word-dokument. Microsoft Office sparar dessa dokument i det populära filformatet [DOCX](/sv/ordbehandling/docx/), men det har inte något alternativ att spara DOCX i bildfilformat som [JPEG](/sv/image/jpeg/) eller [ PNG](/sv/bild/png/). Det kan uppstå situationer där en DOCX-fil behöver bäddas in i en presentation som en JPEG-bild eller så behöver du ladda upp ett dokument till en webbsida som endast accepterar bildfiler. Det är där vissa onlineverktyg kommer fram för att hjälpa dig konvertera dina DOCX-filer till JPEG online.
+Nästan alla av oss är bekanta med att arbeta med word-dokument. Microsoft Office sparar dessa dokument i det populära filformatet [DOCX](/sv/word-processing/docx/), men det har inte något alternativ att spara DOCX i bildfilformat som [JPEG](/sv/image/jpeg/) eller [ PNG](/sv/image/png/). Det kan uppstå situationer där en DOCX-fil behöver bäddas in i en presentation som en JPEG-bild eller så behöver du ladda upp ett dokument till en webbsida som endast accepterar bildfiler. Det är där vissa onlineverktyg kommer fram för att hjälpa dig konvertera dina DOCX-filer till JPEG online.
 
 
 ## DOCX till JPEG-konvertering - gratis demo

@@ -37,7 +37,7 @@ I följande avsnitt kommer vi att utforska mjukvaruapplikationer associerade med
 
 Microsoft Works var en produktivitetsprogramsvit utvecklad av Microsoft. Det introducerades först 1987 och blev populärt som ett mer prisvärt alternativ till hela Microsoft Office-paketet. Microsoft Works inkluderade flera grundläggande kontorsprogram, som:
 
-- **Ordbehandlare:** Microsoft Works hade ett ordbehandlingsprogram som gjorde det möjligt för användare att skapa och redigera dokument. Den använde filformatet [.WPS](/sv/ordbehandling/wps/) för ordbehandlingsdokument.
+- **Ordbehandlare:** Microsoft Works hade ett ordbehandlingsprogram som gjorde det möjligt för användare att skapa och redigera dokument. Den använde filformatet [.WPS](/sv/word-processing/wps/) för ordbehandlingsdokument.
 
 - **Kalkylblad:** Det inkluderade kalkylbladsprogram för att skapa och hantera kalkylblad. Filformatet för kalkylblad var [.XLR](/sv/spreadsheet/xlr/).
 

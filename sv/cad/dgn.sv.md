@@ -19,7 +19,7 @@
 
 ## Vad är en DGN fil?
 
-En fil med filtillägget .dgn (Design) är en ritningsfil som skapats av och stöds av CAD-applikationer som MicroStation och Intergraph Interactive Graphics Design System. Den används för att skapa och spara design för byggprojekt som motorvägar, broar och byggnader. Formatet liknar Autodesks [DWG](/sv/cad/dwg/) filformat och anses vara dess konkurrent. DNG-filer kan antingen sparas som Intergraph Standard File Format eller V8 DGN. DGN kan konverteras till flera andra format som DWG, [BMP](/sv/image/bmp/), [JPEG](/sv/image/jpeg/), [PDF](/sv/pdf/), [GIF](/sv/image/ gif/) och andra. Den kan öppnas med Autodesk AutoCAD, Bentley View och Bentley Systems MicroStation förutom andra programvaror som Corel PaintShop Photo Pro och IMSI TurboCAD Deluxe versioner.
+En fil med filtillägget .dgn (Design) är en ritningsfil som skapats av och stöds av CAD-applikationer som MicroStation och Intergraph Interactive Graphics Design System. Den används för att skapa och spara design för byggprojekt som motorvägar, broar och byggnader. Formatet liknar Autodesks [DWG](/sv/cad/dwg/) filformat och anses vara dess konkurrent. DNG-filer kan antingen sparas som Intergraph Standard File Format eller V8 DGN. DGN kan konverteras till flera andra format som DWG, [BMP](/sv/image/bmp/), [JPEG](/sv/image/jpeg/), [PDF](/sv/pdf/), [GIF](/sv/image/gif/) och andra. Den kan öppnas med Autodesk AutoCAD, Bentley View och Bentley Systems MicroStation förutom andra programvaror som Corel PaintShop Photo Pro och IMSI TurboCAD Deluxe versioner.
 
 ## V8 DGN-filformat
 

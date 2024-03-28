@@ -20,7 +20,7 @@
 
 En Unity-fil är en 3D-scenfil skapad med 3D-spelmotorn, **Unity**. Den används i kombination med andra scener för att skapa en virtuell värld under redigering. Den innehåller 3D-scenelement som objekt, miljöer, dekorationer, kameror, information om vinklar, ljusscenarier och hinder.
 
-Unity-filer kan öppnas med Unity Technologies Unity. Unity kan också läsa Unity [.fbx](/sv/3d/fbx/), [.dae](/sv/3d/dae/) (Collada), [.3ds](/sv/3d/3ds/), [.dxf](/sv/ cad/dxf/), och [.obj](/sv/3d/obj/) filer.
+Unity-filer kan öppnas med Unity Technologies Unity. Unity kan också läsa Unity [.fbx](/sv/3d/fbx/), [.dae](/sv/3d/dae/) (Collada), [.3ds](/sv/3d/3ds/), [.dxf](/sv/cad/dxf/), och [.obj](/sv/3d/obj/) filer.
 
 ## UNITY filformat
 

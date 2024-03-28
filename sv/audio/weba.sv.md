@@ -43,7 +43,7 @@ WEBA är en ljudfil, så den kan inte konverteras till en undertextfil. Det finn
 
 ## Hur konverterar man WEBA till andra ljudformat?
 
-WEBA-filer kan konverteras till andra ljudfilformat. Eftersom det är baserat på OGG-containerfilformatet med öppen källkod, många API:er och applikationer som kan läsa och konvertera WEBA till andra filformat som [MP3](/sv/audio/mp3/), [MP4](/sv/audio/ mp4/), [FLAC](/sv/audio/flac/) och många andra. FFmpeg är en sådan programvara som kan konvertera WEBA till en MP3-fil.
+WEBA-filer kan konverteras till andra ljudfilformat. Eftersom det är baserat på OGG-containerfilformatet med öppen källkod, många API:er och applikationer som kan läsa och konvertera WEBA till andra filformat som [MP3](/sv/audio/mp3/), [MP4](/sv/video/mp4/), [FLAC](/sv/audio/flac/) och många andra. FFmpeg är en sådan programvara som kan konvertera WEBA till en MP3-fil.
 
 ## Referenser
 

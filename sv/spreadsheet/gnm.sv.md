@@ -27,7 +27,7 @@ GNM-filer är komprimerade XML-filer som kan extraheras med vanliga dekomprimeri
 
 ## Funktioner som stöds i GNM-filer
 
-Eftersom Gnumeric stöder flera olika filformat kan den konvertera de inbyggda GNM-filerna till [CSV](/sv/spreadsheet/csv/), [XLSX](/sv/spreadsheet/xlsx/), Microsoft Works (.wks), [HTML](/sv/ web/html/), [LaTex](/sv/word-processing/latex/) och [Lotus 1-2-3](/sv/spreadsheet/123/).
+Eftersom Gnumeric stöder flera olika filformat kan den konvertera de inbyggda GNM-filerna till [CSV](/sv/spreadsheet/csv/), [XLSX](/sv/spreadsheet/xlsx/), Microsoft Works (.wks), [HTML](/sv/web/html/), [LaTex](/sv/word-processing/latex/) och [Lotus 1-2-3](/sv/spreadsheet/123/).
 
 ## Gnumeric på Github
 

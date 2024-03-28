@@ -36,7 +36,7 @@ Denaro utvecklades ursprungligen av [Nickvision](https://nickvision.org/) som en
 
 ## Denaro filformat - Mer information
 
-Denaro-filer sparas på skiva i binärt filformat. Finansiell data lagras som en databasfil i filformatet **.SQLITE3**. SQLITE är en lättviktig SQL-databasfil skapad med SQLite-mjukvaran. Den tillhandahåller en fristående databasmotor som kan tillhandahålla en komplett och mycket pålitlig databas. SQLite databasfiler kan användas för att dela rikt innehåll mellan system genom att helt enkelt utbyta dessa filer över nätverket. SQLite-bindningar finns för programmeringsspråk som C, [C#](/sv/programmering/cs/), [C++](/sv/programmering/cpp/), [Java](/sv/programmering/java/), [PHP](/sv/programmering/ php/) och många andra.
+Denaro-filer sparas på skiva i binärt filformat. Finansiell data lagras som en databasfil i filformatet **.SQLITE3**. SQLITE är en lättviktig SQL-databasfil skapad med SQLite-mjukvaran. Den tillhandahåller en fristående databasmotor som kan tillhandahålla en komplett och mycket pålitlig databas. SQLite databasfiler kan användas för att dela rikt innehåll mellan system genom att helt enkelt utbyta dessa filer över nätverket. SQLite-bindningar finns för programmeringsspråk som C, [C#](/sv/programming/cs/), [C++](/sv/programming/cpp/), [Java](/sv/programming/java/), [PHP](/sv/programming/php/) och många andra.
 
 ## Referenser
 

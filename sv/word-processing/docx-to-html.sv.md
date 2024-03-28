@@ -18,7 +18,7 @@
 
 ## Om DOCX till HTML
 
-DOCX till HTML är en av de mycket använda operationerna på Word-dokument för att publicera sidor som HTML-webbsidor. Dessa webbsidor kan lätt användas för att vara värd online på en webbserver för att vara tillgängliga via World Wide Web (WWW). Du kan konvertera [DOCX](/sv/ord-processing/docx/) till [HTML](/sv/web/html/) från Microsoft Word-programvaran genom att använda alternativet "Spara som". Men om du inte har Word installerat på din PC, finns det onlineverktyg tillgängliga som kan konvertera dina DOCX-filer till HTML GRATIS.
+DOCX till HTML är en av de mycket använda operationerna på Word-dokument för att publicera sidor som HTML-webbsidor. Dessa webbsidor kan lätt användas för att vara värd online på en webbserver för att vara tillgängliga via World Wide Web (WWW). Du kan konvertera [DOCX](/sv/word-processing/docx/) till [HTML](/sv/web/html/) från Microsoft Word-programvaran genom att använda alternativet "Spara som". Men om du inte har Word installerat på din PC, finns det onlineverktyg tillgängliga som kan konvertera dina DOCX-filer till HTML GRATIS.
 
 ## DOCX till HTML-konvertering - gratis demo
 

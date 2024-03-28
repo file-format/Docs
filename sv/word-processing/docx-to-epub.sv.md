@@ -18,7 +18,7 @@
 
 ## Om konvertering av DOCX till EPUB
 
-En EPUB-fil är ett e-boksfilformat som används för att publicera digitala standardpublikationer. Det är det vanliga och allmänt använda filformatet som stöds av många e-läsare och program. Om du är en författare som använder Microsoft Word för att skriva första utkast till en roman eller en bok, kommer du att kräva att dessa publiceras i ett av e-boksfilformaten och [EPUB](/sv/ebook/epub/) är ett av dessa . Färdiga romaner/böcker konverteras från [DOCX](/sv/ordbehandling/docx/) till EPUB och publiceras sedan online. Det finns flera appar och verktyg som kan konvertera DOCX till EPUB både online och offline. Aspose.Words-appen är ett sådant onlineverktyg som kan användas för att konvertera DOCX till EPUB.
+En EPUB-fil är ett e-boksfilformat som används för att publicera digitala standardpublikationer. Det är det vanliga och allmänt använda filformatet som stöds av många e-läsare och program. Om du är en författare som använder Microsoft Word för att skriva första utkast till en roman eller en bok, kommer du att kräva att dessa publiceras i ett av e-boksfilformaten och [EPUB](/sv/ebook/epub/) är ett av dessa . Färdiga romaner/böcker konverteras från [DOCX](/sv/word-processing/docx/) till EPUB och publiceras sedan online. Det finns flera appar och verktyg som kan konvertera DOCX till EPUB både online och offline. Aspose.Words-appen är ett sådant onlineverktyg som kan användas för att konvertera DOCX till EPUB.
 
 ## DOCX till EPUB-konvertering - GRATIS DEMO
 

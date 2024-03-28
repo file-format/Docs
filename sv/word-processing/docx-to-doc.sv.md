@@ -18,7 +18,7 @@
 
 ## Om DOCX till DOC-konvertering
 
-DOC-filtypen har varit ett populärt dokumentfilformat som använts av 2007 och tidigare versioner av Microsoft Word. Med lanseringen av Office 2007 introducerade Microsoft DOCX-filformatet baserat på Office Open XML-specifikationer. DOC-filer sparades som binära filer jämfört med DOCX som sparas i komprimerat XML-filformat. Det finns massor av verktyg tillgängliga online för att konvertera [DOCX](/sv/ord-processing/docx/) till [DOC](/sv/ord-processing/doc/)-filer.
+DOC-filtypen har varit ett populärt dokumentfilformat som använts av 2007 och tidigare versioner av Microsoft Word. Med lanseringen av Office 2007 introducerade Microsoft DOCX-filformatet baserat på Office Open XML-specifikationer. DOC-filer sparades som binära filer jämfört med DOCX som sparas i komprimerat XML-filformat. Det finns massor av verktyg tillgängliga online för att konvertera [DOCX](/sv/word-processing/docx/) till [DOC](/sv/word-processing/doc/)-filer.
 
 ## DOCX till DOC-konvertering - gratis demo
 
@@ -37,7 +37,7 @@ Du kan konvertera DOCX till DOC-filformat med [Aspose.Words DOCX to DOC-appen](h
 
 ## Aspose.Words API:er
 
-[Aspose.Words](https://products.aspose.com/words/) är en uppsättning API:er som låter alla utvecklare konvertera [DOCX](/sv/word-processing/docx/) till [DOC](/sv/ord-processing /doc/) format med enkla kodrader. Den är tillgänglig för många programmeringsspråk inklusive [C#](/sv/programming/cs/), [Java](/sv/programming/java/), [Python](/sv/programming/py/) och [C++](/sv/programming/cpp/ ). Förutom DOC låter Aspose.Words API:er dig konvertera DOCX-filer till många andra populära filformat.
+[Aspose.Words](https://products.aspose.com/words/) är en uppsättning API:er som låter alla utvecklare konvertera [DOCX](/sv/word-processing/docx/) till [DOC](/sv/word-processing/doc/) format med enkla kodrader. Den är tillgänglig för många programmeringsspråk inklusive [C#](/sv/programming/cs/), [Java](/sv/programming/java/), [Python](/sv/programming/py/) och [C++](/sv/programming/cpp/ ). Förutom DOC låter Aspose.Words API:er dig konvertera DOCX-filer till många andra populära filformat.
 
 ## Referenser
 

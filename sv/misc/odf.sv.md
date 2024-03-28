@@ -19,7 +19,7 @@
 
 ## Vad är en ODF fil?
 
-En fil med filtillägget .odf är ett dokument med matematiska ekvationer, makron och formler. Det skapas med programmet [Apache OpenOffice Math](https://wiki.openoffice.org/wiki/Documentation/OOo3_User_Guides/Math_Guide) som används för att skapa matematiska formler som sedan kan sparas på skiva eller inkluderas i andra dokument. Dessa filer skapas och sparas baserat på OASIS OpenDocument-standarden som är ett öppet standardfilformat för kalkylblad, diagram, presentationer och ordbehandlingsdokument med hjälp av [ZIP](/sv/compression/zip/)-komprimerad [XML](/sv/web/ xml/) filer. ODF-filer kan öppnas med applikationer som OpenOffice Math och LibreOffice Draw.
+En fil med filtillägget .odf är ett dokument med matematiska ekvationer, makron och formler. Det skapas med programmet [Apache OpenOffice Math](https://wiki.openoffice.org/wiki/Documentation/OOo3_User_Guides/Math_Guide) som används för att skapa matematiska formler som sedan kan sparas på skiva eller inkluderas i andra dokument. Dessa filer skapas och sparas baserat på OASIS OpenDocument-standarden som är ett öppet standardfilformat för kalkylblad, diagram, presentationer och ordbehandlingsdokument med hjälp av [ZIP](/sv/compression/zip/)-komprimerad [XML](/sv/web/xml/) filer. ODF-filer kan öppnas med applikationer som OpenOffice Math och LibreOffice Draw.
 
 ## ODF-filformat - Mer information
 

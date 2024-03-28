@@ -102,7 +102,7 @@ Här är andra filtyper som använder filtillägget **.cs**.
 - [CS - CLEO Custom Script](/sv/game/cs-cleo/)
 
 **Programmering**
-- [CS - CSharp Code File](/sv/programmering/cs/)
+- [CS - CSharp Code File](/sv/programming/cs/)
 
 ## Referenser
 * [ColorSchemer Studio 2](https://www.colorschemer.com/)

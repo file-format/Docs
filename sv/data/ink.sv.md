@@ -79,7 +79,7 @@ Här är några viktiga egenskaper hos .ink-filer i Mimio Notebook:
 
 ## Dela en INK-fil
 
-Om läraren behöver dela .ink-fil med elev eller annan lärare som inte har tillgång till Mimio Notebook, kan de exportera .ink-fil som mer allmänt kompatibelt format som [PDF](/sv/pdf/), [HTML](/sv/webb /html/) eller bildfiler ([.JPEG](/sv/image/jpeg/), [.PNG](/sv/image/png/), [.GIF](/sv/image/gif/), [.TIFF](/sv/ image/tiff/)); På så sätt kan innehåll enkelt delas och visas på olika enheter och programvaror utan att behöva Mimio Notebook för åtkomst.
+Om läraren behöver dela .ink-fil med elev eller annan lärare som inte har tillgång till Mimio Notebook, kan de exportera .ink-fil som mer allmänt kompatibelt format som [PDF](/sv/pdf/), [HTML](/sv/web/html/) eller bildfiler ([.JPEG](/sv/image/jpeg/), [.PNG](/sv/image/png/), [.GIF](/sv/image/gif/), [.TIFF](/sv/image/tiff/)); På så sätt kan innehåll enkelt delas och visas på olika enheter och programvaror utan att behöva Mimio Notebook för åtkomst.
 
 ## MimioStudio
 

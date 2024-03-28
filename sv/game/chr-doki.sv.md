@@ -129,7 +129,7 @@ Här är några av filtyperna associerade med spel:
 
 
 
-5. **.txt-filer**: [Textfiler](/sv/ordbehandling/txt/) används för olika dokument, anteckningar och dikter i spelet som spelaren kan stöta på under spelets gång. Dessa filer ger ytterligare sammanhang och ledtrådar för berättelsen.
+5. **.txt-filer**: [Textfiler](/sv/word-processing/txt/) används för olika dokument, anteckningar och dikter i spelet som spelaren kan stöta på under spelets gång. Dessa filer ger ytterligare sammanhang och ledtrådar för berättelsen.
     
 
 

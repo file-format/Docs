@@ -19,7 +19,7 @@
 
 ## Vad är en MSD fil?
 
-En MSD-fil är en Map Service Distribution-fil skapad med GIS-mappningsmjukvaran ArcGIS Desktop. Den innehåller den publicerade kartan som exporterats från en [.mxd](/sv/gis/mxd/) kartfil. En MSD-fil innehåller information om en karttjänst som finns på ArcGIS Server. Den värdbaserade kartan är tillgänglig över internet för andra. MSD-filen har kartdokument, lagerinformation och tabellegenskaper.
+En MSD-fil är en Map Service Distribution-fil skapad med GIS-mappningsmjukvaran ArcGIS Desktop. Den innehåller den publicerade kartan som exporterats från en [.mxd](/gis/mxd/) kartfil. En MSD-fil innehåller information om en karttjänst som finns på ArcGIS Server. Den värdbaserade kartan är tillgänglig över internet för andra. MSD-filen har kartdokument, lagerinformation och tabellegenskaper.
 
 ## MSD filformat
 

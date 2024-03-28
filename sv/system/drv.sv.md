@@ -24,7 +24,7 @@ Filerna med filtillägget .drv tillhör Windows enhetsdrivrutin. Windows operati
 
 ## DRV-filformat ##
 
-DRV-filer är vanligtvis paketerade som dynamiska bibliotek ([DDL](/sv/system/dll/)-filer) eller [EXE](/sv/körbara/exe/)-filer. Dessa filer kan stödjas på alla systemplattformar, till exempel smartphones, och det finns ingen garanti för att varje plattform kommer att stödja dessa filer korrekt. Några vanligaste enheter som använder filtillägget .drv är dock:
+DRV-filer är vanligtvis paketerade som dynamiska bibliotek ([DDL](/sv/system/dll/)-filer) eller [EXE](/sv/executable/exe/)-filer. Dessa filer kan stödjas på alla systemplattformar, till exempel smartphones, och det finns ingen garanti för att varje plattform kommer att stödja dessa filer korrekt. Några vanligaste enheter som använder filtillägget .drv är dock:
 
 * Ljudkort
 * Grafikkort

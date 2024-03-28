@@ -24,7 +24,7 @@ En AHK-fil är en skriptfil som genereras med AutoHotkey-programvaran som använ
 
 AHK-filer sparas på skiva som vanliga textfiler och innehåller kodrader som kan köras av AutoHotkey. AutoHotkey är ett gratis skriptspråk med öppen källkod och låter användare skapa enkla till komplexa skript för att utföra åtgärder som formulärfyllare, autoklickning, exekvering av makron, etc. En AHK-fil kan åtminstone utföra en enda åtgärd och sedan avsluta .
 
-Det finns tillgängliga verktyg som kan användas för att konvertera AHK till [Exe](/sv/körbara/exe/)-filer.
+Det finns tillgängliga verktyg som kan användas för att konvertera AHK till [Exe](/sv/executable/exe/)-filer.
 
 ### AHK Exempel
 

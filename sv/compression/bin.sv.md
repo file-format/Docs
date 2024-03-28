@@ -58,7 +58,7 @@ Det är viktigt att notera att filtillägget .bin används av olika filformat, i
 Här är andra filtyper som använder filtillägget **.bin**.
 
 - [BIN - Binary Disc Image File](/sv/disc-and-media/bin/)
-- [BIN - Unix körbar fil](/sv/körbar/bin/)
+- [BIN - Unix körbar fil](/sv/executable/bin/)
 - [BIN - BlackBerry IT Policy File](/sv/settings/bin/)
 - [BIN - Sega Genesis Game ROM](/sv/game/bin/)
 - [BIN - PSX PlayStation BIOS-bild](/sv/game/bin-pcsx/)

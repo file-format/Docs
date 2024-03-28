@@ -19,7 +19,7 @@
 
 ## Vad är en DRAWIO fil?
 
-En fil med filtillägget .drawio är en ritfil skapad med [diagrams.net](https://www.diagrams.net/)s draw.io som är ett program med öppen källkod för att arbeta med diagram. Den innehåller övergripande information för innehållet och formateringen av diagramelementen såsom text, bilder, layout, former och positionering. Diagram som stöds av DRAWIO inkluderar flödesscheman, organisationsdiagram, kartor, tekniska element, processdiagram, diagram och mer. DRAWIO-filer kan exporteras till flera olika format som [JPG](/sv/image/jpeg/), [PNG](/sv/image/png/), [BMP](/sv/image/bmp/), [XML](/sv/webb /xml/), PDF, [HTML](/sv/web/html/) och [VSDX](/sv/visio/vsdx/).
+En fil med filtillägget .drawio är en ritfil skapad med [diagrams.net](https://www.diagrams.net/)s draw.io som är ett program med öppen källkod för att arbeta med diagram. Den innehåller övergripande information för innehållet och formateringen av diagramelementen såsom text, bilder, layout, former och positionering. Diagram som stöds av DRAWIO inkluderar flödesscheman, organisationsdiagram, kartor, tekniska element, processdiagram, diagram och mer. DRAWIO-filer kan exporteras till flera olika format som [JPG](/sv/image/jpeg/), [PNG](/sv/image/png/), [BMP](/sv/image/bmp/), [XML](/sv/web/xml/), PDF, [HTML](/sv/web/html/) och [VSDX](/sv/visio/vsdx/).
 
 ## DRAWIO filformat
 

@@ -42,7 +42,7 @@ Denna mängd stöd för olika programmeringsspråk ger dig möjlighet att konver
 
 ## Om DOCX till ZIP
 
-Microsoft Word 2007 och senare använder DOCX som standardfilformat för att spara dokument. Den kan innehålla tusentals ord, bilder, mediaobjekt, tabeller och annan relevant data. Detta gör storleken på DOCX-filen mycket stor och gör det svårt att dela online via internet. Detta tar också stort utrymme när det laddas upp till ett fillagringsmedium online som Google Drive eller Dropbox. DOCX till ZIP löser det här problemet eftersom DOCX-filen konverteras till en komprimerad fil med minskad filstorlek. Det finns flera onlineverktyg och appar som kan konvertera DOCX till ZIP-filformat. Aspose.Words är en sådan app för konvertering av [DOCX](/sv/ordbehandling/docx/) till [ZIP](/sv/compression/zip/).
+Microsoft Word 2007 och senare använder DOCX som standardfilformat för att spara dokument. Den kan innehålla tusentals ord, bilder, mediaobjekt, tabeller och annan relevant data. Detta gör storleken på DOCX-filen mycket stor och gör det svårt att dela online via internet. Detta tar också stort utrymme när det laddas upp till ett fillagringsmedium online som Google Drive eller Dropbox. DOCX till ZIP löser det här problemet eftersom DOCX-filen konverteras till en komprimerad fil med minskad filstorlek. Det finns flera onlineverktyg och appar som kan konvertera DOCX till ZIP-filformat. Aspose.Words är en sådan app för konvertering av [DOCX](/sv/word-processing/docx/) till [ZIP](/sv/compression/zip/).
 
 ## Konvertera DOCX till ZIP i .NET, Java, C++ och Python
 

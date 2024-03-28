@@ -22,7 +22,7 @@ En FREEWAY-fil är en inställningsinformationsfil som skapats och används av F
 
 ## FREEWAY filformat
 
-FREEWAY-filer sparas i proprietärt filformat och information om deras interna filformat är inte tillgänglig offentligt. Den har inga faktiska resurser som används av en webbplats, utan istället webbplatsens layout och länkar till olika egenskaper. De faktiska webbplatsresurserna och sidorna sparas i mapparna "Media" och "Site Folder" som finns i samma mapp som FREEWAY-filen. FREEWAY-dokumentet kan exporteras till en mängd olika format inklusive [HTML](/sv/web/html/), [JPEG](/sv/image/jpeg/), [PNG](/sv/image/png/), [BMP](/sv/ image/bmp/) och [GIF](/sv/image/gif/).
+FREEWAY-filer sparas i proprietärt filformat och information om deras interna filformat är inte tillgänglig offentligt. Den har inga faktiska resurser som används av en webbplats, utan istället webbplatsens layout och länkar till olika egenskaper. De faktiska webbplatsresurserna och sidorna sparas i mapparna "Media" och "Site Folder" som finns i samma mapp som FREEWAY-filen. FREEWAY-dokumentet kan exporteras till en mängd olika format inklusive [HTML](/sv/web/html/), [JPEG](/sv/image/jpeg/), [PNG](/sv/image/png/), [BMP](/sv/image/bmp/) och [GIF](/sv/image/gif/).
 
 ## Referenser
 

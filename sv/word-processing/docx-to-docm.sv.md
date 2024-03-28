@@ -20,7 +20,7 @@
 
 DOCM är Microsoft Word 2007-dokumentfilformatet som har förmågan att köra makron. Det interna filformatet för DOCM liknar DOCX-filformatet men med den extra funktionen av stöd för makron som inte är tillgänglig i DOCX.
 
-Du kan konvertera DOCX-filer till DOCM med gratis onlinetjänster. **[Aspose.Words-appen](https://products.aspose.app/words/family)** är en sådan uppsättning verktyg som låter dig utföra operationer på olika typer av word-dokument online från din webbläsare. Det erbjuder funktioner som att ladda ett WORD-dokument, visa dess innehåll, konvertera till olika typer av utdatafilformat som PDF, PNG, BMP och JPEG, delning, rotation och många andra. Du kan konvertera [DOCX](/sv/ord-behandling/docx/) till [DOCM](/sv/ord-processing/docm/) med Aspose.Words-appen.
+Du kan konvertera DOCX-filer till DOCM med gratis onlinetjänster. **[Aspose.Words-appen](https://products.aspose.app/words/family)** är en sådan uppsättning verktyg som låter dig utföra operationer på olika typer av word-dokument online från din webbläsare. Det erbjuder funktioner som att ladda ett WORD-dokument, visa dess innehåll, konvertera till olika typer av utdatafilformat som PDF, PNG, BMP och JPEG, delning, rotation och många andra. Du kan konvertera [DOCX](/sv/word-processing/docx/) till [DOCM](/sv/word-processing/docm/) med Aspose.Words-appen.
 
 ## DOCX till DOCM-konvertering - gratis demo
 
@@ -41,12 +41,12 @@ Du kan konvertera DOCX till DOC-filformat med [Aspose.Words DOCX to DOCM-appen](
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-[Aspose.Words](https://products.aspose.com/words/) är en uppsättning API:er som låter alla utvecklare konvertera [DOCX](/sv/word-processing/docx/) till [DOCM](/sv/ord-processing /docm/) format med enkla kodrader. Den är tillgänglig för många programmeringsspråk inklusive:
+[Aspose.Words](https://products.aspose.com/words/) är en uppsättning API:er som låter alla utvecklare konvertera [DOCX](/sv/word-processing/docx/) till [DOCM](/sv/word-processing/docm/) format med enkla kodrader. Den är tillgänglig för många programmeringsspråk inklusive:
 
-* [C#](/sv/programmering/cs/)
-* [Java](/sv/programmering/java/)
+* [C#](/sv/programming/cs/)
+* [Java](/sv/programming/java/)
 * [Python](/sv/programming/py/)
-* [C++](/sv/programmering/cpp/).
+* [C++](/sv/programming/cpp/).
 
 Förutom DOCM låter Aspose.Words API:er dig konvertera DOCX-filer till många andra populära filformat.
 
