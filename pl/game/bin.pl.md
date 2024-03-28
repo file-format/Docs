@@ -50,9 +50,9 @@ Oto ogólne kroki otwierania i odtwarzania pamięci ROM z grą Sega Genesis zapi
 
 Oto inne typy plików, które korzystają z rozszerzenia **.bin**.
 
-- [BIN – plik zakodowany w systemie MacBinary](/pl/kompresja/bin/)
+- [BIN – plik zakodowany w systemie MacBinary](/pl/compression/bin/)
 - [BIN – Binarny plik obrazu dysku](/pl/disc-and-media/bin/)
-- [BIN - Plik wykonywalny Uniksa](/pl/plik wykonywalny/bin/)
+- [BIN - Plik wykonywalny Uniksa](/pl/executable/bin/)
 - [BIN – plik zasad IT BlackBerry](/pl/settings/bin/)
 - [BIN - Obraz BIOS-u PSX PlayStation](/pl/game/bin-pcsx/)
 

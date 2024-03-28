@@ -37,7 +37,7 @@ Plik obrazu HDR składa się z następujących trzech części:
 ## Interfejsy API HDR/HDRI typu open source
 
 * **[imageinfo](https://github.com/xiaozhuai/imageinfo)** — Wieloplatformowa, superszybka, pojedyncza biblioteka nagłówkowa [C++](/pl/programming/cpp/) pozwalająca uzyskać rozmiar i format obrazu bez ładowania/dekodowania.
-* **[imgaeinfo-rs](https://github.com/xiaozhuai/imageinfo-rs)** - Biblioteka Rust do pobierania rozmiaru i formatu obrazu bez ładowania/dekodowania. Obsługuje formaty [.avif](/pl/image/avif/), [.bmp](/pl/image/bmp/), [.cur](/pl/image/cur/), [.dds](/pl/image/dds/), [. gif](/pl/image/gif/), hdr (pic), [heic (heif)](/pl/image/heic/), [.icns](/pl/image/icns/), [.ico](/pl/image/ico /), [.jp2](/pl/image/jp2/), [jpeg (jpg)](/pl/image/jpeg/), [jpx](/pl/image/jpx/), ktx, [png](/pl/image/png /), [psd](/pl/image/psd/), qoi, tga, tiff (tif) i webp.
+* **[imgaeinfo-rs](https://github.com/xiaozhuai/imageinfo-rs)** - Biblioteka Rust do pobierania rozmiaru i formatu obrazu bez ładowania/dekodowania. Obsługuje formaty [.avif](/pl/image/avif/), [.bmp](/pl/image/bmp/), [.cur](/pl/image/cur/), [.dds](/pl/image/dds/), [. gif](/pl/image/gif/), hdr (pic), [heic (heif)](/pl/image/heic/), [.icns](/pl/image/icns/), [.ico](/pl/image/ico/), [.jp2](/pl/image/jp2/), [jpeg (jpg)](/pl/image/jpeg/), [jpx](/pl/image/jpx/), ktx, [png](/pl/image/png/), [psd](/pl/image/psd/), qoi, tga, tiff (tif) i webp.
 * **[HdrHistogram](https://github.com/HdrHistogram/HdrHistogram)** - Implementacja HdrHistogram w Javie.
 
 ## Bibliografia

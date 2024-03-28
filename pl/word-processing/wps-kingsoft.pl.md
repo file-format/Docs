@@ -71,10 +71,10 @@ Aby otwierać i edytować pliki WPS za pomocą Kingsoft Writer w Kingsoft WPS Of
 
 Kingsoft Writer może konwertować pliki WPS do następujących formatów:
 
-- [DOC](/pl/edytor tekstu/doc/)
-- [DOCX](/pl/edytor tekstu/docx/)
-- [RTF](/pl/edytor tekstu/rtf/)
-- [TXT](/pl/edytor tekstu/txt/)
+- [DOC](/pl/word-processing/doc/)
+- [DOCX](/pl/word-processing/docx/)
+- [RTF](/pl/word-processing/rtf/)
+- [TXT](/pl/word-processing/txt/)
 - [HTML](/pl/web/html/)
 - [PDF](/pl/pdf/)
 

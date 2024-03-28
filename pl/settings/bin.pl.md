@@ -53,9 +53,9 @@ Wprowadź niezbędne zmiany w polityce i zapisz je. W razie potrzeby możesz opu
 
 Oto inne typy plików, które korzystają z rozszerzenia **.bin**.
 
-- [BIN – plik zakodowany w systemie MacBinary](/pl/kompresja/bin/)
+- [BIN – plik zakodowany w systemie MacBinary](/pl/compression/bin/)
 - [BIN – Binarny plik obrazu dysku](/pl/disc-and-media/bin/)
-- [BIN - Plik wykonywalny Uniksa](/pl/plik wykonywalny/bin/)
+- [BIN - Plik wykonywalny Uniksa](/pl/executable/bin/)
 - [BIN - ROM gry Sega Genesis](/pl/game/bin/)
 - [BIN - Obraz BIOS-u PSX PlayStation](/pl/game/bin-pcsx/)
 

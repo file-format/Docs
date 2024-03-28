@@ -91,9 +91,9 @@ Emulatory PlayStation, takie jak PCSX, PCSX2, ePSXe i emulator pSX, mogą otwier
 
 Oto inne typy plików, które korzystają z rozszerzenia **.bin**.
 
-- [BIN – plik zakodowany w systemie MacBinary](/pl/kompresja/bin/)
+- [BIN – plik zakodowany w systemie MacBinary](/pl/compression/bin/)
 - [BIN – Binarny plik obrazu dysku](/pl/disc-and-media/bin/)
-- [BIN - Plik wykonywalny Uniksa](/pl/plik wykonywalny/bin/)
+- [BIN - Plik wykonywalny Uniksa](/pl/executable/bin/)
 - [BIN – plik zasad IT BlackBerry](/pl/settings/bin/)
 - [BIN - ROM gry Sega Genesis](/pl/game/bin/)
 

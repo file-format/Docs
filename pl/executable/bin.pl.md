@@ -65,7 +65,7 @@ _Zachowaj ostrożność podczas postępowania z pobranymi lub przesłanymi poczt
 
 Oto inne typy plików, które korzystają z rozszerzenia **.bin**.
 
-- [BIN – plik zakodowany w systemie MacBinary](/pl/kompresja/bin/)
+- [BIN – plik zakodowany w systemie MacBinary](/pl/compression/bin/)
 - [BIN – Binarny plik obrazu dysku](/pl/disc-and-media/bin/)
 - [BIN – plik zasad IT BlackBerry](/pl/settings/bin/)
 - [BIN - ROM gry Sega Genesis](/pl/game/bin/)

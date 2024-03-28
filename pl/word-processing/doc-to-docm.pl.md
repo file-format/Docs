@@ -20,7 +20,7 @@
 
 DOCM to wersja dokumentów Microsoft Word z obsługą makr, która umożliwia uruchamianie makr. Różnica między zwykłym dokumentem programu Word a dokumentem obsługującym makra polega na tym, że DOCM zapewnia dodatkową funkcję obsługi makr.
 
-Pliki DOC można konwertować na format DOCM za pomocą bezpłatnych narzędzi i aplikacji online. **[Aplikacja Aspose.Words](https://products.aspose.app/words/family)** to zestaw aplikacji internetowych, które umożliwiają wykonywanie różnych operacji na dokumentach programu Word bezpośrednio w przeglądarce internetowej. Oprócz funkcji [przeglądania dokumentów](/pl/edytoringu tekstu/docx-viewer/), dzielenia, łączenia, porównywania, obracania i innych, umożliwia konwertowanie dokumentów programu Word z jednego formatu na inny. Możesz przekonwertować [DOC](/pl/word-processing/doc/) na [DOCM](/pl/word-processing/docm/) za pomocą aplikacji Aspose.Words.
+Pliki DOC można konwertować na format DOCM za pomocą bezpłatnych narzędzi i aplikacji online. **[Aplikacja Aspose.Words](https://products.aspose.app/words/family)** to zestaw aplikacji internetowych, które umożliwiają wykonywanie różnych operacji na dokumentach programu Word bezpośrednio w przeglądarce internetowej. Oprócz funkcji [przeglądania dokumentów](/pl/word-processing/docx-viewer/), dzielenia, łączenia, porównywania, obracania i innych, umożliwia konwertowanie dokumentów programu Word z jednego formatu na inny. Możesz przekonwertować [DOC](/pl/word-processing/doc/) na [DOCM](/pl/word-processing/docm/) za pomocą aplikacji Aspose.Words.
 
 ## Konwertuj DOC na DOCM - bezpłatne demo
 

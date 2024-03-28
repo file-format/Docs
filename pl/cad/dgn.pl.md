@@ -19,7 +19,7 @@
 
 ## Czym jest plik DGN?
 
-Plik z rozszerzeniem .dgn (Projekt) to plik rysunku utworzony i obsługiwany przez aplikacje CAD, takie jak MicroStation i Intergraph Interactive Graphics Design System. Służy do tworzenia i zapisywania projektów projektów budowlanych, takich jak autostrady, mosty i budynki. Format jest podobny do formatu pliku [DWG](/pl/cad/dwg/) firmy Autodesk i jest uważany za jego konkurenta. Pliki DNG można zapisywać w formacie Intergraph Standard File Format lub V8 DGN. DGN można przekonwertować na kilka innych formatów, takich jak DWG, [BMP](/pl/image/bmp/), [JPEG](/pl/image/jpeg/), [PDF](/pl/pdf/), [GIF](/pl/image/ gif/) i inne. Można go otworzyć za pomocą Autodesk AutoCAD, Bentley View i Bentley Systems MicroStation, a także innych aplikacji, takich jak wersje Corel PaintShop Photo Pro i IMSI TurboCAD Deluxe.
+Plik z rozszerzeniem .dgn (Projekt) to plik rysunku utworzony i obsługiwany przez aplikacje CAD, takie jak MicroStation i Intergraph Interactive Graphics Design System. Służy do tworzenia i zapisywania projektów projektów budowlanych, takich jak autostrady, mosty i budynki. Format jest podobny do formatu pliku [DWG](/pl/cad/dwg/) firmy Autodesk i jest uważany za jego konkurenta. Pliki DNG można zapisywać w formacie Intergraph Standard File Format lub V8 DGN. DGN można przekonwertować na kilka innych formatów, takich jak DWG, [BMP](/pl/image/bmp/), [JPEG](/pl/image/jpeg/), [PDF](/pl/pdf/), [GIF](/pl/image/gif/) i inne. Można go otworzyć za pomocą Autodesk AutoCAD, Bentley View i Bentley Systems MicroStation, a także innych aplikacji, takich jak wersje Corel PaintShop Photo Pro i IMSI TurboCAD Deluxe.
 
 ## Format pliku V8 DGN
 

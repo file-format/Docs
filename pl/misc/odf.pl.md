@@ -19,7 +19,7 @@
 
 ## Czym jest plik ODF?
 
-Plik z rozszerzeniem .odf to dokument zawierający równania matematyczne, makra i formuły. Jest tworzony za pomocą programu [Apache OpenOffice Math](https://wiki.openoffice.org/wiki/Documentation/OOo3_User_Guides/Math_Guide), który służy do tworzenia formuł matematycznych, które można następnie zapisać na dysku lub dołączyć do innych dokumentów. Pliki te są tworzone i zapisywane w oparciu o standard OASIS OpenDocument, który jest otwartym standardowym formatem plików dla arkuszy kalkulacyjnych, wykresów, prezentacji i dokumentów tekstowych przy użyciu formatu [ZIP](/pl/compression/zip/) skompresowanego [XML](/pl/web/ xml/). Pliki ODF można otwierać za pomocą aplikacji takich jak OpenOffice Math i LibreOffice Draw.
+Plik z rozszerzeniem .odf to dokument zawierający równania matematyczne, makra i formuły. Jest tworzony za pomocą programu [Apache OpenOffice Math](https://wiki.openoffice.org/wiki/Documentation/OOo3_User_Guides/Math_Guide), który służy do tworzenia formuł matematycznych, które można następnie zapisać na dysku lub dołączyć do innych dokumentów. Pliki te są tworzone i zapisywane w oparciu o standard OASIS OpenDocument, który jest otwartym standardowym formatem plików dla arkuszy kalkulacyjnych, wykresów, prezentacji i dokumentów tekstowych przy użyciu formatu [ZIP](/pl/compression/zip/) skompresowanego [XML](/pl/web/xml/). Pliki ODF można otwierać za pomocą aplikacji takich jak OpenOffice Math i LibreOffice Draw.
 
 ## Format pliku ODF — więcej informacji
 

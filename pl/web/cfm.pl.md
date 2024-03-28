@@ -19,7 +19,7 @@
 
 ## Czym jest plik CFM? ##
 
-Strony internetowe i pliki używane w **Cold Fusion Markup Language** zawierają rozszerzenia CFM i nazywane są stronami internetowymi CFM. Ten język skryptowy do tworzenia stron internetowych działa w Google App Engine, .NET Framework i JVM. Może zawierać język programowania lub kod języka. Gdy użytkownik uzyskuje dostęp do którejkolwiek z jego stron, serwer sieciowy ColdFusion wykonuje tę czynność. CFScript (który jest zbliżony do JavaScript) lub znaczniki mogą być używane do pisania CFML. CFML może być używany do generowania innych języków oprócz [HTML](/pl/web/html/), takich jak [CSS](/pl/web/css/), [JavaScript](/pl/web/js/), [XML](/pl/web/ xml/) i nie tylko.
+Strony internetowe i pliki używane w **Cold Fusion Markup Language** zawierają rozszerzenia CFM i nazywane są stronami internetowymi CFM. Ten język skryptowy do tworzenia stron internetowych działa w Google App Engine, .NET Framework i JVM. Może zawierać język programowania lub kod języka. Gdy użytkownik uzyskuje dostęp do którejkolwiek z jego stron, serwer sieciowy ColdFusion wykonuje tę czynność. CFScript (który jest zbliżony do JavaScript) lub znaczniki mogą być używane do pisania CFML. CFML może być używany do generowania innych języków oprócz [HTML](/pl/web/html/), takich jak [CSS](/pl/web/css/), [JavaScript](/pl/web/js/), [XML](/pl/web/xml/) i nie tylko.
 
 Użycie tego języka i obsługiwanych przez niego tagów dotyczy głównie tworzenia dynamicznych aplikacji internetowych. Pliki można uruchamiać bezpośrednio w przeglądarce online, jeśli podczas korzystania z platformy rozwoju aplikacji w trybie offline wystąpi jakikolwiek błąd.
  

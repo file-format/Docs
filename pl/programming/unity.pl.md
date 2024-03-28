@@ -20,7 +20,7 @@
 
 Plik Unity to plik sceny 3D utworzony za pomocą silnika 3D Gaming, **Unity**. Jest używany w połączeniu z innymi scenami do tworzenia wirtualnego świata podczas edycji. Zawiera elementy sceny 3D, takie jak obiekty, otoczenie, dekoracje, kamery, informacje o kątach, scenariusze oświetlenia i przeszkody.
 
-Pliki Unity można otwierać za pomocą Unity Technologies Unity. Unity może również czytać Unity [.fbx](/pl/3d/fbx/), [.dae](/pl/3d/dae/) (Collada), [.3ds](/pl/3d/3ds/), [.dxf](/pl/ cad/dxf/) i [.obj](/pl/3d/obj/).
+Pliki Unity można otwierać za pomocą Unity Technologies Unity. Unity może również czytać Unity [.fbx](/pl/3d/fbx/), [.dae](/pl/3d/dae/) (Collada), [.3ds](/pl/3d/3ds/), [.dxf](/pl/cad/dxf/) i [.obj](/pl/3d/obj/).
 
 ## Format pliku UNITY
 

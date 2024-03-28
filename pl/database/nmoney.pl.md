@@ -36,7 +36,7 @@ Denaro zostało pierwotnie opracowane przez [Nickvision](https://nickvision.org/
 
 ## Format pliku Denaro — więcej informacji
 
-Pliki Denaro zapisywane są na płycie w formacie binarnym. Dane finansowe przechowywane są w postaci pliku bazy danych w formacie pliku **.SQLITE3**. SQLITE to lekki plik bazy danych SQL utworzony za pomocą oprogramowania SQLite. Zapewnia samodzielny silnik bazy danych, który jest w stanie zapewnić w pełni funkcjonalną i wysoce niezawodną bazę danych. Pliki bazy danych SQLite mogą być używane do udostępniania bogatej zawartości pomiędzy systemami poprzez prostą wymianę tych plików przez sieć. Istnieją powiązania SQLite dla języków programowania, takich jak C, [C#](/pl/programming/cs/), [C++](/pl/programming/cpp/), [Java](/pl/programming/java/), [PHP](/pl/programming/ php/) i wiele innych.
+Pliki Denaro zapisywane są na płycie w formacie binarnym. Dane finansowe przechowywane są w postaci pliku bazy danych w formacie pliku **.SQLITE3**. SQLITE to lekki plik bazy danych SQL utworzony za pomocą oprogramowania SQLite. Zapewnia samodzielny silnik bazy danych, który jest w stanie zapewnić w pełni funkcjonalną i wysoce niezawodną bazę danych. Pliki bazy danych SQLite mogą być używane do udostępniania bogatej zawartości pomiędzy systemami poprzez prostą wymianę tych plików przez sieć. Istnieją powiązania SQLite dla języków programowania, takich jak C, [C#](/pl/programming/cs/), [C++](/pl/programming/cpp/), [Java](/pl/programming/java/), [PHP](/pl/programming/php/) i wiele innych.
 
 ## Bibliografia
 

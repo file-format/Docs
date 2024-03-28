@@ -58,7 +58,7 @@ Należy zauważyć, że rozszerzenie pliku .bin jest używane przez różne form
 Oto inne typy plików, które korzystają z rozszerzenia **.bin**.
 
 - [BIN – Binarny plik obrazu dysku](/pl/disc-and-media/bin/)
-- [BIN - Plik wykonywalny Uniksa](/pl/plik wykonywalny/bin/)
+- [BIN - Plik wykonywalny Uniksa](/pl/executable/bin/)
 - [BIN – plik zasad IT BlackBerry](/pl/settings/bin/)
 - [BIN - ROM gry Sega Genesis](/pl/game/bin/)
 - [BIN - Obraz BIOS-u PSX PlayStation](/pl/game/bin-pcsx/)

@@ -20,7 +20,7 @@
 
 Musisz znać pliki z rozszerzeniami **PPTX** i **PPT**, są to formaty plików prezentacji, które przechowują kolekcję rekordów w celu uwzględnienia danych prezentacji, takich jak: slajdy, kształty, tekst, animacje, wideo, audio i obiekty osadzone . Prezentację można zapisać/przekonwertować na inne formaty plików, takie jak PDF, BMP, PNG, JPEG i XPS.
 
-Popularne rozszerzenia plików prezentacji i powiązane z nimi formaty plików to **[PPTX](/pl/presentation/pptx/)**, **[PPT](/pl/presentation/ppt/)** i **[ODP](/pl/presentation/odp /)**.
+Popularne rozszerzenia plików prezentacji i powiązane z nimi formaty plików to **[PPTX](/pl/presentation/pptx/)**, **[PPT](/pl/presentation/ppt/)** i **[ODP](/pl/presentation/odp/)**.
 
 Masz pytania dotyczące formatów plików prezentacji? Odwiedź nasze [fora](https://forum.fileformat.com/c/presentation/8) społeczności, aby skorzystać z wiedzy ekspertów ds. formatów plików.
 

@@ -20,7 +20,7 @@
 
 Plik edytora tekstu zawiera informacje o użytkowniku w formacie zwykłego tekstu lub tekstu sformatowanego. Format pliku **zwykły tekst** zawiera niesformatowany tekst i nie można zastosować żadnych ustawień czcionki, strony itp. Z kolei format pliku **tekst sformatowany** umożliwia opcje formatowania, takie jak ustawienie typu czcionki, stylów (pogrubienie, kursywa, podkreślenie itp.), marginesów strony, nagłówków, wypunktowań i liczb oraz kilku innych funkcji formatowania. Z biegiem czasu użycie zwykłych plików tekstowych znacznie się zmniejszyło, ponieważ dostępne są mocniejsze komputery i programy oferujące przetwarzanie plików tekstowych.
 
-Typowe rozszerzenia plików zwykłego tekstu i powiązane formaty plików to **[TXT](/pl/processing tekstu/txt/)**, **[CSV](/pl/spreadsheet/csv/)**, podczas gdy rozszerzenia plików dla dokumentów tekstowych to m.in. **[DOCX](/pl/word-processing/docx/)**, **[DOC](/pl/word-processing/doc/)** i **[RTF](/pl/word-processing/rtf/)** .
+Typowe rozszerzenia plików zwykłego tekstu i powiązane formaty plików to **[TXT](/pl/word-processing/txt/)**, **[CSV](/pl/spreadsheet/csv/)**, podczas gdy rozszerzenia plików dla dokumentów tekstowych to m.in. **[DOCX](/pl/word-processing/docx/)**, **[DOC](/pl/word-processing/doc/)** i **[RTF](/pl/word-processing/rtf/)** .
 
 Masz zapytania związane z formatami plików edytora tekstu? Odwiedź nasze [fora](https://forum.fileformat.com/c/word-processing/5) społeczności, aby skorzystać z wiedzy ekspertów ds. formatów plików.
 

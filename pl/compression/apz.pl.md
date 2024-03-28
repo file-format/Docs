@@ -27,6 +27,6 @@ Szczegóły wewnętrznego formatu pliku APZ nie są dostępne publicznie w celac
 
 ## Bibliografia
 
-* [Formaty plików kompresji](/kompresja/)
+* [Formaty plików kompresji](/compression/)
 
 

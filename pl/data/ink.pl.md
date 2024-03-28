@@ -79,7 +79,7 @@ Oto kilka kluczowych cech plików .ink w Mimio Notatnik:
 
 ## Udostępnij plik INK
 
-Jeśli nauczyciel musi udostępnić plik .ink uczniowi lub innemu nauczycielowi, który nie ma dostępu do Mimio Notatnik, może wyeksportować plik .ink w szerzej zgodnym formacie, takim jak [PDF](/pl/pdf/), [HTML](/pl/web /html/) lub pliki obrazów ([.JPEG](/pl/image/jpeg/), [.PNG](/pl/image/png/), [.GIF](/pl/image/gif/), [.TIFF](/pl/ obraz/tiff/)); w ten sposób zawartość można łatwo udostępniać i przeglądać na różnych urządzeniach i aplikacjach bez konieczności dostępu do Mimio Notebook.
+Jeśli nauczyciel musi udostępnić plik .ink uczniowi lub innemu nauczycielowi, który nie ma dostępu do Mimio Notatnik, może wyeksportować plik .ink w szerzej zgodnym formacie, takim jak [PDF](/pl/pdf/), [HTML](/pl/web/html/) lub pliki obrazów ([.JPEG](/pl/image/jpeg/), [.PNG](/pl/image/png/), [.GIF](/pl/image/gif/), [.TIFF](/pl/image/tiff/)); w ten sposób zawartość można łatwo udostępniać i przeglądać na różnych urządzeniach i aplikacjach bez konieczności dostępu do Mimio Notebook.
 
 ## MimioStudio
 

@@ -19,7 +19,7 @@
 
 ## Czym jest plik CBC?
 
-Plik z rozszerzeniem .cbc to skompresowana kolekcja plików komiksów dla eBooków i zawiera pliki [CBZ](/pl/ebook/cbz/) i [CBR](/pl/ebook/cbr/). Jest używany przez [Calibre](https://calibre-ebook.com/), aplikację do konwersji e-booków, która jest wieloplatformowym menedżerem e-booków typu open source i pozwala zarządzać e-bookami i konwertować je do różnych formatów . Plik CBC zawiera plik .txt, comics.txt, który zawiera listę innych plików wchodzących w skład archiwum. W Internecie dostępnych jest kilka aplikacji, które mogą konwertować pliki CBC do formatów [AZW3](/pl/ebook/azw3/), [EPUB](/pl/ebook/epub/), [FB2](/pl/ebook/fb2/), [MOBI](/pl/ebook/ mobi/), [TXT](/pl/word-processing/txt/), [PDF](/pl/pdf/) i inne popularne formaty plików.
+Plik z rozszerzeniem .cbc to skompresowana kolekcja plików komiksów dla eBooków i zawiera pliki [CBZ](/pl/ebook/cbz/) i [CBR](/pl/ebook/cbr/). Jest używany przez [Calibre](https://calibre-ebook.com/), aplikację do konwersji e-booków, która jest wieloplatformowym menedżerem e-booków typu open source i pozwala zarządzać e-bookami i konwertować je do różnych formatów . Plik CBC zawiera plik .txt, comics.txt, który zawiera listę innych plików wchodzących w skład archiwum. W Internecie dostępnych jest kilka aplikacji, które mogą konwertować pliki CBC do formatów [AZW3](/pl/ebook/azw3/), [EPUB](/pl/ebook/epub/), [FB2](/pl/ebook/fb2/), [MOBI](/pl/ebook/mobi/), [TXT](/pl/word-processing/txt/), [PDF](/pl/pdf/) i inne popularne formaty plików.
 
 ## Format pliku CBC
 

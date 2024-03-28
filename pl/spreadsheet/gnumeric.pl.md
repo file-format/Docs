@@ -23,7 +23,7 @@ Plik z rozszerzeniem pliku GNUMERIC to plik arkusza kalkulacyjnego utworzony za 
 
 ## Format pliku GNUMERIC
 
-Pliki GNUMERIC są zapisywane w formacie pliku XML, skompresowane za pomocą kompresji GZIP. Nie obsługują one makr ani tabel przestawnych, ale są bogate w inne funkcje, takie jak konwersja do formatu [CSV](/pl/spreadsheet/csv/), [XLSX](/pl/spreadsheet/xlsx/), Microsoft Works (.wks), [ HTML](/pl/web/html/), [LaTex](/pl/word-processing/lateks/) i [Lotus 1-2-3](/pl/spreadsheet/123/).
+Pliki GNUMERIC są zapisywane w formacie pliku XML, skompresowane za pomocą kompresji GZIP. Nie obsługują one makr ani tabel przestawnych, ale są bogate w inne funkcje, takie jak konwersja do formatu [CSV](/pl/spreadsheet/csv/), [XLSX](/pl/spreadsheet/xlsx/), Microsoft Works (.wks), [ HTML](/pl/web/html/), [LaTex](/pl/word-processing/latex/) i [Lotus 1-2-3](/pl/spreadsheet/123/).
 
 ## Gnumeric na Githubie
 

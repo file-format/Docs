@@ -188,7 +188,7 @@ Serwery Citrix i powiązane technologie Citrix obsługują kilka formatów plik�
 
 
 
-- **.exe**: Pakiety instalacyjne Citrix Odbiornik lub Citrix Workspace często są dostępne w formacie wykonywalnym dla różnych systemów operacyjnych (np. [.exe](/pl/executable/exe/) dla Windows, [.dmg](/pl/compression/dmg /) dla systemu macOS). Pakiety te umożliwiają użytkownikom instalowanie oprogramowania klienckiego na swoich urządzeniach.
+- **.exe**: Pakiety instalacyjne Citrix Odbiornik lub Citrix Workspace często są dostępne w formacie wykonywalnym dla różnych systemów operacyjnych (np. [.exe](/pl/executable/exe/) dla Windows, [.dmg](/pl/compression/dmg/) dla systemu macOS). Pakiety te umożliwiają użytkownikom instalowanie oprogramowania klienckiego na swoich urządzeniach.
 3. **Aplikacja Citrix Workspace (dawniej Citrix Odbiornik)**:
     
 
@@ -242,7 +242,7 @@ Serwery Citrix i powiązane technologie Citrix obsługują kilka formatów plik�
 
 
 
-- **.vhd, .vhdx**: Citrix XenDesktop i XenApp mogą dostarczać wirtualne pulpity i aplikacje przy użyciu wirtualnego dysku twardego [VHD](/pl/disc-and-media/vhd/) lub [VHDX](/pl/disc-and-media /vhdx/) pliki.
+- **.vhd, .vhdx**: Citrix XenDesktop i XenApp mogą dostarczać wirtualne pulpity i aplikacje przy użyciu wirtualnego dysku twardego [VHD](/pl/disc-and-media/vhd/) lub [VHDX](/pl/disc-and-media/vhdx/) pliki.
 6. **Metadane publikowania zasobów**:
     
 

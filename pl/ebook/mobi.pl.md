@@ -19,7 +19,7 @@
 
 ## Czym jest plik MOBI?
 
-Format pliku MOBI jest jednym z najczęściej używanych formatów plików e-booków. Format jest rozszerzeniem starego formatu OEB (Open Ebook Format) i był używany jako zastrzeżony format Mobipocket Reader. Podobnie jak [EPUB](/pl/ebook/epub/), jest obsługiwany przez prawie wszystkie nowoczesne czytniki e-booków, zwłaszcza przez urządzenia mobilne o niskiej przepustowości. Format można przekonwertować na kilka innych formatów, takich jak [PDF](/pl/pdf/), EPUB i kilka innych formatów przy użyciu publicznie dostępnych aplikacji, takich jak [aplikacja Kindle](https://www.amazon.com/kindle) -dbs/fd/kcp). Istnieje kilka firm, które oferują bezpłatne książki MOBI, takie jak [Project Gutenberg](https://www.gutenberg.org/), [Feedbooks](http://www.feedbooks.com/) i [Open Library]( https://openlibrary.org/).
+Format pliku MOBI jest jednym z najczęściej używanych formatów plików e-booków. Format jest rozszerzeniem starego formatu OEB (Open Ebook Format) i był używany jako zastrzeżony format Mobipocket Reader. Podobnie jak [EPUB](/pl/ebook/epub/), jest obsługiwany przez prawie wszystkie nowoczesne czytniki e-booków, zwłaszcza przez urządzenia mobilne o niskiej przepustowości. Format można przekonwertować na kilka innych formatów, takich jak [PDF](/pl/pdf/), EPUB i kilka innych formatów przy użyciu publicznie dostępnych aplikacji, takich jak [aplikacja Kindle](https://www.amazon.com/kindle) -dbs/fd/kcp). Istnieje kilka firm, które oferują bezpłatne książki MOBI, takie jak [Project Gutenberg](https://www.gutenberg.org/), [Feedbooks](http://www.feedbooks.com/) i [Open Library](https://openlibrary.org/).
 
 ## Krótka historia formatu pliku MOBI
 

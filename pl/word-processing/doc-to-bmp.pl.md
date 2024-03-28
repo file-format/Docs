@@ -37,7 +37,7 @@ Możesz przekonwertować plik DOC na format BMP za pomocą [aplikacji Aspose.Wor
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-[Aspose.Words](https://products.aspose.com/words/) to zestaw interfejsów API, który umożliwia każdemu programiście konwersję [DOC](/pl/word-processing/doc/) na [BMP](/pl/image/bmp /) format przy użyciu prostych linii kodu. Jest dostępny dla wielu języków programowania, w tym [C#](/pl/programming/cs/), [Java](/pl/programming/java/), [Python](/pl/programming/py/) i [C++](/pl/programming/cpp/ ). Oprócz BMP, interfejsy API Aspose.Words umożliwiają konwersję plików DOC na wiele innych popularnych formatów plików.
+[Aspose.Words](https://products.aspose.com/words/) to zestaw interfejsów API, który umożliwia każdemu programiście konwersję [DOC](/pl/word-processing/doc/) na [BMP](/pl/image/bmp/) format przy użyciu prostych linii kodu. Jest dostępny dla wielu języków programowania, w tym [C#](/pl/programming/cs/), [Java](/pl/programming/java/), [Python](/pl/programming/py/) i [C++](/pl/programming/cpp/). Oprócz BMP, interfejsy API Aspose.Words umożliwiają konwersję plików DOC na wiele innych popularnych formatów plików.
 
 ## Bibliografia
 
