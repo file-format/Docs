@@ -20,7 +20,7 @@
 
 **PPTX** 및 **PPT** 확장 파일에 대해 잘 알고 있어야 합니다. 이들은 슬라이드, 도형, 텍스트, 애니메이션, 비디오, 오디오 및 포함된 개체와 같은 프레젠테이션 데이터를 수용하기 위해 레코드 모음을 저장하는 프레젠테이션 파일 형식입니다. . 프레젠테이션은 PDF, BMP, PNG, JPEG 및 XPS와 같은 다른 파일 형식으로 저장/변환할 수 있습니다.
 
-일반적인 프레젠테이션 파일 확장자 및 관련 파일 형식에는 **[PPTX](/ko/presentation/pptx/)**, **[PPT](/ko/presentation/ppt/)** 및 **[ODP](/ko/presentation/odp가 포함됩니다. /)**.
+일반적인 프레젠테이션 파일 확장자 및 관련 파일 형식에는 **[PPTX](/ko/presentation/pptx/)**, **[PPT](/ko/presentation/ppt/)** 및 **[ODP](/ko/presentation/odp/)** 가 포함됩니다..
 
 프레젠테이션 파일 형식과 관련된 쿼리가 있습니까? 커뮤니티 [포럼](https://forum.fileformat.com/c/presentation/8)으로 이동하여 파일 형식 전문가가 공유하는 지식을 활용하십시오.
 

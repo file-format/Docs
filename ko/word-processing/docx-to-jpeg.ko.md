@@ -18,7 +18,7 @@
 
 ## DOCX에서 이미지로 변환 정보
 
-우리 대부분은 워드 문서 작업에 익숙합니다. Microsoft Office는 이러한 문서를 널리 사용되는 [DOCX](/ko/word-processing/docx/) 파일 형식으로 저장하지만 DOCX를 [JPEG](/ko/image/jpeg/) 또는 [ PNG](/ko/이미지/png/). DOCX 파일을 JPEG 이미지로 프레젠테이션에 포함해야 하거나 이미지 파일만 허용하는 온라인 웹사이트에 문서를 업로드해야 하는 상황이 발생할 수 있습니다. 온라인에서 DOCX 파일을 JPEG로 변환하는 데 도움이 되는 특정 온라인 도구가 등장하는 곳입니다.
+우리 대부분은 워드 문서 작업에 익숙합니다. Microsoft Office는 이러한 문서를 널리 사용되는 [DOCX](/ko/word-processing/docx/) 파일 형식으로 저장하지만 DOCX를 [JPEG](/ko/image/jpeg/) 또는 [ PNG](/ko/image/png/). DOCX 파일을 JPEG 이미지로 프레젠테이션에 포함해야 하거나 이미지 파일만 허용하는 온라인 웹사이트에 문서를 업로드해야 하는 상황이 발생할 수 있습니다. 온라인에서 DOCX 파일을 JPEG로 변환하는 데 도움이 되는 특정 온라인 도구가 등장하는 곳입니다.
 
 
 ## DOCX를 JPEG로 변환 - 무료 데모

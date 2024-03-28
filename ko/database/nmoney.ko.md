@@ -36,7 +36,7 @@ Denaro는 처음에 [Nickvision](https://nickvision.org/)에서 제품으로 개
 
 ## Denaro 파일 형식 - 추가 정보
 
-Denaro 파일은 바이너리 파일 형식으로 디스크에 저장됩니다. 금융 데이터는 **.SQLITE3** 파일 형식의 데이터베이스 파일로 저장됩니다. SQLITE는 SQLite 소프트웨어로 생성된 경량 SQL 데이터베이스 파일입니다. 모든 기능을 갖추고 신뢰성이 높은 데이터베이스를 제공할 수 있는 독립형 데이터베이스 엔진을 제공합니다. SQLite 데이터베이스 파일을 사용하면 네트워크를 통해 이러한 파일을 간단히 교환함으로써 시스템 간에 풍부한 콘텐츠를 공유할 수 있습니다. C, [C#](/ko/programming/cs/), [C++](/ko/programming/cpp/), [Java](/ko/programming/java/), [PHP](/ko/programming/ 등의 프로그래밍 언어에 대한 SQLite 바인딩이 존재합니다. php/) 등이 있습니다.
+Denaro 파일은 바이너리 파일 형식으로 디스크에 저장됩니다. 금융 데이터는 **.SQLITE3** 파일 형식의 데이터베이스 파일로 저장됩니다. SQLITE는 SQLite 소프트웨어로 생성된 경량 SQL 데이터베이스 파일입니다. 모든 기능을 갖추고 신뢰성이 높은 데이터베이스를 제공할 수 있는 독립형 데이터베이스 엔진을 제공합니다. SQLite 데이터베이스 파일을 사용하면 네트워크를 통해 이러한 파일을 간단히 교환함으로써 시스템 간에 풍부한 콘텐츠를 공유할 수 있습니다. C, [C#](/ko/programming/cs/), [C++](/ko/programming/cpp/), [Java](/ko/programming/java/), [PHP](/ko/programming/php/) 등의 프로그래밍 언어에 대한 SQLite 바인딩이 존재합니다.  등이 있습니다.
 
 ## 참고자료
 

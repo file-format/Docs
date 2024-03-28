@@ -39,7 +39,7 @@
 
 "Raw CD 오디오 데이터"가 포함된 .cdr 파일을 WAV 또는 MP3와 같은 보다 일반적인 오디오 형식으로 변환하려면 특수 소프트웨어가 필요합니다. VideoLAN VLC 미디어 플레이어에서 .cdr 파일을 재생할 수 있는 경우 VLC를 사용하여 이를 다른 오디오 형식으로 변환할 수도 있습니다.
 
-- [.MP3](/ko/오디오/mp3/) - MP3 오디오
+- [.MP3](/ko/audio/mp3/) - MP3 오디오
 - [.FLAC](/ko/audio/flac/) - 무료 무손실 오디오 코덱
 - [.WAV](/ko/audio/wav/) - WAVE 오디오
 - [.OGG](/ko/audio/ogg/) - Ogg Vorbis 오디오

@@ -47,7 +47,7 @@ IT 파일을 열 수 있는 몇 가지 다른 옵션은 다음과 같습니다.
 
 OpenMPT 및 Schism Tracker는 IT 파일을 다른 파일 형식으로 변환하는 기능을 제공하는 프로그램의 예입니다. 예를 들어
 
-- [MP3](/ko/오디오/mp3/) - MP3 오디오 파일
+- [MP3](/ko/audio/mp3/) - MP3 오디오 파일
 - [OPUS](/ko/audio/opus/) - Opus 오디오 파일
 - [MID](/ko/audio/mid/) - MIDI 파일
 - [WAV](/ko/audio/wav/) - WAVE 오디오 파일

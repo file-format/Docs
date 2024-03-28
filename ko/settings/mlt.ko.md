@@ -55,12 +55,12 @@ Shotcut에서 지원하는 몇 가지 일반적인 파일 형식 목록은 다�
 
 
 
-- [MP4](/ko/비디오/mp4/)
+- [MP4](/ko/video/mp4/)
 - [MOV](/ko/video/mov/)
-- [AVI](/ko/비디오/avi/)
+- [AVI](/ko/video/avi/)
 - [MKV](/ko/video/mkv/)
 - [WebM](/ko/video/webm/)
-- [MPEG](/ko/비디오/mpeg/)
+- [MPEG](/ko/video/mpeg/)
 - [FLV](/ko/video/flv/)
 - [WMV](/ko/video/wmv/)
 - 그리고 더...
@@ -74,12 +74,12 @@ Shotcut에서 지원하는 몇 가지 일반적인 파일 형식 목록은 다�
 
 
 
-- [MP3](/ko/오디오/mp3/)
-- [WAV](/ko/오디오/wav/)
-- [AAC](/ko/오디오/aac/)
-- [FLAC](/ko/오디오/flac/)
-- [OGG](/ko/오디오/ogg/)
-- [M4A](/ko/오디오/m4a/)
+- [MP3](/ko/audio/mp3/)
+- [WAV](/ko/audio/wav/)
+- [AAC](/ko/audio/aac/)
+- [FLAC](/ko/audio/flac/)
+- [OGG](/ko/audio/ogg/)
+- [M4A](/ko/audio/m4a/)
 - 그리고 더...
 3. **이미지 형식:**
     
@@ -92,10 +92,10 @@ Shotcut에서 지원하는 몇 가지 일반적인 파일 형식 목록은 다�
 
 
 - [JPEG(JPG)](/ko/image/jpeg/)
-- [PNG](/ko/이미지/png/)
-- [BMP](/ko/이미지/bmp/)
-- [TIFF](/ko/이미지/tiff/)
-- [GIF](/ko/이미지/gif/)
+- [PNG](/ko/image/png/)
+- [BMP](/ko/image/bmp/)
+- [TIFF](/ko/image/tiff/)
+- [GIF](/ko/image/gif/)
 - 그리고 더...
 4. **추가 형식:**
     
@@ -123,7 +123,7 @@ Shotcut에서 지원하는 몇 가지 일반적인 파일 형식 목록은 다�
 
 - [MP4(H.264 코덱)](/ko/video/mp4/)
 - [WebM(VP9 코덱)](/ko/video/webm/)
-- [AVI](/ko/비디오/avi/)
+- [AVI](/ko/video/avi/)
 - [MOV](/ko/video/mov/)
 - [MKV](/ko/video/mkv/)
 - 그리고 더...
@@ -137,12 +137,12 @@ Shotcut에서 지원하는 몇 가지 일반적인 파일 형식 목록은 다�
 
 
 
-- [MP3](/ko/오디오/mp3/)
-- [WAV](/ko/오디오/wav/)
-- [AAC](/ko/오디오/aac/)
-- [FLAC](/ko/오디오/flac/)
-- [OGG](/ko/오디오/ogg/)
-- [M4A](/ko/오디오/m4a/)
+- [MP3](/ko/audio/mp3/)
+- [WAV](/ko/audio/wav/)
+- [AAC](/ko/audio/aac/)
+- [FLAC](/ko/audio/flac/)
+- [OGG](/ko/audio/ogg/)
+- [M4A](/ko/audio/m4a/)
 - 그리고 더...
 3. **이미지 형식:**
     
@@ -155,10 +155,10 @@ Shotcut에서 지원하는 몇 가지 일반적인 파일 형식 목록은 다�
 
 
 - [JPEG(JPG)](/ko/image/jpeg/)
-- [PNG](/ko/이미지/png/)
-- [BMP](/ko/이미지/bmp/)
-- [TIFF](/ko/이미지/tiff/)
-- [GIF](/ko/이미지/gif/)
+- [PNG](/ko/image/png/)
+- [BMP](/ko/image/bmp/)
+- [TIFF](/ko/image/tiff/)
+- [GIF](/ko/image/gif/)
 - 그리고 더...
 4. **사용자 정의 내보내기 설정:**
     

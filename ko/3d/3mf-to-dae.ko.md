@@ -20,9 +20,9 @@
 
 3MF라고 불리는 FilmBox는 원래 Kaydara가 MotionBuilder와의 호환성을 보장하기 위해 개발했습니다. 2006년에 Autodesk Inc.가 통제권을 인수하여 이를 다양한 소프트웨어 응용 프로그램 간의 원활한 3D 데이터 교환을 위한 중요한 표준으로 확립했습니다.
 
-Digital Asset Exchange 파일의 약자인 [DAE 파일](/ko/3d/DAE/)은 대화형 3D 응용 프로그램 간에 데이터를 공유하기 위해 특별히 생성된 형식으로 사용됩니다. 다양한 그래픽 소프트웨어 애플리케이션 간에 디지털 자산을 공유하기 위한 개방형 표준 역할을 하는 COLLADA(COLLAborative Design Activity) XML 스키마를 활용합니다.
+Digital Asset Exchange 파일의 약자인 [DAE 파일](/ko/3d/dae/)은 대화형 3D 응용 프로그램 간에 데이터를 공유하기 위해 특별히 생성된 형식으로 사용됩니다. 다양한 그래픽 소프트웨어 애플리케이션 간에 디지털 자산을 공유하기 위한 개방형 표준 역할을 하는 COLLADA(COLLAborative Design Activity) XML 스키마를 활용합니다.
 
-[3MF 파일](/ko/3d/3MF/)을 [DAE 형식](/ko/3d/DAE/)으로 변환하는 것은 사용자에게 자주 발생하는 요구 사항이며 이 작업을 위해 다양한 무료 온라인 도구를 사용할 수 있습니다. 3MF에서 DAE로의 변환 기능을 .NET, Java 또는 Python 애플리케이션에 통합하려는 소프트웨어 개발자라면 신뢰할 수 있는 솔루션으로 Aspose.3D API를 조사하는 것이 좋습니다.
+[3MF 파일](/ko/3d/3mf/)을 [DAE 형식](/ko/3d/dae/)으로 변환하는 것은 사용자에게 자주 발생하는 요구 사항이며 이 작업을 위해 다양한 무료 온라인 도구를 사용할 수 있습니다. 3MF에서 DAE로의 변환 기능을 .NET, Java 또는 Python 애플리케이션에 통합하려는 소프트웨어 개발자라면 신뢰할 수 있는 솔루션으로 Aspose.3D API를 조사하는 것이 좋습니다.
 
 ## 3MF를 DAE로 변환 - 무료 데모
 

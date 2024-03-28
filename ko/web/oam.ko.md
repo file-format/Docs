@@ -19,7 +19,7 @@
 
 ## .OAM 파일이란?
 
-.oam 파일은 Adobe Edge Animate Widget에서 내보낸 애니메이션 위젯 파일입니다. OAM 위젯 파일 형식으로 내보낸 애니메이션은 InDesign 문서([INDD 파일](/ko/page-description-언어/indd/), Dreamweaver 및 Muse와 같은 다른 Adobe 응용 프로그램에 삽입할 수 있습니다. OAM 파일은 쉽게 사용할 수 있는 배포 패키지와 같습니다. 이를 활용하기 위해 다른 Adobe 프로젝트에 삽입합니다. OAM 파일에는 애니메이션의 자산, 동작 및 액션스크립트 코드에 대한 정보가 포함되어 있습니다. Adobe Animate 프로젝트[.AN 파일](/ko/web/an/)을 게시하여 OAM 파일을 만들 수 있습니다. .
+.oam 파일은 Adobe Edge Animate Widget에서 내보낸 애니메이션 위젯 파일입니다. OAM 위젯 파일 형식으로 내보낸 애니메이션은 InDesign 문서([INDD 파일](/ko/page-description-language/indd/), Dreamweaver 및 Muse와 같은 다른 Adobe 응용 프로그램에 삽입할 수 있습니다. OAM 파일은 쉽게 사용할 수 있는 배포 패키지와 같습니다. 이를 활용하기 위해 다른 Adobe 프로젝트에 삽입합니다. OAM 파일에는 애니메이션의 자산, 동작 및 액션스크립트 코드에 대한 정보가 포함되어 있습니다. Adobe Animate 프로젝트[.AN 파일](/ko/web/an/)을 게시하여 OAM 파일을 만들 수 있습니다. .
 사용자는 Edge Animate 프로젝트(.AN 파일)에서 게시하여 OAM 파일을 만들 수 있습니다.
 
 ## OAM 파일 형식

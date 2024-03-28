@@ -19,7 +19,7 @@
 
 ## .MOBI 파일이란?
 
-MOBI 파일 형식은 가장 널리 사용되는 전자책 파일 형식 중 하나입니다. 이 형식은 이전 OEB(Open Ebook Format) 형식을 개선한 것으로 Mobipocket Reader의 독점 형식으로 사용되었습니다. [EPUB](/ko/ebook/epub/)와 마찬가지로 거의 모든 최신 전자책, 특히 대역폭이 낮은 모바일 장치에서 지원됩니다. 형식은 [Kindle 앱](https://www.amazon.com/kindle)과 같이 공개적으로 사용 가능한 소프트웨어 응용 프로그램을 사용하여 [PDF](/ko/pdf/), EPUB 및 기타 여러 형식과 같은 여러 다른 형식으로 변환할 수 있습니다. -dbs/fd/kcp). [Project Gutenberg](https://www.gutenberg.org/), [Feedbooks](http://www.feedbooks.com/), [Open Library]( https://openlibrary.org/).
+MOBI 파일 형식은 가장 널리 사용되는 전자책 파일 형식 중 하나입니다. 이 형식은 이전 OEB(Open Ebook Format) 형식을 개선한 것으로 Mobipocket Reader의 독점 형식으로 사용되었습니다. [EPUB](/ko/ebook/epub/)와 마찬가지로 거의 모든 최신 전자책, 특히 대역폭이 낮은 모바일 장치에서 지원됩니다. 형식은 [Kindle 앱](https://www.amazon.com/kindle)과 같이 공개적으로 사용 가능한 소프트웨어 응용 프로그램을 사용하여 [PDF](/ko/pdf/), EPUB 및 기타 여러 형식과 같은 여러 다른 형식으로 변환할 수 있습니다.. [Project Gutenberg](https://www.gutenberg.org/), [Feedbooks](http://www.feedbooks.com/), [Open Library](https://openlibrary.org/).
 
 ## MOBI 파일 형식의 간략한 역사
 

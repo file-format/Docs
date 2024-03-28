@@ -20,7 +20,7 @@
 
 Unity 파일은 3D 게임 엔진 **Unity**로 만든 3D 장면 파일입니다. 편집하는 동안 가상 세계를 만들기 위해 다른 장면과 함께 사용됩니다. 여기에는 개체, 환경, 장식, 카메라, 각도 정보, 조명 시나리오 및 장애물과 같은 3D 장면 요소가 포함됩니다.
 
-Unity 파일은 Unity Technologies Unity로 열 수 있습니다. Unity는 Unity [.fbx](/ko/3d/fbx/), [.dae](/ko/3d/dae/)(Collada), [.3ds](/ko/3d/3ds/), [.dxf](/ko/ cad/dxf/) 및 [.obj](/ko/3d/obj/) 파일.
+Unity 파일은 Unity Technologies Unity로 열 수 있습니다. Unity는 Unity [.fbx](/ko/3d/fbx/), [.dae](/ko/3d/dae/)(Collada), [.3ds](/ko/3d/3ds/), [.dxf](/ko/cad/dxf/) 및 [.obj](/ko/3d/obj/) 파일.
 
 ## UNITY 파일 형식
 

@@ -76,7 +76,7 @@ package com.example
 
 ## 참조 ##
 
-* [AS - Wikipedia 제공]( https://en.wikipedia.org/wiki/ActionScript)
+* [AS - Wikipedia 제공](https://en.wikipedia.org/wiki/ActionScript)
 
 
 

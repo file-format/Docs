@@ -27,7 +27,7 @@ GNM 파일은 WinZIP과 같은 표준 압축 해제 유틸리티로 추출할 �
 
 ## GNM 파일에서 지원되는 기능
 
-Gnumeric은 다양한 파일 형식을 지원하므로 기본 GNM 파일을 [CSV](/ko/spreadsheet/csv/), [XLSX](/ko/spreadsheet/xlsx/), Microsoft Works(.wks), [HTML](/ko/ web/html/), [LaTex](/ko/word-processing/latex/) 및 [Lotus 1-2-3](/ko/spreadsheet/123/).
+Gnumeric은 다양한 파일 형식을 지원하므로 기본 GNM 파일을 [CSV](/ko/spreadsheet/csv/), [XLSX](/ko/spreadsheet/xlsx/), Microsoft Works(.wks), [HTML](/ko/web/html/), [LaTex](/ko/word-processing/latex/) 및 [Lotus 1-2-3](/ko/spreadsheet/123/).
 
 ## Github의 Gnumeric
 

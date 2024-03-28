@@ -45,7 +45,7 @@ AEP 파일은 다음과 같은 다른 널리 사용되는 파일 형식으로 �
 * .DPX - 디지털 사진 교환
 * .EXR - OpenEXR 이미지
 * .M4A - MPEG-4 오디오
-* [.MP3](/ko/오디오/mp3/) - MP3 오디오
+* [.MP3](/ko/audio/mp3/) - MP3 오디오
 * [.WAV](/ko/audio/wav/) - WAVE 오디오
 * .AEPX - After Effects XML 프로젝트
 * .AET - 애프터 이펙트 템플릿

@@ -86,7 +86,7 @@ MOV 파일을 다른 인기 있는 비디오 파일 형식으로 변환하는 �
 
 VideoLAN VLC 미디어 플레이어 및 Eltima Elmedia Player를 포함한 여러 미디어 플레이어 및 비디오 편집기는 MOV 파일을 다른 형식으로 변환할 수 있습니다. 이 소프트웨어는 MOV 파일을 다음 비디오 형식으로 변환할 수 있습니다.
 
-* MPEG-4 비디오 - [MP4](/ko/비디오/mp4/)
+* MPEG-4 비디오 - [MP4](/ko/video/mp4/)
 * WebM 동영상 - [WEBM](/ko/video/webm/)
 * 비디오 전송 스트림 - [TS](/ko/video/ts/)
 * 고급 시스템 형식 - [ASF](/ko/video/ts/)

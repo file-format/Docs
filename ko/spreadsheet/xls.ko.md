@@ -19,7 +19,7 @@
 
 ## .XLS 파일이란?
 
-확장자가 XLS인 파일은 Excel 이진 파일 형식을 나타냅니다. 이러한 파일은 Microsoft Excel뿐만 아니라 OpenOffice Calc 또는 Apple Numbers와 같은 기타 유사한 스프레드시트 프로그램으로 만들 수 있습니다. Excel에서 저장한 파일을 통합 문서라고 하며 각 통합 문서에는 하나 이상의 워크시트가 있을 수 있습니다. 데이터는 워크시트의 테이블 형식으로 사용자에게 저장 및 표시되며 숫자 값, 텍스트 데이터, 수식, 외부 데이터 연결, 이미지 및 차트에 걸쳐 있을 수 있습니다. Microsoft Excel과 같은 응용 프로그램을 사용하면 통합 문서 데이터를 [PDF](/ko/pdf/), [CSV](/ko/spreadsheet/csv/), [XLSX](/ko/spreadsheet/xlsx/), [TXT](/ko/ word-processing/txt/), [HTML](/ko/web/html/), [XPS](/ko/page-description-language/xps/) 및 기타 여러 가지가 있습니다. XLS 파일 형식은 Microsoft Excel 2007 릴리스와 함께 보다 개방적이고 구조화된 형식인 XLSX로 대체되었습니다. 최신 버전은 여전히 XLS 파일 생성 및 읽기에 대한 지원을 제공하지만 XLSX가 현재 가장 먼저 사용되는 선택입니다.
+확장자가 XLS인 파일은 Excel 이진 파일 형식을 나타냅니다. 이러한 파일은 Microsoft Excel뿐만 아니라 OpenOffice Calc 또는 Apple Numbers와 같은 기타 유사한 스프레드시트 프로그램으로 만들 수 있습니다. Excel에서 저장한 파일을 통합 문서라고 하며 각 통합 문서에는 하나 이상의 워크시트가 있을 수 있습니다. 데이터는 워크시트의 테이블 형식으로 사용자에게 저장 및 표시되며 숫자 값, 텍스트 데이터, 수식, 외부 데이터 연결, 이미지 및 차트에 걸쳐 있을 수 있습니다. Microsoft Excel과 같은 응용 프로그램을 사용하면 통합 문서 데이터를 [PDF](/ko/pdf/), [CSV](/ko/spreadsheet/csv/), [XLSX](/ko/spreadsheet/xlsx/), [TXT](/ko/word-processing/txt/), [HTML](/ko/web/html/), [XPS](/ko/page-description-language/xps/) 및 기타 여러 가지가 있습니다. XLS 파일 형식은 Microsoft Excel 2007 릴리스와 함께 보다 개방적이고 구조화된 형식인 XLSX로 대체되었습니다. 최신 버전은 여전히 XLS 파일 생성 및 읽기에 대한 지원을 제공하지만 XLSX가 현재 가장 먼저 사용되는 선택입니다.
 
 ## 약력
 

@@ -12,7 +12,7 @@ menu:
   docs:
     parent: "audio"
 별칭:
-- /비디오/마트로스카/
+- /video/마트로스카/
 lastmod: 2020-23-11
 ---
 

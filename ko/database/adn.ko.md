@@ -19,7 +19,7 @@
 
 ## .ADN 파일이란?
 
-확장자가 .adn인 파일은 미리 저장된 설정으로 Access 프로젝트 파일을 만드는 데 사용되는 Microsoft Access 빈 템플릿 파일입니다. Microsoft Access 프로젝트 파일은 ADP 파일로 저장되며 데이터베이스 연결 및 프로젝트 시작 설정과 같은 정보를 포함합니다. ADN 파일은 Microsoft Access 2007 및 2010 버전용입니다. Microsoft Access는 [MDB](/ko/database/mdb/), [ACCDB](/ko/database/accdb/), [ACCDC](/ko/database/accdc/), [ACCDE](/ko/database/accde/와 같은 다른 파일 형식을 지원합니다. ), 그리고 이 ADN 파일 외에도 더 많은 것들이 있습니다. ADN 파일은 Office 365 및 Microsoft Access를 사용하여 열 수 있습니다.
+확장자가 .adn인 파일은 미리 저장된 설정으로 Access 프로젝트 파일을 만드는 데 사용되는 Microsoft Access 빈 템플릿 파일입니다. Microsoft Access 프로젝트 파일은 ADP 파일로 저장되며 데이터베이스 연결 및 프로젝트 시작 설정과 같은 정보를 포함합니다. ADN 파일은 Microsoft Access 2007 및 2010 버전용입니다. Microsoft Access는 [MDB](/ko/database/mdb/), [ACCDB](/ko/database/accdb/), [ACCDC](/ko/database/accdc/), [ACCDE](/ko/database/accde/) 와 같은 다른 파일 형식을 지원합니다. , 그리고 이 ADN 파일 외에도 더 많은 것들이 있습니다. ADN 파일은 Office 365 및 Microsoft Access를 사용하여 열 수 있습니다.
 
 ## ADN 파일 형식 - 추가 정보
 

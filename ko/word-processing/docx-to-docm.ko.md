@@ -43,10 +43,10 @@ DOCM은 매크로 실행 기능이 있는 Microsoft Word 2007 문서 파일 형�
 
 [Aspose.Words](https://products.aspose.com/words/)는 모든 개발자가 [DOCX](/ko/word-processing/docx/)를 [DOCM](/ko/word-processing)으로 변환할 수 있는 API 세트입니다. /docm/) 간단한 코드 라인을 사용하여 형식을 지정합니다. 다음을 포함한 다양한 프로그래밍 언어에서 사용할 수 있습니다.
 
-* [C#](/ko/프로그래밍/cs/)
+* [C#](/ko/programming/cs/)
 * [자바](/ko/programming/java/)
 * [파이썬](/ko/programming/py/)
-* [C++](/ko/프로그래밍/cpp/).
+* [C++](/ko/programming/cpp/).
 
 DOCM 외에도 Aspose.Words API를 사용하면 DOCX 파일을 다른 널리 사용되는 파일 형식으로 변환할 수 있습니다.
 

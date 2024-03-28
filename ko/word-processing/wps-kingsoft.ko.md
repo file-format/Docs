@@ -71,10 +71,10 @@ Kingsoft WPS Office 내에서 Kingsoft Writer를 사용하여 WPS 파일을 열�
 
 Kingsoft Writer는 WPS 파일을 다음 형식으로 변환할 수 있습니다:
 
-- [DOC](/ko/워드 프로세싱/doc/)
-- [DOCX](/ko/워드 프로세싱/docx/)
-- [RTF](/ko/워드 프로세싱/rtf/)
-- [TXT](/ko/워드 프로세싱/txt/)
+- [DOC](/ko/word-processing/doc/)
+- [DOCX](/ko/word-processing/docx/)
+- [RTF](/ko/word-processing/rtf/)
+- [TXT](/ko/word-processing/txt/)
 - [HTML](/ko/웹/html/)
 - [PDF](/ko/pdf/)
 

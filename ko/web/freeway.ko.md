@@ -22,7 +22,7 @@ FREEWAY 파일은 웹 사이트를 만들기 위한 MacOS의 WYSIWYG 앱인 Free
 
 ## FREEWAY 파일 형식
 
-FREEWAY 파일은 독점 파일 형식으로 저장되며 내부 파일 형식 세부 정보는 공개적으로 사용할 수 없습니다. 사이트에서 사용하는 실제 리소스가 없지만 대신 사이트 레이아웃과 다른 속성에 대한 링크가 있습니다. 실제 웹사이트 리소스와 페이지는 FREEWAY 파일과 같은 폴더에 있는 "Media" 및 "Site Folder" 폴더에 저장됩니다. FREEWAY 문서는 [HTML](/ko/web/html/), [JPEG](/ko/image/jpeg/), [PNG](/ko/image/png/), [BMP](/ko/ image/bmp/) 및 [GIF](/ko/image/gif/).
+FREEWAY 파일은 독점 파일 형식으로 저장되며 내부 파일 형식 세부 정보는 공개적으로 사용할 수 없습니다. 사이트에서 사용하는 실제 리소스가 없지만 대신 사이트 레이아웃과 다른 속성에 대한 링크가 있습니다. 실제 웹사이트 리소스와 페이지는 FREEWAY 파일과 같은 폴더에 있는 "Media" 및 "Site Folder" 폴더에 저장됩니다. FREEWAY 문서는 [HTML](/ko/web/html/), [JPEG](/ko/image/jpeg/), [PNG](/ko/image/png/), [BMP](/ko/image/bmp/) 및 [GIF](/ko/image/gif/).
 
 ## 참고문헌
 

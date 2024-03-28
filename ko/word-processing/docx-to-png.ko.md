@@ -35,7 +35,7 @@ Aspose.Words 앱은 Word 문서에서 보기, 변환, 편집, 분할, 압축, �
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-Aspose.Words 앱은 API 모음인 Aspose.Words로 구동됩니다. 개발자는 단 몇 줄의 코드만으로 [DOCX](/ko/word-processing/docx/)를 [PNG](/ko/image/png/) 형식으로 변환할 수 있습니다. 암호. [C#](/ko/programming/cs/), [Java](/ko/programming/java/), [Python](/ko/programming/py/) 및 [C++](/ko/programming/cpp/를 포함한 다양한 프로그래밍 언어에서 사용할 수 있습니다. ).
+Aspose.Words 앱은 API 모음인 Aspose.Words로 구동됩니다. 개발자는 단 몇 줄의 코드만으로 [DOCX](/ko/word-processing/docx/)를 [PNG](/ko/image/png/) 형식으로 변환할 수 있습니다. 암호. [C#](/ko/programming/cs/), [Java](/ko/programming/java/), [Python](/ko/programming/py/) 및 [C++](/ko/programming/cpp/). 를 포함한 다양한 프로그래밍 언어에서 사용할 수 있습니다. 
 
 ## .NET, Java, C++ 및 Python에서 DOCX를 PNG로 변환
 

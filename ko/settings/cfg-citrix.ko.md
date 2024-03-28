@@ -242,7 +242,7 @@ Citrix 서버 및 관련 Citrix 기술은 애플리케이션, 데스크탑 및 �
 
 
 
-- **.vhd, .vhdx**: Citrix XenDesktop 및 XenApp은 가상 하드 디스크[VHD](/ko/disc-and-media/vhd/) 또는 [VHDX](/ko/disc-and-media를 사용하여 가상 데스크톱 및 애플리케이션을 제공할 수 있습니다. /vhdx/) 파일입니다.
+- **.vhd, .vhdx**: Citrix XenDesktop 및 XenApp은 가상 하드 디스크[VHD](/ko/disc-and-media/vhd/) 또는 [VHDX](/ko/disc-and-media/vhdx/) 를 사용하여 가상 데스크톱 및 애플리케이션을 제공할 수 있습니다. 파일입니다.
 6. **리소스 게시 메타데이터**:
     
 

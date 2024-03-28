@@ -19,7 +19,7 @@
 
 ## .CAB 파일이란? ##
 
-확장자가 .cab인 파일은 시스템 파일 범주에 속하는 Windows 캐비닛 파일에 속합니다. [LZX](/ko/compression/lzx/), Quantum, [ZIP](/ko/compression/zip/ 등) 압축 데이터 알고리즘을 지원하는 Microsoft Windows 버전에서 아카이브 파일 형식으로 저장되는 파일입니다. ). 이 파일은 사용자 또는 개발자가 소프트웨어 설치 데이터 및 파일을 포함하고 공유하려고 할 때 매우 중요합니다. 이러한 파일에 포함된 무손실 데이터 압축 및 디지털 인증 기능으로 인해 이 파일은 이러한 파일을 저장하고 공유하는 데 적합합니다. Device Installer, SetUp API 및 AdvPak과 같은 다양한 Microsoft 설치 프로그램을 지원합니다.
+확장자가 .cab인 파일은 시스템 파일 범주에 속하는 Windows 캐비닛 파일에 속합니다. [LZX](/ko/compression/lzx/), Quantum, [ZIP](/ko/compression/zip/) 등 압축 데이터 알고리즘을 지원하는 Microsoft Windows 버전에서 아카이브 파일 형식으로 저장되는 파일입니다.  이 파일은 사용자 또는 개발자가 소프트웨어 설치 데이터 및 파일을 포함하고 공유하려고 할 때 매우 중요합니다. 이러한 파일에 포함된 무손실 데이터 압축 및 디지털 인증 기능으로 인해 이 파일은 이러한 파일을 저장하고 공유하는 데 적합합니다. Device Installer, SetUp API 및 AdvPak과 같은 다양한 Microsoft 설치 프로그램을 지원합니다.
 
 ## 간략한 역사 ##
 

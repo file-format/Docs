@@ -79,7 +79,7 @@ Mimio Notebook의 .ink 파일의 몇 가지 주요 특징은 다음과 같습니
 
 ## INK 파일 공유
 
-교사가 Mimio Notebook에 액세스할 수 없는 학생이나 다른 교사와 .ink 파일을 공유해야 하는 경우 .ink 파일을 [PDF](/ko/pdf/), [HTML](/ko/web 등 보다 널리 호환되는 형식으로 내보낼 수 있습니다. /html/) 또는 이미지 파일([.JPEG](/ko/image/jpeg/), [.PNG](/ko/image/png/), [.GIF](/ko/image/gif/), [.TIFF](/ko/ 이미지/tiff/)); 이러한 방식으로 Mimio 노트북에 액세스하지 않고도 콘텐츠를 다양한 장치 및 소프트웨어 애플리케이션에서 쉽게 공유하고 볼 수 있습니다.
+교사가 Mimio Notebook에 액세스할 수 없는 학생이나 다른 교사와 .ink 파일을 공유해야 하는 경우 .ink 파일을 [PDF](/ko/pdf/), [HTML](/ko/web/html/) 등 보다 널리 호환되는 형식으로 내보낼 수 있습니다.  또는 이미지 파일([.JPEG](/ko/image/jpeg/), [.PNG](/ko/image/png/), [.GIF](/ko/image/gif/), [.TIFF](/ko/image/tiff/)); 이러한 방식으로 Mimio 노트북에 액세스하지 않고도 콘텐츠를 다양한 장치 및 소프트웨어 애플리케이션에서 쉽게 공유하고 볼 수 있습니다.
 
 ## 미미오 스튜디오
 

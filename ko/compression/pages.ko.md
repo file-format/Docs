@@ -41,8 +41,8 @@ Apple PAGES 문서는 여러 파일 형식으로 변환할 수 있습니다. **�
 * Microsoft Word [DOC](/ko/word-processing/doc/) 및 [DOCX](/ko/word-processing/docx/)
 * [PDF](/ko/pdf/)
 * [EPUB](/ko/ebook/epub/)
-* [RTF](/ko/워드 프로세싱/rtf/)
-* [TXT](/ko/워드 프로세싱/txt/)
+* [RTF](/ko/word-processing/rtf/)
+* [TXT](/ko/word-processing/txt/)
 
 ## 참고문헌
 

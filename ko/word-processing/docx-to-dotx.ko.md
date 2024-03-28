@@ -41,7 +41,7 @@ Aspose.Words 변환용 앱은 무료로 사용할 수 있으며 시작하기 위
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-[Aspose.Words](https://products.aspose.com/words/)는 모든 개발자가 [DOCX](/ko/word-processing/docx/)를 [DOTX](/ko/word-processing)로 변환할 수 있는 API 세트입니다. /dotx/) 간단한 코드 라인을 사용하는 형식입니다. [C#](/ko/programming/cs/), [Java](/ko/programming/java/), [Python](/ko/programming/py/) 및 [C++](/ko/programming/cpp/를 포함한 다양한 프로그래밍 언어에서 사용할 수 있습니다. ). DOTX 외에도 Aspose.Words API를 사용하면 DOCX 파일을 다른 널리 사용되는 파일 형식으로 변환할 수 있습니다.
+[Aspose.Words](https://products.aspose.com/words/)는 모든 개발자가 [DOCX](/ko/word-processing/docx/)를 [DOTX](/ko/word-processing/dotx/) 로 변환할 수 있는 API 세트입니다. 간단한 코드 라인을 사용하는 형식입니다. [C#](/ko/programming/cs/), [Java](/ko/programming/java/), [Python](/ko/programming/py/) 및 [C++](/ko/programming/cpp/). 를 포함한 다양한 프로그래밍 언어에서 사용할 수 있습니다. DOTX 외에도 Aspose.Words API를 사용하면 DOCX 파일을 다른 널리 사용되는 파일 형식으로 변환할 수 있습니다.
 
 ## 참고자료
 
