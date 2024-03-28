@@ -22,7 +22,7 @@ Un fișier FREEWAY este un fișier cu informații despre setări creat și utili
 
 ## Format de fișier FREEWAY
 
-Fișierele FREEWAY sunt salvate în format de fișier proprietar, iar detaliile lor interne ale formatului de fișier nu sunt disponibile public. Nu are resurse reale utilizate de un site, ci în schimb aspectul site-ului și link-uri către diferite proprietăți. Resursele și paginile reale ale site-ului web sunt salvate în folderele „Media” și „Site Folder” care se află în același folder cu fișierul FREEWAY. Documentul FREEWAY poate fi exportat într-o varietate de formate, inclusiv [HTML](/ro/web/html/), [JPEG](/ro/image/jpeg/), [PNG](/ro/image/png/), [BMP](/ro/ imagine/bmp/) și [GIF](/ro/image/gif/).
+Fișierele FREEWAY sunt salvate în format de fișier proprietar, iar detaliile lor interne ale formatului de fișier nu sunt disponibile public. Nu are resurse reale utilizate de un site, ci în schimb aspectul site-ului și link-uri către diferite proprietăți. Resursele și paginile reale ale site-ului web sunt salvate în folderele „Media” și „Site Folder” care se află în același folder cu fișierul FREEWAY. Documentul FREEWAY poate fi exportat într-o varietate de formate, inclusiv [HTML](/ro/web/html/), [JPEG](/ro/image/jpeg/), [PNG](/ro/image/png/), [BMP](/ro/image/bmp/) și [GIF](/ro/image/gif/).
 
 ## Referințe
 

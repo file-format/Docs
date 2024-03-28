@@ -18,7 +18,7 @@
 
 ## Ce este fișierul SLDPRT?
 
-Un fișier SLDPRT este un fișier CAD generat de software-ul SolidWorks. Este un format de fișier 3D care conține informațiile 3D ale unui obiect sau „parte”. Mai multe fișiere SLDPRT cu piese compatibile pot fi combinate pentru a crea un singur fișier de asamblare SLDASM. Fișierele SLDPRT pot fi deschise utilizând [Software-ul SmartCAM CAD/CAM](https://www.solidworks.com/partner-product/smartcam-cadcam-software) de către SolidWorks. Convertoarele de aplicații SolidWorks oferă instrumente ușor de convertit pentru conversia fișierelor de desen SLDPRT în formate de date neutre, cum ar fi [TIFF](/ro/image/tiff/), [PDF](/ro/pdf/), SAU [PDF/A](/ro/pdf/ A/).
+Un fișier SLDPRT este un fișier CAD generat de software-ul SolidWorks. Este un format de fișier 3D care conține informațiile 3D ale unui obiect sau „parte”. Mai multe fișiere SLDPRT cu piese compatibile pot fi combinate pentru a crea un singur fișier de asamblare SLDASM. Fișierele SLDPRT pot fi deschise utilizând [Software-ul SmartCAM CAD/CAM](https://www.solidworks.com/partner-product/smartcam-cadcam-software) de către SolidWorks. Convertoarele de aplicații SolidWorks oferă instrumente ușor de convertit pentru conversia fișierelor de desen SLDPRT în formate de date neutre, cum ar fi [TIFF](/ro/image/tiff/), [PDF](/ro/pdf/), SAU [PDF/A](/ro/pdf/a/).
 
 ## Format de fișier SLDPRT
 

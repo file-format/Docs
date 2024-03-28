@@ -71,10 +71,10 @@ Pentru a deschide și edita fișiere WPS utilizând Kingsoft Writer în Kingsoft
 
 Kingsoft Writer poate converti fișierele WPS în următoarele formate:
 
-- [DOC](/ro/procesare de text/doc/)
-- [DOCX](/ro/procesare de cuvinte/docx/)
-- [RTF](/ro/procesare de cuvinte/rtf/)
-- [TXT](/ro/procesare de cuvinte/txt/)
+- [DOC](/ro/word-processing/doc/)
+- [DOCX](/ro/word-processing/docx/)
+- [RTF](/ro/word-processing/rtf/)
+- [TXT](/ro/word-processing/txt/)
 - [HTML](/ro/web/html/)
 - [PDF](/ro/pdf/)
 
@@ -82,7 +82,7 @@ Kingsoft Writer poate converti fișierele WPS în următoarele formate:
 
 Iată și alte tipuri de fișiere care folosesc extensia de fișier **.wps**.
 
-- [WPS - Document Procesor de texte Microsoft Works](/ro/procesare de text/wps/)
+- [WPS - Document Procesor de texte Microsoft Works](/ro/word-processing/wps/)
 - [WPS - SDL Translator's Workbench Project File](/ro/settings/wps/)
 
 ## Referințe

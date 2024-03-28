@@ -20,7 +20,7 @@
 
 FilmBox, cunoscut sub numele de 3MF, este un format de fișier 3D creat inițial de Kaydara pentru compatibilitate cu MotionBuilder. În 2006, Autodesk Inc. a preluat controlul, făcându-l un standard vital pentru schimbul fluid de date 3D între diverse aplicații software. Un fișier cu extensia .3ds este un format folosit de software-ul Autodesk 3D Studio, datând din anii 1990. Conține date pentru scene 3D și este utilizat pe scară largă pentru importarea și exportul de date 3D.
 
-Transformarea [fișierelor 3MF](/ro/3d/3MF/) în [format 3DS](/ro/3d/3ds/) este o cerință frecvent întâlnită de utilizatori, iar diferite instrumente online gratuite sunt disponibile pentru această sarcină. Dacă sunteți un dezvoltator de software care dorește să integreze funcționalitatea de conversie 3MF în 3DS în aplicația dvs. .NET, Java sau Python, vă recomandăm să investigați API-urile Aspose.3D ca soluție de încredere.
+Transformarea [fișierelor 3MF](/ro/3d/3mf/) în [format 3DS](/ro/3d/3ds/) este o cerință frecvent întâlnită de utilizatori, iar diferite instrumente online gratuite sunt disponibile pentru această sarcină. Dacă sunteți un dezvoltator de software care dorește să integreze funcționalitatea de conversie 3MF în 3DS în aplicația dvs. .NET, Java sau Python, vă recomandăm să investigați API-urile Aspose.3D ca soluție de încredere.
 
 ## Conversie 3MF în 3DS - Demo gratuită
 

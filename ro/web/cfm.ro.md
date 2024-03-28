@@ -19,7 +19,7 @@
 
 ## Ce este un fișier CFM? ##
 
-Paginile web și fișierele utilizate în **Cold Fusion Markup Language** conțin extensii ale CFM și sunt denumite pagini web CFM. Acest limbaj de scripting pentru dezvoltare web rulează pe Google App Engine, .NET framework și JVM. Poate conține un limbaj de programare sau un cod al limbajului. Când oricare dintre paginile sale este accesată de utilizator, serverul web al ColdFusion o execută. CFScript (care este aproape de JavaScript) sau etichete pot fi folosite pentru a scrie CFML. CFML poate fi folosit pentru a genera alte limbaje în afară de [HTML](/ro/web/html/), cum ar fi [CSS](/ro/web/css/), [JavaScript](/ro/web/js/), [XML](/ro/web/ xml/), și multe altele.
+Paginile web și fișierele utilizate în **Cold Fusion Markup Language** conțin extensii ale CFM și sunt denumite pagini web CFM. Acest limbaj de scripting pentru dezvoltare web rulează pe Google App Engine, .NET framework și JVM. Poate conține un limbaj de programare sau un cod al limbajului. Când oricare dintre paginile sale este accesată de utilizator, serverul web al ColdFusion o execută. CFScript (care este aproape de JavaScript) sau etichete pot fi folosite pentru a scrie CFML. CFML poate fi folosit pentru a genera alte limbaje în afară de [HTML](/ro/web/html/), cum ar fi [CSS](/ro/web/css/), [JavaScript](/ro/web/js/), [XML](/ro/web/xml/), și multe altele.
 
 Utilizarea acestui limbaj și a etichetelor pe care le acceptă este în principal în dezvoltarea de aplicații web dinamice. Fișierele pot fi rulate direct în browser online, dacă apare vreo eroare în timpul utilizării offline a platformei de dezvoltare a aplicației.
  

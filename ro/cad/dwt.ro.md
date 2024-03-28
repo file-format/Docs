@@ -19,7 +19,7 @@
 
 ## Ce este un fișier DWT?
 
-Un fișier DWT este un fișier șablon de desen [AutoCAD](https://www.autodesk.com/) care este utilizat ca start pentru crearea de desene care pot fi salvate ca fișiere [DWG](/ro/cad/dwg/). Astfel de fișiere șablon oferă setări inițiale, cum ar fi tipurile de unități, precizia necesară, cartușe, nume de straturi, tipuri de linii și alte informații similare pentru conversia laterală în fișiere de desen adecvate. Atât AutoCAD, cât și CoreCAD pot fi utilizate pentru a citi fișierele șablon și a le utiliza în continuare. Cu cuvinte simple, un DWT este un DWG cu atribute predefinite numai pentru citire, în același mod în care un fișier MSWord [DOT](/ro/procesare de cuvinte/punct/) este pentru un [DOC](/ro/procesare de cuvinte/doc/) fișier.
+Un fișier DWT este un fișier șablon de desen [AutoCAD](https://www.autodesk.com/) care este utilizat ca start pentru crearea de desene care pot fi salvate ca fișiere [DWG](/ro/cad/dwg/). Astfel de fișiere șablon oferă setări inițiale, cum ar fi tipurile de unități, precizia necesară, cartușe, nume de straturi, tipuri de linii și alte informații similare pentru conversia laterală în fișiere de desen adecvate. Atât AutoCAD, cât și CoreCAD pot fi utilizate pentru a citi fișierele șablon și a le utiliza în continuare. Cu cuvinte simple, un DWT este un DWG cu atribute predefinite numai pentru citire, în același mod în care un fișier MSWord [DOT](/ro/word-processing/dot/) este pentru un [DOC](/ro/word-processing/doc/) fișier.
 
 ## Format de fișier DWT
 

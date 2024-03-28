@@ -242,7 +242,7 @@ Serverele Citrix și tehnologiile Citrix aferente acceptă mai multe formate de 
 
 
 
-- **.vhd, .vhdx**: Citrix XenDesktop și XenApp pot furniza desktop-uri și aplicații virtuale folosind hard disk virtual [VHD](/ro/disc-and-media/vhd/) sau [VHDX](/ro/disc-and-media /vhdx/).
+- **.vhd, .vhdx**: Citrix XenDesktop și XenApp pot furniza desktop-uri și aplicații virtuale folosind hard disk virtual [VHD](/ro/disc-and-media/vhd/) sau [VHDX](/ro/disc-and-media/vhdx/).
 6. **Metadate de publicare a resurselor**:
     
 

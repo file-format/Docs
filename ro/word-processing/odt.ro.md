@@ -19,7 +19,7 @@
 
 ## Ce este un fișier ODT?
 
-Fișierele ODT sunt tipuri de documente create cu aplicații de procesare de text care se bazează pe formatul OpenDocument Text File. Acestea sunt create cu aplicații de procesor de text, cum ar fi OpenOffice Writer gratuit și pot conține conținut precum text, imagini, obiecte și stiluri. Fișierul ODT este pentru procesorul de text Writer ceea ce este [DOCX](/ro/procesare de text/docx/) pentru Microsoft Word. Mai multe aplicații, inclusiv Google Docs și procesorul de text de la Google, inclus în Google Drive, pot deschide fișierele ODT pentru editare. De asemenea, Microsoft Word poate deschide fișiere ODT și le poate salva în alte formate, cum ar fi [DOC](/ro/word-processing/doc/) și DOCX.
+Fișierele ODT sunt tipuri de documente create cu aplicații de procesare de text care se bazează pe formatul OpenDocument Text File. Acestea sunt create cu aplicații de procesor de text, cum ar fi OpenOffice Writer gratuit și pot conține conținut precum text, imagini, obiecte și stiluri. Fișierul ODT este pentru procesorul de text Writer ceea ce este [DOCX](/ro/word-processing/docx/) pentru Microsoft Word. Mai multe aplicații, inclusiv Google Docs și procesorul de text de la Google, inclus în Google Drive, pot deschide fișierele ODT pentru editare. De asemenea, Microsoft Word poate deschide fișiere ODT și le poate salva în alte formate, cum ar fi [DOC](/ro/word-processing/doc/) și DOCX.
 
 ## Scurt istoric ##
 

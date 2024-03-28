@@ -27,7 +27,7 @@ Fișierele GNM sunt fișiere XML comprimate care pot fi extrase cu utilitare sta
 
 ## Caracteristici acceptate în fișierele GNM
 
-Deoarece Gnumeric acceptă mai multe formate de fișiere diferite, poate converti fișierele GNM native în [CSV](/ro/spreadsheet/csv/), [XLSX](/ro/spreadsheet/xlsx/), Microsoft Works (.wks), [HTML](/ro/ web/html/), [LaTex](/ro/word-processing/latex/) și [Lotus 1-2-3](/ro/spreadsheet/123/).
+Deoarece Gnumeric acceptă mai multe formate de fișiere diferite, poate converti fișierele GNM native în [CSV](/ro/spreadsheet/csv/), [XLSX](/ro/spreadsheet/xlsx/), Microsoft Works (.wks), [HTML](/ro/web/html/), [LaTex](/ro/word-processing/latex/) și [Lotus 1-2-3](/ro/spreadsheet/123/).
 
 ## Gnumeric pe Github
 

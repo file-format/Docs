@@ -19,7 +19,7 @@
 
 ## Ce este un fișier AZW3?
 
-AZW3, cunoscut și ca Kindle Format 8 (**KF8**), este versiunea modificată a formatului de fișier digital pentru cărți electronice [AZW](/ro/ebook/azw/) dezvoltat pentru dispozitivele Amazon Kindle. Formatul este o îmbunătățire a fișierelor AZW mai vechi și este utilizat pe dispozitivele Kindle Fire numai cu compatibilitate cu versiunea anterioară pentru formatul de fișier strămoș, adică [MOBI](/ro/ebook/mobi/) și AZW. Amazon a introdus formatul KFX (KF versiunea 10) după KF8, care este utilizat pe cele mai recente dispozitive Kindle. Fișierele AZW3 au tip media internet application/vnd.amazon.mobi8-ebook. Fișierele AZW3 pot fi convertite într-un număr de alte formate de fișiere, cum ar fi [PDF](/ro/pdf/), [EPUB](/ro/ebook/epub/), [AZW](/ro/ebook/azw/), [DOCX](/ro/ word-processing/docx/) și [RTF](/ro/word-processing/rtf/).
+AZW3, cunoscut și ca Kindle Format 8 (**KF8**), este versiunea modificată a formatului de fișier digital pentru cărți electronice [AZW](/ro/ebook/azw/) dezvoltat pentru dispozitivele Amazon Kindle. Formatul este o îmbunătățire a fișierelor AZW mai vechi și este utilizat pe dispozitivele Kindle Fire numai cu compatibilitate cu versiunea anterioară pentru formatul de fișier strămoș, adică [MOBI](/ro/ebook/mobi/) și AZW. Amazon a introdus formatul KFX (KF versiunea 10) după KF8, care este utilizat pe cele mai recente dispozitive Kindle. Fișierele AZW3 au tip media internet application/vnd.amazon.mobi8-ebook. Fișierele AZW3 pot fi convertite într-un număr de alte formate de fișiere, cum ar fi [PDF](/ro/pdf/), [EPUB](/ro/ebook/epub/), [AZW](/ro/ebook/azw/), [DOCX](/ro/word-processing/docx/) și [RTF](/ro/word-processing/rtf/).
 
 ## Format de fișier AZ3/KF8 ##
 

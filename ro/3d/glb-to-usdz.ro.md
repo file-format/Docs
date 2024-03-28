@@ -20,7 +20,7 @@
 
 GLB este un format de fișier binar 3D popular care reprezintă modele 3D în formatul GL Transmission, adică ([glTF](/ro/3d/gltf/)). Un fișier .usdz este în esență o arhivă ZIP necomprimată și necriptată, concepută pentru formatul de fișier [USD](/ro/3d/usd/) (Descrierea scenei universale). Această arhivă încapsulează convenabil și servește ca proxy pentru diferite fișiere în formate alternative (de exemplu, texturi și animații) care sunt neUSDZed în ea. Aceste fișiere pot fi utilizate fără probleme de runtime USD, eliminând necesitatea oricărui proces de despachetare.
 
-Există multe aplicații disponibile online care pot fi utilizate pentru conversia [GLB](/ro/3d/glb/) în [USDZ](/ro/cad/usdz/) GRATUIT. Dacă sunteți un dezvoltator de aplicații care ar dori să adăugați funcționalitatea GLB la USDZ în .NET sau Java, puteți utiliza API-ul Aspose.3D pentru a realiza acest lucru.
+Există multe aplicații disponibile online care pot fi utilizate pentru conversia [GLB](/ro/3d/glb/) în [USDZ](/ro/3d/usdz/) GRATUIT. Dacă sunteți un dezvoltator de aplicații care ar dori să adăugați funcționalitatea GLB la USDZ în .NET sau Java, puteți utiliza API-ul Aspose.3D pentru a realiza acest lucru.
 
 ## Conversie GLB în USDZ - Demo gratuită
 

@@ -71,8 +71,8 @@ Programele care deschid fișiere WPS includ
 
 Iată și alte tipuri de fișiere care folosesc extensia de fișier **.wps**.
 
-- [WPS - Document Procesor de texte Microsoft Works](/ro/procesare de text/wps/)
-- [WPS - Documentul Kingsoft Writer](/ro/procesare de cuvinte/wps-kingsoft/)
+- [WPS - Document Procesor de texte Microsoft Works](/ro/word-processing/wps/)
+- [WPS - Documentul Kingsoft Writer](/ro/word-processing/wps-kingsoft/)
 
 ## Referințe
 * [Trados Studio](https://en.wikipedia.org/wiki/Trados_Studio)

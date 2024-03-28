@@ -41,8 +41,8 @@ Documentele Apple PAGES pot fi convertite în mai multe formate de fișiere. Ace
 * Microsoft Word [DOC](/ro/word-processing/doc/) și [DOCX](/ro/word-processing/docx/)
 * [PDF](/ro/pdf/)
 * [EPUB](/ro/ebook/epub/)
-* [RTF](/ro/procesare de cuvinte/rtf/)
-* [TXT](/ro/procesare de cuvinte/txt/)
+* [RTF](/ro/word-processing/rtf/)
+* [TXT](/ro/word-processing/txt/)
 
 ## Referințe
 

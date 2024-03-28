@@ -37,7 +37,7 @@ Un fișier de imagine HDR este format din următoarele trei secțiuni:
 ## API-uri HDR/HDRI open-source
 
 * **[imageinfo](https://github.com/xiaozhuai/imageinfo)** - Bibliotecă cu antet unic super rapid [C++](/ro/programming/cpp/) pentru a obține dimensiunea și formatul imaginii fără încărcare/decodare.
-* **[imgaeinfo-rs](https://github.com/xiaozhuai/imageinfo-rs)** - Biblioteca Rust pentru a obține dimensiunea și formatul imaginii fără încărcare/decodare. Suportă [.avif](/ro/image/avif/), [.bmp](/ro/image/bmp/), [.cur](/ro/image/cur/), [.dds](/ro/image/dds/), [. gif](/ro/image/gif/), hdr (pic), [heic (heif)](/ro/image/heic/), [.icns](/ro/image/icns/), [.ico](/ro/image/ico /), [.jp2](/ro/image/jp2/), [jpeg (jpg)](/ro/image/jpeg/), [jpx](/ro/image/jpx/), ktx, [png](/ro/image/png /), [psd](/ro/image/psd/), qoi, tga, tiff (tif) și webp.
+* **[imgaeinfo-rs](https://github.com/xiaozhuai/imageinfo-rs)** - Biblioteca Rust pentru a obține dimensiunea și formatul imaginii fără încărcare/decodare. Suportă [.avif](/ro/image/avif/), [.bmp](/ro/image/bmp/), [.cur](/ro/image/cur/), [.dds](/ro/image/dds/), [. gif](/ro/image/gif/), hdr (pic), [heic (heif)](/ro/image/heic/), [.icns](/ro/image/icns/), [.ico](/ro/image/ico/), [.jp2](/ro/image/jp2/), [jpeg (jpg)](/ro/image/jpeg/), [jpx](/ro/image/jpx/), ktx, [png](/ro/image/png/), [psd](/ro/image/psd/), qoi, tga, tiff (tif) și webp.
 * **[HdrHistogram](https://github.com/HdrHistogram/HdrHistogram)** - Implementarea Java a HdrHistogram.
 
 ## Referințe

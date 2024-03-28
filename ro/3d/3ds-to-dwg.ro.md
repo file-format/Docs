@@ -20,7 +20,7 @@
 
 Extensia de fișier ".3ds" servește ca un marker pentru formatul de fișier mesh numit 3D Studio (DOS), utilizat de software-ul Autodesk 3D Studio. 3D Studio de la Autodesk a avut o prezență semnificativă în domeniul formatelor de fișiere 3D încă din anii 1990 și, ulterior, a evoluat în software-ul robust acum recunoscut ca 3D Studio MAX.
 
-Un [Fișier DWG](/ro/3d/DWG/), prescurtare pentru fișierul Digital Asset Exchange, funcționează ca un format creat pentru a facilita schimbul de date între aplicațiile 3D interactive. Se bazează pe schema XML COLLADA (COLLAborative Design Activity), care servește ca un standard deschis pentru partajarea fără probleme a activelor digitale între diverse aplicații software de grafică.
+Un [Fișier DWG](/ro/cad/dwg/), prescurtare pentru fișierul Digital Asset Exchange, funcționează ca un format creat pentru a facilita schimbul de date între aplicațiile 3D interactive. Se bazează pe schema XML COLLADA (COLLAborative Design Activity), care servește ca un standard deschis pentru partajarea fără probleme a activelor digitale între diverse aplicații software de grafică.
 
 Oamenii necesită frecvent conversia fișierelor [3DS](/ro/3d/3ds/) în format DWG, iar mai multe instrumente online oferă conversie gratuită 3DS în DWG. Pentru dezvoltatorii de software care doresc să integreze această funcționalitate în aplicațiile .NET, Java sau Python, API-urile Aspose.3D oferă o soluție valoroasă.
 

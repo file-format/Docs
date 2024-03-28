@@ -19,7 +19,7 @@
 
 ## Ce este un fișier ODF?
 
-Un fișier cu extensia .odf este un document cu ecuații matematice, macrocomenzi și formule. Este creat cu programul [Apache OpenOffice Math](https://wiki.openoffice.org/wiki/Documentation/OOo3_User_Guides/Math_Guide) care este folosit pentru a crea formule matematice care pot fi apoi salvate pe disc sau incluse în alte documente. Aceste fișiere sunt create și salvate pe baza standardului OASIS OpenDocument, care este un format de fișier standard deschis pentru foi de calcul, diagrame, prezentări și documente de procesare de text folosind [ZIP](/ro/compression/zip/)-comprimat [XML](/ro/web/ fișiere xml/). Fișierele ODF pot fi deschise cu aplicații precum OpenOffice Math și LibreOffice Draw.
+Un fișier cu extensia .odf este un document cu ecuații matematice, macrocomenzi și formule. Este creat cu programul [Apache OpenOffice Math](https://wiki.openoffice.org/wiki/Documentation/OOo3_User_Guides/Math_Guide) care este folosit pentru a crea formule matematice care pot fi apoi salvate pe disc sau incluse în alte documente. Aceste fișiere sunt create și salvate pe baza standardului OASIS OpenDocument, care este un format de fișier standard deschis pentru foi de calcul, diagrame, prezentări și documente de procesare de text folosind [ZIP](/ro/compression/zip/)-comprimat [XML](/ro/web/xml/) fișiere. Fișierele ODF pot fi deschise cu aplicații precum OpenOffice Math și LibreOffice Draw.
 
 ## Format de fișier ODF - Mai multe informații
 

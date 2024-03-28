@@ -19,7 +19,7 @@
 
 ## Ce este un fișier DGN?
 
-Un fișier cu o extensie .dgn (Design) este un fișier de desen creat și susținut de aplicații CAD, cum ar fi MicroStation și Intergraph Interactive Graphics Design System. Este utilizat pentru crearea și salvarea proiectelor de construcții, cum ar fi autostrăzi, poduri și clădiri. Formatul este similar cu formatul de fișier [DWG](/ro/cad/dwg/) al Autodesk și este considerat concurentul său. Fișierele DNG pot fi salvate fie ca format de fișier standard Intergraph, fie ca DGN V8. DGN poate fi convertit în mai multe alte formate, cum ar fi DWG, [BMP](/ro/image/bmp/), [JPEG](/ro/image/jpeg/), [PDF](/ro/pdf/), [GIF](/ro/image/ gif/) și altele. Poate fi deschis cu Autodesk AutoCAD, Bentley View și Bentley Systems MicroStation, pe lângă alte aplicații software, cum ar fi versiunile Corel PaintShop Photo Pro și IMSI TurboCAD Deluxe.
+Un fișier cu o extensie .dgn (Design) este un fișier de desen creat și susținut de aplicații CAD, cum ar fi MicroStation și Intergraph Interactive Graphics Design System. Este utilizat pentru crearea și salvarea proiectelor de construcții, cum ar fi autostrăzi, poduri și clădiri. Formatul este similar cu formatul de fișier [DWG](/ro/cad/dwg/) al Autodesk și este considerat concurentul său. Fișierele DNG pot fi salvate fie ca format de fișier standard Intergraph, fie ca DGN V8. DGN poate fi convertit în mai multe alte formate, cum ar fi DWG, [BMP](/ro/image/bmp/), [JPEG](/ro/image/jpeg/), [PDF](/ro/pdf/), [GIF](/ro/image/gif/) și altele. Poate fi deschis cu Autodesk AutoCAD, Bentley View și Bentley Systems MicroStation, pe lângă alte aplicații software, cum ar fi versiunile Corel PaintShop Photo Pro și IMSI TurboCAD Deluxe.
 
 ## Format de fișier DGN V8
 

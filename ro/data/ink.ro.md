@@ -79,7 +79,7 @@ Iată câteva caracteristici cheie ale fișierelor .ink din Mimio Notebook:
 
 ## Partajați un fișier INK
 
-Dacă profesorul trebuie să partajeze fișierul .ink cu elevul sau alt profesor care nu are acces la Mimio Notebook, acesta poate exporta fișierul .ink într-un format mai compatibil, cum ar fi [PDF](/ro/pdf/), [HTML](/ro/web /html/) sau fișiere imagine ([.JPEG](/ro/image/jpeg/), [.PNG](/ro/image/png/), [.GIF](/ro/image/gif/), [.TIFF](/ro/ imagine/tiff/)); în acest fel, conținutul poate fi partajat și vizualizat cu ușurință pe diferite dispozitive și aplicații software, fără a fi nevoie de Mimio Notebook pentru acces.
+Dacă profesorul trebuie să partajeze fișierul .ink cu elevul sau alt profesor care nu are acces la Mimio Notebook, acesta poate exporta fișierul .ink într-un format mai compatibil, cum ar fi [PDF](/ro/pdf/), [HTML](/ro/web/html/) sau fișiere imagine ([.JPEG](/ro/image/jpeg/), [.PNG](/ro/image/png/), [.GIF](/ro/image/gif/), [.TIFF](/ro/image/tiff/)); în acest fel, conținutul poate fi partajat și vizualizat cu ușurință pe diferite dispozitive și aplicații software, fără a fi nevoie de Mimio Notebook pentru acces.
 
 ## MimioStudio
 

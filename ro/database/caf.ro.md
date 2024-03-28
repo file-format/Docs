@@ -41,7 +41,7 @@ Iată și alte tipuri de fișiere care folosesc extensia de fișier **.caf**.
 
 **Bază de date și programare**
 - [CAF - Cathy Catalog File Format](/ro/database/caf/)
-- [CAF - CryENGINE Character Animation File](/ro/programare/caf-cryengine/)
+- [CAF - CryENGINE Character Animation File](/ro/programming/caf-cryengine/)
 
 ## Referințe
 

@@ -36,7 +36,7 @@ Denaro a fost dezvoltat inițial de [Nickvision](https://nickvision.org/) ca un 
 
 ## Format de fișier Denaro - Mai multe informații
 
-Fișierele Denaro sunt salvate pe disc în format binar. Datele financiare sunt stocate ca fișier de bază de date în format de fișier **.SQLITE3**. SQLITE este un fișier de bază de date SQL ușor creat cu software-ul SQLite. Oferă un motor de bază de date autonom, care este capabil să ofere baze de date cu caracteristici complete și foarte fiabile. Fișierele bazei de date SQLite pot fi utilizate pentru a partaja conținut bogat între sisteme, prin simpla schimbare a acestor fișiere prin rețea. Legăturile SQLite există pentru limbaje de programare precum C, [C#](/ro/programming/cs/), [C++](/ro/programming/cpp/), [Java](/ro/programming/java/), [PHP](/ro/programming/ php/), și multe altele.
+Fișierele Denaro sunt salvate pe disc în format binar. Datele financiare sunt stocate ca fișier de bază de date în format de fișier **.SQLITE3**. SQLITE este un fișier de bază de date SQL ușor creat cu software-ul SQLite. Oferă un motor de bază de date autonom, care este capabil să ofere baze de date cu caracteristici complete și foarte fiabile. Fișierele bazei de date SQLite pot fi utilizate pentru a partaja conținut bogat între sisteme, prin simpla schimbare a acestor fișiere prin rețea. Legăturile SQLite există pentru limbaje de programare precum C, [C#](/ro/programming/cs/), [C++](/ro/programming/cpp/), [Java](/ro/programming/java/), [PHP](/ro/programming/php/), și multe altele.
 
 ## Referințe
 

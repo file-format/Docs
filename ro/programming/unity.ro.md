@@ -20,7 +20,7 @@
 
 Un fișier Unity este un fișier de scenă 3D creat cu motorul de jocuri 3D, **Unity**. Este folosit în combinație cu alte scene pentru a crea o lume virtuală în timpul editării. Conține elemente de scenă 3D, cum ar fi obiecte, medii, decorațiuni, camere, informații despre unghiuri, scenarii de iluminare și obstacole.
 
-Fișierele Unity pot fi deschise cu Unity Technologies Unity. Unity poate citi și Unity [.fbx](/ro/3d/fbx/), [.dae](/ro/3d/dae/) (Collada), [.3ds](/ro/3d/3ds/), [.dxf](/ro/ cad/dxf/), și fișierele [.obj](/ro/3d/obj/).
+Fișierele Unity pot fi deschise cu Unity Technologies Unity. Unity poate citi și Unity [.fbx](/ro/3d/fbx/), [.dae](/ro/3d/dae/) (Collada), [.3ds](/ro/3d/3ds/), [.dxf](/ro/cad/dxf/), și fișierele [.obj](/ro/3d/obj/).
 
 ## Format de fișier UNITY
 

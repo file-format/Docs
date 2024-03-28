@@ -20,7 +20,7 @@
 
 DOCM este versiunea activată pentru macrocomandă a documentelor Microsoft Word care poate rula macrocomenzi. Diferența dintre un document Word normal și un document activat cu macrocomandă este că DOCM oferă caracteristica suplimentară pentru suportarea macrocomenzilor.
 
-Fișierele DOC pot fi convertite în DOCM folosind instrumente și aplicații online gratuite. **[Aplicația Aspose.Words](https://products.aspose.app/words/family)** este un set de aplicații online care vă permit să efectuați diferite operațiuni pe documente Word chiar din browserul dvs. web. Pe lângă caracteristicile sale de [vizualizare document](/ro/procesare de text/docx-viewer/), împărțire, îmbinare, comparare, rotație și altele, vă permite să convertiți documentele Word dintr-un format în altul. Puteți converti [DOC](/ro/word-processing/doc/) în [DOCM](/ro/word-processing/docm/) folosind aplicația Aspose.Words.
+Fișierele DOC pot fi convertite în DOCM folosind instrumente și aplicații online gratuite. **[Aplicația Aspose.Words](https://products.aspose.app/words/family)** este un set de aplicații online care vă permit să efectuați diferite operațiuni pe documente Word chiar din browserul dvs. web. Pe lângă caracteristicile sale de [vizualizare document](/ro/word-processing/docx-viewer/), împărțire, îmbinare, comparare, rotație și altele, vă permite să convertiți documentele Word dintr-un format în altul. Puteți converti [DOC](/ro/word-processing/doc/) în [DOCM](/ro/word-processing/docm/) folosind aplicația Aspose.Words.
 
 ## Convertiți DOC în DOCM - Demo gratuită
 
