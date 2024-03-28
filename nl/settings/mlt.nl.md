@@ -92,10 +92,10 @@ Hier is een lijst met enkele veelvoorkomende bestandsformaten die door Shotcut w
 
 
 -[JPEG (JPG)](/nl/image/jpeg/)
--[PNG](/nl/afbeelding/png/)
+-[PNG](/nl/image/png/)
 - [BMP](/nl/image/bmp/)
 - [TIFF](/nl/image/tiff/)
-- [GIF](/nl/afbeelding/gif/)
+- [GIF](/nl/image/gif/)
 - en meer...
 4. **Extra formaten:**
     
@@ -155,10 +155,10 @@ Hier is een lijst met enkele veelvoorkomende bestandsformaten die door Shotcut w
 
 
 -[JPEG (JPG)](/nl/image/jpeg/)
--[PNG](/nl/afbeelding/png/)
+-[PNG](/nl/image/png/)
 - [BMP](/nl/image/bmp/)
 - [TIFF](/nl/image/tiff/)
-- [GIF](/nl/afbeelding/gif/)
+- [GIF](/nl/image/gif/)
 - en meer...
 4. **Aangepaste exportinstellingen:**
     

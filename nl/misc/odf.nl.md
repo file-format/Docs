@@ -19,7 +19,7 @@
 
 ## Wat is een ODF-bestand?
 
-Een bestand met de extensie .odf is een document met wiskundige vergelijkingen, macro's en formules. Het is gemaakt met het programma [Apache OpenOffice Math](https://wiki.openoffice.org/wiki/Documentation/OOo3_User_Guides/Math_Guide) dat wordt gebruikt voor het maken van wiskundige formules die vervolgens op schijf kunnen worden opgeslagen of in andere documenten kunnen worden opgenomen. Deze bestanden worden gemaakt en opgeslagen op basis van de OASIS OpenDocument-standaard, een open standaardbestandsindeling voor spreadsheets, grafieken, presentaties en tekstverwerkingsdocumenten met behulp van [ZIP](/nl/compression/zip/)-gecomprimeerde [XML](/nl/web/ xml/) bestanden. ODF-bestanden kunnen worden geopend met toepassingen zoals OpenOffice Math en LibreOffice Draw.
+Een bestand met de extensie .odf is een document met wiskundige vergelijkingen, macro's en formules. Het is gemaakt met het programma [Apache OpenOffice Math](https://wiki.openoffice.org/wiki/Documentation/OOo3_User_Guides/Math_Guide) dat wordt gebruikt voor het maken van wiskundige formules die vervolgens op schijf kunnen worden opgeslagen of in andere documenten kunnen worden opgenomen. Deze bestanden worden gemaakt en opgeslagen op basis van de OASIS OpenDocument-standaard, een open standaardbestandsindeling voor spreadsheets, grafieken, presentaties en tekstverwerkingsdocumenten met behulp van [ZIP](/nl/compression/zip/)-gecomprimeerde [XML](/nl/web/xml/) bestanden. ODF-bestanden kunnen worden geopend met toepassingen zoals OpenOffice Math en LibreOffice Draw.
 
 ## ODF-bestandsindeling - Meer informatie
 

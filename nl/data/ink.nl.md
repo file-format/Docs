@@ -79,7 +79,7 @@ Hier volgen enkele belangrijke kenmerken van .ink-bestanden in Mimio Notebook:
 
 ## Deel een INK-bestand
 
-Als de docent een .ink-bestand moet delen met een leerling of een andere docent die geen toegang heeft tot Mimio Notebook, kan hij of zij het .ink-bestand exporteren naar een breder compatibel formaat, zoals [PDF](/nl/pdf/), [HTML](/nl/web /html/) of afbeeldingsbestanden ([.JPEG](/nl/image/jpeg/), [.PNG](/nl/image/png/), [.GIF](/nl/image/gif/), [.TIFF](/nl/ afbeelding/tiff/)); op deze manier kan inhoud eenvoudig worden gedeeld en bekeken op verschillende apparaten en softwaretoepassingen zonder dat daarvoor toegang tot Mimio Notebook nodig is.
+Als de docent een .ink-bestand moet delen met een leerling of een andere docent die geen toegang heeft tot Mimio Notebook, kan hij of zij het .ink-bestand exporteren naar een breder compatibel formaat, zoals [PDF](/nl/pdf/), [HTML](/nl/web/html/) of afbeeldingsbestanden ([.JPEG](/nl/image/jpeg/), [.PNG](/nl/image/png/), [.GIF](/nl/image/gif/), [.TIFF](/nl/image/tiff/)); op deze manier kan inhoud eenvoudig worden gedeeld en bekeken op verschillende apparaten en softwaretoepassingen zonder dat daarvoor toegang tot Mimio Notebook nodig is.
 
 ## MimioStudio
 

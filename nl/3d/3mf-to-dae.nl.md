@@ -20,9 +20,9 @@
 
 FilmBox, ook wel 3MF genoemd, is oorspronkelijk ontwikkeld door Kaydara om compatibiliteit met MotionBuilder te garanderen. In 2006 nam Autodesk Inc. de controle over en vestigde het als een cruciale standaard voor naadloze 3D-gegevensuitwisseling tussen verschillende softwareapplicaties.
 
-Een [DAE-bestand](/nl/3d/DAE/), een afkorting van Digital Asset Exchange-bestand, dient als een formaat dat speciaal is gemaakt voor het delen van gegevens tussen interactieve 3D-applicaties. Het maakt gebruik van het COLLADA (COLLAborative Design Activity) XML-schema, dat fungeert als een open standaard voor het delen van digitale assets tussen verschillende grafische softwareapplicaties.
+Een [DAE-bestand](/nl/3d/dae/), een afkorting van Digital Asset Exchange-bestand, dient als een formaat dat speciaal is gemaakt voor het delen van gegevens tussen interactieve 3D-applicaties. Het maakt gebruik van het COLLADA (COLLAborative Design Activity) XML-schema, dat fungeert als een open standaard voor het delen van digitale assets tussen verschillende grafische softwareapplicaties.
 
-Het transformeren van [3MF-bestanden](/nl/3d/3MF/) naar [DAE-formaat](/nl/3d/DAE/) is een vaak voorkomende vereiste voor gebruikers, en er zijn verschillende gratis online tools beschikbaar voor deze taak. Als u een softwareontwikkelaar bent en de conversiefunctionaliteit van 3MF naar DAE wilt integreren in uw .NET-, Java- of Python-applicatie, raden we u aan de Aspose.3D API's te onderzoeken als een betrouwbare oplossing.
+Het transformeren van [3MF-bestanden](/nl/3d/3mf/) naar [DAE-formaat](/nl/3d/dae/) is een vaak voorkomende vereiste voor gebruikers, en er zijn verschillende gratis online tools beschikbaar voor deze taak. Als u een softwareontwikkelaar bent en de conversiefunctionaliteit van 3MF naar DAE wilt integreren in uw .NET-, Java- of Python-applicatie, raden we u aan de Aspose.3D API's te onderzoeken als een betrouwbare oplossing.
 
 ## 3MF naar DAE-conversie - gratis demo
 

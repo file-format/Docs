@@ -22,7 +22,7 @@ Een FREEWAY-bestand is een bestand met instellingeninformatie dat is gemaakt en 
 
 ## FREEWAY-bestandsindeling
 
-FREEWAY-bestanden worden opgeslagen in een eigen bestandsindeling en hun interne bestandsindelingsdetails zijn niet openbaar beschikbaar. Het heeft geen echte bronnen die door een site worden gebruikt, maar in plaats daarvan de sitelay-out en links naar verschillende eigenschappen. De eigenlijke websitebronnen en pagina's worden opgeslagen in de mappen "Media" en "Sitemap" die zich in dezelfde map bevinden als het FREEWAY-bestand. Het FREEWAY-document kan worden geëxporteerd naar verschillende formaten, waaronder [HTML](/nl/web/html/), [JPEG](/nl/image/jpeg/), [PNG](/nl/image/png/), [BMP](/nl/ afbeelding/bmp/), en [GIF](/nl/image/gif/).
+FREEWAY-bestanden worden opgeslagen in een eigen bestandsindeling en hun interne bestandsindelingsdetails zijn niet openbaar beschikbaar. Het heeft geen echte bronnen die door een site worden gebruikt, maar in plaats daarvan de sitelay-out en links naar verschillende eigenschappen. De eigenlijke websitebronnen en pagina's worden opgeslagen in de mappen "Media" en "Sitemap" die zich in dezelfde map bevinden als het FREEWAY-bestand. Het FREEWAY-document kan worden geëxporteerd naar verschillende formaten, waaronder [HTML](/nl/web/html/), [JPEG](/nl/image/jpeg/), [PNG](/nl/image/png/), [BMP](/nl/image/bmp/), en [GIF](/nl/image/gif/).
 
 ## Referenties
 

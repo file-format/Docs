@@ -19,7 +19,7 @@
 
 ## Wat is een OAM-bestand?
 
-Een .oam-bestand en een geanimeerd widgetbestand dat is geëxporteerd vanuit Adobe Edge Animate Widget. Animaties die als OAM-widgetbestandsindeling zijn geëxporteerd, kunnen in andere Adobe-toepassingen worden ingevoegd, zoals InDesign Documents ([INDD-bestand](/nl/page-description-taal/indd/), Dreamweaver en Muse. OAM-bestanden zijn als implementatiepakketten die gemakkelijk kunnen worden ingevoegd in andere Adobe-projecten om er gebruik van te maken. OAM-bestanden bevatten informatie over de activa, het gedrag en de actionscript-code van de animatie. U kunt een OAM-bestand maken door een Adobe Animate-project te publiceren [.AN-bestand](/nl/web/an/) .
+Een .oam-bestand en een geanimeerd widgetbestand dat is geëxporteerd vanuit Adobe Edge Animate Widget. Animaties die als OAM-widgetbestandsindeling zijn geëxporteerd, kunnen in andere Adobe-toepassingen worden ingevoegd, zoals InDesign Documents ([INDD-bestand](/nl/page-description-language/indd/), Dreamweaver en Muse. OAM-bestanden zijn als implementatiepakketten die gemakkelijk kunnen worden ingevoegd in andere Adobe-projecten om er gebruik van te maken. OAM-bestanden bevatten informatie over de activa, het gedrag en de actionscript-code van de animatie. U kunt een OAM-bestand maken door een Adobe Animate-project te publiceren [.AN-bestand](/nl/web/an/) .
 Gebruikers kunnen OAM-bestanden maken door te publiceren vanuit een Edge Animate-project (.AN-bestand).
 
 ## OAM-bestandsindeling

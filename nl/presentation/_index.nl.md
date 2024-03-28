@@ -20,7 +20,7 @@
 
 U moet bekend zijn met **PPTX** en **PPT** extensiebestanden. Dit zijn presentatiebestandsindelingen waarin een verzameling records wordt opgeslagen voor presentatiegegevens zoals: dia's, vormen, tekst, animaties, video, audio en ingesloten objecten . Een presentatie kan ook worden opgeslagen/geconverteerd naar andere bestandsindelingen, zoals PDF, BMP, PNG, JPEG en XPS.
 
-Veelgebruikte bestandsextensies voor presentaties en de bijbehorende bestandsindelingen zijn **[PPTX](/nl/presentation/pptx/)**, **[PPT](/nl/presentation/ppt/)** en **[ODP](/nl/presentation/odp /)**.
+Veelgebruikte bestandsextensies voor presentaties en de bijbehorende bestandsindelingen zijn **[PPTX](/nl/presentation/pptx/)**, **[PPT](/nl/presentation/ppt/)** en **[ODP](/nl/presentation/odp/)**.
 
 Heeft u vragen met betrekking tot presentatiebestandsindelingen? Ga naar onze community [forums](https://forum.fileformat.com/c/presentation/8) om te profiteren van de kennis die wordt gedeeld door experts op het gebied van bestandsindelingen.
 

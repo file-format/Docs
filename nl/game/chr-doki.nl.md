@@ -129,7 +129,7 @@ Hier zijn enkele bestandstypen die aan games zijn gekoppeld:
 
 
 
-5. **.txt-bestanden**: [Tekstbestanden](/nl/tekstverwerking/txt/) worden gebruikt voor verschillende in-game documenten, notities en gedichten die spelers tijdens het spel kunnen tegenkomen. Deze bestanden bieden extra context en aanwijzingen voor het verhaal.
+5. **.txt-bestanden**: [Tekstbestanden](/nl/word-processing/txt/) worden gebruikt voor verschillende in-game documenten, notities en gedichten die spelers tijdens het spel kunnen tegenkomen. Deze bestanden bieden extra context en aanwijzingen voor het verhaal.
     
 
 

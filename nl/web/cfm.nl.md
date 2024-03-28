@@ -19,7 +19,7 @@
 
 ## Wat is een CFM-bestand? ##
 
-De webpagina's en bestanden die worden gebruikt in **Cold Fusion Markup Language** bevatten extensies van CFM en worden CFM-webpagina's genoemd. Deze scripttaal voor webontwikkeling draait op Google App Engine, .NET Framework en JVM. Het kan een programmeertaal of code van de taal bevatten. Wanneer een van zijn pagina's door de gebruiker wordt geopend, voert de webserver van ColdFusion deze uit. CFScript (dat in de buurt komt van JavaScript) of tags kunnen worden gebruikt om CFML te schrijven. CFML kan worden gebruikt voor het genereren van andere talen dan [HTML](/nl/web/html/) zoals [CSS](/nl/web/css/), [JavaScript](/nl/web/js/), [XML](/nl/web/ xml/), en meer.
+De webpagina's en bestanden die worden gebruikt in **Cold Fusion Markup Language** bevatten extensies van CFM en worden CFM-webpagina's genoemd. Deze scripttaal voor webontwikkeling draait op Google App Engine, .NET Framework en JVM. Het kan een programmeertaal of code van de taal bevatten. Wanneer een van zijn pagina's door de gebruiker wordt geopend, voert de webserver van ColdFusion deze uit. CFScript (dat in de buurt komt van JavaScript) of tags kunnen worden gebruikt om CFML te schrijven. CFML kan worden gebruikt voor het genereren van andere talen dan [HTML](/nl/web/html/) zoals [CSS](/nl/web/css/), [JavaScript](/nl/web/js/), [XML](/nl/web/xml/), en meer.
 
 Het gebruik van deze taal en tags die het ondersteunt, is meestal bij het ontwikkelen van dynamische webapplicaties. De bestanden kunnen direct online in de browser worden uitgevoerd als er een fout optreedt tijdens offline gebruik van het ontwikkelingsplatform van de applicatie.
  

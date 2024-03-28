@@ -36,7 +36,7 @@ Denaro werd aanvankelijk ontwikkeld door [Nickvision](https://nickvision.org/) a
 
 ## Denaro-bestandsindeling - Meer informatie
 
-Denaro-bestanden worden op schijf opgeslagen in binair bestandsformaat. Financiële gegevens worden opgeslagen als databasebestand in het bestandsformaat **.SQLITE3**. SQLITE is een lichtgewicht SQL-databasebestand gemaakt met de SQLite-software. Het biedt een op zichzelf staande database-engine die een volledig functionele en zeer betrouwbare database kan bieden. SQLite-databasebestanden kunnen worden gebruikt om rijke inhoud tussen systemen te delen door deze bestanden eenvoudigweg via het netwerk uit te wisselen. Er bestaan SQLite-bindingen voor programmeertalen zoals C, [C#](/nl/programming/cs/), [C++](/nl/programming/cpp/), [Java](/nl/programming/java/), [PHP](/nl/programming/ php/), en vele anderen.
+Denaro-bestanden worden op schijf opgeslagen in binair bestandsformaat. Financiële gegevens worden opgeslagen als databasebestand in het bestandsformaat **.SQLITE3**. SQLITE is een lichtgewicht SQL-databasebestand gemaakt met de SQLite-software. Het biedt een op zichzelf staande database-engine die een volledig functionele en zeer betrouwbare database kan bieden. SQLite-databasebestanden kunnen worden gebruikt om rijke inhoud tussen systemen te delen door deze bestanden eenvoudigweg via het netwerk uit te wisselen. Er bestaan SQLite-bindingen voor programmeertalen zoals C, [C#](/nl/programming/cs/), [C++](/nl/programming/cpp/), [Java](/nl/programming/java/), [PHP](/nl/programming/php/), en vele anderen.
 
 ## Referenties
 

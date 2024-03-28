@@ -27,6 +27,6 @@ De details van het interne bestandsformaat van het APZ-bestandsformaat zijn niet
 
 ## Referenties
 
-* [Compressiebestandsformaten](/compressie/)
+* [Compressiebestandsformaten](/compression/)
 
 

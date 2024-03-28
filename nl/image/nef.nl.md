@@ -24,7 +24,7 @@ NEF is Nikon's RAW-beeldbestandsindeling, vastgelegd met digitale camera's van N
 
 NEF-bestanden worden naar de geheugenkaart van de camera geschreven als binaire bestanden in Nikon's eigen bestandsindeling. Deze worden in onbewerkte vorm naar de geheugenkaart van de camera geschreven, waarvoor geen aanpassingen nodig zijn aan de functiegegevens van de afbeelding, zoals witbalans, tint, toon en verscherping. Gebruikersbewerkingen worden opgeslagen als instructiesets naast de onbewerkte afbeeldingsgegevens. Dit heeft voordelen in termen van het intact houden van de originele inhoud van de beeldgegevens en het terugkeren naar eerdere instructiesets.
 
-NEF-bestanden kunnen 12-bits of 14-bits gegevens behouden, afhankelijk van de camera, waardoor een afbeelding met een veel groter toonbereik wordt verkregen in vergelijking met een 8-bits [JPEG](/nl/image/jpeg/) of [TIFF](/nl/ afbeelding/tiff/) afbeeldingen.
+NEF-bestanden kunnen 12-bits of 14-bits gegevens behouden, afhankelijk van de camera, waardoor een afbeelding met een veel groter toonbereik wordt verkregen in vergelijking met een 8-bits [JPEG](/nl/image/jpeg/) of [TIFF](/nl/image/tiff/) afbeeldingen.
 
 ## Software die Nikon NEF File kan openen
 

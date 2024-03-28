@@ -77,7 +77,7 @@ Een EPS-bestand kan geen van de volgende operatoren gebruiken:
 
 ## Conversie van EPS naar andere bestandsformaten
 
-EPS-bestanden kunnen worden geconverteerd naar standaard afbeeldingsformaten zoals [JPG](/nl/image/jpeg/), [PNG](/nl/image/png/), [TIFF](/nl/image/tiff/) en [PDF](/nl/pdf /) met verschillende toepassingen zoals Adobe Illustrator, Photoshop en PaintShop Pro.
+EPS-bestanden kunnen worden geconverteerd naar standaard afbeeldingsformaten zoals [JPG](/nl/image/jpeg/), [PNG](/nl/image/png/), [TIFF](/nl/image/tiff/) en [PDF](/nl/pdf/) met verschillende toepassingen zoals Adobe Illustrator, Photoshop en PaintShop Pro.
 
 Vanwege een [beveiligingskwetsbaarheid](https://support.microsoft.com/en-us/office/support-for-eps-images-has-been-turned-off-in-office-a069d664-4bcf-415e-a1b5-cbb0c334a840) in EPS-bestanden, hebben Office 2016, Office 2013, Office 2010 en Office 365 de mogelijkheid uitgeschakeld om EPS-bestanden in Office-documenten in te voegen.
 

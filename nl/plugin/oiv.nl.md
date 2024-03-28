@@ -19,7 +19,7 @@
 
 ## Wat is een OIV-bestand?
 
-OIV staat voor **OpenIV Package**, en het is een bestandsformaat dat speciaal is ontworpen voor eenvoudige installatie en beheer van wijzigingen in de game Grand Theft Auto V. Het bevat een [.XML-bestand](/web/xml/) met de pakketbeschrijvingsinformatie en scripts, samen met een .PNG-pictogram voor de wijzigingen. Het pakket is een archief dat lijkt op het formaat [.ZIP-bestand](/compressie/zip/).
+OIV staat voor **OpenIV Package**, en het is een bestandsformaat dat speciaal is ontworpen voor eenvoudige installatie en beheer van wijzigingen in de game Grand Theft Auto V. Het bevat een [.XML-bestand](/web/xml/) met de pakketbeschrijvingsinformatie en scripts, samen met een .PNG-pictogram voor de wijzigingen. Het pakket is een archief dat lijkt op het formaat [.ZIP-bestand](/compression/zip/).
 
 ## OIV-bestandsindeling - Meer informatie
 

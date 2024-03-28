@@ -43,7 +43,7 @@ WEBA is een audiobestand, dus het kan niet worden geconverteerd naar een onderti
 
 ## Hoe WEBA naar andere audioformaten te converteren?
 
-WEBA-bestanden kunnen worden geconverteerd naar andere audiobestandsindelingen. Omdat het is gebaseerd op het gratis en open-source OGG-containerbestandsformaat, kunnen veel API's en toepassingen WEBA lezen en converteren naar andere bestandsindelingen zoals [MP3](/nl/audio/mp3/), [MP4](/nl/audio/ mp4/), [FLAC](/nl/audio/flac/), en vele anderen. FFmpeg is zo'n software die WEBA naar een MP3-bestand kan converteren.
+WEBA-bestanden kunnen worden geconverteerd naar andere audiobestandsindelingen. Omdat het is gebaseerd op het gratis en open-source OGG-containerbestandsformaat, kunnen veel API's en toepassingen WEBA lezen en converteren naar andere bestandsindelingen zoals [MP3](/nl/audio/mp3/), [MP4](/nl/video/mp4/), [FLAC](/nl/audio/flac/), en vele anderen. FFmpeg is zo'n software die WEBA naar een MP3-bestand kan converteren.
 
 ## Referenties
 

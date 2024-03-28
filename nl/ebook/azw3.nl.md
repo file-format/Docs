@@ -19,7 +19,7 @@
 
 ## Wat is een AZW3-bestand?
 
-AZW3, ook bekend als Kindle Format 8 (**KF8**), is de aangepaste versie van de [AZW](/nl/ebook/azw/) digitale bestandsindeling voor e-boeken die is ontwikkeld voor Amazon Kindle-apparaten. De indeling is een verbetering van oudere AZW-bestanden en wordt alleen gebruikt op Kindle Fire-apparaten met achterwaartse compatibiliteit voor de voorouderlijke bestandsindeling, namelijk [MOBI](/nl/ebook/mobi/) en AZW. Amazon introduceerde het KFX-formaat (KF-versie 10) na KF8 dat wordt gebruikt op de nieuwste Kindle-apparaten. AZW3-bestanden hebben internetmedia-type application/vnd.amazon.mobi8-ebook. AZW3-bestanden kunnen worden geconverteerd naar een aantal andere bestandsindelingen zoals [PDF](/nl/pdf/), [EPUB](/nl/ebook/epub/), [AZW](/nl/ebook/azw/), [DOCX](/nl/ tekstverwerking/docx/), en [RTF](/nl/word-processing/rtf/).
+AZW3, ook bekend als Kindle Format 8 (**KF8**), is de aangepaste versie van de [AZW](/nl/ebook/azw/) digitale bestandsindeling voor e-boeken die is ontwikkeld voor Amazon Kindle-apparaten. De indeling is een verbetering van oudere AZW-bestanden en wordt alleen gebruikt op Kindle Fire-apparaten met achterwaartse compatibiliteit voor de voorouderlijke bestandsindeling, namelijk [MOBI](/nl/ebook/mobi/) en AZW. Amazon introduceerde het KFX-formaat (KF-versie 10) na KF8 dat wordt gebruikt op de nieuwste Kindle-apparaten. AZW3-bestanden hebben internetmedia-type application/vnd.amazon.mobi8-ebook. AZW3-bestanden kunnen worden geconverteerd naar een aantal andere bestandsindelingen zoals [PDF](/nl/pdf/), [EPUB](/nl/ebook/epub/), [AZW](/nl/ebook/azw/), [DOCX](/nl/word-processing/docx/), en [RTF](/nl/word-processing/rtf/).
 
 ## AZ3/KF8-bestandsindeling ##
 

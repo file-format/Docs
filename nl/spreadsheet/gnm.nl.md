@@ -27,7 +27,7 @@ GNM-bestanden zijn gecomprimeerde XML-bestanden die kunnen worden uitgepakt met 
 
 ## Functies die worden ondersteund in GNM-bestanden
 
-Aangezien Gnumeric verschillende bestandsindelingen ondersteunt, kan het de oorspronkelijke GNM-bestanden converteren naar [CSV](/nl/spreadsheet/csv/), [XLSX](/nl/spreadsheet/xlsx/), Microsoft Works (.wks), [HTML](/nl/ web/html/), [LaTex](/nl/word-processing/latex/), en [Lotus 1-2-3](/nl/spreadsheet/123/).
+Aangezien Gnumeric verschillende bestandsindelingen ondersteunt, kan het de oorspronkelijke GNM-bestanden converteren naar [CSV](/nl/spreadsheet/csv/), [XLSX](/nl/spreadsheet/xlsx/), Microsoft Works (.wks), [HTML](/nl/web/html/), [LaTex](/nl/word-processing/latex/), en [Lotus 1-2-3](/nl/spreadsheet/123/).
 
 ## Gnumeric op Github
 

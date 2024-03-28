@@ -20,7 +20,7 @@
 
 Een Unity-bestand is een 3D-scènebestand dat is gemaakt met de 3D Gaming-engine **Unity**. Het wordt gebruikt in combinatie met andere scènes om tijdens het bewerken een virtuele wereld te creëren. Het bevat 3D-scène-elementen zoals objecten, omgevingen, decoraties, camera's, informatie over hoeken, lichtscenario's en obstakels.
 
-Unity-bestanden kunnen worden geopend met Unity Technologies Unity. Unity kan ook Unity lezen [.fbx](/nl/3d/fbx/), [.dae](/nl/3d/dae/) (Collada), [.3ds](/nl/3d/3ds/), [.dxf](/nl/ cad/dxf/), en [.obj](/nl/3d/obj/) bestanden.
+Unity-bestanden kunnen worden geopend met Unity Technologies Unity. Unity kan ook Unity lezen [.fbx](/nl/3d/fbx/), [.dae](/nl/3d/dae/) (Collada), [.3ds](/nl/3d/3ds/), [.dxf](/nl/cad/dxf/), en [.obj](/nl/3d/obj/) bestanden.
 
 ## UNITY-bestandsindeling
 

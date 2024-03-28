@@ -18,7 +18,7 @@
 
 ## Wat is een SLDPRT-bestand?
 
-Een SLDPRT-bestand is een CAD-bestand gegenereerd door SolidWorks-software. Het is een 3D-bestandsindeling die de 3D-informatie van een object of "onderdeel" bevat. Meerdere SLDPRT-bestanden met compatibele onderdelen kunnen worden gecombineerd om een enkel SLDASM-assemblagebestand te maken. SLDPRT-bestanden kunnen worden geopend met [SmartCAM CAD/CAM Software](https://www.solidworks.com/partner-product/smartcam-cadcam-software) door SolidWorks. SolidWorks applicatieconverters bieden eenvoudig te converteren tools voor het converteren van SLDPRT-tekeningbestanden naar neutrale gegevensformaten zoals [TIFF](/nl/image/tiff/), [PDF](/nl/pdf/), OF [PDF/A](/nl/pdf/ a/).
+Een SLDPRT-bestand is een CAD-bestand gegenereerd door SolidWorks-software. Het is een 3D-bestandsindeling die de 3D-informatie van een object of "onderdeel" bevat. Meerdere SLDPRT-bestanden met compatibele onderdelen kunnen worden gecombineerd om een enkel SLDASM-assemblagebestand te maken. SLDPRT-bestanden kunnen worden geopend met [SmartCAM CAD/CAM Software](https://www.solidworks.com/partner-product/smartcam-cadcam-software) door SolidWorks. SolidWorks applicatieconverters bieden eenvoudig te converteren tools voor het converteren van SLDPRT-tekeningbestanden naar neutrale gegevensformaten zoals [TIFF](/nl/image/tiff/), [PDF](/nl/pdf/), OF [PDF/A](/nl/pdf/a/).
 
 ## SLDPRT-bestandsindeling
 

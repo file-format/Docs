@@ -37,7 +37,7 @@ Een HDR-beeldbestand bestaat uit de volgende drie secties:
 ## Open-source HDR/HDRI-API's
 
 * **[imageinfo](https://github.com/xiaozhuai/imageinfo)** - Cross-platform supersnelle single header [C++](/nl/programming/cpp/) bibliotheek om de afbeeldingsgrootte en het formaat te krijgen zonder te laden/decoderen.
-* **[imgaeinfo-rs](https://github.com/xiaozhuai/imageinfo-rs)** - Roest bibliotheek om de afbeeldingsgrootte en het formaat te krijgen zonder te laden/decoderen. Ondersteunt [.avif](/nl/image/avif/), [.bmp](/nl/image/bmp/), [.cur](/nl/image/cur/), [.dds](/nl/image/dds/), [. gif](/nl/image/gif/), hdr (pic), [heic (heif)](/nl/image/heic/), [.icns](/nl/image/icns/), [.ico](/nl/image/ico /), [.jp2](/nl/image/jp2/), [jpeg (jpg)](/nl/image/jpeg/), [jpx](/nl/image/jpx/), ktx, [png](/nl/image/png /), [psd](/nl/image/psd/), qoi, tga, tiff (tif) en webp.
+* **[imgaeinfo-rs](https://github.com/xiaozhuai/imageinfo-rs)** - Roest bibliotheek om de afbeeldingsgrootte en het formaat te krijgen zonder te laden/decoderen. Ondersteunt [.avif](/nl/image/avif/), [.bmp](/nl/image/bmp/), [.cur](/nl/image/cur/), [.dds](/nl/image/dds/), [. gif](/nl/image/gif/), hdr (pic), [heic (heif)](/nl/image/heic/), [.icns](/nl/image/icns/), [.ico](/nl/image/ico/), [.jp2](/nl/image/jp2/), [jpeg (jpg)](/nl/image/jpeg/), [jpx](/nl/image/jpx/), ktx, [png](/nl/image/png/), [psd](/nl/image/psd/), qoi, tga, tiff (tif) en webp.
 * **[HdrHistogram](https://github.com/HdrHistogram/HdrHistogram)** - Java-implementatie van HdrHistogram.
 
 ## Referenties

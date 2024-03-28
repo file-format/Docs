@@ -19,7 +19,7 @@
 
 ## Wat is een MOBI-bestand?
 
-Het MOBI-bestandsformaat is een van de meest gebruikte bestandsindelingen voor e-boeken. Het formaat is een verbetering van het oude OEB-formaat (Open Ebook Format) en werd gebruikt als het eigen formaat voor Mobipocket Reader. Net als [EPUB](/nl/ebook/epub/), wordt het door bijna alle moderne e-readers ondersteund, met name door mobiele apparaten met een lage bandbreedte. De indeling kan worden geconverteerd naar verschillende andere indelingen zoals [PDF](/nl/pdf/), EPUB en verschillende andere indelingen met behulp van openbaar beschikbare softwaretoepassingen zoals de [Kindle-app](https://www.amazon.com/kindle -dbs/fd/kcp). Er zijn verschillende bedrijven die gratis MOBI-boeken aanbieden, zoals [Project Gutenberg](https://www.gutenberg.org/), [Feedbooks](http://www.feedbooks.com/) en [Open Library]( https://openlibrary.org/).
+Het MOBI-bestandsformaat is een van de meest gebruikte bestandsindelingen voor e-boeken. Het formaat is een verbetering van het oude OEB-formaat (Open Ebook Format) en werd gebruikt als het eigen formaat voor Mobipocket Reader. Net als [EPUB](/nl/ebook/epub/), wordt het door bijna alle moderne e-readers ondersteund, met name door mobiele apparaten met een lage bandbreedte. De indeling kan worden geconverteerd naar verschillende andere indelingen zoals [PDF](/nl/pdf/), EPUB en verschillende andere indelingen met behulp van openbaar beschikbare softwaretoepassingen zoals de [Kindle-app](https://www.amazon.com/kindle -dbs/fd/kcp). Er zijn verschillende bedrijven die gratis MOBI-boeken aanbieden, zoals [Project Gutenberg](https://www.gutenberg.org/), [Feedbooks](http://www.feedbooks.com/) en [Open Library](https://openlibrary.org/).
 
 ## Korte geschiedenis van MOBI-bestandsindeling
 

@@ -50,7 +50,7 @@ Hier zijn de algemene stappen om een Sega Genesis-game-ROM te openen en af te sp
 
 Hier volgen andere bestandstypen die de bestandsextensie **.bin** gebruiken.
 
-- [BIN - MacBinary gecodeerd bestand] (/nl/compressie/bin/)
+- [BIN - MacBinary gecodeerd bestand] (/nl/compression/bin/)
 - [BIN - Binair schijfimagebestand](/nl/disc-and-media/bin/)
 - [BIN - Unix uitvoerbaar bestand](/nl/executable/bin/)
 - [BIN - BlackBerry IT-beleidsbestand](/nl/settings/bin/)

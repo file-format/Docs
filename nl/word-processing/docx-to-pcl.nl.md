@@ -30,7 +30,7 @@ Met de Aspose.Words-app kunt u DOCX-bestanden converteren naar verschillende uit
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-Met de Aspose.Words-suite met API's kan elke ontwikkelaar het formaat [DOCX](/nl/word-processing/docx/) naar het [PS](/nl/page-description-taal/ps/)-formaat converteren met slechts een paar regels code. Het is beschikbaar voor veel programmeertalen, waaronder [C#](/nl/programming/cs/), [Java](/nl/programming/java/), [Python](/nl/programming/py/) en [C++](/nl/programming/cpp/ ). Naast PCL kunt u met Aspose.Words API's DOCX-bestanden converteren naar vele andere populaire bestandsindelingen.
+Met de Aspose.Words-suite met API's kan elke ontwikkelaar het formaat [DOCX](/nl/word-processing/docx/) naar het [PS](/nl/page-description-language/ps/)-formaat converteren met slechts een paar regels code. Het is beschikbaar voor veel programmeertalen, waaronder [C#](/nl/programming/cs/), [Java](/nl/programming/java/), [Python](/nl/programming/py/) en [C++](/nl/programming/cpp/ ). Naast PCL kunt u met Aspose.Words API's DOCX-bestanden converteren naar vele andere populaire bestandsindelingen.
 
 ## Aspose.Words voor .NET-bronnen
 

@@ -37,7 +37,7 @@ U kunt het DOC-bestandsformaat naar BMP als volgt converteren met de [Aspose.Wor
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-[Aspose.Words](https://products.aspose.com/words/) is een set API's waarmee elke ontwikkelaar [DOC](/nl/word-processing/doc/) kan converteren naar [BMP](/nl/image/bmp /) formaat met behulp van eenvoudige coderegels. Het is beschikbaar voor veel programmeertalen, waaronder [C#](/nl/programming/cs/), [Java](/nl/programming/java/), [Python](/nl/programming/py/) en [C++](/nl/programming/cpp/ ). Naast BMP kunt u met Aspose.Words API's DOC-bestanden converteren naar vele andere populaire bestandsindelingen.
+[Aspose.Words](https://products.aspose.com/words/) is een set API's waarmee elke ontwikkelaar [DOC](/nl/word-processing/doc/) kan converteren naar [BMP](/nl/image/bmp/) formaat met behulp van eenvoudige coderegels. Het is beschikbaar voor veel programmeertalen, waaronder [C#](/nl/programming/cs/), [Java](/nl/programming/java/), [Python](/nl/programming/py/) en [C++](/nl/programming/cpp/). Naast BMP kunt u met Aspose.Words API's DOC-bestanden converteren naar vele andere populaire bestandsindelingen.
 
 ## Referenties
 

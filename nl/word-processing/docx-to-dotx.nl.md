@@ -41,7 +41,7 @@ U kunt DOCX naar DOC-bestandsindeling converteren met behulp van de [Aspose.Word
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-[Aspose.Words](https://products.aspose.com/words/) is een set API's waarmee elke ontwikkelaar [DOCX](/nl/word-processing/docx/) kan converteren naar [DOTX](/nl/word-processing /dotx/)-indeling met behulp van eenvoudige coderegels. Het is beschikbaar voor veel programmeertalen, waaronder [C#](/nl/programming/cs/), [Java](/nl/programming/java/), [Python](/nl/programming/py/) en [C++](/nl/programming/cpp/ ). Naast DOTX kunt u met Aspose.Words API's DOCX-bestanden converteren naar vele andere populaire bestandsindelingen.
+[Aspose.Words](https://products.aspose.com/words/) is een set API's waarmee elke ontwikkelaar [DOCX](/nl/word-processing/docx/) kan converteren naar [DOTX](/nl/word-processing/dotx/)-indeling met behulp van eenvoudige coderegels. Het is beschikbaar voor veel programmeertalen, waaronder [C#](/nl/programming/cs/), [Java](/nl/programming/java/), [Python](/nl/programming/py/) en [C++](/nl/programming/cpp/). Naast DOTX kunt u met Aspose.Words API's DOCX-bestanden converteren naar vele andere populaire bestandsindelingen.
 
 ## Referenties
 

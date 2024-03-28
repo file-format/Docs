@@ -23,7 +23,7 @@ Een bestand met de extensie .fp is een spreadsheetbestand dat door Claris is gem
 
 ## FP-bestandsindeling
 
-FP-bestanden worden opgeslagen in een eigen bestandsindeling en de details van hun bestandsindeling zijn niet beschikbaar voor openbare referentie. Er zijn echter bepaalde API's beschikbaar die het FileMaker Pro-platform gebruiken voor het uitvoeren van verschillende conversies, zoals de [fmapi](https://github.com/stevenwhitespacesystems/fm-xml2json) die [XML](/nl/web/xml/ converteert) ) naar [JSON](/nl/web/json/).
+FP-bestanden worden opgeslagen in een eigen bestandsindeling en de details van hun bestandsindeling zijn niet beschikbaar voor openbare referentie. Er zijn echter bepaalde API's beschikbaar die het FileMaker Pro-platform gebruiken voor het uitvoeren van verschillende conversies, zoals de [fmapi](https://github.com/stevenwhitespacesystems/fm-xml2json) die [XML](/nl/web/xml/) converteert naar [JSON](/nl/web/json/).
 
 ## Referenties
 

@@ -65,7 +65,7 @@ _Wees voorzichtig bij het omgaan met gedownloade of per e-mail verzonden BIN-bes
 
 Hier volgen andere bestandstypen die de bestandsextensie **.bin** gebruiken.
 
-- [BIN - MacBinary gecodeerd bestand] (/nl/compressie/bin/)
+- [BIN - MacBinary gecodeerd bestand] (/nl/compression/bin/)
 - [BIN - Binair schijfimagebestand](/nl/disc-and-media/bin/)
 - [BIN - BlackBerry IT-beleidsbestand](/nl/settings/bin/)
 - [BIN - Sega Genesis Game-ROM](/nl/game/bin/)

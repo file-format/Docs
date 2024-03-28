@@ -53,7 +53,7 @@ Breng de nodige wijzigingen aan in het beleid en sla deze op. Indien nodig kunt 
 
 Hier volgen andere bestandstypen die de bestandsextensie **.bin** gebruiken.
 
-- [BIN - MacBinary gecodeerd bestand] (/nl/compressie/bin/)
+- [BIN - MacBinary gecodeerd bestand] (/nl/compression/bin/)
 - [BIN - Binair schijfimagebestand](/nl/disc-and-media/bin/)
 - [BIN - Unix uitvoerbaar bestand](/nl/executable/bin/)
 - [BIN - Sega Genesis Game-ROM](/nl/game/bin/)

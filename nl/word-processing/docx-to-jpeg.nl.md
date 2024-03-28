@@ -18,7 +18,7 @@
 
 ## Over DOCX naar beeldconversie
 
-Bijna iedereen van ons is bekend met het werken met Word-documenten. Microsoft Office slaat deze documenten op in het populaire [DOCX](/nl/word-processing/docx/) bestandsformaat, maar er is geen optie om DOCX op te slaan in beeldbestandsformaten zoals [JPEG](/nl/image/jpeg/) of [ PNG](/nl/afbeelding/png/). Er kunnen zich situaties voordoen waarin een DOCX-bestand als JPEG-afbeelding in een presentatie moet worden ingesloten of u een document moet uploaden naar een online website die alleen afbeeldingsbestanden accepteert. Dat is waar bepaalde online tools naar voren komen om u te helpen uw DOCX-bestanden online naar JPEG te converteren.
+Bijna iedereen van ons is bekend met het werken met Word-documenten. Microsoft Office slaat deze documenten op in het populaire [DOCX](/nl/word-processing/docx/) bestandsformaat, maar er is geen optie om DOCX op te slaan in beeldbestandsformaten zoals [JPEG](/nl/image/jpeg/) of [ PNG](/nl/image/png/). Er kunnen zich situaties voordoen waarin een DOCX-bestand als JPEG-afbeelding in een presentatie moet worden ingesloten of u een document moet uploaden naar een online website die alleen afbeeldingsbestanden accepteert. Dat is waar bepaalde online tools naar voren komen om u te helpen uw DOCX-bestanden online naar JPEG te converteren.
 
 
 ## DOCX naar JPEG-conversie - gratis demo

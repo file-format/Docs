@@ -91,7 +91,7 @@ PlayStation-emulators zoals PCSX, PCSX2, ePSXe en pSX-emulator kunnen BIN-bestan
 
 Hier volgen andere bestandstypen die de bestandsextensie **.bin** gebruiken.
 
-- [BIN - MacBinary gecodeerd bestand] (/nl/compressie/bin/)
+- [BIN - MacBinary gecodeerd bestand] (/nl/compression/bin/)
 - [BIN - Binair schijfimagebestand](/nl/disc-and-media/bin/)
 - [BIN - Unix uitvoerbaar bestand](/nl/executable/bin/)
 - [BIN - BlackBerry IT-beleidsbestand](/nl/settings/bin/)

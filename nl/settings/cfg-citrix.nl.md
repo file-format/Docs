@@ -188,7 +188,7 @@ Citrix-servers en gerelateerde Citrix-technologieën ondersteunen verschillende 
 
 
 
-- **.exe**: Citrix Receiver- of Citrix Workspace-installatiepakketten hebben vaak een uitvoerbaar formaat voor verschillende besturingssystemen (bijv. [.exe](/nl/executable/exe/) voor Windows, [.dmg](/nl/compression/dmg /) voor macOS). Met deze pakketten kunnen gebruikers clientsoftware op hun apparaten installeren.
+- **.exe**: Citrix Receiver- of Citrix Workspace-installatiepakketten hebben vaak een uitvoerbaar formaat voor verschillende besturingssystemen (bijv. [.exe](/nl/executable/exe/) voor Windows, [.dmg](/nl/compression/dmg/) voor macOS). Met deze pakketten kunnen gebruikers clientsoftware op hun apparaten installeren.
 3. **Citrix Workspace-app (voorheen Citrix Receiver)**:
     
 
@@ -242,7 +242,7 @@ Citrix-servers en gerelateerde Citrix-technologieën ondersteunen verschillende 
 
 
 
-- **.vhd, .vhdx**: Citrix XenDesktop en XenApp kunnen virtuele desktops en applicaties leveren met behulp van virtuele harde schijf [VHD](/nl/disc-and-media/vhd/) of [VHDX](/nl/disc-and-media /vhdx/) bestanden.
+- **.vhd, .vhdx**: Citrix XenDesktop en XenApp kunnen virtuele desktops en applicaties leveren met behulp van virtuele harde schijf [VHD](/nl/disc-and-media/vhd/) of [VHDX](/nl/disc-and-media/vhdx/) bestanden.
 6. **Metagegevens voor het publiceren van bronnen**:
     
 

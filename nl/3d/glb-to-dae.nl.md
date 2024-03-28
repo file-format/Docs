@@ -18,7 +18,7 @@
 
 ## Over GLB tot DAE
 
-Het gebruik van GLB-bestanden in 3D-bestandsformaten is niet iets nieuws. GLB is een veelgebruikt binair 3D-bestandsformaat dat 3D-modellen vertegenwoordigt in het GL Transmission-formaat, dwz ([glTF](/nl/3d/gltf/)). [DAE](/nl/3d/DAE/) is daarentegen een Digital Asset Exchange-bestandsindeling die wordt gebruikt voor het uitwisselen van gegevens tussen interactieve 3D-applicaties. GLB-bestanden kunnen worden geconverteerd naar het DAE-bestandsformaat met behulp van verschillende online gratis apps. Als u een applicatieontwikkelaar bent en op zoek bent naar het inbedden van GLB naar DAE-conversiefunctionaliteit in uw applicaties, kunt u de Aspose.3D API gebruiken om dit te bereiken.
+Het gebruik van GLB-bestanden in 3D-bestandsformaten is niet iets nieuws. GLB is een veelgebruikt binair 3D-bestandsformaat dat 3D-modellen vertegenwoordigt in het GL Transmission-formaat, dwz ([glTF](/nl/3d/gltf/)). [DAE](/nl/3d/dae/) is daarentegen een Digital Asset Exchange-bestandsindeling die wordt gebruikt voor het uitwisselen van gegevens tussen interactieve 3D-applicaties. GLB-bestanden kunnen worden geconverteerd naar het DAE-bestandsformaat met behulp van verschillende online gratis apps. Als u een applicatieontwikkelaar bent en op zoek bent naar het inbedden van GLB naar DAE-conversiefunctionaliteit in uw applicaties, kunt u de Aspose.3D API gebruiken om dit te bereiken.
 
 ## GLB naar DAE-conversie - gratis demo
 
