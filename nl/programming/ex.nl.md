@@ -37,6 +37,4 @@ EX-bestanden worden opgeslagen als platte tekstbestanden en bevatten de broncode
 
 ## Referentie ##
 
-* [Snelle Euphoria](https://www.rapideuphoria.com/)
 * [OpenEuphoria-forums](https://openeuphoria.org/forum/index.wc)
-

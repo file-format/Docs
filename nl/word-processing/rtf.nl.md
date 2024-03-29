@@ -19,7 +19,7 @@
 
 ## Wat is een RTF-bestand?
 
-Het Rich Text Format (**RTF**), geïntroduceerd en gedocumenteerd door Microsoft, vertegenwoordigt een methode voor het coderen van opgemaakte tekst en afbeeldingen voor gebruik in toepassingen. Het formaat vergemakkelijkt de uitwisseling van documenten tussen verschillende platforms met andere Microsoft-producten, en dient zo het doel van interoperabiliteit. Deze mogelijkheid maakt het een standaard voor gegevensoverdracht tussen tekstverwerkingssoftware en daarom kan inhoud worden overgedragen van het ene besturingssysteem naar het andere zonder de documentopmaak te verliezen. De specificaties van de bestandsindeling zijn door Microsoft beschikbaar voor openbare [download](https://interoperability.blob.core.windows.net/files/Archive_References/%5bMSFT-RTF%5d.pdf) en kunnen worden geraadpleegd vanuit het perspectief van de ontwikkelaar.
+Het Rich Text Format (**RTF**), geïntroduceerd en gedocumenteerd door Microsoft, vertegenwoordigt een methode voor het coderen van opgemaakte tekst en afbeeldingen voor gebruik in toepassingen. Het formaat vergemakkelijkt de uitwisseling van documenten tussen verschillende platforms met andere Microsoft-producten, en dient zo het doel van interoperabiliteit. Deze mogelijkheid maakt het een standaard voor gegevensoverdracht tussen tekstverwerkingssoftware en daarom kan inhoud worden overgedragen van het ene besturingssysteem naar het andere zonder de documentopmaak te verliezen. De specificaties van de bestandsindeling zijn door Microsoft beschikbaar voor openbare download en kunnen worden geraadpleegd vanuit het perspectief van de ontwikkelaar.
 
 ## Korte geschiedenis van RTF-bestandsindeling ##
 
@@ -63,7 +63,7 @@ Een groep kan bestaan uit tekst, controlewoorden of controlesymbolen tussen acco
 
 Een RTF-bestand heeft de volgende standaardsyntaxis:
 
-Het Rich Text Format (**RTF**), geïntroduceerd en gedocumenteerd door Microsoft, vertegenwoordigt een methode voor het coderen van opgemaakte tekst en afbeeldingen voor gebruik in toepassingen. Het formaat vergemakkelijkt de uitwisseling van documenten tussen verschillende platforms met andere Microsoft-producten, en dient zo het doel van interoperabiliteit. Deze mogelijkheid maakt het een standaard voor gegevensoverdracht tussen tekstverwerkingssoftware en daarom kan inhoud worden overgedragen van het ene besturingssysteem naar het andere zonder de documentopmaak te verliezen. De specificaties van de bestandsindeling zijn door Microsoft beschikbaar voor openbare [download](https://interoperability.blob.core.windows.net/files/Archive_References/%5bMSFT-RTF%5d.pdf) en kunnen worden geraadpleegd vanuit het perspectief van de ontwikkelaar.
+Het Rich Text Format (**RTF**), geïntroduceerd en gedocumenteerd door Microsoft, vertegenwoordigt een methode voor het coderen van opgemaakte tekst en afbeeldingen voor gebruik in toepassingen. Het formaat vergemakkelijkt de uitwisseling van documenten tussen verschillende platforms met andere Microsoft-producten, en dient zo het doel van interoperabiliteit. Deze mogelijkheid maakt het een standaard voor gegevensoverdracht tussen tekstverwerkingssoftware en daarom kan inhoud worden overgedragen van het ene besturingssysteem naar het andere zonder de documentopmaak te verliezen. De specificaties van de bestandsindeling zijn door Microsoft beschikbaar voor openbare download en kunnen worden geraadpleegd vanuit het perspectief van de ontwikkelaar.
 
 #### RTF-koptekst ####
 
@@ -128,6 +128,4 @@ Elk RTF-document moet eindigen met een }, om de groep te sluiten die wordt geope
 
 ## Referenties ##
 
-* [RTF 1.9.1-specificaties](https://interoperability.blob.core.windows.net/files/Archive_References/%5bMSFT-RTF%5d.pdf)
 * [Rich Text Format](https://en.wikipedia.org/wiki/Rich_Text_Format)
-

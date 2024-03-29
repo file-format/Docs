@@ -30,9 +30,5 @@ Een THM-bestand bevat een XML-bestand, verschillende afbeeldingsbestandsindeling
 
 ## Hoe maak je Sony Ericsson-thema's?
 
-De Sony Themes Creator-software kan worden gebruikt om nieuwe thema's voor Sony Ericsson-mobiele telefoons te genereren. Gebruikers kunnen de Sony [Themes Creator Developer Guide](https://developer.sony.com/theme-creator/get-started) volgen om thema's te maken.
-
-## Referenties
-
-* [Sony Themes Creator Developer Guide](https://developer.sony.com/theme-creator/get-started)
+De Sony Themes Creator-software kan worden gebruikt om nieuwe thema's voor Sony Ericsson-mobiele telefoons te genereren. Gebruikers kunnen de Sony Themes Creator Developer Guide volgen om thema's te maken.
 

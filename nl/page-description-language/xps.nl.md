@@ -48,7 +48,7 @@ Deze bestanden behouden de documentinhoud op zo'n manier dat als iemand bijvoorb
 
 Het XPS-documentformaat bevat een goed gedefinieerde set onderdelen en relaties, die elk een bepaald doel in het document vervullen. Het formaat breidt ook de pakketfuncties uit, waaronder digitale handtekeningen, miniaturen en interleaving.
 
-Een typisch XPS-document ziet er als volgt uit en kan worden geanalyseerd in het licht van het XPS-bestandsformaat [specificaties](https://www.ecma-international.org/activities/XML%20Paper%20Specification/XPS%20Standard.pdf).
+Een typisch XPS-document ziet er als volgt uit en kan worden geanalyseerd in het licht van het XPS-bestandsformaat specificaties.
 
 {{< figure src="../XPS-2.png" alt="XPS-bestandsindeling" >}}
 

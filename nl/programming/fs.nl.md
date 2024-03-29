@@ -42,6 +42,4 @@ Programma's die FS-bestanden openen of ernaar verwijzen, omvatten
 - **Microsoft Visual Studio 2022** (gratis) voor Windows
 
 ## Referenties
-* [F Sharp (programmeertaal)](https://en.wikipedia.org/wiki/F_Sharp_(programmeertaal))
-
-
+* [F Sharp (programming language)](https://en.wikipedia.org/wiki/F_Sharp_(programming_language))

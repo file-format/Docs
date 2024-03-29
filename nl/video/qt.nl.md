@@ -23,7 +23,7 @@ Een bestand met de extensie .qt is een multimediacontainerbestand dat door het Q
 
 ## QT-bestandsindeling
 
-De QTFF is objectgeoriënteerd en biedt een flexibele verzameling objecten voor gemakkelijke ontleding en uitbreiding. Elke track in een QT-bestand bevat een digitaal gecodeerde mediastream of een gegevensverwijzing naar de mediastream in een ander bestand. De hiërarchische gegevensstructuur die bestaat uit objecten die atomen worden genoemd, fungeert als sporencontainers. Bestandsformaatspecificaties voor [QT-bestandsformaat](https://developer.apple.com/library/archive/documentation/QuickTime/QTFF/QTFFPreface/qtffPreface.html) zijn officieel beschikbaar door Apple Inc ter referentie van de ontwikkelaar.
+De QTFF is objectgeoriënteerd en biedt een flexibele verzameling objecten voor gemakkelijke ontleding en uitbreiding. Elke track in een QT-bestand bevat een digitaal gecodeerde mediastream of een gegevensverwijzing naar de mediastream in een ander bestand. De hiërarchische gegevensstructuur die bestaat uit objecten die atomen worden genoemd, fungeert als sporencontainers. Bestandsformaatspecificaties voor [QT-bestandsformaat](https://developer.apple.com/documentation/quicktime-file-format) zijn officieel beschikbaar door Apple Inc ter referentie van de ontwikkelaar.
 
 ### Mediabeschrijving
 
@@ -55,6 +55,6 @@ De volgende chunk bevindt zich op offset 32+8#40 (hex: 28) en heeft een grootte 
 
 ## Referenties ##
 
-* [QT-bestandsindeling - Apple Inc.](https://developer.apple.com/library/archive/documentation/QuickTime/QTFF/QTFFPreface/qtffPreface.html)
+* [QT-bestandsindeling - Apple Inc.](https://developer.apple.com/documentation/quicktime-file-format)
 * [QuickTime-bestandsindeling - Wikipedia](https://en.wikipedia.org/wiki/QuickTime_File_Format)
 

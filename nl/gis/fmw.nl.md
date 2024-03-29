@@ -21,7 +21,7 @@
 
 Een FMW-bestand is een projectbestand gemaakt met FME Workbench-software (wordt geleverd als onderdeel van de FME Desktop-suite) dat wordt gebruikt voor transformatie van ruimtelijke gegevens. Het bevat door de gebruiker gedefinieerde instellingen die worden gebruikt voor manipulatie van ruimtelijke gegevens, zoals invoergegevenssets, vertaaleigenschappen, projecties en uitvoerinstellingen. De instellingen voor de manipulatie van ruimtelijke gegevens worden opgeslagen als een visuele lay-out en kunnen eenvoudig worden bewerkt en opnieuw worden opgeslagen.
 
-U kunt FMW-bestanden openen met [Safe Software FME Desktop](https://www.safe.com/fme/fme-desktop/).
+U kunt FMW-bestanden openen met [Safe Software FME Desktop](https://fme.safe.com/platform/).
 
 ## FMW-bestandsindeling - Meer informatie
 
@@ -70,7 +70,5 @@ FMW-bestanden worden als binaire bestanden op schijf opgeslagen en kunnen alleen
 
 ## Referenties
 
-* [Veilige software FME Desktop](https://www.safe.com/fme/fme-desktop/)
-
+* [Veilige software FME Desktop](https://fme.safe.com/platform/)
 * [FMW Quick Facts](https://docs.safe.com/fme/html/FME_Desktop_Documentation/FME_ReadersWriters/fmw/quick_facts_fmw.htm)
-

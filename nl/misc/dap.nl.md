@@ -23,7 +23,3 @@ Een DAP-bestand is een download-in-progress-bestand dat is gemaakt door het Down
 
 DAP-bestanden kunnen worden geopend met SpeedBit Download Accelerator Plus (DAP) -software.
 
-## Referenties
-
-* [DAP Help - Opgeslagen mappen beheren](http://www.speedbit.com/dap-help/download-accelerator-file-manager/)
-

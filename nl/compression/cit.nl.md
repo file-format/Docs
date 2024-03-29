@@ -29,8 +29,3 @@ CIT-bestanden worden in gecomprimeerd bestandsformaat op schijf opgeslagen. Het 
 
 In8 is een softwarebedrijf dat expertise heeft in het ontwikkelen van applicaties die worden gebruikt voor het documenteren en rapporteren van strafrechtelijke onderzoeksrapporten.
 
-## Referenties
-
-* [In8Cite](https://www.in8development.com/in8cite-2/)
-
-
