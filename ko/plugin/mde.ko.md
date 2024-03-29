@@ -28,4 +28,3 @@ MDE 파일은 VBA 코드, 양식, 보고서 및 기타 개체를 컴파일하여
 ## 참고자료
 
 * [액세스 사양](https://support.microsoft.com/en-us/office/access-specations-0cf3c66f-9cf2-4e32-9568-98c1025bb47c)
-* [비공식 MDB 가이드](http://jabakobob.net/mdb/)

@@ -29,5 +29,3 @@
 
 * [사용자로부터 VBA 코드를 숨기는 방법?](https://support.microsoft.com/en-us/office/hide-vba-code-from-users-ce6ab610-af07-4008-91e0-1ef1b796ff18)
 * [MDB 도구](https://github.com/mdbtools/mdbtools/blob/master/HACKING)
-* [비공식 MDB 가이드](http://jabakobob.net/mdb/)
-

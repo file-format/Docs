@@ -62,6 +62,4 @@ PCB 설계에 사용되는 BRD 파일은 다양한 PCB 설계 응용 프로그�
 - Linux용 **오픈 보드 뷰어**(무료)
 
 ## 참고자료
-* [EAGLE 프로그램](https://en.wikipedia.org/wiki/EAGLE_(프로그램))
-
-
+* [EAGLE program](https://en.wikipedia.org/wiki/EAGLE_(program))

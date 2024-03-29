@@ -37,6 +37,4 @@ EX 파일은 일반 텍스트 파일로 저장되며 Euphoria 프로그래밍 �
 
 ## 참조 ##
 
-* [빠른 행복감](https://www.rapideuphoria.com/)
 * [오픈유포리아 포럼](https://openeuphoria.org/forum/index.wc)
-

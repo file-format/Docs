@@ -67,5 +67,4 @@ CSX(C# 스크립트) 형식은 간단한 텍스트 기반 형식을 따릅니다
 CSX 파일은 C# 구문 강조를 지원하는 텍스트 편집기나 IDE(통합 개발 환경)를 사용하여 편집할 수 있습니다. CSX 파일이 준비되면 .NET Interactive Notebooks, .NET Core 명령줄 인터페이스(CLI) 또는 C# 스크립팅을 지원하는 IDE와 같은 도구를 사용하여 실행할 수 있습니다.
 
 ## 참고자료
-* [Visual Studio Code를 사용한 C# 프로그래밍](https://code.visualstudio.com/docs/언어s/csharp)
-
+* [C# programming with Visual Studio Code](https://code.visualstudio.com/docs/languages/csharp)

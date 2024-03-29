@@ -21,7 +21,7 @@
 
 FMW 파일은 공간 데이터 변환에 사용되는 FME Workbench 소프트웨어(FME Desktop 제품군의 일부로 제공)로 생성된 프로젝트 파일입니다. 여기에는 입력 데이터 세트, 변환 속성, 프로젝션 및 출력 설정과 같은 공간 데이터 조작에 사용되는 사용자 정의 설정이 포함됩니다. 공간 데이터 조작 설정은 시각적 레이아웃으로 저장되며 쉽게 편집하고 다시 저장할 수 있습니다.
 
-[Safe Software FME Desktop](https://www.safe.com/fme/fme-desktop/)을 사용하여 FMW 파일을 열 수 있습니다.
+[Safe Software FME Desktop](https://fme.safe.com/platform/)을 사용하여 FMW 파일을 열 수 있습니다.
 
 ## FMW 파일 형식 - 추가 정보
 
@@ -70,6 +70,5 @@ FMW 파일은 바이너리 파일로 디스크에 저장되며 FME 데스크톱 
 
 ## 참조
 
-* [안전 소프트웨어 FME 데스크톱](https://www.safe.com/fme/fme-desktop/)
+* [안전 소프트웨어 FME 데스크톱](https://fme.safe.com/platform/)
 * [FMW 요약 정보](https://docs.safe.com/fme/html/FME_Desktop_Documentation/FME_ReadersWriters/fmw/quick_facts_fmw.htm)
-

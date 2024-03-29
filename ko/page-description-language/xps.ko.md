@@ -48,7 +48,7 @@ XPS 형식은 문서를 표시하거나 인쇄하기 위한 렌더링 규칙과 
 
 XPS 문서 형식에는 문서의 특정 목적을 각각 충족하는 잘 정의된 부분 및 관계 세트가 포함되어 있습니다. 이 형식은 또한 디지털 서명, 축소판 및 인터리빙을 포함한 패키지 기능을 확장합니다.
 
-일반적인 XPS 문서는 다음과 같으며 XPS 파일 형식[사양](https://www.ecma-international.org/activities/XML%20Paper%20Specification/XPS%20Standard.pdf)에 비추어 분석할 수 있습니다.
+일반적인 XPS 문서는 다음과 같으며 XPS 파일 형식사양에 비추어 분석할 수 있습니다.
 
 {{< figure src="../XPS-2.png" alt="XPS 파일 형식" >}}
 

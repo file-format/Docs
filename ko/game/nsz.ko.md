@@ -54,6 +54,4 @@ NSZ 파일을 여는 프로그램에는 NSZ 아카이브를 NSP 파일로 압축
 - (Windows, Mac, Linux)용 **nsz**(무료)
 
 ## 참고자료
-* [유즈 에뮬레이터](https://en.wikipedia.org/wiki/Yuzu_(에뮬레이터))
-
-
+* [Yuzu Emulator](https://en.wikipedia.org/wiki/Yuzu_(emulator))

@@ -23,7 +23,3 @@ DAP 파일은 DAP(Download Accelerator Plus) 파일에 의해 생성된 다운�
 
 DAP 파일은 SpeedBit Download Accelerator Plus(DAP) 소프트웨어로 열 수 있습니다.
 
-## 참고문헌
-
-* [DAP 도움말 - 저장 폴더 관리](http://www.speedbit.com/dap-help/download-accelerator-file-manager/)
-

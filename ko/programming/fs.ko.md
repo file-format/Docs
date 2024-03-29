@@ -42,6 +42,4 @@ FS 파일을 열거나 참조하는 프로그램은 다음과 같습니다
 - Windows용 **Microsoft Visual Studio 2022**(무료)
 
 ## 참고자료
-* [F Sharp(프로그래밍 언어)](https://en.wikipedia.org/wiki/F_Sharp_(programming_언어))
-
-
+* [F Sharp (programming language)](https://en.wikipedia.org/wiki/F_Sharp_(programming_language))

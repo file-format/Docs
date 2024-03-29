@@ -45,5 +45,4 @@ AFPHOTO 파일은 Serif Affinity Photo 소프트웨어를 사용하여 다양한
 
 ## 참조
 
-* [어피니티 포토](https://affinity.serif.com/ko-kr/photo/)
-
+* [Affinity Photo](https://affinity.serif.com/en-gb/photo/)

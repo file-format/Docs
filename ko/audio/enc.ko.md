@@ -47,6 +47,4 @@ Encore의 선구적인 측면은 사용자가 마우스를 사용하여 악보 �
 위 소프트웨어를 사용하면 ENC 파일을 [.MXL](/audio/mxl/)(Compressed MusicXML) 형식으로 변환할 수도 있습니다.
 
 ## 참고자료
-* [앙코르 소프트웨어](https://en.wikipedia.org/wiki/Encore_(소프트웨어))
-
-
+* [Encore Software](https://en.wikipedia.org/wiki/Encore_(software))

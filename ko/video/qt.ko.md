@@ -23,7 +23,7 @@
 
 ## QT 파일 형식
 
-QTFF는 구문 분석 및 확장을 쉽게 하기 위해 유연한 개체 컬렉션을 노출하는 개체 지향입니다. QT 파일의 각 트랙에는 디지털로 인코딩된 미디어 스트림 또는 다른 파일에 있는 미디어 스트림에 대한 데이터 참조가 포함되어 있습니다. 원자라는 객체로 구성된 계층적 데이터 구조는 트랙 컨테이너 역할을 합니다. [QT 파일 형식](https://developer.apple.com/library/archive/documentation/QuickTime/QTFF/QTFFPreface/qtffPreface.html) 에 대한 파일 형식 사양은 개발자 참조용으로 Apple Inc.에서 공식적으로 제공합니다.
+QTFF는 구문 분석 및 확장을 쉽게 하기 위해 유연한 개체 컬렉션을 노출하는 개체 지향입니다. QT 파일의 각 트랙에는 디지털로 인코딩된 미디어 스트림 또는 다른 파일에 있는 미디어 스트림에 대한 데이터 참조가 포함되어 있습니다. 원자라는 객체로 구성된 계층적 데이터 구조는 트랙 컨테이너 역할을 합니다. [QT 파일 형식](https://developer.apple.com/documentation/quicktime-file-format) 에 대한 파일 형식 사양은 개발자 참조용으로 Apple Inc.에서 공식적으로 제공합니다.
 
 ### 미디어 설명
 
@@ -55,6 +55,6 @@ QT/MOV 파일은 연속적인 청크로 구성됩니다. 모든 청크에는 8�
 
 ## 참조 ##
 
-* [QT 파일 형식 - Apple Inc.](https://developer.apple.com/library/archive/documentation/QuickTime/QTFF/QTFFPreface/qtffPreface.html)
+* [QT 파일 형식 - Apple Inc.](https://developer.apple.com/documentation/quicktime-file-format)
 * [QuickTime 파일 형식 - Wikipedia](https://en.wikipedia.org/wiki/QuickTime_File_Format)
 

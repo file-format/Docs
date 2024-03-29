@@ -43,5 +43,5 @@ Linux는 권고 잠금과 필수 잠금의 두 가지 유형의 파일 잠금을
 ## 참고문헌
 
 * [Ruby의 GemFile 및 Gemfile.lock](https://medium.com/never-hop-on-the-bandwagon/gemfile-and-gemfile-lock-in-ruby-65adc918b856)
-* [리눅스에서 잠금](https://www.baeldung.com/linux/file-locking#:~:text=File%20locking%20is%20a%20mechanism,very%20dangerous%20command%20in%20Linux.)
+* [리눅스에서 잠금](https://www.baeldung.com/linux/file-locking)
 

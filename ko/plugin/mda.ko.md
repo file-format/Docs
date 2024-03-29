@@ -72,4 +72,3 @@ Microsoft Access는 일반적으로 개인 및 소규모 기업에서 재고 관
 ## 참고자료
 
 * [액세스 사양](https://support.microsoft.com/en-us/office/access-specations-0cf3c66f-9cf2-4e32-9568-98c1025bb47c)
-* [비공식 MDB 가이드](http://jabakobob.net/mdb/)

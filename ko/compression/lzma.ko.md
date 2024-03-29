@@ -53,7 +53,4 @@ LZMA 파일에는 LZMA 압축 데이터가 뒤따르는 13바이트 헤더가 �
 압축되지 않은 크기는 부호 없는 64비트 리틀 엔디안 정수로 저장됩니다. 0xFFFF_FFFF_FFFF_FFFF의 특수 값은 압축되지 않은 크기를 알 수 없음을 나타냅니다. Uncompressed Size를 알 수 없는 경우에만 값이 End of Payload Marker(\*)로 표시됩니다.
 
 ## 참고문헌
-
-* [LZMA 파일 형식](https://svn.python.org/projects/external/xz-5.0.3/doc/lzma-file-format.txt)
 * [Lempel-Ziv-Markov 체인 알고리즘](https://en.wikipedia.org/wiki/Lempel%E2%80%93Ziv%E2%80%93Markov_chain_algorithm)
-

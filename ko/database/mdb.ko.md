@@ -40,5 +40,3 @@ MDB 형식에 사용할 수 있는 공개 사양이 있으며 이는 Microsoft�
 ## 참조 ##
 
 * [액세스 사양](https://support.microsoft.com/en-us/office/access-specifications-0cf3c66f-9cf2-4e32-9568-98c1025bb47c)
-* [비공식 MDB 가이드](http://jabakobob.net/mdb/)
-

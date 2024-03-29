@@ -53,5 +53,4 @@ Wwise 프로젝트 파일(.wproj)을 열려면 컴퓨터에 Wwise 소프트웨�
 그러면 Wwise 소프트웨어가 Wwise 프로젝트 파일과 모든 관련 오디오 에셋 및 설정을 로드합니다. 그런 다음 Wwise 소프트웨어에서 제공하는 다양한 도구와 기능을 사용하여 필요에 따라 프로젝트를 편집하고 수정할 수 있습니다.
 
 ## 참고자료
-* [Audiodynamic Wwise](https://en.wikipedia.org/wiki/Audiodynamic_Wwise)
-
+* [Audiokinetic Wwise](https://en.wikipedia.org/wiki/Audiokinetic_Wwise)

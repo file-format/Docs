@@ -44,6 +44,4 @@ rmt 파일에 포함될 수 있는 특정 구성 요소 중 일부는 다음과 
 '보안 기능': 펌웨어에는 무단 액세스나 공격으로부터 라우터와 네트워크를 보호하는 데 도움이 되는 방화벽, VPN 지원 또는 침입 탐지 시스템과 같은 다양한 보안 기능이 포함될 수 있습니다.
 
 ## 참조
-
-* [라우터란 무엇인가요?](https://en.wikipedia.org/wiki/Router_(컴퓨팅))
-
+* [What is a Router?](https://en.wikipedia.org/wiki/Router_(computing))
