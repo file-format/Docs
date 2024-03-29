@@ -40,5 +40,3 @@ Pojedyncza baza danych Microsoft Access może składać się z wielu plików, co
 ## Bibliografia ##
 
 * [Specyfikacje dostępu](https://support.microsoft.com/en-us/office/access-specifications-0cf3c66f-9cf2-4e32-9568-98c1025bb47c)
-* [Nieoficjalny przewodnik MDB](http://jabakobob.net/mdb/)
-

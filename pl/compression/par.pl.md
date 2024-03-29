@@ -59,5 +59,4 @@ Format pliku PAR, powszechnie określany jako Parchive, to specyficzny format pl
 Zarówno formaty plików PAR2, jak i PAR3 są szeroko obsługiwane przez oprogramowanie PAR i oferują możliwość weryfikacji integralności plików w archiwum oraz odzyskiwania utraconych lub uszkodzonych danych. Pliki PAR i PAR2 są nadal powszechnie używane, natomiast pliki PAR3 stopniowo zyskują na popularności ze względu na ich ulepszone możliwości korekcji błędów.
 
 ## Bibliografia
-* [Parchiwum](https://en.wikipedia.org/wiki/Parchiwum)
-
+* [Parchive](https://en.wikipedia.org/wiki/Parchive)

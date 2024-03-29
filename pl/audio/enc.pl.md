@@ -47,6 +47,4 @@ Za pomocą tych programów możesz otworzyć plik ENC związany z kompozycją mu
 Za pomocą powyższego oprogramowania możesz także konwertować pliki ENC do formatu [.MXL](/audio/mxl/) (skompresowana muzykaXML).
 
 ## Bibliografia
-* [Oprogramowanie Encore](https://en.wikipedia.org/wiki/Encore_(oprogramowanie))
-
-
+* [Encore Software](https://en.wikipedia.org/wiki/Encore_(software))

@@ -39,5 +39,4 @@ Edycja pliku .conf zwykle odbywa się za pomocą edytora tekstu, takiego jak vi,
 Pliki .conf są istotnym składnikiem systemów opartych na systemie Unix, zapewniającym elastyczny i ustandaryzowany sposób konfigurowania aplikacji i komponentów systemu. Zrozumienie sposobu edytowania plików .conf i zarządzania nimi jest ważną umiejętnością dla administratorów i programistów systemów Unix.
 
 ## Bibliografia
-* [Plik konfiguracyjny Uniksa](https://en.wikipedia.org/wiki/plik_konfiguracyjny)
-
+* [Unix Configuration file](https://en.wikipedia.org/wiki/Configuration_file)

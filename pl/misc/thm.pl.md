@@ -30,9 +30,5 @@ Plik THM zawiera plik XML, kilka plików graficznych w formatach [.png](/pl/imag
 
 ## Jak tworzyć motywy Sony Ericsson?
 
-Oprogramowanie Sony Themes Creator może służyć do generowania nowych motywów dla telefonów komórkowych Sony Ericsson. Aby tworzyć motywy, użytkownicy mogą skorzystać z [Przewodnika programisty Themes Creator Developer](https://developer.sony.com/theme-creator/get-started) firmy Sony.
-
-## Bibliografia
-
-* [Przewodnik programisty Sony Themes Creator](https://developer.sony.com/theme-creator/get-started)
+Oprogramowanie Sony Themes Creator może służyć do generowania nowych motywów dla telefonów komórkowych Sony Ericsson. Aby tworzyć motywy, użytkownicy mogą skorzystać z Przewodnika programisty Themes Creator Developer firmy Sony.
 

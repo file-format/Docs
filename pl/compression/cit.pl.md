@@ -29,8 +29,3 @@ Pliki CIT są zapisywane na dysku w formacie skompresowanym. Do kompresji plikó
 
 In8 to firma zajmująca się oprogramowaniem, która ma doświadczenie w tworzeniu aplikacji używanych do dokumentowania i raportowania raportów z dochodzeń kryminalnych.
 
-## Bibliografia
-
-* [In8Cite](https://www.in8development.com/in8cite-2/)
-
-

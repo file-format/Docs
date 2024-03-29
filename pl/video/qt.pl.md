@@ -23,7 +23,7 @@ Plik z rozszerzeniem .qt to plik kontenera multimediów, który jest używany pr
 
 ## Format pliku QT
 
-QTFF jest zorientowany obiektowo i udostępnia elastyczną kolekcję obiektów w celu ułatwienia analizowania i rozszerzania. Każda ścieżka w pliku QT zawiera zakodowany cyfrowo strumień multimediów lub odniesienie do danych strumienia multimediów znajdującego się w innym pliku. Hierarchiczna struktura danych składająca się z obiektów zwanych atomami działa jak kontenery ścieżek. Specyfikacje formatu plików dla [Format pliku QT](https://developer.apple.com/library/archive/documentation/QuickTime/QTFF/QTFFPreface/qtffPreface.html) są oficjalnie dostępne przez firmę Apple Inc w celach informacyjnych dla programistów.
+QTFF jest zorientowany obiektowo i udostępnia elastyczną kolekcję obiektów w celu ułatwienia analizowania i rozszerzania. Każda ścieżka w pliku QT zawiera zakodowany cyfrowo strumień multimediów lub odniesienie do danych strumienia multimediów znajdującego się w innym pliku. Hierarchiczna struktura danych składająca się z obiektów zwanych atomami działa jak kontenery ścieżek. Specyfikacje formatu plików dla [Format pliku QT](https://developer.apple.com/documentation/quicktime-file-format) są oficjalnie dostępne przez firmę Apple Inc w celach informacyjnych dla programistów.
 
 ### Opis mediów
 
@@ -55,6 +55,6 @@ Następna porcja znajduje się pod offsetem 32+8#40 (hex: 28) i ma rozmiar 3 263
 
 ## Bibliografia ##
 
-* [Format pliku QT — Apple Inc.](https://developer.apple.com/library/archive/documentation/QuickTime/QTFF/QTFFPreface/qtffPreface.html)
+* [Format pliku QT — Apple Inc.](https://developer.apple.com/documentation/quicktime-file-format)
 * [Format pliku QuickTime – Wikipedia](https://en.wikipedia.org/wiki/QuickTime_File_Format)
 

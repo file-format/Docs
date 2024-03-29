@@ -21,7 +21,7 @@
 
 Plik FMW to plik projektu utworzony za pomocą oprogramowania FME Workbench (jest częścią pakietu FME Desktop), który służy do transformacji danych przestrzennych. Zawiera ustawienia zdefiniowane przez użytkownika używane do manipulacji danymi przestrzennymi, takie jak zbiory danych wejściowych, właściwości translacji, projekcje i ustawienia wyjściowe. Ustawienia manipulacji danymi przestrzennymi są przechowywane jako układ wizualny i można je łatwo edytować i ponownie zapisać.
 
-Pliki FMW możesz otwierać za pomocą [Safe Software FME Desktop](https://www.safe.com/fme/fme-desktop/).
+Pliki FMW możesz otwierać za pomocą [Safe Software FME Desktop](https://fme.safe.com/platform/).
 
 ## Format pliku FMW — więcej informacji
 
@@ -70,7 +70,5 @@ Pliki FMW są zapisywane na dysku jako pliki binarne i można je odczytać wył�
 
 ## Bibliografia
 
-* [Bezpieczne oprogramowanie FME Desktop](https://www.safe.com/fme/fme-desktop/)
-
+* [Bezpieczne oprogramowanie FME Desktop](https://fme.safe.com/platform/)
 * [FMW Quick Facts](https://docs.safe.com/fme/html/FME_Desktop_Documentation/FME_ReadersWriters/fmw/quick_facts_fmw.htm)
-

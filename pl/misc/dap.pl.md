@@ -23,7 +23,3 @@ Plik DAP to plik w trakcie pobierania utworzony przez plik Download Accelerator 
 
 Pliki DAP można otwierać za pomocą oprogramowania SpeedBit Download Accelerator Plus (DAP).
 
-## Bibliografia
-
-* [Pomoc DAP — zarządzanie folderami zapisywania](http://www.speedbit.com/dap-help/download-accelerator-file-manager/)
-
