@@ -62,6 +62,4 @@ Aqui está a lista de programas que você pode usar para abrir arquivos BRD.
 - **Visualizador de quadro aberto** (gratuito) para Linux
 
 ## Referências
-* [Programa EAGLE](https://en.wikipedia.org/wiki/EAGLE_(programa))
-
-
+* [EAGLE program](https://en.wikipedia.org/wiki/EAGLE_(program))

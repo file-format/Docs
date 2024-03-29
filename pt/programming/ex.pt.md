@@ -36,7 +36,4 @@ A Euphoria foi inicialmente escrita na linguagem de programação **[C](/pt/prog
 Os arquivos EX são armazenados como arquivos de texto simples e contêm o código-fonte para programas escritos na linguagem de programação Euphoria. Esses arquivos podem ser abertos em qualquer editor de texto.
 
 ## Referência ##
-
-* [Rapid Euphoria](https://www.rapideuphoria.com/)
 * [Fóruns OpenEuphoria](https://openeuphoria.org/forum/index.wc)
-

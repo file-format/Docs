@@ -93,7 +93,6 @@ O cabeçalho começa com uma palavra mágica de 4 bytes **!BDN** representada po
 Por segurança, os arquivos PST também podem ser protegidos por senha, o que exige que o aplicativo de carregamento aplique a senha antes de poder ser visualizado. A senha aplicada ao arquivo PST é armazenada no armazenamento de mensagens. No entanto, isso não fornece proteção de dados forte, pois a senha pode ser removida pelas ferramentas disponíveis. Além disso, a senha especificada pelo usuário não é usada como parte da chave para codificação e decodificação de algoritmos de cifra. Assim, não há benefício em proteger os dados para serem acessados por partes não autorizadas. O armazenamento de senha como hash CRC-32 da string original também o torna um método fraco para segurança de dados contra abordagem de força bruta.
 
 ## Referências ##
-
 * [Formato de arquivo de pastas particulares (.pst) do Outlook](https://learn.microsoft.com/en-us/openspecs/office_file_formats/ms-pst/141923d5-15ab-4ef1-a524-6dce75aae546)
 * [Especificações de formato de arquivo de pasta pessoal](https://github.com/libyal/libpff/blob/main/documentation/Personal%20Folder%20File%20(PFF)%20format.asciidoc)
 

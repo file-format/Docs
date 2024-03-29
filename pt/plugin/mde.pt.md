@@ -28,4 +28,3 @@ Um arquivo MDE é criado compilando o código VBA, formulários, relatórios e o
 ## Referências
 
 * [Especificações de acesso](https://support.microsoft.com/en-us/office/access-specifications-0cf3c66f-9cf2-4e32-9568-98c1025bb47c)
-* [O guia não oficial do MDB](http://jabakobob.net/mdb/)

@@ -76,5 +76,5 @@ Aqui estão algumas das configurações que podem ser armazenadas em um arquivo 
 Ao criar e usar o arquivo PC3 que contém as configurações corretas para sua impressora ou plotadora específica, você pode garantir que seus desenhos sejam impressos ou plotados com precisão e qualidade consistente.
 
 ## Referências
-* [PC3 no AutoCAD](https://www.autodesk.com/support/technical/article/caas/sfdcaarticles/sfdcaarticles/Creating-plotter-configuration-files-PC3.html)
+* [PC3 in AutoCAD](https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/Creating-plotter-configuration-files-PC3.html)
 

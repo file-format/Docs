@@ -43,5 +43,4 @@ o bloqueio obrigatório não requer qualquer cooperação entre os processos par
 ## Referências
 
 * [GemFile e Gemfile.lock em Ruby](https://medium.com/never-hop-on-the-bandwagon/gemfile-and-gemfile-lock-in-ruby-65adc918b856)
-* [Bloqueando no Linux](https://www.baeldung.com/linux/file-locking#:~:text=File%20locking%20is%20a%20mechanism,very%20dangerous%20command%20in%20Linux.)
-
+* [Bloqueando no Linux](https://www.baeldung.com/linux/file-locking)

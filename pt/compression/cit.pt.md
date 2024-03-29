@@ -28,9 +28,3 @@ Os arquivos CIT são salvos em disco em formato de arquivo compactado. Ele usa o
 ### Sobre o In8
 
 A In8 é uma empresa de software com experiência no desenvolvimento de aplicações utilizadas para documentar e reportar relatórios de investigação criminal.
-
-## Referências
-
-* [In8Cite](https://www.in8development.com/in8cite-2/)
-
-

@@ -54,6 +54,4 @@ O tamanho não compactado é armazenado como um pequeno inteiro endian não assi
 
 ## Referências
 
-* [Formato de arquivo LZMA](https://svn.python.org/projects/external/xz-5.0.3/doc/lzma-file-format.txt)
 * [Algoritmo de cadeia de Lempel–Ziv–Markov](https://en.wikipedia.org/wiki/Lempel%E2%80%93Ziv%E2%80%93Markov_chain_algorithm)
-
