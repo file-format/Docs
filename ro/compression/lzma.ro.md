@@ -53,7 +53,4 @@ Acesta este stocat ca un întreg mic endian pe 32 de biți fără semn, cu valor
 Dimensiunea necomprimată este stocată ca un întreg mic endian nesemnat pe 64 de biți. O valoare specială de 0xFFFF_FFFF_FFFF_FFFF indică faptul că dimensiunea necomprimată este necunoscută. Valoarea este reprezentată de marcatorul de sfârșit de sarcină utilă (\*) dacă și numai dacă dimensiunea necomprimată este necunoscută.
 
 ## Referințe
-
-* [Format de fișier LZMA](https://svn.python.org/projects/external/xz-5.0.3/doc/lzma-file-format.txt)
 * [Algoritmul lanțului Lempel–Ziv–Markov](https://en.wikipedia.org/wiki/Lempel%E2%80%93Ziv%E2%80%93Markov_chain_algorithm)
-

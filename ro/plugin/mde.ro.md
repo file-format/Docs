@@ -28,4 +28,3 @@ Un fișier MDE este creat prin compilarea codului VBA, a formularelor, a rapoart
 ## Referințe
 
 * [Specificații de acces](https://support.microsoft.com/en-us/office/access-specifications-0cf3c66f-9cf2-4e32-9568-98c1025bb47c)
-* [Ghidul MDB neoficial](http://jabakobob.net/mdb/)

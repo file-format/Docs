@@ -42,6 +42,4 @@ Programele care deschid sau fac referire la fișiere FS includ
 - **Microsoft Visual Studio 2022** (gratuit) pentru Windows
 
 ## Referințe
-* [F Sharp (limbaj de programare)](https://en.wikipedia.org/wiki/F_Sharp_(limbaj_de_programare))
-
-
+* [F Sharp (programming language)](https://en.wikipedia.org/wiki/F_Sharp_(programming_language))

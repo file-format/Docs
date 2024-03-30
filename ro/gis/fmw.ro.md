@@ -21,7 +21,7 @@
 
 Un fișier FMW este un fișier de proiect creat cu software-ul FME Workbench (vine ca parte din suita FME Desktop) care este utilizat pentru transformarea datelor spațiale. Conține setări definite de utilizator utilizate pentru manipularea datelor spațiale, cum ar fi seturi de date de intrare, proprietăți de traducere, proiecții și setări de ieșire. Setările de manipulare a datelor spațiale sunt stocate ca aspect vizual și sunt ușor de editat și salvat din nou.
 
-Puteți deschide fișiere FMW utilizând [Safe Software FME Desktop](https://www.safe.com/fme/fme-desktop/).
+Puteți deschide fișiere FMW utilizând [Safe Software FME Desktop](https://fme.safe.com/platform/).
 
 ## Format de fișier FMW - Mai multe informații
 
@@ -70,7 +70,5 @@ Fișierele FMW sunt stocate pe disc ca fișiere binare și pot fi citite numai f
 
 ## Referințe
 
-* [Safe Software FME Desktop](https://www.safe.com/fme/fme-desktop/)
-
+* [Safe Software FME Desktop](https://fme.safe.com/platform/)
 * [FMW Quick Facts](https://docs.safe.com/fme/html/FME_Desktop_Documentation/FME_ReadersWriters/fmw/quick_facts_fmw.htm)
-

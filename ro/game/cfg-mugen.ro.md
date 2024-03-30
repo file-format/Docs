@@ -172,5 +172,4 @@ Iată și alte tipuri de fișiere care folosesc extensia de fișier **.cfg**.
 - [CFG - Fișier de configurare a modelului Cal3D](/ro/misc/cfg-cal3d/)
 
 ## Referințe
-* [Mugen (motor de joc)](https://en.wikipedia.org/wiki/Mugen_(motor_de_joc))
-
+* [Mugen (game engine)](https://en.wikipedia.org/wiki/Mugen_(game_engine))

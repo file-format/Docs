@@ -29,8 +29,3 @@ Fișierele CIT sunt salvate pe disc în format de fișier comprimat. Utilizează
 
 In8 este o companie de software care are experiență în dezvoltarea de aplicații utilizate pentru documentarea și raportarea rapoartelor de anchetă penală.
 
-## Referințe
-
-* [In8Cite](https://www.in8development.com/in8cite-2/)
-
-

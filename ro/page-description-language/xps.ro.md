@@ -48,7 +48,7 @@ Aceste fișiere păstrează conținutul documentului în așa fel încât, dacă
 
 Formatul de document XPS include un set bine definit de părți și relații, fiecare îndeplinind un anumit scop în document. Formatul extinde, de asemenea, caracteristicile pachetului, inclusiv semnături digitale, miniaturi și intercalare.
 
-Un document XPS tipic arată după cum urmează și poate fi analizat în lumina formatului de fișier XPS [specificații](https://www.ecma-international.org/activities/XML%20Paper%20Specification/XPS%20Standard.pdf).
+Un document XPS tipic arată după cum urmează și poate fi analizat în lumina formatului de fișier XPS specificații.
 
 {{< figure src="../XPS-2.png" alt="Format de fișier XPS" >}}
 

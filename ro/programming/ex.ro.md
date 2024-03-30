@@ -36,7 +36,4 @@ Euphoria a fost scris inițial în limbajul de programare **[C](/ro/programming/
 Fișierele EX sunt stocate ca fișiere text simplu și conțin codul sursă pentru programele scrise în limbajul de programare Euphoria. Aceste fișiere pot fi deschise în orice editor de text.
 
 ## Referință ##
-
-* [Rapid Euphoria](https://www.rapideuphoria.com/)
 * [Forumuri OpenEuphoria](https://openeuphoria.org/forum/index.wc)
-

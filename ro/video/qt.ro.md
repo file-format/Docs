@@ -23,7 +23,7 @@ Un fișier cu extensia .qt este un fișier container multimedia care este utiliz
 
 ## Format de fișier QT
 
-QTFF este orientat pe obiecte care expune o colecție flexibilă de obiecte pentru ușurință de analizare și extindere. Fiecare piesă dintr-un fișier QT conține un flux media codificat digital sau o referință de date la fluxul media aflat într-un alt fișier. Structura de date ierarhică constând din obiecte numite atomi acționează ca containere de urme. Specificațiile de format de fișier pentru [formatul de fișier QT](https://developer.apple.com/library/archive/documentation/QuickTime/QTFF/QTFFPreface/qtffPreface.html) sunt disponibile oficial de Apple Inc pentru referința dezvoltatorului.
+QTFF este orientat pe obiecte care expune o colecție flexibilă de obiecte pentru ușurință de analizare și extindere. Fiecare piesă dintr-un fișier QT conține un flux media codificat digital sau o referință de date la fluxul media aflat într-un alt fișier. Structura de date ierarhică constând din obiecte numite atomi acționează ca containere de urme. Specificațiile de format de fișier pentru [formatul de fișier QT](https://developer.apple.com/documentation/quicktime-file-format) sunt disponibile oficial de Apple Inc pentru referința dezvoltatorului.
 
 ### Descriere media
 
@@ -55,6 +55,6 @@ Următoarea bucată este situată la offset 32+8#40 (hex: 28) și are o dimensiu
 
 ## Referințe ##
 
-* [Format de fișier QT - Apple Inc.](https://developer.apple.com/library/archive/documentation/QuickTime/QTFF/QTFFPreface/qtffPreface.html)
+* [Format de fișier QT - Apple Inc.](https://developer.apple.com/documentation/quicktime-file-format)
 * [Format de fișier QuickTime - Wikipedia](https://en.wikipedia.org/wiki/QuickTime_File_Format)
 

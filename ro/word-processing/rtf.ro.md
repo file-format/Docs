@@ -19,7 +19,7 @@
 
 ## Ce este un fișier RTF?
 
-Introdus și documentat de Microsoft, formatul de text îmbogățit (**RTF**) reprezintă o metodă de codificare a textului formatat și a graficelor pentru utilizare în cadrul aplicațiilor. Formatul facilitează schimbul de documente pe mai multe platforme cu alte produse Microsoft, servind astfel scopului interoperabilității. Această capacitate îl face un standard de transfer de date între software-ul de procesare a textului și, prin urmare, conținutul poate fi transferat de la un sistem de operare la altul fără a pierde formatarea documentului. Specificațiile de format de fișier sunt disponibile de Microsoft pentru [descărcare] public (https://interoperability.blob.core.windows.net/files/Archive_References/%5bMSFT-RTF%5d.pdf) și pot fi consultate din perspectiva dezvoltatorului.
+Introdus și documentat de Microsoft, formatul de text îmbogățit (**RTF**) reprezintă o metodă de codificare a textului formatat și a graficelor pentru utilizare în cadrul aplicațiilor. Formatul facilitează schimbul de documente pe mai multe platforme cu alte produse Microsoft, servind astfel scopului interoperabilității. Această capacitate îl face un standard de transfer de date între software-ul de procesare a textului și, prin urmare, conținutul poate fi transferat de la un sistem de operare la altul fără a pierde formatarea documentului. Specificațiile de format de fișier sunt disponibile de Microsoft pentru descărcare public și pot fi consultate din perspectiva dezvoltatorului.
 
 ## Scurt istoric al formatului de fișier RTF ##
 
@@ -63,7 +63,7 @@ Un grup poate consta din text, cuvinte de control sau simboluri de control cupri
 
 Un fișier RTF are următoarea sintaxă standard:
 
-Introdus și documentat de Microsoft, formatul de text îmbogățit (**RTF**) reprezintă o metodă de codificare a textului formatat și a graficelor pentru utilizare în cadrul aplicațiilor. Formatul facilitează schimbul de documente pe mai multe platforme cu alte produse Microsoft, servind astfel scopului interoperabilității. Această capacitate îl face un standard de transfer de date între software-ul de procesare a textului și, prin urmare, conținutul poate fi transferat de la un sistem de operare la altul fără a pierde formatarea documentului. Specificațiile de format de fișier sunt disponibile de Microsoft pentru [descărcare] public (https://interoperability.blob.core.windows.net/files/Archive_References/%5bMSFT-RTF%5d.pdf) și pot fi consultate din perspectiva dezvoltatorului.
+Introdus și documentat de Microsoft, formatul de text îmbogățit (**RTF**) reprezintă o metodă de codificare a textului formatat și a graficelor pentru utilizare în cadrul aplicațiilor. Formatul facilitează schimbul de documente pe mai multe platforme cu alte produse Microsoft, servind astfel scopului interoperabilității. Această capacitate îl face un standard de transfer de date între software-ul de procesare a textului și, prin urmare, conținutul poate fi transferat de la un sistem de operare la altul fără a pierde formatarea documentului. Specificațiile de format de fișier sunt disponibile de Microsoft pentru descărcare public și pot fi consultate din perspectiva dezvoltatorului.
 
 #### Antet RTF ####
 
@@ -128,6 +128,4 @@ Fiecare document RTF trebuie să se încheie cu un }, pentru a închide grupul d
 
 ## Referințe ##
 
-* [Specificații RTF 1.9.1](https://interoperability.blob.core.windows.net/files/Archive_References/%5bMSFT-RTF%5d.pdf)
 * [Rich Text Format](https://en.wikipedia.org/wiki/Rich_Text_Format)
-

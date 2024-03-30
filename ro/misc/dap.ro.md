@@ -22,8 +22,3 @@
 Un fișier DAP este un fișier de descărcare în curs creat de fișierul Download Accelerator Plus (DAP). Este creat atunci când utilizatorii inițiază o descărcare din orice depozit de fișiere online folosind software-ul DAP. DAP oferă capacitatea de a întrerupe și a relua o descărcare care este în curs. În acest scop, salvează fișierul descărcat parțial cu extensia .dap până când este descărcat complet. Fișierul DAP poate fi previzualizat în timpul procesului de descărcare.
 
 Fișierele DAP pot fi deschise cu software-ul SpeedBit Download Accelerator Plus (DAP).
-
-## Referințe
-
-* [DAP Help - Manage Saving Folders](http://www.speedbit.com/dap-help/download-accelerator-file-manager/)
-
