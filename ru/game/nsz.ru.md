@@ -54,6 +54,5 @@ NSP и NSZ — это форматы файлов, связанные с игр�
 - **nsz** (бесплатно) для (Windows, Mac, Linux)
 
 ## Рекомендации
-* [Эмулятор Yuzu](https://en.wikipedia.org/wiki/Yuzu_(эмулятор))
-
+* [Yuzu Emulator](https://en.wikipedia.org/wiki/Yuzu_(emulator))
 
