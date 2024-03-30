@@ -28,9 +28,3 @@ CIT-filer sparas på skiva i komprimerat filformat. Den använder den vanliga ZI
 ### Om In8
 
 In8 är ett mjukvaruföretag som har expertis i att utveckla applikationer som används för att dokumentera och rapportera brottsutredningsrapporter.
-
-## Referenser
-
-* [In8Cite](https://www.in8development.com/in8cite-2/)
-
-

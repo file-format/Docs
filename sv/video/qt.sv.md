@@ -23,7 +23,7 @@ En fil med filtillägget .qt är en multimediacontainerfil som används av Quick
 
 ## QT filformat
 
-QTFF är objektorienterad som exponerar en flexibel samling objekt för enkel analys och expansion. Varje spår i en QT-fil innehåller en digitalt kodad mediaström eller en datareferens till mediaströmmen som finns i en annan fil. Den hierarkiska datastrukturen som består av objekt som kallas atomer fungerar som spårbehållare. Filformatspecifikationer för [QT-filformat](https://developer.apple.com/library/archive/documentation/QuickTime/QTFF/QTFFPreface/qtffPreface.html) är officiellt tillgängliga av Apple Inc för utvecklarens referens.
+QTFF är objektorienterad som exponerar en flexibel samling objekt för enkel analys och expansion. Varje spår i en QT-fil innehåller en digitalt kodad mediaström eller en datareferens till mediaströmmen som finns i en annan fil. Den hierarkiska datastrukturen som består av objekt som kallas atomer fungerar som spårbehållare. Filformatspecifikationer för [QT-filformat](https://developer.apple.com/documentation/quicktime-file-format) är officiellt tillgängliga av Apple Inc för utvecklarens referens.
 
 ### Mediebeskrivning
 
@@ -55,6 +55,6 @@ Nästa bit är placerad vid offset 32+8#40 (hex: 28) och har en storlek 3 263 02
 
 ## Referenser ##
 
-* [QT-filformat - Apple Inc.](https://developer.apple.com/library/archive/documentation/QuickTime/QTFF/QTFFPreface/qtffPreface.html)
+* [QT-filformat - Apple Inc.](https://developer.apple.com/documentation/quicktime-file-format)
 * [QuickTime File Format - Wikipedia](https://en.wikipedia.org/wiki/QuickTime_File_Format)
 

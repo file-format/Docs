@@ -22,8 +22,3 @@
 En DAP-fil är en pågående nedladdningsfil skapad av en Download Accelerator Plus-fil (DAP). Den skapas när användare initierar en nedladdning från valfritt filarkiv online med hjälp av DAP-programvara. DAP ger möjlighet att pausa och återuppta en nedladdning som pågår. För detta ändamål sparar den den delvis nedladdade filen med filtillägget .dap tills den är helt nedladdad. DAP-filen kan förhandsgranskas under nedladdningsprocessen.
 
 DAP-filer kan öppnas med programvaran SpeedBit Download Accelerator Plus (DAP).
-
-## Referenser
-
-* [DAP Hjälp - Hantera sparade mappar](http://www.speedbit.com/dap-help/download-accelerator-file-manager/)
-

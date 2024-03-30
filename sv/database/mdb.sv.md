@@ -40,5 +40,3 @@ En enda Microsoft Access-databas kan bestå av flera filer som gör det möjligt
 ## Referenser ##
 
 * [Åtkomstspecifikationer](https://support.microsoft.com/en-us/office/access-specifications-0cf3c66f-9cf2-4e32-9568-98c1025bb47c)
-* [Den inofficiella MDB-guiden](http://jabakobob.net/mdb/)
-

@@ -62,5 +62,4 @@ CHEAT-filer är vanliga textfiler, så de kan öppnas med vilken textredigerare 
 För att använda en CHEAT-fil med Navi, en plattformsoberoende terminalapplikation, kan du importera filen från ett GitHub-förråd eller placera den i Navis katalog. När du gör detta kommer kommandona som ingår i CHEAT-filen att bli tillgängliga i Navi, så att du snabbt kan referera och använda dem.
 
 ## Referenser
-* [Navi – Cheatsheet Tool](https://otechnix.com/navi-an-interactive-commandline-cheatsheet-tool/)
-
+* [Navi – Cheatsheet Tool](https://ostechnix.com/navi-an-interactive-commandline-cheatsheet-tool/)

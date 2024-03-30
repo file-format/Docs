@@ -19,7 +19,7 @@
 
 ## Vad är RTF fil?
 
-Introducerat och dokumenterat av Microsoft representerar Rich Text Format (**RTF**) en metod för att koda formaterad text och grafik för användning i applikationer. Formatet underlättar plattformsoberoende dokumentutbyte med andra Microsoft-produkter, vilket tjänar syftet med interoperabilitet. Denna förmåga gör det till en standard för dataöverföring mellan ordbehandlingsprogram och därför kan innehåll överföras från ett operativsystem till ett annat utan att förlora dokumentformateringen. Filformatspecifikationerna är tillgängliga av Microsoft för offentlig [nedladdning](https://interoperability.blob.core.windows.net/files/Archive_References/%5bMSFT-RTF%5d.pdf) och kan refereras till från utvecklarens perspektiv.
+Introducerat och dokumenterat av Microsoft representerar Rich Text Format (**RTF**) en metod för att koda formaterad text och grafik för användning i applikationer. Formatet underlättar plattformsoberoende dokumentutbyte med andra Microsoft-produkter, vilket tjänar syftet med interoperabilitet. Denna förmåga gör det till en standard för dataöverföring mellan ordbehandlingsprogram och därför kan innehåll överföras från ett operativsystem till ett annat utan att förlora dokumentformateringen. Filformatspecifikationerna är tillgängliga av Microsoft för offentlig nedladdning och kan refereras till från utvecklarens perspektiv.
 
 ## Kort historik över RTF-filformat ##
 
@@ -63,7 +63,7 @@ En grupp kan bestå av text, kontrollord eller kontrollsymboler omslutna av klam
 
 En RTF-fil har följande standardsyntax:
 
-Introducerat och dokumenterat av Microsoft representerar Rich Text Format (**RTF**) en metod för att koda formaterad text och grafik för användning i applikationer. Formatet underlättar plattformsoberoende dokumentutbyte med andra Microsoft-produkter, vilket tjänar syftet med interoperabilitet. Denna förmåga gör det till en standard för dataöverföring mellan ordbehandlingsprogram och därför kan innehåll överföras från ett operativsystem till ett annat utan att förlora dokumentformateringen. Filformatspecifikationerna är tillgängliga av Microsoft för offentlig [nedladdning](https://interoperability.blob.core.windows.net/files/Archive_References/%5bMSFT-RTF%5d.pdf) och kan refereras till från utvecklarens perspektiv.
+Introducerat och dokumenterat av Microsoft representerar Rich Text Format (**RTF**) en metod för att koda formaterad text och grafik för användning i applikationer. Formatet underlättar plattformsoberoende dokumentutbyte med andra Microsoft-produkter, vilket tjänar syftet med interoperabilitet. Denna förmåga gör det till en standard för dataöverföring mellan ordbehandlingsprogram och därför kan innehåll överföras från ett operativsystem till ett annat utan att förlora dokumentformateringen. Filformatspecifikationerna är tillgängliga av Microsoft för offentlig nedladdning och kan refereras till från utvecklarens perspektiv.
 
 #### RTF Header ####
 
@@ -127,7 +127,4 @@ I ett dokument med den teckensnittstabellen skulle `{\f2 stuff}` skriva ut "grej
 Varje RTF-dokument måste sluta med en } för att stänga gruppen som öppnas av { som är det första tecknet i dokumentet. Ingenting kan följa den sista }, förutom möjligen en nyrad.
 
 ## Referenser ##
-
-* [RTF 1.9.1-specifikationer](https://interoperability.blob.core.windows.net/files/Archive_References/%5bMSFT-RTF%5d.pdf)
 * [Rich Text Format](https://en.wikipedia.org/wiki/Rich_Text_Format)
-

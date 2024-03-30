@@ -29,5 +29,3 @@ Alla Microsoft Access 2007+-filer använder Jet ACE (Access-databasmotor) som an
 
 * [Hur döljer man VBA-kod för användare?](https://support.microsoft.com/en-us/office/hide-vba-code-from-users-ce6ab610-af07-4008-91e0-1ef1b796ff18)
 * [MDB-verktyg](https://github.com/mdbtools/mdbtools/blob/master/HACKING)
-* [Den inofficiella MDB-guiden](http://jabakobob.net/mdb/)
-

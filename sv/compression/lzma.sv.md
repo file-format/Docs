@@ -53,7 +53,4 @@ Detta lagras som ett osignerat 32-bitars litet endian heltal med värden från 2
 Den okomprimerade storleken lagras som osignerat 64-bitars litet endian heltal. Ett specialvärde på 0xFFFF_FFFF_FFFF_FFFF indikerar att okomprimerad storlek är okänd. Värdet representeras av End of Payload Marker (\*) om och endast om okomprimerad storlek är okänd.
 
 ## Referenser
-
-* [LZMA-filformat](https://svn.python.org/projects/external/xz-5.0.3/doc/lzma-file-format.txt)
 * [Lempel–Ziv–Markov-kedjaalgoritm](https://en.wikipedia.org/wiki/Lempel%E2%80%93Ziv%E2%80%93Markov_chain_algorithm)
-

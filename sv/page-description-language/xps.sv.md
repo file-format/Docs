@@ -48,7 +48,7 @@ Dessa filer behåller dokumentinnehållet på ett sådant sätt att om, till exe
 
 XPS-dokumentformatet innehåller en väldefinierad uppsättning delar och relationer, som var och en uppfyller ett visst syfte i dokumentet. Formatet utökar också paketets funktioner, inklusive digitala signaturer, miniatyrer och interfoliering.
 
-Ett typiskt XPS-dokument ser ut som följer och kan analyseras i ljuset av XPS-filformat [specifikationer](https://www.ecma-international.org/activities/XML%20Paper%20Specification/XPS%20Standard.pdf).
+Ett typiskt XPS-dokument ser ut som följer och kan analyseras i ljuset av XPS-filformat specifikationer.
 
 {{< figure src="../XPS-2.png" alt="XPS filformat" >}}
 

@@ -36,7 +36,4 @@ Euphoria skrevs ursprungligen i programmeringsspråket **[C](/sv/programming/c/)
 EX-filer lagras som vanliga textfiler och innehåller källkoden för program skrivna i programmeringsspråket Euphoria. Dessa filer kan öppnas i vilken textredigerare som helst.
 
 ## Referens ##
-
-* [Rapid Euphoria](https://www.rapideuphoria.com/)
 * [OpenEuphoria Forums](https://openeuphoria.org/forum/index.wc)
-

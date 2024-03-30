@@ -21,7 +21,7 @@
 
 En FMW-fil är en projektfil som skapats med programvaran FME Workbench (kommer som en del av FME Desktop Suite) som används för rumslig datatransformation. Den innehåller användardefinierade inställningar som används för rumslig datamanipulation, såsom indatauppsättningar, översättningsegenskaper, projektioner och utdatainställningar. Inställningarna för manipulering av rumslig data lagras som en visuell layout och är lätta att redigera och spara igen.
 
-Du kan öppna FMW-filer med [Safe Software FME Desktop](https://www.safe.com/fme/fme-desktop/).
+Du kan öppna FMW-filer med [Safe Software FME Desktop](https://fme.safe.com/platform/).
 
 ## FMW-filformat - Mer information
 
@@ -69,8 +69,5 @@ FMW-filer lagras på skiva som binära filer och kan endast läsas med FME Deskt
 
 
 ## Referenser
-
-* [Safe Software FME Desktop](https://www.safe.com/fme/fme-desktop/)
-
+* [Safe Software FME Desktop](https://fme.safe.com/platform/)
 * [FMW Quick Facts](https://docs.safe.com/fme/html/FME_Desktop_Documentation/FME_ReadersWriters/fmw/quick_facts_fmw.htm)
-
