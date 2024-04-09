@@ -38,7 +38,7 @@ DOCX en PDF zijn populaire documentbestandsformaten voor het schrijven en delen 
 
 ## Aspose.Words API's
 
-Met de API's van Aspose.Words kan elke ontwikkelaar [DOCX](/nl/word-processing/docx/) naar [PDF](/nl/pdf/)-indeling converteren met slechts een paar regels code. Het is beschikbaar voor veel programmeertalen, waaronder [C#](/nl/programming/cs/), [Java](/nl/programming/java/), [Python](/nl/programming/py/) en [C++](/nl/programming/cpp/ ). Naast PDF kunt u met Aspose.Words API's DOCX-bestanden converteren naar vele andere populaire bestandsindelingen.
+Met de API's van Aspose.Words kan elke ontwikkelaar [DOCX](/nl/word-processing/docx/) naar [PDF](/nl/pdf/)-indeling converteren met slechts een paar regels code. Het is beschikbaar voor veel programmeertalen, waaronder [C#](/nl/programming/cs/), [Java](/nl/programming/java/), [Python](/nl/programming/py/) en [C++](/nl/programming/cpp/). Naast PDF kunt u met Aspose.Words API's DOCX-bestanden converteren naar vele andere populaire bestandsindelingen.
 
 ## DOCX naar PDF-conversie - gratis demo
 

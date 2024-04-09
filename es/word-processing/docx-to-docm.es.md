@@ -41,7 +41,7 @@ Puede convertir DOCX a formato de archivo DOC utilizando la [aplicación Aspose.
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-[Aspose.Words](https://products.aspose.com/words/) es un conjunto de API que permite a cualquier desarrollador convertir [DOCX](/es/word-processing/docx/) a [DOCM](/es/word-processing /docm/) formato usando líneas simples de código. Está disponible para muchos lenguajes de programación, incluidos:
+[Aspose.Words](https://products.aspose.com/words/) es un conjunto de API que permite a cualquier desarrollador convertir [DOCX](/es/word-processing/docx/) a [DOCM](/es/word-processing/docm/) formato usando líneas simples de código. Está disponible para muchos lenguajes de programación, incluidos:
 
 * [C#](/es/programming/cs/)
 * [Java](/es/programming/java/)

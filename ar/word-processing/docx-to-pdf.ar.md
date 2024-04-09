@@ -38,7 +38,7 @@
 
 ## Aspose.Words APIs
 
-تسمح مجموعة واجهات برمجة التطبيقات Aspose.Words لأي مطور بتحويل [DOCX](/ar/word-processing/docx/) إلى تنسيق [PDF](/ar/pdf/) باستخدام بضعة أسطر فقط من التعليمات البرمجية. وهو متاح للعديد من لغات البرمجة بما في ذلك [C#](/ar/programming/cs/), [Java](/ar/programming/java/), [Python](/ar/programming/py/) و[C++](/ar/programming/cpp/ ). بالإضافة إلى PDF, تتيح لك Aspose.Words APIs تحويل ملفات DOCX إلى العديد من تنسيقات الملفات الشائعة الأخرى.
+تسمح مجموعة واجهات برمجة التطبيقات Aspose.Words لأي مطور بتحويل [DOCX](/ar/word-processing/docx/) إلى تنسيق [PDF](/ar/pdf/) باستخدام بضعة أسطر فقط من التعليمات البرمجية. وهو متاح للعديد من لغات البرمجة بما في ذلك [C#](/ar/programming/cs/), [Java](/ar/programming/java/), [Python](/ar/programming/py/) و[C++](/ar/programming/cpp/). بالإضافة إلى PDF, تتيح لك Aspose.Words APIs تحويل ملفات DOCX إلى العديد من تنسيقات الملفات الشائعة الأخرى.
 
 ## تحويل DOCX إلى PDF - عرض تجريبي مجاني
 

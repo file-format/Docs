@@ -41,7 +41,7 @@ DOTX е надстроената версия на файловия формат
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-[Aspose.Words](https://products.aspose.com/words/) е набор от API, който позволява на всеки разработчик да преобразува [DOCX](/bg/word-processing/docx/) в [DOTX](/bg/word-processing/dotx/) формат с помощта на прости редове код. Предлага се за много езици за програмиране, включително [C#](/bg/programming/cs/), [Java](/bg/programming/java/), [Python](/bg/programming/py/) и [C++](/bg/programming/cpp/ ). В допълнение към DOTX, API на Aspose.Words ви позволяват да конвертирате DOCX файлове в много други популярни файлови формати.
+[Aspose.Words](https://products.aspose.com/words/) е набор от API, който позволява на всеки разработчик да преобразува [DOCX](/bg/word-processing/docx/) в [DOTX](/bg/word-processing/dotx/) формат с помощта на прости редове код. Предлага се за много езици за програмиране, включително [C#](/bg/programming/cs/), [Java](/bg/programming/java/), [Python](/bg/programming/py/) и [C++](/bg/programming/cpp/). В допълнение към DOTX, API на Aspose.Words ви позволяват да конвертирате DOCX файлове в много други популярни файлови формати.
 
 ## Препратки
 

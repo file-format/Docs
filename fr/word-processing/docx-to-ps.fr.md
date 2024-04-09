@@ -34,7 +34,7 @@ Aspose.Words est un ensemble d'API qui permet aux développeurs d'applications d
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-La suite d'API Aspose.Words permet à tout développeur de convertir le format [DOCX](/fr/word-processing/docx/) au format [PS](/fr/page-description-language/ps/) avec seulement quelques lignes de code. Il est disponible pour de nombreux langages de programmation, notamment [C#](/fr/programming/cs/), [Java](/fr/programming/java/), [Python](/fr/programming/py/) et [C++](/fr/programming/cpp/ ). En plus de PS, les API Aspose.Words vous permettent de convertir des fichiers DOCX vers de nombreux autres formats de fichiers populaires.
+La suite d'API Aspose.Words permet à tout développeur de convertir le format [DOCX](/fr/word-processing/docx/) au format [PS](/fr/page-description-language/ps/) avec seulement quelques lignes de code. Il est disponible pour de nombreux langages de programmation, notamment [C#](/fr/programming/cs/), [Java](/fr/programming/java/), [Python](/fr/programming/py/) et [C++](/fr/programming/cpp/). En plus de PS, les API Aspose.Words vous permettent de convertir des fichiers DOCX vers de nombreux autres formats de fichiers populaires.
 
 ## Aspose.Words pour les ressources .NET
 

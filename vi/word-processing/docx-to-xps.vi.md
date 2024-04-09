@@ -43,7 +43,7 @@ Sự hỗ trợ đa dạng dành cho các ngôn ngữ lập trình khác nhau n�
 
 ## Giới thiệu về DOCX sang XPS
 
-Chuyển đổi các trang DOCX sang định dạng tệp XPS (Thông số kỹ thuật giấy XML) là một trong những thao tác thường được sử dụng. Khi tệp DOCX được chuyển đổi sang XPS, tất cả các trang của nó sẽ được hiển thị thành một tệp XPS đầu ra duy nhất. Microsoft Windows cung cấp trình xem XPS mặc định có thể được sử dụng để mở và xem các tệp XPS. DOCX có thể được chuyển đổi sang XPS bằng một số công cụ trực tuyến khác nhau. Ứng dụng Aspose.Words là một trong những ứng dụng trực tuyến có thể chuyển đổi [DOCX](/vi/word-processing/docx/) sang [XPS](/vi/page-description-lingu/xps/) trực tuyến miễn phí.
+Chuyển đổi các trang DOCX sang định dạng tệp XPS (Thông số kỹ thuật giấy XML) là một trong những thao tác thường được sử dụng. Khi tệp DOCX được chuyển đổi sang XPS, tất cả các trang của nó sẽ được hiển thị thành một tệp XPS đầu ra duy nhất. Microsoft Windows cung cấp trình xem XPS mặc định có thể được sử dụng để mở và xem các tệp XPS. DOCX có thể được chuyển đổi sang XPS bằng một số công cụ trực tuyến khác nhau. Ứng dụng Aspose.Words là một trong những ứng dụng trực tuyến có thể chuyển đổi [DOCX](/vi/word-processing/docx/) sang [XPS](/vi/page-description-language/xps/) trực tuyến miễn phí.
 
 ## Chuyển đổi DOCX sang XPS trong .NET, Java, C++ và Python
 

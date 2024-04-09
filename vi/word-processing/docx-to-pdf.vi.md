@@ -38,7 +38,7 @@ DOCX và PDF là các định dạng tệp tài liệu phổ biến để viết
 
 ## API Aspose.Words
 
-Bộ API Aspose.Words cho phép bất kỳ nhà phát triển nào chuyển đổi định dạng [DOCX](/vi/word-processing/docx/) sang [PDF](/vi/pdf/) chỉ bằng một vài dòng mã. Nó có sẵn cho nhiều ngôn ngữ lập trình bao gồm [C#](/vi/programming/cs/), [Java](/vi/programming/java/), [Python](/vi/programming/py/) và [C++](/vi/programming/cpp/ ). Ngoài PDF, API Aspose.Words cho phép bạn chuyển đổi tệp DOCX sang nhiều định dạng tệp phổ biến khác.
+Bộ API Aspose.Words cho phép bất kỳ nhà phát triển nào chuyển đổi định dạng [DOCX](/vi/word-processing/docx/) sang [PDF](/vi/pdf/) chỉ bằng một vài dòng mã. Nó có sẵn cho nhiều ngôn ngữ lập trình bao gồm [C#](/vi/programming/cs/), [Java](/vi/programming/java/), [Python](/vi/programming/py/) và [C++](/vi/programming/cpp/). Ngoài PDF, API Aspose.Words cho phép bạn chuyển đổi tệp DOCX sang nhiều định dạng tệp phổ biến khác.
 
 ## Chuyển đổi DOCX sang PDF - Bản demo miễn phí
 

@@ -19,7 +19,7 @@
 
 ## Tệp DGN là gì?
 
-Tệp có phần mở rộng .dgn (Thiết kế) là tệp bản vẽ được tạo và hỗ trợ bởi các ứng dụng CAD như MicroStation và Hệ thống thiết kế đồ họa tương tác Intergraph. Nó được sử dụng để tạo và lưu các thiết kế cho các dự án xây dựng như đường cao tốc, cầu và các tòa nhà. Định dạng này tương tự như định dạng tệp [DWG](/vi/cad/dwg/) của Autodesk và được coi là đối thủ cạnh tranh của nó. Các tệp DNG có thể được lưu dưới dạng Định dạng tệp tiêu chuẩn của Intergraph hoặc V8 DGN. DGN có thể được chuyển đổi sang một số định dạng khác như DWG, [BMP](/vi/image/bmp/), [JPEG](/vi/image/jpeg/), [PDF](/vi/pdf/), [GIF](/vi/image/ gif/) và những thứ khác. Nó có thể được mở bằng Autodesk AutoCAD, Bentley View và Bentley Systems MicroStation ngoài các ứng dụng phần mềm khác như Corel PaintShop Photo Pro và các phiên bản IMSI TurboCAD Deluxe.
+Tệp có phần mở rộng .dgn (Thiết kế) là tệp bản vẽ được tạo và hỗ trợ bởi các ứng dụng CAD như MicroStation và Hệ thống thiết kế đồ họa tương tác Intergraph. Nó được sử dụng để tạo và lưu các thiết kế cho các dự án xây dựng như đường cao tốc, cầu và các tòa nhà. Định dạng này tương tự như định dạng tệp [DWG](/vi/cad/dwg/) của Autodesk và được coi là đối thủ cạnh tranh của nó. Các tệp DNG có thể được lưu dưới dạng Định dạng tệp tiêu chuẩn của Intergraph hoặc V8 DGN. DGN có thể được chuyển đổi sang một số định dạng khác như DWG, [BMP](/vi/image/bmp/), [JPEG](/vi/image/jpeg/), [PDF](/vi/pdf/), [GIF](/vi/image/gif/) và những thứ khác. Nó có thể được mở bằng Autodesk AutoCAD, Bentley View và Bentley Systems MicroStation ngoài các ứng dụng phần mềm khác như Corel PaintShop Photo Pro và các phiên bản IMSI TurboCAD Deluxe.
 
 ## Định dạng tệp V8 DGN
 

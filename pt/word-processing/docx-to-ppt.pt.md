@@ -38,6 +38,6 @@ Converter DOCX em PPT usando o aplicativo online Aspose.Words é simples e inclu
 
 ## APIs Aspose.Words para DOCX para Powerpoint PPT
 
-Aspose.Words é um conjunto de APIs que permite a qualquer desenvolvedor converter o formato [DOCX](/pt/word-processing/docx/) para [PPT](/pt/presentation/ppt/) usando linhas simples de código. Está disponível para muitas linguagens de programação, incluindo [C#](/pt/programming/cs/), [Java](/pt/programming/java/), [Python](/pt/programming/py/) e [C++](/pt/programming/cpp/ ). Além do PPT, as APIs Aspose.Words permitem converter arquivos DOCX em muitos outros formatos de arquivo populares.
+Aspose.Words é um conjunto de APIs que permite a qualquer desenvolvedor converter o formato [DOCX](/pt/word-processing/docx/) para [PPT](/pt/presentation/ppt/) usando linhas simples de código. Está disponível para muitas linguagens de programação, incluindo [C#](/pt/programming/cs/), [Java](/pt/programming/java/), [Python](/pt/programming/py/) e [C++](/pt/programming/cpp/). Além do PPT, as APIs Aspose.Words permitem converter arquivos DOCX em muitos outros formatos de arquivo populares.
 
 

@@ -35,7 +35,7 @@ Anda dapat menggunakan aplikasi konversi Aspose.Words GRATIS untuk [mengonversi 
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-Aplikasi Aspose.Words didukung oleh Aspose.Words yang merupakan rangkaian API yang memungkinkan pengembang mana pun mengonversi format [DOCX](/id/word-processing/docx/) ke format [PNG](/id/image/png/) hanya dengan beberapa baris kode. Ini tersedia untuk banyak bahasa pemrograman termasuk [C#](/id/programming/cs/), [Java](/id/programming/java/), [Python](/id/programming/py/) dan [C++](/id/programming/cpp/ ).
+Aplikasi Aspose.Words didukung oleh Aspose.Words yang merupakan rangkaian API yang memungkinkan pengembang mana pun mengonversi format [DOCX](/id/word-processing/docx/) ke format [PNG](/id/image/png/) hanya dengan beberapa baris kode. Ini tersedia untuk banyak bahasa pemrograman termasuk [C#](/id/programming/cs/), [Java](/id/programming/java/), [Python](/id/programming/py/) dan [C++](/id/programming/cpp/).
 
 ## Konversi DOCX ke PNG di .NET, Java, C++ dan Python
 

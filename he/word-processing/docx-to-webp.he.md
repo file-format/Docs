@@ -33,7 +33,7 @@ WEBP הוא פורמט קובץ התמונה המודרני עם גודל קוב
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-Aspose.Words היא קבוצה של ממשקי API המאפשרים לכל מפתח להמיר את [DOCX](/he/word-processing/docx/) לפורמט [WEBP](/he/image/webp/) באמצעות שורות קוד פשוטות. הוא זמין עבור שפות תכנות רבות, כולל [C#](/he/programming/cs/), [Java](/he/programming/java/), [Python](/he/programming/py/) ו-[C++](/he/programming/cpp/ ). בנוסף ל-WEBP, ממשקי API של Aspose.Words מאפשרים לך להמיר קבצי DOCX לפורמטים פופולריים רבים אחרים של קבצים.
+Aspose.Words היא קבוצה של ממשקי API המאפשרים לכל מפתח להמיר את [DOCX](/he/word-processing/docx/) לפורמט [WEBP](/he/image/webp/) באמצעות שורות קוד פשוטות. הוא זמין עבור שפות תכנות רבות, כולל [C#](/he/programming/cs/), [Java](/he/programming/java/), [Python](/he/programming/py/) ו-[C++](/he/programming/cpp/). בנוסף ל-WEBP, ממשקי API של Aspose.Words מאפשרים לך להמיר קבצי DOCX לפורמטים פופולריים רבים אחרים של קבצים.
 
 ## הפניות
 

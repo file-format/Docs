@@ -41,7 +41,7 @@ Bạn có thể chuyển đổi định dạng tệp DOCX sang DOT bằng cách 
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-[Aspose.Words](https://products.aspose.com/words/) là một bộ API cho phép mọi nhà phát triển chuyển đổi [DOCX](/vi/word-processing/docx/) thành [DOC](/vi/word-processing /doc/) bằng các dòng mã đơn giản. Nó có sẵn cho nhiều ngôn ngữ lập trình bao gồm [C#](/vi/programming/cs/), [Java](/vi/programming/java/), [Python](/vi/programming/py/) và [C++](/vi/programming/cpp/ ). Ngoài DOT, API Aspose.Words cho phép bạn chuyển đổi tệp DOCX sang nhiều định dạng tệp phổ biến khác.
+[Aspose.Words](https://products.aspose.com/words/) là một bộ API cho phép mọi nhà phát triển chuyển đổi [DOCX](/vi/word-processing/docx/) thành [DOC](/vi/word-processing/doc/) bằng các dòng mã đơn giản. Nó có sẵn cho nhiều ngôn ngữ lập trình bao gồm [C#](/vi/programming/cs/), [Java](/vi/programming/java/), [Python](/vi/programming/py/) và [C++](/vi/programming/cpp/). Ngoài DOT, API Aspose.Words cho phép bạn chuyển đổi tệp DOCX sang nhiều định dạng tệp phổ biến khác.
 
 ## Người giới thiệu
 

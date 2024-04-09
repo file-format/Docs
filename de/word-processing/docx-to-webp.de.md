@@ -33,7 +33,7 @@ Wenn Sie DOCX in WEBP konvertieren möchten, können Sie die Aspose.Words-App ve
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-Aspose.Words ist eine Reihe von APIs, mit denen jeder Entwickler mithilfe einfacher Codezeilen [DOCX](/word-processing/docx/) in das Format [WEBP](/image/webp/) konvertieren kann. Es ist für viele Programmiersprachen verfügbar, einschließlich [C#](/programming/cs/), [Java](/programming/java/), [Python](/programming/py/) und [C++](/programming/cpp/ ). Zusätzlich zu WEBP können Sie mit den Aspose.Words-APIs DOCX-Dateien in viele andere gängige Dateiformate konvertieren.
+Aspose.Words ist eine Reihe von APIs, mit denen jeder Entwickler mithilfe einfacher Codezeilen [DOCX](/word-processing/docx/) in das Format [WEBP](/image/webp/) konvertieren kann. Es ist für viele Programmiersprachen verfügbar, einschließlich [C#](/programming/cs/), [Java](/programming/java/), [Python](/programming/py/) und [C++](/programming/cpp/). Zusätzlich zu WEBP können Sie mit den Aspose.Words-APIs DOCX-Dateien in viele andere gängige Dateiformate konvertieren.
 
 ## Verweise
 

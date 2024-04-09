@@ -37,7 +37,7 @@ Du kan konvertera DOCX till DOC-filformat med [Aspose.Words DOCX to DOC-appen](h
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-[Aspose.Words](https://products.aspose.com/words/) är en uppsättning API:er som låter alla utvecklare konvertera [DOCX](/sv/word-processing/docx/) till [DOC](/sv/word-processing/doc/) format med enkla kodrader. Den är tillgänglig för många programmeringsspråk inklusive [C#](/sv/programming/cs/), [Java](/sv/programming/java/), [Python](/sv/programming/py/) och [C++](/sv/programming/cpp/ ). Förutom DOC låter Aspose.Words API:er dig konvertera DOCX-filer till många andra populära filformat.
+[Aspose.Words](https://products.aspose.com/words/) är en uppsättning API:er som låter alla utvecklare konvertera [DOCX](/sv/word-processing/docx/) till [DOC](/sv/word-processing/doc/) format med enkla kodrader. Den är tillgänglig för många programmeringsspråk inklusive [C#](/sv/programming/cs/), [Java](/sv/programming/java/), [Python](/sv/programming/py/) och [C++](/sv/programming/cpp/). Förutom DOC låter Aspose.Words API:er dig konvertera DOCX-filer till många andra populära filformat.
 
 ## Referenser
 

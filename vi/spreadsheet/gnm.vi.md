@@ -27,7 +27,7 @@ Các tệp GNM là các tệp XML được nén có thể được giải nén b
 
 ## Các tính năng được hỗ trợ trong tệp GNM
 
-Vì Gnumeric hỗ trợ một số định dạng tệp khác nhau nên nó có thể chuyển đổi các tệp GNM gốc thành [CSV](/vi/spreadsheet/csv/), [XLSX](/vi/spreadsheet/xlsx/), Microsoft Works (.wks), [HTML](/vi/ web/html/), [LaTex](/vi/word-processing/latex/), và [Lotus 1-2-3](/vi/spreadsheet/123/).
+Vì Gnumeric hỗ trợ một số định dạng tệp khác nhau nên nó có thể chuyển đổi các tệp GNM gốc thành [CSV](/vi/spreadsheet/csv/), [XLSX](/vi/spreadsheet/xlsx/), Microsoft Works (.wks), [HTML](/vi/web/html/), [LaTex](/vi/word-processing/latex/), và [Lotus 1-2-3](/vi/spreadsheet/123/).
 
 ## Gnumeric trên Github
 

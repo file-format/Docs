@@ -38,6 +38,6 @@
 
 ## API на Aspose.Words за DOCX към Powerpoint PPT
 
-Aspose.Words е набор от API, който позволява на всеки разработчик да преобразува [DOCX](/bg/word-processing/docx/) във формат [PPT](/bg/presentation/ppt/) с помощта на прости редове код. Предлага се за много езици за програмиране, включително [C#](/bg/programming/cs/), [Java](/bg/programming/java/), [Python](/bg/programming/py/) и [C++](/bg/programming/cpp/ ). В допълнение към PPT, API на Aspose.Words ви позволяват да конвертирате DOCX файлове в много други популярни файлови формати.
+Aspose.Words е набор от API, който позволява на всеки разработчик да преобразува [DOCX](/bg/word-processing/docx/) във формат [PPT](/bg/presentation/ppt/) с помощта на прости редове код. Предлага се за много езици за програмиране, включително [C#](/bg/programming/cs/), [Java](/bg/programming/java/), [Python](/bg/programming/py/) и [C++](/bg/programming/cpp/). В допълнение към PPT, API на Aspose.Words ви позволяват да конвертирате DOCX файлове в много други популярни файлови формати.
 
 

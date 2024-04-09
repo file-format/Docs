@@ -19,7 +19,7 @@
 
 ## Một tập tin OAM là gì?
 
-Tệp .oam là tệp tiện ích hoạt hình được xuất từ Adobe Edge Animate Widget. Các ảnh động được xuất dưới dạng định dạng tệp tiện ích OAM có thể được chèn vào các ứng dụng Adobe khác như Tài liệu InDesign ([Tệp INDD](/vi/page-description-lingu/indd/), Dreamweaver và Muse. Các tệp OAM giống như các gói triển khai có thể dễ dàng thực hiện được chèn vào các dự án khác của Adobe để sử dụng chúng. Tệp OAM chứa thông tin về nội dung, hành vi và mã hành động của hoạt ảnh. Bạn có thể tạo tệp OAM bằng cách xuất bản dự án Adobe Animate [.AN file](/vi/web/an/) .
+Tệp .oam là tệp tiện ích hoạt hình được xuất từ Adobe Edge Animate Widget. Các ảnh động được xuất dưới dạng định dạng tệp tiện ích OAM có thể được chèn vào các ứng dụng Adobe khác như Tài liệu InDesign ([Tệp INDD](/vi/page-description-language/indd/), Dreamweaver và Muse. Các tệp OAM giống như các gói triển khai có thể dễ dàng thực hiện được chèn vào các dự án khác của Adobe để sử dụng chúng. Tệp OAM chứa thông tin về nội dung, hành vi và mã hành động của hoạt ảnh. Bạn có thể tạo tệp OAM bằng cách xuất bản dự án Adobe Animate [.AN file](/vi/web/an/) .
 Người dùng có thể tạo tệp OAM bằng cách xuất bản từ dự án Edge Animate (tệp .AN).
 
 ## Định dạng tệp OAM

@@ -37,5 +37,5 @@ Das Konvertieren von DOCX in RTF mit der Online-App Aspose.Words ist einfach und
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-Aspose.Words ist eine Reihe von APIs, mit denen jeder Entwickler mithilfe einfacher Codezeilen das Format [DOCX](/word-processing/docx/) in das Format [RTF](/word-processing/rtf/) konvertieren kann. Es ist für viele Programmiersprachen verfügbar, einschließlich [C#](/programming/cs/), [Java](/programming/java/), [Python](/programming/py/) und [C++](/programming/cpp/ ). Zusätzlich zu TXT können Sie mit den Aspose.Words-APIs DOCX-Dateien in viele andere gängige Dateiformate konvertieren.
+Aspose.Words ist eine Reihe von APIs, mit denen jeder Entwickler mithilfe einfacher Codezeilen das Format [DOCX](/word-processing/docx/) in das Format [RTF](/word-processing/rtf/) konvertieren kann. Es ist für viele Programmiersprachen verfügbar, einschließlich [C#](/programming/cs/), [Java](/programming/java/), [Python](/programming/py/) und [C++](/programming/cpp/). Zusätzlich zu TXT können Sie mit den Aspose.Words-APIs DOCX-Dateien in viele andere gängige Dateiformate konvertieren.
 

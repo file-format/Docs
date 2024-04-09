@@ -67,7 +67,7 @@ Các chương trình mở file FPT bao gồm
 
 ## Các tập tin FPT khác
 
-- [FPT - File ghi nhớ bảng Alpha Five](/vi/database/fpt-alphayear/)
+- [FPT - File ghi nhớ bảng Alpha Five](/vi/database/fpt-alphafive/)
 - [FPT - File ghi nhớ cơ sở dữ liệu FileMaker Pro](/vi/database/fpt/)
 
 ## Người giới thiệu

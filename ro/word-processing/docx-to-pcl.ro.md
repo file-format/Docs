@@ -30,7 +30,7 @@ Aplicația Aspose.Words vă permite să convertiți fișierele DOCX în mai mult
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-Suita de API-uri Aspose.Words permite oricărui dezvoltator să convertească formatul [DOCX](/ro/word-processing/docx/) în [PS](/ro/page-description-language/ps/) cu doar câteva linii de cod. Este disponibil pentru multe limbaje de programare, inclusiv [C#](/ro/programming/cs/), [Java](/ro/programming/java/), [Python](/ro/programming/py/) și [C++](/ro/programming/cpp/ ). Pe lângă PCL, API-urile Aspose.Words vă permit să convertiți fișierele DOCX în multe alte formate de fișiere populare.
+Suita de API-uri Aspose.Words permite oricărui dezvoltator să convertească formatul [DOCX](/ro/word-processing/docx/) în [PS](/ro/page-description-language/ps/) cu doar câteva linii de cod. Este disponibil pentru multe limbaje de programare, inclusiv [C#](/ro/programming/cs/), [Java](/ro/programming/java/), [Python](/ro/programming/py/) și [C++](/ro/programming/cpp/). Pe lângă PCL, API-urile Aspose.Words vă permit să convertiți fișierele DOCX în multe alte formate de fișiere populare.
 
 ## Aspose.Words pentru resurse .NET
 

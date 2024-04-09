@@ -41,7 +41,7 @@ Formát souboru DOCX na DOT můžete převést pomocí [aplikace Aspose.Words DO
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-[Aspose.Words](https://products.aspose.com/words/) je sada rozhraní API, která každému vývojáři umožňuje převést [DOCX](/cs/word-processing/docx/) na [DOC](/cs/word-processing/doc/) pomocí jednoduchých řádků kódu. Je k dispozici pro mnoho programovacích jazyků včetně [C#](/cs/programming/cs/), [Java](/cs/programming/java/), [Python](/cs/programming/py/) a [C++](/cs/programming/cpp/ ). Kromě DOT vám rozhraní API Aspose.Words umožňují převádět soubory DOCX do mnoha dalších oblíbených formátů souborů.
+[Aspose.Words](https://products.aspose.com/words/) je sada rozhraní API, která každému vývojáři umožňuje převést [DOCX](/cs/word-processing/docx/) na [DOC](/cs/word-processing/doc/) pomocí jednoduchých řádků kódu. Je k dispozici pro mnoho programovacích jazyků včetně [C#](/cs/programming/cs/), [Java](/cs/programming/java/), [Python](/cs/programming/py/) a [C++](/cs/programming/cpp/). Kromě DOT vám rozhraní API Aspose.Words umožňují převádět soubory DOCX do mnoha dalších oblíbených formátů souborů.
 
 ## Reference
 

@@ -37,7 +37,7 @@ Mengonversi DOCX ke PPTX menggunakan aplikasi online Aspose.Words sederhana dan 
 
 ## Aspose.Words API
 
-Aspose.Words adalah sekumpulan API yang memungkinkan pengembang mana pun mengonversi format [DOCX](/id/word-processing/docx/) ke format [PPTX](/id/presentation/pptx/) menggunakan baris kode sederhana. Ini tersedia untuk banyak bahasa pemrograman termasuk [C#](/id/programming/cs/), [Java](/id/programming/java/), [Python](/id/programming/py/) dan [C++](/id/programming/cpp/ ). Selain PPTX, Aspose.Words API memungkinkan Anda mengonversi file DOCX ke banyak format file populer lainnya.
+Aspose.Words adalah sekumpulan API yang memungkinkan pengembang mana pun mengonversi format [DOCX](/id/word-processing/docx/) ke format [PPTX](/id/presentation/pptx/) menggunakan baris kode sederhana. Ini tersedia untuk banyak bahasa pemrograman termasuk [C#](/id/programming/cs/), [Java](/id/programming/java/), [Python](/id/programming/py/) dan [C++](/id/programming/cpp/). Selain PPTX, Aspose.Words API memungkinkan Anda mengonversi file DOCX ke banyak format file populer lainnya.
 
 
 

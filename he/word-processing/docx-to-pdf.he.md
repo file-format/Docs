@@ -38,7 +38,7 @@ DOCX ו-PDF הם פורמטים פופולריים של קבצי מסמכים ל
 
 ## ממשקי API של Aspose.Words
 
-חבילת ממשקי API של Aspose.Words מאפשרת לכל מפתח להמיר את [DOCX](/he/word-processing/docx/) לפורמט [PDF](/he/pdf/) עם מספר שורות קוד בלבד. הוא זמין עבור שפות תכנות רבות, כולל [C#](/he/programming/cs/), [Java](/he/programming/java/), [Python](/he/programming/py/) ו-[C++](/he/programming/cpp/ ). בנוסף ל-PDF, ממשקי API של Aspose.Words מאפשרים לך להמיר קבצי DOCX לפורמטים פופולריים רבים אחרים של קבצים.
+חבילת ממשקי API של Aspose.Words מאפשרת לכל מפתח להמיר את [DOCX](/he/word-processing/docx/) לפורמט [PDF](/he/pdf/) עם מספר שורות קוד בלבד. הוא זמין עבור שפות תכנות רבות, כולל [C#](/he/programming/cs/), [Java](/he/programming/java/), [Python](/he/programming/py/) ו-[C++](/he/programming/cpp/). בנוסף ל-PDF, ממשקי API של Aspose.Words מאפשרים לך להמיר קבצי DOCX לפורמטים פופולריים רבים אחרים של קבצים.
 
 ## המרת DOCX ל-PDF - הדגמה חינם
 

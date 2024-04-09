@@ -37,7 +37,7 @@
 
 ## Aspose.Words API
 
-Aspose.Words คือชุดของ API ที่ช่วยให้นักพัฒนาสามารถแปลงรูปแบบ [DOCX](/th/word-processing/docx/) เป็นรูปแบบ [PPTX](/th/presentation/pptx/) โดยใช้บรรทัดโค้ดง่ายๆ สามารถใช้ได้กับภาษาการเขียนโปรแกรมหลายภาษา รวมถึง [C#](/th/programming/cs/), [Java](/th/programming/java/), [Python](/th/programming/py/) และ [C++](/th/programming/cpp/ ). นอกจาก PPTX แล้ว Aspose.Words API ยังช่วยให้คุณสามารถแปลงไฟล์ DOCX เป็นรูปแบบไฟล์ยอดนิยมอื่นๆ ได้อีกมากมาย
+Aspose.Words คือชุดของ API ที่ช่วยให้นักพัฒนาสามารถแปลงรูปแบบ [DOCX](/th/word-processing/docx/) เป็นรูปแบบ [PPTX](/th/presentation/pptx/) โดยใช้บรรทัดโค้ดง่ายๆ สามารถใช้ได้กับภาษาการเขียนโปรแกรมหลายภาษา รวมถึง [C#](/th/programming/cs/), [Java](/th/programming/java/), [Python](/th/programming/py/) และ [C++](/th/programming/cpp/). นอกจาก PPTX แล้ว Aspose.Words API ยังช่วยให้คุณสามารถแปลงไฟล์ DOCX เป็นรูปแบบไฟล์ยอดนิยมอื่นๆ ได้อีกมากมาย
 
 
 

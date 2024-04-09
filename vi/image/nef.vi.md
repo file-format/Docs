@@ -24,7 +24,7 @@ NEF là định dạng tệp ảnh RAW của Nikon, được chụp bằng máy 
 
 Các tệp NEF được ghi vào thẻ nhớ máy ảnh dưới dạng tệp nhị phân ở định dạng tệp độc quyền của Nikon. Chúng được ghi vào thẻ nhớ của máy ảnh ở dạng thô không yêu cầu bất kỳ điều chỉnh nào đối với dữ liệu tính năng của hình ảnh như cân bằng trắng, màu sắc, tông màu và độ sắc nét. Các chỉnh sửa của người dùng được lưu dưới dạng bộ hướng dẫn cùng với dữ liệu hình ảnh thô. Điều này mang lại lợi ích trong việc giữ nguyên vẹn nội dung ban đầu của dữ liệu hình ảnh và hoàn nguyên về bất kỳ bộ hướng dẫn nào trước đó.
 
-Các tệp NEF có thể giữ lại dữ liệu 12-bit hoặc 14-bit tùy thuộc vào máy ảnh, do đó cung cấp hình ảnh có dải màu lớn hơn nhiều so với [JPEG](/vi/image/jpeg/) 8-bit hoặc [TIFF](/vi/ hình ảnh/tiff/) hình ảnh.
+Các tệp NEF có thể giữ lại dữ liệu 12-bit hoặc 14-bit tùy thuộc vào máy ảnh, do đó cung cấp hình ảnh có dải màu lớn hơn nhiều so với [JPEG](/vi/image/jpeg/) 8-bit hoặc [TIFF](/vi/image/tiff/) hình ảnh.
 
 ## Phần mềm có thể mở Nikon NEF File
 

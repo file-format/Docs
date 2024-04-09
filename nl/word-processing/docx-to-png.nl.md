@@ -35,7 +35,7 @@ U kunt de Aspose.Words-conversie-app GRATIS gebruiken om [DOCX naar PNG te conve
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-De Aspose.Words-app wordt mogelijk gemaakt door Aspose.Words, een reeks API's waarmee elke ontwikkelaar [DOCX](/nl/word-processing/docx/) naar [PNG](/nl/image/png/)-indeling kan converteren met slechts een paar regels tekst code. Het is beschikbaar voor veel programmeertalen, waaronder [C#](/nl/programming/cs/), [Java](/nl/programming/java/), [Python](/nl/programming/py/) en [C++](/nl/programming/cpp/ ).
+De Aspose.Words-app wordt mogelijk gemaakt door Aspose.Words, een reeks API's waarmee elke ontwikkelaar [DOCX](/nl/word-processing/docx/) naar [PNG](/nl/image/png/)-indeling kan converteren met slechts een paar regels tekst code. Het is beschikbaar voor veel programmeertalen, waaronder [C#](/nl/programming/cs/), [Java](/nl/programming/java/), [Python](/nl/programming/py/) en [C++](/nl/programming/cpp/).
 
 ## Converteer DOCX naar PNG in .NET, Java, C++ en Python
 

@@ -38,7 +38,7 @@ DOCX și PDF sunt formate de fișiere de document populare pentru scrierea conț
 
 ## API-urile Aspose.Words
 
-Suita de API-uri Aspose.Words permite oricărui dezvoltator să convertească [DOCX](/ro/word-processing/docx/) în formatul [PDF](/ro/pdf/) cu doar câteva linii de cod. Este disponibil pentru multe limbaje de programare, inclusiv [C#](/ro/programming/cs/), [Java](/ro/programming/java/), [Python](/ro/programming/py/) și [C++](/ro/programming/cpp/ ). Pe lângă PDF, API-urile Aspose.Words vă permit să convertiți fișierele DOCX în multe alte formate de fișiere populare.
+Suita de API-uri Aspose.Words permite oricărui dezvoltator să convertească [DOCX](/ro/word-processing/docx/) în formatul [PDF](/ro/pdf/) cu doar câteva linii de cod. Este disponibil pentru multe limbaje de programare, inclusiv [C#](/ro/programming/cs/), [Java](/ro/programming/java/), [Python](/ro/programming/py/) și [C++](/ro/programming/cpp/). Pe lângă PDF, API-urile Aspose.Words vă permit să convertiți fișierele DOCX în multe alte formate de fișiere populare.
 
 ## Conversie DOCX în PDF - Demo gratuită
 

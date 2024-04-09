@@ -19,7 +19,7 @@
 
 ## Tệp RML là gì?
 
-Tệp RML là một tệp mẫu báo cáo với công cụ báo cáo [Elixir Repertoire](https://elixirtech.com/repertoire-2/). Tệp mẫu được sử dụng để tạo báo cáo với nguồn dữ liệu được kết nối với Hệ thống tệp Elixir. Dữ liệu được đọc và điền vào tệp mẫu RML và có thể được xuất sang một số định dạng tệp khác nhau, chẳng hạn như [PDF](/vi/pdf/), [RTF](/vi/word-processing/rtf/) và bảng tính [XLS](/vi/bảng tính/xls/). Công cụ báo cáo Elixir Repertoire có thể được kết nối với nhiều nguồn dữ liệu JDBC khác nhau.
+Tệp RML là một tệp mẫu báo cáo với công cụ báo cáo [Elixir Repertoire](https://elixirtech.com/repertoire-2/). Tệp mẫu được sử dụng để tạo báo cáo với nguồn dữ liệu được kết nối với Hệ thống tệp Elixir. Dữ liệu được đọc và điền vào tệp mẫu RML và có thể được xuất sang một số định dạng tệp khác nhau, chẳng hạn như [PDF](/vi/pdf/), [RTF](/vi/word-processing/rtf/) và bảng tính [XLS](/vi/spreadsheet/xls/). Công cụ báo cáo Elixir Repertoire có thể được kết nối với nhiều nguồn dữ liệu JDBC khác nhau.
 
 ## Định dạng tệp RML
 

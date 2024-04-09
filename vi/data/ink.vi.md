@@ -79,7 +79,7 @@ Sau đây là một số đặc điểm chính của tập tin .ink trong Mimio 
 
 ## Chia sẻ tệp MỰC
 
-Nếu giáo viên cần chia sẻ tệp .ink với học sinh hoặc giáo viên khác không có quyền truy cập vào Mimio Notebook, họ có thể xuất tệp .ink dưới định dạng tương thích rộng rãi hơn như [PDF](/vi/pdf/), [HTML](/vi/web /html/) hoặc tệp hình ảnh ([.JPEG](/vi/image/jpeg/), [.PNG](/vi/image/png/), [.GIF](/vi/image/gif/), [.TIFF](/vi/ hình ảnh/tiff/)); bằng cách này, nội dung có thể được chia sẻ và xem dễ dàng trên nhiều thiết bị và ứng dụng phần mềm khác nhau mà không cần Mimio Notebook truy cập.
+Nếu giáo viên cần chia sẻ tệp .ink với học sinh hoặc giáo viên khác không có quyền truy cập vào Mimio Notebook, họ có thể xuất tệp .ink dưới định dạng tương thích rộng rãi hơn như [PDF](/vi/pdf/), [HTML](/vi/web/html/) hoặc tệp hình ảnh ([.JPEG](/vi/image/jpeg/), [.PNG](/vi/image/png/), [.GIF](/vi/image/gif/), [.TIFF](/vi/image/tiff/)); bằng cách này, nội dung có thể được chia sẻ và xem dễ dàng trên nhiều thiết bị và ứng dụng phần mềm khác nhau mà không cần Mimio Notebook truy cập.
 
 ## MimioStudio
 

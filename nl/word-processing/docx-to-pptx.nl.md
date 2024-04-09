@@ -37,7 +37,7 @@ Het converteren van DOCX naar PPTX met de online app Aspose.Words is eenvoudig e
 
 ## Aspose.Words API's
 
-Aspose.Words is een set API's waarmee elke ontwikkelaar [DOCX](/nl/word-processing/docx/) naar [PPTX](/nl/presentation/pptx/)-indeling kan converteren met behulp van eenvoudige coderegels. Het is beschikbaar voor veel programmeertalen, waaronder [C#](/nl/programming/cs/), [Java](/nl/programming/java/), [Python](/nl/programming/py/) en [C++](/nl/programming/cpp/ ). Naast PPTX kunt u met Aspose.Words API's DOCX-bestanden converteren naar vele andere populaire bestandsindelingen.
+Aspose.Words is een set API's waarmee elke ontwikkelaar [DOCX](/nl/word-processing/docx/) naar [PPTX](/nl/presentation/pptx/)-indeling kan converteren met behulp van eenvoudige coderegels. Het is beschikbaar voor veel programmeertalen, waaronder [C#](/nl/programming/cs/), [Java](/nl/programming/java/), [Python](/nl/programming/py/) en [C++](/nl/programming/cpp/). Naast PPTX kunt u met Aspose.Words API's DOCX-bestanden converteren naar vele andere populaire bestandsindelingen.
 
 
 

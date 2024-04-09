@@ -37,7 +37,7 @@ Soubor DOC do formátu BMP můžete převést pomocí [aplikace Aspose.Words DOC
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-[Aspose.Words](https://products.aspose.com/words/) je sada rozhraní API, která každému vývojáři umožňuje převést [DOC](/cs/word-processing/doc/) na [BMP](/cs/image/bmp /) formát pomocí jednoduchých řádků kódu. Je k dispozici pro mnoho programovacích jazyků včetně [C#](/cs/programming/cs/), [Java](/cs/programming/java/), [Python](/cs/programming/py/) a [C++](/cs/programming/cpp/ ). Kromě BMP vám rozhraní API Aspose.Words umožňují převádět soubory DOC do mnoha dalších oblíbených formátů souborů.
+[Aspose.Words](https://products.aspose.com/words/) je sada rozhraní API, která každému vývojáři umožňuje převést [DOC](/cs/word-processing/doc/) na [BMP](/cs/image/bmp /) formát pomocí jednoduchých řádků kódu. Je k dispozici pro mnoho programovacích jazyků včetně [C#](/cs/programming/cs/), [Java](/cs/programming/java/), [Python](/cs/programming/py/) a [C++](/cs/programming/cpp/). Kromě BMP vám rozhraní API Aspose.Words umožňují převádět soubory DOC do mnoha dalších oblíbených formátů souborů.
 
 ## Reference
 

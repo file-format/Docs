@@ -19,7 +19,7 @@
 
 ## Tệp AZW3 là gì?
 
-AZW3, còn được gọi là Kindle Format 8 (**KF8**), là phiên bản sửa đổi của định dạng tệp kỹ thuật số sách điện tử [AZW](/vi/ebook/azw/) được phát triển cho các thiết bị Amazon Kindle. Định dạng này là một cải tiến cho các tệp AZW cũ hơn và chỉ được sử dụng trên các thiết bị Kindle Fire với khả năng tương thích ngược với định dạng tệp gốc, ví dụ như [MOBI](/vi/ebook/mobi/) và AZW. Amazon đã giới thiệu định dạng KFX (KF phiên bản 10) sau KF8 được sử dụng trên các thiết bị Kindle mới nhất. Các tệp AZW3 có loại phương tiện internet application/vnd.amazon.mobi8-ebook. Các tệp AZW3 có thể được chuyển đổi sang một số định dạng tệp khác như [PDF](/vi/pdf/), [EPUB](/vi/ebook/epub/), [AZW](/vi/ebook/azw/), [DOCX](/vi/ xử lý văn bản/docx/), và [RTF](/vi/word-xử lý/rtf/).
+AZW3, còn được gọi là Kindle Format 8 (**KF8**), là phiên bản sửa đổi của định dạng tệp kỹ thuật số sách điện tử [AZW](/vi/ebook/azw/) được phát triển cho các thiết bị Amazon Kindle. Định dạng này là một cải tiến cho các tệp AZW cũ hơn và chỉ được sử dụng trên các thiết bị Kindle Fire với khả năng tương thích ngược với định dạng tệp gốc, ví dụ như [MOBI](/vi/ebook/mobi/) và AZW. Amazon đã giới thiệu định dạng KFX (KF phiên bản 10) sau KF8 được sử dụng trên các thiết bị Kindle mới nhất. Các tệp AZW3 có loại phương tiện internet application/vnd.amazon.mobi8-ebook. Các tệp AZW3 có thể được chuyển đổi sang một số định dạng tệp khác như [PDF](/vi/pdf/), [EPUB](/vi/ebook/epub/), [AZW](/vi/ebook/azw/), [DOCX](/vi/word-processing/docx/), và [RTF](/vi/word-processing/rtf/).
 
 ## Định dạng tệp AZ3/KF8 ##
 

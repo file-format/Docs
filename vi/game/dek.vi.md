@@ -19,7 +19,7 @@
 
 ## Tệp DEK là gì?
 
-Tệp có phần mở rộng .dek là tệp bộ bài được sử dụng bởi trò chơi sưu tập ô tô trực tuyến, Magic: The Gathering Online (MTGO). Mặc dù trong nhiều trường hợp, những bộ bài này có thể chơi được, nhưng trong một số trường hợp, tệp DEK liệt kê một bộ sưu tập bài không thể chơi được. Chúng không thể phát nhưng hoạt động như một tập hợp con của bộ sưu tập. Các tệp DEK có thể được tạo từ các tệp [CSV](/vi/bảng tính/csv/) bằng cách xuất bằng Ống kính Delver và có thể được sử dụng trong Trình mô phỏng máy tính bảng.
+Tệp có phần mở rộng .dek là tệp bộ bài được sử dụng bởi trò chơi sưu tập ô tô trực tuyến, Magic: The Gathering Online (MTGO). Mặc dù trong nhiều trường hợp, những bộ bài này có thể chơi được, nhưng trong một số trường hợp, tệp DEK liệt kê một bộ sưu tập bài không thể chơi được. Chúng không thể phát nhưng hoạt động như một tập hợp con của bộ sưu tập. Các tệp DEK có thể được tạo từ các tệp [CSV](/vi/spreadsheet/csv/) bằng cách xuất bằng Ống kính Delver và có thể được sử dụng trong Trình mô phỏng máy tính bảng.
 
 ## Định dạng tệp DEK
 

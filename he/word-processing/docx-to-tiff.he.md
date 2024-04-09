@@ -33,7 +33,7 @@ TIFF (פורמט קובץ תמונה מתויג) הוא פורמט קובץ תמ
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-Aspose.Words היא קבוצה של ממשקי API המאפשרים לכל מפתח להמיר את [DOCX](/he/word-processing/docx/) לפורמט [TIFF](/he/image/tiff/) באמצעות שורות קוד פשוטות. הוא זמין עבור שפות תכנות רבות, כולל [C#](/he/programming/cs/), [Java](/he/programming/java/), [Python](/he/programming/py/) ו-[C++](/he/programming/cpp/ ). בנוסף ל-TIFF, ממשקי API של Aspose.Words מאפשרים לך להמיר קבצי DOCX לפורמטים פופולריים רבים אחרים של קבצים.
+Aspose.Words היא קבוצה של ממשקי API המאפשרים לכל מפתח להמיר את [DOCX](/he/word-processing/docx/) לפורמט [TIFF](/he/image/tiff/) באמצעות שורות קוד פשוטות. הוא זמין עבור שפות תכנות רבות, כולל [C#](/he/programming/cs/), [Java](/he/programming/java/), [Python](/he/programming/py/) ו-[C++](/he/programming/cpp/). בנוסף ל-TIFF, ממשקי API של Aspose.Words מאפשרים לך להמיר קבצי DOCX לפורמטים פופולריים רבים אחרים של קבצים.
 
 ## הפניות
 

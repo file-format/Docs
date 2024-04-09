@@ -39,7 +39,7 @@ SVG (Scalar Vector Graphics) הוא סוג של קובץ תמונה המשתמש
 
 ## ממשקי API של Aspose.Words
 
-Aspose.Words היא קבוצה של ממשקי API המאפשרים לכל מפתח להמיר את [DOCX](/he/word-processing/docx/) לפורמט [SVG](/he/page-description-language/svg/) באמצעות שורות קוד פשוטות. הוא זמין עבור שפות תכנות רבות, כולל [C#](/he/programming/cs/), [Java](/he/programming/java/), [Python](/he/programming/py/) ו-[C++](/he/programming/cpp/ ). בנוסף ל-SVG, ממשקי API של Aspose.Words מאפשרים לך להמיר קבצי DOCX לפורמטי קבצים פופולריים רבים אחרים.
+Aspose.Words היא קבוצה של ממשקי API המאפשרים לכל מפתח להמיר את [DOCX](/he/word-processing/docx/) לפורמט [SVG](/he/page-description-language/svg/) באמצעות שורות קוד פשוטות. הוא זמין עבור שפות תכנות רבות, כולל [C#](/he/programming/cs/), [Java](/he/programming/java/), [Python](/he/programming/py/) ו-[C++](/he/programming/cpp/). בנוסף ל-SVG, ממשקי API של Aspose.Words מאפשרים לך להמיר קבצי DOCX לפורמטי קבצים פופולריים רבים אחרים.
 
 ## הפניות
 

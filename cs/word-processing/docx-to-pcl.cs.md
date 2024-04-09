@@ -30,7 +30,7 @@ Aplikace Aspose.Words vám umožňuje převádět soubory DOCX do několika růz
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-Sada API Aspose.Words umožňuje jakémukoli vývojáři převést [DOCX](/cs/word-processing/docx/) do formátu [PS](/cs/page-description-language/ps/) pomocí pouhých několika řádků kódu. Je k dispozici pro mnoho programovacích jazyků včetně [C#](/cs/programming/cs/), [Java](/cs/programming/java/), [Python](/cs/programming/py/) a [C++](/cs/programming/cpp/ ). Kromě PCL vám rozhraní API Aspose.Words umožňují převádět soubory DOCX do mnoha dalších oblíbených formátů souborů.
+Sada API Aspose.Words umožňuje jakémukoli vývojáři převést [DOCX](/cs/word-processing/docx/) do formátu [PS](/cs/page-description-language/ps/) pomocí pouhých několika řádků kódu. Je k dispozici pro mnoho programovacích jazyků včetně [C#](/cs/programming/cs/), [Java](/cs/programming/java/), [Python](/cs/programming/py/) a [C++](/cs/programming/cpp/). Kromě PCL vám rozhraní API Aspose.Words umožňují převádět soubory DOCX do mnoha dalších oblíbených formátů souborů.
 
 ## Aspose.Words for .NET Resources
 

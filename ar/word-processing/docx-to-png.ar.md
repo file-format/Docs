@@ -35,7 +35,7 @@ DOCX هو نوع الملف الافتراضي الذي يستخدمه Microsoft
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-يتم تشغيل تطبيق Aspose.Words بواسطة Aspose.Words وهو عبارة عن مجموعة من واجهات برمجة التطبيقات التي تتيح لأي مطور تحويل [DOCX](/ar/word-processing/docx/) إلى تنسيق [PNG](/ar/image/png/) مع بضعة أسطر فقط من شفرة. وهو متاح للعديد من لغات البرمجة بما في ذلك [C#](/ar/programming/cs/), [Java](/ar/programming/java/), [Python](/ar/programming/py/) و[C++](/ar/programming/cpp/ ).
+يتم تشغيل تطبيق Aspose.Words بواسطة Aspose.Words وهو عبارة عن مجموعة من واجهات برمجة التطبيقات التي تتيح لأي مطور تحويل [DOCX](/ar/word-processing/docx/) إلى تنسيق [PNG](/ar/image/png/) مع بضعة أسطر فقط من شفرة. وهو متاح للعديد من لغات البرمجة بما في ذلك [C#](/ar/programming/cs/), [Java](/ar/programming/java/), [Python](/ar/programming/py/) و[C++](/ar/programming/cpp/).
 
 ## تحويل DOCX إلى PNG في .NET وJava وC++ وPython
 

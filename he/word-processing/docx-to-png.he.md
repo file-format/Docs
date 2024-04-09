@@ -35,7 +35,7 @@ DOCX הוא סוג הקובץ המוגדר כברירת מחדל המשמש את
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-אפליקציית Aspose.Words מופעלת על ידי Aspose.Words שהיא חבילת ממשקי API מאפשרת לכל מפתח להמיר את [DOCX](/he/word-processing/docx/) לפורמט [PNG](/he/image/png/) עם כמה שורות בלבד של קוד. הוא זמין עבור שפות תכנות רבות, כולל [C#](/he/programming/cs/), [Java](/he/programming/java/), [Python](/he/programming/py/) ו-[C++](/he/programming/cpp/ ).
+אפליקציית Aspose.Words מופעלת על ידי Aspose.Words שהיא חבילת ממשקי API מאפשרת לכל מפתח להמיר את [DOCX](/he/word-processing/docx/) לפורמט [PNG](/he/image/png/) עם כמה שורות בלבד של קוד. הוא זמין עבור שפות תכנות רבות, כולל [C#](/he/programming/cs/), [Java](/he/programming/java/), [Python](/he/programming/py/) ו-[C++](/he/programming/cpp/).
 
 ## המר DOCX ל-PNG ב-.NET, Java, C++ ו-Python
 

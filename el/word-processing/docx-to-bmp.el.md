@@ -37,7 +37,7 @@
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-Το [Aspose.Words](https://products.aspose.com/words/) είναι ένα σύνολο API που επιτρέπει σε οποιονδήποτε προγραμματιστή να μετατρέψει το [DOCX](/el/word-processing/docx/) σε [DOC](/el/word-processing/doc/) μορφή χρησιμοποιώντας απλές γραμμές κώδικα. Είναι διαθέσιμο για πολλές γλώσσες προγραμματισμού, όπως [C#](/el/programming/cs/), [Java](/el/programming/java/), [Python](/el/programming/py/) και [C++](/el/programming/cpp/ ). Εκτός από το DOC, τα API του Aspose.Words σάς επιτρέπουν να μετατρέπετε αρχεία DOCX σε πολλές άλλες δημοφιλείς μορφές αρχείων.
+Το [Aspose.Words](https://products.aspose.com/words/) είναι ένα σύνολο API που επιτρέπει σε οποιονδήποτε προγραμματιστή να μετατρέψει το [DOCX](/el/word-processing/docx/) σε [DOC](/el/word-processing/doc/) μορφή χρησιμοποιώντας απλές γραμμές κώδικα. Είναι διαθέσιμο για πολλές γλώσσες προγραμματισμού, όπως [C#](/el/programming/cs/), [Java](/el/programming/java/), [Python](/el/programming/py/) και [C++](/el/programming/cpp/). Εκτός από το DOC, τα API του Aspose.Words σάς επιτρέπουν να μετατρέπετε αρχεία DOCX σε πολλές άλλες δημοφιλείς μορφές αρχείων.
 
 ## βιβλιογραφικές αναφορές
 

@@ -76,7 +76,7 @@ package com.example
 
 ## Tài liệu tham khảo ##
 
-* [AS - theo Wikipedia]( https://en.wikipedia.org/wiki/ActionScript)
+* [AS - theo Wikipedia](https://en.wikipedia.org/wiki/ActionScript)
 
 
 

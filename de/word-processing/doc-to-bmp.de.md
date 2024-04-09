@@ -37,7 +37,7 @@ Sie können DOC in das BMP-Dateiformat mit der [Aspose.Words DOC to BMP-App](htt
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-[Aspose.Words](https://products.aspose.com/words/) ist eine Reihe von APIs, mit denen jeder Entwickler [DOC](/word-processing/doc/) in [BMP](/image/bmp/) konvertieren kann mit einfachen Codezeilen formatieren. Es ist für viele Programmiersprachen verfügbar, einschließlich [C#](/programming/cs/), [Java](/programming/java/), [Python](/programming/py/) und [C++](/programming/cpp/ ). Zusätzlich zu BMP können Sie mit den Aspose.Words-APIs DOC-Dateien in viele andere gängige Dateiformate konvertieren.
+[Aspose.Words](https://products.aspose.com/words/) ist eine Reihe von APIs, mit denen jeder Entwickler [DOC](/word-processing/doc/) in [BMP](/image/bmp/) konvertieren kann mit einfachen Codezeilen formatieren. Es ist für viele Programmiersprachen verfügbar, einschließlich [C#](/programming/cs/), [Java](/programming/java/), [Python](/programming/py/) und [C++](/programming/cpp/). Zusätzlich zu BMP können Sie mit den Aspose.Words-APIs DOC-Dateien in viele andere gängige Dateiformate konvertieren.
 
 ## Verweise
 

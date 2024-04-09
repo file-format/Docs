@@ -20,7 +20,7 @@
 
 Bạn hẳn đã quen thuộc với các tệp mở rộng **PPTX** và **PPT**, đây là các định dạng tệp Trình bày lưu trữ tập hợp các bản ghi để chứa dữ liệu trình bày như: trang trình bày, hình dạng, văn bản, hoạt ảnh, video, âm thanh và các đối tượng được nhúng . Một bản trình bày cũng có thể được lưu/chuyển đổi thành các định dạng tệp khác, chẳng hạn như PDF, BMP, PNG, JPEG và XPS.
 
-Các phần mở rộng tệp Bản trình bày phổ biến và các định dạng tệp được liên kết của chúng bao gồm **[PPTX](/vi/presentation/pptx/)**, **[PPT](/vi/presentation/ppt/)** và **[ODP](/vi/presentation/odp /)**.
+Các phần mở rộng tệp Bản trình bày phổ biến và các định dạng tệp được liên kết của chúng bao gồm **[PPTX](/vi/presentation/pptx/)**, **[PPT](/vi/presentation/ppt/)** và **[ODP](/vi/presentation/odp/)**.
 
 Có truy vấn liên quan đến định dạng tệp Bản trình bày? Hãy truy cập vào cộng đồng của chúng tôi [các diễn đàn](https://forum.fileformat.com/c/presentation/8) để hưởng lợi từ kiến thức do các chuyên gia Định dạng tệp chia sẻ.
 

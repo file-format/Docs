@@ -19,7 +19,7 @@
 
 ## Tệp XML là gì?
 
-XML là viết tắt của Extensible Markup Language tương tự như **[HTML](/vi/web/html/)** nhưng khác ở chỗ sử dụng thẻ để xác định đối tượng. Toàn bộ ý tưởng đằng sau việc tạo định dạng tệp XML là để lưu trữ và vận chuyển dữ liệu mà không phụ thuộc vào phần mềm hoặc công cụ phần cứng. Sự phổ biến của nó là do nó có thể đọc được cả ở người và máy. Điều này cho phép nó tạo ra các giao thức dữ liệu chung dưới dạng các đối tượng được lưu trữ và chia sẻ qua mạng, chẳng hạn như World Wide Web (WWW). Chữ "X" trong XML có nghĩa là có thể mở rộng, ngụ ý rằng ngôn ngữ có thể được mở rộng thành bất kỳ số lượng ký hiệu nào theo yêu cầu của người dùng. Chính vì những tính năng này mà nhiều định dạng tệp tiêu chuẩn sử dụng nó, chẳng hạn như Microsoft Open XML, LibreOffice OpenDocument, **[XHTML](/vi/web/xhtml/)** và **[SVG](/vi/page-description-language /svg/)**.
+XML là viết tắt của Extensible Markup Language tương tự như **[HTML](/vi/web/html/)** nhưng khác ở chỗ sử dụng thẻ để xác định đối tượng. Toàn bộ ý tưởng đằng sau việc tạo định dạng tệp XML là để lưu trữ và vận chuyển dữ liệu mà không phụ thuộc vào phần mềm hoặc công cụ phần cứng. Sự phổ biến của nó là do nó có thể đọc được cả ở người và máy. Điều này cho phép nó tạo ra các giao thức dữ liệu chung dưới dạng các đối tượng được lưu trữ và chia sẻ qua mạng, chẳng hạn như World Wide Web (WWW). Chữ "X" trong XML có nghĩa là có thể mở rộng, ngụ ý rằng ngôn ngữ có thể được mở rộng thành bất kỳ số lượng ký hiệu nào theo yêu cầu của người dùng. Chính vì những tính năng này mà nhiều định dạng tệp tiêu chuẩn sử dụng nó, chẳng hạn như Microsoft Open XML, LibreOffice OpenDocument, **[XHTML](/vi/web/xhtml/)** và **[SVG](/vi/page-description-language/svg/)**.
 
 ## Định dạng tệp XML
 

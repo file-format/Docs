@@ -35,7 +35,7 @@ K [převedení DOCX na PNG] můžete ZDARMA použít aplikaci pro převod Aspose
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-Aplikace Aspose.Words je založena na Aspose.Words, což je sada rozhraní API, která umožňuje jakémukoli vývojáři převést [DOCX](/cs/word-processing/docx/) do formátu [PNG](/cs/image/png/) pomocí pouhých několika řádků kód. Je k dispozici pro mnoho programovacích jazyků včetně [C#](/cs/programming/cs/), [Java](/cs/programming/java/), [Python](/cs/programming/py/) a [C++](/cs/programming/cpp/ ).
+Aplikace Aspose.Words je založena na Aspose.Words, což je sada rozhraní API, která umožňuje jakémukoli vývojáři převést [DOCX](/cs/word-processing/docx/) do formátu [PNG](/cs/image/png/) pomocí pouhých několika řádků kód. Je k dispozici pro mnoho programovacích jazyků včetně [C#](/cs/programming/cs/), [Java](/cs/programming/java/), [Python](/cs/programming/py/) a [C++](/cs/programming/cpp/).
 
 ## Převeďte DOCX na PNG v .NET, Java, C++ a Python
 

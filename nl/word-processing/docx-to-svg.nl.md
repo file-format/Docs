@@ -39,7 +39,7 @@ Het converteren van DOCX naar SVG met de online app Aspose.Words is eenvoudig en
 
 ## Aspose.Words API's
 
-Aspose.Words is een set API's waarmee elke ontwikkelaar de indeling [DOCX](/nl/word-processing/docx/) naar [SVG](/nl/page-description-language/svg/) kan converteren met behulp van eenvoudige coderegels. Het is beschikbaar voor veel programmeertalen, waaronder [C#](/nl/programming/cs/), [Java](/nl/programming/java/), [Python](/nl/programming/py/) en [C++](/nl/programming/cpp/ ). Naast SVG kunt u met Aspose.Words API's DOCX-bestanden converteren naar vele andere populaire bestandsindelingen.
+Aspose.Words is een set API's waarmee elke ontwikkelaar de indeling [DOCX](/nl/word-processing/docx/) naar [SVG](/nl/page-description-language/svg/) kan converteren met behulp van eenvoudige coderegels. Het is beschikbaar voor veel programmeertalen, waaronder [C#](/nl/programming/cs/), [Java](/nl/programming/java/), [Python](/nl/programming/py/) en [C++](/nl/programming/cpp/). Naast SVG kunt u met Aspose.Words API's DOCX-bestanden converteren naar vele andere populaire bestandsindelingen.
 
 ## Referenties
 

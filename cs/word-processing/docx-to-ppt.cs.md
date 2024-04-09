@@ -38,6 +38,6 @@ Převod DOCX na PPT pomocí online aplikace Aspose.Words je jednoduchý a zahrnu
 
 ## Aspose.Words API pro DOCX do Powerpoint PPT
 
-Aspose.Words je sada rozhraní API, která umožňuje jakémukoli vývojáři převést [DOCX](/cs/word-processing/docx/) do formátu [PPT](/cs/presentation/ppt/) pomocí jednoduchých řádků kódu. Je k dispozici pro mnoho programovacích jazyků včetně [C#](/cs/programming/cs/), [Java](/cs/programming/java/), [Python](/cs/programming/py/) a [C++](/cs/programming/cpp/ ). Kromě PPT vám rozhraní API Aspose.Words umožňují převádět soubory DOCX do mnoha dalších oblíbených formátů souborů.
+Aspose.Words je sada rozhraní API, která umožňuje jakémukoli vývojáři převést [DOCX](/cs/word-processing/docx/) do formátu [PPT](/cs/presentation/ppt/) pomocí jednoduchých řádků kódu. Je k dispozici pro mnoho programovacích jazyků včetně [C#](/cs/programming/cs/), [Java](/cs/programming/java/), [Python](/cs/programming/py/) a [C++](/cs/programming/cpp/). Kromě PPT vám rozhraní API Aspose.Words umožňují převádět soubory DOCX do mnoha dalších oblíbených formátů souborů.
 
 

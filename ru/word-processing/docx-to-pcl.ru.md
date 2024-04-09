@@ -30,7 +30,7 @@ DOCX в PCL — это распространенное преобразован
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-Набор API-интерфейсов Aspose.Words позволяет любому разработчику конвертировать формат [DOCX](/ru/word-processing/docx/) в формат [PS](/ru/page-description-language/ps/) с помощью всего лишь нескольких строк кода. Он доступен для многих языков программирования, включая [C#](/ru/programming/cs/), [Java](/ru/programming/java/), [Python](/ru/programming/py/) и [C++](/ru/programming/cpp/ ). Помимо PCL, API-интерфейсы Aspose.Words позволяют конвертировать файлы DOCX во многие другие популярные форматы файлов.
+Набор API-интерфейсов Aspose.Words позволяет любому разработчику конвертировать формат [DOCX](/ru/word-processing/docx/) в формат [PS](/ru/page-description-language/ps/) с помощью всего лишь нескольких строк кода. Он доступен для многих языков программирования, включая [C#](/ru/programming/cs/), [Java](/ru/programming/java/), [Python](/ru/programming/py/) и [C++](/ru/programming/cpp/). Помимо PCL, API-интерфейсы Aspose.Words позволяют конвертировать файлы DOCX во многие другие популярные форматы файлов.
 
 ## Aspose.Words для ресурсов .NET
 

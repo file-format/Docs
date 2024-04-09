@@ -19,7 +19,7 @@
 
 ## Tệp WPS là gì?
 
-Tệp có phần mở rộng .wps là tài liệu Microsoft Works đã được sử dụng trước năm 2006 dưới dạng tài liệu từ. Nó tương tự như định dạng tệp [DOC](/vi/word-xử lý/doc/) mới được giới thiệu vào thời điểm đó, nhưng không có nhiều tính năng phức tạp như định dạng tệp mới. Ví dụ: nó không hỗ trợ chức năng macro và các tùy chọn định dạng nâng cao. Các tệp WPS vẫn có thể được mở bằng bộ xử lý Word hiện đại, nhưng đối với Windows 10, bạn cần cài đặt trình chuyển đổi để tải các tệp này. Microsoft Works đã được thay thế bởi bộ xử lý tài liệu Microsoft Word vào năm 2010.
+Tệp có phần mở rộng .wps là tài liệu Microsoft Works đã được sử dụng trước năm 2006 dưới dạng tài liệu từ. Nó tương tự như định dạng tệp [DOC](/vi/word-processing/doc/) mới được giới thiệu vào thời điểm đó, nhưng không có nhiều tính năng phức tạp như định dạng tệp mới. Ví dụ: nó không hỗ trợ chức năng macro và các tùy chọn định dạng nâng cao. Các tệp WPS vẫn có thể được mở bằng bộ xử lý Word hiện đại, nhưng đối với Windows 10, bạn cần cài đặt trình chuyển đổi để tải các tệp này. Microsoft Works đã được thay thế bởi bộ xử lý tài liệu Microsoft Word vào năm 2010.
 
 ## Thông số kỹ thuật định dạng tệp
 

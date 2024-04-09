@@ -33,7 +33,7 @@ WEBP คือรูปแบบไฟล์ภาพสมัยใหม่ท
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-Aspose.Words คือชุดของ API ที่ช่วยให้นักพัฒนาสามารถแปลงรูปแบบ [DOCX](/th/word-processing/docx/) เป็นรูปแบบ [WEBP](/th/image/webp/) โดยใช้โค้ดบรรทัดง่ายๆ สามารถใช้ได้กับภาษาการเขียนโปรแกรมหลายภาษา รวมถึง [C#](/th/programming/cs/), [Java](/th/programming/java/), [Python](/th/programming/py/) และ [C++](/th/programming/cpp/ ). นอกจาก WEBP แล้ว Aspose.Words API ยังให้คุณแปลงไฟล์ DOCX เป็นรูปแบบไฟล์ยอดนิยมอื่นๆ มากมาย
+Aspose.Words คือชุดของ API ที่ช่วยให้นักพัฒนาสามารถแปลงรูปแบบ [DOCX](/th/word-processing/docx/) เป็นรูปแบบ [WEBP](/th/image/webp/) โดยใช้โค้ดบรรทัดง่ายๆ สามารถใช้ได้กับภาษาการเขียนโปรแกรมหลายภาษา รวมถึง [C#](/th/programming/cs/), [Java](/th/programming/java/), [Python](/th/programming/py/) และ [C++](/th/programming/cpp/). นอกจาก WEBP แล้ว Aspose.Words API ยังให้คุณแปลงไฟล์ DOCX เป็นรูปแบบไฟล์ยอดนิยมอื่นๆ มากมาย
 
 ## อ้างอิง
 

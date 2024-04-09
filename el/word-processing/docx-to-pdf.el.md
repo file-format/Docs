@@ -38,7 +38,7 @@
 
 ## Aspose.Words API
 
-Η σουίτα API του Aspose.Words επιτρέπει σε οποιονδήποτε προγραμματιστή να μετατρέψει το [DOCX](/el/word-processing/docx/) σε μορφή [PDF](/el/pdf/) με λίγες μόνο γραμμές κώδικα. Είναι διαθέσιμο για πολλές γλώσσες προγραμματισμού, όπως [C#](/el/programming/cs/), [Java](/el/programming/java/), [Python](/el/programming/py/) και [C++](/el/programming/cpp/ ). Εκτός από το PDF, τα API του Aspose.Words σάς επιτρέπουν να μετατρέπετε αρχεία DOCX σε πολλές άλλες δημοφιλείς μορφές αρχείων.
+Η σουίτα API του Aspose.Words επιτρέπει σε οποιονδήποτε προγραμματιστή να μετατρέψει το [DOCX](/el/word-processing/docx/) σε μορφή [PDF](/el/pdf/) με λίγες μόνο γραμμές κώδικα. Είναι διαθέσιμο για πολλές γλώσσες προγραμματισμού, όπως [C#](/el/programming/cs/), [Java](/el/programming/java/), [Python](/el/programming/py/) και [C++](/el/programming/cpp/). Εκτός από το PDF, τα API του Aspose.Words σάς επιτρέπουν να μετατρέπετε αρχεία DOCX σε πολλές άλλες δημοφιλείς μορφές αρχείων.
 
 ## Μετατροπή DOCX σε PDF - Δωρεάν επίδειξη
 

@@ -41,7 +41,7 @@ Puede convertir el formato de archivo DOCX a DOT utilizando la [aplicación Aspo
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-[Aspose.Words](https://products.aspose.com/words/) es un conjunto de API que permite a cualquier desarrollador convertir [DOCX](/es/word-processing/docx/) a [DOC](/es/word-processing/doc/) usando líneas simples de código. Está disponible para muchos lenguajes de programación, incluidos [C#](/es/programming/cs/), [Java](/es/programming/java/), [Python](/es/programming/py/) y [C++](/es/programming/cpp/ ). Además de DOT, las API de Aspose.Words le permiten convertir archivos DOCX a muchos otros formatos de archivo populares.
+[Aspose.Words](https://products.aspose.com/words/) es un conjunto de API que permite a cualquier desarrollador convertir [DOCX](/es/word-processing/docx/) a [DOC](/es/word-processing/doc/) usando líneas simples de código. Está disponible para muchos lenguajes de programación, incluidos [C#](/es/programming/cs/), [Java](/es/programming/java/), [Python](/es/programming/py/) y [C++](/es/programming/cpp/). Además de DOT, las API de Aspose.Words le permiten convertir archivos DOCX a muchos otros formatos de archivo populares.
 
 ## Referencias
 

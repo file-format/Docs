@@ -37,7 +37,7 @@
 
 ## API на Aspose.Words
 
-[Aspose.Words](https://products.aspose.com/words/) е набор от API, който позволява на всеки разработчик да конвертира [DOCX](/bg/word-processing/docx/) в [DOC](/bg/word-processing/doc/) формат с помощта на прости редове код. Предлага се за много езици за програмиране, включително [C#](/bg/programming/cs/), [Java](/bg/programming/java/), [Python](/bg/programming/py/) и [C++](/bg/programming/cpp/ ). В допълнение към DOC, API на Aspose.Words ви позволяват да конвертирате DOCX файлове в много други популярни файлови формати.
+[Aspose.Words](https://products.aspose.com/words/) е набор от API, който позволява на всеки разработчик да конвертира [DOCX](/bg/word-processing/docx/) в [DOC](/bg/word-processing/doc/) формат с помощта на прости редове код. Предлага се за много езици за програмиране, включително [C#](/bg/programming/cs/), [Java](/bg/programming/java/), [Python](/bg/programming/py/) и [C++](/bg/programming/cpp/). В допълнение към DOC, API на Aspose.Words ви позволяват да конвертирате DOCX файлове в много други популярни файлови формати.
 
 ## Препратки
 

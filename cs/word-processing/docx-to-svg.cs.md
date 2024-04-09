@@ -39,7 +39,7 @@ Převod DOCX na SVG pomocí online aplikace Aspose.Words je jednoduchý a zahrnu
 
 ## Aspose.Words API
 
-Aspose.Words je sada rozhraní API, která umožňuje jakémukoli vývojáři převést [DOCX](/cs/word-processing/docx/) do formátu [SVG](/cs/page-description-language/svg/) pomocí jednoduchých řádků kódu. Je k dispozici pro mnoho programovacích jazyků včetně [C#](/cs/programming/cs/), [Java](/cs/programming/java/), [Python](/cs/programming/py/) a [C++](/cs/programming/cpp/ ). Kromě SVG vám rozhraní API Aspose.Words umožňují převádět soubory DOCX do mnoha dalších oblíbených formátů souborů.
+Aspose.Words je sada rozhraní API, která umožňuje jakémukoli vývojáři převést [DOCX](/cs/word-processing/docx/) do formátu [SVG](/cs/page-description-language/svg/) pomocí jednoduchých řádků kódu. Je k dispozici pro mnoho programovacích jazyků včetně [C#](/cs/programming/cs/), [Java](/cs/programming/java/), [Python](/cs/programming/py/) a [C++](/cs/programming/cpp/). Kromě SVG vám rozhraní API Aspose.Words umožňují převádět soubory DOCX do mnoha dalších oblíbených formátů souborů.
 
 ## Reference
 

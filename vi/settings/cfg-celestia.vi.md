@@ -62,7 +62,7 @@ Celestia sử dụng nhiều định dạng tệp khác nhau cho các khía cạ
 - *Mục đích*: Ánh xạ họa tiết lên mô hình 3D để có hình thức chân thực.
 
 4. **Danh mục sao và tệp dữ liệu**
-- *Định dạng*: Định dạng tùy chỉnh, [.csv](/vi/ Spreadsheet/csv/), [.tsv](/vi/ Spreadsheet/tsv/)
+- *Định dạng*: Định dạng tùy chỉnh, [.csv](/vi/spreadsheet/csv/), [.tsv](/vi/spreadsheet/tsv/)
 - *Mô tả*: Tệp dữ liệu dùng để thể hiện các ngôi sao và các thiên thể khác, đảm bảo mô phỏng chính xác.
 - *Mục đích*: Trình bày chính xác các thiên thể.
 

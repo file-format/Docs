@@ -38,6 +38,6 @@ Mengonversi DOCX ke PPT menggunakan aplikasi online Aspose.Words sederhana dan m
 
 ## Aspose.Words API untuk DOCX ke Powerpoint PPT
 
-Aspose.Words adalah sekumpulan API yang memungkinkan pengembang mana pun mengonversi format [DOCX](/id/word-processing/docx/) ke format [PPT](/id/presentation/ppt/) menggunakan baris kode sederhana. Ini tersedia untuk banyak bahasa pemrograman termasuk [C#](/id/programming/cs/), [Java](/id/programming/java/), [Python](/id/programming/py/) dan [C++](/id/programming/cpp/ ). Selain PPT, Aspose.Words API memungkinkan Anda mengonversi file DOCX ke banyak format file populer lainnya.
+Aspose.Words adalah sekumpulan API yang memungkinkan pengembang mana pun mengonversi format [DOCX](/id/word-processing/docx/) ke format [PPT](/id/presentation/ppt/) menggunakan baris kode sederhana. Ini tersedia untuk banyak bahasa pemrograman termasuk [C#](/id/programming/cs/), [Java](/id/programming/java/), [Python](/id/programming/py/) dan [C++](/id/programming/cpp/). Selain PPT, Aspose.Words API memungkinkan Anda mengonversi file DOCX ke banyak format file populer lainnya.
 
 

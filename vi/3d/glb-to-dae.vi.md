@@ -18,7 +18,7 @@
 
 ## Giới thiệu về GLB sang DAE
 
-Việc sử dụng tệp GLB ở định dạng tệp 3D không phải là điều mới mẻ. GLB là định dạng tệp nhị phân 3D thường được sử dụng để thể hiện các mô hình 3D ở định dạng Truyền GL, tức là ([glTF](/vi/3d/gltf/)). Mặt khác, [DAE](/vi/3d/DAE/ là định dạng tệp Trao đổi tài sản kỹ thuật số được sử dụng để trao đổi dữ liệu giữa các ứng dụng 3D tương tác. Các tệp GLB có thể được chuyển đổi sang định dạng tệp DAE bằng một số ứng dụng miễn phí trực tuyến. Nếu bạn là nhà phát triển ứng dụng đang tìm cách nhúng chức năng chuyển đổi GLB sang DAE trong ứng dụng của mình, bạn có thể sử dụng API Aspose.3D để đạt được điều này.
+Việc sử dụng tệp GLB ở định dạng tệp 3D không phải là điều mới mẻ. GLB là định dạng tệp nhị phân 3D thường được sử dụng để thể hiện các mô hình 3D ở định dạng Truyền GL, tức là ([glTF](/vi/3d/gltf/)). Mặt khác, [DAE](/vi/3d/dae/) là định dạng tệp Trao đổi tài sản kỹ thuật số được sử dụng để trao đổi dữ liệu giữa các ứng dụng 3D tương tác. Các tệp GLB có thể được chuyển đổi sang định dạng tệp DAE bằng một số ứng dụng miễn phí trực tuyến. Nếu bạn là nhà phát triển ứng dụng đang tìm cách nhúng chức năng chuyển đổi GLB sang DAE trong ứng dụng của mình, bạn có thể sử dụng API Aspose.3D để đạt được điều này.
 
 ## Chuyển đổi GLB sang DAE - Bản demo miễn phí
 

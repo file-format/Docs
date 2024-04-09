@@ -34,7 +34,7 @@ Aspose.Words היא קבוצה של ממשקי API המאפשרת למפתחי �
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-חבילת ממשקי API של Aspose.Words מאפשרת לכל מפתח להמיר את [DOCX](/he/word-processing/docx/) לפורמט [PS](/he/page-description-language/ps/) עם מספר שורות קוד בלבד. הוא זמין עבור שפות תכנות רבות, כולל [C#](/he/programming/cs/), [Java](/he/programming/java/), [Python](/he/programming/py/) ו-[C++](/he/programming/cpp/ ). בנוסף ל-PS, ממשקי API של Aspose.Words מאפשרים לך להמיר קבצי DOCX לפורמטי קבצים פופולריים רבים אחרים.
+חבילת ממשקי API של Aspose.Words מאפשרת לכל מפתח להמיר את [DOCX](/he/word-processing/docx/) לפורמט [PS](/he/page-description-language/ps/) עם מספר שורות קוד בלבד. הוא זמין עבור שפות תכנות רבות, כולל [C#](/he/programming/cs/), [Java](/he/programming/java/), [Python](/he/programming/py/) ו-[C++](/he/programming/cpp/). בנוסף ל-PS, ממשקי API של Aspose.Words מאפשרים לך להמיר קבצי DOCX לפורמטי קבצים פופולריים רבים אחרים.
 
 ## Aspose.Words עבור משאבי NET
 

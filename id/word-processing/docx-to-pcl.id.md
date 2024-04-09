@@ -30,7 +30,7 @@ Aplikasi Aspose.Words memungkinkan Anda mengonversi file DOCX ke beberapa format
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-Rangkaian API Aspose.Words memungkinkan pengembang mana pun mengonversi format [DOCX](/id/word-processing/docx/) ke format [PS](/id/page-description-lingual/ps/) hanya dengan beberapa baris kode. Ini tersedia untuk banyak bahasa pemrograman termasuk [C#](/id/programming/cs/), [Java](/id/programming/java/), [Python](/id/programming/py/) dan [C++](/id/programming/cpp/ ). Selain PCL, Aspose.Words API memungkinkan Anda mengonversi file DOCX ke banyak format file populer lainnya.
+Rangkaian API Aspose.Words memungkinkan pengembang mana pun mengonversi format [DOCX](/id/word-processing/docx/) ke format [PS](/id/page-description-lingual/ps/) hanya dengan beberapa baris kode. Ini tersedia untuk banyak bahasa pemrograman termasuk [C#](/id/programming/cs/), [Java](/id/programming/java/), [Python](/id/programming/py/) dan [C++](/id/programming/cpp/). Selain PCL, Aspose.Words API memungkinkan Anda mengonversi file DOCX ke banyak format file populer lainnya.
 
 ## Aspose.Words untuk Sumber Daya .NET
 

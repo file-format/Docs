@@ -41,7 +41,7 @@ Bạn có thể chuyển đổi định dạng tệp DOCX sang DOC bằng cách 
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-[Aspose.Words](https://products.aspose.com/words/) là một bộ API cho phép mọi nhà phát triển chuyển đổi [DOCX](/vi/word-processing/docx/) thành [DOCM](/vi/word-processing /docm/) bằng các dòng mã đơn giản. Nó có sẵn cho nhiều ngôn ngữ lập trình bao gồm:
+[Aspose.Words](https://products.aspose.com/words/) là một bộ API cho phép mọi nhà phát triển chuyển đổi [DOCX](/vi/word-processing/docx/) thành [DOCM](/vi/word-processing/docm/) bằng các dòng mã đơn giản. Nó có sẵn cho nhiều ngôn ngữ lập trình bao gồm:
 
 * [C#](/vi/programming/cs/)
 * [Java](/vi/programming/java/)

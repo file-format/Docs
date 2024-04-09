@@ -37,5 +37,5 @@
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-Το Aspose.Words είναι ένα σύνολο API που επιτρέπει σε οποιονδήποτε προγραμματιστή να μετατρέψει το [DOCX](/el/word-processing/docx/) σε μορφή [RTF](/el/word-processing/rtf/) χρησιμοποιώντας απλές γραμμές κώδικα. Είναι διαθέσιμο για πολλές γλώσσες προγραμματισμού, όπως [C#](/el/programming/cs/), [Java](/el/programming/java/), [Python](/el/programming/py/) και [C++](/el/programming/cpp/ ). Εκτός από το TXT, τα API του Aspose.Words σάς επιτρέπουν να μετατρέπετε αρχεία DOCX σε πολλές άλλες δημοφιλείς μορφές αρχείων.
+Το Aspose.Words είναι ένα σύνολο API που επιτρέπει σε οποιονδήποτε προγραμματιστή να μετατρέψει το [DOCX](/el/word-processing/docx/) σε μορφή [RTF](/el/word-processing/rtf/) χρησιμοποιώντας απλές γραμμές κώδικα. Είναι διαθέσιμο για πολλές γλώσσες προγραμματισμού, όπως [C#](/el/programming/cs/), [Java](/el/programming/java/), [Python](/el/programming/py/) και [C++](/el/programming/cpp/). Εκτός από το TXT, τα API του Aspose.Words σάς επιτρέπουν να μετατρέπετε αρχεία DOCX σε πολλές άλλες δημοφιλείς μορφές αρχείων.
 

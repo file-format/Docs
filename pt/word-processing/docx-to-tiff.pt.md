@@ -33,7 +33,7 @@ Converter DOCX em TIFF usando o aplicativo online Aspose.Words é simples e incl
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-Aspose.Words é um conjunto de APIs que permite a qualquer desenvolvedor converter o formato [DOCX](/pt/word-processing/docx/) para [TIFF](/pt/image/tiff/) usando linhas simples de código. Está disponível para muitas linguagens de programação, incluindo [C#](/pt/programming/cs/), [Java](/pt/programming/java/), [Python](/pt/programming/py/) e [C++](/pt/programming/cpp/ ). Além do TIFF, as APIs Aspose.Words permitem converter arquivos DOCX em muitos outros formatos de arquivo populares.
+Aspose.Words é um conjunto de APIs que permite a qualquer desenvolvedor converter o formato [DOCX](/pt/word-processing/docx/) para [TIFF](/pt/image/tiff/) usando linhas simples de código. Está disponível para muitas linguagens de programação, incluindo [C#](/pt/programming/cs/), [Java](/pt/programming/java/), [Python](/pt/programming/py/) e [C++](/pt/programming/cpp/). Além do TIFF, as APIs Aspose.Words permitem converter arquivos DOCX em muitos outros formatos de arquivo populares.
 
 ## Referências
 

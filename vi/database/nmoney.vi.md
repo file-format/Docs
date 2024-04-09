@@ -36,7 +36,7 @@ Denaro ban đầu được phát triển bởi [Nickvision](https://nickvision.o
 
 ## Định dạng tệp Denaro - Thông tin thêm
 
-Các tệp Denaro được lưu vào đĩa ở định dạng tệp nhị phân. Dữ liệu tài chính được lưu trữ dưới dạng tệp cơ sở dữ liệu ở định dạng tệp **.SQLITE3**. SQLITE là một tệp cơ sở dữ liệu SQL nhẹ được tạo bằng phần mềm SQLite. Nó cung cấp công cụ cơ sở dữ liệu khép kín có khả năng cung cấp cơ sở dữ liệu đầy đủ tính năng và có độ tin cậy cao. Các tệp cơ sở dữ liệu SQLite có thể được sử dụng để chia sẻ nội dung phong phú giữa các hệ thống bằng cách trao đổi các tệp này qua mạng. Các liên kết SQLite tồn tại cho các ngôn ngữ lập trình như C, [C#](/vi/programming/cs/), [C++](/vi/programming/cpp/), [Java](/vi/programming/java/), [PHP](/vi/programming/ php/) và nhiều thứ khác.
+Các tệp Denaro được lưu vào đĩa ở định dạng tệp nhị phân. Dữ liệu tài chính được lưu trữ dưới dạng tệp cơ sở dữ liệu ở định dạng tệp **.SQLITE3**. SQLITE là một tệp cơ sở dữ liệu SQL nhẹ được tạo bằng phần mềm SQLite. Nó cung cấp công cụ cơ sở dữ liệu khép kín có khả năng cung cấp cơ sở dữ liệu đầy đủ tính năng và có độ tin cậy cao. Các tệp cơ sở dữ liệu SQLite có thể được sử dụng để chia sẻ nội dung phong phú giữa các hệ thống bằng cách trao đổi các tệp này qua mạng. Các liên kết SQLite tồn tại cho các ngôn ngữ lập trình như C, [C#](/vi/programming/cs/), [C++](/vi/programming/cpp/), [Java](/vi/programming/java/), [PHP](/vi/programming/php/) và nhiều thứ khác.
 
 ## Người giới thiệu
 

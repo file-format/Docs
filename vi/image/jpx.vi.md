@@ -19,7 +19,7 @@
 
 ## Tệp JPX là gì? ##
 
-Tệp có phần mở rộng .jpx là phần mở rộng của định dạng tệp JPEG 2000. Nó chủ yếu sử dụng kiểu nén JPEG 2000 và cũng cung cấp các tính năng nâng cao như nhiều lớp cho một hình ảnh, các không gian màu khác nhau, độ mờ và các luồng mã bị phân mảnh. JPX cũng cho phép các kiểu nén khác như JBIG, CCITT Group3, CCITT Group4, v.v. ngoài kiểu nén JPEG 2000. Định dạng tệp JPX đã được phê duyệt là tiêu chuẩn [ISO/IEC 15444-2](https://www.iso.org/standard/33160.html), nhưng không được đón nhận nồng nhiệt do việc sử dụng rộng rãi [JPEG ](/vi/hình ảnh/jpeg/) định dạng tệp. Các ứng dụng có thể mở tệp JPX bao gồm Corel PaintShop Pro, Adobe Photoshop 2020, Adobe Illustrator 2020 và CorelDraw Graphics Suite 2020.
+Tệp có phần mở rộng .jpx là phần mở rộng của định dạng tệp JPEG 2000. Nó chủ yếu sử dụng kiểu nén JPEG 2000 và cũng cung cấp các tính năng nâng cao như nhiều lớp cho một hình ảnh, các không gian màu khác nhau, độ mờ và các luồng mã bị phân mảnh. JPX cũng cho phép các kiểu nén khác như JBIG, CCITT Group3, CCITT Group4, v.v. ngoài kiểu nén JPEG 2000. Định dạng tệp JPX đã được phê duyệt là tiêu chuẩn [ISO/IEC 15444-2](https://www.iso.org/standard/33160.html), nhưng không được đón nhận nồng nhiệt do việc sử dụng rộng rãi [JPEG ](/vi/image/jpeg/) định dạng tệp. Các ứng dụng có thể mở tệp JPX bao gồm Corel PaintShop Pro, Adobe Photoshop 2020, Adobe Illustrator 2020 và CorelDraw Graphics Suite 2020.
 
 ## Tóm tắt lịch sử
 

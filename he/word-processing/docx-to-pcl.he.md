@@ -30,7 +30,7 @@ DOCX ל-PCL היא המרה נפוצה המאפשרת לך להמיר את מס�
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-חבילת ממשקי API של Aspose.Words מאפשרת לכל מפתח להמיר את [DOCX](/he/word-processing/docx/) לפורמט [PS](/he/page-description-language/ps/) עם מספר שורות קוד בלבד. הוא זמין עבור שפות תכנות רבות, כולל [C#](/he/programming/cs/), [Java](/he/programming/java/), [Python](/he/programming/py/) ו-[C++](/he/programming/cpp/ ). בנוסף ל-PCL, ממשקי API של Aspose.Words מאפשרים לך להמיר קבצי DOCX לפורמטים פופולריים רבים אחרים של קבצים.
+חבילת ממשקי API של Aspose.Words מאפשרת לכל מפתח להמיר את [DOCX](/he/word-processing/docx/) לפורמט [PS](/he/page-description-language/ps/) עם מספר שורות קוד בלבד. הוא זמין עבור שפות תכנות רבות, כולל [C#](/he/programming/cs/), [Java](/he/programming/java/), [Python](/he/programming/py/) ו-[C++](/he/programming/cpp/). בנוסף ל-PCL, ממשקי API של Aspose.Words מאפשרים לך להמיר קבצי DOCX לפורמטים פופולריים רבים אחרים של קבצים.
 
 ## Aspose.Words עבור משאבי NET
 

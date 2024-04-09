@@ -35,7 +35,7 @@
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-Η εφαρμογή Aspose.Words υποστηρίζεται από το Aspose.Words, το οποίο είναι μια σουίτα API, επιτρέπει σε κάθε προγραμματιστή να μετατρέψει το [DOCX](/el/word-processing/docx/) σε μορφή [PNG](/el/image/png/) με λίγες μόνο γραμμές κώδικας. Είναι διαθέσιμο για πολλές γλώσσες προγραμματισμού, όπως [C#](/el/programming/cs/), [Java](/el/programming/java/), [Python](/el/programming/py/) και [C++](/el/programming/cpp/ ).
+Η εφαρμογή Aspose.Words υποστηρίζεται από το Aspose.Words, το οποίο είναι μια σουίτα API, επιτρέπει σε κάθε προγραμματιστή να μετατρέψει το [DOCX](/el/word-processing/docx/) σε μορφή [PNG](/el/image/png/) με λίγες μόνο γραμμές κώδικας. Είναι διαθέσιμο για πολλές γλώσσες προγραμματισμού, όπως [C#](/el/programming/cs/), [Java](/el/programming/java/), [Python](/el/programming/py/) και [C++](/el/programming/cpp/).
 
 ## Μετατροπή DOCX σε PNG σε .NET, Java, C++ και Python
 

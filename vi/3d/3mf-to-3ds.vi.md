@@ -20,7 +20,7 @@
 
 FilmBox, được gọi là 3MF, là định dạng tệp 3D được Kaydara tạo ban đầu để tương thích với MotionBuilder. Năm 2006, Autodesk Inc. tiếp quản, biến nó thành tiêu chuẩn quan trọng để trao đổi dữ liệu 3D mượt mà giữa các ứng dụng phần mềm khác nhau. Tệp có phần mở rộng .3ds là định dạng được sử dụng bởi phần mềm 3D Studio của Autodesk, có từ những năm 1990. Nó chứa dữ liệu cho cảnh 3D và được sử dụng rộng rãi để nhập và xuất dữ liệu 3D.
 
-Việc chuyển đổi [tệp 3MF](/vi/3d/3MF/) thành [định dạng 3DS](/vi/3d/3ds/) là yêu cầu thường gặp đối với người dùng và có nhiều công cụ trực tuyến miễn phí khác nhau có sẵn cho tác vụ này. Nếu bạn là nhà phát triển phần mềm đang tìm cách tích hợp chức năng chuyển đổi 3MF sang 3DS vào ứng dụng .NET, Java hoặc Python của mình, chúng tôi khuyên bạn nên nghiên cứu API Aspose.3D như một giải pháp đáng tin cậy.
+Việc chuyển đổi [tệp 3MF](/vi/3d/3mf/) thành [định dạng 3DS](/vi/3d/3ds/) là yêu cầu thường gặp đối với người dùng và có nhiều công cụ trực tuyến miễn phí khác nhau có sẵn cho tác vụ này. Nếu bạn là nhà phát triển phần mềm đang tìm cách tích hợp chức năng chuyển đổi 3MF sang 3DS vào ứng dụng .NET, Java hoặc Python của mình, chúng tôi khuyên bạn nên nghiên cứu API Aspose.3D như một giải pháp đáng tin cậy.
 
 ## Chuyển đổi 3MF sang 3DS - Demo miễn phí
 

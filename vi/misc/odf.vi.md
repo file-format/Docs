@@ -19,7 +19,7 @@
 
 ## Tệp ODF là gì?
 
-Tệp có phần mở rộng .odf là tài liệu có phương trình toán học, macro và công thức. Nó được tạo bằng chương trình [Apache OpenOffice Math](https://wiki.openoffice.org/wiki/Documentation/OOo3_User_Guides/Math_Guide) được sử dụng để tạo các công thức Toán học mà sau đó có thể được lưu vào đĩa hoặc đưa vào các tài liệu khác. Các tệp này được tạo và lưu dựa trên tiêu chuẩn OASIS OpenDocument, đây là định dạng tệp tiêu chuẩn mở dành cho bảng tính, biểu đồ, bản trình bày và tài liệu soạn thảo văn bản bằng cách sử dụng [ZIP](/vi/compression/zip/)-nén [XML](/vi/web/ xml/). Các tệp ODF có thể được mở bằng các ứng dụng như OpenOffice Math và LibreOffice Draw.
+Tệp có phần mở rộng .odf là tài liệu có phương trình toán học, macro và công thức. Nó được tạo bằng chương trình [Apache OpenOffice Math](https://wiki.openoffice.org/wiki/Documentation/OOo3_User_Guides/Math_Guide) được sử dụng để tạo các công thức Toán học mà sau đó có thể được lưu vào đĩa hoặc đưa vào các tài liệu khác. Các tệp này được tạo và lưu dựa trên tiêu chuẩn OASIS OpenDocument, đây là định dạng tệp tiêu chuẩn mở dành cho bảng tính, biểu đồ, bản trình bày và tài liệu soạn thảo văn bản bằng cách sử dụng [ZIP](/vi/compression/zip/)-nén [XML](/vi/web/xml/). Các tệp ODF có thể được mở bằng các ứng dụng như OpenOffice Math và LibreOffice Draw.
 
 ## Định dạng tệp ODF - Thông tin khác
 

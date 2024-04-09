@@ -35,7 +35,7 @@ Puoi utilizzare GRATUITAMENTE l'app di conversione Aspose.Words per [convertire 
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-L'app Aspose.Words è basata su Aspose.Words, una suite di API che consente a qualsiasi sviluppatore di convertire il formato [DOCX](/it/word-processing/docx/) in [PNG](/it/image/png/) con solo poche righe di testo. codice. È disponibile per molti linguaggi di programmazione tra cui [C#](/it/programming/cs/), [Java](/it/programming/java/), [Python](/it/programming/py/) e [C++](/it/programming/cpp/ ).
+L'app Aspose.Words è basata su Aspose.Words, una suite di API che consente a qualsiasi sviluppatore di convertire il formato [DOCX](/it/word-processing/docx/) in [PNG](/it/image/png/) con solo poche righe di testo. codice. È disponibile per molti linguaggi di programmazione tra cui [C#](/it/programming/cs/), [Java](/it/programming/java/), [Python](/it/programming/py/) e [C++](/it/programming/cpp/).
 
 ## Converti DOCX in PNG in .NET, Java, C++ e Python
 

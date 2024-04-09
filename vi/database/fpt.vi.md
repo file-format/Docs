@@ -85,7 +85,7 @@ Vì các trường bản ghi nhớ có thể chứa nội dung văn bản có gi
 ## Các tập tin FPT khác
 
 - [FPT - Bản ghi nhớ bảng FoxPro](/vi/database/fpt-foxpro/)
-- [FPT - File ghi nhớ bảng Alpha Five](/vi/database/fpt-alphayear/)
+- [FPT - File ghi nhớ bảng Alpha Five](/vi/database/fpt-alphafive/)
 
 ## Người giới thiệu
 * [FileMaker](https://en.wikipedia.org/wiki/FileMaker)

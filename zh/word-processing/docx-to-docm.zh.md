@@ -41,7 +41,7 @@ DOCM 是 Microsoft Word 2007 文档文件格式，能够运行宏。 DOCM 的内
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-[Aspose.Words](https://products.aspose.com/words/) 是一组 API，允许任何开发人员将 [DOCX](/zh/word-processing/docx/) 转换为 [DOCM](/zh/word-processing /docm/) 格式使用简单的代码行。它适用于许多编程语言，包括：
+[Aspose.Words](https://products.aspose.com/words/) 是一组 API，允许任何开发人员将 [DOCX](/zh/word-processing/docx/) 转换为 [DOCM](/zh/word-processing/docm/) 格式使用简单的代码行。它适用于许多编程语言，包括：
 
 * [C#](/zh/编程/cs/)
 * [Java](/zh/编程/java/)

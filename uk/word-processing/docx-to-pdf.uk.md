@@ -38,7 +38,7 @@ DOCX і PDF є популярними форматами файлів докум
 
 ## API Aspose.Words
 
-Набір API Aspose.Words дозволяє будь-якому розробнику конвертувати [DOCX](/uk/word-processing/docx/) у формат [PDF](/uk/pdf/) лише за допомогою кількох рядків коду. Він доступний для багатьох мов програмування, включаючи [C#](/uk/programming/cs/), [Java](/uk/programming/java/), [Python](/uk/programming/py/) і [C++](/uk/programming/cpp/ ). Окрім PDF, API Aspose.Words дозволяють конвертувати файли DOCX у багато інших популярних форматів файлів.
+Набір API Aspose.Words дозволяє будь-якому розробнику конвертувати [DOCX](/uk/word-processing/docx/) у формат [PDF](/uk/pdf/) лише за допомогою кількох рядків коду. Він доступний для багатьох мов програмування, включаючи [C#](/uk/programming/cs/), [Java](/uk/programming/java/), [Python](/uk/programming/py/) і [C++](/uk/programming/cpp/). Окрім PDF, API Aspose.Words дозволяють конвертувати файли DOCX у багато інших популярних форматів файлів.
 
 ## Перетворення DOCX у PDF – безкоштовна демонстрація
 

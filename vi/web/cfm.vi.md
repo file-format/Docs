@@ -19,7 +19,7 @@
 
 ## Tệp CFM là gì? ##
 
-Các trang web và tệp được sử dụng trong **Ngôn ngữ đánh dấu kết hợp lạnh** chứa các phần mở rộng của CFM và được đặt tên là các trang web CFM. Ngôn ngữ kịch bản phát triển web này chạy trên Google App Engine, .NET framework và JVM. Nó có thể chứa ngôn ngữ lập trình hoặc mã của ngôn ngữ đó. Khi người dùng truy cập bất kỳ trang nào của nó, máy chủ web của ColdFusion sẽ thực thi nó. CFScript (gần với JavaScript) hoặc các thẻ có thể được sử dụng để viết CFML. CFML có thể được sử dụng để tạo các ngôn ngữ khác ngoài [HTML](/vi/web/html/) như [CSS](/vi/web/css/), [JavaScript](/vi/web/js/), [XML](/vi/web/ xml/), v.v.
+Các trang web và tệp được sử dụng trong **Ngôn ngữ đánh dấu kết hợp lạnh** chứa các phần mở rộng của CFM và được đặt tên là các trang web CFM. Ngôn ngữ kịch bản phát triển web này chạy trên Google App Engine, .NET framework và JVM. Nó có thể chứa ngôn ngữ lập trình hoặc mã của ngôn ngữ đó. Khi người dùng truy cập bất kỳ trang nào của nó, máy chủ web của ColdFusion sẽ thực thi nó. CFScript (gần với JavaScript) hoặc các thẻ có thể được sử dụng để viết CFML. CFML có thể được sử dụng để tạo các ngôn ngữ khác ngoài [HTML](/vi/web/html/) như [CSS](/vi/web/css/), [JavaScript](/vi/web/js/), [XML](/vi/web/xml/), v.v.
 
 Việc sử dụng ngôn ngữ này và các thẻ mà nó hỗ trợ chủ yếu là để phát triển các ứng dụng web động. Các tệp có thể được chạy trực tiếp trong trình duyệt trực tuyến nếu có bất kỳ lỗi nào xảy ra trong quá trình sử dụng ngoại tuyến nền tảng phát triển ứng dụng.
  

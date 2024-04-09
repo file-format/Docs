@@ -41,7 +41,7 @@ Sie können DOCX in das DOC-Dateiformat mit der [Aspose.Words DOCX to DOTX-App](
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-[Aspose.Words](https://products.aspose.com/words/) ist eine Reihe von APIs, die es jedem Entwickler ermöglichen, [DOCX](/word-processing/docx/) in [DOTX](/word-processing) zu konvertieren /dotx/)-Format mit einfachen Codezeilen. Es ist für viele Programmiersprachen verfügbar, einschließlich [C#](/programming/cs/), [Java](/programming/java/), [Python](/programming/py/) und [C++](/programming/cpp/ ). Zusätzlich zu DOTX können Sie mit den Aspose.Words-APIs DOCX-Dateien in viele andere gängige Dateiformate konvertieren.
+[Aspose.Words](https://products.aspose.com/words/) ist eine Reihe von APIs, die es jedem Entwickler ermöglichen, [DOCX](/word-processing/docx/) in [DOTX](/word-processing) zu konvertieren /dotx/)-Format mit einfachen Codezeilen. Es ist für viele Programmiersprachen verfügbar, einschließlich [C#](/programming/cs/), [Java](/programming/java/), [Python](/programming/py/) und [C++](/programming/cpp/). Zusätzlich zu DOTX können Sie mit den Aspose.Words-APIs DOCX-Dateien in viele andere gängige Dateiformate konvertieren.
 
 ## Verweise
 

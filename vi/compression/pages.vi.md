@@ -38,11 +38,11 @@ Các tệp PAGES được lưu dưới dạng tệp [ZIP](/vi/compression/zip/) 
 
 Tài liệu Apple PAGES có thể được chuyển đổi sang một số định dạng tệp. Điều này có thể được thực hiện từ bên trong phần mềm Apple Pages bằng cách sử dụng tùy chọn **Export To**. Các tệp PAGES có thể được chuyển đổi thành:
 
-* Microsoft Word [DOC](/vi/word-xử lý/doc/) và [DOCX](/vi/word-xử lý/docx/)
+* Microsoft Word [DOC](/vi/word-processing/doc/) và [DOCX](/vi/word-processing/docx/)
 * [PDF](/vi/pdf/)
 * [EPUB](/vi/ebook/epub/)
-* [RTF](/vi/xử lý văn bản/rtf/)
-* [TXT](/vi/word-xử lý/txt/)
+* [RTF](/vi/word-processing/rtf/)
+* [TXT](/vi/word-processing/txt/)
 
 ## Người giới thiệu
 

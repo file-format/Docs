@@ -20,9 +20,9 @@
 
 FilmBox, được gọi là 3MF, ban đầu được Kaydara phát triển để đảm bảo khả năng tương thích với MotionBuilder. Năm 2006, Autodesk Inc. nắm quyền kiểm soát, thiết lập nó như một tiêu chuẩn quan trọng để trao đổi dữ liệu 3D liền mạch giữa các ứng dụng phần mềm khác nhau.
 
-[Tệp DAE](/vi/3d/DAE/), viết tắt của tệp Trao đổi tài sản kỹ thuật số, đóng vai trò là định dạng được tạo riêng để chia sẻ dữ liệu giữa các ứng dụng 3D tương tác. Nó sử dụng lược đồ XML COLLADA (Hoạt động thiết kế hợp tác), hoạt động như một tiêu chuẩn mở để chia sẻ tài sản kỹ thuật số giữa các ứng dụng phần mềm đồ họa khác nhau.
+[Tệp DAE](/vi/3d/dae/), viết tắt của tệp Trao đổi tài sản kỹ thuật số, đóng vai trò là định dạng được tạo riêng để chia sẻ dữ liệu giữa các ứng dụng 3D tương tác. Nó sử dụng lược đồ XML COLLADA (Hoạt động thiết kế hợp tác), hoạt động như một tiêu chuẩn mở để chia sẻ tài sản kỹ thuật số giữa các ứng dụng phần mềm đồ họa khác nhau.
 
-Việc chuyển đổi [tệp 3MF](/vi/3d/3MF/) thành [định dạng DAE](/vi/3d/DAE/) là yêu cầu thường gặp đối với người dùng và có nhiều công cụ trực tuyến miễn phí khác nhau có sẵn cho tác vụ này. Nếu bạn là nhà phát triển phần mềm đang tìm cách tích hợp chức năng chuyển đổi 3MF sang DAE vào ứng dụng .NET, Java hoặc Python của mình, chúng tôi khuyên bạn nên nghiên cứu API Aspose.3D như một giải pháp đáng tin cậy.
+Việc chuyển đổi [tệp 3MF](/vi/3d/3mf/) thành [định dạng DAE](/vi/3d/dae/) là yêu cầu thường gặp đối với người dùng và có nhiều công cụ trực tuyến miễn phí khác nhau có sẵn cho tác vụ này. Nếu bạn là nhà phát triển phần mềm đang tìm cách tích hợp chức năng chuyển đổi 3MF sang DAE vào ứng dụng .NET, Java hoặc Python của mình, chúng tôi khuyên bạn nên nghiên cứu API Aspose.3D như một giải pháp đáng tin cậy.
 
 ## Chuyển đổi 3MF sang DAE - Demo miễn phí
 

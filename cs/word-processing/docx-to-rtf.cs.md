@@ -37,5 +37,5 @@ Převod DOCX do RTF pomocí online aplikace Aspose.Words je jednoduchý a zahrnu
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-Aspose.Words je sada rozhraní API, která umožňuje jakémukoli vývojáři převést [DOCX](/cs/word-processing/docx/) do formátu [RTF](/cs/word-processing/rtf/) pomocí jednoduchých řádků kódu. Je k dispozici pro mnoho programovacích jazyků včetně [C#](/cs/programming/cs/), [Java](/cs/programming/java/), [Python](/cs/programming/py/) a [C++](/cs/programming/cpp/ ). Kromě TXT vám rozhraní API Aspose.Words umožňují převádět soubory DOCX do mnoha dalších oblíbených formátů souborů.
+Aspose.Words je sada rozhraní API, která umožňuje jakémukoli vývojáři převést [DOCX](/cs/word-processing/docx/) do formátu [RTF](/cs/word-processing/rtf/) pomocí jednoduchých řádků kódu. Je k dispozici pro mnoho programovacích jazyků včetně [C#](/cs/programming/cs/), [Java](/cs/programming/java/), [Python](/cs/programming/py/) a [C++](/cs/programming/cpp/). Kromě TXT vám rozhraní API Aspose.Words umožňují převádět soubory DOCX do mnoha dalších oblíbených formátů souborů.
 

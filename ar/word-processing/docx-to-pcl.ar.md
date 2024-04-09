@@ -30,7 +30,7 @@ DOCX إلى PCL هو تحويل شائع يتيح لك تحويل مستندات
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-تتيح مجموعة واجهات برمجة التطبيقات Aspose.Words لأي مطور تحويل تنسيق [DOCX](/ar/word-processing/docx/) إلى تنسيق [PS](/ar/page-description-language/ps/) باستخدام بضعة أسطر فقط من التعليمات البرمجية. وهو متاح للعديد من لغات البرمجة بما في ذلك [C#](/ar/programming/cs/), [Java](/ar/programming/java/), [Python](/ar/programming/py/) و[C++](/ar/programming/cpp/ ). بالإضافة إلى PCL, تتيح لك واجهات Aspose.Words APIs تحويل ملفات DOCX إلى العديد من تنسيقات الملفات الشائعة الأخرى.
+تتيح مجموعة واجهات برمجة التطبيقات Aspose.Words لأي مطور تحويل تنسيق [DOCX](/ar/word-processing/docx/) إلى تنسيق [PS](/ar/page-description-language/ps/) باستخدام بضعة أسطر فقط من التعليمات البرمجية. وهو متاح للعديد من لغات البرمجة بما في ذلك [C#](/ar/programming/cs/), [Java](/ar/programming/java/), [Python](/ar/programming/py/) و[C++](/ar/programming/cpp/). بالإضافة إلى PCL, تتيح لك واجهات Aspose.Words APIs تحويل ملفات DOCX إلى العديد من تنسيقات الملفات الشائعة الأخرى.
 
 ## Aspose.Words لموارد .NET
 

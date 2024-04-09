@@ -43,7 +43,7 @@ WEBA là một tệp âm thanh, vì vậy nó không thể được chuyển đ�
 
 ## Làm cách nào để chuyển đổi WEBA sang các Định dạng âm thanh khác?
 
-Các tệp WEBA có thể được chuyển đổi sang các định dạng tệp âm thanh khác. Vì nó dựa trên định dạng tệp bộ chứa OGG mã nguồn mở và miễn phí, nhiều API và ứng dụng có thể đọc và chuyển đổi WEBA sang các định dạng tệp khác như [MP3](/vi/audio/mp3/), [MP4](/vi/audio/ mp4/), [FLAC](/vi/audio/flac/), và nhiều định dạng khác. FFmpeg là một trong những phần mềm có thể chuyển đổi WEBA thành tệp MP3.
+Các tệp WEBA có thể được chuyển đổi sang các định dạng tệp âm thanh khác. Vì nó dựa trên định dạng tệp bộ chứa OGG mã nguồn mở và miễn phí, nhiều API và ứng dụng có thể đọc và chuyển đổi WEBA sang các định dạng tệp khác như [MP3](/vi/audio/mp3/), [MP4](/vi/video/mp4/), [FLAC](/vi/audio/flac/), và nhiều định dạng khác. FFmpeg là một trong những phần mềm có thể chuyển đổi WEBA thành tệp MP3.
 
 ## Người giới thiệu
 

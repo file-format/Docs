@@ -33,7 +33,7 @@ TIFF (รูปแบบไฟล์ภาพที่ติดแท็ก) เ
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-Aspose.Words คือชุดของ API ที่ช่วยให้นักพัฒนาสามารถแปลงรูปแบบ [DOCX](/th/word-processing/docx/) เป็นรูปแบบ [TIFF](/th/image/tiff/) โดยใช้บรรทัดโค้ดง่ายๆ สามารถใช้ได้กับภาษาการเขียนโปรแกรมหลายภาษา รวมถึง [C#](/th/programming/cs/), [Java](/th/programming/java/), [Python](/th/programming/py/) และ [C++](/th/programming/cpp/ ). นอกจาก TIFF แล้ว Aspose.Words API ยังช่วยให้คุณแปลงไฟล์ DOCX เป็นรูปแบบไฟล์ยอดนิยมอื่นๆ ได้อีกมากมาย
+Aspose.Words คือชุดของ API ที่ช่วยให้นักพัฒนาสามารถแปลงรูปแบบ [DOCX](/th/word-processing/docx/) เป็นรูปแบบ [TIFF](/th/image/tiff/) โดยใช้บรรทัดโค้ดง่ายๆ สามารถใช้ได้กับภาษาการเขียนโปรแกรมหลายภาษา รวมถึง [C#](/th/programming/cs/), [Java](/th/programming/java/), [Python](/th/programming/py/) และ [C++](/th/programming/cpp/). นอกจาก TIFF แล้ว Aspose.Words API ยังช่วยให้คุณแปลงไฟล์ DOCX เป็นรูปแบบไฟล์ยอดนิยมอื่นๆ ได้อีกมากมาย
 
 ## อ้างอิง
 

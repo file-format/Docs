@@ -20,7 +20,7 @@
 
 Tệp Unity là tệp cảnh 3D được tạo bằng công cụ Trò chơi 3D, **Unity**. Nó được sử dụng kết hợp với các cảnh khác để tạo ra một thế giới ảo trong khi chỉnh sửa. Nó chứa các yếu tố cảnh 3D như đối tượng, môi trường, trang trí, máy ảnh, thông tin về góc độ, kịch bản ánh sáng và chướng ngại vật.
 
-Các tệp Unity có thể được mở bằng Unity Technologies Unity. Unity cũng có thể đọc Unity [.fbx](/vi/3d/fbx/), [.dae](/vi/3d/dae/) (Collada), [.3ds](/vi/3d/3ds/), [.dxf](/vi/ cad/dxf/) và các tệp [.obj](/vi/3d/obj/).
+Các tệp Unity có thể được mở bằng Unity Technologies Unity. Unity cũng có thể đọc Unity [.fbx](/vi/3d/fbx/), [.dae](/vi/3d/dae/) (Collada), [.3ds](/vi/3d/3ds/), [.dxf](/vi/cad/dxf/) và các tệp [.obj](/vi/3d/obj/).
 
 ## Định dạng tệp UNITY
 

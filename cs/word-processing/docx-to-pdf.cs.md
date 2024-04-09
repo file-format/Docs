@@ -38,7 +38,7 @@ DOCX a PDF jsou oblíbené formáty souborů dokumentů pro psaní obsahu a sdí
 
 ## Aspose.Words API
 
-Sada API Aspose.Words umožňuje jakémukoli vývojáři převést [DOCX](/cs/word-processing/docx/) do formátu [PDF](/cs/pdf/) pomocí pouhých několika řádků kódu. Je k dispozici pro mnoho programovacích jazyků včetně [C#](/cs/programming/cs/), [Java](/cs/programming/java/), [Python](/cs/programming/py/) a [C++](/cs/programming/cpp/ ). Kromě PDF vám rozhraní API Aspose.Words umožňují převádět soubory DOCX do mnoha dalších oblíbených formátů souborů.
+Sada API Aspose.Words umožňuje jakémukoli vývojáři převést [DOCX](/cs/word-processing/docx/) do formátu [PDF](/cs/pdf/) pomocí pouhých několika řádků kódu. Je k dispozici pro mnoho programovacích jazyků včetně [C#](/cs/programming/cs/), [Java](/cs/programming/java/), [Python](/cs/programming/py/) a [C++](/cs/programming/cpp/). Kromě PDF vám rozhraní API Aspose.Words umožňují převádět soubory DOCX do mnoha dalších oblíbených formátů souborů.
 
 ## Konverze DOCX do PDF – bezplatná ukázka
 

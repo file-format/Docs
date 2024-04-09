@@ -39,7 +39,7 @@ Convertir DOCX a SVG usando la aplicación en línea Aspose.Words es simple e in
 
 ## API de Aspose.Words
 
-Aspose.Words es un conjunto de API que permite a cualquier desarrollador convertir el formato [DOCX](/es/word-processing/docx/) al formato [SVG](/es/page-description-language/svg/) usando simples líneas de código. Está disponible para muchos lenguajes de programación, incluidos [C#](/es/programming/cs/), [Java](/es/programming/java/), [Python](/es/programming/py/) y [C++](/es/programming/cpp/ ). Además de SVG, las API de Aspose.Words le permiten convertir archivos DOCX a muchos otros formatos de archivo populares.
+Aspose.Words es un conjunto de API que permite a cualquier desarrollador convertir el formato [DOCX](/es/word-processing/docx/) al formato [SVG](/es/page-description-language/svg/) usando simples líneas de código. Está disponible para muchos lenguajes de programación, incluidos [C#](/es/programming/cs/), [Java](/es/programming/java/), [Python](/es/programming/py/) y [C++](/es/programming/cpp/). Además de SVG, las API de Aspose.Words le permiten convertir archivos DOCX a muchos otros formatos de archivo populares.
 
 ## Referencias
 

@@ -188,7 +188,7 @@ Máy chủ Citrix và các công nghệ Citrix liên quan hỗ trợ một số 
 
 
 
-- **.exe**: Các gói cài đặt Citrix Recorder hoặc Citrix Workspace thường có định dạng thực thi cho nhiều hệ điều hành khác nhau (ví dụ: [.exe](/vi/executable/exe/) cho Windows, [.dmg](/vi/compression/dmg /) cho macOS). Các gói này cho phép người dùng cài đặt phần mềm máy khách trên thiết bị của họ.
+- **.exe**: Các gói cài đặt Citrix Recorder hoặc Citrix Workspace thường có định dạng thực thi cho nhiều hệ điều hành khác nhau (ví dụ: [.exe](/vi/executable/exe/) cho Windows, [.dmg](/vi/compression/dmg/) cho macOS). Các gói này cho phép người dùng cài đặt phần mềm máy khách trên thiết bị của họ.
 3. **Ứng dụng Citrix Workspace (trước đây là Bộ thu Citrix)**:
     
 
@@ -242,7 +242,7 @@ Máy chủ Citrix và các công nghệ Citrix liên quan hỗ trợ một số 
 
 
 
-- **.vhd, .vhdx**: Citrix XenDesktop và XenApp có thể cung cấp máy tính để bàn và ứng dụng ảo sử dụng đĩa cứng ảo [VHD](/vi/disc-and-media/vhd/) hoặc [VHDX](/vi/disc-and-media /vhdx/).
+- **.vhd, .vhdx**: Citrix XenDesktop và XenApp có thể cung cấp máy tính để bàn và ứng dụng ảo sử dụng đĩa cứng ảo [VHD](/vi/disc-and-media/vhd/) hoặc [VHDX](/vi/disc-and-media/vhdx/).
 6. **Siêu dữ liệu xuất bản tài nguyên**:
     
 

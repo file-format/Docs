@@ -37,7 +37,7 @@
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-[Aspose.Words](https://products.aspose.com/words/) е набор от API, който позволява на всеки разработчик да конвертира [DOC](/bg/word-processing/doc/) в [BMP](/bg/image/bmp /) форматирайте с прости редове код. Предлага се за много езици за програмиране, включително [C#](/bg/programming/cs/), [Java](/bg/programming/java/), [Python](/bg/programming/py/) и [C++](/bg/programming/cpp/ ). В допълнение към BMP, API на Aspose.Words ви позволяват да конвертирате DOC файлове в много други популярни файлови формати.
+[Aspose.Words](https://products.aspose.com/words/) е набор от API, който позволява на всеки разработчик да конвертира [DOC](/bg/word-processing/doc/) в [BMP](/bg/image/bmp /) форматирайте с прости редове код. Предлага се за много езици за програмиране, включително [C#](/bg/programming/cs/), [Java](/bg/programming/java/), [Python](/bg/programming/py/) и [C++](/bg/programming/cpp/). В допълнение към BMP, API на Aspose.Words ви позволяват да конвертирате DOC файлове в много други популярни файлови формати.
 
 ## Препратки
 

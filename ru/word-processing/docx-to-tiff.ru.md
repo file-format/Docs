@@ -33,7 +33,7 @@ TIFF (формат файла изображения с тегами) — это
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-Aspose.Words — это набор API-интерфейсов, который позволяет любому разработчику конвертировать формат [DOCX](/ru/word-processing/docx/) в формат [TIFF](/ru/image/tiff/) с помощью простых строк кода. Он доступен для многих языков программирования, включая [C#](/ru/programming/cs/), [Java](/ru/programming/java/), [Python](/ru/programming/py/) и [C++](/ru/programming/cpp/ ). Помимо TIFF, API-интерфейсы Aspose.Words позволяют конвертировать файлы DOCX во многие другие популярные форматы файлов.
+Aspose.Words — это набор API-интерфейсов, который позволяет любому разработчику конвертировать формат [DOCX](/ru/word-processing/docx/) в формат [TIFF](/ru/image/tiff/) с помощью простых строк кода. Он доступен для многих языков программирования, включая [C#](/ru/programming/cs/), [Java](/ru/programming/java/), [Python](/ru/programming/py/) и [C++](/ru/programming/cpp/). Помимо TIFF, API-интерфейсы Aspose.Words позволяют конвертировать файлы DOCX во многие другие популярные форматы файлов.
 
 ## Рекомендации
 

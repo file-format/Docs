@@ -20,7 +20,7 @@
 
 Tệp **bảng tính** chứa dữ liệu ở dạng hàng và cột. Một tệp bảng tính có thể được lưu ở một số định dạng tệp khác nhau, mỗi định dạng có một phần mở rộng tệp khác nhau để thể hiện duy nhất. Dữ liệu được lưu trữ trong các ô ở dạng đơn giản như chuỗi văn bản, số, ngày, tiền tệ, v.v. hoặc dưới dạng công thức thay đổi giá trị của ô khi giá trị ô được tham chiếu thay đổi.
 
-Các phần mở rộng tệp bảng tính phổ biến và định dạng tệp của chúng bao gồm **[XLSX](/vi/spreadsheet/xlsx/)** (Bảng tính XML mở của Microsoft Excel), **[ODS](/vi/spreadsheet/ods/)** (Bảng tính OpenDocument) và **[XLS](/vi/bảng tính/xls/)** (Định dạng tệp nhị phân của Microsoft Excel).
+Các phần mở rộng tệp bảng tính phổ biến và định dạng tệp của chúng bao gồm **[XLSX](/vi/spreadsheet/xlsx/)** (Bảng tính XML mở của Microsoft Excel), **[ODS](/vi/spreadsheet/ods/)** (Bảng tính OpenDocument) và **[XLS](/vi/spreadsheet/xls/)** (Định dạng tệp nhị phân của Microsoft Excel).
 
 Bạn có truy vấn liên quan đến định dạng tệp Bảng tính? Hãy truy cập vào cộng đồng của chúng tôi [các diễn đàn](https://forum.fileformat.com/c/spreadsheet/6) để hưởng lợi từ kiến thức do các chuyên gia Định dạng tệp chia sẻ.
 

@@ -39,7 +39,7 @@ Microsoft Works là bộ phần mềm năng suất được phát triển bởi 
 
 - **Bộ xử lý văn bản:** Microsoft Works có ứng dụng xử lý văn bản cho phép người dùng tạo và chỉnh sửa tài liệu. Nó sử dụng định dạng tệp [.WPS](/vi/word-processing/wps/) cho các tài liệu xử lý văn bản.
 
-- **Bảng tính:** Nó bao gồm ứng dụng bảng tính để tạo và quản lý bảng tính. Định dạng tệp cho bảng tính là [.XLR](/vi/ Spreadsheet/xlr/).
+- **Bảng tính:** Nó bao gồm ứng dụng bảng tính để tạo và quản lý bảng tính. Định dạng tệp cho bảng tính là [.XLR](/vi/spreadsheet/xlr/).
 
 - **Cơ sở dữ liệu:** Microsoft Works cũng có ứng dụng cơ sở dữ liệu để tổ chức và quản lý dữ liệu. Định dạng tệp cho tệp cơ sở dữ liệu là [.WDB](/vi/database/wdb/).
 

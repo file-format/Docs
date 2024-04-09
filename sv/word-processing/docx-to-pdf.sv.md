@@ -38,7 +38,7 @@ DOCX och PDF är populära dokumentfilformat för att skriva innehåll och dela.
 
 ## Aspose.Words API:er
 
-Aspose.Words svit med API:er låter alla utvecklare konvertera [DOCX](/sv/word-processing/docx/) till [PDF](/sv/pdf/)-format med bara några rader kod. Den är tillgänglig för många programmeringsspråk inklusive [C#](/sv/programming/cs/), [Java](/sv/programming/java/), [Python](/sv/programming/py/) och [C++](/sv/programming/cpp/ ). Förutom PDF låter Aspose.Words API:er dig konvertera DOCX-filer till många andra populära filformat.
+Aspose.Words svit med API:er låter alla utvecklare konvertera [DOCX](/sv/word-processing/docx/) till [PDF](/sv/pdf/)-format med bara några rader kod. Den är tillgänglig för många programmeringsspråk inklusive [C#](/sv/programming/cs/), [Java](/sv/programming/java/), [Python](/sv/programming/py/) och [C++](/sv/programming/cpp/). Förutom PDF låter Aspose.Words API:er dig konvertera DOCX-filer till många andra populära filformat.
 
 ## DOCX till PDF-konvertering - gratis demo
 

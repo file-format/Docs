@@ -37,7 +37,7 @@ Bạn có thể chuyển đổi định dạng tệp DOC sang BMP bằng cách s
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-[Aspose.Words](https://products.aspose.com/words/) là một bộ API cho phép mọi nhà phát triển chuyển đổi [DOC](/vi/word-processing/doc/) thành [BMP](/vi/image/bmp /) định dạng bằng các dòng mã đơn giản. Nó có sẵn cho nhiều ngôn ngữ lập trình bao gồm [C#](/vi/programming/cs/), [Java](/vi/programming/java/), [Python](/vi/programming/py/) và [C++](/vi/programming/cpp/ ). Ngoài BMP, API Aspose.Words cho phép bạn chuyển đổi tệp DOC sang nhiều định dạng tệp phổ biến khác.
+[Aspose.Words](https://products.aspose.com/words/) là một bộ API cho phép mọi nhà phát triển chuyển đổi [DOC](/vi/word-processing/doc/) thành [BMP](/vi/image/bmp/) định dạng bằng các dòng mã đơn giản. Nó có sẵn cho nhiều ngôn ngữ lập trình bao gồm [C#](/vi/programming/cs/), [Java](/vi/programming/java/), [Python](/vi/programming/py/) và [C++](/vi/programming/cpp/). Ngoài BMP, API Aspose.Words cho phép bạn chuyển đổi tệp DOC sang nhiều định dạng tệp phổ biến khác.
 
 ## Người giới thiệu
 

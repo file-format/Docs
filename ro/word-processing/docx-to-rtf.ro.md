@@ -37,5 +37,5 @@ Convertirea DOCX în RTF folosind aplicația online Aspose.Words este simplă ș
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-Aspose.Words este un set de API-uri care permite oricărui dezvoltator să convertească [DOCX](/ro/word-processing/docx/) în formatul [RTF](/ro/word-processing/rtf/) folosind linii simple de cod. Este disponibil pentru multe limbaje de programare, inclusiv [C#](/ro/programming/cs/), [Java](/ro/programming/java/), [Python](/ro/programming/py/) și [C++](/ro/programming/cpp/ ). Pe lângă TXT, API-urile Aspose.Words vă permit să convertiți fișierele DOCX în multe alte formate de fișiere populare.
+Aspose.Words este un set de API-uri care permite oricărui dezvoltator să convertească [DOCX](/ro/word-processing/docx/) în formatul [RTF](/ro/word-processing/rtf/) folosind linii simple de cod. Este disponibil pentru multe limbaje de programare, inclusiv [C#](/ro/programming/cs/), [Java](/ro/programming/java/), [Python](/ro/programming/py/) și [C++](/ro/programming/cpp/). Pe lângă TXT, API-urile Aspose.Words vă permit să convertiți fișierele DOCX în multe alte formate de fișiere populare.
 

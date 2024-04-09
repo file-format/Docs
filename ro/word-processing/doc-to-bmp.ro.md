@@ -37,7 +37,7 @@ Puteți converti formatul de fișier DOC în BMP utilizând [Aplicația Aspose.W
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-[Aspose.Words](https://products.aspose.com/words/) este un set de API-uri care permite oricărui dezvoltator să convertească [DOC](/ro/word-processing/doc/) în [BMP](/ro/image/bmp/) format folosind linii simple de cod. Este disponibil pentru multe limbaje de programare, inclusiv [C#](/ro/programming/cs/), [Java](/ro/programming/java/), [Python](/ro/programming/py/) și [C++](/ro/programming/cpp/ ). Pe lângă BMP, API-urile Aspose.Words vă permit să convertiți fișierele DOC în multe alte formate de fișiere populare.
+[Aspose.Words](https://products.aspose.com/words/) este un set de API-uri care permite oricărui dezvoltator să convertească [DOC](/ro/word-processing/doc/) în [BMP](/ro/image/bmp/) format folosind linii simple de cod. Este disponibil pentru multe limbaje de programare, inclusiv [C#](/ro/programming/cs/), [Java](/ro/programming/java/), [Python](/ro/programming/py/) și [C++](/ro/programming/cpp/). Pe lângă BMP, API-urile Aspose.Words vă permit să convertiți fișierele DOC în multe alte formate de fișiere populare.
 
 ## Referințe
 

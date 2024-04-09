@@ -19,7 +19,7 @@
 
 ## Tệp OTS là gì?
 
-Tệp có phần mở rộng .ots là tệp Mẫu Bảng tính Tài liệu Mở được tạo bằng phần mềm ứng dụng Calc có trong Apache OpenOffice. Phần mềm ứng dụng Calc tương tự như Excel có sẵn trong Microsoft Office. Định dạng tệp OTS được sử dụng để tạo các mẫu có chứa các cài đặt xác định trước liên quan đến kiểu, phông chữ, dữ liệu, bố cục bảng tính và định dạng. Các tệp OTF có `ứng dụng kiểu mime/vnd.oasis.opendocument.spreadsheet-template`. Các tệp mẫu này có thể được sử dụng làm điểm bắt đầu để tạo và lưu các tệp dữ liệu thực được lưu ở [Định dạng tệp ODS](/vi/bảng tính/ods/). Các tệp OTS có thể được sử dụng với các ứng dụng như OpenOffice và LibreOffice.
+Tệp có phần mở rộng .ots là tệp Mẫu Bảng tính Tài liệu Mở được tạo bằng phần mềm ứng dụng Calc có trong Apache OpenOffice. Phần mềm ứng dụng Calc tương tự như Excel có sẵn trong Microsoft Office. Định dạng tệp OTS được sử dụng để tạo các mẫu có chứa các cài đặt xác định trước liên quan đến kiểu, phông chữ, dữ liệu, bố cục bảng tính và định dạng. Các tệp OTF có `ứng dụng kiểu mime/vnd.oasis.opendocument.spreadsheet-template`. Các tệp mẫu này có thể được sử dụng làm điểm bắt đầu để tạo và lưu các tệp dữ liệu thực được lưu ở [Định dạng tệp ODS](/vi/spreadsheet/ods/). Các tệp OTS có thể được sử dụng với các ứng dụng như OpenOffice và LibreOffice.
 
 ## Định dạng tệp OTS
 

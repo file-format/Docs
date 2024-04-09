@@ -39,7 +39,7 @@ SVG (Scalar Vector Graphics) เป็นไฟล์รูปภาพประ
 
 ## Aspose.Words API
 
-Aspose.Words คือชุดของ API ที่ช่วยให้นักพัฒนาสามารถแปลงรูปแบบ [DOCX](/th/word-processing/docx/) เป็นรูปแบบ [SVG](/th/page-description-language/svg/) โดยใช้โค้ดบรรทัดง่ายๆ สามารถใช้ได้กับภาษาการเขียนโปรแกรมหลายภาษา รวมถึง [C#](/th/programming/cs/), [Java](/th/programming/java/), [Python](/th/programming/py/) และ [C++](/th/programming/cpp/ ). นอกจาก SVG แล้ว Aspose.Words API ยังช่วยให้คุณแปลงไฟล์ DOCX เป็นรูปแบบไฟล์ยอดนิยมอื่นๆ ได้อีกมากมาย
+Aspose.Words คือชุดของ API ที่ช่วยให้นักพัฒนาสามารถแปลงรูปแบบ [DOCX](/th/word-processing/docx/) เป็นรูปแบบ [SVG](/th/page-description-language/svg/) โดยใช้โค้ดบรรทัดง่ายๆ สามารถใช้ได้กับภาษาการเขียนโปรแกรมหลายภาษา รวมถึง [C#](/th/programming/cs/), [Java](/th/programming/java/), [Python](/th/programming/py/) และ [C++](/th/programming/cpp/). นอกจาก SVG แล้ว Aspose.Words API ยังช่วยให้คุณแปลงไฟล์ DOCX เป็นรูปแบบไฟล์ยอดนิยมอื่นๆ ได้อีกมากมาย
 
 ## อ้างอิง
 

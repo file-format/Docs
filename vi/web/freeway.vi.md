@@ -22,7 +22,7 @@ Tệp FREEWAY là tệp thông tin cài đặt được tạo và sử dụng b�
 
 ## Định dạng tệp FREEWAY
 
-Các tệp FREEWAY được lưu ở định dạng tệp độc quyền và chi tiết định dạng tệp nội bộ của chúng không được công khai. Nó không có bất kỳ tài nguyên thực tế nào được sử dụng bởi một trang web, mà thay vào đó là bố cục trang web và các liên kết đến các thuộc tính khác nhau. Các trang và tài nguyên trang web thực tế được lưu vào thư mục "Phương tiện" và "Thư mục trang web" nằm trong cùng thư mục với tệp FREEWAY. Tài liệu FREEWAY có thể được xuất sang nhiều định dạng bao gồm [HTML](/vi/web/html/), [JPEG](/vi/image/jpeg/), [PNG](/vi/image/png/), [BMP](/vi/ image/bmp/) và [GIF](/vi/image/gif/).
+Các tệp FREEWAY được lưu ở định dạng tệp độc quyền và chi tiết định dạng tệp nội bộ của chúng không được công khai. Nó không có bất kỳ tài nguyên thực tế nào được sử dụng bởi một trang web, mà thay vào đó là bố cục trang web và các liên kết đến các thuộc tính khác nhau. Các trang và tài nguyên trang web thực tế được lưu vào thư mục "Phương tiện" và "Thư mục trang web" nằm trong cùng thư mục với tệp FREEWAY. Tài liệu FREEWAY có thể được xuất sang nhiều định dạng bao gồm [HTML](/vi/web/html/), [JPEG](/vi/image/jpeg/), [PNG](/vi/image/png/), [BMP](/vi/image/bmp/) và [GIF](/vi/image/gif/).
 
 ## Người giới thiệu
 

@@ -37,5 +37,5 @@
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-Aspose.Words — це набір API, який дозволяє будь-якому розробнику перетворювати [DOCX](/uk/word-processing/docx/) у формат [RTF](/uk/word-processing/rtf/) за допомогою простих рядків коду. Він доступний для багатьох мов програмування, включаючи [C#](/uk/programming/cs/), [Java](/uk/programming/java/), [Python](/uk/programming/py/) і [C++](/uk/programming/cpp/ ). Окрім TXT, API Aspose.Words дозволяють конвертувати файли DOCX у багато інших популярних форматів файлів.
+Aspose.Words — це набір API, який дозволяє будь-якому розробнику перетворювати [DOCX](/uk/word-processing/docx/) у формат [RTF](/uk/word-processing/rtf/) за допомогою простих рядків коду. Він доступний для багатьох мов програмування, включаючи [C#](/uk/programming/cs/), [Java](/uk/programming/java/), [Python](/uk/programming/py/) і [C++](/uk/programming/cpp/). Окрім TXT, API Aspose.Words дозволяють конвертувати файли DOCX у багато інших популярних форматів файлів.
 

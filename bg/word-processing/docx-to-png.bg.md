@@ -35,7 +35,7 @@ DOCX е типът файл по подразбиране, използван о
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-Приложението Aspose.Words се захранва от Aspose.Words, което е набор от API, позволява на всеки разработчик да конвертира [DOCX](/bg/word-processing/docx/) във формат [PNG](/bg/image/png/) само с няколко реда код. Предлага се за много езици за програмиране, включително [C#](/bg/programming/cs/), [Java](/bg/programming/java/), [Python](/bg/programming/py/) и [C++](/bg/programming/cpp/ ).
+Приложението Aspose.Words се захранва от Aspose.Words, което е набор от API, позволява на всеки разработчик да конвертира [DOCX](/bg/word-processing/docx/) във формат [PNG](/bg/image/png/) само с няколко реда код. Предлага се за много езици за програмиране, включително [C#](/bg/programming/cs/), [Java](/bg/programming/java/), [Python](/bg/programming/py/) и [C++](/bg/programming/cpp/).
 
 ## Конвертирайте DOCX в PNG в .NET, Java, C++ и Python
 
