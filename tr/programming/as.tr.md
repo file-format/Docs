@@ -76,7 +76,7 @@ package com.example
 
 ## Referans ##
 
-* [AS - Wikipedia'dan]( https://en.wikipedia.org/wiki/ActionScript)
+* [AS - Wikipedia'dan](https://en.wikipedia.org/wiki/ActionScript)
 
 
 

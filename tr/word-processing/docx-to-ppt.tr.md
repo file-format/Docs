@@ -38,6 +38,6 @@ Aspose.Words çevrimiçi uygulamasını kullanarak DOCX'i PPT'ye dönüştürmek
 
 ## DOCX'ten Powerpoint PPT'ye geçiş için Aspose.Words API'leri
 
-Aspose.Words, herhangi bir geliştiricinin basit kod satırları kullanarak [DOCX](/tr/word-processing/docx/) öğesini [PPT](/tr/sunum/ppt/) biçimine dönüştürmesine olanak tanıyan bir API kümesidir. [C#](/tr/programming/cs/), [Java](/tr/programming/java/), [Python](/tr/programming/py/) ve [C++](/tr/programming/cpp/ dahil olmak üzere birçok programlama dili için kullanılabilir. ). PPT'ye ek olarak Aspose.Words API'leri, DOCX dosyalarını diğer birçok popüler dosya formatına dönüştürmenize olanak tanır.
+Aspose.Words, herhangi bir geliştiricinin basit kod satırları kullanarak [DOCX](/tr/word-processing/docx/) öğesini [PPT](/tr/presentation/ppt/) biçimine dönüştürmesine olanak tanıyan bir API kümesidir. [C#](/tr/programming/cs/), [Java](/tr/programming/java/), [Python](/tr/programming/py/) ve [C++](/tr/programming/cpp/) dahil olmak üzere birçok programlama dili için kullanılabilir. PPT'ye ek olarak Aspose.Words API'leri, DOCX dosyalarını diğer birçok popüler dosya formatına dönüştürmenize olanak tanır.
 
 

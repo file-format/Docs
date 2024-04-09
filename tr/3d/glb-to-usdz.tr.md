@@ -20,7 +20,7 @@
 
 GLB, GL İletim formatındaki ([glTF](/tr/3d/gltf/)) 3D modelleri temsil eden popüler bir 3D ikili dosya formatıdır. Bir .usdz dosyası esasen [USD](/tr/3d/usd/) (Evrensel Sahne Açıklaması) dosya formatı için tasarlanmış sıkıştırılmamış ve şifrelenmemiş bir ZIP arşividir. Bu arşiv, içinde USDZ'lenen alternatif formatlardaki (örn. dokular ve animasyonlar) çeşitli dosyaları uygun bir şekilde kapsüller ve bunlar için bir proxy görevi görür. Bu dosyalar USD çalışma zamanı tarafından sorunsuz bir şekilde kullanılabilir ve herhangi bir paket açma işlemine gerek kalmaz.
 
-[GLB](/tr/3d/glb/)'yi [USDZ](/tr/cad/usdz/)'ye ÜCRETSİZ olarak dönüştürmek için kullanılabilecek birçok çevrimiçi uygulama vardır. GLB'nin işlevselliğini .NET veya Java'daki USDZ'ye eklemek isteyen bir uygulama geliştiricisiyseniz, bunu başarmak için Aspose.3D API'yi kullanabilirsiniz.
+[GLB](/tr/3d/glb/)'yi [USDZ](/tr/3d/usdz/)'ye ÜCRETSİZ olarak dönüştürmek için kullanılabilecek birçok çevrimiçi uygulama vardır. GLB'nin işlevselliğini .NET veya Java'daki USDZ'ye eklemek isteyen bir uygulama geliştiricisiyseniz, bunu başarmak için Aspose.3D API'yi kullanabilirsiniz.
 
 ## GLB'den USDZ'ye Dönüşüm - Ücretsiz Demo
 

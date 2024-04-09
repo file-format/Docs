@@ -33,7 +33,7 @@ DOCX'i WEBP'ye dönüştürmek istiyorsanız, PC'nize veya cep telefonunuza herh
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-Aspose.Words, herhangi bir geliştiricinin basit kod satırları kullanarak [DOCX](/tr/word-processing/docx/) öğesini [WEBP](/tr/image/webp/) biçimine dönüştürmesine olanak tanıyan bir API kümesidir. [C#](/tr/programming/cs/), [Java](/tr/programming/java/), [Python](/tr/programming/py/) ve [C++](/tr/programming/cpp/ dahil olmak üzere birçok programlama dili için kullanılabilir. ). WEBP'ye ek olarak Aspose.Words API'leri, DOCX dosyalarını diğer birçok popüler dosya formatına dönüştürmenize olanak tanır.
+Aspose.Words, herhangi bir geliştiricinin basit kod satırları kullanarak [DOCX](/tr/word-processing/docx/) öğesini [WEBP](/tr/image/webp/) biçimine dönüştürmesine olanak tanıyan bir API kümesidir. [C#](/tr/programming/cs/), [Java](/tr/programming/java/), [Python](/tr/programming/py/) ve [C++](/tr/programming/cpp/). dahil olmak üzere birçok programlama dili için kullanılabilir. WEBP'ye ek olarak Aspose.Words API'leri, DOCX dosyalarını diğer birçok popüler dosya formatına dönüştürmenize olanak tanır.
 
 ## Referanslar
 

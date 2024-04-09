@@ -38,7 +38,7 @@ DOCX ve PDF, içerik yazmak ve paylaşmak için kullanılan popüler belge dosya
 
 ## Aspose.Words API'leri
 
-Aspose.Words API paketi, herhangi bir geliştiricinin yalnızca birkaç satır kodla [DOCX](/tr/word-processing/docx/) dosyasını [PDF](/tr/pdf/) formatına dönüştürmesine olanak tanır. [C#](/tr/programming/cs/), [Java](/tr/programming/java/), [Python](/tr/programming/py/) ve [C++](/tr/programming/cpp/ dahil olmak üzere birçok programlama dili için kullanılabilir. ). Aspose.Words API'leri, PDF'ye ek olarak DOCX dosyalarını diğer birçok popüler dosya formatına dönüştürmenize de olanak tanır.
+Aspose.Words API paketi, herhangi bir geliştiricinin yalnızca birkaç satır kodla [DOCX](/tr/word-processing/docx/) dosyasını [PDF](/tr/pdf/) formatına dönüştürmesine olanak tanır. [C#](/tr/programming/cs/), [Java](/tr/programming/java/), [Python](/tr/programming/py/) ve [C++](/tr/programming/cpp/) dahil olmak üzere birçok programlama dili için kullanılabilir. Aspose.Words API'leri, PDF'ye ek olarak DOCX dosyalarını diğer birçok popüler dosya formatına dönüştürmenize de olanak tanır.
 
 ## DOCX'ten PDF'ye Dönüştürme - Ücretsiz Demo
 

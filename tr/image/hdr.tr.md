@@ -37,7 +37,7 @@ Bir HDR görüntü dosyası aşağıdaki üç bölümden oluşur:
 ## Açık Kaynaklı HDR/HDRI API'leri
 
 * **[imageinfo](https://github.com/xiaozhuai/imageinfo)** - Yüklemeden/kod çözmeden görüntü boyutu ve formatı almak için platformlar arası süper hızlı tek başlıklı [C++](/tr/programming/cpp/) kitaplığı.
-* **[imgaeinfo-rs](https://github.com/xiaozhuai/imageinfo-rs)** - Yüklemeden/kod çözmeden görüntü boyutu ve formatı almak için Rust kitaplığı. [.avif](/tr/image/avif/), [.bmp](/tr/image/bmp/), [.cur](/tr/image/cur/), [.dds](/tr/image/dds/), ['yi destekler. gif](/tr/image/gif/), hdr (resim), [heic (heif)](/tr/image/heic/), [.icns](/tr/image/icns/), [.ico](/tr/image/ico /), [.jp2](/tr/image/jp2/), [jpeg (jpg)](/tr/image/jpeg/), [jpx](/tr/image/jpx/), ktx, [png](/tr/image/png /), [psd](/tr/image/psd/), qoi, tga, tiff (tif) ve webp.
+* **[imgaeinfo-rs](https://github.com/xiaozhuai/imageinfo-rs)** - Yüklemeden/kod çözmeden görüntü boyutu ve formatı almak için Rust kitaplığı. [.avif](/tr/image/avif/), [.bmp](/tr/image/bmp/), [.cur](/tr/image/cur/), [.dds](/tr/image/dds/), ['yi destekler. gif](/tr/image/gif/), hdr (resim), [heic (heif)](/tr/image/heic/), [.icns](/tr/image/icns/), [.ico](/tr/image/ico/), [.jp2](/tr/image/jp2/), [jpeg (jpg)](/tr/image/jpeg/), [jpx](/tr/image/jpx/), ktx, [png](/tr/image/png/), [psd](/tr/image/psd/), qoi, tga, tiff (tif) ve webp.
 * **[HdrHistogram](https://github.com/HdrHistogram/HdrHistogram)** - HdrHistogram'ın Java uygulaması.
 
 ## Referanslar

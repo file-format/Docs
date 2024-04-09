@@ -79,7 +79,7 @@ Mimio Defter'deki .ink dosyalarının bazı temel özellikleri şunlardır:
 
 ## INK dosyasını paylaşma
 
-Öğretmenin .ink dosyasını öğrenciyle veya Mimio Notebook'a erişimi olmayan başka bir öğretmenle paylaşması gerekiyorsa, .ink dosyasını [PDF](/tr/pdf/), [HTML](/tr/web gibi daha geniş uyumlu formatta dışa aktarabilirler. /html/) veya görüntü dosyaları ([.JPEG](/tr/image/jpeg/), [.PNG](/tr/image/png/), [.GIF](/tr/image/gif/), [.TIFF](/tr/ resim/tiff/)); bu şekilde içerik, Mimio Notebook'a erişim gerektirmeden çeşitli cihazlarda ve yazılım uygulamalarında kolayca paylaşılabilir ve görüntülenebilir.
+Öğretmenin .ink dosyasını öğrenciyle veya Mimio Notebook'a erişimi olmayan başka bir öğretmenle paylaşması gerekiyorsa, .ink dosyasını [PDF](/tr/pdf/), [HTML](/tr/web/html/) gibi daha geniş uyumlu formatta dışa aktarabilirler. veya görüntü dosyaları ([.JPEG](/tr/image/jpeg/), [.PNG](/tr/image/png/), [.GIF](/tr/image/gif/), [.TIFF](/tr/image/tiff/)); bu şekilde içerik, Mimio Notebook'a erişim gerektirmeden çeşitli cihazlarda ve yazılım uygulamalarında kolayca paylaşılabilir ve görüntülenebilir.
 
 ## MimioStudio
 

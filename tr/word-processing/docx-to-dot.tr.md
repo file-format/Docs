@@ -41,7 +41,7 @@ Aspose.Words uygulamasını şimdi ücretsiz olarak çevrimiçi olarak **[DOCX'i
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-[Aspose.Words](https://products.aspose.com/words/), herhangi bir geliştiricinin [DOCX](/tr/word-processing/docx/) dosyasını [DOC](/tr/word-processing) biçimine dönüştürmesine olanak tanıyan bir API kümesidir /doc/) biçimini basit kod satırları kullanarak oluşturur. [C#](/tr/programming/cs/), [Java](/tr/programming/java/), [Python](/tr/programming/py/) ve [C++](/tr/programming/cpp/ dahil olmak üzere birçok programlama dili için kullanılabilir. ). Aspose.Words API'leri, DOT'a ek olarak DOCX dosyalarını diğer birçok popüler dosya formatına dönüştürmenize olanak tanır.
+[Aspose.Words](https://products.aspose.com/words/), herhangi bir geliştiricinin [DOCX](/tr/word-processing/docx/) dosyasını [DOC](/tr/word-processing/doc/) biçimine dönüştürmesine olanak tanıyan bir API kümesidir biçimini basit kod satırları kullanarak oluşturur. [C#](/tr/programming/cs/), [Java](/tr/programming/java/), [Python](/tr/programming/py/) ve [C++](/tr/programming/cpp/). dahil olmak üzere birçok programlama dili için kullanılabilir. Aspose.Words API'leri, DOT'a ek olarak DOCX dosyalarını diğer birçok popüler dosya formatına dönüştürmenize olanak tanır.
 
 ## Referanslar
 

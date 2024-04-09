@@ -30,7 +30,7 @@ Aspose.Words uygulaması DOCX dosyalarını birkaç farklı çıktı dosyası fo
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-Aspose.Words API paketi, herhangi bir geliştiricinin yalnızca birkaç satır kodla [DOCX](/tr/word-processing/docx/)'yi [PS](/tr/page-description-language/ps/) biçimine dönüştürmesine olanak tanır. [C#](/tr/programming/cs/), [Java](/tr/programming/java/), [Python](/tr/programming/py/) ve [C++](/tr/programming/cpp/ dahil olmak üzere birçok programlama dili için kullanılabilir. ). PCL'ye ek olarak Aspose.Words API'leri, DOCX dosyalarını diğer birçok popüler dosya formatına dönüştürmenize olanak tanır.
+Aspose.Words API paketi, herhangi bir geliştiricinin yalnızca birkaç satır kodla [DOCX](/tr/word-processing/docx/)'yi [PS](/tr/page-description-language/ps/) biçimine dönüştürmesine olanak tanır. [C#](/tr/programming/cs/), [Java](/tr/programming/java/), [Python](/tr/programming/py/) ve [C++](/tr/programming/cpp/). dahil olmak üzere birçok programlama dili için kullanılabilir. PCL'ye ek olarak Aspose.Words API'leri, DOCX dosyalarını diğer birçok popüler dosya formatına dönüştürmenize olanak tanır.
 
 ## Aspose.Words for .NET Kaynakları
 

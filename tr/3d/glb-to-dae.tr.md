@@ -18,7 +18,7 @@
 
 ## GLB'den DAE'ye Hakkında
 
-GLB dosyalarının 3D dosya formatlarında kullanılması yeni bir şey değil. GLB, GL İletim formatındaki ([glTF](/tr/3d/gltf/)) 3D modelleri temsil eden yaygın olarak kullanılan bir 3D ikili dosya formatıdır. [DAE](/tr/3d/DAE/), ise etkileşimli 3D uygulamalar arasında veri alışverişi için kullanılan bir Dijital Varlık Değişimi dosya formatıdır. GLB dosyaları, çeşitli çevrimiçi ücretsiz uygulamalar kullanılarak DAE dosya formatına dönüştürülebilir. Uygulamalarınıza GLB'den DAE'ye dönüştürme işlevini entegre etmek isteyen bir uygulama geliştiricisiyseniz, bunu başarmak için Aspose.3D API'yi kullanabilirsiniz.
+GLB dosyalarının 3D dosya formatlarında kullanılması yeni bir şey değil. GLB, GL İletim formatındaki ([glTF](/tr/3d/gltf/)) 3D modelleri temsil eden yaygın olarak kullanılan bir 3D ikili dosya formatıdır. [DAE](/tr/3d/dae/), ise etkileşimli 3D uygulamalar arasında veri alışverişi için kullanılan bir Dijital Varlık Değişimi dosya formatıdır. GLB dosyaları, çeşitli çevrimiçi ücretsiz uygulamalar kullanılarak DAE dosya formatına dönüştürülebilir. Uygulamalarınıza GLB'den DAE'ye dönüştürme işlevini entegre etmek isteyen bir uygulama geliştiricisiyseniz, bunu başarmak için Aspose.3D API'yi kullanabilirsiniz.
 
 ## GLB'den DAE'ye Dönüşüm - Ücretsiz Demo
 

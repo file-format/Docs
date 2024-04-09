@@ -53,7 +53,7 @@ PDF/A-2, ISO Standardı tarafından Temmuz 2011'de ISO 32001-1 olarak bilinen ye
 
 ## PDF/A-3 ##
 
-PDF/A-3, Düzey 2'nin tüm uyumluluk gereksinimlerini içerir ve ek dosya biçimlerinin (XML, [CSV](/tr/spreadsheet/csv/), [CAD](/tr/cad/), [kelime işlemci] gibi) gömülmesine izin verir. (/tr/word-processing/), [elektronik tablo](/tr/elektronik tablo/) ve diğerleri) PDF/A uyumlu belgelere.
+PDF/A-3, Düzey 2'nin tüm uyumluluk gereksinimlerini içerir ve ek dosya biçimlerinin (XML, [CSV](/tr/spreadsheet/csv/), [CAD](/tr/cad/), [kelime işlemci] gibi) gömülmesine izin verir. (/tr/word-processing/), [elektronik tablo](/tr/spreadsheet/) ve diğerleri) PDF/A uyumlu belgelere.
 
 ## Referanslar ##
 

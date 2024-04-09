@@ -33,7 +33,7 @@ Aspose.Words çevrimiçi uygulamasını kullanarak DOCX'i TIFF'e dönüştürmek
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-Aspose.Words, herhangi bir geliştiricinin basit kod satırları kullanarak [DOCX](/tr/word-processing/docx/) dosyasını [TIFF](/tr/image/tiff/) formatına dönüştürmesine olanak tanıyan bir API setidir. [C#](/tr/programming/cs/), [Java](/tr/programming/java/), [Python](/tr/programming/py/) ve [C++](/tr/programming/cpp/ dahil olmak üzere birçok programlama dili için kullanılabilir. ). Aspose.Words API'leri, TIFF'e ek olarak DOCX dosyalarını diğer birçok popüler dosya formatına dönüştürmenize olanak tanır.
+Aspose.Words, herhangi bir geliştiricinin basit kod satırları kullanarak [DOCX](/tr/word-processing/docx/) dosyasını [TIFF](/tr/image/tiff/) formatına dönüştürmesine olanak tanıyan bir API setidir. [C#](/tr/programming/cs/), [Java](/tr/programming/java/), [Python](/tr/programming/py/) ve [C++](/tr/programming/cpp/). dahil olmak üzere birçok programlama dili için kullanılabilir. Aspose.Words API'leri, TIFF'e ek olarak DOCX dosyalarını diğer birçok popüler dosya formatına dönüştürmenize olanak tanır.
 
 ## Referanslar
 

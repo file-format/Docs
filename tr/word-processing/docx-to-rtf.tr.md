@@ -37,5 +37,5 @@ Aspose.Words çevrimiçi uygulamasını kullanarak DOCX'i RTF'ye dönüştürmek
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-Aspose.Words, herhangi bir geliştiricinin basit kod satırları kullanarak [DOCX](/tr/word-processing/docx/) öğesini [RTF](/tr/word-processing/rtf/) biçimine dönüştürmesine olanak tanıyan bir API kümesidir. [C#](/tr/programming/cs/), [Java](/tr/programming/java/), [Python](/tr/programming/py/) ve [C++](/tr/programming/cpp/ dahil olmak üzere birçok programlama dili için kullanılabilir. ). Aspose.Words API'leri, TXT'ye ek olarak DOCX dosyalarını diğer birçok popüler dosya formatına dönüştürmenize olanak tanır.
+Aspose.Words, herhangi bir geliştiricinin basit kod satırları kullanarak [DOCX](/tr/word-processing/docx/) öğesini [RTF](/tr/word-processing/rtf/) biçimine dönüştürmesine olanak tanıyan bir API kümesidir. [C#](/tr/programming/cs/), [Java](/tr/programming/java/), [Python](/tr/programming/py/) ve [C++](/tr/programming/cpp/). dahil olmak üzere birçok programlama dili için kullanılabilir. Aspose.Words API'leri, TXT'ye ek olarak DOCX dosyalarını diğer birçok popüler dosya formatına dönüştürmenize olanak tanır.
 

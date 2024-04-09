@@ -19,7 +19,7 @@
 
 ## Bir RML dosyası nedir?
 
-Bir RML dosyası, [Elixir Repertoire](https://elixirtech.com/repertoire-2/) raporlama motoruna sahip bir raporlama şablon dosyasıdır. Şablon dosyası, Elixir Dosya Sistemine bağlı veri kaynağı ile raporlar oluşturmak için kullanılır. Veriler RML şablon dosyasında okunur ve doldurulur ve [PDF](/tr/pdf/), [RTF](/tr/word-processing/rtf/) ve elektronik tablo [XLS] gibi bir dizi farklı dosya biçimine dışa aktarılabilir. (/tr/elektronik tablo/xls/). Elixir Repertoire raporlama motoru, çok çeşitli JDBC veri kaynaklarına bağlanabilir.
+Bir RML dosyası, [Elixir Repertoire](https://elixirtech.com/repertoire-2/) raporlama motoruna sahip bir raporlama şablon dosyasıdır. Şablon dosyası, Elixir Dosya Sistemine bağlı veri kaynağı ile raporlar oluşturmak için kullanılır. Veriler RML şablon dosyasında okunur ve doldurulur ve [PDF](/tr/pdf/), [RTF](/tr/word-processing/rtf/) ve elektronik tablo [XLS] gibi bir dizi farklı dosya biçimine dışa aktarılabilir. (/tr/spreadsheet/xls/). Elixir Repertoire raporlama motoru, çok çeşitli JDBC veri kaynaklarına bağlanabilir.
 
 ## RML Dosya Biçimi
 

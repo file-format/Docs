@@ -37,7 +37,7 @@ Aşağıdaki gibi [Aspose.Words DOC to BMP uygulamasını](https://products.aspo
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-[Aspose.Words](https://products.aspose.com/words/), herhangi bir geliştiricinin [DOC](/tr/word-processing/doc/) dosyasını [BMP](/tr/image/bmp) biçimine dönüştürmesine olanak tanıyan bir API kümesidir /) basit kod satırlarını kullanarak biçimlendirin. [C#](/tr/programming/cs/), [Java](/tr/programming/java/), [Python](/tr/programming/py/) ve [C++](/tr/programming/cpp/ dahil olmak üzere birçok programlama dili için kullanılabilir. ). Aspose.Words API'leri, BMP'nin yanı sıra DOC dosyalarını diğer birçok popüler dosya formatına dönüştürmenize olanak tanır.
+[Aspose.Words](https://products.aspose.com/words/), herhangi bir geliştiricinin [DOC](/tr/word-processing/doc/) dosyasını [BMP](/tr/image/bmp) biçimine dönüştürmesine olanak tanıyan bir API kümesidir basit kod satırlarını kullanarak biçimlendirin. [C#](/tr/programming/cs/), [Java](/tr/programming/java/), [Python](/tr/programming/py/) ve [C++](/tr/programming/cpp/) dahil olmak üzere birçok programlama dili için kullanılabilir. Aspose.Words API'leri, BMP'nin yanı sıra DOC dosyalarını diğer birçok popüler dosya formatına dönüştürmenize olanak tanır.
 
 ## Referanslar
 

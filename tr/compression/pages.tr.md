@@ -41,8 +41,8 @@ Apple PAGES belgeleri birkaç dosya biçimine dönüştürülebilir. Bu, **Şura
 * Microsoft Word [DOC](/tr/word-processing/doc/) ve [DOCX](/tr/word-processing/docx/)
 * [PDF](/tr/pdf/)
 * [EPUB](/tr/ebook/epub/)
-* [RTF](/tr/kelime işlemci/rtf/)
-* [TXT](/tr/kelime işlemci/txt/)
+* [RTF](/tr/word-processing/rtf/)
+* [TXT](/tr/word-processing/txt/)
 
 ## Referanslar
 

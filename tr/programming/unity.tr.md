@@ -20,7 +20,7 @@
 
 Unity dosyası, 3D Oyun motoru **Unity** ile oluşturulmuş bir 3D sahne dosyasıdır. Kurgu yaparken sanal bir dünya yaratmak için diğer sahnelerle birlikte kullanılır. Nesneler, ortamlar, dekorasyonlar, kameralar, açı bilgileri, aydınlatma senaryoları ve engeller gibi 3B sahne öğelerini içerir.
 
-Unity dosyaları Unity Technologies Unity ile açılabilir. Unity ayrıca Unity'yi de okuyabilir [.fbx](/tr/3d/fbx/), [.dae](/tr/3d/dae/) (Collada), [.3ds](/tr/3d/3ds/), [.dxf](/tr/ cad/dxf/) ve [.obj](/tr/3d/obj/) dosyaları.
+Unity dosyaları Unity Technologies Unity ile açılabilir. Unity ayrıca Unity'yi de okuyabilir [.fbx](/tr/3d/fbx/), [.dae](/tr/3d/dae/) (Collada), [.3ds](/tr/3d/3ds/), [.dxf](/tr/cad/dxf/) ve [.obj](/tr/3d/obj/) dosyaları.
 
 ## BİRLİK Dosya Biçimi
 

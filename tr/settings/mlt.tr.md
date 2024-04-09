@@ -74,12 +74,12 @@ Shotcut tarafından desteklenen bazı yaygın dosya formatlarının listesi aşa
 
 
 
-- [MP3](/tr/ses/mp3/)
-- [WAV](/tr/ses/wav/)
-- [AAC](/tr/ses/aac/)
-- [FLAC](/tr/ses/flac/)
+- [MP3](/tr/audio/mp3/)
+- [WAV](/tr/audio/wav/)
+- [AAC](/tr/audio/aac/)
+- [FLAC](/tr/audio/flac/)
 - [OGG](/tr/audio/ogg/)
-- [M4A](/tr/ses/m4a/)
+- [M4A](/tr/audio/m4a/)
 - ve dahası...
 3. **Resim Formatları:**
     
@@ -93,9 +93,9 @@ Shotcut tarafından desteklenen bazı yaygın dosya formatlarının listesi aşa
 
 - [JPEG (JPG)](/tr/image/jpeg/)
 - [PNG](/tr/image/png/)
-- [BMP](/tr/resim/bmp/)
-- [TIFF](/tr/resim/tiff/)
-- [GIF](/tr/resim/gif/)
+- [BMP](/tr/image/bmp/)
+- [TIFF](/tr/image/tiff/)
+- [GIF](/tr/image/gif/)
 - ve dahası...
 4. **Ek Formatlar:**
     
@@ -137,12 +137,12 @@ Shotcut tarafından desteklenen bazı yaygın dosya formatlarının listesi aşa
 
 
 
-- [MP3](/tr/ses/mp3/)
-- [WAV](/tr/ses/wav/)
-- [AAC](/tr/ses/aac/)
-- [FLAC](/tr/ses/flac/)
+- [MP3](/tr/audio/mp3/)
+- [WAV](/tr/audio/wav/)
+- [AAC](/tr/audio/aac/)
+- [FLAC](/tr/audio/flac/)
 - [OGG](/tr/audio/ogg/)
-- [M4A](/tr/ses/m4a/)
+- [M4A](/tr/audio/m4a/)
 - ve dahası...
 3. **Resim Formatları:**
     
@@ -156,9 +156,9 @@ Shotcut tarafından desteklenen bazı yaygın dosya formatlarının listesi aşa
 
 - [JPEG (JPG)](/tr/image/jpeg/)
 - [PNG](/tr/image/png/)
-- [BMP](/tr/resim/bmp/)
-- [TIFF](/tr/resim/tiff/)
-- [GIF](/tr/resim/gif/)
+- [BMP](/tr/image/bmp/)
+- [TIFF](/tr/image/tiff/)
+- [GIF](/tr/image/gif/)
 - ve dahası...
 4. **Özel Dışa Aktarma Ayarları:**
     

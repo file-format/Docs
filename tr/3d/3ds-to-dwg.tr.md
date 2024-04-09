@@ -20,7 +20,7 @@
 
 ".3ds" dosya uzantısı, Autodesk'in 3D Studio yazılımı tarafından kullanılan, 3D Studio (DOS) adı verilen mesh dosya formatı için bir işaretleyici görevi görür. Autodesk'in 3D Studio'su, 1990'lardan bu yana 3D dosya formatları alanında önemli bir varlığa sahip olmuştur ve daha sonra artık 3D Studio MAX olarak tanınan güçlü yazılıma dönüşmüştür.
 
-Digital Asset Exchange dosyasının kısaltması olan [DWG dosyası](/tr/3d/DWG/), etkileşimli 3D uygulamalar arasında veri alışverişini kolaylaştırmak için oluşturulmuş bir format olarak çalışır. Dijital varlıkların çeşitli grafik yazılım uygulamaları arasında kesintisiz paylaşımı için açık standart olarak hizmet veren COLLADA (İŞBİRLİKÇİ Tasarım Etkinliği) XML şemasına dayanır.
+Digital Asset Exchange dosyasının kısaltması olan [DWG dosyası](/tr/cad/dwg/), etkileşimli 3D uygulamalar arasında veri alışverişini kolaylaştırmak için oluşturulmuş bir format olarak çalışır. Dijital varlıkların çeşitli grafik yazılım uygulamaları arasında kesintisiz paylaşımı için açık standart olarak hizmet veren COLLADA (İŞBİRLİKÇİ Tasarım Etkinliği) XML şemasına dayanır.
 
 İnsanlar sıklıkla [3DS](/tr/3d/3ds/) dosyalarının DWG formatına dönüştürülmesini gerektirir ve çeşitli çevrimiçi araçlar, 3DS'den DWG'ye ücretsiz dönüştürme olanağı sunar. Bu işlevselliği .NET, Java veya Python uygulamalarına entegre etmek isteyen yazılım geliştiriciler için Aspose.3D API'leri değerli bir çözüm sunuyor.
 

@@ -19,7 +19,7 @@
 
 ## AZW3 dosyası nedir?
 
-Kindle Format 8 (**KF8**) olarak da bilinen AZW3, Amazon Kindle cihazları için geliştirilmiş [AZW](/tr/ebook/azw/) e-kitap dijital dosya formatının değiştirilmiş versiyonudur. Biçim, eski AZW dosyalarına yönelik bir geliştirmedir ve Kindle Fire cihazlarında yalnızca ata dosya biçimi, yani [MOBI](/tr/ebook/mobi/) ve AZW için geriye dönük uyumlulukla kullanılır. Amazon, en son Kindle cihazlarında kullanılan KFX (KF sürüm 10) formatını KF8'den sonra tanıttı. AZW3 dosyalarında internet ortam türü application/vnd.amazon.mobi8-ebook bulunur. AZW3 dosyaları, [PDF](/tr/pdf/), [EPUB](/tr/ebook/epub/), [AZW](/tr/ebook/azw/), [DOCX](/tr/) gibi bir dizi başka dosya biçimine dönüştürülebilir. kelime işlemci/docx/) ve [RTF](/tr/kelime işlemci/rtf/).
+Kindle Format 8 (**KF8**) olarak da bilinen AZW3, Amazon Kindle cihazları için geliştirilmiş [AZW](/tr/ebook/azw/) e-kitap dijital dosya formatının değiştirilmiş versiyonudur. Biçim, eski AZW dosyalarına yönelik bir geliştirmedir ve Kindle Fire cihazlarında yalnızca ata dosya biçimi, yani [MOBI](/tr/ebook/mobi/) ve AZW için geriye dönük uyumlulukla kullanılır. Amazon, en son Kindle cihazlarında kullanılan KFX (KF sürüm 10) formatını KF8'den sonra tanıttı. AZW3 dosyalarında internet ortam türü application/vnd.amazon.mobi8-ebook bulunur. AZW3 dosyaları, [PDF](/tr/pdf/), [EPUB](/tr/ebook/epub/), [AZW](/tr/ebook/azw/), [DOCX](/tr/) gibi bir dizi başka dosya biçimine dönüştürülebilir. kelime işlemci/docx/) ve [RTF](/tr/word-processing/rtf/).
 
 ## AZ3/KF8 Dosya Biçimi ##
 

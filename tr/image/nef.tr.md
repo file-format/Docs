@@ -24,7 +24,7 @@ NEF, Nikon dijital fotoğraf makineleriyle çekilen Nikon'un RAW görüntü dosy
 
 NEF dosyaları, Nikon'un tescilli dosya biçiminde ikili dosyalar olarak fotoğraf makinesi hafıza kartına yazılır. Bunlar, görüntünün beyaz dengesi, ton, ton ve keskinleştirme gibi özellik verilerinde herhangi bir ayarlama gerektirmeyen ham biçimde kameranın hafıza kartına yazılır. Kullanıcı düzenlemeleri, ham görüntü verilerinin yanında talimat setleri olarak kaydedilir. Bu, görüntü verilerinin orijinal içeriğini olduğu gibi tutmak ve herhangi bir önceki talimat setine geri dönmek açısından fayda sağlar.
 
-NEF dosyaları, kameraya bağlı olarak 12 bit veya 14 bit veri tutabilir, böylece 8 bit [JPEG](/tr/image/jpeg/) veya [TIFF](/tr/ ile karşılaştırıldığında çok daha geniş bir ton aralığına sahip bir görüntü sağlar. resim/tiff/) resimler.
+NEF dosyaları, kameraya bağlı olarak 12 bit veya 14 bit veri tutabilir, böylece 8 bit [JPEG](/tr/image/jpeg/) veya [TIFF](/tr/image/tiff/) ile karşılaştırıldığında çok daha geniş bir ton aralığına sahip bir görüntü sağlar. resimler.
 
 ## Nikon NEF Dosyasını açabilen yazılım
 

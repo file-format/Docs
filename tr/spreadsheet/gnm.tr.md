@@ -27,7 +27,7 @@ GNM dosyaları, WinZIP gibi standart açma programları ile çıkarılabilen sı
 
 ## GNM Dosyalarında Desteklenen Özellikler
 
-Gnumeric birkaç farklı dosya formatını desteklediğinden, yerel GNM dosyalarını [CSV](/tr/spreadsheet/csv/), [XLSX](/tr/spreadsheet/xlsx/), Microsoft Works (.wks), [HTML](/tr/ web/html/), [LaTex](/tr/word-processing/latex/) ve [Lotus 1-2-3](/tr/spreadsheet/123/).
+Gnumeric birkaç farklı dosya formatını desteklediğinden, yerel GNM dosyalarını [CSV](/tr/spreadsheet/csv/), [XLSX](/tr/spreadsheet/xlsx/), Microsoft Works (.wks), [HTML](/tr/web/html/), [LaTex](/tr/word-processing/latex/) ve [Lotus 1-2-3](/tr/spreadsheet/123/).
 
 ## Github'da Gnumeric
 

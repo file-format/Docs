@@ -35,7 +35,7 @@ Aspose.Words Uygulaması, word belgelerini görüntülemek, dönüştürmek, dü
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-Aspose.Words uygulaması, herhangi bir geliştiricinin yalnızca birkaç satırla [DOCX](/tr/word-processing/docx/)'yi [PNG](/tr/image/png/) biçimine dönüştürmesine olanak tanıyan bir API paketi olan Aspose.Words tarafından desteklenmektedir. kod. [C#](/tr/programming/cs/), [Java](/tr/programming/java/), [Python](/tr/programming/py/) ve [C++](/tr/programming/cpp/ dahil olmak üzere birçok programlama dili için kullanılabilir. ).
+Aspose.Words uygulaması, herhangi bir geliştiricinin yalnızca birkaç satırla [DOCX](/tr/word-processing/docx/)'yi [PNG](/tr/image/png/) biçimine dönüştürmesine olanak tanıyan bir API paketi olan Aspose.Words tarafından desteklenmektedir. kod. [C#](/tr/programming/cs/), [Java](/tr/programming/java/), [Python](/tr/programming/py/) ve [C++](/tr/programming/cpp/) dahil olmak üzere birçok programlama dili için kullanılabilir.
 
 ## .NET, Java, C++ ve Python'da DOCX'i PNG'ye dönüştürün
 
