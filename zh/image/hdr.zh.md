@@ -37,7 +37,7 @@ HDR 文件格式基于原始的 Radiance 图片 (.pic) 文件格式。 HDR 文�
 ## 开源 HDR/HDRI API
 
 * **[imageinfo](https://github.com/xiaozhuai/imageinfo)** - 跨平台超快速单头 [C++](/zh/programming/cpp/) 库，无需加载/解码即可获取图像大小和格式。
-* **[imgaeinfo-rs](https://github.com/xiaozhuai/imageinfo-rs)** - 无需加载/解码即可获取图像大小和格式的 Rust 库。支持 [.avif](/zh/image/avif/)、[.bmp](/zh/image/bmp/)、[.cur](/zh/image/cur/)、[.dds](/zh/image/dds/)、[. gif](/zh/image/gif/), hdr (pic), [heic (heif)](/zh/image/heic/), [.icns](/zh/image/icns/), [.ico](/zh/image/ico /), [.jp2](/zh/image/jp2/), [jpeg (jpg)](/zh/image/jpeg/), [jpx](/zh/image/jpx/), ktx, [png](/zh/image/png /)、[psd](/zh/image/psd/)、qoi、tga、tiff (tif) 和 webp。
+* **[imgaeinfo-rs](https://github.com/xiaozhuai/imageinfo-rs)** - 无需加载/解码即可获取图像大小和格式的 Rust 库。支持 [.avif](/zh/image/avif/)、[.bmp](/zh/image/bmp/)、[.cur](/zh/image/cur/)、[.dds](/zh/image/dds/)、[. gif](/zh/image/gif/), hdr (pic), [heic (heif)](/zh/image/heic/), [.icns](/zh/image/icns/), [.ico](/zh/image/ico/), [.jp2](/zh/image/jp2/), [jpeg (jpg)](/zh/image/jpeg/), [jpx](/zh/image/jpx/), ktx, [png](/zh/image/png/)、[psd](/zh/image/psd/)、qoi、tga、tiff (tif) 和 webp。
 * **[HdrHistogram](https://github.com/HdrHistogram/HdrHistogram)** - HdrHistogram 的 Java 实现。
 
 ## 参考

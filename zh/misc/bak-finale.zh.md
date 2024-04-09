@@ -80,7 +80,7 @@ MakeMusic Finale 是由 MakeMusic, Inc. 开发的乐谱软件程序。它被作�
 MakeMusic Finale 提供了一系列导出选项,允许您将乐谱转换为不同的文件格式。例如
 
 - [.MXL](/zh/audio/mxl/) - 压缩的 MusicXML
-- [.WAV](/zh/音频/wav/) - WAVE 音频
+- [.WAV](/zh/audio/wav/) - WAVE 音频
 - [.EPUB](/zh/ebook/epub/) - 打开电子书
 - [.AIFF](/zh/audio/aiff/) - 音频交换文件格式
 - [.MIDI](/zh/audio/mid/) - MIDI 音乐数据

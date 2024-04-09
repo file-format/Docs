@@ -78,7 +78,7 @@ EPS 文件不能使用以下任何运算符：
 
 ## 将 EPS 转换为其他文件格式
 
-EPS 文件可以转换为标准图像格式，例如 [JPG](/zh/image/jpeg/)、[PNG](/zh/image/png/)、[TIFF](/zh/image/tiff/) 和 [PDF](/zh/pdf /) 使用不同的应用程序，例如 Adobe Illustrator、Photoshop 和 PaintShop Pro。
+EPS 文件可以转换为标准图像格式，例如 [JPG](/zh/image/jpeg/)、[PNG](/zh/image/png/)、[TIFF](/zh/image/tiff/) 和 [PDF](/zh/pdf/) 使用不同的应用程序，例如 Adobe Illustrator、Photoshop 和 PaintShop Pro。
 
 由于 [安全漏洞](https://support.microsoft.com/en-us/office/support-for-eps-images-has-been-turned-off-in-office-a069d664-4bcf-415e-a1b5-cbb0c334a840) 在 EPS 文件中，Office 2016、Office 2013、Office 2010 和 Office 365 已关闭将 EPS 文件插入 Office 文档的功能。
 

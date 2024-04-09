@@ -37,7 +37,7 @@ Aspose.Words应用程序是Aspose基于流行的编程API开发的一套在线�
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-[Aspose.Words](https://products.aspose.com/words/) 是一组 API，允许任何开发人员将 [DOC](/zh/word-processing/doc/) 转换为 [BMP](/zh/image/bmp /) 使用简单的代码行格式。它适用于许多编程语言，包括 [C#](/zh/programming/cs/)、[Java](/zh/programming/java/)、[Python](/zh/programming/py/) 和 [C++](/zh/programming/cpp/ ）。除了 BMP 之外，Aspose.Words API 还允许您将 DOC 文件转换为许多其他流行的文件格式。
+[Aspose.Words](https://products.aspose.com/words/) 是一组 API，允许任何开发人员将 [DOC](/zh/word-processing/doc/) 转换为 [BMP](/zh/image/bmp/) 使用简单的代码行格式。它适用于许多编程语言，包括 [C#](/zh/programming/cs/)、[Java](/zh/programming/java/)、[Python](/zh/programming/py/) 和 [C++](/zh/programming/cpp/)。除了 BMP 之外，Aspose.Words API 还允许您将 DOC 文件转换为许多其他流行的文件格式。
 
 ## 参考
 

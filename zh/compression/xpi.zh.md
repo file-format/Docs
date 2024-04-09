@@ -23,7 +23,7 @@ XPI 文件是经过压缩以减小文件大小的安装存档。 Mozilla 应用�
 
 ## XPI 文件格式 - 更多信息
 
-XPI 文件以 [ZIP](/zh/compression/zip/) 档案形式保存到光盘，将多个文件组合成一个压缩文件。 XPI 文件中的文件可能包括安装脚本文件如 JS 和 web 文件如 [CSS](/zh/web/css/)、[HTML](/zh/web/html/) 和 [JSON](/zh/web/json/ ）。有时，它还可能包含 [PNG](/zh/image/png/) 图像文件，供插件用作图标。
+XPI 文件以 [ZIP](/zh/compression/zip/) 档案形式保存到光盘，将多个文件组合成一个压缩文件。 XPI 文件中的文件可能包括安装脚本文件如 JS 和 web 文件如 [CSS](/zh/web/css/)、[HTML](/zh/web/html/) 和 [JSON](/zh/web/json/)。有时，它还可能包含 [PNG](/zh/image/png/) 图像文件，供插件用作图标。
 
 ### 如何查看 XPI 文件的内容？
 

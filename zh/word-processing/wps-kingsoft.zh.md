@@ -71,10 +71,10 @@ WPS 文件包含使用 Kingsoft Writer 创建的文档,它们可以包含文本,
 
 Kingsoft Writer可以将WPS文件转换为以下格式：
 
-- [DOC](/zh/字处理/doc/)
-- [DOCX](/zh/字处理/docx/)
-- [RTF](/zh/字处理/rtf/)
-- [TXT](/zh/字处理/txt/)
+- [DOC](/zh/word-processing/doc/)
+- [DOCX](/zh/word-processing/docx/)
+- [RTF](/zh/word-processing/rtf/)
+- [TXT](/zh/word-processing/txt/)
 - [HTML](/zh/web/html/)
 - [PDF](/zh/pdf/)
 

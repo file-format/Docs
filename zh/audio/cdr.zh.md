@@ -39,9 +39,9 @@
 
 要将包含“原始 CD 音频数据”的 .cdr 文件转换为更常见的音频格式（如 WAV 或 MP3），您需要专门的软件。如果您能够在 VideoLAN VLC 媒体播放器中播放 .cdr 文件，您还可以使用 VLC 将其转换为不同的音频格式，例如
 
-- [.MP3](/zh/音频/mp3/) - MP3 音频
+- [.MP3](/zh/audio/mp3/) - MP3 音频
 - [.FLAC](/zh/audio/flac/) - 免费无损音频编解码器
-- [.WAV](/zh/音频/wav/) - WAVE 音频
+- [.WAV](/zh/audio/wav/) - WAVE 音频
 - [.OGG](/zh/audio/ogg/) - Ogg Vorbis 音频
 
 ## 如何打开 CDR 文件？

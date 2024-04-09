@@ -79,7 +79,7 @@
 
 ## 共享 INK 文件
 
-如果教师需要与学生或其他无法访问 Mimio Notebook 的教师共享 .ink 文件，他们可以将 .ink 文件导出为更广泛兼容的格式，例如 [PDF](/zh/pdf/)、[HTML](/zh/web /html/) 或图像文件 ([.JPEG](/zh/image/jpeg/)、[.PNG](/zh/image/png/)、[.GIF](/zh/image/gif/)、[.TIFF](/zh/图像/tiff/));这样，内容就可以在各种设备和软件应用程序上轻松共享和查看，而无需 Mimio 笔记本进行访问。
+如果教师需要与学生或其他无法访问 Mimio Notebook 的教师共享 .ink 文件，他们可以将 .ink 文件导出为更广泛兼容的格式，例如 [PDF](/zh/pdf/)、[HTML](/zh/web/html/) 或图像文件 ([.JPEG](/zh/image/jpeg/)、[.PNG](/zh/image/png/)、[.GIF](/zh/image/gif/)、[.TIFF](/zh/image/tiff/));这样，内容就可以在各种设备和软件应用程序上轻松共享和查看，而无需 Mimio 笔记本进行访问。
 
 ## 米米奥工作室
 

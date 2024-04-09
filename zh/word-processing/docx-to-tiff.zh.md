@@ -33,7 +33,7 @@ TIFF（标记图像文件格式）是一种光栅图像文件格式，用于符�
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-Aspose.Words 是一组 API，允许任何开发人员使用简单的代码行将 [DOCX](/zh/word-processing/docx/) 转换为 [TIFF](/zh/image/tiff/) 格式。它适用于许多编程语言，包括 [C#](/zh/programming/cs/)、[Java](/zh/programming/java/)、[Python](/zh/programming/py/) 和 [C++](/zh/programming/cpp/ ）。除了 TIFF 之外，Aspose.Words API 还允许您将 DOCX 文件转换为许多其他流行的文件格式。
+Aspose.Words 是一组 API，允许任何开发人员使用简单的代码行将 [DOCX](/zh/word-processing/docx/) 转换为 [TIFF](/zh/image/tiff/) 格式。它适用于许多编程语言，包括 [C#](/zh/programming/cs/)、[Java](/zh/programming/java/)、[Python](/zh/programming/py/) 和 [C++](/zh/programming/cpp/)。除了 TIFF 之外，Aspose.Words API 还允许您将 DOCX 文件转换为许多其他流行的文件格式。
 
 ## 参考
 

@@ -22,7 +22,7 @@ FREEWAY 文件是 Freeway Pro 软件创建和使用的设置信息文件，该�
 
 ## 高速公路文件格式
 
-FREEWAY 文件以专有文件格式保存，其内部文件格式详细信息不公开。它没有站点使用的任何实际资源，而是站点布局和指向不同属性的链接。实际的网站资源和页面保存在与 FREEWAY 文件位于同一文件夹中的“媒体"和“站点文件夹"文件夹中。 FREEWAY 文档可以导出为多种格式，包括 [HTML](/zh/web/html/)、[JPEG](/zh/image/jpeg/)、[PNG](/zh/image/png/)、[BMP](/zh/ image/bmp/) 和 [GIF](/zh/image/gif/)。
+FREEWAY 文件以专有文件格式保存，其内部文件格式详细信息不公开。它没有站点使用的任何实际资源，而是站点布局和指向不同属性的链接。实际的网站资源和页面保存在与 FREEWAY 文件位于同一文件夹中的“媒体"和“站点文件夹"文件夹中。 FREEWAY 文档可以导出为多种格式，包括 [HTML](/zh/web/html/)、[JPEG](/zh/image/jpeg/)、[PNG](/zh/image/png/)、[BMP](/zh/image/bmp/) 和 [GIF](/zh/image/gif/)。
 
 ## 参考
 

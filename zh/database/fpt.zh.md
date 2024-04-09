@@ -85,7 +85,7 @@ FileMaker Pro 是一款用户友好的关系数据库应用程序,使用户能�
 ## 其他 FPT 文件
 
 - [FPT - FoxPro 表备忘录](/zh/database/fpt-foxpro/)
-- [FPT - Alpha 5 表备忘录文件](/zh/database/fpt-alpha Five/)
+- [FPT - Alpha 5 表备忘录文件](/zh/database/fpt-alphafive/)
 
 ## 参考
 * [FileMaker](https://en.wikipedia.org/wiki/FileMaker)

@@ -27,7 +27,7 @@ GNM 文件是压缩的 XML 文件，可以使用 WinZIP 等标准解压缩实用
 
 ## GNM 文件中支持的功能
 
-由于 Gnumeric 支持多种不同的文件格式，它可以将原生 GNM 文件转换为 [CSV](/zh/spreadsheet/csv/)、[XLSX](/zh/spreadsheet/xlsx/)、Microsoft Works (.wks)、[HTML](/zh/ web/html/)、[LaTex](/zh/word-processing/latex/) 和 [Lotus 1-2-3](/zh/spreadsheet/123/)。
+由于 Gnumeric 支持多种不同的文件格式，它可以将原生 GNM 文件转换为 [CSV](/zh/spreadsheet/csv/)、[XLSX](/zh/spreadsheet/xlsx/)、Microsoft Works (.wks)、[HTML](/zh/web/html/)、[LaTex](/zh/word-processing/latex/) 和 [Lotus 1-2-3](/zh/spreadsheet/123/)。
 
 ## Github 上的 Gnumeric
 

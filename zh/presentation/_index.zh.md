@@ -20,7 +20,7 @@
 
 您必须熟悉 **PPTX** 和 **PPT** 扩展文件，这些是存储记录集合以容纳演示数据的演示文件格式，例如：幻灯片、形状、文本、动画、视频、音频和嵌入对象.演示文稿也可以保存/转换为其他文件格式，例如 PDF、BMP、PNG、JPEG 和 XPS。
 
-常见的 Presentation 文件扩展名及其相关文件格式包括 **[PPTX](/zh/presentation/pptx/)**、**[PPT](/zh/presentation/ppt/)** 和 **[ODP](/zh/presentation/odp /)**。
+常见的 Presentation 文件扩展名及其相关文件格式包括 **[PPTX](/zh/presentation/pptx/)**、**[PPT](/zh/presentation/ppt/)** 和 **[ODP](/zh/presentation/odp/)**。
 
 有与演示文件格式相关的查询吗？前往我们的社区 [论坛](https://forum.fileformat.com/c/presentation/8)，从文件格式专家分享的知识中获益。
 

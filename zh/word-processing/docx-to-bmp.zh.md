@@ -37,7 +37,7 @@ Aspose.App 是一组功能强大的应用程序，用于处理不同的文件类
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-[Aspose.Words](https://products.aspose.com/words/) 是一组 API，允许任何开发人员将 [DOCX](/zh/word-processing/docx/) 转换为 [DOC](/zh/word-processing/doc/) 格式使用简单的代码行。它适用于许多编程语言，包括 [C#](/zh/programming/cs/)、[Java](/zh/programming/java/)、[Python](/zh/programming/py/) 和 [C++](/zh/programming/cpp/ ）。除了 DOC 之外，Aspose.Words API 还允许您将 DOCX 文件转换为许多其他流行的文件格式。
+[Aspose.Words](https://products.aspose.com/words/) 是一组 API，允许任何开发人员将 [DOCX](/zh/word-processing/docx/) 转换为 [DOC](/zh/word-processing/doc/) 格式使用简单的代码行。它适用于许多编程语言，包括 [C#](/zh/programming/cs/)、[Java](/zh/programming/java/)、[Python](/zh/programming/py/) 和 [C++](/zh/programming/cpp/)。除了 DOC 之外，Aspose.Words API 还允许您将 DOCX 文件转换为许多其他流行的文件格式。
 
 ## 参考
 

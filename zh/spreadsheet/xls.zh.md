@@ -19,7 +19,7 @@
 
 ## 什么是一 .XLS 文件？
 
-带有 XLS 扩展名的文件代表 Excel 二进制文件格式。此类文件可以由 Microsoft Excel 以及其他类似的电子表格程序（如 OpenOffice Calc 或 Apple Numbers）创建。 Excel 保存的文件称为工作簿，其中每个工作簿可以有一个或多个工作表。数据在工作表中以表格形式存储和显示给用户，可以跨越数值、文本数据、公式、外部数据连接、图像和图表。 Microsoft Excel 等应用程序可让您将工作簿数据导出为多种不同格式，包括 [PDF](/zh/pdf/)、[CSV](/zh/spreadsheet/csv/)、[XLSX](/zh/spreadsheet/xlsx/)、[TXT](/zh/ word-processing/txt/)、[HTML](/zh/web/html/)、[XPS](/zh/page-description-language/xps/) 等等。随着 Microsoft Excel 2007 的发布，XLS 文件格式被更开放和结构化的格式 XLSX 所取代。最新版本仍然支持创建和读取 XLS 文件，尽管 XLSX 是现在的首选。
+带有 XLS 扩展名的文件代表 Excel 二进制文件格式。此类文件可以由 Microsoft Excel 以及其他类似的电子表格程序（如 OpenOffice Calc 或 Apple Numbers）创建。 Excel 保存的文件称为工作簿，其中每个工作簿可以有一个或多个工作表。数据在工作表中以表格形式存储和显示给用户，可以跨越数值、文本数据、公式、外部数据连接、图像和图表。 Microsoft Excel 等应用程序可让您将工作簿数据导出为多种不同格式，包括 [PDF](/zh/pdf/)、[CSV](/zh/spreadsheet/csv/)、[XLSX](/zh/spreadsheet/xlsx/)、[TXT](/zh/word-processing/txt/)、[HTML](/zh/web/html/)、[XPS](/zh/page-description-language/xps/) 等等。随着 Microsoft Excel 2007 的发布，XLS 文件格式被更开放和结构化的格式 XLSX 所取代。最新版本仍然支持创建和读取 XLS 文件，尽管 XLSX 是现在的首选。
 
 ## 历史简介
 

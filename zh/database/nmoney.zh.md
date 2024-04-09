@@ -36,7 +36,7 @@ Denaro 最初由 [Nickvision](https://nickvision.org/) 开发作为产品，后�
 
 ## Denaro 文件格式 - 更多信息
 
-Denaro 文件以二进制文件格式保存到光盘上。财务数据以 **.SQLITE3** 文件格式存储为数据库文件。 SQLITE 是使用 SQLite 软件创建的轻量级 SQL 数据库文件。它提供独立的数据库引擎，能够提供功能齐全且高度可靠的数据库。 SQLite 数据库文件可用于在系统之间共享丰富的内容，只需通过网络交换这些文件即可。 SQLite 绑定适用于 C、[C#](/zh/programming/cs/)、[C++](/zh/programming/cpp/)、[Java](/zh/programming/java/)、[PHP](/zh/programming/ php/) 等。
+Denaro 文件以二进制文件格式保存到光盘上。财务数据以 **.SQLITE3** 文件格式存储为数据库文件。 SQLITE 是使用 SQLite 软件创建的轻量级 SQL 数据库文件。它提供独立的数据库引擎，能够提供功能齐全且高度可靠的数据库。 SQLite 数据库文件可用于在系统之间共享丰富的内容，只需通过网络交换这些文件即可。 SQLite 绑定适用于 C、[C#](/zh/programming/cs/)、[C++](/zh/programming/cpp/)、[Java](/zh/programming/java/)、[PHP](/zh/programming/php/) 等。
 
 ## 参考
 

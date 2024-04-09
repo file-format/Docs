@@ -19,7 +19,7 @@
 
 ## 什么是 XML 文件？
 
-XML 代表可扩展标记语言，类似于 **[HTML](/zh/web/html/)** 但在使用标签定义对象方面不同。创建 XML 文件格式背后的整个想法是在不依赖软件或硬件工具的情况下存储和传输数据。它的流行是因为它既是人类可读的又是机器可读的。这使其能够以对象的形式创建通用数据协议，以便通过网络（如万维网 (WWW)）存储和共享。 XML 中的“X"表示可扩展，这意味着该语言可以根据用户要求扩展到任意数量的符号。正是因为这些特性，许多标准文件格式都使用了它，例如 Microsoft Open XML、LibreOffice OpenDocument、**[XHTML](/zh/web/xhtml/)** 和 **[SVG](/zh/page-description-language /svg/)**。
+XML 代表可扩展标记语言，类似于 **[HTML](/zh/web/html/)** 但在使用标签定义对象方面不同。创建 XML 文件格式背后的整个想法是在不依赖软件或硬件工具的情况下存储和传输数据。它的流行是因为它既是人类可读的又是机器可读的。这使其能够以对象的形式创建通用数据协议，以便通过网络（如万维网 (WWW)）存储和共享。 XML 中的“X"表示可扩展，这意味着该语言可以根据用户要求扩展到任意数量的符号。正是因为这些特性，许多标准文件格式都使用了它，例如 Microsoft Open XML、LibreOffice OpenDocument、**[XHTML](/zh/web/xhtml/)** 和 **[SVG](/zh/page-description-language/svg/)**。
 
 ## XML 文件格式
 

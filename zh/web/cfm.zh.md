@@ -19,7 +19,7 @@
 
 ## 什么是一 .cfm 文件？ ##
 
-**Cold Fusion Markup Language** 中使用的网页和文件包含 CFM 的扩展名，被命名为 CFM 网页。这种 Web 开发脚本语言在 Google App Engine、.NET 框架和 JVM 上运行。它可以包含一种编程语言或该语言的代码。当用户访问它的任何页面时，ColdFusion 的网络服务器会执行它。 CFScript（即接近 JavaScript）或标签可用于编写 CFML。 CFML 可用于生成除 [HTML](/zh/web/html/) 之外的其他语言，例如 [CSS](/zh/web/css/)、[JavaScript](/zh/web/js/)、[XML](/zh/web/ xml/) 等。
+**Cold Fusion Markup Language** 中使用的网页和文件包含 CFM 的扩展名，被命名为 CFM 网页。这种 Web 开发脚本语言在 Google App Engine、.NET 框架和 JVM 上运行。它可以包含一种编程语言或该语言的代码。当用户访问它的任何页面时，ColdFusion 的网络服务器会执行它。 CFScript（即接近 JavaScript）或标签可用于编写 CFML。 CFML 可用于生成除 [HTML](/zh/web/html/) 之外的其他语言，例如 [CSS](/zh/web/css/)、[JavaScript](/zh/web/js/)、[XML](/zh/web/xml/) 等。
 
 这种语言和它支持的标签的使用主要是在开发动态Web应用程序中，如果在离线使用应用程序开发平台时出现任何错误，可以直接在浏览器中在线运行文件。
  

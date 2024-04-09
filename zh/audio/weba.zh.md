@@ -43,7 +43,7 @@ WEBA 是音频文件，因此无法转换为字幕文件。但是，有免费的
 
 ## 如何将 WEBA 转换为其他音频格式？
 
-WEBA 文件可以转换为其他音频文件格式。由于它基于免费和开源的 OGG 容器文件格式，许多 API 和应用程序可以读取 WEBA 并将其转换为其他文件格式，例如 [MP3](/zh/audio/mp3/)、[MP4](/zh/audio/ mp4/)、[FLAC](/zh/audio/flac/) 等等。 FFmpeg 就是这样一款可以将 WEBA 转换为 MP3 文件的软件。
+WEBA 文件可以转换为其他音频文件格式。由于它基于免费和开源的 OGG 容器文件格式，许多 API 和应用程序可以读取 WEBA 并将其转换为其他文件格式，例如 [MP3](/zh/audio/mp3/)、[MP4](/zh/video/mp4/)、[FLAC](/zh/audio/flac/) 等等。 FFmpeg 就是这样一款可以将 WEBA 转换为 MP3 文件的软件。
 
 ## 参考
 

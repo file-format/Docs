@@ -76,7 +76,7 @@ package com.example
 
 ## 参考 ＃＃
 
-* [AS - 维基百科]( https://en.wikipedia.org/wiki/ActionScript)
+* [AS - 维基百科](https://en.wikipedia.org/wiki/ActionScript)
 
 
 

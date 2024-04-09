@@ -19,7 +19,7 @@
 
 ## 什么是一 .cab 文件？ ##
 
-带有 .cab 扩展名的文件属于属于系统文件类别的 windows cabinet 文件。它是在支持压缩数据算法的 Microsoft Windows 版本中以存档文件格式保存的文件，例如 [LZX](/zh/compression/lzx/)、Quantum 和 [ZIP](/zh/compression/zip/ ）。当用户或开发人员想要包含和共享软件安装数据和文件时，该文件非常有用。这些文件中包含的无损数据压缩和数字认证功能使该文件非常适合存储和共享此类文件。它支持不同的 Microsoft 安装程序，例如 Device Installer、SetUp API 和 AdvPak。
+带有 .cab 扩展名的文件属于属于系统文件类别的 windows cabinet 文件。它是在支持压缩数据算法的 Microsoft Windows 版本中以存档文件格式保存的文件，例如 [LZX](/zh/compression/lzx/)、Quantum 和 [ZIP](/zh/compression/zip/)。当用户或开发人员想要包含和共享软件安装数据和文件时，该文件非常有用。这些文件中包含的无损数据压缩和数字认证功能使该文件非常适合存储和共享此类文件。它支持不同的 Microsoft 安装程序，例如 Device Installer、SetUp API 和 AdvPak。
 
 ## 历史简介 ＃＃
 

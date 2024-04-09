@@ -45,7 +45,7 @@ AEP 文件可以转换为其他流行的文件格式，例如：
 * .DPX - 数字图片交换
 * .EXR - OpenEXR 图像
 * .M4A - MPEG-4 音频
-* [.MP3](/zh/音频/mp3/) - MP3 音频
+* [.MP3](/zh/audio/mp3/) - MP3 音频
 * [.WAV](/zh/audio/wav/) - WAVE 音频
 * .AEPX - After Effects XML 项目
 * .AET - After Effects 模板

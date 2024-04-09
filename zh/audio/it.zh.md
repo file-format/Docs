@@ -49,7 +49,7 @@ OpenMPT 和 Schism Tracker 是能够将 IT 文件转换为不同文件格式的�
 
 - [MP3](/zh/audio/mp3/) - MP3 音频文件
 - [OPUS](/zh/audio/opus/) - Opus 音频文件
-- [MID](/zh/音频/mid/) - MIDI 文件
+- [MID](/zh/audio/mid/) - MIDI 文件
 - [WAV](/zh/audio/wav/) - WAVE 音频文件
 - [OGG](/zh/audio/ogg/) - Ogg Vorbis 音频文件
 - [FLAC](/zh/audio/flac/) - 免费无损音频编解码器文件

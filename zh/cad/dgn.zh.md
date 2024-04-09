@@ -19,7 +19,7 @@
 
 ## 什么是 .dgn 文件？
 
-扩展名为 .dgn（设计）的文件是由 CAD 应用程序（如 MicroStation 和 Intergraph Interactive Graphics Design System）创建并受其支持的绘图文件。它用于为公路、桥梁和建筑物等建设项目创建和保存设计。该格式类似于 Autodesk 的 [DWG](/zh/cad/dwg/) 文件格式，被视为其竞争对手。 DNG 文件可以保存为鹰图标准文件格式或 V8 DGN。 DGN 可以转换为其他几种格式，例如 DWG、[BMP](/zh/image/bmp/)、[JPEG](/zh/image/jpeg/)、[PDF](/zh/pdf/)、[GIF](/zh/image/ gif/) 等。除了其他软件应用程序（例如 Corel PaintShop Photo Pro 和 IMSI TurboCAD Deluxe 版本）之外，它还可以使用 Autodesk AutoCAD、Bentley View 和 Bentley Systems MicroStation 打开。
+扩展名为 .dgn（设计）的文件是由 CAD 应用程序（如 MicroStation 和 Intergraph Interactive Graphics Design System）创建并受其支持的绘图文件。它用于为公路、桥梁和建筑物等建设项目创建和保存设计。该格式类似于 Autodesk 的 [DWG](/zh/cad/dwg/) 文件格式，被视为其竞争对手。 DNG 文件可以保存为鹰图标准文件格式或 V8 DGN。 DGN 可以转换为其他几种格式，例如 DWG、[BMP](/zh/image/bmp/)、[JPEG](/zh/image/jpeg/)、[PDF](/zh/pdf/)、[GIF](/zh/image/gif/) 等。除了其他软件应用程序（例如 Corel PaintShop Photo Pro 和 IMSI TurboCAD Deluxe 版本）之外，它还可以使用 Autodesk AutoCAD、Bentley View 和 Bentley Systems MicroStation 打开。
 
 ## V8 DGN 文件格式
 

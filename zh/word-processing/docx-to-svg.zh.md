@@ -39,7 +39,7 @@ SVG（标量矢量图形）是一种图像文件，它使用基于 XML 的文本
 
 ## Aspose.Words API
 
-Aspose.Words 是一组 API，允许任何开发人员使用简单的代码行将 [DOCX](/zh/word-processing/docx/) 转换为 [SVG](/zh/page-description-language/svg/) 格式。它适用于许多编程语言，包括 [C#](/zh/programming/cs/)、[Java](/zh/programming/java/)、[Python](/zh/programming/py/) 和 [C++](/zh/programming/cpp/ ）。除了 SVG 之外，Aspose.Words API 还允许您将 DOCX 文件转换为许多其他流行的文件格式。
+Aspose.Words 是一组 API，允许任何开发人员使用简单的代码行将 [DOCX](/zh/word-processing/docx/) 转换为 [SVG](/zh/page-description-language/svg/) 格式。它适用于许多编程语言，包括 [C#](/zh/programming/cs/)、[Java](/zh/programming/java/)、[Python](/zh/programming/py/) 和 [C++](/zh/programming/cpp/)。除了 SVG 之外，Aspose.Words API 还允许您将 DOCX 文件转换为许多其他流行的文件格式。
 
 ## 参考
 

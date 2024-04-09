@@ -35,7 +35,7 @@ Aspose.Words App是一套功能工具，用于对Word文档进行查看、转换
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-Aspose.Words 应用程序由 Aspose.Words 提供支持，它是一套 API，允许任何开发人员将 [DOCX](/zh/word-processing/docx/) 转换为 [PNG](/zh/image/png/) 格式，只需几行代码。它适用于许多编程语言，包括 [C#](/zh/programming/cs/)、[Java](/zh/programming/java/)、[Python](/zh/programming/py/) 和 [C++](/zh/programming/cpp/ ）。
+Aspose.Words 应用程序由 Aspose.Words 提供支持，它是一套 API，允许任何开发人员将 [DOCX](/zh/word-processing/docx/) 转换为 [PNG](/zh/image/png/) 格式，只需几行代码。它适用于许多编程语言，包括 [C#](/zh/programming/cs/)、[Java](/zh/programming/java/)、[Python](/zh/programming/py/) 和 [C++](/zh/programming/cpp/)。
 
 ## 在 .NET、Java、C++ 和 Python 中将 DOCX 转换为 PNG
 

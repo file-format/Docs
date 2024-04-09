@@ -18,7 +18,7 @@
 
 ## 什么是 .SLDPRT 文件？
 
-SLDPRT 文件是由 SolidWorks 软件生成的 CAD 文件。它是一种 3D 文件格式，包含对象或“部分"的 3D 信息。可以组合具有兼容部件的多个 SLDPRT 文件以创建单个 SLDASM 装配文件。 SLDPRT 文件可以使用 SolidWorks 的 [SmartCAM CAD/CAM 软件](https://www.solidworks.com/partner-product/smartcam-cadcam-software) 打开。 SolidWorks 应用程序转换器提供易于转换的工具，用于将 SLDPRT 工程图文件转换为中性数据格式，例如 [TIFF](/zh/image/tiff/)、[PDF](/zh/pdf/) 或 [PDF/A](/zh/pdf/一个/）。
+SLDPRT 文件是由 SolidWorks 软件生成的 CAD 文件。它是一种 3D 文件格式，包含对象或“部分"的 3D 信息。可以组合具有兼容部件的多个 SLDPRT 文件以创建单个 SLDASM 装配文件。 SLDPRT 文件可以使用 SolidWorks 的 [SmartCAM CAD/CAM 软件](https://www.solidworks.com/partner-product/smartcam-cadcam-software) 打开。 SolidWorks 应用程序转换器提供易于转换的工具，用于将 SLDPRT 工程图文件转换为中性数据格式，例如 [TIFF](/zh/image/tiff/)、[PDF](/zh/pdf/) 或 [PDF/A](/zh/pdf/a) 一个。
 
 ## SLDPRT 文件格式
 

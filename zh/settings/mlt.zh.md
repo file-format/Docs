@@ -55,14 +55,14 @@ Shotcut 提供了一系列视频编辑功能,包括在时间轴上导入和排�
 
 
 
-- [MP4](/zh/视频/mp4/)
-- [MOV](/zh/视频/mov/)
-- [AVI](/zh/视频/avi/)
-- [MKV](/zh/视频/mkv/)
-- [WebM](/zh/视频/webm/)
-- [MPEG](/zh/视频/mpeg/)
-- [FLV](/zh/视频/flv/)
-- [WMV](/zh/视频/wmv/)
+- [MP4](/zh/video/mp4/)
+- [MOV](/zh/video/mov/)
+- [AVI](/zh/video/avi/)
+- [MKV](/zh/video/mkv/)
+- [WebM](/zh/video/webm/)
+- [MPEG](/zh/video/mpeg/)
+- [FLV](/zh/video/flv/)
+- [WMV](/zh/video/wmv/)
 - 和更多...
 2. **音频格式：**
     
@@ -74,12 +74,12 @@ Shotcut 提供了一系列视频编辑功能,包括在时间轴上导入和排�
 
 
 
-- [MP3](/zh/音频/mp3/)
-- [WAV](/zh/音频/wav/)
-- [AAC](/zh/音频/aac/)
-- [FLAC](/zh/音频/flac/)
-- [OGG](/zh/音频/ogg/)
-- [M4A](/zh/音频/m4a/)
+- [MP3](/zh/audio/mp3/)
+- [WAV](/zh/audio/wav/)
+- [AAC](/zh/audio/aac/)
+- [FLAC](/zh/audio/flac/)
+- [OGG](/zh/audio/ogg/)
+- [M4A](/zh/audio/m4a/)
 - 和更多...
 3. **图像格式：**
     
@@ -92,10 +92,10 @@ Shotcut 提供了一系列视频编辑功能,包括在时间轴上导入和排�
 
 
 - [JPEG (JPG)](/zh/image/jpeg/)
-- [PNG](/zh/图片/png/)
-- [BMP](/zh/图像/bmp/)
-- [TIFF](/zh/图像/tiff/)
-- [GIF](/zh/图片/gif/)
+- [PNG](/zh/image/png/)
+- [BMP](/zh/image/bmp/)
+- [TIFF](/zh/image/tiff/)
+- [GIF](/zh/image/gif/)
 - 和更多...
 4. **其他格式：**
     
@@ -123,9 +123,9 @@ Shotcut 提供了一系列视频编辑功能,包括在时间轴上导入和排�
 
 - [MP4（H.264 编解码器）](/zh/video/mp4/)
 - [WebM（VP9 编解码器）](/zh/video/webm/)
-- [AVI](/zh/视频/avi/)
-- [MOV](/zh/视频/mov/)
-- [MKV](/zh/视频/mkv/)
+- [AVI](/zh/video/avi/)
+- [MOV](/zh/video/mov/)
+- [MKV](/zh/video/mkv/)
 - 和更多...
 2. **音频格式：**
     
@@ -137,12 +137,12 @@ Shotcut 提供了一系列视频编辑功能,包括在时间轴上导入和排�
 
 
 
-- [MP3](/zh/音频/mp3/)
-- [WAV](/zh/音频/wav/)
-- [AAC](/zh/音频/aac/)
-- [FLAC](/zh/音频/flac/)
-- [OGG](/zh/音频/ogg/)
-- [M4A](/zh/音频/m4a/)
+- [MP3](/zh/audio/mp3/)
+- [WAV](/zh/audio/wav/)
+- [AAC](/zh/audio/aac/)
+- [FLAC](/zh/audio/flac/)
+- [OGG](/zh/audio/ogg/)
+- [M4A](/zh/audio/m4a/)
 - 和更多...
 3. **图像格式：**
     
@@ -155,10 +155,10 @@ Shotcut 提供了一系列视频编辑功能,包括在时间轴上导入和排�
 
 
 - [JPEG (JPG)](/zh/image/jpeg/)
-- [PNG](/zh/图片/png/)
-- [BMP](/zh/图像/bmp/)
-- [TIFF](/zh/图像/tiff/)
-- [GIF](/zh/图片/gif/)
+- [PNG](/zh/image/png/)
+- [BMP](/zh/image/bmp/)
+- [TIFF](/zh/image/tiff/)
+- [GIF](/zh/image/gif/)
 - 和更多...
 4. **自定义导出设置：**
     

@@ -67,7 +67,7 @@ Visual FoxPro 的主要功能包括：
 
 ## 其他 FPT 文件
 
-- [FPT - Alpha 5 表备忘录文件](/zh/database/fpt-alpha Five/)
+- [FPT - Alpha 5 表备忘录文件](/zh/database/fpt-alphafive/)
 - [FPT - FileMaker Pro 数据库备忘录文件](/zh/database/fpt/)
 
 ## 参考

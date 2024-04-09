@@ -19,7 +19,7 @@
 
 ## 什么是一 .dwt 文件？
 
-DWT 文件是一个 [AutoCAD](https://www.autodesk.com/) 工程图模板文件，用作创建工程图的起始文件，该工程图可以保存为 [DWG](/zh/cad/dwg/) 文件。此类模板文件提供初始设置，例如单位类型、所需精度、标题栏、图层名称、线型和其他类似信息，以便横向转换为适当的绘图文件。 AutoCAD 和 CoreCAD 均可用于读取模板文件并进一步利用它们。简单来说，DWT 是具有预定义只读属性的 DWG，就像 MSWord [DOT](/zh/word-processing/dot/) 文件对 [DOC](/zh/word-processing/doc /） 文件。
+DWT 文件是一个 [AutoCAD](https://www.autodesk.com/) 工程图模板文件，用作创建工程图的起始文件，该工程图可以保存为 [DWG](/zh/cad/dwg/) 文件。此类模板文件提供初始设置，例如单位类型、所需精度、标题栏、图层名称、线型和其他类似信息，以便横向转换为适当的绘图文件。 AutoCAD 和 CoreCAD 均可用于读取模板文件并进一步利用它们。简单来说，DWT 是具有预定义只读属性的 DWG，就像 MSWord [DOT](/zh/word-processing/dot/) 文件对 [DOC](/zh/word-processing/doc/) 文件。
 
 ## DWT 文件格式
 

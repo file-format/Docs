@@ -20,7 +20,7 @@
 
 EMBR 文件是由 GEOREID Pty Ltd 开发和使用的 GIS 文件。它包含地理空间数据，例如任何特定点的计算长度和体积。 EMBR 文件格式以纯文本格式存储此统计数据，可以在文本编辑器中打开以进行查看和编辑。 GIS 系统参考代表地球上绝对位置的任何经纬度点来存储地质信息。
 
-其他用于存储地理空间数据的流行 GIS 文件格式包括 [gpx](/zh/gis/gpx/)、[geojson](/zh/gis/geojson/)、[kml](/zh/gis/kml/) 和 [kmz](/zh/地理信息系统/公里/）。
+其他用于存储地理空间数据的流行 GIS 文件格式包括 [gpx](/zh/gis/gpx/)、[geojson](/zh/gis/geojson/)、[kml](/zh/gis/kml/) 和 [kmz](/zh/gis/kmz/)。
 
 ## EMBR 文件格式 - 更多信息
 

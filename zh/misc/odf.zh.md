@@ -19,7 +19,7 @@
 
 ## 什么是一 .odf 文件？
 
-具有 .odf 扩展名的文件是包含数学方程式、宏和公式的文档。它是使用 [Apache OpenOffice Math](https://wiki.openoffice.org/wiki/Documentation/OOo3_User_Guides/Math_Guide) 程序创建的，该程序用于创建数学公式，然后可以将其保存到光盘或包含在其他文档中。这些文件是根据 OASIS OpenDocument 标准创建和保存的，该标准是使用 [ZIP](/zh/compression/zip/)-compressed [XML](/zh/web/ 的电子表格、图表、演示文稿和文字处理文档的开放标准文件格式xml/) 文件。 ODF 文件可以使用 OpenOffice Math 和 LibreOffice Draw 等应用程序打开。
+具有 .odf 扩展名的文件是包含数学方程式、宏和公式的文档。它是使用 [Apache OpenOffice Math](https://wiki.openoffice.org/wiki/Documentation/OOo3_User_Guides/Math_Guide) 程序创建的，该程序用于创建数学公式，然后可以将其保存到光盘或包含在其他文档中。这些文件是根据 OASIS OpenDocument 标准创建和保存的，该标准是使用 [ZIP](/zh/compression/zip/)-compressed [XML](/zh/web/xml/) 的电子表格、图表、演示文稿和文字处理文档的开放标准文件格式 文件。 ODF 文件可以使用 OpenOffice Math 和 LibreOffice Draw 等应用程序打开。
 
 ## ODF 文件格式 - 更多信息
 

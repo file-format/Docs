@@ -20,7 +20,7 @@
 
 Unity 文件是使用 3D 游戏引擎 **Unity** 创建的 3D 场景文件。它与其他场景结合使用，在编辑的同时创建一个虚拟世界。它包含对象、环境、装饰、相机、角度信息、照明场景和障碍物等 3D 场景元素。
 
-Unity 文件可以使用 Unity Technologies Unity 打开。 Unity 也可以读取 Unity [.fbx](/zh/3d/fbx/), [.dae](/zh/3d/dae/) (Collada), [.3ds](/zh/3d/3ds/), [.dxf](/zh/ cad/dxf/) 和 [.obj](/zh/3d/obj/) 文件。
+Unity 文件可以使用 Unity Technologies Unity 打开。 Unity 也可以读取 Unity [.fbx](/zh/3d/fbx/), [.dae](/zh/3d/dae/) (Collada), [.3ds](/zh/3d/3ds/), [.dxf](/zh/cad/dxf/) 和 [.obj](/zh/3d/obj/) 文件。
 
 ## 统一文件格式
 

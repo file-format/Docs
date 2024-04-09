@@ -18,7 +18,7 @@
 
 ## 关于 DOCX 到图像的转换
 
-几乎我们每个人都熟悉使用 Word 文档。 Microsoft Office 以流行的 [DOCX](/zh/word-processing/docx/) 文件格式保存这些文档，但它没有任何选项将 DOCX 保存为图像文件格式，例如 [JPEG](/zh/image/jpeg/) 或 [ PNG](/zh/图像/png/)。可能会出现以下情况：需要将 DOCX 文件作为 JPEG 图像嵌入到演示文稿中，或者需要将文档上传到仅接受图像文件的在线网站。这就是某些在线工具出现的地方，可以帮助您在线将 DOCX 文件转换为 JPEG。
+几乎我们每个人都熟悉使用 Word 文档。 Microsoft Office 以流行的 [DOCX](/zh/word-processing/docx/) 文件格式保存这些文档，但它没有任何选项将 DOCX 保存为图像文件格式，例如 [JPEG](/zh/image/jpeg/) 或 [ PNG](/zh/image/png/)。可能会出现以下情况：需要将 DOCX 文件作为 JPEG 图像嵌入到演示文稿中，或者需要将文档上传到仅接受图像文件的在线网站。这就是某些在线工具出现的地方，可以帮助您在线将 DOCX 文件转换为 JPEG。
 
 
 ## DOCX 到 JPEG 转换 - 免费演示

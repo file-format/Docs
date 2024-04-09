@@ -30,7 +30,7 @@ Aspose.Words 应用程序可让您将 DOCX 文件转换为多种不同的输出�
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-Aspose.Words API 套件让任何开发人员只需几行代码即可将 [DOCX](/zh/word-processing/docx/) 转换为 [PS](/zh/page-description-language/ps/) 格式。它适用于许多编程语言，包括 [C#](/zh/programming/cs/)、[Java](/zh/programming/java/)、[Python](/zh/programming/py/) 和 [C++](/zh/programming/cpp/ ）。除了 PCL 之外，Aspose.Words API 还允许您将 DOCX 文件转换为许多其他流行的文件格式。
+Aspose.Words API 套件让任何开发人员只需几行代码即可将 [DOCX](/zh/word-processing/docx/) 转换为 [PS](/zh/page-description-language/ps/) 格式。它适用于许多编程语言，包括 [C#](/zh/programming/cs/)、[Java](/zh/programming/java/)、[Python](/zh/programming/py/) 和 [C++](/zh/programming/cpp/)。除了 PCL 之外，Aspose.Words API 还允许您将 DOCX 文件转换为许多其他流行的文件格式。
 
 ## Aspose.Words for .NET 资源
 
