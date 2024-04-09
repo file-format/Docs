@@ -41,7 +41,7 @@ DOCM — це формат файлу документа Microsoft Word 2007, я
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-[Aspose.Words](https://products.aspose.com/words/) – це набір API, який дозволяє будь-якому розробнику конвертувати [DOCX](/uk/word-processing/docx/) у [DOCM](/uk/word-processing /docm/) за допомогою простих рядків коду. Він доступний для багатьох мов програмування, включаючи:
+[Aspose.Words](https://products.aspose.com/words/) – це набір API, який дозволяє будь-якому розробнику конвертувати [DOCX](/uk/word-processing/docx/) у [DOCM](/uk/word-processing/docm/) за допомогою простих рядків коду. Він доступний для багатьох мов програмування, включаючи:
 
 * [C#](/uk/programming/cs/)
 * [Java](/uk/programming/java/)

@@ -27,7 +27,7 @@
 
 ## Функції, що підтримуються у файлах GNM
 
-Оскільки Gnumeric підтримує декілька різних форматів файлів, він може конвертувати рідні файли GNM у [CSV](/uk/spreadsheet/csv/), [XLSX](/uk/spreadsheet/xlsx/), Microsoft Works (.wks), [HTML](/uk/ web/html/), [LaTex](/uk/word-processing/latex/) і [Lotus 1-2-3](/uk/spreadsheet/123/).
+Оскільки Gnumeric підтримує декілька різних форматів файлів, він може конвертувати рідні файли GNM у [CSV](/uk/spreadsheet/csv/), [XLSX](/uk/spreadsheet/xlsx/), Microsoft Works (.wks), [HTML](/uk/web/html/), [LaTex](/uk/word-processing/latex/) і [Lotus 1-2-3](/uk/spreadsheet/123/).
 
 ## Gnumeric на Github
 

@@ -19,7 +19,7 @@
 
 ## Що таке файл AZW3?
 
-AZW3, також відомий як Kindle Format 8 (**KF8**), є модифікованою версією цифрового файлу електронної книги [AZW](/uk/ebook/azw/), розробленого для пристроїв Amazon Kindle. Цей формат є вдосконаленням старіших файлів AZW і використовується на пристроях Kindle Fire лише із зворотною сумісністю для попереднього формату файлу, тобто [MOBI](/uk/ebook/mobi/) і AZW. Amazon представив формат KFX (KF версія 10) після KF8, який використовується на останніх пристроях Kindle. Файли AZW3 мають тип Інтернет-медіа application/vnd.amazon.mobi8-ebook. Файли AZW3 можна конвертувати в ряд інших форматів файлів, наприклад [PDF](/uk/pdf/), [EPUB](/uk/ebook/epub/), [AZW](/uk/ebook/azw/), [DOCX](/uk/ text-processing/docx/) і [RTF](/uk/word-processing/rtf/).
+AZW3, також відомий як Kindle Format 8 (**KF8**), є модифікованою версією цифрового файлу електронної книги [AZW](/uk/ebook/azw/), розробленого для пристроїв Amazon Kindle. Цей формат є вдосконаленням старіших файлів AZW і використовується на пристроях Kindle Fire лише із зворотною сумісністю для попереднього формату файлу, тобто [MOBI](/uk/ebook/mobi/) і AZW. Amazon представив формат KFX (KF версія 10) після KF8, який використовується на останніх пристроях Kindle. Файли AZW3 мають тип Інтернет-медіа application/vnd.amazon.mobi8-ebook. Файли AZW3 можна конвертувати в ряд інших форматів файлів, наприклад [PDF](/uk/pdf/), [EPUB](/uk/ebook/epub/), [AZW](/uk/ebook/azw/), [DOCX](/uk/word-processing/docx/) і [RTF](/uk/word-processing/rtf/).
 
 ## Формат файлу AZ3/KF8 ##
 

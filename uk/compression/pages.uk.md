@@ -41,7 +41,7 @@
 * Microsoft Word [DOC](/uk/word-processing/doc/) і [DOCX](/uk/word-processing/docx/)
 * [PDF](/uk/pdf/)
 * [EPUB](/uk/ebook/epub/)
-* [RTF](/uk/текстовий процес/rtf/)
+* [RTF](/uk/word-processing/rtf/)
 * [TXT](/uk/word-processing/txt/)
 
 ## Список літератури
