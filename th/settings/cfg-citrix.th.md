@@ -188,7 +188,7 @@
 
 
 
-- **.exe**: แพ็คเกจการติดตั้ง Citrix Receiver หรือ Citrix Workspace มักจะมาในรูปแบบปฏิบัติการสำหรับระบบปฏิบัติการต่างๆ (เช่น [.exe](/th/executable/exe/) สำหรับ Windows, [.dmg](/th/compression/dmg /) สำหรับ macOS) แพ็คเกจเหล่านี้อนุญาตให้ผู้ใช้ติดตั้งซอฟต์แวร์ไคลเอนต์บนอุปกรณ์ของตน
+- **.exe**: แพ็คเกจการติดตั้ง Citrix Receiver หรือ Citrix Workspace มักจะมาในรูปแบบปฏิบัติการสำหรับระบบปฏิบัติการต่างๆ (เช่น [.exe](/th/executable/exe/) สำหรับ Windows, [.dmg](/th/compression/dmg/) สำหรับ macOS) แพ็คเกจเหล่านี้อนุญาตให้ผู้ใช้ติดตั้งซอฟต์แวร์ไคลเอนต์บนอุปกรณ์ของตน
 3. **แอป Citrix Workspace (เดิมคือ Citrix Receiver)**:
     
 
@@ -242,7 +242,7 @@
 
 
 
-- **.vhd, .vhdx**: Citrix XenDesktop และ XenApp สามารถส่งมอบเดสก์ท็อปและแอปพลิเคชันเสมือนโดยใช้ฮาร์ดดิสก์เสมือน [VHD](/th/disc-and-media/vhd/) หรือ [VHDX](/th/disc-and-media /vhdx/) ไฟล์
+- **.vhd, .vhdx**: Citrix XenDesktop และ XenApp สามารถส่งมอบเดสก์ท็อปและแอปพลิเคชันเสมือนโดยใช้ฮาร์ดดิสก์เสมือน [VHD](/th/disc-and-media/vhd/) หรือ [VHDX](/th/disc-and-media/vhdx/) ไฟล์
 6. **ข้อมูลเมตาการเผยแพร่ทรัพยากร**:
     
 

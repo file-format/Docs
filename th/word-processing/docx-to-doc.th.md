@@ -37,7 +37,7 @@
 
 ## Aspose.Words API
 
-[Aspose.Words](https://products.aspose.com/words/) คือชุดของ API ที่ช่วยให้นักพัฒนาซอฟต์แวร์สามารถแปลง [DOCX](/th/word-processing/docx/) เป็น [DOC](/th/word-processing /doc/) โดยใช้โค้ดบรรทัดง่ายๆ สามารถใช้ได้กับภาษาการเขียนโปรแกรมหลายภาษา รวมถึง [C#](/th/programming/cs/), [Java](/th/programming/java/), [Python](/th/programming/py/) และ [C++](/th/programming/cpp/ ). นอกจาก DOC แล้ว Aspose.Words API ยังช่วยให้คุณแปลงไฟล์ DOCX ไปเป็นรูปแบบไฟล์ยอดนิยมอื่นๆ ได้อีกมากมาย
+[Aspose.Words](https://products.aspose.com/words/) คือชุดของ API ที่ช่วยให้นักพัฒนาซอฟต์แวร์สามารถแปลง [DOCX](/th/word-processing/docx/) เป็น [DOC](/th/word-processing/doc/) โดยใช้โค้ดบรรทัดง่ายๆ สามารถใช้ได้กับภาษาการเขียนโปรแกรมหลายภาษา รวมถึง [C#](/th/programming/cs/), [Java](/th/programming/java/), [Python](/th/programming/py/) และ [C++](/th/programming/cpp/). นอกจาก DOC แล้ว Aspose.Words API ยังช่วยให้คุณแปลงไฟล์ DOCX ไปเป็นรูปแบบไฟล์ยอดนิยมอื่นๆ ได้อีกมากมาย
 
 ## อ้างอิง
 

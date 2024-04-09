@@ -76,7 +76,7 @@ package com.example
 
 ## อ้างอิง ##
 
-* [AS - โดย Wikipedia]( https://en.wikipedia.org/wiki/ActionScript)
+* [AS - โดย Wikipedia](https://en.wikipedia.org/wiki/ActionScript)
 
 
 

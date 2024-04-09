@@ -55,14 +55,14 @@ Shotcut นำเสนอฟีเจอร์มากมายสำหรั
 
 
 
-- [MP4](/th/วิดีโอ/mp4/)
-- [MOV](/th/วิดีโอ/mov/)
-- [AVI](/th/วิดีโอ/avi/)
-- [MKV](/th/วิดีโอ/mkv/)
-- [WebM](/th/วิดีโอ/webm/)
-- [MPEG](/th/วิดีโอ/mpeg/)
-- [FLV](/th/วิดีโอ/flv/)
-- [WMV](/th/วิดีโอ/wmv/)
+- [MP4](/th/video/mp4/)
+- [MOV](/th/video/mov/)
+- [AVI](/th/video/avi/)
+- [MKV](/th/video/mkv/)
+- [WebM](/th/video/webm/)
+- [MPEG](/th/video/mpeg/)
+- [FLV](/th/video/flv/)
+- [WMV](/th/video/wmv/)
 - และอื่น ๆ...
 2. **รูปแบบเสียง:**
     
@@ -74,12 +74,12 @@ Shotcut นำเสนอฟีเจอร์มากมายสำหรั
 
 
 
-- [MP3](/th/เสียง/mp3/)
-- [WAV](/th/เสียง/wav/)
-- [AAC](/th/เสียง/aac/)
-- [FLAC](/th/เสียง/flac/)
-- [OGG](/th/เสียง/ogg/)
-- [M4A](/th/เสียง/m4a/)
+- [MP3](/th/audio/mp3/)
+- [WAV](/th/audio/wav/)
+- [AAC](/th/audio/aac/)
+- [FLAC](/th/audio/flac/)
+- [OGG](/th/audio/ogg/)
+- [M4A](/th/audio/m4a/)
 - และอื่น ๆ...
 3. **รูปแบบภาพ:**
     
@@ -123,9 +123,9 @@ Shotcut นำเสนอฟีเจอร์มากมายสำหรั
 
 - [MP4 (ตัวแปลงสัญญาณ H.264)](/th/video/mp4/)
 - [WebM (ตัวแปลงสัญญาณ VP9)](/th/video/webm/)
-- [AVI](/th/วิดีโอ/avi/)
-- [MOV](/th/วิดีโอ/mov/)
-- [MKV](/th/วิดีโอ/mkv/)
+- [AVI](/th/video/avi/)
+- [MOV](/th/video/mov/)
+- [MKV](/th/video/mkv/)
 - และอื่น ๆ...
 2. **รูปแบบเสียง:**
     
@@ -137,12 +137,12 @@ Shotcut นำเสนอฟีเจอร์มากมายสำหรั
 
 
 
-- [MP3](/th/เสียง/mp3/)
-- [WAV](/th/เสียง/wav/)
-- [AAC](/th/เสียง/aac/)
-- [FLAC](/th/เสียง/flac/)
-- [OGG](/th/เสียง/ogg/)
-- [M4A](/th/เสียง/m4a/)
+- [MP3](/th/audio/mp3/)
+- [WAV](/th/audio/wav/)
+- [AAC](/th/audio/aac/)
+- [FLAC](/th/audio/flac/)
+- [OGG](/th/audio/ogg/)
+- [M4A](/th/audio/m4a/)
 - และอื่น ๆ...
 3. **รูปแบบภาพ:**
     

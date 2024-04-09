@@ -20,7 +20,7 @@
 
 ไฟล์ Unity คือไฟล์ฉาก 3 มิติที่สร้างขึ้นด้วยเครื่องมือเกม 3 มิติ **Unity** ใช้ร่วมกับฉากอื่น ๆ เพื่อสร้างโลกเสมือนจริงขณะแก้ไข ประกอบด้วยองค์ประกอบฉาก 3 มิติ เช่น วัตถุ สภาพแวดล้อม การตกแต่ง กล้อง ข้อมูลมุม สถานการณ์แสง และสิ่งกีดขวาง
 
-ไฟล์ Unity สามารถเปิดได้ด้วย Unity Technologies Unity Unity ยังสามารถอ่าน Unity [.fbx](/th/3d/fbx/), [.dae](/th/3d/dae/) (Collada), [.3ds](/th/3d/3ds/), [.dxf](/th/ cad/dxf/) และไฟล์ [.obj](/th/3d/obj/)
+ไฟล์ Unity สามารถเปิดได้ด้วย Unity Technologies Unity Unity ยังสามารถอ่าน Unity [.fbx](/th/3d/fbx/), [.dae](/th/3d/dae/) (Collada), [.3ds](/th/3d/3ds/), [.dxf](/th/cad/dxf/) และไฟล์ [.obj](/th/3d/obj/)
 
 ## รูปแบบไฟล์ UNITY
 

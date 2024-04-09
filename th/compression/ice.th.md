@@ -19,7 +19,7 @@
 
 ## ไฟล์ ICE คืออะไร??
 
-ไฟล์ที่มีนามสกุล .ice เป็นไฟล์เก็บถาวรแบบบีบอัดที่สร้างด้วยยูทิลิตี้ซอฟต์แวร์ [ICEOWS](http://www.iceows.com/index.html) (Interface de Compression Ergonomique pour windOWS) ซึ่งเดิมเรียกว่า ArjFolder ให้การบีบอัดที่ยอดเยี่ยมสำหรับการลดขนาดของไฟล์ข้อความ เดิม ICEOWS ได้รับการพัฒนาโดยรองรับภาษาโปแลนด์ แต่ปัจจุบันมีให้บริการในภาษาอื่นๆ เช่น อังกฤษ ฝรั่งเศส เยอรมัน โปแลนด์ โปรตุเกส สเปน อิตาลี จีน ฮิบรู ยูเครน และสวีเดน นอกจากนี้ยังให้คุณแยกเนื้อหาของไฟล์เก็บถาวรและรองรับ ICE, ARJ, [ZIP](/th/compression/zip/), [GunZip](/th/compression/gz/), [TAR](/th/compression/tar/), Microsoft CAB , [RAR](/th/compression/rar/), ACE, MIME, Mac HQX, UUEncode, XXEncode, Base64, [JAR](/th/programming/jar/), EAR, WAR, LHA, IMP, [BZ2](/th/การบีบอัด /bz2/) รูปแบบไฟล์
+ไฟล์ที่มีนามสกุล .ice เป็นไฟล์เก็บถาวรแบบบีบอัดที่สร้างด้วยยูทิลิตี้ซอฟต์แวร์ [ICEOWS](http://www.iceows.com/index.html) (Interface de Compression Ergonomique pour windOWS) ซึ่งเดิมเรียกว่า ArjFolder ให้การบีบอัดที่ยอดเยี่ยมสำหรับการลดขนาดของไฟล์ข้อความ เดิม ICEOWS ได้รับการพัฒนาโดยรองรับภาษาโปแลนด์ แต่ปัจจุบันมีให้บริการในภาษาอื่นๆ เช่น อังกฤษ ฝรั่งเศส เยอรมัน โปแลนด์ โปรตุเกส สเปน อิตาลี จีน ฮิบรู ยูเครน และสวีเดน นอกจากนี้ยังให้คุณแยกเนื้อหาของไฟล์เก็บถาวรและรองรับ ICE, ARJ, [ZIP](/th/compression/zip/), [GunZip](/th/compression/gz/), [TAR](/th/compression/tar/), Microsoft CAB , [RAR](/th/compression/rar/), ACE, MIME, Mac HQX, UUEncode, XXEncode, Base64, [JAR](/th/programming/jar/), EAR, WAR, LHA, IMP, [BZ2](/th/compression/bz2/) รูปแบบไฟล์
 
 ## รูปแบบไฟล์ ICE
 

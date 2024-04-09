@@ -19,7 +19,7 @@
 
 ## ไฟล์ DGN คืออะไร??
 
-ไฟล์ที่มีนามสกุล .dgn (การออกแบบ) คือไฟล์รูปวาดที่สร้างและสนับสนุนโดยแอปพลิเคชัน CAD เช่น MicroStation และ Intergraph Interactive Graphics Design System ใช้สำหรับสร้างและบันทึกแบบสำหรับโครงการก่อสร้าง เช่น ทางหลวง สะพาน และอาคารต่างๆ รูปแบบคล้ายกับรูปแบบไฟล์ [DWG](/th/cad/dwg/) ของ Autodesk และถือเป็นคู่แข่งกัน ไฟล์ DNG สามารถบันทึกเป็น Intergraph Standard File Format หรือ V8 DGN DGN สามารถแปลงเป็นรูปแบบอื่นๆ ได้หลายรูปแบบ เช่น DWG, [BMP](/th/image/bmp/), [JPEG](/th/image/jpeg/), [PDF](/th/pdf/), [GIF](/th/image/ gif/) และอื่น ๆ สามารถเปิดได้ด้วย Autodesk AutoCAD, Bentley View และ Bentley Systems MicroStation นอกเหนือจากแอพพลิเคชั่นซอฟต์แวร์อื่นๆ เช่น รุ่น Corel PaintShop Photo Pro และ IMSI TurboCAD Deluxe
+ไฟล์ที่มีนามสกุล .dgn (การออกแบบ) คือไฟล์รูปวาดที่สร้างและสนับสนุนโดยแอปพลิเคชัน CAD เช่น MicroStation และ Intergraph Interactive Graphics Design System ใช้สำหรับสร้างและบันทึกแบบสำหรับโครงการก่อสร้าง เช่น ทางหลวง สะพาน และอาคารต่างๆ รูปแบบคล้ายกับรูปแบบไฟล์ [DWG](/th/cad/dwg/) ของ Autodesk และถือเป็นคู่แข่งกัน ไฟล์ DNG สามารถบันทึกเป็น Intergraph Standard File Format หรือ V8 DGN DGN สามารถแปลงเป็นรูปแบบอื่นๆ ได้หลายรูปแบบ เช่น DWG, [BMP](/th/image/bmp/), [JPEG](/th/image/jpeg/), [PDF](/th/pdf/), [GIF](/th/image/gif/) และอื่น ๆ สามารถเปิดได้ด้วย Autodesk AutoCAD, Bentley View และ Bentley Systems MicroStation นอกเหนือจากแอพพลิเคชั่นซอฟต์แวร์อื่นๆ เช่น รุ่น Corel PaintShop Photo Pro และ IMSI TurboCAD Deluxe
 
 ## รูปแบบไฟล์ V8 DGN
 

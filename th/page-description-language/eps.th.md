@@ -77,7 +77,7 @@ PICT และ Windows Metafile สามารถรวมข้อมูลบ
 
 ## การแปลง EPS เป็นรูปแบบไฟล์อื่น
 
-ไฟล์ EPS สามารถแปลงเป็นรูปแบบภาพมาตรฐาน เช่น [JPG](/th/image/jpeg/), [PNG](/th/image/png/), [TIFF](/th/image/tiff/) และ [PDF](/th/pdf /) โดยใช้แอพพลิเคชั่นต่างๆ เช่น Adobe Illustrator, Photoshop และ PaintShop Pro
+ไฟล์ EPS สามารถแปลงเป็นรูปแบบภาพมาตรฐาน เช่น [JPG](/th/image/jpeg/), [PNG](/th/image/png/), [TIFF](/th/image/tiff/) และ [PDF](/th/pdf/) โดยใช้แอพพลิเคชั่นต่างๆ เช่น Adobe Illustrator, Photoshop และ PaintShop Pro
 
 เนื่องจาก[ช่องโหว่ด้านความปลอดภัย](https://support.microsoft.com/en-us/office/support-for-eps-images-has-been-turned-off-in-office-a069d664-4bcf-415e-a1b5-cbb0c334a840) ในไฟล์ EPS, Office 2016, Office 2013, Office 2010 และ Office 365 ได้ปิดความสามารถในการแทรกไฟล์ EPS ลงในเอกสาร Office
 

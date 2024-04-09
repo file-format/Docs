@@ -27,7 +27,7 @@
 
 ## คุณสมบัติที่รองรับในไฟล์ GNM
 
-เนื่องจาก Gnumeric รองรับไฟล์รูปแบบต่างๆ จึงสามารถแปลงไฟล์ GNM ดั้งเดิมเป็น [CSV](/th/spreadsheet/csv/), [XLSX](/th/spreadsheet/xlsx/), Microsoft Works (.wks), [HTML](/th/ เว็บ/html/), [LaTex](/th/word-processing/latex/) และ [Lotus 1-2-3](/th/spreadsheet/123/)
+เนื่องจาก Gnumeric รองรับไฟล์รูปแบบต่างๆ จึงสามารถแปลงไฟล์ GNM ดั้งเดิมเป็น [CSV](/th/spreadsheet/csv/), [XLSX](/th/spreadsheet/xlsx/), Microsoft Works (.wks), [HTML](/th/web/html/), [LaTex](/th/word-processing/latex/) และ [Lotus 1-2-3](/th/spreadsheet/123/)
 
 ## Gnumeric บน Github
 

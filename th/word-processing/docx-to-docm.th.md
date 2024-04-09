@@ -41,12 +41,12 @@ DOCM เป็นรูปแบบไฟล์เอกสาร Microsoft Word
 
 [![Aspose.Words](../try-aspose-words.png)](https://products.aspose.com/words/)
 
-[Aspose.Words](https://products.aspose.com/words/) คือชุดของ API ที่ช่วยให้นักพัฒนาซอฟต์แวร์สามารถแปลง [DOCX](/th/word-processing/docx/) เป็น [DOCM](/th/word-processing /docm/) โดยใช้โค้ดบรรทัดง่ายๆ สามารถใช้ได้กับภาษาการเขียนโปรแกรมหลายภาษา ได้แก่ :
+[Aspose.Words](https://products.aspose.com/words/) คือชุดของ API ที่ช่วยให้นักพัฒนาซอฟต์แวร์สามารถแปลง [DOCX](/th/word-processing/docx/) เป็น [DOCM](/th/word-processing/docm/) โดยใช้โค้ดบรรทัดง่ายๆ สามารถใช้ได้กับภาษาการเขียนโปรแกรมหลายภาษา ได้แก่ :
 
-* [C#](/th/การเขียนโปรแกรม/cs/)
-* [จาวา](/th/การเขียนโปรแกรม/java/)
-* [หลาม](/th/การเขียนโปรแกรม/py/)
-* [C++](/th/การเขียนโปรแกรม/cpp/)
+* [C#](/th/programming/cs/)
+* [จาวา](/th/programming/java/)
+* [หลาม](/th/programming/py/)
+* [C++](/th/programming/cpp/)
 
 นอกจาก DOCM แล้ว Aspose.Words API ยังให้คุณแปลงไฟล์ DOCX เป็นรูปแบบไฟล์ยอดนิยมอื่นๆ มากมาย
 
