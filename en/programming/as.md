@@ -82,6 +82,6 @@ package com.example
 
 ## Reference ##
 
-* [AS - by Wikipedia](	https://en.wikipedia.org/wiki/ActionScript)
+* [AS - by Wikipedia](https://en.wikipedia.org/wiki/ActionScript)
 
 

@@ -21,7 +21,7 @@
 
 The ".3ds" file extension serves as a marker for the mesh file format called 3D Studio (DOS), utilized by Autodesk's 3D Studio software. Autodesk's 3D Studio has held a significant presence in the realm of 3D file formats since the 1990s and has subsequently evolved into the robust software now recognized as 3D Studio MAX.
 
-A [DWG file](/3d/dwg/), short for Digital Asset Exchange file, operates as a format created to facilitate data exchange between interactive 3D applications. It relies on the COLLADA (COLLAborative Design Activity) XML schema, serving as an open standard for the seamless sharing of digital assets among various graphics software applications.
+A [DWG file](/cad/dwg/), short for Digital Asset Exchange file, operates as a format created to facilitate data exchange between interactive 3D applications. It relies on the COLLADA (COLLAborative Design Activity) XML schema, serving as an open standard for the seamless sharing of digital assets among various graphics software applications.
 
 People frequently require converting [3DS](/3d/3ds/) files to DWG format, and several online tools offer free 3DS to DWG conversion. For software developers seeking to integrate this functionality into .NET, Java, or Python applications, Aspose.3D APIs provide a valuable solution.
 
