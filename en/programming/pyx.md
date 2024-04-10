@@ -24,5 +24,4 @@ PYX files are plain text files and their syntax is very close to Python. Python 
 
 ## References
 
- * [Python Wiki](https://wiki.python.org/moin/Pyrex)
  * [Python (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))

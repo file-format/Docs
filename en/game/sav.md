@@ -27,6 +27,4 @@ A file with .sav extension is a Nintendo DS saved game file that can be loaded i
 The Nintendo DS SAVE files are saved to disc in binary file format. Though these are not human readable, a HexaDecimal editor such as [HxD](https://mh-nexus.de/en/hxd/) can be used to open these for analysis. In scenarios where the SAV file can not be loaded into an upgraded version of an emulator, it can be opened in the Hex editor for removal of any unwanted padded data.
 
 ## References
-
-* [DeSmuME](http://desmume.org/)
 * [NO$GBA](https://www.nogba.com/)

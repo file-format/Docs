@@ -29,5 +29,4 @@ The PYW file type is primarily associated with Python by Python Software Foundat
 
 ## References
 
- * [Python Wiki](https://wiki.python.org/moin/Pyrex)
- * [Python (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))
+* [Python (programming language) - Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))

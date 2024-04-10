@@ -38,4 +38,3 @@ All Microsoft Access 2007+ files utilize the Jet ACE (Access database engine) th
 
 * [How to hide VBA Code from Users?](https://support.microsoft.com/en-us/office/hide-vba-code-from-users-ce6ab610-af07-4008-91e0-1ef1b796ff18)
 * [MDB Tools](https://github.com/mdbtools/mdbtools/blob/master/HACKING)
-* [The Unofficial MDB Guide](http://jabakobob.net/mdb/)

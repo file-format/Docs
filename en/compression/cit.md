@@ -28,7 +28,3 @@ CIT files are saved to disc in compressed file format. It uses the standard ZIP 
 ### About In8
 
 In8 is a software company that has expertise in developing applications used to document and report criminal investigation reports.
-
-## References
-
-* [In8Cite](https://www.in8development.com/in8cite-2/)

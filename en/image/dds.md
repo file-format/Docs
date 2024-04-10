@@ -44,4 +44,3 @@ The [programming guide of DDS file format](https://learn.microsoft.com/en-us/win
 ## References
 
 * [DDS - By Wikipedia](https://en.wikipedia.org/wiki/DirectDraw_Surface)
-* [ZSoft PCX File Format Technical Reference Manual](http://qzx.com/pc-gpe/pcx.txt)
