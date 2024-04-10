@@ -28,9 +28,3 @@ CIT dosyaları sıkıştırılmış dosya formatında diske kaydedilir. Dosyalar
 ### In8 Hakkında
 
 In8, kriminal soruşturma raporlarını belgelemek ve raporlamak için kullanılan uygulamaları geliştirme konusunda uzmanlığa sahip bir yazılım şirketidir.
-
-## Referanslar
-
-* [In8Cite](https://www.in8development.com/in8cite-2/)
-
-

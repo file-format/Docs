@@ -23,7 +23,7 @@
 
 ## QT Dosya Biçimi
 
-QTFF, ayrıştırma ve genişletme kolaylığı için esnek bir nesne koleksiyonunu ortaya çıkaran nesne yönelimlidir. Bir QT dosyasındaki her iz, dijital olarak kodlanmış bir medya akışı veya başka bir dosyada bulunan medya akışına bir veri referansı içerir. Atom adı verilen nesnelerden oluşan hiyerarşik veri yapısı, izleme kapları görevi görür. [QT dosya formatı](https://developer.apple.com/library/archive/documentation/QuickTime/QTFF/QTFFPreface/qtffPreface.html) için dosya formatı belirtimleri, geliştiricinin referansı için Apple Inc tarafından resmi olarak mevcuttur.
+QTFF, ayrıştırma ve genişletme kolaylığı için esnek bir nesne koleksiyonunu ortaya çıkaran nesne yönelimlidir. Bir QT dosyasındaki her iz, dijital olarak kodlanmış bir medya akışı veya başka bir dosyada bulunan medya akışına bir veri referansı içerir. Atom adı verilen nesnelerden oluşan hiyerarşik veri yapısı, izleme kapları görevi görür. [QT dosya formatı](https://developer.apple.com/documentation/quicktime-file-format) için dosya formatı belirtimleri, geliştiricinin referansı için Apple Inc tarafından resmi olarak mevcuttur.
 
 ### Medya açıklaması
 
@@ -55,6 +55,6 @@ Bir sonraki öbek 32+8#40 (onaltılık: 28) konumunda bulunur ve 3.263.028 (onal
 
 ## Referanslar ##
 
-* [QT Dosya Biçimi - Apple Inc.](https://developer.apple.com/library/archive/documentation/QuickTime/QTFF/QTFFPreface/qtffPreface.html)
+* [QT Dosya Biçimi - Apple Inc.](https://developer.apple.com/documentation/quicktime-file-format)
 * [QuickTime Dosya Biçimi - Wikipedia](https://en.wikipedia.org/wiki/QuickTime_File_Format)
 

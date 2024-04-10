@@ -20,7 +20,7 @@
 
 ## SAV dosyası nedir?
 
-.sav uzantılı bir dosya, [DeSmuME](http://desmume.org/) ve [NO$GBA](https://www. nogba.com/). Bu dosyalar, daha sonra Nintendo öykünücülerine yüklenebilen oyunun mevcut durumunu kaydeder. SAV dosyalarında saklanan bilgiler arasında oyun karakter adı, deneyim puanları, tamamlanan seviyeler ve oyun içi kaynaklar bulunur. SAV dosyaları öykünücülere yüklenebilir, ancak SAV dosyasının sürümlerindeki farklılık öykünücülerde hata oluşmasına neden olabilir. SAV dosyaları, DeSmuME ve NO$GBA öykünücüleri ile açılabilir.
+.sav uzantılı bir dosya, DeSmuME ve [NO$GBA](https://www. nogba.com/). Bu dosyalar, daha sonra Nintendo öykünücülerine yüklenebilen oyunun mevcut durumunu kaydeder. SAV dosyalarında saklanan bilgiler arasında oyun karakter adı, deneyim puanları, tamamlanan seviyeler ve oyun içi kaynaklar bulunur. SAV dosyaları öykünücülere yüklenebilir, ancak SAV dosyasının sürümlerindeki farklılık öykünücülerde hata oluşmasına neden olabilir. SAV dosyaları, DeSmuME ve NO$GBA öykünücüleri ile açılabilir.
 
 ## SAV Dosya Biçimi - Daha Fazla Bilgi
 
@@ -28,6 +28,5 @@ Nintendo DS SAVE dosyaları, ikili dosya biçiminde diske kaydedilir. Bunlar ins
 
 ## Referanslar
 
-* [DeSmuME](http://desmume.org/)
 * [NO$GBA](https://www.nogba.com/)
 

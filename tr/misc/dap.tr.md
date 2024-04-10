@@ -22,8 +22,3 @@
 DAP dosyası, Download Accelerator Plus (DAP) dosyası tarafından oluşturulan, indirme işlemi devam eden bir dosyadır. Kullanıcılar, DAP yazılımını kullanarak herhangi bir çevrimiçi dosya deposundan bir indirme işlemi başlattığında oluşturulur. DAP, devam etmekte olan bir indirmeyi duraklatma ve devam ettirme yeteneği sağlar. Bu amaçla kısmen indirilen dosyayı tamamen indirilene kadar .dap uzantılı olarak kaydeder. DAP dosyası, indirme işlemi sırasında önizlenebilir.
 
 DAP dosyaları, SpeedBit Download Accelerator Plus (DAP) yazılımı ile açılabilir.
-
-## Referanslar
-
-* [DAP Yardımı - Klasörleri Kaydetmeyi Yönetin](http://www.speedbit.com/dap-help/download-accelerator-file-manager/)
-

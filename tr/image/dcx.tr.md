@@ -23,5 +23,3 @@ DCX dosyası, dijital faks dosyaları oluşturmak için birden çok sayfadan olu
 ## Referanslar
 
 * [PCX - Wikipedia'dan](https://en.wikipedia.org/wiki/PCX)
-* [ZSoft PCX Dosya Formatı Teknik Referans Kılavuzu](http://qzx.com/pc-gpe/pcx.txt)
-

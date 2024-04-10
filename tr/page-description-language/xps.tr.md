@@ -48,7 +48,7 @@ Bu dosyalar, belge içeriğini öyle bir şekilde korurlar ki, örneğin, birini
 
 XPS Belge formatı, her biri belgede belirli bir amacı yerine getiren, iyi tanımlanmış bir dizi parça ve ilişki içerir. Biçim aynı zamanda dijital imzalar, küçük resimler ve serpiştirme gibi paket özelliklerini de genişletir.
 
-Tipik bir XPS belgesi aşağıdaki gibi görünür ve XPS dosya formatı [özellikler](https://www.ecma-international.org/activities/XML%20Paper%20Specification/XPS%20Standard.pdf) ışığında analiz edilebilir.
+Tipik bir XPS belgesi aşağıdaki gibi görünür ve XPS dosya formatı özellikler ışığında analiz edilebilir.
 
 {{< figure src="../XPS-2.png" alt="XPS Dosya Biçimi" >}}
 

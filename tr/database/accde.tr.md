@@ -29,5 +29,3 @@ Tüm Microsoft Access 2007+ dosyaları, ACCDB dosya formatı ailesini kullanan J
 
 * [VBA Kodu Kullanıcılardan Nasıl Gizlenir?](https://support.microsoft.com/en-us/office/hide-vba-code-from-users-ce6ab610-af07-4008-91e0-1ef1b796ff18)
 * [MDB Araçları](https://github.com/mdbtools/mdbtools/blob/master/HACKING)
-* [Resmi Olmayan MDB Rehberi](http://jabakobob.net/mdb/)
-

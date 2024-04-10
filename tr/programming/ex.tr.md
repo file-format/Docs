@@ -37,6 +37,4 @@ EX dosyaları düz metin dosyaları olarak saklanır ve Euphoria programlama dil
 
 ## Referans ##
 
-* [Hızlı Öfori](https://www.rapideuphoria.com/)
 * [OpenEuphoria Forumları](https://openeuphoria.org/forum/index.wc)
-

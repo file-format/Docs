@@ -54,6 +54,4 @@ Sıkıştırılmamış Boyut, işaretsiz 64 bit küçük endian tamsayı olarak 
 
 ## Referanslar
 
-* [LZMA Dosya Biçimi](https://svn.python.org/projects/external/xz-5.0.3/doc/lzma-file-format.txt)
 * [Lempel–Ziv–Markov zincir algoritması](https://en.wikipedia.org/wiki/Lempel%E2%80%93Ziv%E2%80%93Markov_chain_algorithm)
-

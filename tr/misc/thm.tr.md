@@ -30,9 +30,4 @@ Bir THM dosyası, bir XML dosyası, birkaç resim dosyası sin [.png](/tr/image/
 
 ## Sony Ericsson Temaları nasıl oluşturulur?
 
-Sony Themes Creator yazılımı, Sony Ericsson cep telefonları için yeni temalar oluşturmak için kullanılabilir. Kullanıcılar, tema oluşturmak için Sony [Themes Creator Geliştirici Kılavuzunu](https://developer.sony.com/theme-creator/get-started) takip edebilir.
-
-## Referanslar
-
-* [Sony Themes Creator Geliştirici Kılavuzu](https://developer.sony.com/theme-creator/get-started)
-
+Sony Themes Creator yazılımı, Sony Ericsson cep telefonları için yeni temalar oluşturmak için kullanılabilir. Kullanıcılar, tema oluşturmak için Sony Themes Creator Geliştirici Kılavuzunu takip edebilir.

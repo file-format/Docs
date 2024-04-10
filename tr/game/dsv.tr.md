@@ -74,8 +74,3 @@ Lütfen Kullanıcı Adınız kısmını gerçek kullanıcı adınızla değişti
 DSV dosyasını açan programların listesi
 
 - **DeSmuME** (Ücretsiz) (Windows, Mac, Linux) için
-
-## Referanslar
-* [DeSmuME](http://desmume.org/)
-
-

@@ -40,8 +40,3 @@ Ana sayfa .master uzantılı olup ASP.NET'te yapılmıştır. Statik metin, HTML
 ```
 <%@ Page Language="VB" MasterPageFile="~/MasterPages/Master2.master" Title="Content Page of Master File" %>
 ```
-
-## Referanslar
-
-* [ASP.NET Ana Sayfalara Genel Bakış](https://learn.microsoft.com/en-us/precious-versions/aspnet/wtxbf3hh(v=vs.100))
-

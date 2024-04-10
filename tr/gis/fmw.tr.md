@@ -21,7 +21,7 @@
 
 FMW dosyası, uzamsal veri dönüşümü için kullanılan FME Workbench yazılımı (FME Masaüstü paketinin bir parçası olarak gelir) ile oluşturulan bir proje dosyasıdır. Giriş veri setleri, çeviri özellikleri, projeksiyonlar ve çıkış ayarları gibi uzamsal veri manipülasyonu için kullanılan kullanıcı tanımlı ayarları içerir. Uzamsal veri işleme ayarları görsel bir düzen olarak saklanır ve düzenlenmesi ve yeniden kaydedilmesi kolaydır.
 
-FMW dosyalarını [Safe Software FME Desktop](https://www.safe.com/fme/fme-desktop/) kullanarak açabilirsiniz.
+FMW dosyalarını [Safe Software FME Desktop](https://fme.safe.com/platform/) kullanarak açabilirsiniz.
 
 ## FMW Dosya Formatı - Daha Fazla Bilgi
 
@@ -70,7 +70,5 @@ FMW dosyaları diskte ikili dosyalar olarak saklanır ve yalnızca FME Masaüst�
 
 ## Referanslar
 
-* [Güvenli Yazılım FME Masaüstü](https://www.safe.com/fme/fme-desktop/)
-
+* [Güvenli Yazılım FME Masaüstü](https://fme.safe.com/platform/)
 * [FMW Quick Facts](https://docs.safe.com/fme/html/FME_Desktop_Documentation/FME_ReadersWriters/fmw/quick_facts_fmw.htm)
-

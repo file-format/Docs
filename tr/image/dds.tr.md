@@ -43,5 +43,4 @@ DDS_HEADER          header;
 ## Referanslar
 
 * [DDS - Wikipedia Tarafından](https://en.wikipedia.org/wiki/DirectDraw_Surface)
-* [ZSoft PCX Dosya Biçimi Teknik Referans Kılavuzu](http://qzx.com/pc-gpe/pcx.txt)
 

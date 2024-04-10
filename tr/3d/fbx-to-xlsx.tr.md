@@ -20,7 +20,7 @@
 
 Çoğunlukla FBX olarak bilinen FilmBox, başlangıçta Kaydara tarafından MotionBuilder ile uyumluluğu geliştirmek için oluşturulan, yaygın olarak kullanılan bir 3D dosya formatıdır. 2006 yılında Autodesk Inc. bu formatın kontrolünü ele geçirdi ve çeşitli 3D yazılım uygulamaları arasında 3D verileri zahmetsizce alışverişi için bir standart olarak statüsünü sağlamlaştırdı.
 
-**XLSX**, Microsoft Office 2007 sürümüyle birlikte Microsoft tarafından kullanıma sunulan, Microsoft Excel belgeleri için yaygın olarak tanınan bir formattır. [Bölüm 2](https://https://ecma-international.org/publications-and-standards/standards/ecma-376/)'de ayrıntılı olarak açıklandığı gibi, Açık Paketleme Kurallarını temel alan yapılandırılmış bir organizasyona uygundur. ECMA-376 OOXML standardının. Bu yeni format aslında birden fazla XML dosyası içeren bir zip paketidir.
+**XLSX**, Microsoft Office 2007 sürümüyle birlikte Microsoft tarafından kullanıma sunulan, Microsoft Excel belgeleri için yaygın olarak tanınan bir formattır. Bölüm 2'de ayrıntılı olarak açıklandığı gibi, Açık Paketleme Kurallarını temel alan yapılandırılmış bir organizasyona uygundur. ECMA-376 OOXML standardının. Bu yeni format aslında birden fazla XML dosyası içeren bir zip paketidir.
 
 FBX dosyalarınızı XLSX formatına dönüştürmek için çevrimiçi olarak mevcut olan FBX'ten XLSX'e dönüştürme uygulamalarını kullanabilirsiniz. Bu çevrimiçi uygulamalar, bu tür dönüşümler için herhangi bir özel yazılım yüklemenizi gerektirmez.
 
