@@ -37,6 +37,5 @@
 
 ## Посилання ##
 
-* [Швидка ейфорія](https://www.rapideuphoria.com/)
 * [Форуми OpenEuphoria](https://openeuphoria.org/forum/index.wc)
 

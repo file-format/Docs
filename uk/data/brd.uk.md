@@ -61,7 +61,3 @@
 - **Altium Designer** (безкоштовна пробна версія) для (Windows, Mac, Linux)
 - **Open Board Viewer** (безкоштовно) для Linux
 
-## Список літератури
-* [Програма EAGLE](https://en.wikipedia.org/wiki/EAGLE_(програма))
-
-

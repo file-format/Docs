@@ -75,7 +75,3 @@ C:\Users\YourUsername\Documents\DeSmuME
 
 - **DeSmuME** (безкоштовно) для (Windows, Mac, Linux)
 
-## Список літератури
-* [DeSmuME](http://desmume.org/)
-
-

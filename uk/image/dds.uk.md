@@ -43,5 +43,4 @@ DDS_HEADER          header;
 ## Список літератури
 
 * [DDS – Вікіпедія](https://en.wikipedia.org/wiki/DirectDraw_Surface)
-* [Технічний довідковий посібник із форматом файлу ZSoft PCX](http://qzx.com/pc-gpe/pcx.txt)
 

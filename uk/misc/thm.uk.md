@@ -30,9 +30,5 @@
 
 ## Як створити теми Sony Ericsson?
 
-Програмне забезпечення Sony Themes Creator можна використовувати для створення нових тем для мобільних телефонів Sony Ericsson. Щоб створювати теми, користувачі можуть дотримуватись інструкцій Sony [Посібник розробника Themes Creator](https://developer.sony.com/theme-creator/get-started).
-
-## Список літератури
-
-* [Посібник розробника Sony Themes Creator](https://developer.sony.com/theme-creator/get-started)
+Програмне забезпечення Sony Themes Creator можна використовувати для створення нових тем для мобільних телефонів Sony Ericsson. Щоб створювати теми, користувачі можуть дотримуватись інструкцій Sony Посібник розробника Themes Creator.
 
