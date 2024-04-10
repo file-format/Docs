@@ -23,5 +23,3 @@
 ## อ้างอิง
 
 * [PCX - โดย Wikipedia](https://en.wikipedia.org/wiki/PCX)
-* [คู่มืออ้างอิงทางเทคนิครูปแบบไฟล์ ZSoft PCX](http://qzx.com/pc-gpe/pcx.txt)
-

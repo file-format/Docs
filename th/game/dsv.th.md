@@ -75,7 +75,3 @@ C:\Users\YourUsername\Documents\DeSmuME
 
 - **DeSmuME** (ฟรี) สำหรับ (Windows, Mac, Linux)
 
-## อ้างอิง
-* [DeSmuME](http://desmume.org/)
-
-

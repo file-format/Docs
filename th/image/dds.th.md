@@ -43,5 +43,3 @@ DDS_HEADER          header;
 ## อ้างอิง
 
 * [ท.บ. - โดยวิกิพีเดีย](https://en.wikipedia.org/wiki/DirectDraw_Surface)
-* [คู่มืออ้างอิงทางเทคนิครูปแบบไฟล์ ZSoft PCX](http://qzx.com/pc-gpe/pcx.txt)
-

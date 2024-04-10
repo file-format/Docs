@@ -21,7 +21,7 @@
 
 ไฟล์ FMW เป็นไฟล์โครงการที่สร้างด้วยซอฟต์แวร์ FME Workbench (มาเป็นส่วนหนึ่งของชุด FME Desktop) ที่ใช้สำหรับการแปลงข้อมูลเชิงพื้นที่ ประกอบด้วยการตั้งค่าที่ผู้ใช้กำหนดซึ่งใช้สำหรับการจัดการข้อมูลเชิงพื้นที่ เช่น ชุดข้อมูลอินพุต คุณสมบัติการแปล การฉายภาพ และการตั้งค่าเอาท์พุต การตั้งค่าการจัดการข้อมูลเชิงพื้นที่จะถูกจัดเก็บเป็นเค้าโครงภาพ และง่ายต่อการแก้ไขและบันทึกอีกครั้ง
 
-คุณสามารถเปิดไฟล์ FMW ได้โดยใช้ [Safe Software FME Desktop](https://www.safe.com/fme/fme-desktop/)
+คุณสามารถเปิดไฟล์ FMW ได้โดยใช้ [Safe Software FME Desktop](https://fme.safe.com/platform/)
 
 ## รูปแบบไฟล์ FMW - ข้อมูลเพิ่มเติม
 
@@ -70,7 +70,7 @@
 
 ## อ้างอิง
 
-* [เดสก์ท็อปซอฟต์แวร์ FME ที่ปลอดภัย](https://www.safe.com/fme/fme-desktop/)
+* [เดสก์ท็อปซอฟต์แวร์ FME ที่ปลอดภัย](https://fme.safe.com/platform/)
 
 * [FMW Quick Facts](https://docs.safe.com/fme/html/FME_Desktop_Documentation/FME_ReadersWriters/fmw/quick_facts_fmw.htm)
 

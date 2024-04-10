@@ -29,5 +29,3 @@
 
 * [วิธีซ่อนรหัส VBA จากผู้ใช้](https://support.microsoft.com/en-us/office/hide-vba-code-from-users-ce6ab610-af07-4008-91e0-1ef1b796ff18)
 * [เครื่องมือ MDB](https://github.com/mdbtools/mdbtools/blob/master/HACKING)
-* [คู่มือ MDB อย่างไม่เป็นทางการ](http://jabakobob.net/mdb/)
-

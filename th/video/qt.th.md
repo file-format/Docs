@@ -23,7 +23,7 @@
 
 ## รูปแบบไฟล์ QT
 
-QTFF เป็นแบบเชิงวัตถุที่แสดงชุดของวัตถุที่ยืดหยุ่นเพื่อความสะดวกในการแยกวิเคราะห์และขยาย แต่ละแทร็กในไฟล์ QT มีสตรีมสื่อที่เข้ารหัสแบบดิจิทัลหรือการอ้างอิงข้อมูลไปยังสตรีมสื่อที่อยู่ในไฟล์อื่น โครงสร้างข้อมูลแบบลำดับชั้นประกอบด้วยวัตถุที่เรียกว่าอะตอมทำหน้าที่เป็นคอนเทนเนอร์ติดตาม ข้อกำหนดรูปแบบไฟล์สำหรับ [รูปแบบไฟล์ QT](https://developer.apple.com/library/archive/documentation/QuickTime/QTFF/QTFFPreface/qtffPreface.html) มีให้ใช้งานอย่างเป็นทางการโดย Apple Inc สำหรับการอ้างอิงของนักพัฒนา
+QTFF เป็นแบบเชิงวัตถุที่แสดงชุดของวัตถุที่ยืดหยุ่นเพื่อความสะดวกในการแยกวิเคราะห์และขยาย แต่ละแทร็กในไฟล์ QT มีสตรีมสื่อที่เข้ารหัสแบบดิจิทัลหรือการอ้างอิงข้อมูลไปยังสตรีมสื่อที่อยู่ในไฟล์อื่น โครงสร้างข้อมูลแบบลำดับชั้นประกอบด้วยวัตถุที่เรียกว่าอะตอมทำหน้าที่เป็นคอนเทนเนอร์ติดตาม ข้อกำหนดรูปแบบไฟล์สำหรับ [รูปแบบไฟล์ QT](https://developer.apple.com/documentation/quicktime-file-format) มีให้ใช้งานอย่างเป็นทางการโดย Apple Inc สำหรับการอ้างอิงของนักพัฒนา
 
 ### คำอธิบายสื่อ
 
@@ -55,6 +55,6 @@ Atom เป็นหน่วยพื้นฐานของไฟล์ Quick
 
 ## อ้างอิง ##
 
-* [รูปแบบไฟล์ QT - Apple Inc.](https://developer.apple.com/library/archive/documentation/QuickTime/QTFF/QTFFPreface/qtffPreface.html)
+* [รูปแบบไฟล์ QT - Apple Inc.](https://developer.apple.com/documentation/quicktime-file-format)
 * [รูปแบบไฟล์ QuickTime - Wikipedia](https://en.wikipedia.org/wiki/QuickTime_File_Format)
 

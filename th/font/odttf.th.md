@@ -28,7 +28,3 @@ An ODTTF file is a font file format that is utilized by the [.XPS](/page-descrip
 
 โครงสร้างรูปแบบไฟล์ภายในของรูปแบบไฟล์ ODTTF ไม่เป็นที่รู้จักเนื่องจากโครงสร้างเหล่านี้ถูกจัดเก็บเป็นรูปแบบที่สับสนแบบฝัง สิ่งเหล่านี้สามารถฝังอยู่ในเอกสารดิจิทัล เช่น .PDF หรือ .DOCX
 
-## อ้างอิง
- * [ข้อกำหนดแบบอักษร OpenType โดย Microsoft](https://learn.microsoft.com/en-us/ Typography/opentype/spec/overview)
- * [ภาพรวม TrueType](https://learn.microsoft.com/en-us/วิชาการพิมพ์/truetype/)
-
