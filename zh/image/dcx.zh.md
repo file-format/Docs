@@ -23,5 +23,4 @@ DCX 文件是由用于生成数字传真文件的多页组成的图像文件。�
 ## 参考
 
 * [PCX - 维基百科](https://en.wikipedia.org/wiki/PCX)
-* [ZSoft PCX 文件格式技术参考手册](http://qzx.com/pc-gpe/pcx.txt)
 

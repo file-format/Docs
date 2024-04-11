@@ -30,9 +30,4 @@ THM 文件实际上是一个包含许多其他文件的容器文件。它以 [TA
 
 ## 如何创建索尼爱立信主题？
 
-Sony Themes Creator 软件可用于为索尼爱立信手机生成新主题。用户可以按照索尼 [Themes Creator 开发者指南](https://developer.sony.com/theme-creator/get-started) 来创建主题。
-
-## 参考
-
-* [Sony Themes Creator 开发者指南](https://developer.sony.com/theme-creator/get-started)
-
+Sony Themes Creator 软件可用于为索尼爱立信手机生成新主题。用户可以按照索尼 Themes Creator 开发者指南 来创建主题。

@@ -74,8 +74,3 @@ C:\Users\YourUsername\Documents\DeSmuME
 这是打开 DSV 文件的程序列表
 
 - **DeSmuME**（免费）适用于（Windows、Mac、Linux）
-
-## 参考
-* [DeSmuME](http://desmume.org/)
-
-

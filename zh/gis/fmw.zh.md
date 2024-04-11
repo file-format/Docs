@@ -21,7 +21,7 @@
 
 FMW 文件是使用 FME Workbench 软件（作为 FME 桌面套件的一部分）创建的项目文件，用于空间数据转换。它包含用于空间数据操作的用户定义设置，例如输入数据集、翻译属性、投影和输出设置。空间数据操作设置存储为可视布局，易于编辑和再次保存。
 
-您可以使用 [Safe Software FME Desktop](https://www.safe.com/fme/fme-desktop/) 打开 FMW 文件。
+您可以使用 [Safe Software FME Desktop](https://fme.safe.com/platform/) 打开 FMW 文件。
 
 ## FMW 文件格式 - 更多信息
 
@@ -70,6 +70,6 @@ FMW 文件作为二进制文件存储在光盘上，只能使用 FME Desktop 软
 
 ## 参考
 
-* [安全软件 FME 桌面](https://www.safe.com/fme/fme-desktop/)
+* [安全软件 FME 桌面](https://fme.safe.com/platform/)
 * [FMW 简介](https://docs.safe.com/fme/html/FME_Desktop_Documentation/FME_ReadersWriters/fmw/quick_facts_fmw.htm)
 

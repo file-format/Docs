@@ -25,7 +25,6 @@
 
 MDE 文件是通过编译 VBA 代码、表单、报告和其他对象创建的。 这会创建 MDE 二进制文件格式。 生成的 .MDE 文件可以分发给可以运行应用程序但无法修改设计或查看原始代码的用户。 MDE 文件实际上是[.MDA 文件](/database/mda/) 的编译版本。 分发 .MDE 文件可以防止用户访问或修改源代码，从而帮助保护知识产权。 随着代码的编译和优化，它还可以提高性能。
 
-＃＃ 参考
+## 参考
 
 * [访问规范](https://support.microsoft.com/en-us/office/access-specations-0cf3c66f-9cf2-4e32-9568-98c1025bb47c)
-* [非官方 MDB 指南](http://jabakobob.net/mdb/)

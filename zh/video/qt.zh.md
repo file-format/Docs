@@ -23,7 +23,7 @@
 
 ## QT 文件格式
 
-QTFF 是面向对象的，它公开了一个灵活的对象集合，以便于解析和扩展。 QT 文件中的每个轨道都包含一个数字编码的媒体流或对位于另一个文件中的媒体流的数据引用。由称为原子的对象组成的分层数据结构充当轨道容器。 [QT文件格式](https://developer.apple.com/library/archive/documentation/QuickTime/QTFF/QTFFPreface/qtffPreface.html)的文件格式规范由Apple Inc官方提供，供开发者参考。
+QTFF 是面向对象的，它公开了一个灵活的对象集合，以便于解析和扩展。 QT 文件中的每个轨道都包含一个数字编码的媒体流或对位于另一个文件中的媒体流的数据引用。由称为原子的对象组成的分层数据结构充当轨道容器。 [QT文件格式](https://developer.apple.com/documentation/quicktime-file-format)的文件格式规范由Apple Inc官方提供，供开发者参考。
 
 ### 媒体描述
 
@@ -55,6 +55,6 @@ QT/MOV 文件由连续的块组成。每个块都有一个 8 字节标头：4 �
 
 ## 参考 ＃＃
 
-* [QT 文件格式 - Apple Inc.](https://developer.apple.com/library/archive/documentation/QuickTime/QTFF/QTFFPreface/qtffPreface.html)
+* [QT 文件格式 - Apple Inc.](https://developer.apple.com/documentation/quicktime-file-format)
 * [QuickTime 文件格式 - 维基百科](https://en.wikipedia.org/wiki/QuickTime_File_Format)
 

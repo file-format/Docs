@@ -40,5 +40,3 @@ MDB 格式有可用的公共规范，它仍然是 Microsoft 的专有文件格�
 ## 参考 ＃＃
 
 * [访问规范](https://support.microsoft.com/en-us/office/access-specifications-0cf3c66f-9cf2-4e32-9568-98c1025bb47c)
-* [非官方 MDB 指南](http://jabakobob.net/mdb/)
-

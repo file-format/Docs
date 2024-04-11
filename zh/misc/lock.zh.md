@@ -43,5 +43,5 @@ Linux 支持两种类型的文件锁：建议锁和强制锁。
 ## 参考
 
 * [Ruby 中的 GemFile 和 Gemfile.lock](https://medium.com/never-hop-on-the-bandwagon/gemfile-and-gemfile-lock-in-ruby-65adc918b856)
-* [Linux 中的锁定](https://www.baeldung.com/linux/file-locking#:~:text=File%20locking%20is%20a%20mechanism,very%20dangerous%20command%20in%20Linux.)
+* [Linux 中的锁定](https://www.baeldung.com/linux/file-locking)
 

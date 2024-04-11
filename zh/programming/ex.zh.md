@@ -37,6 +37,4 @@ EX 文件存储为纯文本文件，并包含用 Euphoria 编程语言编写的�
 
 ## 参考 ＃＃
 
-* [快速欣快](https://www.rapideuphoria.com/)
 * [OpenEuphoria 论坛](https://openeuphoria.org/forum/index.wc)
-

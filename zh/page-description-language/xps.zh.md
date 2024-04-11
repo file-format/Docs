@@ -48,7 +48,7 @@ XPS 格式由定义文档组成和每个页面的视觉外观的 XML 标记以�
 
 XPS 文档格式包括一组明确定义的部分和关系，每个部分和关系都实现了文档中的特定目的。该格式还扩展了包功能，包括数字签名、缩略图和交错。
 
-典型的 XPS 文档如下所示，可以根据 XPS 文件格式 [规范](https://www.ecma-international.org/activities/XML%20Paper%20Specification/XPS%20Standard.pdf) 进行分析。
+典型的 XPS 文档如下所示，可以根据 XPS 文件格式 规范 进行分析。
 
 {{< figure src="../XPS-2.png" alt="XPS 文件格式" >}}
 

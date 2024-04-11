@@ -72,4 +72,3 @@ Microsoft Access 是一个关系数据库管理系统 (RDBMS)，是 Microsoft Of
 ＃＃ 参考
 
 * [访问规范](https://support.microsoft.com/en-us/office/access-specations-0cf3c66f-9cf2-4e32-9568-98c1025bb47c)
-* [非官方 MDB 指南](http://jabakobob.net/mdb/)

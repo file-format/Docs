@@ -20,7 +20,7 @@
 
 ## 什么是一 .sav 文件？
 
-.sav 扩展名是 Nintendo DS 保存的游戏文件，可以在 [DeSmuME](http://desmume.org/) 和 [NO$GBA](https://www. nogba.com/)。这些文件保存游戏的当前状态，然后可以将其加载到任天堂模拟器中。 SAV 文件中存储的信息包括游戏角色名称、经验值、已完成关卡和游戏内资源。 SAV 文件可以加载到仿真器中，但 SAV 文件版本的差异会导致仿真器产生错误。 SAV 文件可以用 DeSmuME 和 NO$GBA 模拟器打开。
+.sav 扩展名是 Nintendo DS 保存的游戏文件，可以在 DeSmuME 和 [NO$GBA](https://www. nogba.com/)。这些文件保存游戏的当前状态，然后可以将其加载到任天堂模拟器中。 SAV 文件中存储的信息包括游戏角色名称、经验值、已完成关卡和游戏内资源。 SAV 文件可以加载到仿真器中，但 SAV 文件版本的差异会导致仿真器产生错误。 SAV 文件可以用 DeSmuME 和 NO$GBA 模拟器打开。
 
 ## SAV 文件格式 - 更多信息
 
@@ -28,6 +28,5 @@ Nintendo DS SAVE 文件以二进制文件格式保存到光盘。尽管这些不
 
 ## 参考
 
-* [DeSmuME](http://desmume.org/)
 * [NO$GBA](https://www.nogba.com/)
 

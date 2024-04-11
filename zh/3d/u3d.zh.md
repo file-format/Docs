@@ -67,5 +67,5 @@ U3D 文件包含一系列块。每个 U3D 文件中有 3 种不同类型的块�
 ## 参考 ＃＃
 
 * [U3D 文件格式 - 维基百科](https://en.wikipedia.org/wiki/Universal_3D)
-* [ECMA U3D 文件格式规范](https://www.ecma-international.org/publications/standards/Ecma-363.htm)
+* [ECMA U3D File Format Specifications](https://www.ecma-international.org/publications-and-standards/standards/ecma-363/)
 

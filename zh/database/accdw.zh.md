@@ -28,6 +28,5 @@ ACCDW 文件是一个 XML 文件，它提供指向托管 Access Services 的 Sha
 ## 参考
 
 * [Access 2016 规范](https://support.microsoft.com/en-us/office/access-specifications-0cf3c66f-9cf2-4e32-9568-98c1025bb47c)
-* [下载 .accdw 文件](https://social.technet.microsoft.com/Forums/en-US/7bf02e9e-6246-44da-9513-4cf8f2cc2fb2/downloaded-accdw-file)
 * [我应该使用哪种 Access 文件格式？](https://support.microsoft.com/en-us/office/which-access-file-format-should-i-use-012d9ab3-d14c-479e-b617-be66f9070b41)
 

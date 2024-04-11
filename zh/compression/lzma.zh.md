@@ -54,6 +54,4 @@ LZMA 文件有一个 13 字节的标头，后跟 LZMA 压缩数据。 LZMA 标�
 
 ## 参考
 
-* [LZMA 文件格式](https://svn.python.org/projects/external/xz-5.0.3/doc/lzma-file-format.txt)
 * [Lempel-Ziv-Markov链算法](https://en.wikipedia.org/wiki/Lempel%E2%80%93Ziv%E2%80%93Markov_chain_algorithm)
-

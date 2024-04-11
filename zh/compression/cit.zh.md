@@ -28,8 +28,3 @@ CIT 文件以压缩文件格式保存到光盘。它使用标准的 ZIP 压缩�
 ### 关于 In8
 
 In8 是一家软件公司，擅长开发用于记录和报告刑事调查报告的应用程序。
-
-## 参考
-
-* [In8Cite](https://www.in8development.com/in8cite-2/)
-
