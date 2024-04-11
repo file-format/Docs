@@ -42,6 +42,4 @@ Các chương trình mở hoặc tham chiếu tệp FS bao gồm
 - **Microsoft Visual Studio 2022** (Miễn phí) cho Windows
 
 ## Người giới thiệu
-* [F Sharp (ngôn ngữ lập trình)](https://en.wikipedia.org/wiki/F_Sharp_(programming_lingu))
-
-
+* [F Sharp (programming language)](https://en.wikipedia.org/wiki/F_Sharp_(programming_language))

@@ -21,7 +21,7 @@
 
 Tệp FMW là tệp dự án được tạo bằng phần mềm FME Workbench (là một phần của bộ FME Desktop) được sử dụng để chuyển đổi dữ liệu không gian. Nó chứa các cài đặt do người dùng xác định được sử dụng để thao tác dữ liệu không gian, chẳng hạn như bộ dữ liệu đầu vào, thuộc tính dịch, phép chiếu và cài đặt đầu ra. Cài đặt thao tác dữ liệu không gian được lưu trữ dưới dạng bố cục trực quan và dễ dàng chỉnh sửa và lưu lại.
 
-Bạn có thể mở tệp FMW bằng cách sử dụng [Safe Software FME Desktop](https://www.safe.com/fme/fme-desktop/).
+Bạn có thể mở tệp FMW bằng cách sử dụng [Safe Software FME Desktop](https://fme.safe.com/platform/).
 
 ## Định dạng tệp FMW - Thông tin thêm
 
@@ -70,7 +70,7 @@ Các tệp FMW được lưu vào đĩa dưới dạng tệp nhị phân và ch�
 
 ## Người giới thiệu
 
-* [Phần mềm an toàn dành cho máy tính để bàn FME](https://www.safe.com/fme/fme-desktop/)
+* [Phần mềm an toàn dành cho máy tính để bàn FME](https://fme.safe.com/platform/)
 
 * [FMW Quick Facts](https://docs.safe.com/fme/html/FME_Desktop_Documentation/FME_ReadersWriters/fmw/quick_facts_fmw.htm)
 

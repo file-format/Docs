@@ -23,7 +23,7 @@ Tệp có phần mở rộng .qt là tệp chứa đa phương tiện được k
 
 ## Định dạng tệp QT
 
-QTFF là hướng đối tượng, hiển thị một bộ sưu tập các đối tượng linh hoạt để dễ phân tích cú pháp và mở rộng. Mỗi bản nhạc trong tệp QT chứa luồng phương tiện được mã hóa kỹ thuật số hoặc tham chiếu dữ liệu đến luồng phương tiện nằm trong tệp khác. Cấu trúc dữ liệu phân cấp bao gồm các đối tượng được gọi là nguyên tử hoạt động như các thùng chứa theo dõi. Thông số định dạng tệp cho [Định dạng tệp QT](https://developer.apple.com/library/archive/documentation/QuickTime/QTFF/QTFFPreface/qtffPreface.html) được Apple Inc cung cấp chính thức để nhà phát triển tham khảo.
+QTFF là hướng đối tượng, hiển thị một bộ sưu tập các đối tượng linh hoạt để dễ phân tích cú pháp và mở rộng. Mỗi bản nhạc trong tệp QT chứa luồng phương tiện được mã hóa kỹ thuật số hoặc tham chiếu dữ liệu đến luồng phương tiện nằm trong tệp khác. Cấu trúc dữ liệu phân cấp bao gồm các đối tượng được gọi là nguyên tử hoạt động như các thùng chứa theo dõi. Thông số định dạng tệp cho [Định dạng tệp QT](https://developer.apple.com/documentation/quicktime-file-format) được Apple Inc cung cấp chính thức để nhà phát triển tham khảo.
 
 ### Mô tả phương tiện
 
@@ -55,6 +55,6 @@ Các tệp QT/MOV bao gồm các đoạn liên tiếp. Mỗi đoạn có tiêu �
 
 ## Người giới thiệu ##
 
-* [Định dạng tệp QT - Apple Inc.](https://developer.apple.com/library/archive/documentation/QuickTime/QTFF/QTFFPreface/qtffPreface.html)
+* [Định dạng tệp QT - Apple Inc.](https://developer.apple.com/documentation/quicktime-file-format)
 * [Định dạng tệp QuickTime - Wikipedia](https://en.wikipedia.org/wiki/QuickTime_File_Format)
 

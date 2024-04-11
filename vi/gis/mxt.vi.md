@@ -27,6 +27,5 @@ Tệp MXT được lưu dưới dạng tệp nhị phân nhưng chi tiết cấu
 
 ## Người giới thiệu
 
-* [Sử dụng mẫu MXD](https://desktop.arcgis.com/en/arcmap/10.3/map/page-layouts/USE-mxd-templates.htm)
-
+* [Using MXD Templates](https://desktop.arcgis.com/en/arcmap/10.3/map/page-layouts/using-mxd-templates.htm)
 

@@ -20,7 +20,7 @@
 
 ## Tệp SAV là gì?
 
-Tệp có phần mở rộng .sav là tệp trò chơi đã lưu trên Nintendo DS có thể được tải trong Trình giả lập trò chơi Nintendo DS, chẳng hạn như [DeSmuME](http://desmume.org/) và [NO$GBA](https://www. nogba.com/). Các tệp này lưu trạng thái hiện tại của trò chơi, sau đó có thể được tải trong trình giả lập Nintendo. Thông tin được lưu trữ trong tệp SAV bao gồm tên nhân vật trò chơi, điểm kinh nghiệm, cấp độ đã hoàn thành và tài nguyên trong trò chơi. Các tệp SAV có thể được tải trong trình giả lập nhưng sự khác biệt về phiên bản của tệp SAV có thể dẫn đến việc tạo ra lỗi ở trình giả lập. Các tệp SAV có thể được mở bằng trình giả lập DeSmuME và NO$GBA.
+Tệp có phần mở rộng .sav là tệp trò chơi đã lưu trên Nintendo DS có thể được tải trong Trình giả lập trò chơi Nintendo DS, chẳng hạn như DeSmuME và [NO$GBA](https://www. nogba.com/). Các tệp này lưu trạng thái hiện tại của trò chơi, sau đó có thể được tải trong trình giả lập Nintendo. Thông tin được lưu trữ trong tệp SAV bao gồm tên nhân vật trò chơi, điểm kinh nghiệm, cấp độ đã hoàn thành và tài nguyên trong trò chơi. Các tệp SAV có thể được tải trong trình giả lập nhưng sự khác biệt về phiên bản của tệp SAV có thể dẫn đến việc tạo ra lỗi ở trình giả lập. Các tệp SAV có thể được mở bằng trình giả lập DeSmuME và NO$GBA.
 
 ## Định dạng tệp SAV - Thông tin thêm
 
@@ -28,6 +28,4 @@ Các tệp SAVE của Nintendo DS được lưu vào đĩa ở định dạng t�
 
 ## Người giới thiệu
 
-* [DeSmuME](http://desmume.org/)
 * [KHÔNG$GBA](https://www.nogba.com/)
-

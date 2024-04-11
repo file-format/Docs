@@ -29,6 +29,5 @@ Các tệp PMF giới hạn mức độ dữ liệu mà người dùng có thể
 
 ## Người giới thiệu
 
-* [Cách thực hiện: Định cấu hình PMF để mở trong ArcMap](https://support.esri.com/en/technology-article/000011615)
-
+* [How To: Configure a PMF to open in ArcMap](https://support.esri.com/en/technical-article/000011615)
 

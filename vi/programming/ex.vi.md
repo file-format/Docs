@@ -37,6 +37,4 @@ Các tệp EX được lưu trữ dưới dạng tệp văn bản thuần túy v
 
 ## Tài liệu tham khảo ##
 
-* [Hưng phấn nhanh](https://www.rapideuphoria.com/)
 * [Diễn đàn OpenEuphoria](https://openeuphoria.org/forum/index.wc)
-

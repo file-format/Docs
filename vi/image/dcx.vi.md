@@ -23,5 +23,3 @@ Tệp DCX là tệp hình ảnh bao gồm nhiều trang để tạo tệp fax k�
 ## Người giới thiệu
 
 * [PCX - Theo Wikipedia](https://en.wikipedia.org/wiki/PCX)
-* [Hướng dẫn tham khảo kỹ thuật định dạng tệp ZSoft PCX](http://qzx.com/pc-gpe/pcx.txt)
-

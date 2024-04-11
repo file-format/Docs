@@ -27,7 +27,7 @@ Tệp .dbs, cụ thể là các tệp có phần mở rộng SQLBase, đề cậ
 Định dạng tệp .dbs của SQLBase là độc quyền, nó chỉ có thể được truy cập hoặc sửa đổi bằng các công cụ được liên kết cụ thể với SQLBase. Dữ liệu được lưu trữ trong tệp .dbs có thể được xuất sang các định dạng khác như .csv và .xls để sao lưu hoặc di chuyển sang các hệ thống quản lý cơ sở dữ liệu khác.
 
 ## Người giới thiệu
-* [SQLBase RDBMS - Gupta Technologies](https://en.wikipedia.org/wiki/Gupta_Technology)
+* [SQLBase RDBMS - Gupta Technologies](https://en.wikipedia.org/wiki/Gupta_Technologies)
 
 
 

@@ -32,8 +32,3 @@ Các tệp AVL được lưu ở định dạng tệp văn bản thuần túy. �
  * **Sự khác biệt về định dạng tệp** - .lyr là tệp nhị phân trong khi .avl là tệp văn bản
  * **Sự khác biệt về nội dung** - Tệp .lyr chứa nhiều thông tin hơn tệp .avl. Tệp AVL chỉ lưu trữ thông tin về ký hiệu, trong khi tệp LYR lưu trữ tất cả thông tin có sẵn trong hộp thoại thuộc tính lớp trong ArcMap.
 
-## Người giới thiệu
-
-* [Sự khác biệt giữa tệp .lyr và .avl](https://support.esri.com/en/technology-article/000005936)
-
-

@@ -74,7 +74,3 @@ Dưới đây là một số cài đặt có thể được lưu trữ trong t�
 - **Các tùy chọn khác:** Có nhiều tùy chọn khác có thể được đặt trong tệp PC3, chẳng hạn như chất lượng in, hướng, lề, bóng và hơn thế nữa.
 
 Bằng cách tạo và sử dụng tệp PC3 có chứa các cài đặt chính xác cho máy in hoặc máy vẽ cụ thể của bạn, bạn có thể đảm bảo rằng bản vẽ của mình được in hoặc vẽ chính xác và có chất lượng ổn định.
-
-## Người giới thiệu
-* [PC3 trong AutoCAD](https://www.autodesk.com/support/technology/article/caas/sfdcarticles/sfdcarticles/Creating-plotter-configuration-files-PC3.html)
-

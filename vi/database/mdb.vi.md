@@ -40,5 +40,3 @@ Một cơ sở dữ liệu Microsoft Access duy nhất có thể bao gồm nhi�
 ## Người giới thiệu ##
 
 * [Thông số truy cập](https://support.microsoft.com/en-us/office/access-specifications-0cf3c66f-9cf2-4e32-9568-98c1025bb47c)
-* [Hướng dẫn MDB không chính thức](http://jabakobob.net/mdb/)
-

@@ -30,9 +30,4 @@ Tệp THM chứa tệp XML, một số tệp hình ảnh có định dạng [.pn
 
 ## Làm cách nào để tạo Chủ đề Sony Ericsson?
 
-Phần mềm Sony Themes Creator có thể được sử dụng để tạo các chủ đề mới cho điện thoại di động Sony Ericsson. Người dùng có thể làm theo [Hướng dẫn dành cho nhà phát triển Trình tạo chủ đề] của Sony (https://developer.sony.com/theme-creator/get-started) để tạo chủ đề.
-
-## Người giới thiệu
-
-* [Hướng dẫn dành cho nhà phát triển Sony Themes Creator](https://developer.sony.com/theme-creator/get-started)
-
+Phần mềm Sony Themes Creator có thể được sử dụng để tạo các chủ đề mới cho điện thoại di động Sony Ericsson. Người dùng có thể làm theo [Hướng dẫn dành cho nhà phát triển Trình tạo chủ đề] của Sony để tạo chủ đề.

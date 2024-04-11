@@ -48,7 +48,7 @@ Các tệp này giữ lại nội dung tài liệu theo cách chẳng hạn như
 
 Định dạng Tài liệu XPS bao gồm một tập hợp các phần và mối quan hệ được xác định rõ ràng, mỗi phần đáp ứng một mục đích cụ thể trong tài liệu. Định dạng này cũng mở rộng các tính năng của gói, bao gồm chữ ký điện tử, hình thu nhỏ và xen kẽ.
 
-Một tài liệu XPS điển hình trông như sau và có thể được phân tích theo định dạng tệp XPS [thông số kỹ thuật](https://www.ecma-international.org/activities/XML%20Paper%20Specification/XPS%20Standard.pdf).
+Một tài liệu XPS điển hình trông như sau và có thể được phân tích theo định dạng tệp XPS thông số kỹ thuật.
 
 {{< figure src="../XPS-2.png" alt="Định dạng tệp XPS" >}}
 

@@ -28,9 +28,3 @@ Các tệp CIT được lưu vào đĩa ở định dạng tệp nén. Nó sử 
 ### Giới thiệu về In8
 
 In8 là một công ty phần mềm có chuyên môn trong việc phát triển các ứng dụng dùng để ghi lại và báo cáo các báo cáo điều tra tội phạm.
-
-## Người giới thiệu
-
-* [In8Cite](https://www.in8development.com/in8cite-2/)
-
-

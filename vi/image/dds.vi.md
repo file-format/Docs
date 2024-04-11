@@ -43,5 +43,4 @@ DDS_HEADER          header;
 ## Người giới thiệu
 
 * [DDS - Theo Wikipedia](https://en.wikipedia.org/wiki/DirectDraw_Surface)
-* [Hướng dẫn tham khảo kỹ thuật định dạng tệp ZSoft PCX](http://qzx.com/pc-gpe/pcx.txt)
 

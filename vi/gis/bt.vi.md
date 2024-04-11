@@ -28,8 +28,3 @@ Các tệp BT được lưu vào đĩa ở định dạng tệp nhị phân mà 
 ### Làm cách nào để mở tệp BT?
 
 Bạn có thể sử dụng các ứng dụng phần mềm GIS như QGIS, ArcGIS và Global Mapper để mở tệp BT. Sau khi mở, bạn có thể xem và phân tích thông tin địa hình bên trong tệp BT.
-
-## Người giới thiệu
-
-* [/gis/](https://support.esri.com/en/technology-article/000005936)
-
