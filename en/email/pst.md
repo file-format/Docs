@@ -33,7 +33,7 @@ PST file formats are categorised in two types based on the encoding of file type
 
 At the base of PST file format lies B-Tree that keeps data sorted and allows searches, sequential access, insertions, deletions etc. in logarithmic time. The overall structure of a PST file is organized in three layers.
 
-![Logical layers of a PST file](../email/PST-1.png "Logical layers of a PST file")
+![Logical layers of a PST file](/email/PST-1.png "Logical layers of a PST file")
 
 `Node Database (NDB) Layer` - Node database layer lies at the lower level of a PST file and include database of nodes. These nodes actually represent lower-level storage facilities of the PST file format. NDB layer comprises of header, file allocation information, blocks, and BTrees (Node BTree and Block BTree) from storage point of view. Nodes and Blocks of NDB Layer are linked via Data BID which is one of the four properties of Node reference i.e. NID (Node ID), Parent NID, Data BID (Block BID) and SubNode BID.
 
@@ -48,7 +48,7 @@ At the base of PST file format lies B-Tree that keeps data sorted and allows sea
 
 High level of file organization of PST file is as shown in the figure below. This is just an overview of different concepts from logical elements of PST file.
 
-![Physical organization of the PST file format](../email/PST-2.png "Physical organization of the PST file format")
+![Physical organization of the PST file format](/email/PST-2.png "Physical organization of the PST file format")
 
 
 #### PST Header Information
