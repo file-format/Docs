@@ -46,3 +46,4 @@ The .arsc extension files are binary files generated after the compiler, such as
 ## References
 
 * [Binary Resource Table Structure](https://stackoverflow.com/questions/27548810/android-compiled-resources-resources-arsc)
+* [Take Screenshot on Android](https://how-to-take-screenshot.com/)

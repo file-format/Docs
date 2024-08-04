@@ -43,3 +43,4 @@ PKR are binary files that are compressed to reduce the overall file size. Since 
 
 * [Flat Package File Format](http://s.sudre.free.fr/Stuff/Ivanhoe/FLAT.html)
 * [PKG - Wikipedia](https://en.wikipedia.org/wiki/.pkg)
+* [Screenshot on iPhone 7](https://how-to-take-screenshot.com/take-screenshot-on-iphone-7/)

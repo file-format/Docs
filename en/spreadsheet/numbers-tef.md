@@ -37,4 +37,4 @@ The Mac OS or iOS versions of Numbers open the **.numbers-tef** without any issu
 ## References ##
 
 * [Why is it when I save in Numbers, the file extension is .numbers-tef](https://ifelix.co.uk/tech/iwork/numbers/numbers001.html)
-
+* [How to take screenshot on Mac OS?](https://how-to-take-screenshot.com/mac/)

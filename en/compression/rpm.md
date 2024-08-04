@@ -44,3 +44,4 @@ An RPM file is a binary that can contain a set of files. Most of the times, RPM 
 
 * [RPM - Wikipedia](https://rpm.org)
 * [RPM Documentation](https://rpm.org/documentation.html)
+* [Screenshot Linux Mint](https://how-to-take-screenshot.com/take-screenshot-on-linux-mint/)

@@ -50,7 +50,7 @@ APNG files are stored as binary files on disc and use the extended specification
 
 {{< figure src="../APNG.png" alt="Animated PNG - APNG File Format" >}}
 
-APNG is backward compatible with PNG as the lateral's specifications were designed in such a way that an application reading a PNG file is supposed to simply ignore the chunks which it does not understand. Specifications regarding bit depth, color type, compression, filters, interlace methods, and palette information are used the same as that of default PNG format.
+APNG is backward compatible with PNG as the lateral's specifications were designed in such a way that an application reading a PNG file is supposed to simply ignore the chunks which it does not understand. Specifications regarding bit depth, color type, compression, filters, interlace methods, and palette information are used the same as that of default PNG format. When you [take a screenshot on Mac](https://how-to-take-screenshot.com/mac/), it is saved as PNG file by default. 
 
 ## APNG vs GIF
 

@@ -29,7 +29,7 @@
 
 # What is a BMP file? #
 
-Files having extension .BMP represent Bitmap Image files that are used to store bitmap digital images. These images are independent of graphics adapter and are also called device independent bitmap (DIB) file format. This independency serves the purpose of opening the file on multiple platforms such as Microsoft Windows and Mac. The BMP file format can store data as two-dimensional digital images  in both monochrome as well as color format with various colour depths.
+Files having extension .BMP represent Bitmap Image files that are used to store bitmap digital images. These images are independent of graphics adapter and are also called device independent bitmap (DIB) file format. This independency serves the purpose of opening the file on multiple platforms such as Microsoft Windows and Mac. The BMP file format can store data as two-dimensional digital images in both monochrome as well as color format with various colour depths.
 
 ## BMP File Format Specifications ##
 
@@ -93,3 +93,4 @@ The image is actually described by the 32-bit DWORDs representation of the pixel
 
 * [Windows MetaFile Format](https://learn.microsoft.com/en-us/openspecs/windows_protocols/ms-wmf/4813e7fd-52d0-4f42-965f-228c8b7488d2)
 * [BMP File Format](https://en.wikipedia.org/wiki/BMP_file_format)
+* [Take Screenshot in Windows](https://how-to-take-screenshot.com/windows/)

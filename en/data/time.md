@@ -23,7 +23,7 @@ TIME file format was used by a web system called LIGHT, which helped users recor
 
 ## How to Find Out When a File Was Created in Linux
 
-In Linux, you can use the `stat` command to find out when a file was created. Here is how you can do it:
+In Linux and al its variants like Ubuntu, Fedora, Linux Mint, etc. you can use the `stat` command to find out when a file was created. Here is how you can do it:
 
 Open a terminal and type the following command:
 
@@ -53,3 +53,7 @@ Change: 2024-01-31 12:34:56.789012345 +0000
 ```
 
 In this example, the "Birth" time indicates when the file was created.
+
+## References
+
+* [Take Screenshot on Linux Mint](https://how-to-take-screenshot.com/take-screenshot-on-linux-mint/)

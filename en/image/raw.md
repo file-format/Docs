@@ -65,3 +65,4 @@ The format of RAW file is binary format.
 
 ## References
 * [Raw image format](https://en.wikipedia.org/wiki/Raw_image_format)
+* [Take Screenshot on Windows 10](https://how-to-take-screenshot.com/take-screenshot-on-windows-10/)

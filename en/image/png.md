@@ -41,6 +41,8 @@ The main reason behind the creation of PNG file format was the patented compress
 * November 2003: PNG became an International Standard (ISO/IEC 15948:2003). This version of PNG differs only slightly from version 1.2 and adds no new chunks.
 * March 2004: ISO/IEC 15948:2004
 
+PNG is popular file format now and it is used as default file format when you take screenshot on Mac and other operating systems.
+
 ## Functional Comparison of GIF and PNG
 
 PNG file format was designed to be simple and portable, legally unencumbered, interchangeable, flexible and robust. The following table lists the GIF features that are inherited by PNG file format in addition to new features.
@@ -115,3 +117,4 @@ When the image is interlaced, each pass of the interlace pattern is treated as a
 ## References ##
 
 * [PNG - Home Page](http://www.libpng.org/pub/png/)
+* [Take Screenshot on Mac](https://how-to-take-screenshot.com/mac/)

@@ -72,3 +72,7 @@ A JPEG image is represented as a sequence of segments where each segment begins 
 |EOI|0xFF, 0xD9|none|End Of Image|
 
 Within the entropy-coded data, after any 0xFF byte, a 0x00 byte is inserted by the encoder before the next byte, so that there does not appear to be a marker where none is intended, preventing framing errors. Decoders must skip this 0x00 byte. This technique, called [byte stuffing](https://en.wikipedia.org/wiki/Byte_stuffing) (see JPEG specification section F.1.2.3), is only applied to the entropy-coded data, not to marker payload data. Note however that entropy-coded data has a few markers of its own; specifically the Reset markers (0xD0 through 0xD7), which are used to isolate independent chunks of entropy-coded data to allow parallel decoding, and encoders are free to insert these Reset markers at regular intervals (although not all encoders do this).
+
+## References
+
+ * [Take Screenshot on Mac](https://how-to-take-screenshot.com/mac/)

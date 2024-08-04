@@ -34,3 +34,4 @@ A HYPE file is created when you are using the Hype application to create web con
 ## References
 
 * [Tumult Hype](https://tumult.com/hype/)
+* [Take Screenshot on iPhone 5](https://how-to-take-screenshot.com/take-screenshot-on-iphone-5/)

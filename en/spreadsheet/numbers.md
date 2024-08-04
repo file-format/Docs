@@ -65,4 +65,5 @@ Here is the list of some salient features offered by IWork Numbers:
 
 * [Numbers (spreadsheet) - Wikipedia](https://en.wikipedia.org/wiki/Numbers_(spreadsheet))
 * [Numbers brings your data to life](https://www.apple.com/numbers/)
+* [Take Screenshot on iOS and iPadOS](https://how-to-take-screenshot.com/ios-ipados/)
 

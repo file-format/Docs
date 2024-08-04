@@ -90,3 +90,4 @@ The WebP file, in this case, consists of:
 
 * [WebP Developer's Reference - By Google](https://developers.google.com/speed/webp/)
 * [WebP File Format - By Wikipedia](https://en.wikipedia.org/wiki/WebP)
+* [How to Take Screenshot on iPhone 4?](https://how-to-take-screenshot.com/take-screenshot-on-iphone-4/)

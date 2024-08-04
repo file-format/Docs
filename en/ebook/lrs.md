@@ -36,3 +36,4 @@ LRS files are based on [XML](/web/xml/) file format and its specifications are a
 ## References
 
 * [BBeB - By Wikipedia](https://en.wikipedia.org/wiki/BBeB)
+* [Linux Mint Screenshots](https://how-to-take-screenshot.com/take-screenshot-on-linux-mint/)

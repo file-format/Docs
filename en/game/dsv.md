@@ -61,7 +61,7 @@ On macOS, you can find DeSmuME save files in following directory:
 
 **Linux:**
 
-On Linux, the save files for DeSmuME are usually located in a directory similar to the following:
+On Linux and its variations like Ubuntu, Mint, etc. the save files for DeSmuME are usually located in a directory similar to the following:
 
 ```
 /home/YourUsername/.config/desmume
@@ -74,3 +74,7 @@ Please replace "YourUsername" with your actual username.
 Here is the list of programs that open DSV file
 
 - **DeSmuME** (Free) for (Windows, Mac, Linux)
+
+## References
+
+ * [Take Screenshot on Linux Mint](https://how-to-take-screenshot.com/take-screenshot-on-linux-mint/)
