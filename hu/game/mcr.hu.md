@@ -31,11 +31,11 @@ A Minecraft MCR fájlformátumban a régió a játékvilág 32x32-es blokkterül
 
 ## Az MCR fájlformátum specifikációi
 
-Az MCR fájlformátum specifikációi nyilvánosan elérhetők. Az NBT formátum specifikációi, amelyeken az MCR formátum alapul, elérhetők a Minecraft Forge webhelyén. Ezenkívül a [Minecraft Wiki](https://minecraft.fandom.com/wiki/Region_file_format) részletes információkat tartalmaz az MCR fájlformátumról, beleértve annak szerkezetét és a támogatott különféle adattípusokat.
+Az MCR fájlformátum specifikációi nyilvánosan elérhetők. Az NBT formátum specifikációi, amelyeken az MCR formátum alapul, elérhetők a Minecraft Forge webhelyén. Ezenkívül a [Minecraft Wiki](https://minecraft.wiki/w/Region_file_format) részletes információkat tartalmaz az MCR fájlformátumról, beleértve annak szerkezetét és a támogatott különféle adattípusokat.
 
 ### Tömörített adatok az MCR-fájlokban
 
-A Minecraft MCR fájlformátum támogatja a tömörítést. Az MCR fájlformátum a The [NBT format](https://minecraft.fandom.com/wiki/NBT_format)-on alapul, amely lehetővé teszi az adatok tömörített formában történő tárolását. Ez segít csökkenteni az MCR-fájlok méretét, és hatékonyabbá teszi az átvitelt és tárolásukat. Ez az MCR fájlformátum egyik fontos jellemzője, mivel lehetővé teszi a játékosok számára, hogy nagyméretű Minecraft World terepadatokat osszanak meg másokkal.
+A Minecraft MCR fájlformátum támogatja a tömörítést. Az MCR fájlformátum a The [NBT format](https://minecraft.wiki/w/NBT_format)-on alapul, amely lehetővé teszi az adatok tömörített formában történő tárolását. Ez segít csökkenteni az MCR-fájlok méretét, és hatékonyabbá teszi az átvitelt és tárolásukat. Ez az MCR fájlformátum egyik fontos jellemzője, mivel lehetővé teszi a játékosok számára, hogy nagyméretű Minecraft World terepadatokat osszanak meg másokkal.
 
 ## Hivatkozások
 
@@ -43,8 +43,8 @@ A Minecraft MCR fájlformátum támogatja a tömörítést. Az MCR fájlformátu
 
 * [A Minecraftról](https://www.minecraft.net/)
 
-* [Region File Format](https://minecraft.fandom.com/wiki/Region_file_format)
+* [Region File Format](https://minecraft.wiki/w/Region_file_format)
 
-* [NBT formátum](https://minecraft.fandom.com/wiki/NBT_format)
+* [NBT formátum](https://minecraft.wiki/w/NBT_format)
 
 

@@ -30,16 +30,16 @@ MCR 文件格式的结构是一系列命名的二进制标签，每个标签都�
 
 ## MCR 文件格式规范
 
-MCR 文件格式规范是公开可用的。 MCR 格式所基于的 NBT 格式规范可在 Minecraft Forge 网站上找到。此外，[Minecraft Wiki](https://minecraft.fandom.com/wiki/Region_file_format) 也有关于 MCR 文件格式的详细信息，包括它的结构和它支持的各种数据类型。
+MCR 文件格式规范是公开可用的。 MCR 格式所基于的 NBT 格式规范可在 Minecraft Forge 网站上找到。此外，[Minecraft Wiki](https://minecraft.wiki/w/Region_file_format) 也有关于 MCR 文件格式的详细信息，包括它的结构和它支持的各种数据类型。
 
 ### MCR 文件中的压缩数据
 
-Minecraft MCR 文件格式支持压缩。 MCR 文件格式基于允许数据以压缩形式存储的 [NBT 格式](https://minecraft.fandom.com/wiki/NBT_format)。这有助于减小 MCR 文件的大小并提高它们的传输和存储效率。这是 MCR 文件格式的一个重要特征，因为它允许玩家与其他人共享大型 Minecraft World 地形数据。
+Minecraft MCR 文件格式支持压缩。 MCR 文件格式基于允许数据以压缩形式存储的 [NBT 格式](https://minecraft.wiki/w/NBT_format)。这有助于减小 MCR 文件的大小并提高它们的传输和存储效率。这是 MCR 文件格式的一个重要特征，因为它允许玩家与其他人共享大型 Minecraft World 地形数据。
 
 ## 参考
 
 * [我的世界世界编辑器](https://www.mcedit.net/)
 * [关于我的世界](https://www.minecraft.net/)
-* [区域文件格式](https://minecraft.fandom.com/wiki/Region_file_format)
-* [NBT格式](https://minecraft.fandom.com/wiki/NBT_format)
+* [区域文件格式](https://minecraft.wiki/w/Region_file_format)
+* [NBT格式](https://minecraft.wiki/w/NBT_format)
 

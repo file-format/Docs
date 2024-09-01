@@ -71,6 +71,6 @@ Kad esat instalējis programmu MCEdit, varat atvērt Anvil reģiona failu, veico
 
 * [Par Minecraft](https://www.minecraft.net/)
 
-* [Reģiona faila formāts](https://minecraft.fandom.com/wiki/Region_file_format)
+* [Reģiona faila formāts](https://minecraft.wiki/w/Region_file_format)
 
 

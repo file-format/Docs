@@ -71,6 +71,6 @@ Galite atidaryti ir redaguoti MCA failus naudodami MCEdit programą, kuri yra ne
 
 * [Apie „Minecraft“](https://www.minecraft.net/)
 
-* [Regiono failo formatas](https://minecraft.fandom.com/wiki/Region_file_format)
+* [Regiono failo formatas](https://minecraft.wiki/w/Region_file_format)
 
 

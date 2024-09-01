@@ -71,6 +71,6 @@ Zodra MCEdit is geïnstalleerd, kunt u uw Anvil-regiobestand openen door deze st
 
 * [Over Minecraft](https://www.minecraft.net/)
 
-* [Regio bestandsformaat](https://minecraft.fandom.com/wiki/Region_file_format)
+* [Regio bestandsformaat](https://minecraft.wiki/w/Region_file_format)
 
 

@@ -71,6 +71,6 @@ MCA Payload ประกอบด้วยชิ้นส่วนต่าง�
 
 * [เกี่ยวกับ Minecraft](https://www.minecraft.net/)
 
-* [รูปแบบไฟล์ภูมิภาค](https://minecraft.fandom.com/wiki/Region_file_format)
+* [รูปแบบไฟล์ภูมิภาค](https://minecraft.wiki/w/Region_file_format)
 
 

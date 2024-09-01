@@ -31,11 +31,11 @@
 
 ## Thông số định dạng tệp MCR
 
-Thông số định dạng tệp MCR được cung cấp công khai. Thông số kỹ thuật cho định dạng NBT, dựa trên định dạng MCR, có sẵn trên trang web Minecraft Forge. Ngoài ra, [Minecraft Wiki](https://minecraft.fandom.com/wiki/Region_file_format) còn có thông tin chi tiết về định dạng tệp MCR, bao gồm cấu trúc của nó và các loại dữ liệu khác nhau mà nó hỗ trợ.
+Thông số định dạng tệp MCR được cung cấp công khai. Thông số kỹ thuật cho định dạng NBT, dựa trên định dạng MCR, có sẵn trên trang web Minecraft Forge. Ngoài ra, [Minecraft Wiki](https://minecraft.wiki/w/Region_file_format) còn có thông tin chi tiết về định dạng tệp MCR, bao gồm cấu trúc của nó và các loại dữ liệu khác nhau mà nó hỗ trợ.
 
 ### Dữ liệu nén trong tệp MCR
 
-Định dạng tệp Minecraft MCR hỗ trợ nén. Định dạng tệp MCR dựa trên [NBT format](https://minecraft.fandom.com/wiki/NBT_format) cho phép dữ liệu được lưu trữ ở dạng nén. Điều này giúp giảm kích thước của tệp MCR và giúp việc truyền và lưu trữ chúng hiệu quả hơn. Đây là một tính năng quan trọng của định dạng tệp MCR, vì nó cho phép người chơi chia sẻ dữ liệu địa hình Thế giới Minecraft lớn với người khác.
+Định dạng tệp Minecraft MCR hỗ trợ nén. Định dạng tệp MCR dựa trên [NBT format](https://minecraft.wiki/w/NBT_format) cho phép dữ liệu được lưu trữ ở dạng nén. Điều này giúp giảm kích thước của tệp MCR và giúp việc truyền và lưu trữ chúng hiệu quả hơn. Đây là một tính năng quan trọng của định dạng tệp MCR, vì nó cho phép người chơi chia sẻ dữ liệu địa hình Thế giới Minecraft lớn với người khác.
 
 ## Người giới thiệu
 
@@ -43,8 +43,8 @@ Thông số định dạng tệp MCR được cung cấp công khai. Thông số
 
 * [Giới thiệu về Minecraft](https://www.minecraft.net/)
 
-* [Định dạng tệp khu vực](https://minecraft.fandom.com/wiki/Region_file_format)
+* [Định dạng tệp khu vực](https://minecraft.wiki/w/Region_file_format)
 
-* [Định dạng NBT](https://minecraft.fandom.com/wiki/NBT_format)
+* [Định dạng NBT](https://minecraft.wiki/w/NBT_format)
 
 

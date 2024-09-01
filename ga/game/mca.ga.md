@@ -71,6 +71,6 @@ Nuair a bheidh MCEdit suiteáilte agat, is féidir leat do chomhad réigiún Anv
 
 * [Maidir le Minecraft](https://www.minecraft.net/)
 
-* [Formáid Comhaid Réigiún](https://minecraft.fandom.com/wiki/Region_file_format )
+* [Formáid Comhaid Réigiún](https://minecraft.wiki/w/Region_file_format )
 
 

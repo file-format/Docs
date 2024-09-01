@@ -71,6 +71,6 @@ MCA Payload از تکه هایی تشکیل شده است که در آن هر د
 
 * [درباره Minecraft](https://www.minecraft.net/)
 
-* [فرمت فایل منطقه](https://minecraft.fandom.com/wiki/Region_file_format)
+* [فرمت فایل منطقه](https://minecraft.wiki/w/Region_file_format)
 
 

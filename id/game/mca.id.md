@@ -71,6 +71,6 @@ Setelah Anda menginstal MCEdit, Anda dapat membuka file wilayah Anvil Anda denga
 
 * [Tentang Minecraft](https://www.minecraft.net/)
 
-* [Format File Wilayah](https://minecraft.fandom.com/wiki/Region_file_format)
+* [Format File Wilayah](https://minecraft.wiki/w/Region_file_format)
 
 

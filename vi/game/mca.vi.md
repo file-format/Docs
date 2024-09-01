@@ -71,6 +71,6 @@ Khi bạn đã cài đặt MCEdit, bạn có thể mở tệp vùng Anvil của 
 
 * [Giới thiệu về Minecraft](https://www.minecraft.net/)
 
-* [Định dạng tệp khu vực](https://minecraft.fandom.com/wiki/Region_file_format)
+* [Định dạng tệp khu vực](https://minecraft.wiki/w/Region_file_format)
 
 

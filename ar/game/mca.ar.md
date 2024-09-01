@@ -68,4 +68,4 @@
 
 * [المحرر العالمي لماين كرافت](https://www.mcedit.net/)
 * [حول ماين كرافت](https://www.minecraft.net/)
-* [تنسيق ملف المنطقة](https://minecraft.fandom.com/wiki/Region_file_format)
+* [تنسيق ملف المنطقة](https://minecraft.wiki/w/Region_file_format)

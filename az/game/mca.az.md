@@ -71,6 +71,6 @@ MCEdit quraşdırdıqdan sonra bu addımları yerinə yetirərək Anvil region f
 
 * [Minecraft haqqında](https://www.minecraft.net/)
 
-* [Region Fayl Formatı](https://minecraft.fandom.com/wiki/Region_file_format)
+* [Region Fayl Formatı](https://minecraft.wiki/w/Region_file_format)
 
 

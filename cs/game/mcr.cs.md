@@ -31,11 +31,11 @@ Ve formátu souboru Minecraft MCR je region 32x32 bloková oblast herního svět
 
 ## Specifikace formátu souboru MCR
 
-Specifikace formátu souboru MCR jsou veřejně dostupné. Specifikace formátu NBT, na kterém je formát MCR založen, jsou k dispozici na webu Minecraft Forge. Kromě toho [Minecraft Wiki](https://minecraft.fandom.com/wiki/Region_file_format) také obsahuje podrobné informace o formátu souboru MCR, včetně jeho struktury a různých typů dat, které podporuje.
+Specifikace formátu souboru MCR jsou veřejně dostupné. Specifikace formátu NBT, na kterém je formát MCR založen, jsou k dispozici na webu Minecraft Forge. Kromě toho [Minecraft Wiki](https://minecraft.wiki/w/Region_file_format) také obsahuje podrobné informace o formátu souboru MCR, včetně jeho struktury a různých typů dat, které podporuje.
 
 ### Komprimovaná data v souborech MCR
 
-Formát souboru Minecraft MCR podporuje kompresi. Formát souboru MCR je založen na [NBT format](https://minecraft.fandom.com/wiki/NBT_format), který umožňuje ukládat data v komprimované podobě. To pomáhá zmenšit velikost souborů MCR a zefektivnit jejich přenos a ukládání. Toto je důležitá vlastnost formátu souboru MCR, protože umožňuje hráčům sdílet velká data terénu Minecraft World s ostatními.
+Formát souboru Minecraft MCR podporuje kompresi. Formát souboru MCR je založen na [NBT format](https://minecraft.wiki/w/NBT_format), který umožňuje ukládat data v komprimované podobě. To pomáhá zmenšit velikost souborů MCR a zefektivnit jejich přenos a ukládání. Toto je důležitá vlastnost formátu souboru MCR, protože umožňuje hráčům sdílet velká data terénu Minecraft World s ostatními.
 
 ## Reference
 
@@ -43,8 +43,8 @@ Formát souboru Minecraft MCR podporuje kompresi. Formát souboru MCR je založe
 
 * [O Minecraftu](https://www.minecraft.net/)
 
-* [Formát souboru regionu](https://minecraft.fandom.com/wiki/Region_file_format)
+* [Formát souboru regionu](https://minecraft.wiki/w/Region_file_format)
 
-* [Formát NBT](https://minecraft.fandom.com/wiki/NBT_format)
+* [Formát NBT](https://minecraft.wiki/w/NBT_format)
 
 

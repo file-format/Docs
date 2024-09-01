@@ -31,11 +31,11 @@
 
 ## מפרטי פורמט קובץ MCR
 
-מפרטי פורמט הקובץ של MCR זמינים לציבור. המפרטים של פורמט NBT, שעליו מבוסס פורמט MCR, זמינים באתר Minecraft Forge. בנוסף, ל-[Minecraft Wiki](https://minecraft.fandom.com/wiki/Region_file_format) יש גם מידע מפורט על פורמט קובץ ה-MCR, כולל המבנה שלו וסוגי הנתונים השונים שבהם הוא תומך.
+מפרטי פורמט הקובץ של MCR זמינים לציבור. המפרטים של פורמט NBT, שעליו מבוסס פורמט MCR, זמינים באתר Minecraft Forge. בנוסף, ל-[Minecraft Wiki](https://minecraft.wiki/w/Region_file_format) יש גם מידע מפורט על פורמט קובץ ה-MCR, כולל המבנה שלו וסוגי הנתונים השונים שבהם הוא תומך.
 
 ### נתונים דחוסים בקבצי MCR
 
-פורמט הקובץ Minecraft MCR תומך בדחיסה. פורמט קובץ MCR מבוסס על ה-[NBT format](https://minecraft.fandom.com/wiki/NBT_format) המאפשר לאחסן נתונים בצורה דחוסה. זה עוזר להפחית את הגודל של קבצי MCR ולהפוך אותם ליעילים יותר להעברה ואחסון. זוהי תכונה חשובה של פורמט הקובץ MCR, מכיוון שהיא מאפשרת לשחקנים לשתף נתוני שטח גדולים של Minecraft World עם אחרים.
+פורמט הקובץ Minecraft MCR תומך בדחיסה. פורמט קובץ MCR מבוסס על ה-[NBT format](https://minecraft.wiki/w/NBT_format) המאפשר לאחסן נתונים בצורה דחוסה. זה עוזר להפחית את הגודל של קבצי MCR ולהפוך אותם ליעילים יותר להעברה ואחסון. זוהי תכונה חשובה של פורמט הקובץ MCR, מכיוון שהיא מאפשרת לשחקנים לשתף נתוני שטח גדולים של Minecraft World עם אחרים.
 
 ## הפניות
 
@@ -43,8 +43,8 @@
 
 * [על Minecraft](https://www.minecraft.net/)
 
-* [פורמט קובץ אזור](https://minecraft.fandom.com/wiki/Region_file_format)
+* [פורמט קובץ אזור](https://minecraft.wiki/w/Region_file_format)
 
-* [פורמט NBT](https://minecraft.fandom.com/wiki/NBT_format)
+* [פורמט NBT](https://minecraft.wiki/w/NBT_format)
 
 

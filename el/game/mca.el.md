@@ -71,6 +71,6 @@
 
 * [Σχετικά με το Minecraft](https://www.minecraft.net/)
 
-* [Μορφή αρχείου περιοχής](https://minecraft.fandom.com/wiki/Region_file_format)
+* [Μορφή αρχείου περιοχής](https://minecraft.wiki/w/Region_file_format)
 
 

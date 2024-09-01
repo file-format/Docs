@@ -30,16 +30,16 @@ Minecraft MCR 파일 형식에서 영역은 게임 세계의 32x32 블록 영역
 
 ## MCR 파일 형식 사양
 
-MCR 파일 형식 사양은 공개적으로 사용할 수 있습니다. MCR 형식의 기반이 되는 NBT 형식의 사양은 Minecraft Forge 웹사이트에서 확인할 수 있습니다. 또한 [Minecraft Wiki](https://minecraft.fandom.com/wiki/Region_file_format)에는 구조 및 지원하는 다양한 데이터 유형을 포함하여 MCR 파일 형식에 대한 자세한 정보도 있습니다.
+MCR 파일 형식 사양은 공개적으로 사용할 수 있습니다. MCR 형식의 기반이 되는 NBT 형식의 사양은 Minecraft Forge 웹사이트에서 확인할 수 있습니다. 또한 [Minecraft Wiki](https://minecraft.wiki/w/Region_file_format)에는 구조 및 지원하는 다양한 데이터 유형을 포함하여 MCR 파일 형식에 대한 자세한 정보도 있습니다.
 
 ### MCR 파일의 압축 데이터
 
-Minecraft MCR 파일 형식은 압축을 지원합니다. MCR 파일 형식은 데이터를 압축된 형태로 저장할 수 있는 [NBT 형식](https://minecraft.fandom.com/wiki/NBT_format)을 기반으로 합니다. 이렇게 하면 MCR 파일의 크기를 줄이고 보다 효율적으로 전송하고 저장할 수 있습니다. 이는 플레이어가 다른 사람과 대규모 Minecraft World 지형 데이터를 공유할 수 있도록 하는 MCR 파일 형식의 중요한 기능입니다.
+Minecraft MCR 파일 형식은 압축을 지원합니다. MCR 파일 형식은 데이터를 압축된 형태로 저장할 수 있는 [NBT 형식](https://minecraft.wiki/w/NBT_format)을 기반으로 합니다. 이렇게 하면 MCR 파일의 크기를 줄이고 보다 효율적으로 전송하고 저장할 수 있습니다. 이는 플레이어가 다른 사람과 대규모 Minecraft World 지형 데이터를 공유할 수 있도록 하는 MCR 파일 형식의 중요한 기능입니다.
 
 ## 참조
 
 * [마인크래프트용 월드 에디터](https://www.mcedit.net/)
 * [Minecraft 소개](https://www.minecraft.net/)
-* [지역 파일 형식](https://minecraft.fandom.com/wiki/Region_file_format)
-* [NBT 형식](https://minecraft.fandom.com/wiki/NBT_format)
+* [지역 파일 형식](https://minecraft.wiki/w/Region_file_format)
+* [NBT 형식](https://minecraft.wiki/w/NBT_format)
 

@@ -31,11 +31,11 @@ Minecraft MCR fayl formatında bölgə oyun dünyasının 32x32 blok sahəsidir.
 
 ## MCR Fayl Formatının Xüsusiyyətləri
 
-MCR fayl formatının spesifikasiyası ictimaiyyətə açıqdır. MCR formatının əsaslandığı NBT formatının spesifikasiyası Minecraft Forge veb saytında mövcuddur. Əlavə olaraq, [Minecraft Wiki](https://minecraft.fandom.com/wiki/Region_file_format) MCR fayl formatı, o cümlədən onun strukturu və dəstəklədiyi müxtəlif məlumat növləri haqqında ətraflı məlumata malikdir.
+MCR fayl formatının spesifikasiyası ictimaiyyətə açıqdır. MCR formatının əsaslandığı NBT formatının spesifikasiyası Minecraft Forge veb saytında mövcuddur. Əlavə olaraq, [Minecraft Wiki](https://minecraft.wiki/w/Region_file_format) MCR fayl formatı, o cümlədən onun strukturu və dəstəklədiyi müxtəlif məlumat növləri haqqında ətraflı məlumata malikdir.
 
 ### MCR fayllarında sıxılmış məlumat
 
-Minecraft MCR fayl formatı sıxılmanı dəstəkləyir. MCR fayl formatı verilənlərin sıxılmış formada saxlanmasına imkan verən [NBT format](https://minecraft.fandom.com/wiki/NBT_format)-ə əsaslanır. Bu, MCR fayllarının ölçüsünü azaltmağa və onların ötürülməsi və saxlanmasını daha səmərəli etməyə kömək edir. Bu, MCR fayl formatının vacib xüsusiyyətidir, çünki oyunçulara böyük Minecraft World ərazi məlumatlarını başqaları ilə paylaşmağa imkan verir.
+Minecraft MCR fayl formatı sıxılmanı dəstəkləyir. MCR fayl formatı verilənlərin sıxılmış formada saxlanmasına imkan verən [NBT format](https://minecraft.wiki/w/NBT_format)-ə əsaslanır. Bu, MCR fayllarının ölçüsünü azaltmağa və onların ötürülməsi və saxlanmasını daha səmərəli etməyə kömək edir. Bu, MCR fayl formatının vacib xüsusiyyətidir, çünki oyunçulara böyük Minecraft World ərazi məlumatlarını başqaları ilə paylaşmağa imkan verir.
 
 ## İstinadlar
 
@@ -43,8 +43,8 @@ Minecraft MCR fayl formatı sıxılmanı dəstəkləyir. MCR fayl formatı veril
 
 * [Minecraft haqqında](https://www.minecraft.net/)
 
-* [Region Fayl Formatı](https://minecraft.fandom.com/wiki/Region_file_format)
+* [Region Fayl Formatı](https://minecraft.wiki/w/Region_file_format)
 
-* [NBT Format](https://minecraft.fandom.com/wiki/NBT_format)
+* [NBT Format](https://minecraft.wiki/w/NBT_format)
 
 

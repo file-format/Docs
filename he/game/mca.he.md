@@ -71,6 +71,6 @@ MCA Payload מורכב מגושים, כאשר כל נתוני נתח מתחיל 
 
 * [על Minecraft](https://www.minecraft.net/)
 
-* [פורמט קובץ אזור](https://minecraft.fandom.com/wiki/Region_file_format)
+* [פורמט קובץ אזור](https://minecraft.wiki/w/Region_file_format)
 
 

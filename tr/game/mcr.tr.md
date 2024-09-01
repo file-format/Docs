@@ -31,11 +31,11 @@ Minecraft MCR dosya formatında bölge, oyun dünyasının 32x32 blokluk alanıd
 
 ## MCR Dosya Formatı Özellikleri
 
-MCR dosya formatı spesifikasyonları kamuya açıktır. MCR formatının dayandığı NBT formatının spesifikasyonları Minecraft Forge web sitesinde mevcuttur. Ek olarak [Minecraft Wiki](https://minecraft.fandom.com/wiki/Region_file_format), MCR dosya formatı hakkında, yapısı ve desteklediği çeşitli veri türleri de dahil olmak üzere ayrıntılı bilgilere de sahiptir.
+MCR dosya formatı spesifikasyonları kamuya açıktır. MCR formatının dayandığı NBT formatının spesifikasyonları Minecraft Forge web sitesinde mevcuttur. Ek olarak [Minecraft Wiki](https://minecraft.wiki/w/Region_file_format), MCR dosya formatı hakkında, yapısı ve desteklediği çeşitli veri türleri de dahil olmak üzere ayrıntılı bilgilere de sahiptir.
 
 ### MCR Dosyalarındaki Sıkıştırılmış Veriler
 
-Minecraft MCR dosya formatı sıkıştırmayı destekler. MCR dosya formatı, verilerin sıkıştırılmış biçimde saklanmasına izin veren [NBT format](https://minecraft.fandom.com/wiki/NBT_format) temeline dayanır. Bu, MCR dosyalarının boyutunun azaltılmasına ve bunların aktarılmasının ve saklanmasının daha verimli olmasına yardımcı olur. Bu, MCR dosya formatının önemli bir özelliğidir çünkü oyuncuların büyük Minecraft World arazi verilerini başkalarıyla paylaşmasına olanak tanır.
+Minecraft MCR dosya formatı sıkıştırmayı destekler. MCR dosya formatı, verilerin sıkıştırılmış biçimde saklanmasına izin veren [NBT format](https://minecraft.wiki/w/NBT_format) temeline dayanır. Bu, MCR dosyalarının boyutunun azaltılmasına ve bunların aktarılmasının ve saklanmasının daha verimli olmasına yardımcı olur. Bu, MCR dosya formatının önemli bir özelliğidir çünkü oyuncuların büyük Minecraft World arazi verilerini başkalarıyla paylaşmasına olanak tanır.
 
 ## Referanslar
 
@@ -43,8 +43,8 @@ Minecraft MCR dosya formatı sıkıştırmayı destekler. MCR dosya formatı, ve
 
 * [Minecraft Hakkında](https://www.minecraft.net/)
 
-* [Bölge Dosya Formatı](https://minecraft.fandom.com/wiki/Region_file_format)
+* [Bölge Dosya Formatı](https://minecraft.wiki/w/Region_file_format)
 
-* [NBT Formatı](https://minecraft.fandom.com/wiki/NBT_format)
+* [NBT Formatı](https://minecraft.wiki/w/NBT_format)
 
 

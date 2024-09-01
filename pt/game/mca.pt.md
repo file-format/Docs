@@ -71,6 +71,6 @@ Depois de instalar o MCEdit, você pode abrir o arquivo da região Anvil seguind
 
 * [Sobre o Minecraft](https://www.minecraft.net/)
 
-* [Formato de arquivo de região](https://minecraft.fandom.com/wiki/Region_file_format)
+* [Formato de arquivo de região](https://minecraft.wiki/w/Region_file_format)
 
 

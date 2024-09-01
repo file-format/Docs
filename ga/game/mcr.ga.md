@@ -31,11 +31,11 @@ I bhformáid comhaid Minecraft MCR, is limistéar bloc 32 × 32 de dhomhan an ch
 
 ## Sonraíochtaí Formáid Comhaid MCR
 
-Tá na sonraíochtaí formáid comhaid MCR ar fáil go poiblí. Tá na sonraíochtaí don fhormáid NBT, ar a bhfuil an fhormáid MCR bunaithe, ar fáil ar shuíomh Gréasáin Minecraft Forge. Ina theannta sin, tá faisnéis mhionsonraithe ag [Minecraft Wiki](https://minecraft.fandom.com/wiki/Region_file_format) maidir le formáid comhaid MCR, lena n-áirítear a struchtúr agus na cineálacha éagsúla sonraí a thacaíonn sé.
+Tá na sonraíochtaí formáid comhaid MCR ar fáil go poiblí. Tá na sonraíochtaí don fhormáid NBT, ar a bhfuil an fhormáid MCR bunaithe, ar fáil ar shuíomh Gréasáin Minecraft Forge. Ina theannta sin, tá faisnéis mhionsonraithe ag [Minecraft Wiki](https://minecraft.wiki/w/Region_file_format) maidir le formáid comhaid MCR, lena n-áirítear a struchtúr agus na cineálacha éagsúla sonraí a thacaíonn sé.
 
 ### Sonraí Comhbhrúite i gComhaid MCR
 
-Tacaíonn formáid comhaid MCR Minecraft le comhbhrú. Tá formáid comhaid MCR bunaithe ar an [NBT format](https://minecraft.fandom.com/wiki/NBT_format) a ligeann do shonraí a stóráil i bhfoirm chomhbhrúite. Cuidíonn sé seo le méid na gcomhad MCR a laghdú agus iad a dhéanamh níos éifeachtaí le haistriú agus stóráil. Is gné thábhachtach é seo den fhormáid comhaid MCR, toisc go gceadaíonn sé d’imreoirí sonraí tír-raon mór Minecraft World a roinnt le daoine eile.
+Tacaíonn formáid comhaid MCR Minecraft le comhbhrú. Tá formáid comhaid MCR bunaithe ar an [NBT format](https://minecraft.wiki/w/NBT_format) a ligeann do shonraí a stóráil i bhfoirm chomhbhrúite. Cuidíonn sé seo le méid na gcomhad MCR a laghdú agus iad a dhéanamh níos éifeachtaí le haistriú agus stóráil. Is gné thábhachtach é seo den fhormáid comhaid MCR, toisc go gceadaíonn sé d’imreoirí sonraí tír-raon mór Minecraft World a roinnt le daoine eile.
 
 ## Tagairtí
 
@@ -43,8 +43,8 @@ Tacaíonn formáid comhaid MCR Minecraft le comhbhrú. Tá formáid comhaid MCR 
 
 * [Maidir le Minecraft](https://www.minecraft.net/)
 
-* [Formáid Comhaid Réigiún](https://minecraft.fandom.com/wiki/Region_file_format )
+* [Formáid Comhaid Réigiún](https://minecraft.wiki/w/Region_file_format )
 
-* [Formáid NBT](https://minecraft.fandom.com/wiki/NBT_format)
+* [Formáid NBT](https://minecraft.wiki/w/NBT_format)
 
 

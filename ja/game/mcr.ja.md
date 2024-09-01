@@ -30,16 +30,16 @@ Minecraft MCR ファイル形式では、リージョンはゲーム世界の 32
 
 ## MCR ファイル形式の仕様
 
-MCR ファイル形式の仕様は公開されています。 MCR 形式の基になっている NBT 形式の仕様は、Minecraft Forge の Web サイトで入手できます。さらに、[Minecraft Wiki](https://minecraft.fandom.com/wiki/Region_file_format) にも MCR ファイル形式に関する詳細情報があり、その構造やサポートされているさまざまなデータ タイプが含まれています。
+MCR ファイル形式の仕様は公開されています。 MCR 形式の基になっている NBT 形式の仕様は、Minecraft Forge の Web サイトで入手できます。さらに、[Minecraft Wiki](https://minecraft.wiki/w/Region_file_format) にも MCR ファイル形式に関する詳細情報があり、その構造やサポートされているさまざまなデータ タイプが含まれています。
 
 ### MCR ファイルの圧縮データ
 
-Minecraft MCR ファイル形式は圧縮をサポートしています。 MCR ファイル形式は、データを圧縮形式で保存できる [NBT 形式](https://minecraft.fandom.com/wiki/NBT_format) に基づいています。これにより、MCR ファイルのサイズが縮小され、転送と保存がより効率的になります。これは MCR ファイル形式の重要な機能であり、プレイヤーは大規模な Minecraft ワールドの地形データを他のユーザーと共有できます。
+Minecraft MCR ファイル形式は圧縮をサポートしています。 MCR ファイル形式は、データを圧縮形式で保存できる [NBT 形式](https://minecraft.wiki/w/NBT_format) に基づいています。これにより、MCR ファイルのサイズが縮小され、転送と保存がより効率的になります。これは MCR ファイル形式の重要な機能であり、プレイヤーは大規模な Minecraft ワールドの地形データを他のユーザーと共有できます。
 
 ## 参考文献
 
 * [Minecraft のワールド エディター](https://www.mcedit.net/)
 * [マインクラフトについて](https://www.minecraft.net/)
-* [地域ファイル形式](https://minecraft.fandom.com/wiki/Region_file_format)
-* [NBT形式](https://minecraft.fandom.com/wiki/NBT_format)
+* [地域ファイル形式](https://minecraft.wiki/w/Region_file_format)
+* [NBT形式](https://minecraft.wiki/w/NBT_format)
 

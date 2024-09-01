@@ -71,6 +71,6 @@ Kun olet asentanut MCEditin, voit avata Anvil-aluetiedoston seuraavasti:
 
 * [Tietoja Minecraftista](https://www.minecraft.net/)
 
-* [Alueen tiedostomuoto](https://minecraft.fandom.com/wiki/Region_file_format)
+* [Alueen tiedostomuoto](https://minecraft.wiki/w/Region_file_format)
 
 

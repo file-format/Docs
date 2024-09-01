@@ -71,6 +71,6 @@
 
 * [Про Minecraft](https://www.minecraft.net/)
 
-* [Формат файлу регіону](https://minecraft.fandom.com/wiki/Region_file_format)
+* [Формат файлу регіону](https://minecraft.wiki/w/Region_file_format)
 
 

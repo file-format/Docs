@@ -71,6 +71,6 @@ MCEdit'i yükledikten sonra Anvil bölge dosyanızı aşağıdaki adımları izl
 
 * [Minecraft Hakkında](https://www.minecraft.net/)
 
-* [Bölge Dosya Formatı](https://minecraft.fandom.com/wiki/Region_file_format)
+* [Bölge Dosya Formatı](https://minecraft.wiki/w/Region_file_format)
 
 

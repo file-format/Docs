@@ -31,11 +31,11 @@ Minecraft MCR faila formātā reģions ir 32x32 bloka apgabals spēļu pasaulē.
 
 ## MCR faila formāta specifikācijas
 
-MCR faila formāta specifikācijas ir publiski pieejamas. NBT formāta specifikācijas, uz kurām ir balstīts MCR formāts, ir pieejamas Minecraft Forge vietnē. Turklāt [Minecraft Wiki](https://minecraft.fandom.com/wiki/Region_file_format) ir arī detalizēta informācija par MCR faila formātu, tostarp tā struktūru un dažādiem datu veidiem, ko tas atbalsta.
+MCR faila formāta specifikācijas ir publiski pieejamas. NBT formāta specifikācijas, uz kurām ir balstīts MCR formāts, ir pieejamas Minecraft Forge vietnē. Turklāt [Minecraft Wiki](https://minecraft.wiki/w/Region_file_format) ir arī detalizēta informācija par MCR faila formātu, tostarp tā struktūru un dažādiem datu veidiem, ko tas atbalsta.
 
 ### Saspiesti dati MCR failos
 
-Minecraft MCR faila formāts atbalsta saspiešanu. MCR faila formāts ir balstīts uz [NBT format](https://minecraft.fandom.com/wiki/NBT_format), kas ļauj saglabāt datus saspiestā formā. Tas palīdz samazināt MCR failu lielumu un padarīt tos efektīvākus pārsūtīšanai un uzglabāšanai. Šī ir svarīga MCR faila formāta funkcija, jo tā ļauj spēlētājiem koplietot lielus Minecraft World reljefa datus ar citiem.
+Minecraft MCR faila formāts atbalsta saspiešanu. MCR faila formāts ir balstīts uz [NBT format](https://minecraft.wiki/w/NBT_format), kas ļauj saglabāt datus saspiestā formā. Tas palīdz samazināt MCR failu lielumu un padarīt tos efektīvākus pārsūtīšanai un uzglabāšanai. Šī ir svarīga MCR faila formāta funkcija, jo tā ļauj spēlētājiem koplietot lielus Minecraft World reljefa datus ar citiem.
 
 ## Atsauces
 
@@ -43,8 +43,8 @@ Minecraft MCR faila formāts atbalsta saspiešanu. MCR faila formāts ir balstī
 
 * [Par Minecraft](https://www.minecraft.net/)
 
-* [Reģiona faila formāts](https://minecraft.fandom.com/wiki/Region_file_format)
+* [Reģiona faila formāts](https://minecraft.wiki/w/Region_file_format)
 
-* [NBT formāts](https://minecraft.fandom.com/wiki/NBT_format)
+* [NBT formāts](https://minecraft.wiki/w/NBT_format)
 
 

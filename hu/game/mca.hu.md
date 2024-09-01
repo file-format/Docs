@@ -71,6 +71,6 @@ Miután telepítette az MCEdit programot, az alábbi lépések végrehajtásáva
 
 * [A Minecraftról](https://www.minecraft.net/)
 
-* [Region File Format](https://minecraft.fandom.com/wiki/Region_file_format)
+* [Region File Format](https://minecraft.wiki/w/Region_file_format)
 
 

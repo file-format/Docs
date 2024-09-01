@@ -30,15 +30,15 @@
 
 ## مواصفات تنسيق ملف MCR
 
-مواصفات تنسيق ملف MCR متاحة للجمهور. تتوفر مواصفات تنسيق NBT، التي يعتمد عليها تنسيق MCR، على موقع Minecraft Forge الإلكتروني. بالإضافة إلى ذلك، يحتوي [Minecraft Wiki](https://minecraft.fandom.com/wiki/Region_file_format) أيضًا على معلومات تفصيلية حول تنسيق ملف MCR، بما في ذلك بنيته وأنواع البيانات المختلفة التي يدعمها.
+مواصفات تنسيق ملف MCR متاحة للجمهور. تتوفر مواصفات تنسيق NBT، التي يعتمد عليها تنسيق MCR، على موقع Minecraft Forge الإلكتروني. بالإضافة إلى ذلك، يحتوي [Minecraft Wiki](https://minecraft.wiki/w/Region_file_format) أيضًا على معلومات تفصيلية حول تنسيق ملف MCR، بما في ذلك بنيته وأنواع البيانات المختلفة التي يدعمها.
 
 ### البيانات المضغوطة في ملفات MCR
 
-يدعم تنسيق ملف Minecraft MCR الضغط. يعتمد تنسيق ملف MCR على [NBT format](https://minecraft.fandom.com/wiki/NBT_format) الذي يسمح بتخزين البيانات في شكل مضغوط. يساعد هذا على تقليل حجم ملفات MCR وجعلها أكثر كفاءة في النقل والتخزين. هذه ميزة مهمة لتنسيق ملف MCR، حيث أنها تسمح للاعبين بمشاركة بيانات تضاريس Minecraft World الكبيرة مع الآخرين.
+يدعم تنسيق ملف Minecraft MCR الضغط. يعتمد تنسيق ملف MCR على [NBT format](https://minecraft.wiki/w/NBT_format) الذي يسمح بتخزين البيانات في شكل مضغوط. يساعد هذا على تقليل حجم ملفات MCR وجعلها أكثر كفاءة في النقل والتخزين. هذه ميزة مهمة لتنسيق ملف MCR، حيث أنها تسمح للاعبين بمشاركة بيانات تضاريس Minecraft World الكبيرة مع الآخرين.
 
 ## مراجع
 
 * [المحرر العالمي لماين كرافت](https://www.mcedit.net/)
 * [حول ماين كرافت](https://www.minecraft.net/)
-* [تنسيق ملف المنطقة](https://minecraft.fandom.com/wiki/Region_file_format)
-* [تنسيق NBT](https://minecraft.fandom.com/wiki/NBT_format)
+* [تنسيق ملف المنطقة](https://minecraft.wiki/w/Region_file_format)
+* [تنسيق NBT](https://minecraft.wiki/w/NBT_format)

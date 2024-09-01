@@ -31,11 +31,11 @@
 
 ## مشخصات فرمت فایل MCR
 
-مشخصات فرمت فایل MCR به صورت عمومی در دسترس است. مشخصات فرمت NBT، که قالب MCR بر اساس آن است، در وب سایت Minecraft Forge موجود است. علاوه بر این، [Minecraft Wiki](https://minecraft.fandom.com/wiki/Region_file_format) همچنین دارای اطلاعات دقیقی در مورد فرمت فایل MCR، از جمله ساختار آن و انواع مختلف داده ای است که پشتیبانی می کند.
+مشخصات فرمت فایل MCR به صورت عمومی در دسترس است. مشخصات فرمت NBT، که قالب MCR بر اساس آن است، در وب سایت Minecraft Forge موجود است. علاوه بر این، [Minecraft Wiki](https://minecraft.wiki/w/Region_file_format) همچنین دارای اطلاعات دقیقی در مورد فرمت فایل MCR، از جمله ساختار آن و انواع مختلف داده ای است که پشتیبانی می کند.
 
 ### داده های فشرده در فایل های MCR
 
-فرمت فایل Minecraft MCR از فشرده سازی پشتیبانی می کند. فرمت فایل MCR بر اساس [NBT format](https://minecraft.fandom.com/wiki/NBT_format) است که اجازه می‌دهد داده‌ها به صورت فشرده ذخیره شوند. این به کاهش اندازه فایل‌های MCR و کارآمدتر کردن آنها برای انتقال و ذخیره کمک می‌کند. این یکی از ویژگی های مهم فرمت فایل MCR است، زیرا به بازیکنان اجازه می دهد تا داده های بزرگ زمین Minecraft World را با دیگران به اشتراک بگذارند.
+فرمت فایل Minecraft MCR از فشرده سازی پشتیبانی می کند. فرمت فایل MCR بر اساس [NBT format](https://minecraft.wiki/w/NBT_format) است که اجازه می‌دهد داده‌ها به صورت فشرده ذخیره شوند. این به کاهش اندازه فایل‌های MCR و کارآمدتر کردن آنها برای انتقال و ذخیره کمک می‌کند. این یکی از ویژگی های مهم فرمت فایل MCR است، زیرا به بازیکنان اجازه می دهد تا داده های بزرگ زمین Minecraft World را با دیگران به اشتراک بگذارند.
 
 ## منابع
 
@@ -43,8 +43,8 @@
 
 * [درباره Minecraft](https://www.minecraft.net/)
 
-* [فرمت فایل منطقه](https://minecraft.fandom.com/wiki/Region_file_format)
+* [فرمت فایل منطقه](https://minecraft.wiki/w/Region_file_format)
 
-* [قالب NBT](https://minecraft.fandom.com/wiki/NBT_format)
+* [قالب NBT](https://minecraft.wiki/w/NBT_format)
 
 

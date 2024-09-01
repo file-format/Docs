@@ -31,11 +31,11 @@ Minecraft MCR -tiedostomuodossa alue on pelimaailman 32x32 lohkoalue. MCR-muoto 
 
 ## MCR-tiedostomuodon tekniset tiedot
 
-MCR-tiedostomuodon tekniset tiedot ovat julkisesti saatavilla. NBT-muodon tekniset tiedot, joihin MCR-muoto perustuu, ovat saatavilla Minecraft Forgen verkkosivustolla. Lisäksi [Minecraft Wiki](https://minecraft.fandom.com/wiki/Region_file_format) sisältää yksityiskohtaisia tietoja MCR-tiedostomuodosta, mukaan lukien sen rakenteesta ja sen tukemista eri tietotyypeistä.
+MCR-tiedostomuodon tekniset tiedot ovat julkisesti saatavilla. NBT-muodon tekniset tiedot, joihin MCR-muoto perustuu, ovat saatavilla Minecraft Forgen verkkosivustolla. Lisäksi [Minecraft Wiki](https://minecraft.wiki/w/Region_file_format) sisältää yksityiskohtaisia tietoja MCR-tiedostomuodosta, mukaan lukien sen rakenteesta ja sen tukemista eri tietotyypeistä.
 
 ### Pakatut tiedot MCR-tiedostoissa
 
-Minecraft MCR -tiedostomuoto tukee pakkausta. MCR-tiedostomuoto perustuu The [NBT format](https://minecraft.fandom.com/wiki/NBT_format) -tiedostoon, joka mahdollistaa tietojen tallentamisen pakatussa muodossa. Tämä auttaa pienentämään MCR-tiedostojen kokoa ja tehostamaan niiden siirtämistä ja tallentamista. Tämä on tärkeä ominaisuus MCR-tiedostomuodossa, koska sen avulla pelaajat voivat jakaa suuria Minecraft World -maastotietoja muiden kanssa.
+Minecraft MCR -tiedostomuoto tukee pakkausta. MCR-tiedostomuoto perustuu The [NBT format](https://minecraft.wiki/w/NBT_format) -tiedostoon, joka mahdollistaa tietojen tallentamisen pakatussa muodossa. Tämä auttaa pienentämään MCR-tiedostojen kokoa ja tehostamaan niiden siirtämistä ja tallentamista. Tämä on tärkeä ominaisuus MCR-tiedostomuodossa, koska sen avulla pelaajat voivat jakaa suuria Minecraft World -maastotietoja muiden kanssa.
 
 ## Viitteet
 
@@ -43,8 +43,8 @@ Minecraft MCR -tiedostomuoto tukee pakkausta. MCR-tiedostomuoto perustuu The [NB
 
 * [Tietoja Minecraftista](https://www.minecraft.net/)
 
-* [Alueen tiedostomuoto](https://minecraft.fandom.com/wiki/Region_file_format)
+* [Alueen tiedostomuoto](https://minecraft.wiki/w/Region_file_format)
 
-* [NBT-muoto](https://minecraft.fandom.com/wiki/NBT_format)
+* [NBT-muoto](https://minecraft.wiki/w/NBT_format)
 
 

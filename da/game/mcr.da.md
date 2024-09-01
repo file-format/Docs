@@ -31,11 +31,11 @@ I Minecraft MCR-filformatet er en region et 32x32 blokområde i spilverdenen. MC
 
 ## MCR filformatspecifikationer
 
-MCR-filformatspecifikationerne er offentligt tilgængelige. Specifikationerne for NBT-formatet, som MCR-formatet er baseret på, er tilgængelige på Minecraft Forge-webstedet. Derudover har [Minecraft Wiki](https://minecraft.fandom.com/wiki/Region_file_format) også detaljerede oplysninger om MCR-filformatet, inklusive dets struktur og de forskellige datatyper, som det understøtter.
+MCR-filformatspecifikationerne er offentligt tilgængelige. Specifikationerne for NBT-formatet, som MCR-formatet er baseret på, er tilgængelige på Minecraft Forge-webstedet. Derudover har [Minecraft Wiki](https://minecraft.wiki/w/Region_file_format) også detaljerede oplysninger om MCR-filformatet, inklusive dets struktur og de forskellige datatyper, som det understøtter.
 
 ### Komprimerede data i MCR-filer
 
-Minecraft MCR-filformatet understøtter komprimering. MCR-filformatet er baseret på The [NBT format](https://minecraft.fandom.com/wiki/NBT_format), der gør det muligt at lagre data i en komprimeret form. Dette hjælper med at reducere størrelsen af MCR-filer og gøre dem mere effektive at overføre og gemme. Dette er en vigtig egenskab ved MCR-filformatet, da det giver spillere mulighed for at dele store Minecraft World-terrændata med andre.
+Minecraft MCR-filformatet understøtter komprimering. MCR-filformatet er baseret på The [NBT format](https://minecraft.wiki/w/NBT_format), der gør det muligt at lagre data i en komprimeret form. Dette hjælper med at reducere størrelsen af MCR-filer og gøre dem mere effektive at overføre og gemme. Dette er en vigtig egenskab ved MCR-filformatet, da det giver spillere mulighed for at dele store Minecraft World-terrændata med andre.
 
 ## Referencer
 
@@ -43,8 +43,8 @@ Minecraft MCR-filformatet understøtter komprimering. MCR-filformatet er baseret
 
 * [Om Minecraft](https://www.minecraft.net/)
 
-* [Region filformat](https://minecraft.fandom.com/wiki/Region_file_format)
+* [Region filformat](https://minecraft.wiki/w/Region_file_format)
 
-* [NBT-format](https://minecraft.fandom.com/wiki/NBT_format)
+* [NBT-format](https://minecraft.wiki/w/NBT_format)
 
 

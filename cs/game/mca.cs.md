@@ -71,6 +71,6 @@ Jakmile máte nainstalovaný MCEdit, můžete otevřít soubor oblasti Anvil pod
 
 * [O Minecraftu](https://www.minecraft.net/)
 
-* [Formát souboru regionu](https://minecraft.fandom.com/wiki/Region_file_format)
+* [Formát souboru regionu](https://minecraft.wiki/w/Region_file_format)
 
 

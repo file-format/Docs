@@ -30,16 +30,16 @@ Dans le format de fichier Minecraft MCR, une région est une zone de bloc 32x32 
 
 ## Spécifications du format de fichier MCR
 
-Les spécifications du format de fichier MCR sont accessibles au public. Les spécifications du format NBT, sur lesquelles repose le format MCR, sont disponibles sur le site Web de Minecraft Forge. De plus, le [Minecraft Wiki](https://minecraft.fandom.com/wiki/Region_file_format) contient également des informations détaillées sur le format de fichier MCR, y compris sa structure et les différents types de données qu'il prend en charge.
+Les spécifications du format de fichier MCR sont accessibles au public. Les spécifications du format NBT, sur lesquelles repose le format MCR, sont disponibles sur le site Web de Minecraft Forge. De plus, le [Minecraft Wiki](https://minecraft.wiki/w/Region_file_format) contient également des informations détaillées sur le format de fichier MCR, y compris sa structure et les différents types de données qu'il prend en charge.
 
 ### Données compressées dans les fichiers MCR
 
-Le format de fichier Minecraft MCR prend en charge la compression. Le format de fichier MCR est basé sur le [format NBT](https://minecraft.fandom.com/wiki/NBT_format) qui permet de stocker les données sous une forme compressée. Cela permet de réduire la taille des fichiers MCR et de les rendre plus efficaces à transférer et à stocker. Il s'agit d'une caractéristique importante du format de fichier MCR, car il permet aux joueurs de partager de grandes données de terrain Minecraft World avec d'autres.
+Le format de fichier Minecraft MCR prend en charge la compression. Le format de fichier MCR est basé sur le [format NBT](https://minecraft.wiki/w/NBT_format) qui permet de stocker les données sous une forme compressée. Cela permet de réduire la taille des fichiers MCR et de les rendre plus efficaces à transférer et à stocker. Il s'agit d'une caractéristique importante du format de fichier MCR, car il permet aux joueurs de partager de grandes données de terrain Minecraft World avec d'autres.
 
 ## Références
 
 * [Éditeur mondial pour Minecraft](https://www.mcedit.net/)
 * [À propos de Minecraft](https://www.minecraft.net/)
-* [Format de fichier de région](https://minecraft.fandom.com/wiki/Region_file_format)
-* [Format NBT](https://minecraft.fandom.com/wiki/NBT_format)
+* [Format de fichier de région](https://minecraft.wiki/w/Region_file_format)
+* [Format NBT](https://minecraft.wiki/w/NBT_format)
 

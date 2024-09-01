@@ -31,11 +31,11 @@ Formatul de fișier MCR este structurat ca o serie de etichete binare denumite, 
 
 ## Specificații pentru formatul fișierului MCR
 
-Specificațiile formatului fișierului MCR sunt disponibile publicului. Specificațiile pentru formatul NBT, pe care se bazează formatul MCR, sunt disponibile pe site-ul Minecraft Forge. În plus, [Minecraft Wiki](https://minecraft.fandom.com/wiki/Region_file_format) are și informații detaliate despre formatul fișierului MCR, inclusiv structura acestuia și diferitele tipuri de date pe care le acceptă.
+Specificațiile formatului fișierului MCR sunt disponibile publicului. Specificațiile pentru formatul NBT, pe care se bazează formatul MCR, sunt disponibile pe site-ul Minecraft Forge. În plus, [Minecraft Wiki](https://minecraft.wiki/w/Region_file_format) are și informații detaliate despre formatul fișierului MCR, inclusiv structura acestuia și diferitele tipuri de date pe care le acceptă.
 
 ### Date comprimate în fișierele MCR
 
-Formatul de fișier Minecraft MCR acceptă compresia. Formatul de fișier MCR se bazează pe [NBT format](https://minecraft.fandom.com/wiki/NBT_format) care permite stocarea datelor într-o formă comprimată. Acest lucru ajută la reducerea dimensiunii fișierelor MCR și la eficientizarea transferului și stocării acestora. Aceasta este o caracteristică importantă a formatului de fișier MCR, deoarece permite jucătorilor să partajeze date mari de teren Minecraft World cu alții.
+Formatul de fișier Minecraft MCR acceptă compresia. Formatul de fișier MCR se bazează pe [NBT format](https://minecraft.wiki/w/NBT_format) care permite stocarea datelor într-o formă comprimată. Acest lucru ajută la reducerea dimensiunii fișierelor MCR și la eficientizarea transferului și stocării acestora. Aceasta este o caracteristică importantă a formatului de fișier MCR, deoarece permite jucătorilor să partajeze date mari de teren Minecraft World cu alții.
 
 ## Referințe
 
@@ -43,8 +43,8 @@ Formatul de fișier Minecraft MCR acceptă compresia. Formatul de fișier MCR se
 
 * [Despre Minecraft](https://www.minecraft.net/)
 
-* [Format de fișier regiune](https://minecraft.fandom.com/wiki/Region_file_format)
+* [Format de fișier regiune](https://minecraft.wiki/w/Region_file_format)
 
-* [Format NBT](https://minecraft.fandom.com/wiki/NBT_format)
+* [Format NBT](https://minecraft.wiki/w/NBT_format)
 
 

@@ -69,4 +69,4 @@ Once you have MCEdit installed, you can open your Anvil region file by following
 
 * [World Editor for Minecraft](https://www.mcedit.net/)
 * [About Minecraft](https://www.minecraft.net/)
-* [Region File Format](https://minecraft.fandom.com/wiki/Region_file_format)
+* [Region File Format](https://minecraft.wiki/w/Region_file_format)

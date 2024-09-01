@@ -31,11 +31,11 @@ No formato de arquivo Minecraft MCR, uma região é uma área de blocos de 32x32
 
 ## Especificações de formato de arquivo MCR
 
-As especificações do formato de arquivo MCR estão disponíveis publicamente. As especificações do formato NBT, no qual o formato MCR se baseia, estão disponíveis no site do Minecraft Forge. Além disso, o [Minecraft Wiki](https://minecraft.fandom.com/wiki/Region_file_format) também possui informações detalhadas sobre o formato de arquivo MCR, incluindo sua estrutura e os vários tipos de dados que ele suporta.
+As especificações do formato de arquivo MCR estão disponíveis publicamente. As especificações do formato NBT, no qual o formato MCR se baseia, estão disponíveis no site do Minecraft Forge. Além disso, o [Minecraft Wiki](https://minecraft.wiki/w/Region_file_format) também possui informações detalhadas sobre o formato de arquivo MCR, incluindo sua estrutura e os vários tipos de dados que ele suporta.
 
 ### Dados compactados em arquivos MCR
 
-O formato de arquivo Minecraft MCR oferece suporte à compactação. O formato de arquivo MCR é baseado no [NBT format](https://minecraft.fandom.com/wiki/NBT_format) que permite que os dados sejam armazenados em um formato compactado. Isso ajuda a reduzir o tamanho dos arquivos MCR e torná-los mais eficientes para transferência e armazenamento. Este é um recurso importante do formato de arquivo MCR, pois permite que os jogadores compartilhem grandes dados de terreno do Minecraft World com outras pessoas.
+O formato de arquivo Minecraft MCR oferece suporte à compactação. O formato de arquivo MCR é baseado no [NBT format](https://minecraft.wiki/w/NBT_format) que permite que os dados sejam armazenados em um formato compactado. Isso ajuda a reduzir o tamanho dos arquivos MCR e torná-los mais eficientes para transferência e armazenamento. Este é um recurso importante do formato de arquivo MCR, pois permite que os jogadores compartilhem grandes dados de terreno do Minecraft World com outras pessoas.
 
 ## Referências
 
@@ -43,8 +43,8 @@ O formato de arquivo Minecraft MCR oferece suporte à compactação. O formato d
 
 * [Sobre o Minecraft](https://www.minecraft.net/)
 
-* [Formato de arquivo de região](https://minecraft.fandom.com/wiki/Region_file_format)
+* [Formato de arquivo de região](https://minecraft.wiki/w/Region_file_format)
 
-* [Formato NBT](https://minecraft.fandom.com/wiki/NBT_format)
+* [Formato NBT](https://minecraft.wiki/w/NBT_format)
 
 

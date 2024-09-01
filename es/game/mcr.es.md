@@ -30,16 +30,16 @@ En el formato de archivo MCR de Minecraft, una región es un área de bloques de
 
 ## Especificaciones del formato de archivo MCR
 
-Las especificaciones del formato de archivo MCR están disponibles públicamente. Las especificaciones para el formato NBT, en las que se basa el formato MCR, están disponibles en el sitio web de Minecraft Forge. Además, [Minecraft Wiki](https://minecraft.fandom.com/wiki/Region_file_format) también tiene información detallada sobre el formato de archivo MCR, incluida su estructura y los diversos tipos de datos que admite.
+Las especificaciones del formato de archivo MCR están disponibles públicamente. Las especificaciones para el formato NBT, en las que se basa el formato MCR, están disponibles en el sitio web de Minecraft Forge. Además, [Minecraft Wiki](https://minecraft.wiki/w/Region_file_format) también tiene información detallada sobre el formato de archivo MCR, incluida su estructura y los diversos tipos de datos que admite.
 
 ### Datos comprimidos en archivos MCR
 
-El formato de archivo MCR de Minecraft admite la compresión. El formato de archivo MCR se basa en el [formato NBT](https://minecraft.fandom.com/wiki/NBT_format) que permite que los datos se almacenen en forma comprimida. Esto ayuda a reducir el tamaño de los archivos MCR y hacerlos más eficientes para transferir y almacenar. Esta es una característica importante del formato de archivo MCR, ya que permite a los jugadores compartir grandes datos de terreno de Minecraft World con otros.
+El formato de archivo MCR de Minecraft admite la compresión. El formato de archivo MCR se basa en el [formato NBT](https://minecraft.wiki/w/NBT_format) que permite que los datos se almacenen en forma comprimida. Esto ayuda a reducir el tamaño de los archivos MCR y hacerlos más eficientes para transferir y almacenar. Esta es una característica importante del formato de archivo MCR, ya que permite a los jugadores compartir grandes datos de terreno de Minecraft World con otros.
 
 ## Referencias
 
 * [Editor mundial para Minecraft](https://www.mcedit.net/)
 * [Acerca de Minecraft](https://www.minecraft.net/)
-* [Formato de archivo de región](https://minecraft.fandom.com/wiki/Region_file_format)
-* [Formato NBT](https://minecraft.fandom.com/wiki/NBT_format)
+* [Formato de archivo de región](https://minecraft.wiki/w/Region_file_format)
+* [Formato NBT](https://minecraft.wiki/w/NBT_format)
 

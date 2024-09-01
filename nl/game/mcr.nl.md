@@ -31,11 +31,11 @@ In het Minecraft MCR-bestandsformaat is een regio een blokgebied van 32x32 van d
 
 ## Specificaties MCR-bestandsindeling
 
-De specificaties van het MCR-bestandsformaat zijn openbaar beschikbaar. De specificaties voor het NBT-formaat, waarop het MCR-formaat is gebaseerd, zijn beschikbaar op de Minecraft Forge-website. Bovendien bevat de [Minecraft Wiki](https://minecraft.fandom.com/wiki/Region_file_format) ook gedetailleerde informatie over het MCR-bestandsformaat, inclusief de structuur en de verschillende gegevenstypen die het ondersteunt.
+De specificaties van het MCR-bestandsformaat zijn openbaar beschikbaar. De specificaties voor het NBT-formaat, waarop het MCR-formaat is gebaseerd, zijn beschikbaar op de Minecraft Forge-website. Bovendien bevat de [Minecraft Wiki](https://minecraft.wiki/w/Region_file_format) ook gedetailleerde informatie over het MCR-bestandsformaat, inclusief de structuur en de verschillende gegevenstypen die het ondersteunt.
 
 ### Gecomprimeerde gegevens in MCR-bestanden
 
-Het Minecraft MCR-bestandsformaat ondersteunt compressie. Het MCR-bestandsformaat is gebaseerd op de [NBT format](https://minecraft.fandom.com/wiki/NBT_format) waarmee gegevens in gecomprimeerde vorm kunnen worden opgeslagen. Dit helpt de grootte van MCR-bestanden te verkleinen en ze efficiënter over te dragen en op te slaan. Dit is een belangrijk kenmerk van het MCR-bestandsformaat, omdat spelers hiermee grote Minecraft World-terreingegevens met anderen kunnen delen.
+Het Minecraft MCR-bestandsformaat ondersteunt compressie. Het MCR-bestandsformaat is gebaseerd op de [NBT format](https://minecraft.wiki/w/NBT_format) waarmee gegevens in gecomprimeerde vorm kunnen worden opgeslagen. Dit helpt de grootte van MCR-bestanden te verkleinen en ze efficiënter over te dragen en op te slaan. Dit is een belangrijk kenmerk van het MCR-bestandsformaat, omdat spelers hiermee grote Minecraft World-terreingegevens met anderen kunnen delen.
 
 ## Referenties
 
@@ -43,8 +43,8 @@ Het Minecraft MCR-bestandsformaat ondersteunt compressie. Het MCR-bestandsformaa
 
 * [Over Minecraft](https://www.minecraft.net/)
 
-* [Regio bestandsformaat](https://minecraft.fandom.com/wiki/Region_file_format)
+* [Regio bestandsformaat](https://minecraft.wiki/w/Region_file_format)
 
-* [NBT-formaat](https://minecraft.fandom.com/wiki/NBT_format)
+* [NBT-formaat](https://minecraft.wiki/w/NBT_format)
 
 

@@ -31,11 +31,11 @@ Minecraft MCR failo formatu regionas yra 32 x 32 blokų žaidimų pasaulio sriti
 
 ## MCR failo formato specifikacijos
 
-MCR failo formato specifikacijos yra viešai prieinamos. NBT formato, kuriuo grindžiamas MCR formatas, specifikacijas galima rasti Minecraft Forge svetainėje. Be to, [Minecraft Wiki](https://minecraft.fandom.com/wiki/Region_file_format) taip pat turi išsamią informaciją apie MCR failo formatą, įskaitant jo struktūrą ir įvairius palaikomus duomenų tipus.
+MCR failo formato specifikacijos yra viešai prieinamos. NBT formato, kuriuo grindžiamas MCR formatas, specifikacijas galima rasti Minecraft Forge svetainėje. Be to, [Minecraft Wiki](https://minecraft.wiki/w/Region_file_format) taip pat turi išsamią informaciją apie MCR failo formatą, įskaitant jo struktūrą ir įvairius palaikomus duomenų tipus.
 
 ### Suspausti duomenys MCR failuose
 
-Minecraft MCR failo formatas palaiko glaudinimą. MCR failo formatas yra pagrįstas [NBT format](https://minecraft.fandom.com/wiki/NBT_format), leidžiančiu duomenis saugoti suglaudinta forma. Tai padeda sumažinti MCR failų dydį ir veiksmingiau perkelti bei saugoti. Tai svarbi MCR failo formato savybė, nes leidžia žaidėjams dalytis dideliais Minecraft World reljefo duomenimis su kitais.
+Minecraft MCR failo formatas palaiko glaudinimą. MCR failo formatas yra pagrįstas [NBT format](https://minecraft.wiki/w/NBT_format), leidžiančiu duomenis saugoti suglaudinta forma. Tai padeda sumažinti MCR failų dydį ir veiksmingiau perkelti bei saugoti. Tai svarbi MCR failo formato savybė, nes leidžia žaidėjams dalytis dideliais Minecraft World reljefo duomenimis su kitais.
 
 ## Nuorodos
 
@@ -43,8 +43,8 @@ Minecraft MCR failo formatas palaiko glaudinimą. MCR failo formatas yra pagrįs
 
 * [Apie „Minecraft“](https://www.minecraft.net/)
 
-* [Regiono failo formatas](https://minecraft.fandom.com/wiki/Region_file_format)
+* [Regiono failo formatas](https://minecraft.wiki/w/Region_file_format)
 
-* [NBT formatas](https://minecraft.fandom.com/wiki/NBT_format)
+* [NBT formatas](https://minecraft.wiki/w/NBT_format)
 
 
